@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,563 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,618 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 65 | [Noches Enteras](https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Noches Enteras](https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup) | 3:51 |
 | 66 | [Sigo Aquí](https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Sigo Aqui](https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV) | 3:14 |
 | 67 | [Para Amarte](https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Para Amarte](https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C) | 3:48 |
-| 68 | [Por un Momento](https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ) | [The cXurch](https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL), [Villanova](https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu) | [Por un Momento](https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs) | 3:31 |
-| 69 | [Lo Tengo](https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Lo Tengo](https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD) | 3:32 |
+| 68 | [Todo Por Ti](https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Todo Por Ti](https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh) | 2:28 |
+| 69 | [Por un Momento](https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ) | [The cXurch](https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL), [Villanova](https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu) | [Por un Momento](https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs) | 3:31 |
 | 70 | [Llegaste Tú](https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Llegaste Tú](https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi) | 4:01 |
-| 71 | [Todo Por Ti](https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Todo Por Ti](https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh) | 2:28 |
+| 71 | [Lo Tengo](https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Lo Tengo](https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD) | 3:32 |
 | 72 | [Amor Cósmico](https://open.spotify.com/track/3028sySnVGjf0iD5UYf4nv) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Amor Cósmico](https://open.spotify.com/album/1006qTPEsgtf7pgjdH9U0U) | 2:59 |
 | 73 | [Dios, Familia & Rap](https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:17 |
 | 74 | [Apocalipsis \- Remix](https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Apocalipsis \(Remix\)](https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
 | 100 | [Corazón](https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW) | [Corazón](https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt) | 3:37 |
 
-Snapshot ID: `MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj`
+Snapshot ID: `MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0`

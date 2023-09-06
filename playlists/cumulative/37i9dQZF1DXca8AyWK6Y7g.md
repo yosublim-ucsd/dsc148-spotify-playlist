@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Aidan Bissett
 
-1,780 songs - 3 day 18 hr 13 min
+1,781 songs - 3 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,6 +855,7 @@
 | [Julian, king of manhattan](https://open.spotify.com/track/69OR7bYhVphLuTd9dyJjT9) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Julian, king of manhattan](https://open.spotify.com/album/3FX6KsHmQJTAdt1a0gqbdP) | 2:08 | 2022-07-01 | 2022-07-09 |
 | [Jump to Fall](https://open.spotify.com/track/23BwqOEvkwfnOawh1VGedD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Jump to Fall](https://open.spotify.com/album/1ZEEGv1mpRFdMDStKkQ5ZO) | 3:45 | 2021-11-05 | 2022-01-15 |
 | [JUNE](https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [JUNE](https://open.spotify.com/album/6S06K8Q4tHG3FGzfx0qQbJ) | 3:32 | 2020-08-11 | 2021-11-10 |
+| [Just a Friend](https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Just a Friend](https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz) | 2:21 | 2023-09-05 |  |
 | [Just A Kiss \(Muah\)](https://open.spotify.com/track/2wN8OUgQDQTCkMSctWq1c2) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Just A Kiss \(Muah\)](https://open.spotify.com/album/2KfGtk53MnZ6Wb7vw4Afsy) | 2:36 | 2022-10-28 | 2023-01-28 |
 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 | 2022-06-17 | 2022-08-01 |
 | [Just Breathe](https://open.spotify.com/track/54Ka3UbuleZljUHYmPMEmL) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Langata](https://open.spotify.com/album/4nuH0xy26EaMxxDJBBHn2z) | 3:37 | 2019-05-26\* | 2020-05-16 |
@@ -1294,7 +1295,7 @@
 | [Roller Coasters Make Me Sad](https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Roller Coasters Make Me Sad](https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1) | 3:11 | 2023-02-24 | 2023-04-23 |
 | [rolling stoned](https://open.spotify.com/track/2qsYgspxjtmTPbKmkPa5Q5) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rolling stoned](https://open.spotify.com/album/4YFr09B6O2mSi1B9Tky80C) | 2:27 | 2023-04-22 | 2023-05-06 |
 | [Rookie of The Year](https://open.spotify.com/track/1Ku0LoTU1UV607hRvIBKI1) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Rookie of The Year](https://open.spotify.com/album/6V82UbeQKRMRWFhepzpMeP) | 2:22 | 2023-01-13 | 2023-01-28 |
-| [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 |  |
+| [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 | 2023-09-06 |
 | [Routine](https://open.spotify.com/track/7aIhTwqikfUfxAO4oQn69H) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Routine](https://open.spotify.com/album/1Tcs9eaYklWGY4WFdJwyek) | 3:11 | 2020-04-28 | 2020-11-13 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2022-06-10 | 2022-06-25 |
 | [ruin my life](https://open.spotify.com/track/2e2RJ0nomb2aAHpzbnL1aV) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [ruin my life](https://open.spotify.com/album/23Z5DQSMp0l6MVIKoAAhBr) | 2:46 | 2021-11-08 | 2022-01-29 |

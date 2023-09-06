@@ -4,14 +4,15 @@
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-34 songs - 2 hr 0 min
+35 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3!4!](https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [All System Go](https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk) | 4:09 | 2023-07-31 |  |
 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 | 2023-07-31 |  |
 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 | 2023-07-31 |  |
-| [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 | 2023-07-31 |  |
+| [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 | 2023-07-31 | 2023-09-06 |
+| [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 | 2023-08-16 |  |
 | [Calling for Spring](https://open.spotify.com/track/2kL5OJKk7rQUnVaOAuQH1u) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Not Others, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1pK9IPTpP03y8j18CAH5Wg) | 4:14 | 2023-08-16 |  |
 | [Calling for Spring \- Instrumental](https://open.spotify.com/track/3JztwqRTiGF58wzcKenuj5) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [Not Others, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1pK9IPTpP03y8j18CAH5Wg) | 4:14 | 2023-08-16 |  |
 | [Come Back Home](https://open.spotify.com/track/5sJTlfMwhlvspaozMic4Ca) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys IV](https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva) | 3:55 | 2023-07-31 |  |

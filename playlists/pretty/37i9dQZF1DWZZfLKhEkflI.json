@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 64238,
+  "num_followers": 64267,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODk1N2IzNDExMzYxYWI1ZWM1YmU2YWY0NmE5NjMwZjc2YzVkYTg5",
+  "snapshot_id": "MCwzNDliZTM4NGVkODZhMGM0NGFhZWQxMDNhMTFhNGJmNTlmYzczNGY2",
   "tracks": [
     {
       "added_at": "2023-08-31 12:10:40",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-08-31 12:10:40",
       "album": {
+        "name": "Six Pieces Of Silver",
+        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
+    },
+    {
+      "added_at": "2023-08-31 12:10:40",
+      "album": {
         "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 465066,
       "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
       "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
-    },
-    {
-      "added_at": "2023-08-31 12:10:40",
-      "album": {
-        "name": "Six Pieces Of Silver",
-        "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
     },
     {
       "added_at": "2023-08-31 12:10:40",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-31 12:10:40",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
-    },
-    {
-      "added_at": "2023-08-31 12:10:40",
-      "album": {
         "name": "Horace Silver And The Jazz Messengers",
         "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 446986,
       "name": "Creepin' In - Remastered",
       "url": "https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP"
+    },
+    {
+      "added_at": "2023-08-31 12:10:40",
+      "album": {
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2023-08-31 12:10:40",

@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "El Bokisucio",
+        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "Gata Oficial",
+      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
+    },
+    {
+      "album": {
         "name": "Ginza (Remix)",
         "url": "https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ"
       },
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 167026,
       "name": "Te la Tiro Pa Que Bailes",
       "url": "https://open.spotify.com/track/4y9Yn8z2cUVvmSPFMEVirk"

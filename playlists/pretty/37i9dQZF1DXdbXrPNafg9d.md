@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,352 likes - 150 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,411 likes - 150 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 |
 | 150 | [As Good As It Gets](https://open.spotify.com/track/1oSFY7EjYTQGqECkCgX9hF) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [As Good As It Gets](https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0) | 2:44 |
 
-Snapshot ID: `MCw4YWJiZTU2Zjc2YWQ1YjFmODM3NGY3OGU0NzQwMTk1NTk5NTg2MWQx`
+Snapshot ID: `MCxiMTQ1ZjBjZWQ2NjcyZGVjNzgzYjZmZjJhZTViNjgyOGFkODQ4YTkz`

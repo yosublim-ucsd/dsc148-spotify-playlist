@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Santa Fe Klan y Snow Tha Product en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,749 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,755 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 13 | [Desde Pequeño](https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Desde Pequeño](https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS) | 3:39 |
 | 14 | [Regar](https://open.spotify.com/track/7HInwQabVqKucZomXgeQe5) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Regar](https://open.spotify.com/album/0asM9LNFjIzieexFwxzMAi) | 1:31 |
 | 15 | [LEGEND](https://open.spotify.com/track/7JD8Mw6Kg58thpwN0nmgMJ) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Lan](https://open.spotify.com/artist/7xWssG0O4bIc1vUhdqMWHg) | [LEGEND](https://open.spotify.com/album/49UsGxXPbBwqLL3HW11TYU) | 3:28 |
-| 16 | [Oscura Ciudad](https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5), [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Oscura Ciudad](https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2) | 2:15 |
+| 16 | [Oscura Ciudad](https://open.spotify.com/track/3vU00kvBMde60Rj3qvH5Re) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5), [Rafaell Cocoa](https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Young Rebxl](https://open.spotify.com/artist/2Yk1UW412GPD81uip2AbkC) | [Oscura Ciudad](https://open.spotify.com/album/1dH4yvk5uHepwzYgvFoNI2) | 2:15 |
 | 17 | [Enemies](https://open.spotify.com/track/4d9It9LqyBQ7v6Vc0Uf4ds) | [Maraví](https://open.spotify.com/artist/7ywfcCHkPBdIZub9j62NBj), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi), [Jota Gallardo](https://open.spotify.com/artist/4sjHfKFlzXIxWzk9o7C0pl) | [Enemies](https://open.spotify.com/album/3vQhD6TXfdvDyy9F2pBTLv) | 2:41 |
 | 18 | [Sanar](https://open.spotify.com/track/5y0wO8g2gKz6ecHaKqPDo5) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Sanar](https://open.spotify.com/album/0NCnTwOzqrQEttbWvug0Li) | 3:08 |
 | 19 | [El Termostato](https://open.spotify.com/track/0LOpk0vOE9igpObJLFd1t8) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Ruta Mexicolombia](https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy) | 4:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 98 | [No Cambio](https://open.spotify.com/track/5cF32ZWheUhlMgCGDAYcZC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [No Cambio](https://open.spotify.com/album/4yzxeUB4e227zOwfs0El0V) | 3:43 |
 | 99 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
 
-Snapshot ID: `MCxkYTA3Yzc2N2Y4MDE3ZDBlOGY0N2FmNjgyNWRkOWEwYjA2YTYxMjQx`
+Snapshot ID: `MCwzZTVjNjdkN2E4MzEzZTJkMzg5ZGY1M2QxZDIyNmU3Y2E5MTQ0OGY0`

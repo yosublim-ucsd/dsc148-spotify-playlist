@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 238939,
       "name": "00:00",
       "url": "https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi"
@@ -7153,6 +7153,28 @@
     },
     {
       "album": {
+        "name": "Free Mami",
+        "url": "https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        },
+        {
+          "name": "NAB FAKE",
+          "url": "https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240681,
+      "name": "Free Mami",
+      "url": "https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN"
+    },
+    {
+      "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
       },
@@ -10220,7 +10242,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 152590,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
@@ -22534,7 +22556,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 289714,
       "name": "Yeah ho v4",
       "url": "https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC"

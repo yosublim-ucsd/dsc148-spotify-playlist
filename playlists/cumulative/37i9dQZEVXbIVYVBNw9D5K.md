@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-745 songs - 1 day 13 hr 27 min
+746 songs - 1 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Al Aramızdan](https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Al Aramızdan](https://open.spotify.com/album/6hxlscwVxcHll5lq1bHnZl) | 2:51 | 2023-04-15 | 2023-06-18 |
 | [Al Sevgilim](https://open.spotify.com/track/0UguFn9xs4WQshHabcxUxH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Al Sevgilim](https://open.spotify.com/album/3ToGL3pGP4wYodmOBxj9lA) | 3:12 | 2022-04-12 | 2022-12-13 |
 | [Alaz Alaz](https://open.spotify.com/track/3lJOIGsFylH947nMpYzfGO) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Başka Hikayeler](https://open.spotify.com/album/10SYL3StnN0Gxqr9jGkDxS) | 2:59 | 2021-03-29 | 2021-09-16 |
-| [Ali Cabbar](https://open.spotify.com/track/1u9oZzM8CTeCMXsdTXaOtY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:09 | 2023-06-26 |  |
+| [Ali Cabbar](https://open.spotify.com/track/1u9oZzM8CTeCMXsdTXaOtY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:09 | 2023-06-26 | 2023-09-06 |
 | [Allah’ından Bul](https://open.spotify.com/track/350aUOZhGtTOK1dQbQFKNc) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Allah’ından Bul](https://open.spotify.com/album/7kvSA869nORwy8uzrHxUko) | 3:01 | 2021-03-27\* | 2021-09-05 |
 | [Altüst Olmuşum](https://open.spotify.com/track/2VnefbnGEWUiCLXHKOtE6x) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/5Zthwi7wMKTFPRUyJpJXqF) | 3:19 | 2021-10-12 | 2022-03-18 |
 | [Altüst Olmuşum](https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/2ZvaHFZIZqdXz4S1CTa1LX) | 3:22 | 2022-03-18 | 2023-07-19 |
@@ -536,6 +536,7 @@
 | [Paranoya](https://open.spotify.com/track/4a0SQDAwphKijSWUXMUEWA) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Paranoya](https://open.spotify.com/album/4jm4N4jJ9NwzS15pfEpmpa) | 2:29 | 2022-02-19 | 2022-03-07 |
 | [Pare](https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Pare](https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI) | 2:54 | 2021-11-14 | 2022-01-15 |
 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 | 2023-03-18 | 2023-04-15 |
+| [Patlat](https://open.spotify.com/track/5qLnFAfF07nwUiARNSWZBJ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Patlat](https://open.spotify.com/album/0nNGqSZR6AA3KPUkngioIf) | 2:09 | 2023-09-05 |  |
 | [Pembe Mezarlık](https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL) | 4:15 | 2022-01-04 | 2022-01-06 |
 | [Pembe Mezarlık](https://open.spotify.com/track/2q2uKIUC8wycTQt0183M40) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Diğer Masallar](https://open.spotify.com/album/1Z6QLsfqXdU78LQWIP9akr) | 4:15 | 2021-11-08 | 2022-01-05 |
 | [Pençe](https://open.spotify.com/track/1ol3ppkqUsSfMTJ9gv3bWP) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Pençe](https://open.spotify.com/album/3vaQY7xSf4KjNSL0Ku0vdg) | 3:49 | 2023-04-15 | 2023-04-30 |

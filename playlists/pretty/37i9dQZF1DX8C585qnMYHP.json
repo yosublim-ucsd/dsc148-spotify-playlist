@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Astoria on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 112775,
+  "num_followers": 112936,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmI4ZmQ5YzFhMDRhNWY3ZGYwYjhiNWM5YzQ0YTZiOGEwMzQ5Mjg0",
+  "snapshot_id": "MCwwNDA1YjhmZTEwODFiZjNjZjEwNWJmODNjODkxOTkzZjMzYTkwMDlm",
   "tracks": [
     {
       "added_at": "2023-08-02 14:55:57",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
     },
     {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "In Phases",
+        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
+      },
+      "artists": [
+        {
+          "name": "Azamiah",
+          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+        }
+      ],
+      "duration_ms": 58202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
+    },
+    {
       "added_at": "2023-06-07 04:04:27",
       "album": {
         "name": "Crispy Moon",
@@ -305,20 +321,20 @@
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "In Phases",
-        "url": "https://open.spotify.com/album/5FYCzyWq5vcfhDLSTh9Sze"
+        "name": "WIREPULLER",
+        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
       },
       "artists": [
         {
-          "name": "Azamiah",
-          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+          "name": "UURYDON",
+          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
         }
       ],
-      "duration_ms": 58202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/7oqm7wpNm8CLNGS1Rn5may"
+      "duration_ms": 64591,
+      "name": "PEEPHOLE, Pt. 3",
+      "url": "https://open.spotify.com/track/064COVGnlYp0gbdjNJRwDI"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -335,22 +351,6 @@
       "duration_ms": 237917,
       "name": "Noche",
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "WIREPULLER",
-        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
-      },
-      "artists": [
-        {
-          "name": "UURYDON",
-          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
-        }
-      ],
-      "duration_ms": 64591,
-      "name": "PEEPHOLE, Pt. 3",
-      "url": "https://open.spotify.com/track/064COVGnlYp0gbdjNJRwDI"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Slowing Everything Down",
-        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
-      },
-      "artists": [
-        {
-          "name": "Nico Less",
-          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
-        }
-      ],
-      "duration_ms": 373163,
-      "name": "Slowing Everything Down",
-      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Pleiades",
@@ -439,6 +423,22 @@
       "duration_ms": 508603,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Slowing Everything Down",
+        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
+      },
+      "artists": [
+        {
+          "name": "Nico Less",
+          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
+        }
+      ],
+      "duration_ms": 373163,
+      "name": "Slowing Everything Down",
+      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "The Shuttle Bus",
+        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
+      },
+      "artists": [
+        {
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "The Shuttle Bus",
+      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+    },
+    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "Blue Angel Sparkling Silver",
@@ -507,22 +523,6 @@
       "duration_ms": 231133,
       "name": "Festive Day",
       "url": "https://open.spotify.com/track/4pAy9DqbUt8SvNb3QbbYsM"
-    },
-    {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "The Shuttle Bus",
-        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
-      },
-      "artists": [
-        {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "The Shuttle Bus",
-      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/7KhXuPNmQxJuxuKXz4UY1V"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Preludes",
+        "url": "https://open.spotify.com/album/6Q8TOtacVTE5deiLFh2hEj"
+      },
+      "artists": [
+        {
+          "name": "Flaer",
+          "url": "https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di"
+        }
+      ],
+      "duration_ms": 188410,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
+    },
+    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "humanus",
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Preludes",
-        "url": "https://open.spotify.com/album/6Q8TOtacVTE5deiLFh2hEj"
+        "name": "Blue Numbers",
+        "url": "https://open.spotify.com/album/2zQda2QHBKRLwFyROckc7y"
       },
       "artists": [
         {
-          "name": "Flaer",
-          "url": "https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di"
+          "name": "Harry Teardrop",
+          "url": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV"
         }
       ],
-      "duration_ms": 188410,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
+      "duration_ms": 97342,
+      "name": "A flickering life",
+      "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -733,22 +749,6 @@
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Blue Numbers",
-        "url": "https://open.spotify.com/album/2zQda2QHBKRLwFyROckc7y"
-      },
-      "artists": [
-        {
-          "name": "Harry Teardrop",
-          "url": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV"
-        }
-      ],
-      "duration_ms": 97342,
-      "name": "A flickering life",
-      "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Snapdragon",
@@ -765,20 +765,24 @@
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "melancholia blue",
-        "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
+        "name": "Wouldn\u2019t It Be Easy?",
+        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
       },
       "artists": [
         {
-          "name": "melancholia blue",
-          "url": "https://open.spotify.com/artist/3O2LmJjYpc9hrMcOpl8UE5"
+          "name": "Oyatan",
+          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L"
         }
       ],
-      "duration_ms": 219468,
-      "name": "eclipse",
-      "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
+      "duration_ms": 149674,
+      "name": "thing about a boy",
+      "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -795,6 +799,22 @@
       "duration_ms": 320640,
       "name": "Eating food and fighting Wizards",
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "melancholia blue",
+        "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
+      },
+      "artists": [
+        {
+          "name": "melancholia blue",
+          "url": "https://open.spotify.com/artist/3O2LmJjYpc9hrMcOpl8UE5"
+        }
+      ],
+      "duration_ms": 219468,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -831,22 +851,18 @@
     {
       "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "Wouldn\u2019t It Be Easy?",
-        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
+        "name": "Opinions",
+        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
       },
       "artists": [
         {
-          "name": "Oyatan",
-          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
-        },
-        {
-          "name": "Manta",
-          "url": "https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L"
+          "name": "Cut 989",
+          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
         }
       ],
-      "duration_ms": 149674,
-      "name": "thing about a boy",
-      "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
+      "duration_ms": 322440,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -865,36 +881,20 @@
       "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-05-24 14:03:48",
       "album": {
-        "name": "Opinions",
-        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/5MmIpCib57g06PJHoRyzXh"
       },
       "artists": [
         {
-          "name": "Cut 989",
-          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
+          "name": "Stack Effect",
+          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
         }
       ],
-      "duration_ms": 322440,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Sophia Oscillations",
-        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
-      },
-      "artists": [
-        {
-          "name": "Mission To The Sun",
-          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
-        }
-      ],
-      "duration_ms": 261433,
-      "name": "Attrition",
-      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
+      "duration_ms": 365294,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -917,36 +917,20 @@
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/5MmIpCib57g06PJHoRyzXh"
+        "name": "Sophia Oscillations",
+        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
       },
       "artists": [
         {
-          "name": "Stack Effect",
-          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
+          "name": "Mission To The Sun",
+          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
         }
       ],
-      "duration_ms": 365294,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
-    },
-    {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 452207,
-      "name": "500 ascended",
-      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
+      "duration_ms": 261433,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -997,22 +981,6 @@
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Gatherings",
-        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Neighbourhood",
-          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
-    },
-    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "Grace",
@@ -1029,20 +997,20 @@
       "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Your Problem as a Mountain",
-        "url": "https://open.spotify.com/album/32ETZyt4DObynaLJF51O90"
+        "name": "Gatherings",
+        "url": "https://open.spotify.com/album/5YGYciOp33ctilmWlgV0h0"
       },
       "artists": [
         {
-          "name": "Party Milk",
-          "url": "https://open.spotify.com/artist/2oM77Kesir4L1mzaQ8O3cR"
+          "name": "Cosmic Neighbourhood",
+          "url": "https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4"
         }
       ],
-      "duration_ms": 96436,
-      "name": "Every Runner",
-      "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
+      "duration_ms": 163320,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -1059,6 +1027,38 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Your Problem as a Mountain",
+        "url": "https://open.spotify.com/album/32ETZyt4DObynaLJF51O90"
+      },
+      "artists": [
+        {
+          "name": "Party Milk",
+          "url": "https://open.spotify.com/artist/2oM77Kesir4L1mzaQ8O3cR"
+        }
+      ],
+      "duration_ms": 96436,
+      "name": "Every Runner",
+      "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
     },
     {
-      "added_at": "2023-06-07 04:04:27",
-      "album": {
-        "name": "Outbound 5.1",
-        "url": "https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc"
-      },
-      "artists": [
-        {
-          "name": "Julian Stetter",
-          "url": "https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj"
-        }
-      ],
-      "duration_ms": 436890,
-      "name": "Bear",
-      "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
-    },
-    {
       "added_at": "2023-05-24 14:03:48",
       "album": {
         "name": "Paris",
@@ -1207,6 +1191,22 @@
       "duration_ms": 206428,
       "name": "Second Attempt",
       "url": "https://open.spotify.com/track/06WxpNhlcee8LxTzumrR2B"
+    },
+    {
+      "added_at": "2023-06-07 04:04:27",
+      "album": {
+        "name": "Outbound 5.1",
+        "url": "https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc"
+      },
+      "artists": [
+        {
+          "name": "Julian Stetter",
+          "url": "https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj"
+        }
+      ],
+      "duration_ms": 436890,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1239,22 +1239,6 @@
       "duration_ms": 384727,
       "name": "Franklin, King of the Beers",
       "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
-    },
-    {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Rikta EP",
-        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
-      },
-      "artists": [
-        {
-          "name": "Subrix",
-          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
-        }
-      ],
-      "duration_ms": 272098,
-      "name": "Rikta",
-      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1293,6 +1277,22 @@
       "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Rikta EP",
+        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
+      },
+      "artists": [
+        {
+          "name": "Subrix",
+          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
+        }
+      ],
+      "duration_ms": 272098,
+      "name": "Rikta",
+      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+    },
+    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "SC46kop",
@@ -1307,6 +1307,22 @@
       "duration_ms": 256000,
       "name": "SC46kop",
       "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Hotel *****",
+        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
+      },
+      "artists": [
+        {
+          "name": "julek ploski",
+          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Main theme, Pt I",
+      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1339,22 +1355,6 @@
       "duration_ms": 237938,
       "name": "Eel II (reduction)",
       "url": "https://open.spotify.com/track/1nFCWcGCm6vYuOMsjptQgD"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hotel *****",
-        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
-      },
-      "artists": [
-        {
-          "name": "julek ploski",
-          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Main theme, Pt I",
-      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -1453,6 +1453,22 @@
       "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
     },
     {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+      },
+      "artists": [
+        {
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+        }
+      ],
+      "duration_ms": 92737,
+      "name": "drive thru",
+      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
+    },
+    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Two Monkeys",
@@ -1467,26 +1483,6 @@
       "duration_ms": 284000,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Sleep Bag",
-        "url": "https://open.spotify.com/album/40M1syabkQfYRZET6ZIaOz"
-      },
-      "artists": [
-        {
-          "name": "Palazzi D'Oriente",
-          "url": "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
-        },
-        {
-          "name": "Michael Mills",
-          "url": "https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV"
-        }
-      ],
-      "duration_ms": 167462,
-      "name": "Sleep Bag",
-      "url": "https://open.spotify.com/track/0h4MS5onjOSx9v1vbeuoQX"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1509,20 +1505,24 @@
       "url": "https://open.spotify.com/track/0sVnurzgsckFEdiljNatS5"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+        "name": "Sleep Bag",
+        "url": "https://open.spotify.com/album/40M1syabkQfYRZET6ZIaOz"
       },
       "artists": [
         {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+          "name": "Palazzi D'Oriente",
+          "url": "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+        },
+        {
+          "name": "Michael Mills",
+          "url": "https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV"
         }
       ],
-      "duration_ms": 92737,
-      "name": "drive thru",
-      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
+      "duration_ms": 167462,
+      "name": "Sleep Bag",
+      "url": "https://open.spotify.com/track/0h4MS5onjOSx9v1vbeuoQX"
     },
     {
       "added_at": "2023-08-23 14:01:12",

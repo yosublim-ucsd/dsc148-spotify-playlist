@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/35PZxX2K1g5oZGm5f1ElmN"
+      },
+      "artists": [
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/0HIcErGFH4fNMUfw6YK0ge"
+    },
+    {
+      "album": {
         "name": "Amber (DJ Mitsu the Beats Remix)",
         "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
       },
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 214468,
       "name": "erase me",
       "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
@@ -2488,6 +2506,24 @@
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
+    },
+    {
+      "album": {
+        "name": "F.N.A.P.",
+        "url": "https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "F.N.A.P.",
+      "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
     },
     {
       "album": {
@@ -2666,7 +2702,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 179266,
       "name": "FINE LINE (feat. Skaai) (Prod. uin)",
       "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
@@ -3243,7 +3279,7 @@
     },
     {
       "album": {
-        "name": "Hearth",
+        "name": "Hearth (feat. YonYon & Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/6cfjtQW2AhPur9ZZAVuTJx"
       },
       "artists": [
@@ -3264,7 +3300,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206017,
-      "name": "Hearth",
+      "name": "Hearth (feat. YonYon & Sagiri S\u00f3l)",
       "url": "https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz"
     },
     {
@@ -4749,6 +4785,32 @@
     },
     {
       "album": {
+        "name": "SUN NO KUNI",
+        "url": "https://open.spotify.com/album/64svoq5jDGIA3PshBnkeQA"
+      },
+      "artists": [
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        },
+        {
+          "name": "tubakiii",
+          "url": "https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "MIKOTO \u301cSUN NO KUNI\u301c",
+      "url": "https://open.spotify.com/track/2jU7SNfwT5AkRQn8aak0Eh"
+    },
+    {
+      "album": {
         "name": "MAHAL",
         "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
@@ -5182,7 +5244,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
@@ -5222,7 +5284,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
@@ -5662,6 +5724,32 @@
       "duration_ms": 199333,
       "name": "on our journey feat.Shingo Sekiguchi",
       "url": "https://open.spotify.com/track/3CbnAD1zSEGhmrYpvJoEdd"
+    },
+    {
+      "album": {
+        "name": "One More Kiss (feat. \u3072\u304b\u308a) [grooveman Spot Remix]",
+        "url": "https://open.spotify.com/album/489m6WCowErD1iqtPkQzVC"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "grooveman Spot",
+          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295500,
+      "name": "One More Kiss (feat. \u3072\u304b\u308a) - grooveman Spot Remix",
+      "url": "https://open.spotify.com/track/0JhKgf3yhZbCxA3Rap4YDT"
     },
     {
       "album": {
@@ -7223,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198656,
+      "name": "Strawberry Night - Prod. by ESME MORI",
+      "url": "https://open.spotify.com/track/1AzxWcwgz45ZSn7Iqd7gIc"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -7398,7 +7504,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 217631,
       "name": "Summer Sequence",
       "url": "https://open.spotify.com/track/6ol145QOAPT14eNl5oAJ4F"
@@ -7544,7 +7650,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 217625,
       "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
       "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
@@ -7628,6 +7734,28 @@
       "duration_ms": 269471,
       "name": "Tableaux \u30bf\u30d6\u30ed\u30fc\u30ba",
       "url": "https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2"
+    },
+    {
+      "album": {
+        "name": "Take a Ride (ft. Amiide)",
+        "url": "https://open.spotify.com/album/2Mn4JgXAB0mlVxuauTbxvF"
+      },
+      "artists": [
+        {
+          "name": "Zuma.",
+          "url": "https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5"
+        },
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Take a Ride - ft. Amiide",
+      "url": "https://open.spotify.com/track/6dJYvuD9jYsdPD2lGmTN3n"
     },
     {
       "album": {
@@ -9720,6 +9848,24 @@
       "duration_ms": 207687,
       "name": "\u6191\u4f9d",
       "url": "https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu"
+    },
+    {
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283142,
+      "name": "\u6307\u5148\u3072\u3068\u3064\u3067",
+      "url": "https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe"
     },
     {
       "album": {

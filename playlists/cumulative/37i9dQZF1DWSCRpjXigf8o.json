@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 199360,
       "name": "Corner Of My Eye",
       "url": "https://open.spotify.com/track/5DDMzzHlpUmZ6ILqZgJFyL"
@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Easy Violence / John Prine",
+        "url": "https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141773,
+      "name": "Easy Violence",
+      "url": "https://open.spotify.com/track/5ej9MfgSDNbc1qiPfrtIP2"
+    },
+    {
+      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN"
       },
@@ -1716,6 +1734,24 @@
       "duration_ms": 227506,
       "name": "Everglow - Edit",
       "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
+    },
+    {
+      "album": {
+        "name": "Better Days (Japanese Edition)",
+        "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Every Second - Japanese Version",
+      "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
     },
     {
       "album": {
@@ -3098,7 +3134,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 178215,
       "name": "It's Gonna Happen Tonight",
       "url": "https://open.spotify.com/track/0aE1YyxYSZUV6z9niSLgMF"
@@ -4626,7 +4662,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 252733,
       "name": "Simulation Swarm",
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
@@ -5016,7 +5052,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 171756,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/3Acg5sKJcCjUQBHA8KjX5F"
@@ -5208,7 +5244,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 193111,
       "name": "The Book Of Love - Single Version",
       "url": "https://open.spotify.com/track/6COtET46lPGVXefrfHUkHI"
@@ -5432,10 +5468,28 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 162160,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
+    },
+    {
+      "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
     },
     {
       "album": {
@@ -6300,6 +6354,24 @@
       "duration_ms": 261840,
       "name": "\u307e\u3070\u3089 - feat. missa",
       "url": "https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30c1\u307f\u305d\u3057\u308b",
+        "url": "https://open.spotify.com/album/2etsMLQKjSwgfoYGgJhgBR"
+      },
+      "artists": [
+        {
+          "name": "7g classic\u2019s",
+          "url": "https://open.spotify.com/artist/09snWBv8zdH6mRDWoLGSWr"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319108,
+      "name": "\u307f\u305d\u3057\u308b",
+      "url": "https://open.spotify.com/track/6cEJHeZgJs1EfRzmL4RWcS"
     },
     {
       "album": {

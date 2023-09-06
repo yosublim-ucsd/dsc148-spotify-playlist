@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > N.I.N.A e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,961 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,000 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [AFRODISÍAK](https://open.spotify.com/track/5OQXDtwM8tqZzxDq2ZudzH) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:09 |
 | 28 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 |
 | 29 | [Morango](https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Morango](https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG) | 2:12 |
-| 30 | [Ai Calica](https://open.spotify.com/track/4nonpXUJXOI2t828fHWIMd) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Ai Calica](https://open.spotify.com/album/0cieg1mjYXu5qzUxsZ6PBn) | 1:40 |
+| 30 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 |
 | 31 | [Delírios E Vibes](https://open.spotify.com/track/5esOsyLikKaUpAUqfeILXC) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 2:44 |
-| 32 | [BAILE \(dnça p vc\)](https://open.spotify.com/track/0smLY1jIV1IuSVlWRqwRDu) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [BAILE \(dnça p vc\)](https://open.spotify.com/album/7EzrYEMoctQGQolFqUe32F) | 3:27 |
-| 33 | [7 Ruas](https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:00 |
-| 34 | [Sem Tédio](https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Sem Tédio](https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc) | 3:00 |
-| 35 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 |
+| 32 | [Ai Calica](https://open.spotify.com/track/4nonpXUJXOI2t828fHWIMd) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Ai Calica](https://open.spotify.com/album/0cieg1mjYXu5qzUxsZ6PBn) | 1:40 |
+| 33 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 |
+| 34 | [7 Ruas](https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:00 |
+| 35 | [Sem Tédio](https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Sem Tédio](https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc) | 3:00 |
 | 36 | [Mal Nenhum](https://open.spotify.com/track/0pV74QCFg904RrD0u9vkgl) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [Urucum](https://open.spotify.com/album/23Zw9VnwKnrSkbGGJQKwPi) | 3:17 |
 | 37 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 38 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [LÁBIOS PRETOS](https://open.spotify.com/track/4mMiGFnKLpay24NVEnPNHN) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Bruna BG](https://open.spotify.com/artist/1djfP54UKe6svnBXiFI4HQ), [Karen Francis](https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU) | [LÁBIOS PRETOS](https://open.spotify.com/album/31CvR2FGEXffTHElWSOmOT) | 4:45 |
 | 50 | [Fora da Rota](https://open.spotify.com/track/72ZaPUEn3S7dFrQaZVemtL) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Fora da Rota](https://open.spotify.com/album/0vUQD3M3ALEwMud3ZC7ZyF) | 2:53 |
 
-Snapshot ID: `MCw5OGU2N2E4YTkyYjIyZTQ5MWU3NjUxYTM2MDAwMzBjMDVlMjIzMzk5`
+Snapshot ID: `MCwwMzU2MDc5ZGY0ZWU3NTI4ZmNiMDk2NmEyYmY5NWJkYzc0MjJkMDg4`

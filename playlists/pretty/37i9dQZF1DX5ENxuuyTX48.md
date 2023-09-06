@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Haven, Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,347 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,380 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 13 | [Hilang Kendali](https://open.spotify.com/track/6g731vMn1AKOPkVS4V3Wx7) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Hilang Kendali](https://open.spotify.com/album/3EMT08L67J3GL2XiI0LhqO) | 3:58 |
 | 14 | [New Cartier](https://open.spotify.com/track/0y74YBXRXymFrPqpuUjE8r) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [New Cartier](https://open.spotify.com/album/33l6k0d5omBpcahZGnKpz2) | 3:36 |
 | 15 | [WANDERLUST](https://open.spotify.com/track/6zVGBoBfrQMnRKjbpq3CCu) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/0yBWjskxPbREPbFqcEQjBl) | 3:16 |
-| 16 | [Loco](https://open.spotify.com/track/7I6wiN4iz0ztsYphZ40C4Q) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Loco](https://open.spotify.com/album/28Gr8JaXJ1wRUMqyM00O7r) | 2:39 |
+| 16 | [Loco](https://open.spotify.com/track/7I6wiN4iz0ztsYphZ40C4Q) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Loco](https://open.spotify.com/album/28Gr8JaXJ1wRUMqyM00O7r) | 2:39 |
 | 17 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 18 | [Amusing](https://open.spotify.com/track/7E1N7m7Qs5J48AZ8tJf9Pn) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [House Parties](https://open.spotify.com/album/3AbQMtvN5oeeQEuMoaxbZQ) | 3:29 |
 | 19 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 |
 | 50 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 |
 
-Snapshot ID: `MCw0Y2M4MTE5OTQ1YzJlZjc1NjE2OWE4ODM4OGU5NmZkZGNlZmUwNDli`
+Snapshot ID: `MCwxYjIxYjg4Y2VkYTc5MjVhYzMwOTdkZjEzZWVmMDkyM2Y0NDg5M2M1`

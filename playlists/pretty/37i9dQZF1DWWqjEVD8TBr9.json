@@ -1,12 +1,12 @@
 {
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. ",
-  "num_followers": 1103075,
+  "num_followers": 1103725,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmJjODE2ZjY0NzdkYWY2ZGVmZTIxNmY3NjE2Y2ZmNDgwYjRlZWE4",
+  "snapshot_id": "MCxmNDU3MTExYTAxOWI5YzNkNTk0MTIwMzI3MjY2NTMxMTQ0Y2Y4YjUw",
   "tracks": [
     {
       "added_at": "2023-08-30 02:15:26",
@@ -29,30 +29,6 @@
       "url": "https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d"
     },
     {
-      "added_at": "2023-08-31 04:00:00",
-      "album": {
-        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
-    },
-    {
       "added_at": "2023-08-09 15:23:13",
       "album": {
         "name": "Super Bowl -Japanese ver.-",
@@ -67,6 +43,22 @@
       "duration_ms": 185013,
       "name": "Super Bowl -Japanese ver.-",
       "url": "https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "Social Path / Super Bowl -Japanese ver.-",
+        "url": "https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf"
     },
     {
       "added_at": "2023-06-02 04:01:00",

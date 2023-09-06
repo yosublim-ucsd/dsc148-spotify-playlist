@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 234466,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
@@ -2410,6 +2410,24 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/3BfGTSaXoQ9AR4jp7UWGEi"
+      },
+      "artists": [
+        {
+          "name": "Keishi Tanaka",
+          "url": "https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191867,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4Y8TqlBfP2p4vWxCPrYLzj"
     },
     {
       "album": {
@@ -4595,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "SWEET BABY",
+        "url": "https://open.spotify.com/album/2FEl5PwaafNtwSSzRy2Vti"
+      },
+      "artists": [
+        {
+          "name": "Ketsumeishi",
+          "url": "https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194894,
+      "name": "SWEET BABY",
+      "url": "https://open.spotify.com/track/02lLEGpT6KjOPIOhBlsTXE"
+    },
+    {
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },
@@ -5708,7 +5744,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 208054,
       "name": "\u305f\u3060\u597d\u304d\u3068\u8a00\u3048\u305f\u3089",
       "url": "https://open.spotify.com/track/1H0l6ZyNQtlJPT5fEx22BQ"
@@ -5989,6 +6025,24 @@
     },
     {
       "album": {
+        "name": "marble",
+        "url": "https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe"
+      },
+      "artists": [
+        {
+          "name": "Ai Otsuka",
+          "url": "https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185366,
+      "name": "\u30de\u30a4\u30ca\u30fc\u306a\u30ad\u30b9 (\u5ddd\u8c37\u7d75\u97f3\u3088\u308a)",
+      "url": "https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn"
+    },
+    {
+      "album": {
         "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
         "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
       },
@@ -6252,7 +6306,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 210960,
       "name": "\u602a\u7363\u306e\u30b5\u30a4\u30ba",
       "url": "https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796"

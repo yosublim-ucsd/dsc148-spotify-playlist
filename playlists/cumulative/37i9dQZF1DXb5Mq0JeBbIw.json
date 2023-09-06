@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Hailey (Acoustic)",
+        "url": "https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208723,
+      "name": "Hailey - Acoustic",
+      "url": "https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI"
+    },
+    {
+      "album": {
         "name": "Heartshaker (Acoustic)",
         "url": "https://open.spotify.com/album/0ft0n5RqLYzLVYFr5AdW22"
       },
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 221600,
       "name": "Tofino",
       "url": "https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh"

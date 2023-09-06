@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 44067,
+  "num_followers": 44121,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmQ0OTMwODljMmIzMTkwZmNmNTY0NzFhM2NlZjZlOGQwOThhMmJm",
+  "snapshot_id": "MCwzNDQyYjg0MDk3YjI5MDAwMjJkMzhkMDg2OTU1OWU4MDljOTIwOTVh",
   "tracks": [
     {
       "added_at": "2023-08-31 17:19:35",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Human By Mistake",
-        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
+        "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
+        "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
       },
       "artists": [
         {
-          "name": "Landhouse",
-          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 415526,
-      "name": "Human By Mistake",
-      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
+      "duration_ms": 299931,
+      "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
+      "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
-        "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
+        "name": "Human By Mistake",
+        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
       },
       "artists": [
         {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Landhouse",
+          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
         }
       ],
-      "duration_ms": 299931,
-      "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
-      "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
+      "duration_ms": 415526,
+      "name": "Human By Mistake",
+      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/22Qv4LBhjZHFCKcnL28wxF"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/3HFIxZpIfmaLKTgxc2guNS"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Taum",
-        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
+        "name": "Hello Planta",
+        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
       },
       "artists": [
         {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 274240,
-      "name": "Torpid",
-      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
+      "duration_ms": 128274,
+      "name": "Hello Planta",
+      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Hello Planta",
-        "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
+        "name": "Taum",
+        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
         }
       ],
-      "duration_ms": 128274,
-      "name": "Hello Planta",
-      "url": "https://open.spotify.com/track/2exLnxLChIibXNuR7VjdBF"
+      "duration_ms": 274240,
+      "name": "Torpid",
+      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Fate (B-Sides)",
-        "url": "https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Fate (B-Sides)",
+        "url": "https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Briefly Human",
-        "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
-      },
-      "artists": [
-        {
-          "name": "Oma Nata",
-          "url": "https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo"
-        }
-      ],
-      "duration_ms": 404301,
-      "name": "Artificial Body",
-      "url": "https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Opal",
         "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 164293,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Briefly Human",
+        "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
+      },
+      "artists": [
+        {
+          "name": "Oma Nata",
+          "url": "https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo"
+        }
+      ],
+      "duration_ms": 404301,
+      "name": "Artificial Body",
+      "url": "https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Past and Future Tense",
         "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 224848,
       "name": "MD 2",
       "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
-        }
-      ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Lovotic",
         "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 347784,
       "name": "Blessed Are The Lovers",
       "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
+        "name": "Music for k\u014d",
+        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 396049,
+      "name": "Outline of a Distant Memory",
+      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
         "name": "Bancha",
         "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
       },
@@ -1627,6 +1643,26 @@
       "duration_ms": 231000,
       "name": "Hot Milk",
       "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Bluet",
+        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "duration_ms": 291096,
+      "name": "Bluet",
+      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1663,38 +1699,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Bluet",
-        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
+        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
+        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
       },
       "artists": [
         {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+          "name": "Federico Bisozzi",
+          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
         },
         {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
         }
       ],
-      "duration_ms": 291096,
-      "name": "Bluet",
-      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Music for k\u014d",
-        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 396049,
-      "name": "Outline of a Distant Memory",
-      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
+      "duration_ms": 191405,
+      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
+      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1719,22 +1739,18 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
-        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
+        "name": "Fighting Modernism EP",
+        "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
       "artists": [
         {
-          "name": "Federico Bisozzi",
-          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
-        },
-        {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
         }
       ],
-      "duration_ms": 191405,
-      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
-      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
+      "duration_ms": 231637,
+      "name": "Sony 7IV",
+      "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1751,22 +1767,6 @@
       "duration_ms": 330673,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Fighting Modernism EP",
-        "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
-      },
-      "artists": [
-        {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
-        }
-      ],
-      "duration_ms": 231637,
-      "name": "Sony 7IV",
-      "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
     }
   ],
   "unique_name": "Electronic X",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,382 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,385 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 25 | [Maple Leaf Rag](https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf) | [Sidney Bechet and his New Orleans Feetwarmers](https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5) | [The Essential Sidney Bechet](https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA) | 2:53 |
 | 26 | [Sensation Rag](https://open.spotify.com/track/63XsvMKaZGmcWMwlQUYpBC) | [Pete Fountain](https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd), [Tony Almerico's All\-Stars](https://open.spotify.com/artist/31JQVJnprBoVpgPph2jcs3) | [Pete Fountain 1955\-1957](https://open.spotify.com/album/6m9Lji8e2hMEMVnhH2P3Lv) | 4:01 |
 | 27 | [Second Line](https://open.spotify.com/track/63JfF4YrOCAcIeDTLa1TTa) | [New Orleans Heritage Hall Jazz Band](https://open.spotify.com/artist/1MCkIPVjX5MQHUTjmBhRFF) | [New Orleans Heritage Hall Jazz Band](https://open.spotify.com/album/3KAFDWjwF2VBNBANhnZ7Nd) | 6:02 |
-| 28 | [Clarinete Marmelade](https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh) | [Black Bottom Stompers](https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe) | [30 Jahre Black Bottom Stompers](https://open.spotify.com/album/622kT8j41pEKEflwXna9lF) | 4:02 |
-| 29 | [There Is a Tavern in the Town](https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1) | [The Dixieland All Stars](https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb) | [Dixieland Jubilee](https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8) | 3:47 |
+| 28 | [There Is a Tavern in the Town](https://open.spotify.com/track/2p5CwEAle0quZEownXxEu1) | [The Dixieland All Stars](https://open.spotify.com/artist/5F3AMgFU3r77TapncUH7Tb) | [Dixieland Jubilee](https://open.spotify.com/album/0jWy8Z5C5iAYDEMFS0Q6Z8) | 3:47 |
+| 29 | [Clarinete Marmelade](https://open.spotify.com/track/5DM8ancodZVJhxloNqEqUh) | [Black Bottom Stompers](https://open.spotify.com/artist/2Ojk9nhFgHi2M8rn5DaPMe) | [30 Jahre Black Bottom Stompers](https://open.spotify.com/album/622kT8j41pEKEflwXna9lF) | 4:02 |
 | 30 | [I'm Gonna Stomp, Mr Henry Lee](https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf) | [Eddie Condon](https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS) | [Presenting Eddie Condon](https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC) | 3:37 |
 | 31 | [Original Dixieland One Step](https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans Vol\. 9](https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T) | 5:35 |
 | 32 | [Ain't She Sweet](https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8) | [Preservation Hall Hot 4 with Duke Dejan](https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x) | [Preservation Hall Hot 4 With Duke Dejan](https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD) | 4:10 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 34 | [Royal Garden Blues](https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR) | [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [The Dukes At Disneyland](https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB) | 6:02 |
 | 35 | [Old Time Religion](https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir) | [Papa Celestin](https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx) | [Marie Laveau](https://open.spotify.com/album/6pF59BdkYmZh6n56gLWWKw) | 3:19 |
 | 36 | [Ring On Her Fingers](https://open.spotify.com/track/0bLM6cdigteELpTKlD2rqI) | [Dixieland Band](https://open.spotify.com/artist/71UbbCG8OqxYBuXcMhQA5E) | [Kings Of Dixieland](https://open.spotify.com/album/6kvwhPapltlF6gvuIgdz71) | 2:19 |
-| 37 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
-| 38 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
+| 37 | [Bugle Boy March](https://open.spotify.com/track/3fbvU3HoMviq8NaxeL6lA2) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/artist/3FE6ZZKTPt5j31R5uPkTYS) | [Paul Barbarin & His New Orleans Jazz Band](https://open.spotify.com/album/3zRlKQfk8NNRwWumbt6FMx) | 5:15 |
+| 38 | [While We Danced at Mardi Gras](https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d) | [Sharkey Bonano](https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM) | [Mardi Gras Parade Music from New Orleans](https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o) | 4:45 |
 | 39 | [Livery Stable Blues \(Barnyard Blues\)](https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 3:01 |
 | 40 | [Roses of Picardy](https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar) | [George Girard](https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud), [Stanley Mendelson](https://open.spotify.com/artist/5JJlaaIvTD9K58QNw8nBFG), [Johnny Senac](https://open.spotify.com/artist/1996CQ5it5fbdZQMLZu3e0), [Abbie Brunies](https://open.spotify.com/artist/2KeWtakcNFeypauMJeqxcI), [Raymond Burke](https://open.spotify.com/artist/1k9qij2IWERN0mwiWfwynE), [Jack Delaney](https://open.spotify.com/artist/2F1gi8KBOgDVX4oRbes9bU) | [George Girard's Band](https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr) | 2:59 |
 | 41 | [Lassa's Trombone](https://open.spotify.com/track/40GGKzPCqYCqhydSjk3d6Y) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [The Best Of Dixieland Volume 2](https://open.spotify.com/album/1RB0fpiwqDNTEn6OECBiTV) | 2:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Jazz Me Blues](https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Pete Fountain Presents The Best Of Dixieland: Al Hirt](https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE) | 3:33 |
 | 55 | [Semper Fidelis](https://open.spotify.com/track/2xWLN4RW1XR7nYXZLBaRzG) | [The Kings Of Dixieland](https://open.spotify.com/artist/0c2LcuGtYHJWSMtAZrx1Bg) | [4th of July Parade: 30 Patriotic Marches for Independence Day](https://open.spotify.com/album/432LmWXgVvgFmHJRc1WQIj) | 3:09 |
 
-Snapshot ID: `MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx`
+Snapshot ID: `MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,907 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,068 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 47 | [Journey \- Mahmut Orhan Remix](https://open.spotify.com/track/3ePcCqdWyYvtyKY95qjCZ0) | [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Journey \(Mahmut Orhan Remix\)](https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6) | 4:22 |
 | 48 | [Escuro](https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv) | [Cut Off](https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1) | [Escuro](https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx) | 4:45 |
 | 49 | [Lala](https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Lala](https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6) | 6:34 |
-| 50 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 |
-| 51 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 |
-| 52 | [Lost](https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Lost](https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0) | 3:39 |
+| 50 | [Lost](https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Lost](https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0) | 3:39 |
+| 51 | [3ala bali](https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Pamela Antoun](https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN) | [3ala bali](https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5) | 3:30 |
+| 52 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 |
 | 53 | [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 |
 | 54 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 |
 | 55 | [Destiny](https://open.spotify.com/track/0saYIsX2qEFViag84KF26X) | [Ata Oztuna](https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Talk About Us](https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0) | 3:16 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 94 | [Arabic Nights](https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Arabic Nights](https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap) | 2:45 |
 | 95 | [Follow You](https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Kanita](https://open.spotify.com/artist/5bXGHYmmARo1ixC6mGHIge) | [Follow You](https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ) | 2:58 |
 | 96 | [Vestido Preto](https://open.spotify.com/track/3eP8ZVZdXc5zqZRlwnb8Vl) | [IV\-IN](https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Riviera](https://open.spotify.com/album/07xbsVc14qhd6b6L7kJXmY) | 4:22 |
-| 97 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 |
-| 98 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 |
+| 97 | [Arab Money](https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC) | [Moonlight](https://open.spotify.com/artist/55IUUMbipoSrUwNO9h3vfJ), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Arab Money](https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5) | 2:16 |
+| 98 | [Lane Moje \- Radio Edit](https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn) | [Lane Moje](https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE) | 2:59 |
 | 99 | [Free](https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Free](https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0) | 3:04 |
 | 100 | [Mosaic](https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Mosaic](https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE) | 3:16 |
 
-Snapshot ID: `MCxmODI0NmQwMTZiODI1ODA0MTQ2ZGI5YWRmMGI4NDYzNDlhZmE4Nzdi`
+Snapshot ID: `MCxiNzVjZWE0OTM4MDBjMTNmMzU4OTU4NTYzZDJjZTIyZjgyNGRmZjZh`

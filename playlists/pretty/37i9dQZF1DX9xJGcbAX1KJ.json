@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 15629,
+  "num_followers": 15642,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM0NGFmMDc4NTU2ZDBkZThkNWNkYzlmYzUyZGI5MDMzODRkOTU2",
+  "snapshot_id": "MCxlZGZkNDAyZmYyMzNiMzM2YTUyNDFlYzRiYTNmN2NiZjhkNDIwNzA0",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -403,22 +403,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 225767,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 225767,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb"
     },
     {
       "added_at": "2019-02-22 20:19:46",

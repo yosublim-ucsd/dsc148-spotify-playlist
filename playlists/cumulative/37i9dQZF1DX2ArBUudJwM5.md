@@ -2,7 +2,7 @@
 
 ### [EQUAL Argentina](https://open.spotify.com/playlist/37i9dQZF1DX2ArBUudJwM5)
 
-> Estamos listas para un festival único • <a href="https://www.ticketek.com.ar/festival\-equal/hipodromo\-de\-palermo">Comprá tu entrada acá</a> <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
+> Estamos listas para un festival único\. <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
 799 songs - 1 day 19 hr 0 min
 

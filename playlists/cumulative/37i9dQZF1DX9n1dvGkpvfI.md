@@ -2,7 +2,7 @@
 
 ### [COUNTER//CULTURE: Keith Herron of Advisry](https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI)
 
-> Challenging norms, breaking boundaries with Advisry's Season 10 Runway for NYFW, Mixtape by Creative Director, Keith Herron.
+> Challenging norms, breaking boundaries with Advisry's Season 10 Runway for NYFW, Mixtape by Keith Herron.
 
 169 songs - 10 hr 18 min
 

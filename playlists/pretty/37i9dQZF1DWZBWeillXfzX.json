@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19862,
+  "num_followers": 19886,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz",
+  "snapshot_id": "MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -717,26 +717,6 @@
       "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Bottleneck Stomp",
-        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
-      },
-      "artists": [
-        {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 201859,
-      "name": "Bottleneck Stomp",
-      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Anytime You Need Me",
@@ -767,6 +747,26 @@
       "duration_ms": 174892,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Bottleneck Stomp",
+        "url": "https://open.spotify.com/album/4FQBBIdc4T0fsxHAdnavFC"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "duration_ms": 201859,
+      "name": "Bottleneck Stomp",
+      "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
     },
     {
       "added_at": "2020-10-21 17:37:12",

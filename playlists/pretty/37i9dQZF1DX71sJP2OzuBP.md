@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,625 likes - 101 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,636 likes - 101 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 10 | [我經過風暴 \(電影《我經過風暴》同名主題推廣曲\)](https://open.spotify.com/track/3R3p01v4bLwTrAhmcFibdm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [我經過風暴 \(電影《我經過風暴》同名主題推廣曲\)](https://open.spotify.com/album/6Vtt3GalP0vso0Xykfztfi) | 3:20 |
 | 11 | [無名氏敬上](https://open.spotify.com/track/4aT1caPb2yGmrXzrSN468J) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [無名氏敬上](https://open.spotify.com/album/0nWfuwQJLTGJvFXZYfht0R) | 4:17 |
 | 12 | [听雨说](https://open.spotify.com/track/16GE6UB5S24IrvqmahU7CA) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [听雨说](https://open.spotify.com/album/2vkr0ahxqn49EdITMEJyAD) | 3:14 |
-| 13 | [海洋日記 Ocean Diary \(feat\. 舒米恩Suming\)](https://open.spotify.com/track/5KvNMaFwXzkVOJQ3yKGM4a) | [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI), [舒米恩](https://open.spotify.com/artist/18CQEyGcO47OHBpQZwYNzy) | [海洋日記 Ocean Diary–海洋日記影集主題曲](https://open.spotify.com/album/3xfcI5wJJFCDzeM65vZzmp) | 3:20 |
+| 13 | [海洋日記 Ocean Diary \(feat\. 舒米恩Suming\)](https://open.spotify.com/track/5KvNMaFwXzkVOJQ3yKGM4a) | [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI), [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [海洋日記 Ocean Diary–海洋日記影集主題曲](https://open.spotify.com/album/3xfcI5wJJFCDzeM65vZzmp) | 3:20 |
 | 14 | [i don't lose sleep anymore](https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [i don't lose sleep anymore](https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq) | 3:15 |
 | 15 | [Song About Life](https://open.spotify.com/track/5bqpnucqaEEP4dPiWNobB1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Song About Life](https://open.spotify.com/album/2mtvO38V7IvCZiRsokojqz) | 2:52 |
 | 16 | [整個夏天都愛不完](https://open.spotify.com/track/2nCfKd6RT9hW0jB3IdkKUW) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [整個夏天都愛不完](https://open.spotify.com/album/4PbzwanOpzKtoIbFT53SLQ) | 3:08 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [查無此心 \- 《查無此心》電影主題曲](https://open.spotify.com/track/0QMtpUJcjt7IEl7FFSd8AJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [查無此心 \(《查無此心》電影主題曲\)](https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl) | 4:38 |
 | 101 | [一起走](https://open.spotify.com/track/1G1a7LgrGs0shictQuHBn1) | [Pika Chiu](https://open.spotify.com/artist/5SIsztzgW9ErZcWRnp2hdS) | [一起走](https://open.spotify.com/album/3QSifyxhS4nmIljCrxU3KR) | 3:51 |
 
-Snapshot ID: `MCw0NmFhNGY4NDc5M2JlMjEwZmRhZjA0NGM0NWZlMzNlZWIwYzZiNWYw`
+Snapshot ID: `MCwyMDhjYzQ5MGFiYWQ5NmVmNGYwZGM5Y2I4M2Q0YWQ2YzgyNTQxZTc0`

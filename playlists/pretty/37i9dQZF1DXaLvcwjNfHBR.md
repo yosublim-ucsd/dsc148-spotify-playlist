@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,536 likes - 77 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,601 likes - 77 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 76 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 | 77 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 |
 
-Snapshot ID: `MCw0MGM0ZTA5Njc4ZWViYzVjNjk3ZmQxMzgxYmU4NWEwNjJkY2I0ZThm`
+Snapshot ID: `MCxmOGZlM2QzNjAwNGY4NjkwYmQyMWNhNDFkYTA1MjFiYjZhMDYzOTVj`

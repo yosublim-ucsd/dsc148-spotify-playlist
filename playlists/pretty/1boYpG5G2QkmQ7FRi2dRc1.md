@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 304,943 likes - 30 songs - 1 hr 41 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 304,932 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 11 | [My Mind](https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Jack The House 4](https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl) | 2:56 |
 | 12 | [I Got You](https://open.spotify.com/track/11xY5dCeBsU1reDOfJdwjq) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [I Got You](https://open.spotify.com/album/4Teix1bIpmh3moHcHFcEQr) | 3:02 |
 | 13 | [MIND CONTROL](https://open.spotify.com/track/6eaJLDbCruSoHKbOtjg3KE) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [MIND CONTROL](https://open.spotify.com/album/51r8MDu4oUjAud1viMuQeP) | 2:20 |
-| 14 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 3:31 |
+| 14 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 2:14 |
 | 15 | [Loop](https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loop](https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW) | 3:10 |
 | 16 | [Groovemasta](https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Groovemasta / Beat It Up](https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J) | 4:12 |
 | 17 | [Goons](https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9) | [Goons](https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij) | 3:21 |

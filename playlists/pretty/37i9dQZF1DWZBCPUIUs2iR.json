@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 553440,
+  "num_followers": 553900,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWJhNjE0NzdkN2VhNTU1YjEwODM3YmNiNjQ4Mjk0YzQzZGVmYThk",
+  "snapshot_id": "MCwxNjBmNzJhMDhkNGI0NzE2YTUyYWZmMjFmMmI5YTUxOTdjYzNmNDQ2",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Just Who I Am: Poets & Pirates",
-        "url": "https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 285280,
-      "name": "Don't Blink",
-      "url": "https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Greatest Hits - Finest Performances",
         "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 174666,
       "name": "Fightin Side Of Me",
       "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Just Who I Am: Poets & Pirates",
+        "url": "https://open.spotify.com/album/7E1BiscM3O6aifwtcLdUG7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 285280,
+      "name": "Don't Blink",
+      "url": "https://open.spotify.com/track/6reuJxDtjebwc9FB6rNpp0"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "All The People Are Talkin'",
         "url": "https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 177693,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/5EPQbU0wk70Btiu9onZR48"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2023-02-14 19:26:52",

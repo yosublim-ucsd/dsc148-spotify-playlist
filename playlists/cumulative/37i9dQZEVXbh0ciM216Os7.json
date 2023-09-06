@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2qWOTKZpovfDaiqfwa78G5"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 210672,
       "name": "Do You Remember Country Music",
       "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 300360,
       "name": "Go Your Own Way - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
       "url": "https://open.spotify.com/track/2McBjVt8cRlZBKeIKLI06Y"
@@ -4688,6 +4688,32 @@
       "duration_ms": 285859,
       "name": "Happy - Live Acoustic From Space",
       "url": "https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3"
+    },
+    {
+      "album": {
+        "name": "Flying Objects",
+        "url": "https://open.spotify.com/album/2iyBzf6DkOwnAkxGsPv3tP"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137945,
+      "name": "Harlem World 97 (feat. Estelle)",
+      "url": "https://open.spotify.com/track/26R9jIj6avrEzoIGrRz5ub"
     },
     {
       "album": {
@@ -5798,7 +5824,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 164911,
       "name": "JUMPIN - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
@@ -6282,7 +6308,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 188186,
       "name": "Like It Like That (feat. Chief Adjuah)",
       "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
@@ -7410,7 +7436,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
@@ -8058,7 +8084,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
@@ -9976,7 +10002,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 443464,
       "name": "Stella Blue (Take 5) [Not Slated] - 8/7/73",
       "url": "https://open.spotify.com/track/5N1zOclIabkCcRcRAyWaQc"
@@ -12382,7 +12408,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 796202,
       "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
       "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
@@ -12720,7 +12746,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 293122,
       "name": "Witchcraft (feat. Robert Glasper)",
       "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
@@ -12886,7 +12912,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"

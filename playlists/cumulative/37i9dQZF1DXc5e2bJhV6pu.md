@@ -4,7 +4,7 @@
 
 > 
 
-1,436 songs - 3 day 9 hr 33 min
+1,437 songs - 3 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/album/5cOhR878H8hC3UsxYq5Xyv) | 3:49 | 2019-07-29\* | 2019-08-09 |
 | [All Of My Life](https://open.spotify.com/track/046lPiPxQIXxyBOO2jpnp4) | [Trixxie](https://open.spotify.com/artist/5G9jPTXdfaEAHy7HfyVs59), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [All Of My Life](https://open.spotify.com/album/4j1Qw0qH4qo1TeISQdXy1P) | 2:35 | 2019-07-31 | 2022-04-15 |
 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 | 2019-07-31 | 2019-10-26 |
+| [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2023-08-03 |  |
 | [All Star](https://open.spotify.com/track/7ntXYU4zboGuq5ZunkrXRB) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/183GEdjm0dJezlc8CeBLYu) | 3:20 | 2021-05-15 | 2021-05-26 |
 | [All Summer Long](https://open.spotify.com/track/368S2jjTfDk9Hk9x9YDzwj) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/4BTUT5Nn24jXu0MdImRVct) | 4:56 | 2019-07-31 | 2022-04-12 |
 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 | 2023-02-12 |  |
@@ -1320,7 +1321,7 @@
 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-21 | 2023-06-01 |
 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 | 2019-08-08 | 2019-08-09 |
 | [Up All Night](https://open.spotify.com/track/5RugEn59RTnWE4IM4uBaC9) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Up All Night](https://open.spotify.com/album/0YFbpYgj1TyV9P8L1n8XbW) | 2:41 | 2021-03-07 | 2022-04-10 |
-| [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-03-14 |  |
+| [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2021-03-14 | 2023-09-06 |
 | [Ur Eyez \(feat\. Al Wright\)](https://open.spotify.com/track/6kr32AlGspfKtHjVhaAMFo) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Al Wright](https://open.spotify.com/artist/1xSUnm0Lnpusoq3cYTFSLS) | [Ur Eyez \(feat\. Al Wright\)](https://open.spotify.com/album/2eDRQs0mLY79SuygWaxUhY) | 3:23 | 2019-07-31 | 2022-03-31 |
 | [Ur So F\*\*kInG cOoL](https://open.spotify.com/track/7A9rdAz2M6AjRwOa34jxIP) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Ur So F\*\*kInG cOoL](https://open.spotify.com/album/0ZrEytwQc2Oj53GcBm8bEB) | 2:52 | 2020-06-12 | 2021-05-26 |
 | [Used To Love \(with Dean Lewis\)](https://open.spotify.com/track/7pWK1kMgHy5lNNiIfuRbkP) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Used To Love \(with Dean Lewis\)](https://open.spotify.com/album/3YD1qyD9KPFzzTK1UC1Gvo) | 3:56 | 2019-11-18 | 2022-04-20 |

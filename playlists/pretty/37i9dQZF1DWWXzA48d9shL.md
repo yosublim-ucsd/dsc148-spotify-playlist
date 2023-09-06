@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 ### [TIRADE](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> The home of dark trap\. Rap from hell\. Cover: do not resurrect
+> Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,855 likes - 109 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,253 likes - 109 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 |
-| 2 | [paranoia agent](https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [paranoia agent](https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7) | 2:57 |
-| 3 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
+| 1 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
+| 2 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 |
+| 3 | [paranoia agent](https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [paranoia agent](https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7) | 2:57 |
 | 4 | [Nightmare on Peachtree Street \(feat\. Freddie Dredd\)](https://open.spotify.com/track/1iSNk5qM7aScyTL3508KQ6) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [Nightmare on Peachtree Street \(feat\. Freddie Dredd\)](https://open.spotify.com/album/6bgMTwZUkaJeNvlvlM8u9R) | 3:12 |
-| 5 | [No Gimmix](https://open.spotify.com/track/2xWJfldVUKz8crbk24aYsP) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [HOT VODKA 2](https://open.spotify.com/album/2dRkcZCXkFtqGO7gCO0FVd) | 2:45 |
-| 6 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
+| 5 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 |
+| 6 | [No Gimmix](https://open.spotify.com/track/2xWJfldVUKz8crbk24aYsP) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [HOT VODKA 2](https://open.spotify.com/album/2dRkcZCXkFtqGO7gCO0FVd) | 2:45 |
 | 7 | [Garden Tomb](https://open.spotify.com/track/1VEcAxXahWTAr6lgQNOfMh) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KEVLAR MONEY BAGS](https://open.spotify.com/album/1zw6CTbNWXZNdHaQjRHsF2) | 2:54 |
 | 8 | [Cathedral Ward](https://open.spotify.com/track/6nyK8ySEyC7ZNu75vbCTkQ) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [Cathedral Ward](https://open.spotify.com/album/7xVeXYmgTAJYMSAbyOKWKY) | 2:30 |
 | 9 | [Speaker Full of Phonk](https://open.spotify.com/track/5CxT2SFsvdYHh83ih8PZmo) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Speaker Full of Phonk](https://open.spotify.com/album/1GYQzDHxvS6RDTooYGfo5u) | 1:53 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 108 | [NEXTBOT!](https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR) | 1:30 |
 | 109 | [BALL LIKE THIS](https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BALL LIKE THIS](https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ) | 2:02 |
 
-Snapshot ID: `MCxmZmVkOWE3NGRlMGMzZWFiODY0MjZhYWE5Nzk1ZGE0YzZjOTk0OTQz`
+Snapshot ID: `MCw5ZTRmMjk2NzI3ZTk0NzUxMDFkNDIxOTVlOGFjMTgzYjdkOTQwNjBh`

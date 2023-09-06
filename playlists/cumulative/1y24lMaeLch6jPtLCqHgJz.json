@@ -97,6 +97,24 @@
     },
     {
       "album": {
+        "name": "African Vibes",
+        "url": "https://open.spotify.com/album/1QPmme7H2Xy7SGnDuf4n2o"
+      },
+      "artists": [
+        {
+          "name": "Karasso",
+          "url": "https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186268,
+      "name": "African Vibes",
+      "url": "https://open.spotify.com/track/5k1EMCwlkW9uCFnz5G8JZG"
+    },
+    {
+      "album": {
         "name": "Ain't Gonna Break",
         "url": "https://open.spotify.com/album/2nueTq2RzhiXpqrUcGDfY9"
       },

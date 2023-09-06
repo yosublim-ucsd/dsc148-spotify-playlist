@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Vins in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,178 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,193 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [ME IN TE](https://open.spotify.com/track/5mGIE4EskZ2guDm1gKZPj8) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [ME IN TE](https://open.spotify.com/album/3FZxwI7F2232N7DRcj5jrX) | 3:26 |
 | 50 | [SANGUE CALDO](https://open.spotify.com/track/0G9LVojrr4a6heAOEmoaBX) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [SANGUE CALDO](https://open.spotify.com/album/5tdfN8S68psImgoiru1bfT) | 2:05 |
 
-Snapshot ID: `MCw4NzMzMzVlN2MwMjVlMDQ1MzBkMDk0ZmZjNmEyNzc4NDBlOWNhNzcz`
+Snapshot ID: `MCxlNzJiODg2NmY1Njg0ZjQ2MzFlNzE3OTk2ODliNzAwNTk0ODJkZWI4`

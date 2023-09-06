@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 108977,
+  "num_followers": 109055,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTZhZjQ4NTgwN2ZiNzc1MDA3NWMzOGIxMzlmNTFjZDA1ZGY1MDgx",
+  "snapshot_id": "MCxiNDgxMWMyZmI2MWJhZGUyN2NlYjJkZTUwNDE3YjBlNWRjMjg1N2Ri",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Holy Water (Church Sessions)",
         "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 464809,
       "name": "Holy Water - Church Sessions",
       "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Champion (Studio Version)",
-        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
-      },
-      "artists": [
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Champion - Studio Version",
-      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Psalm 42 (Loudest Praise)",
         "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 355820,
       "name": "Psalm 42 (Loudest Praise)",
       "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The Wait: Silence The Noise (Live)",
-        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "I Will Wait - Live",
-      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Todos A La Mesa",
         "url": "https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 279000,
       "name": "Behold Him (feat. Kim Walker-Smith)",
       "url": "https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "The Wait: Silence The Noise (Live)",
+        "url": "https://open.spotify.com/album/3DieBlaZb3oBUjd8Stuxjd"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "I Will Wait - Live",
+      "url": "https://open.spotify.com/track/61w1MUwkJwRYUD4Wxn7dHz"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Canvas And Clay",
-        "url": "https://open.spotify.com/album/0ieC6he8hVPvd5bKhlUS8W"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Canvas And Clay",
-      "url": "https://open.spotify.com/track/0HKt9URk2klsxEqbXqAycM"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Calm the Storm (Live)",
         "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 311406,
       "name": "Calm the Storm (Live)",
       "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Canvas And Clay",
+        "url": "https://open.spotify.com/album/0ieC6he8hVPvd5bKhlUS8W"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Canvas And Clay",
+      "url": "https://open.spotify.com/track/0HKt9URk2klsxEqbXqAycM"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
-      },
-      "artists": [
-        {
-          "name": "Rita Springer",
-          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
-        }
-      ],
-      "duration_ms": 303141,
-      "name": "Midnight - Radio Version",
-      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Feel Good About It",
         "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        }
+      ],
+      "duration_ms": 303141,
+      "name": "Midnight - Radio Version",
+      "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Jesus Is The Key",
+        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 389187,
+      "name": "Jesus Is The Key",
+      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "REBELS",
         "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 390579,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/20QaupcrbKIWLhkpXgKSu9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Jesus Is The Key",
-        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 389187,
-      "name": "Jesus Is The Key",
-      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Reign (Live)",
-        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 390800,
-      "name": "You Reign - Live",
-      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "I Heard a Song I Can't Ignore",
         "url": "https://open.spotify.com/album/53YgGrvY32WGW97USevt8m"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 314693,
       "name": "Never See the End",
       "url": "https://open.spotify.com/track/7rPewRYX89xFF9C64DrcZQ"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Reign (Live)",
+        "url": "https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 390800,
+      "name": "You Reign - Live",
+      "url": "https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Only Name",
+        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
+      },
+      "artists": [
+        {
+          "name": "Bridge Worship",
+          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
+        }
+      ],
+      "duration_ms": 312132,
+      "name": "Only Name",
+      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "The Blessing (feat. Maranda Curtis) [Song Session]",
         "url": "https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 312018,
       "name": "He Wears A Crown - Live",
       "url": "https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Only Name",
-        "url": "https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC"
-      },
-      "artists": [
-        {
-          "name": "Bridge Worship",
-          "url": "https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK"
-        }
-      ],
-      "duration_ms": 312132,
-      "name": "Only Name",
-      "url": "https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2343,22 +2343,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Holy Holy Here With Me (Live)",
-        "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
+        "name": "Lord You Have My Heart (feat. Martin Smith)",
+        "url": "https://open.spotify.com/album/2ruV9qUcGIV9SKOQpHrINS"
       },
       "artists": [
         {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         },
         {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/4bY9UB7BwlfZCAnKJPzGIz"
         }
       ],
-      "duration_ms": 297563,
-      "name": "Holy Holy Here With Me - Live",
-      "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
+      "duration_ms": 267467,
+      "name": "Lord You Have My Heart (feat. Martin Smith)",
+      "url": "https://open.spotify.com/track/5zQBaedwtzHmC1z5OSNqvX"
     }
   ],
   "unique_name": "New & Bold",

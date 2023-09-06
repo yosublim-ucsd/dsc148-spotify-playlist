@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer",
-  "num_followers": 582821,
+  "num_followers": 583515,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzRlNzNiMmRlZTU4NTRkYTY4ZTkzNGU4OWMwMzU4YTY1OWQwNjNi",
+  "snapshot_id": "MCxmZTA3YmM5NDNhODdkZDI1Yzg0OTQ3ZDU5NjcyOGZjNTIyM2E2NGI3",
   "tracks": [
     {
       "added_at": "2023-07-17 12:34:23",
@@ -251,6 +251,30 @@
       "duration_ms": 202991,
       "name": "Adiyaathi - From \"Paramporul\"",
       "url": "https://open.spotify.com/track/0sXGEJoOeNhzpMBKYKtDoO"
+    },
+    {
+      "added_at": "2023-09-05 12:45:01",
+      "album": {
+        "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\") (Tamil)",
+        "url": "https://open.spotify.com/album/2qQOJnV5oP3yZ1uLABt6ek"
+      },
+      "artists": [
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ajay Krishnaa",
+          "url": "https://open.spotify.com/artist/7FatQU5xHO9JpAyqOVWP9k"
+        }
+      ],
+      "duration_ms": 260160,
+      "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\") (Tamil)",
+      "url": "https://open.spotify.com/track/2gDSqW7AYz0M8j0GASqAI8"
     },
     {
       "added_at": "2023-08-22 12:45:20",
@@ -549,30 +573,6 @@
       "url": "https://open.spotify.com/track/4mD9J8a8wVKZsmASl4lr7z"
     },
     {
-      "added_at": "2023-08-25 13:32:41",
-      "album": {
-        "name": "Mathagam (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3GSxcMXlPuIPlNdqzC3eUB"
-      },
-      "artists": [
-        {
-          "name": "Darbuka Siva",
-          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
-        },
-        {
-          "name": "Pavithra Chari",
-          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
-        },
-        {
-          "name": "Shilvi Sharon",
-          "url": "https://open.spotify.com/artist/1KCJkKOl7ejNUXcWKDy9jr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mathagam - Title Track",
-      "url": "https://open.spotify.com/track/5Gk01O7qs1LYirYvdYpGCg"
-    },
-    {
       "added_at": "2023-08-23 13:19:49",
       "album": {
         "name": "Asaivindri (From \"Paramporul\")",
@@ -671,26 +671,6 @@
       "duration_ms": 156787,
       "name": "Raa Raa - Happy",
       "url": "https://open.spotify.com/track/5xkk5mjMWmcI0qdDLEIah7"
-    },
-    {
-      "added_at": "2023-08-11 11:32:55",
-      "album": {
-        "name": "Swagathaanjali (From \"Chandramukhi 2\")",
-        "url": "https://open.spotify.com/album/0rI3ReaoMcE2yLUPhJgfpN"
-      },
-      "artists": [
-        {
-          "name": "M. M. Keeravani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
-        },
-        {
-          "name": "Sreenidhi Tirumala",
-          "url": "https://open.spotify.com/artist/3WQP57VLN9YqWay34tiADB"
-        }
-      ],
-      "duration_ms": 228883,
-      "name": "Swagathaanjali (From \"Chandramukhi 2\")",
-      "url": "https://open.spotify.com/track/1lx5Cp1At5h0yDsd2G2nQH"
     },
     {
       "added_at": "2023-08-18 14:31:12",
@@ -795,26 +775,6 @@
       "duration_ms": 270163,
       "name": "The Soul Of Satya (From \"Satya\") [TAMIL]",
       "url": "https://open.spotify.com/track/5DekcMOvhnPz8TXo8SR5Lz"
-    },
-    {
-      "added_at": "2023-08-24 13:07:33",
-      "album": {
-        "name": "Lucky Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7009toCxzwwQuicgXAvvzR"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Savitha Sai",
-          "url": "https://open.spotify.com/artist/0PWWh1XJ9KDTdv9BksAJH8"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Thottu Thazhuvum Thendrale - From \"Lucky Man\"",
-      "url": "https://open.spotify.com/track/5frdz7eFURt118VwEt9ur4"
     },
     {
       "added_at": "2023-08-14 10:58:46",
@@ -939,38 +899,6 @@
       "duration_ms": 137000,
       "name": "Kanguva Glimpse (From \"Kanguva\")",
       "url": "https://open.spotify.com/track/617YmFhbtCUHTHmiYCSmJu"
-    },
-    {
-      "added_at": "2023-08-17 13:00:34",
-      "album": {
-        "name": "The Layers of Shawarma (From \"Halal Shawarma\")",
-        "url": "https://open.spotify.com/album/5IRSH3cOvGpDsQNsdzindV"
-      },
-      "artists": [
-        {
-          "name": "Barath Dhanasekar",
-          "url": "https://open.spotify.com/artist/67sk0ISBwhavYRmJxZTWqD"
-        },
-        {
-          "name": "Sudharsan Ram",
-          "url": "https://open.spotify.com/artist/66wBNPC8tutPBOpdiVyDz7"
-        },
-        {
-          "name": "Akshara Shritharan",
-          "url": "https://open.spotify.com/artist/5o9WjLuc4K9Rwi0Mab4t6u"
-        },
-        {
-          "name": "Hemanth Prakash",
-          "url": "https://open.spotify.com/artist/1SrPlvt54rbwvrw3350eOM"
-        },
-        {
-          "name": "David Pope",
-          "url": "https://open.spotify.com/artist/6lkUkkduSeG9yFVMjG5W9R"
-        }
-      ],
-      "duration_ms": 315815,
-      "name": "The Layers of Shawarma (From \"Halal Shawarma\")",
-      "url": "https://open.spotify.com/track/5oHAqoUxLt96jZuEHbjU4m"
     },
     {
       "added_at": "2023-08-04 15:43:18",
@@ -1145,26 +1073,6 @@
       "url": "https://open.spotify.com/track/6BLzMdz3Gw8ho9GZMr9GSG"
     },
     {
-      "added_at": "2023-03-10 09:49:00",
-      "album": {
-        "name": "Viduthalai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4"
-      },
-      "artists": [
-        {
-          "name": "Ilaiyaraaja",
-          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 306666,
-      "name": "Kaattumalli",
-      "url": "https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk"
-    },
-    {
       "added_at": "2023-07-28 14:22:03",
       "album": {
         "name": "Jailer (Original Motion Picture Soundtrack)",
@@ -1213,58 +1121,6 @@
       "url": "https://open.spotify.com/track/4RgswzHJdeY8YhzEknzQwy"
     },
     {
-      "added_at": "2023-03-28 08:45:53",
-      "album": {
-        "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
-        "url": "https://open.spotify.com/album/2iJ80LZlLGk7G8Fkc8gcW8"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Sreekanth Hariharan",
-          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 290816,
-      "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
-      "url": "https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar"
-    },
-    {
-      "added_at": "2023-03-19 07:47:00",
-      "album": {
-        "name": "Pathu Thala (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6y3yImd357ZGmMfb0mb1ts"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Shuba",
-          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
-        },
-        {
-          "name": "Nivas",
-          "url": "https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O"
-        }
-      ],
-      "duration_ms": 191107,
-      "name": "Raawadi",
-      "url": "https://open.spotify.com/track/2akGl5QjvPr5Prw8a5D513"
-    },
-    {
       "added_at": "2023-05-27 06:00:01",
       "album": {
         "name": "Jigu Jigu Rail (From \"Maamannan\")",
@@ -1279,30 +1135,6 @@
       "duration_ms": 317652,
       "name": "Jigu Jigu Rail (From \"Maamannan\")",
       "url": "https://open.spotify.com/track/4WCKqlWJ48kj6Xco4AxbYP"
-    },
-    {
-      "added_at": "2023-03-09 13:16:34",
-      "album": {
-        "name": "Dasara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2RbZdUoJM1OVDhUaly3plr"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        },
-        {
-          "name": "Muthamil",
-          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Mainaru Vetti Katti",
-      "url": "https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk"
     },
     {
       "added_at": "2023-06-02 02:09:21",
@@ -1323,70 +1155,6 @@
       "duration_ms": 216281,
       "name": "Manna Maamanna",
       "url": "https://open.spotify.com/track/3Q1QIxVncf1FbUkZk12hqk"
-    },
-    {
-      "added_at": "2023-03-20 13:18:30",
-      "album": {
-        "name": "Aga Naga (From \u201cPonniyin Selvan Part-2\u201d) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/5A576slaUQhlCvNZtWynEX"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        }
-      ],
-      "duration_ms": 243438,
-      "name": "Aga Naga (From \u201cPonniyin Selvan Part-2\u201d)",
-      "url": "https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ"
-    },
-    {
-      "added_at": "2023-03-19 07:47:00",
-      "album": {
-        "name": "Pathu Thala (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6y3yImd357ZGmMfb0mb1ts"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 247794,
-      "name": "Nee Singam Dhan",
-      "url": "https://open.spotify.com/track/0vua5LbAth2HzKqpbnVRZk"
-    },
-    {
-      "added_at": "2023-04-10 11:13:46",
-      "album": {
-        "name": "Jorthaale (From \"Rudhran\")",
-        "url": "https://open.spotify.com/album/2yCpxDMQIjJ2Ghsw9ktVq2"
-      },
-      "artists": [
-        {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
-        },
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "MC Vickey",
-          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
-        }
-      ],
-      "duration_ms": 227472,
-      "name": "Jorthaale - From \"Rudhran\"",
-      "url": "https://open.spotify.com/track/3aHkWsXc5dmvP6br9FUN28"
     },
     {
       "added_at": "2023-05-16 11:38:55",
@@ -1443,54 +1211,6 @@
       "duration_ms": 243947,
       "name": "En Rojaa Neeye (From \"Kushi\")",
       "url": "https://open.spotify.com/track/13fsvYMK0cPDgYcWIasc2o"
-    },
-    {
-      "added_at": "2023-03-31 15:40:00",
-      "album": {
-        "name": "Thunder Kaaran (Promo Song) (From \"Veeran\") - Single",
-        "url": "https://open.spotify.com/album/7ke4KYv7CuifVsAXWUOgZM"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 156763,
-      "name": "Thunder Kaaran (Promo Song) (From \"Veeran\")",
-      "url": "https://open.spotify.com/track/4XpcWXlyWijBdG2xOnh6nO"
-    },
-    {
-      "added_at": "2023-03-14 04:45:25",
-      "album": {
-        "name": "Ninaivirukka (From \"Pathu Thala\")",
-        "url": "https://open.spotify.com/album/5EEzSnYXyM3wzEjbf6Gj6M"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "A. R. Ameen",
-          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "Ninaivirukka (From \"Pathu Thala\")",
-      "url": "https://open.spotify.com/track/1QFt7JduUhTeos7dNxPeHw"
     }
   ],
   "unique_name": "Latest Tamil",

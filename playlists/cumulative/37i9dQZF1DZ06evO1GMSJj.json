@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 347466,
       "name": "Chromakey Dreamcoat",
       "url": "https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP"
@@ -740,6 +740,24 @@
       "duration_ms": 82133,
       "name": "In The Annexe",
       "url": "https://open.spotify.com/track/5LrPKZmACz0BVdWGU0ycxx"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44280,
+      "name": "Into The Rainbow Vein",
+      "url": "https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B"
     },
     {
       "album": {

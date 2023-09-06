@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "Can't Get You out of My Head",
+        "url": "https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "LAUWEND",
+          "url": "https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM"
+        },
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148849,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9"
+    },
+    {
+      "album": {
         "name": "Chase The Sun (VIP)",
         "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
       },
@@ -1254,7 +1280,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 270476,
       "name": "The Blaze",
       "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"

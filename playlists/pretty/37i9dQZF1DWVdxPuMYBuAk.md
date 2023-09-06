@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,635 likes - 71 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,694 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 30 | [Smoke Signals](https://open.spotify.com/track/1UxrIe4ZmoebVnRGkBJEPj) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Between Broken](https://open.spotify.com/album/3SWONDSeoQ0UTsRyXSlL5g) | 3:16 |
 | 31 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 |
 | 32 | [ICY](https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:11 |
-| 33 | [Dazed & Confused](https://open.spotify.com/track/1MSDtrmM0lJv1p7LYb2inl) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:47 |
+| 33 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 |
 | 34 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
-| 35 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 |
+| 35 | [Sins](https://open.spotify.com/track/1Ub5sCBfsF3xGEw4eHqJro) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:26 |
 | 36 | [Rainbow Freestyle](https://open.spotify.com/track/5IzNyik573EIobd8OPPqpZ) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:13 |
 | 37 | [Monologue](https://open.spotify.com/track/0gQjJqKwVi7gVa6gug15eS) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Yun Hee Won](https://open.spotify.com/artist/6WQvcRsS7YQYK3g0ye6NZa) | [Monologue](https://open.spotify.com/album/5HP7s1JfT4pVYMo4kpGgX2) | 3:33 |
 | 38 | [Comes & Goes](https://open.spotify.com/track/40wnjoGYHTZ92rIjRElhqr) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Comes & Goes](https://open.spotify.com/album/1U08XE2yPXYjNw9wYfcMd6) | 3:14 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 70 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 71 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 |
 
-Snapshot ID: `MCxmNjA3OGQxOTRmM2M4MTIwZGFmYjk0NGVjZTAwOWFmMjU2NDgyYjNj`
+Snapshot ID: `MCw4ZTRhZWM5ZjUwNzhkNWUxZjRkZjAwYjliOThhYTg2ZTE1MGE3Yjgz`

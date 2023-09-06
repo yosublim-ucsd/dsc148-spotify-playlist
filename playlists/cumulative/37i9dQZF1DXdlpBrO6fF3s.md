@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-112 songs - 6 hr 20 min
+113 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Desire](https://open.spotify.com/track/0UsHnRSfWyviHYhqsLMi0g) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:54 | 2022-02-03 |  |
 | [DIAMOND](https://open.spotify.com/track/5sIcMld4YXTlTqztVEa3hU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:26 | 2023-05-04 |  |
 | [DJANGO](https://open.spotify.com/track/5Ku5uYEtkdpNlkgqU6p4ir) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:11 | 2023-06-21 |  |
-| [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 | 2022-02-03 |  |
+| [Don't Stop](https://open.spotify.com/track/184WoVKN9Z7TznkzDfR406) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/4jOvDcYcEu4NHkVFIP2KDY) | 3:10 | 2023-06-21 |  |
+| [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 | 2022-02-03 | 2023-09-06 |
 | [Dreamers](https://open.spotify.com/track/4PO5Y8KEPVBk7JVpkXumx6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/1RiuAAiDFvA0sYc4MRWKvK) | 3:33 | 2022-02-03 |  |
 | [Dune](https://open.spotify.com/track/1CwzGOJqmATtWE8H00MEIL) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:15 | 2023-06-21 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:29 | 2022-02-03 |  |

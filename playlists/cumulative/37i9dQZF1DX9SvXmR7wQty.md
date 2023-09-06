@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: MIKA
 
-2,010 songs - 4 day 11 hr 26 min
+2,011 songs - 4 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1538,6 +1538,7 @@
 | [Quiconque meurt, meurt à douleur](https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2) | 2:02 | 2021-12-31 | 2022-01-15 |
 | [Quoi de neuf bébé](https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Melvin de Paris](https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC) | 3:22 | 2023-05-13 | 2023-07-08 |
 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 | 2023-03-03 | 2023-03-18 |
+| [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 | 2023-09-01 |  |
 | [Rafales](https://open.spotify.com/track/3q2shp4evYbfuOswVJiiQI) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Rafales](https://open.spotify.com/album/5oU0vKNJ0kZKqd3wDXS0Du) | 3:56 | 2022-03-18 | 2022-04-02 |
 | [Ranceur](https://open.spotify.com/track/2uxbDrFDIOLlq3GwSkZJvn) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Ranceur](https://open.spotify.com/album/5CSa2WyuVissQJkQ3qI2cz) | 2:30 | 2023-03-17 | 2023-04-01 |
 | [Rap Buffet](https://open.spotify.com/track/24nKsih3Sh5CkKICiwJ4jO) | [Nikya](https://open.spotify.com/artist/5HDPJKqXi5mGXuLK5D4Wou), [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Striky](https://open.spotify.com/artist/2z9aSOsIU7HPmrtQRcRQx0), [T.K](https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp), [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G) | [Rap Buffet](https://open.spotify.com/album/1fwhmgJipxqOBNZ4eDqskP) | 2:58 | 2022-04-01 | 2022-04-16 |
@@ -1966,7 +1967,7 @@
 | [Y'a pas juste le rhum](https://open.spotify.com/track/22cJLwgsY41vphEpXMOOWv) | [Alex et Caro](https://open.spotify.com/artist/6LuAYRiUw3vfGV3c4obH56) | [Le sablier](https://open.spotify.com/album/6ONB5SVMZACMuKhe1Jn79h) | 3:20 | 2022-04-15 | 2022-04-23 |
 | [Y'a pas ton 2](https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Y'a pas ton 2](https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD) | 3:11 | 2023-03-10 | 2023-03-18 |
 | [Ya Delali](https://open.spotify.com/track/7EuwFP60iXRlqc0GdTGKhy) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Ya Delali](https://open.spotify.com/album/45GG4H9863zgjD1NmqMhao) | 3:24 | 2022-02-11 | 2022-02-19 |
-| [Yabibi \(feat\. Nej\)](https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Résilience \(Réedition\)](https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON) | 2:37 | 2023-07-28 |  |
+| [Yabibi \(feat\. Nej\)](https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Résilience \(Réedition\)](https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON) | 2:37 | 2023-07-28 | 2023-09-06 |
 | [Yeah babe](https://open.spotify.com/track/20EJ4bdHUsPxoO5Vv5juir) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm) | [Yeah babe](https://open.spotify.com/album/3wQWVfQwSzJ691iSxIHXIe) | 2:16 | 2022-02-04 | 2022-02-12 |
 | [Yink moi qui t'faut](https://open.spotify.com/track/2lGpOTKuIailwRDHTvtuRN) | [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [À boire deboutte](https://open.spotify.com/album/7qMWaLTaI6Nm40Bf9dYw4x) | 3:12 | 2023-09-01 |  |
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-19 | 2022-09-03 |

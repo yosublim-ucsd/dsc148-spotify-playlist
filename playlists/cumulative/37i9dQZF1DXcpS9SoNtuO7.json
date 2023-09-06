@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 269120,
       "name": "ANIMA",
       "url": "https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j"
@@ -334,6 +334,24 @@
       "duration_ms": 236761,
       "name": "AYAKASHI",
       "url": "https://open.spotify.com/track/40D40mGv2lXuzfYQZ31Sbi"
+    },
+    {
+      "album": {
+        "name": "one",
+        "url": "https://open.spotify.com/album/4FobAj4g2Pr4RXJJQRexbp"
+      },
+      "artists": [
+        {
+          "name": "Gero",
+          "url": "https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211706,
+      "name": "BELOVED\u00d7SURVIVAL",
+      "url": "https://open.spotify.com/track/3tvz6vqpNcx82qnZlVvC8f"
     },
     {
       "album": {
@@ -3067,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Get goal!",
+        "url": "https://open.spotify.com/album/5I8xkhVW9nWS4TZVz1rto7"
+      },
+      "artists": [
+        {
+          "name": "RO-KYU-BU!",
+          "url": "https://open.spotify.com/artist/4wYkcNvXaicy52BVx4zWXS"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271209,
+      "name": "Rolling! Rolling!",
+      "url": "https://open.spotify.com/track/7ld3d4mE1A0NM55tMOv3bb"
+    },
+    {
+      "album": {
         "name": "Fragile (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
       },
@@ -5403,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2YDWnU26RfvpkuV8Y1IFG6"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5ddd\u304b\u306e\u3093 starring \u6771\u5c71\u5948\u592e",
+          "url": "https://open.spotify.com/artist/0ZdW8nxNZorYWXEtJ8K5Fd"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "\u30d0\u30ec\u30d0\u30ec\uff65\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/5JUbKl8xUtE6nBEcaIthVb"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30b9\u30bf",
         "url": "https://open.spotify.com/album/4lapf8YQ5b9tB8q3DktYQf"
       },
@@ -6271,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2YDWnU26RfvpkuV8Y1IFG6"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5ddd\u304b\u306e\u3093 starring \u6771\u5c71\u5948\u592e",
+          "url": "https://open.spotify.com/artist/0ZdW8nxNZorYWXEtJ8K5Fd"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284880,
+      "name": "\u590f\u8272\u30b5\u30d7\u30e9\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/40I7z27lQWHjyZQw4IUiID"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u604b\u3059\u308b\u5c0f\u60d1\u661f(\u30a2\u30b9\u30c6\u30ed\u30a4\u30c9)\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de \u591c\u7a7a",
         "url": "https://open.spotify.com/album/4TJ9KLG8yOufjImNxcEmHc"
       },
@@ -6968,6 +7040,24 @@
       "duration_ms": 260066,
       "name": "\u706f\u706b\u306e\u307e\u306b\u307e\u306b",
       "url": "https://open.spotify.com/track/7BdksHQzYFh2bO0XTf68jN"
+    },
+    {
+      "album": {
+        "name": "\u7121\u8def\u77e2",
+        "url": "https://open.spotify.com/album/2rSKZFZzDIcooeTCPKBLOt"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "\u7121\u8def\u77e2",
+      "url": "https://open.spotify.com/track/5BtZ5g4LAJPEMx7fVaPN9f"
     },
     {
       "album": {

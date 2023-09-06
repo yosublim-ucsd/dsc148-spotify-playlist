@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,321 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,328 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Hạnh Phúc Của Một Tang Gia](https://open.spotify.com/track/02e7eP3dx2cdOVxFUO5tqd) | [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i), [Minionz](https://open.spotify.com/artist/4LnAxWwAvNG6m62sp3q0Pt) | [Hạnh Phúc Của Một Tang Gia](https://open.spotify.com/album/0fpOLnMOparhE97l1WUxyq) | 3:30 |
 | 100 | [Lovelyboy](https://open.spotify.com/track/17gjDrdge4XCwr3XGnykJu) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Lovelyboy](https://open.spotify.com/album/4xcw8Xlrbs2NA0o5hhrgBY) | 2:57 |
 
-Snapshot ID: `MCwwNjdmMDU2MmEwYmNmNzAyYjc2YTk1NDRmMWEyNTA4NWVjYjljZDlk`
+Snapshot ID: `MCwyNGU0OTZkOTgzMWY5M2MyYWYwMDJjMTk0NzQ1ZTBhYTkxMDNhMjhk`

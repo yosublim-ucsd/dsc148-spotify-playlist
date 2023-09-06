@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: AC Slater & Chris Lorenzo \(Fly With Us\)
 
-538 songs - 1 day 4 hr 25 min
+539 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bumba Bass](https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Bumba Bass](https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn) | 2:13 | 2023-03-03 |  |
 | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Bump Bump Bump \(Bom Bom\)](https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh) | 3:00 | 2022-08-12 | 2023-03-04 |
 | [Burn the House](https://open.spotify.com/track/0Qv962GVef5ssQboETsqvF) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Burn the House](https://open.spotify.com/album/65lSyFP9MeZJ9LBiPQWvMo) | 2:41 | 2021-10-29 | 2022-03-26 |
-| [Burned](https://open.spotify.com/track/1lCSVEqFldH6cTMnm28M8k) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC) | [Burned](https://open.spotify.com/album/4fHVjE9mafXWU5Ptbi9OnH) | 3:04 | 2022-06-24 |  |
+| [Burned](https://open.spotify.com/track/1lCSVEqFldH6cTMnm28M8k) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC) | [Burned](https://open.spotify.com/album/4fHVjE9mafXWU5Ptbi9OnH) | 3:04 | 2022-06-24 | 2023-09-06 |
 | [Burner](https://open.spotify.com/track/4eD02ae441W9cFnRahfJG8) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Burner](https://open.spotify.com/album/5PMT6HNrpMoR2cJLLdrkGU) | 4:09 | 2021-10-29 | 2022-08-13 |
 | [Buss It](https://open.spotify.com/track/5UNZKAMoyFI58haxqyFoaH) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Buss It](https://open.spotify.com/album/2rUM4l1MrQnauFqO0QyMMC) | 3:40 | 2021-10-29 | 2022-05-07 |
 | [Bust It](https://open.spotify.com/track/3jRf1CgbwS6KK8loU2P7sg) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Bust It](https://open.spotify.com/album/0cxkIWSWJSCN8ld8sUnaWO) | 3:18 | 2021-10-29 | 2022-07-16 |
@@ -397,6 +397,7 @@
 | [Queue](https://open.spotify.com/track/27ThU2UjsMWH48A49DEKck) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [Queue](https://open.spotify.com/album/4z6vS3ZGkTnfKlY4gezFKH) | 3:06 | 2021-10-29 | 2022-07-30 |
 | [Rage](https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Rage](https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq) | 2:55 | 2022-10-14 |  |
 | [Rampage](https://open.spotify.com/track/1FAMmDVKA84HUrA12iFEuE) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Rampage](https://open.spotify.com/album/7tvJ8CY63uFzEiyRLSH495) | 3:04 | 2021-10-29 | 2022-07-30 |
+| [Rats](https://open.spotify.com/track/57rMaTfl37TwPrZ1omolEa) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Rats](https://open.spotify.com/album/2zZlhhA9JAb4FztUQJF0Tt) | 3:23 | 2023-09-01 |  |
 | [RAVE GAME](https://open.spotify.com/track/49DxqidpypOz3l98JUQZAn) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NINEONE赵馨玥](https://open.spotify.com/artist/0id1kre1ASgHByPQgivxUk) | [RAVE GAME](https://open.spotify.com/album/0jf36FuJofd4AncTkpxSGI) | 3:04 | 2022-04-29 | 2022-09-24 |
 | [Reality](https://open.spotify.com/track/2h6fLwmfDafmP1ImJFFskj) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Block Party EP](https://open.spotify.com/album/0i0UghehaPAyvAKScn543o) | 2:54 | 2022-08-26 |  |
 | [Reckless](https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Reckless](https://open.spotify.com/album/2comQ96pDfUCwDlTqFV8WC) | 3:42 | 2022-08-05 | 2022-09-10 |

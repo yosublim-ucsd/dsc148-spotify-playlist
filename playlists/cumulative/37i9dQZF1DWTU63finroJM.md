@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,081 songs - 2 day 12 hr 13 min
+1,082 songs - 2 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,8 @@
 | [kraksa](https://open.spotify.com/track/6umyUWnKTDcv6rdSdJ4uSo) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [kraksa](https://open.spotify.com/album/6jU4WJczefdv9viLHQxE6B) | 2:52 | 2022-11-11 | 2023-05-31 |
 | [Kung Fu](https://open.spotify.com/track/0tofuAPwrPfzajixmn1Ryg) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Kung Fu](https://open.spotify.com/album/2RAiyvUcSRHt0l4Sn3D8PV) | 3:25 | 2022-02-03 | 2022-08-02 |
 | [Kya Ho Gaya](https://open.spotify.com/track/2TbfqIrC82fKnkawwMlSvK) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Kya Ho Gaya](https://open.spotify.com/album/3vTWIcTP2fSZaqHgA2OkfL) | 2:42 | 2023-01-20 |  |
-| [L](https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA) | 3:40 | 2023-05-30 |  |
+| [L](https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K) | 3:40 | 2023-05-30 |  |
+| [L](https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA) | 3:40 | 2023-05-30 | 2023-09-06 |
 | [La Bachata](https://open.spotify.com/track/3tTzInzRZC7kRMK1sRfT14) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [La Bachata](https://open.spotify.com/album/2ZuHbnjlyHvDOTqMy1feF0) | 2:14 | 2023-02-08 |  |
 | [La Cura](https://open.spotify.com/track/731piI3gNHrXUnodLs8Npz) | [Sami Duque](https://open.spotify.com/artist/2aYJnf8uGK6sH46VTa4xjX) | [La Cura](https://open.spotify.com/album/1LsbLslaVvEe2FX6MzKHsU) | 3:03 | 2022-03-24 | 2022-04-20 |
 | [La Gata](https://open.spotify.com/track/79maEGHcaiZ3aIVPFZb9QF) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [La Gata](https://open.spotify.com/album/0sO7Fx9saDoLs27OquHVb2) | 2:45 | 2022-03-31 | 2022-04-17 |

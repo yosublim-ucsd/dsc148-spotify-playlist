@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Limited Express (has gone?)",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: GUMX",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "EMOTIONAL TRASH",
+        "url": "https://open.spotify.com/album/1zlTTpeNNwLIXGFomBQINe"
+      },
+      "artists": [
+        {
+          "name": "GUMX",
+          "url": "https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166181,
+      "name": "Buds",
+      "url": "https://open.spotify.com/track/01SIpBzjnznLzp9Y9uWDgL"
+    },
+    {
+      "album": {
         "name": "FRESH BRASH OLD MAN",
         "url": "https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH"
       },
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 173960,
       "name": "Decided",
       "url": "https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5"
@@ -5462,7 +5480,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 321013,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0oVtFtmOBfVfINJRNHx0h0"
@@ -7502,7 +7520,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 485880,
       "name": "Voice",
       "url": "https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw"

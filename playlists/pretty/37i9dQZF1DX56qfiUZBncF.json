@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 381137,
+  "num_followers": 381177,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz",
+  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -487,22 +487,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letting In",
-        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
       "artists": [
         {
-          "name": "Beauville",
-          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         },
         {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 263466,
-      "name": "Letting In",
-      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -523,22 +523,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "False Art",
-        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+        "name": "Letting In",
+        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
       },
       "artists": [
         {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+          "name": "Beauville",
+          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
         },
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
         }
       ],
-      "duration_ms": 183454,
-      "name": "False Art",
-      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+      "duration_ms": 263466,
+      "name": "Letting In",
+      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Heiress",
+        "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "duration_ms": 232613,
+      "name": "Silvery",
+      "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 202247,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Heiress",
-        "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "Silvery",
-      "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Fallss",
-        "url": "https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H"
+        "name": "For The Very Last Time",
+        "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
       },
       "artists": [
         {
-          "name": "Bayonne",
-          "url": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek"
+          "name": "Glassio",
+          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
         }
       ],
-      "duration_ms": 240108,
-      "name": "Fallss",
-      "url": "https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i"
+      "duration_ms": 219788,
+      "name": "A Million Doubts",
+      "url": "https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "For The Very Last Time",
-        "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
+        "name": "Fallss",
+        "url": "https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H"
       },
       "artists": [
         {
-          "name": "Glassio",
-          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
+          "name": "Bayonne",
+          "url": "https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek"
         }
       ],
-      "duration_ms": 219788,
-      "name": "A Million Doubts",
-      "url": "https://open.spotify.com/track/2EK8rXsXlVz4ZYFscfhxHG"
+      "duration_ms": 240108,
+      "name": "Fallss",
+      "url": "https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i"
     },
     {
       "added_at": "2023-01-11 21:01:15",

@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 238346,
       "name": "Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/3ThZ0ORqBXiQvCyPpPRDhb"
@@ -1120,6 +1120,22 @@
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        },
+        {
+          "name": "Nico Sereba",
+          "url": "https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Vincent \"Vinzy V\" Dery",
+          "url": "https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9"
         }
       ],
       "date_added": "2021-12-28",
@@ -1590,7 +1606,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 212950,
       "name": "Nomathemba",
       "url": "https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv"
@@ -2506,6 +2522,18 @@
         {
           "name": "Nico & Vinz",
           "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        },
+        {
+          "name": "Nico Sereba",
+          "url": "https://open.spotify.com/artist/0uF5eJUZAvklB3QRceobhZ"
+        },
+        {
+          "name": "Sibongisenni Shabalala",
+          "url": "https://open.spotify.com/artist/3mIqgltzfG834hWi9SNv5u"
+        },
+        {
+          "name": "Vincent \"Vinzy V\" Dery",
+          "url": "https://open.spotify.com/artist/5Yz0EEDmU5nMl5fGmc6iZ9"
         }
       ],
       "date_added": "2021-12-28",

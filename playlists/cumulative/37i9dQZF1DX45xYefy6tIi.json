@@ -6762,10 +6762,28 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 226979,
       "name": "\u7231\u5982\u6f6e\u6c34",
       "url": "https://open.spotify.com/track/52bxew0vkS3xED0cvkfemM"
+    },
+    {
+      "album": {
+        "name": "\u7231\u5982\u6f6e\u6c34 (Live)",
+        "url": "https://open.spotify.com/album/3rO0CvZNIfPa6QV5QMTdmd"
+      },
+      "artists": [
+        {
+          "name": "GAI\u5468\u5ef6",
+          "url": "https://open.spotify.com/artist/37EUUUGKMLP6KSKrN9q39m"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226979,
+      "name": "\u7231\u5982\u6f6e\u6c34 - Live",
+      "url": "https://open.spotify.com/track/1n6GNPxYhZQycsMBU5WJeW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX45xYefy6tIi"

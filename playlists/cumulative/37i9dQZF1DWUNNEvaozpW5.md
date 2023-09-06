@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-324 songs - 21 hr 5 min
+325 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Por amor viviremos](https://open.spotify.com/track/6UlDs030fd8vjzjne7OKwR) | [Javier Ojeda](https://open.spotify.com/artist/7qyL6M8Rib3S7jLWOYUjaI) | [Por Amor](https://open.spotify.com/album/19sp4hLVnkYnD0T4GgtvHt) | 2:57 | 2023-06-22 | 2023-06-30 |
 | [Por la boca vive el pez](https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Fitografía](https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug) | 4:29 | 2022-05-19 | 2022-07-29 |
 | [Por la boca vive el pez](https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 4:29 | 2022-07-21 |  |
+| [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 | 2023-08-31 |  |
 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 | 2022-06-23 |  |
 | [Puede Ser](https://open.spotify.com/track/07kKtaDOmlcLU50s9eNqYp) | [Dixon](https://open.spotify.com/artist/3ZqivrF6irzebjksomnUyG) | [Puede Ser](https://open.spotify.com/album/2ozuvYpJIBwFW6sDQXjwMi) | 3:06 | 2022-09-01 | 2022-09-16 |
 | [Puntos Cardinales](https://open.spotify.com/track/0aT7bu51VYDV4GcO4zUCod) | [Tocando Techo](https://open.spotify.com/artist/4ZoykgIxJOeaS1uoADIHqo) | [Puntos Cardinales](https://open.spotify.com/album/1gWsrweysgf7joT7hp8tGr) | 3:17 | 2023-06-15 | 2023-06-23 |
@@ -265,7 +266,7 @@
 | [Respirar](https://open.spotify.com/track/3suezOyQvBNkgZPbgAtIJu) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6) | [Respirar](https://open.spotify.com/album/2eqkan0najTgJ8MDf3n9y9) | 3:45 | 2023-03-23 | 2023-04-14 |
 | [Revolución turra \- En directo Razzmatazz](https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Revolución turra \(En directo Razzmatazz\)](https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO) | 3:16 | 2023-06-01 | 2023-06-09 |
 | [Rey del Glam](https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:59 | 2022-05-19 | 2022-07-29 |
-| [Rock and Roll Star \- 2017 Remaster](https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:09 | 2023-08-21 |  |
+| [Rock and Roll Star \- 2017 Remaster](https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:09 | 2023-08-21 | 2023-09-06 |
 | [Rock and Roll Star \- Remaster 2017](https://open.spotify.com/track/3EV5Oh2zrKF0FIKWxnE3L0) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Los tiempos están cambiando \(Remaster 2017\)](https://open.spotify.com/album/1sLl4Mj1wY4FSVzRhIT99m) | 4:09 | 2022-05-19 | 2022-07-29 |
 | [Rockstar](https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Rockstar](https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj) | 3:07 | 2023-07-27 | 2023-08-25 |
 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 | 2022-05-19 |  |

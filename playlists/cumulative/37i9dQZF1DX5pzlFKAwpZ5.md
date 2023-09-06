@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-226 songs - 17 hr 1 min
+226 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 | 2022-01-07 | 2022-10-01 |
 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 | 2022-02-22 | 2023-08-19 |
 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 | 2022-12-30 |  |
-| [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:43 | 2023-07-21 |  |
+| [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:45 | 2023-07-21 |  |
 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 | 2022-01-07 |  |
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 | 2023-04-22 |
 | [Cycle](https://open.spotify.com/track/23HQOR3hBeeLbXdmcPQA8m) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 3:52 | 2022-12-30 |  |
@@ -135,7 +135,7 @@
 | [Orientate](https://open.spotify.com/track/4NJ9PJPU4g7ArQcJXKqety) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 5:02 | 2022-12-30 | 2023-08-19 |
 | [Origami Rework](https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Origami Rework](https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3) | 3:05 | 2023-01-27 |  |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
-| [Planet of Sorrow](https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 3:13 | 2023-07-21 |  |
+| [Planet of Sorrow](https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 3:15 | 2023-07-21 |  |
 | [Plants Feast](https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Plants Feast](https://open.spotify.com/album/3HAH0Vl5Fbu0eoM5wgUH2W) | 3:26 | 2023-04-28 |  |
 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 | 2022-01-07 | 2022-11-09 |
 | [Pollen](https://open.spotify.com/track/78SrgFOU9fDxx4gOWc1ypx) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/7fNiI99gYGhMzn3HAqQ2le) | 7:50 | 2022-10-15 |  |

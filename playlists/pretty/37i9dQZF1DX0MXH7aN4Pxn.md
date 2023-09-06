@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,883 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,899 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 82 | [Look Into My Eyes](https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Look Into My Eyes](https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq) | 2:34 |
 | 83 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
 | 84 | [Come Around Again](https://open.spotify.com/track/1PgWZgdROSbx0yRIRH078E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:49 |
-| 85 | [Everybody Dance](https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance](https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD) | 2:48 |
-| 86 | [Afraid \(feat\. HARLEE\)](https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Afraid](https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz) | 2:22 |
+| 85 | [Afraid \(feat\. HARLEE\)](https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Afraid](https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz) | 2:22 |
+| 86 | [Everybody Dance](https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance](https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD) | 2:48 |
 | 87 | [Peaches & Cream](https://open.spotify.com/track/2PgXaTPI1XCme78vvYMxZu) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Peaches & Cream](https://open.spotify.com/album/4fkTFOExE3vIXyXeW62i36) | 3:18 |
 | 88 | [Madan](https://open.spotify.com/track/0EwWOHl3QwywWxBP4wQ59z) | [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Madan](https://open.spotify.com/album/4nVLigE5PNgLsbC7xqf80H) | 2:55 |
 | 89 | [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc) | 3:06 |
 | 100 | [Don't You Worry About Me](https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Don't You Worry About Me](https://open.spotify.com/album/0he225d6QYERCPgyagltqw) | 3:40 |
 
-Snapshot ID: `MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx`
+Snapshot ID: `MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2`

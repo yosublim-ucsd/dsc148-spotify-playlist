@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Violence](https://open.spotify.com/track/5pGd0pOplAoV1Id7Y0S3jm) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 2:06 |
 | 30 | [Runaway 2K](https://open.spotify.com/track/4Wh023EDlhuRfGpsaeGImP) | [Dogma CL](https://open.spotify.com/artist/1s3lketkYPCfB6f6J7iXLo) | [Silence Fix Inferno Manifesto](https://open.spotify.com/album/3BNEx52TWxNZC025pUcYNZ) | 1:54 |
 
-Snapshot ID: `MCwwMDAwMDAwMDA3OGJhMmZkMGM5MmU2ZDgxMjE0ZjAyNDI1NDg1ZjM2`
+Snapshot ID: `MCwwMDAwMDAwMDZmODkxZTg5ZDNmZjZlYmE0MDg2Mjc1ZTMzYmU5ZjBj`

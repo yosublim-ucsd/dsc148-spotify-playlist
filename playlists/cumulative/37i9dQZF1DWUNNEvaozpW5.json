@@ -4743,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Por las noches",
+      "url": "https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd"
+    },
+    {
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -5050,7 +5068,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 249066,
       "name": "Rock and Roll Star - 2017 Remaster",
       "url": "https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE"

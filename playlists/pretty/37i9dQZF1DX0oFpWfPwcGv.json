@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 48986,
+  "num_followers": 49064,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4",
+  "snapshot_id": "MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "King Of The World",
-        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
-      },
-      "artists": [
-        {
-          "name": "Sheila",
-          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 405293,
       "name": "Haven't You Heard",
       "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "King Of The World",
+        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
+      },
+      "artists": [
+        {
+          "name": "Sheila",
+          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Music Speaks Louder Than Words",
-        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Nights on Broadway",
-      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -447,22 +431,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Best Of Cheryl Lynn: Got To Be Real",
-        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+        "name": "Music Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 305893,
-      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
-      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
+      "duration_ms": 209826,
+      "name": "Nights on Broadway",
+      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -479,6 +459,26 @@
       "duration_ms": 241000,
       "name": "I'm So Glad That I'm a Woman",
       "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "The Best Of Cheryl Lynn: Got To Be Real",
+        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
+      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Never Gonna Let You Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Turn the Beat Around - 7\" Single Edit",
-      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "People... Hold On",
         "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 160906,
       "name": "Date With The Rain",
       "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Never Gonna Let You Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Turn the Beat Around - 7\" Single Edit",
+      "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
     },
     {
       "added_at": "2022-12-31 00:39:45",

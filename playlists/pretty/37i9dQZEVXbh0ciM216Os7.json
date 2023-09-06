@@ -6,63 +6,31 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDA3NzgwZTM2OGVhNWIyYzM0OWZjZTQ1ZTExYzczOTEzMQ==",
+  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDAwYjM4NDJkNmExOGM5NDBkYWMxMmE2OTI2NzY5Mjg0YQ==",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "You Thought (feat. Janelle Mon\u00e1e)",
-        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
+        "name": "Flying Objects",
+        "url": "https://open.spotify.com/album/2iyBzf6DkOwnAkxGsPv3tP"
       },
       "artists": [
         {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
         },
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "You Thought (feat. Janelle Mon\u00e1e)",
-      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Go Your Own Way (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
-        "url": "https://open.spotify.com/album/2IkviCq5rIqzU2Xj0SzMqN"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Go Your Own Way - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/2McBjVt8cRlZBKeIKLI06Y"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Origin Story",
-        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
         },
         {
-          "name": "The Future Kingz",
-          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
         }
       ],
-      "duration_ms": 297624,
-      "name": "Origin Story",
-      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
+      "duration_ms": 137945,
+      "name": "Harlem World 97 (feat. Estelle)",
+      "url": "https://open.spotify.com/track/26R9jIj6avrEzoIGrRz5ub"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -87,26 +55,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Painted Houses (feat. Conway the Machine)",
-        "url": "https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b"
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
       },
       "artists": [
         {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
         },
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "The Future Kingz",
+          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Painted Houses (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
+      "duration_ms": 297624,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -227,6 +191,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2qWOTKZpovfDaiqfwa78G5"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Wake of the Flood: The Angel's Share",
         "url": "https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL"
       },
@@ -236,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 443464,
-      "name": "Stella Blue (Take 5) [Not Slated] - 8/7/73",
-      "url": "https://open.spotify.com/track/5N1zOclIabkCcRcRAyWaQc"
+      "duration_ms": 796202,
+      "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
+      "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -292,29 +272,13 @@
           "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         },
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
         }
       ],
-      "duration_ms": 293122,
-      "name": "Witchcraft (feat. Robert Glasper)",
-      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/5Fi81yu2mZDF8m136BRS6v"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
+      "duration_ms": 188186,
+      "name": "Like It Like That (feat. Chief Adjuah)",
+      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -351,6 +315,26 @@
       "duration_ms": 230709,
       "name": "Saint Teresa",
       "url": "https://open.spotify.com/track/1Xbdoqkt8YpTSELtUyFgNL"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Do You Remember Country Music (feat. Randy Travis)",
+        "url": "https://open.spotify.com/album/5yZdZAKNNN42xD32IaaICr"
+      },
+      "artists": [
+        {
+          "name": "Tony Jackson",
+          "url": "https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR"
+        },
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 210672,
+      "name": "Do You Remember Country Music",
+      "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -407,6 +391,30 @@
       "duration_ms": 185412,
       "name": "Last a While",
       "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "JUMPIN (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 164911,
+      "name": "JUMPIN - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
     },
     {
       "added_at": "2023-09-01 04:00:00",

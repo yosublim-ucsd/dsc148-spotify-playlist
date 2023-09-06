@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Timbaland, Nelly Furtado & Justin Timberlake, The Tragically Hip, Kylie Minogue and JID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,260 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,284 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 37 | [For You \(feat\. TaTa\)](https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [For You \(feat\. TaTa\)](https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6) | 1:59 |
 | 38 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 |
 | 39 | [Anchor Man](https://open.spotify.com/track/2VpTP2ZgkwlUUKEgLiIFHI) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Anchor Man](https://open.spotify.com/album/2bqVpfVd682MCUTJnWQxuy) | 3:34 |
-| 40 | [Deep Of The Night \(feat\. Darla Jade\)](https://open.spotify.com/track/1CGMLxm11Fu1gYE0PNJgpJ) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Deep Of The Night \(feat\. Darla Jade\)](https://open.spotify.com/album/09ZAbS57fE8S5uFkK1Ceax) | 3:12 |
+| 40 | [Deep Of The Night \(feat\. Darla Jade\)](https://open.spotify.com/track/1CGMLxm11Fu1gYE0PNJgpJ) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Deep Of The Night](https://open.spotify.com/album/09ZAbS57fE8S5uFkK1Ceax) | 3:12 |
 | 41 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 |
 | 42 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
 | 43 | [Sirens](https://open.spotify.com/track/7q8SkgoaiLteTuzjblIvrQ) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Sirens](https://open.spotify.com/album/3AJLYY6SareaAq6U3APB5r) | 2:54 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 72 | [Set Me Free](https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Set Me Free](https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a) | 2:37 |
 | 73 | [Anybody Out There \(feat\. HENRY & Sara Phillips\)](https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [Sara Phillips](https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL) | [Anybody Out There \(feat\. HENRY & Sara Phillips\)](https://open.spotify.com/album/6SL1Xp1uM3kHmKxfEWzPh2) | 3:10 |
 | 74 | [DRAMA](https://open.spotify.com/track/5VK2OPvikCd6kHkZ7ejcOa) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [DRAMA](https://open.spotify.com/album/2NpemlT4sYpsFwaylWOPBp) | 2:23 |
-| 75 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 |
+| 75 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 |
 | 76 | [One Man Gang](https://open.spotify.com/track/5DbdKtaCmO9sfmX2ckW5wt) | [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr) | [One Man Gang](https://open.spotify.com/album/14rCInO7KFli18ViP6T13d) | 2:16 |
 | 77 | [Close To You](https://open.spotify.com/track/6RgOT8196Q0ZmlZHFLRBkL) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Close To You](https://open.spotify.com/album/1oJVddDsRVy9ooGRCJGwAq) | 3:16 |
 | 78 | [Tikisson Woke](https://open.spotify.com/track/1jle97DJnKMS38gA3v0tC7) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [LAIT PATERNEL](https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF) | 4:26 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 |
 | 101 | [The Good Ones](https://open.spotify.com/track/7vM8sXXq7LSqJ0eqhDeAap) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [The Good Ones](https://open.spotify.com/album/18g7rYYWbSumuFmbXakgon) | 3:37 |
 
-Snapshot ID: `MCw3NjcwMzRlMTlkN2U3YTYwYWUwOWEyNTZmNjQ5NzRmNmI5Nzc0ZDIy`
+Snapshot ID: `MCxmYzY5ZWUyNTYwZTQxODUwMTkzYmY5ZGQ1YWU0Y2E3YTI1YjkxOGI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  5gjm999
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,977 likes - 102 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,989 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 62 | [If We End](https://open.spotify.com/track/4RbWvpCUZpoGFkTnrHsVCB) | [TheTitle](https://open.spotify.com/artist/0lko9k40FRPGgYHS3srLXq) | [If We End](https://open.spotify.com/album/5M0mGZlI2VfJKETJririVQ) | 3:33 |
 | 63 | [Last Letter](https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Last Letter](https://open.spotify.com/album/4wpU0j3dLbpPVzM4ymTtmr) | 3:17 |
 | 64 | [Spaceship \- SZEMEI1994 Remix](https://open.spotify.com/track/5b6Bz3LfzrNymVDF5ecQYB) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [SZEMEI1994](https://open.spotify.com/artist/0LrMg79iUC04QawdFKLjRu) | [Spaceship \(SZEMEI1994 Remix\)](https://open.spotify.com/album/7qeSBmka6Sl5vRAOV01HpI) | 4:36 |
-| 65 | [Summer Fever](https://open.spotify.com/track/7tgGio1o6YS1VF8M7QHLJf) | [kaaai](https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c) | [Summer Fever](https://open.spotify.com/album/30MpRmsftr9JY8es2azDI8) | 3:34 |
+| 65 | [Summer Fever](https://open.spotify.com/track/3gG6DUfZmMvI2GMUyps7fi) | [kaaai](https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c) | [Summer Fever](https://open.spotify.com/album/4PQFB3qXGbLJicQk6JxUfV) | 3:34 |
 | 66 | [Happy Ever After](https://open.spotify.com/track/1pRRYq9XyBu8cJDPzHWicK) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [Happy Ever After](https://open.spotify.com/album/0dF4NV8urMiLF1yGQZAFsa) | 3:19 |
 | 67 | [MEET UP THE JEWELLER](https://open.spotify.com/track/2dfiRXJL0ZLo1uWNfD0yQZ) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [Stanrighthere](https://open.spotify.com/artist/6jPJztuiapVsF1MJuRa3XE) | [MEET UP THE JEWELLER](https://open.spotify.com/album/3cEcNDN2vfpusNrx3zouLO) | 2:57 |
 | 68 | [put me in a coffin](https://open.spotify.com/track/3cP4kUF6RJ1erMJ5xGafkD) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [put me in a coffin](https://open.spotify.com/album/0azwnUzSsLhluB02Cx2xER) | 4:03 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 101 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 102 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxiYWFiZTRkOTM3ZjFmMjI5OWNlMWUwMWQzYjYzODkxOWQ4ZmFhZTFl`
+Snapshot ID: `MCw5NTE2OGM5MTZlN2M3YTA2MmU2ZmYxZTMzODk3NDA0ZjdkMjZhNDA0`

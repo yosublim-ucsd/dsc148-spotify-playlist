@@ -15987,6 +15987,24 @@
     },
     {
       "album": {
+        "name": "Just a Friend",
+        "url": "https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz"
+      },
+      "artists": [
+        {
+          "name": "Jordi",
+          "url": "https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141147,
+      "name": "Just a Friend",
+      "url": "https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t"
+    },
+    {
+      "album": {
         "name": "Just A Kiss (Muah)",
         "url": "https://open.spotify.com/album/2KfGtk53MnZ6Wb7vw4Afsy"
       },
@@ -24304,7 +24322,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 165900,
       "name": "Roses",
       "url": "https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh"

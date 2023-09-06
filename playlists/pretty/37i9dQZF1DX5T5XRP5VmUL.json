@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 133206,
+  "num_followers": 133195,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTIwM2FmNjM3OTI4MmZmMDFlMjk5MGVjMjBiMjZjYmMxYWMxYzU3",
+  "snapshot_id": "MCxiYjBkMzcxNjgyYTc2N2FiNjIyNDdjN2ZiMjRlYjE5M2Y3NTA2MGMx",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -891,6 +891,38 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Bring Me Cheer",
+        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Penalva",
+          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "Bring Me Cheer",
+      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 191401,
+      "name": "Happy Xmas",
+      "url": "https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -927,38 +959,6 @@
       "duration_ms": 126300,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3euLun3X5Gg4WQ3o0bmphM"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/2EOoAok8LUm3QDd2Jq0NUW"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 191401,
-      "name": "Happy Xmas",
-      "url": "https://open.spotify.com/track/1mp6u70l0qHqRWQN6bJLoX"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Bring Me Cheer",
-        "url": "https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Penalva",
-          "url": "https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "Bring Me Cheer",
-      "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Christmas at Home",
+        "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
+      },
+      "artists": [
+        {
+          "name": "Madison Olds",
+          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
+        },
+        {
+          "name": "Nearly York",
+          "url": "https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p"
+        }
+      ],
+      "duration_ms": 206421,
+      "name": "Christmas at Home",
+      "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "What Are You Doing New Year's Eve",
         "url": "https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 160807,
       "name": "Season's Greetings",
       "url": "https://open.spotify.com/track/6fehRpLfE67hLjbscwJ8Ya"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Christmas at Home",
-        "url": "https://open.spotify.com/album/7ChOdPEmGK7XajwLkxWdU1"
-      },
-      "artists": [
-        {
-          "name": "Madison Olds",
-          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
-        },
-        {
-          "name": "Nearly York",
-          "url": "https://open.spotify.com/artist/26H6hdDHPoK633qeSs861p"
-        }
-      ],
-      "duration_ms": 206421,
-      "name": "Christmas at Home",
-      "url": "https://open.spotify.com/track/3ALSNnwqeIwMOk8DsgLZux"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Someday at Christmas",
+        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 186890,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "River City Christmas",
         "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 207581,
       "name": "The Last Christmas (We Ever Spend Apart)",
       "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "Someday at Christmas",
-        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 186890,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 254562,
-      "name": "Love Is Christmas",
-      "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa"
       },
@@ -1587,22 +1571,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Moonshine & Mistletoe",
-        "url": "https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg"
-      },
-      "artists": [
-        {
-          "name": "Sons of Daughters",
-          "url": "https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR"
-        }
-      ],
-      "duration_ms": 207347,
-      "name": "Moonshine & Mistletoe",
-      "url": "https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Snow Place Like Home",
         "url": "https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8"
       },
@@ -1615,6 +1583,38 @@
       "duration_ms": 200998,
       "name": "Snow Place Like Home",
       "url": "https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 254562,
+      "name": "Love Is Christmas",
+      "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Moonshine & Mistletoe",
+        "url": "https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg"
+      },
+      "artists": [
+        {
+          "name": "Sons of Daughters",
+          "url": "https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR"
+        }
+      ],
+      "duration_ms": 207347,
+      "name": "Moonshine & Mistletoe",
+      "url": "https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc"
     },
     {
       "added_at": "2022-12-16 16:34:09",

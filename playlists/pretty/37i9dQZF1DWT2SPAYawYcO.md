@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: MAY\-A
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,236 likes - 88 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,271 likes - 88 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Wolf](https://open.spotify.com/track/5IqU4x7djoydv2Kl03AFbY) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Wolf](https://open.spotify.com/album/4eihY4pbCjrnqwHEKpe5uP) | 4:05 |
 | 88 | [Easy Way Out](https://open.spotify.com/track/4N54M71DcUYsNrmwoixiDJ) | [Glenn Hopper](https://open.spotify.com/artist/2Y8ONxYGML4DWQG2TWGfnQ) | [Easy Way Out](https://open.spotify.com/album/4T20NHHVVPBX3zZQPQn2cu) | 4:07 |
 
-Snapshot ID: `MCw1OTdkNGFlMTkwOWNlMGM2MDg0MDJlOGI3MGZhNDY1YzE4ZWU2YTNi`
+Snapshot ID: `MCwwODAxNGMyMjJhYjM5MWQyMDE4ZjQ1MDdlMmExNzZhYTQ3N2VjMjI1`

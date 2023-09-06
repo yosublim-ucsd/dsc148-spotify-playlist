@@ -1,12 +1,12 @@
 {
   "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: Subtronics & HOL!",
-  "num_followers": 1007258,
+  "num_followers": 1007329,
   "original_name": "Dubstep Don",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDkxZGYxYWRlZTgwMWIyYjkzMTlkZmZiNDRmNjhkNDM3MjFlM2Zk",
+  "snapshot_id": "MCw5OGMwNGMwMTA5NTk1MjcyMGYwNjBmZTY4N2Q1MTNiYTA4Yjc0OTVi",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Never Be The Same (feat. Sara Benyo)",
-        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
-        }
-      ],
-      "duration_ms": 230425,
-      "name": "Never Be The Same (feat. Sara Benyo)",
-      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Output",
         "url": "https://open.spotify.com/album/5IlDu0XhzFNP0dsGuwUCRJ"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 195310,
       "name": "Output",
       "url": "https://open.spotify.com/track/0Me5z9026UhGDlOoSQ6EzR"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Never Be The Same (feat. Sara Benyo)",
+        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "duration_ms": 230425,
+      "name": "Never Be The Same (feat. Sara Benyo)",
+      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG"
+        "name": "Madara",
+        "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
       },
       "artists": [
         {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
         }
       ],
-      "duration_ms": 211267,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6"
+      "duration_ms": 231724,
+      "name": "Madara",
+      "url": "https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -835,22 +839,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Madara",
-        "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG"
       },
       "artists": [
         {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        },
-        {
-          "name": "Dr. Ush\u016bu",
-          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Madara",
-      "url": "https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D"
+      "duration_ms": 211267,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "IN CASE OF FIRE EP",
-        "url": "https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Sharp Shooter",
-      "url": "https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "IN CASE OF FIRE EP",
+        "url": "https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Way Up",
-        "url": "https://open.spotify.com/album/3GGE7ZpfgZwHSXsoxV5oKL"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Tima Dee",
-          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
-        }
-      ],
-      "duration_ms": 214954,
-      "name": "Way Up",
-      "url": "https://open.spotify.com/track/5Dmk7WSDEIywhhXKq7lP3j"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/0WRIGptzXtdFiqKtjK93jU"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 259150,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/6647nIIdCk4bIhgAowggN3"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Way Up",
+        "url": "https://open.spotify.com/album/3GGE7ZpfgZwHSXsoxV5oKL"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "duration_ms": 214954,
+      "name": "Way Up",
+      "url": "https://open.spotify.com/track/5Dmk7WSDEIywhhXKq7lP3j"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1SXcW1GgimXzhgFF9AHUr2"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Feed Me",
-          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
-        },
-        {
-          "name": "Tasha Baxter",
-          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/46brJGJA9VTxjTGVfw41gu"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou"
       },
@@ -1371,6 +1347,30 @@
       "duration_ms": 240380,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/0zOqoAh2thAbmju80p850h"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1SXcW1GgimXzhgFF9AHUr2"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        },
+        {
+          "name": "Tasha Baxter",
+          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/46brJGJA9VTxjTGVfw41gu"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Shank",
-        "url": "https://open.spotify.com/album/7FHVGQCCAxhEeDWbEEuMZS"
+        "name": "Protocol",
+        "url": "https://open.spotify.com/album/7HyciiVlRwQiVqpvvVrf5l"
       },
       "artists": [
         {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Shank",
-      "url": "https://open.spotify.com/track/7Mvl8tGMD5lmgpcdcm53WK"
+      "duration_ms": 184975,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/6RUTzFmBtIl5nRpkEXiIQ5"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Protocol",
-        "url": "https://open.spotify.com/album/7HyciiVlRwQiVqpvvVrf5l"
+        "name": "Shank",
+        "url": "https://open.spotify.com/album/7FHVGQCCAxhEeDWbEEuMZS"
       },
       "artists": [
         {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
         }
       ],
-      "duration_ms": 184975,
-      "name": "Protocol",
-      "url": "https://open.spotify.com/track/6RUTzFmBtIl5nRpkEXiIQ5"
+      "duration_ms": 264000,
+      "name": "Shank",
+      "url": "https://open.spotify.com/track/7Mvl8tGMD5lmgpcdcm53WK"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Is This Even Dubstep!?",
-        "url": "https://open.spotify.com/album/3vohZ4QAZLLyaIbyAr0Q2Y"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Is This Even Dubstep!?",
-      "url": "https://open.spotify.com/track/1zy6e2RNnMcWZSgAf5gOBq"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Prismata (Dark)",
         "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 160000,
       "name": "Check",
       "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Is This Even Dubstep!?",
+        "url": "https://open.spotify.com/album/3vohZ4QAZLLyaIbyAr0Q2Y"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Is This Even Dubstep!?",
+      "url": "https://open.spotify.com/track/1zy6e2RNnMcWZSgAf5gOBq"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Bassface",
+        "url": "https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "Bassface",
+      "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs"
       },
@@ -1999,6 +2019,42 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/5fI00S2DlKDEegko9s0t0Z"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/2SS2oPAFHFHUimjfwyoYyC"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/3ZBZUT81UWro8rfdcxop06"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "TILL I DIE (feat. Kanin)",
         "url": "https://open.spotify.com/album/30we761xNgTwu7ITaqi7uT"
       },
@@ -2023,62 +2079,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Bassface",
-        "url": "https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "Dirt Monkey",
-          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "Bassface",
-      "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/3ZBZUT81UWro8rfdcxop06"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/74xGI2SshPv14Rg0kOiyRv"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/5fI00S2DlKDEegko9s0t0Z"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Parallels",
-      "url": "https://open.spotify.com/track/2SS2oPAFHFHUimjfwyoYyC"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz"
       },
@@ -2091,26 +2091,6 @@
       "duration_ms": 201600,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Creep Killa",
-        "url": "https://open.spotify.com/album/3yGwMpuWBMl6kEXmIUVy0s"
-      },
-      "artists": [
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        },
-        {
-          "name": "Nika D",
-          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
-        }
-      ],
-      "duration_ms": 226299,
-      "name": "Creep Killa",
-      "url": "https://open.spotify.com/track/2gahSUGM2ddz48vXK58fHt"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -2139,6 +2119,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Creep Killa",
+        "url": "https://open.spotify.com/album/3yGwMpuWBMl6kEXmIUVy0s"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+        }
+      ],
+      "duration_ms": 226299,
+      "name": "Creep Killa",
+      "url": "https://open.spotify.com/track/2gahSUGM2ddz48vXK58fHt"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/23hERAsn2E7pl5wKpdyPFJ"
       },
@@ -2151,22 +2151,6 @@
       "duration_ms": 216000,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/6tPF5loVpq57PiSvwLE860"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "The Archives",
-        "url": "https://open.spotify.com/album/4zCDRA2KaDa8UdX8GgeOil"
-      },
-      "artists": [
-        {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
-        }
-      ],
-      "duration_ms": 195897,
-      "name": "Open Up This Pit",
-      "url": "https://open.spotify.com/track/6vKOUJvLj02q7zdGrS2vp1"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -2207,6 +2191,22 @@
       "duration_ms": 211200,
       "name": "Mass Destruction",
       "url": "https://open.spotify.com/track/1RAFDlJk4pf9VfNbuLjxMA"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "The Archives",
+        "url": "https://open.spotify.com/album/4zCDRA2KaDa8UdX8GgeOil"
+      },
+      "artists": [
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 195897,
+      "name": "Open Up This Pit",
+      "url": "https://open.spotify.com/track/6vKOUJvLj02q7zdGrS2vp1"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -2275,6 +2275,30 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Purgatory (Dion Timmer Remix)",
+        "url": "https://open.spotify.com/album/4G3nrWEHQwnmgof31hbqxk"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 170897,
+      "name": "Purgatory - Dion Timmer Remix",
+      "url": "https://open.spotify.com/track/4dUlSREV9ZfoogtHIcgy2e"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Cold Case (VIP)",
         "url": "https://open.spotify.com/album/4JLyjTkd8KIRPAtRVnwD13"
       },
@@ -2299,26 +2323,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Purgatory (Dion Timmer Remix)",
-        "url": "https://open.spotify.com/album/4G3nrWEHQwnmgof31hbqxk"
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh"
       },
       "artists": [
         {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+          "name": "Topi",
+          "url": "https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8"
         },
         {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
         }
       ],
-      "duration_ms": 170897,
-      "name": "Purgatory - Dion Timmer Remix",
-      "url": "https://open.spotify.com/track/4dUlSREV9ZfoogtHIcgy2e"
+      "duration_ms": 173600,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -2347,26 +2367,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Full Speed",
-        "url": "https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh"
-      },
-      "artists": [
-        {
-          "name": "Topi",
-          "url": "https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8"
-        },
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Full Speed",
-      "url": "https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Get It On",
         "url": "https://open.spotify.com/album/0l8a4E9Qc0w6TPHbweipbI"
       },
@@ -2379,26 +2379,6 @@
       "duration_ms": 185571,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/3Ho2FJutH67enqPLYc1K51"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "DOA EP",
-        "url": "https://open.spotify.com/album/5U1oEWeGULp7PAxb1m6ima"
-      },
-      "artists": [
-        {
-          "name": "Calcium",
-          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
-        },
-        {
-          "name": "Stoned Level",
-          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "Clean Up",
-      "url": "https://open.spotify.com/track/5bgGbSIz8gUIqAWkMjaZIh"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -2419,6 +2399,26 @@
       "duration_ms": 181098,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/5fRv7CHYesjbCTrqmwyAGw"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "DOA EP",
+        "url": "https://open.spotify.com/album/5U1oEWeGULp7PAxb1m6ima"
+      },
+      "artists": [
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        },
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "Clean Up",
+      "url": "https://open.spotify.com/track/5bgGbSIz8gUIqAWkMjaZIh"
     },
     {
       "added_at": "2023-09-01 06:00:00",

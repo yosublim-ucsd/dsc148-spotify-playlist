@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,262 likes - 321 songs - 12 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,326 likes - 321 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 320 | [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 |
 | 321 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 |
 
-Snapshot ID: `MCxkZDg3NjM4M2JmZWNhMzc4OTZkNmM5MGQ5MDUwOTNkMDgwYmFiZjQ4`
+Snapshot ID: `MCwzNGQyMjY3M2EyMTVkZTY3M2U5YmU4MjNhYTg1MWJkMTdlMzhhZDM1`

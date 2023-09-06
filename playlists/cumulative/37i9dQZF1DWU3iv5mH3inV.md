@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Angel Dior y Braulio Fogón
 
-398 songs - 21 hr 46 min
+399 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [KIKITO](https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/1dQIXiLFLRMdI84tjfOwdC) | 2:50 | 2023-05-26 |  |
 | [Kikito](https://open.spotify.com/track/4KoRu9Redw3Vi2ZxVHwwOV) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/6xcIPu7jc9DIZS2SLnOqVp) | 2:50 | 2023-05-26 | 2023-08-24 |
 | [Kitipo](https://open.spotify.com/track/0J7fY1t0GMWRMLTOxWEsWa) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [La Tukiti](https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf), [Amenazandel](https://open.spotify.com/artist/59QQbpbrYSGtgG338yoLx4) | [Kitipo](https://open.spotify.com/album/35ABeqToii3OpU5fFOmD8x) | 3:31 | 2023-05-26 | 2023-06-13 |
+| [Kitipo](https://open.spotify.com/track/7vP0TrbROeQghZYCusLylM) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [La Tukiti](https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf), [Amenazandel](https://open.spotify.com/artist/59QQbpbrYSGtgG338yoLx4) | [Kitipo](https://open.spotify.com/album/4UZSYzB1NWuXeSE0gqqv4c) | 3:31 | 2023-05-26 |  |
 | [Klk Con Klk](https://open.spotify.com/track/01oIgxxVo6RNZZ7JHWQRcf) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [On Fire](https://open.spotify.com/album/0m859pAzGiLM9zhTzaq4UP) | 2:44 | 2023-05-26 |  |
 | [Klok Con Klok](https://open.spotify.com/track/0WlCyTEeJHHtqdIjNVnQbz) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Reggaeton Hits V2.0 \(Reggaeton \- Cubaton \- Dembow \- 20 Urban Latin Hits\)](https://open.spotify.com/album/3czCynmnFzvbqiYKUU6z0O) | 2:43 | 2021-12-10 | 2022-07-24 |
 | [Klok Con Klok](https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Klok Con Klok](https://open.spotify.com/album/712hXpuMGoq1KPEI1RxoW6) | 2:43 | 2022-05-28 | 2023-08-07 |
@@ -258,7 +259,7 @@
 | [No Son de Na](https://open.spotify.com/track/0PcglxPqsxB82pFalqxgqa) | [Tommy Titerito](https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk) | [No Son de Na](https://open.spotify.com/album/5mR7iINhZaV4XB4p3YlmF0) | 3:05 | 2021-12-10 | 2023-02-17 |
 | [No Son de Na](https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry) | [Tommy Titerito](https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk) | [No Son de Na](https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS) | 3:05 | 2023-01-09 |  |
 | [NO TE INVITO PA MI BARRIO](https://open.spotify.com/track/6bjVmW97SELrS7rEMNXnmE) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [NO TE INVITO PA MI BARRIO](https://open.spotify.com/album/0calPXCszZGEZUdufK4Cj5) | 2:28 | 2022-01-04 | 2023-08-25 |
-| [Normalito](https://open.spotify.com/track/288q0mtUQJ4u52CwuKpNX9) | [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Normalito](https://open.spotify.com/album/1Z9BrllDojIjtSB4BrxqfS) | 3:36 | 2023-05-26 |  |
+| [Normalito](https://open.spotify.com/track/288q0mtUQJ4u52CwuKpNX9) | [Jonatan Burlon](https://open.spotify.com/artist/5sN3XgD2jMfG1qd96CcyqM), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Normalito](https://open.spotify.com/album/1Z9BrllDojIjtSB4BrxqfS) | 3:36 | 2023-05-26 | 2023-09-06 |
 | [Ojalá](https://open.spotify.com/track/5B1dn6AfeohMuuHxyoMX72) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Ojalá](https://open.spotify.com/album/3qP7KCJCzm4KB7z2FY6OGV) | 2:25 | 2023-06-12 |  |
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-02-24 | 2023-05-27 |
 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 | 2023-05-26 | 2023-07-15 |

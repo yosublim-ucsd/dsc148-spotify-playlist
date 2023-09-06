@@ -4,13 +4,14 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-147 songs - 17 hr 34 min
+148 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Got\) Somebody New](https://open.spotify.com/track/2P0N8yitkDrt4izIDSCvxO) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5), [Clara Hill](https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc) | [Can't Hold Back](https://open.spotify.com/album/0o160SeLNBA1GKDVVDrQCJ) | 6:17 | 2022-09-13 |  |
 | [1960 What? \- Opolopo Remix](https://open.spotify.com/track/0nWzUKXBEDxSJEfEFHcOUm) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Water](https://open.spotify.com/album/0gQB99eBkdZLBrMc32ybnY) | 8:24 | 2022-09-13 |  |
-| [2000 Blacks Got To Be Free \(feat\. Roy Ayers\) \- Edit](https://open.spotify.com/track/1v49ImdfM7a8TcnBzwHhLY) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\)](https://open.spotify.com/album/6EiGFcgkaIJzznQF25DbFY) | 4:53 | 2022-09-13 |  |
+| [2000 Blacks Got To Be Free \(feat\. Roy Ayers\) \- Edit](https://open.spotify.com/track/1v49ImdfM7a8TcnBzwHhLY) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\)](https://open.spotify.com/album/6EiGFcgkaIJzznQF25DbFY) | 4:53 | 2022-09-13 | 2023-09-06 |
+| [2000 Blacks Got to Be Free \- Edit](https://open.spotify.com/track/6lI0dzCFeR86ijHg3SGSNP) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got To Be Free](https://open.spotify.com/album/1YV7aEV84KGSUHIDuM4TtZ) | 4:53 | 2023-08-31 |  |
 | [Afric](https://open.spotify.com/track/3K4qw8z8Xi8JZk2LhGFSoL) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20) | [T\. Williams \- EP](https://open.spotify.com/album/18jM8fMBY5MX7uS9toKDFj) | 6:09 | 2022-09-13 |  |
 | [Alibi \- Dennis F's Out On Bail Mix](https://open.spotify.com/track/057swhFYVLbnaU8elKKUin) | [Reel People](https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X), [Darien Dean](https://open.spotify.com/artist/0j5bDa1ME6bSXz5HlbAawD), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi) | [Seven Ways To Wonder \(The Remixes\)](https://open.spotify.com/album/6lr0dRBpTY8mRXgHGDDRQB) | 6:41 | 2022-09-13 |  |
 | [At the Club](https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp) | [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [At the Club](https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy) | 5:14 | 2022-09-13 |  |

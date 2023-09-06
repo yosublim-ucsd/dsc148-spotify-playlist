@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-866 songs - 2 day 6 hr 35 min
+868 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alter Echo](https://open.spotify.com/track/7iibMoDEQN4S3xaGz5vm4S) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1u2So6XMuU1DAKnNZvevQF) | 3:31 | 2023-05-16 | 2023-07-27 |
 | [Alter Echo](https://open.spotify.com/track/1SBcIsauL5DZdHblkurmH5) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Alter Echo](https://open.spotify.com/album/1tOcYccfvN0TZReaOf9H2p) | 3:34 | 2023-07-25 | 2023-08-18 |
 | [Always and Forever](https://open.spotify.com/track/3K0cFv7cqIId26HwEkDHgp) | [SERRA](https://open.spotify.com/artist/2I3vpxuhRNZU69R2kGbBOk) | [Always and Forever](https://open.spotify.com/album/5vUK0yiI60vWqkp53ZvlLn) | 4:52 | 2023-04-11 | 2023-07-05 |
+| [Amazing World](https://open.spotify.com/track/2P46wRWiKYYPShAv6bI8uQ) | [HeavenlyHelly All Stars](https://open.spotify.com/artist/6CJTY8wsvVrcBsLD1T7QXA), [FAB\-EL](https://open.spotify.com/artist/5G3zd8dd9zTOMMQMb9pXvE), [Inferno Teller](https://open.spotify.com/artist/7eFF0vr6NsNBNF5jXIsOdI), [Seraphilight](https://open.spotify.com/artist/7IwUmRLeRmYUlDdkNZsQTa) | [Amazing World](https://open.spotify.com/album/6TmlShfEQ4ef7At114va9Q) | 2:54 | 2023-09-05 |  |
 | [AMBER](https://open.spotify.com/track/0Gq4an04Rw1eXUyKrUonve) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Hanabi](https://open.spotify.com/album/09dmy5adX95reP5MhtV4f9) | 3:54 | 2023-02-14 | 2023-04-14 |
 | [AMBER](https://open.spotify.com/track/5M5MbNaEoXqBiRA0q1dSMk) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [華灯](https://open.spotify.com/album/3ru7HsERi4MJq4VfV8rVdv) | 3:54 | 2023-02-14 | 2023-02-16 |
 | [Anagram of Coda](https://open.spotify.com/track/5VEqP2gCkD2u7m5451CO0J) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [Anagram of Coda](https://open.spotify.com/album/0MgCo4HDr5LKp6jks5wBh0) | 4:40 | 2022-08-23 | 2022-08-25 |
@@ -177,7 +178,7 @@
 | [Guruguru Live](https://open.spotify.com/track/1vdYPvIKC9ekIGbUWmTP2z) | [由崎司\(CV:鬼頭明里\)](https://open.spotify.com/artist/3DZPDkF2LcgJBefu3J1k6k) | [Guruguru Live](https://open.spotify.com/album/3bkqSeYL7wnAqEvDr7zRYc) | 3:52 | 2023-07-11 |  |
 | [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-04 | 2023-07-12 |
 | [Hachimitsu](https://open.spotify.com/track/5LDRDXk27BnOD1jp5sjmds) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Hachimitsu](https://open.spotify.com/album/1N7JWpd9aREGxg7UB7HfoR) | 3:39 | 2023-04-11 | 2023-07-05 |
-| [Haiiro](https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Haiiro](https://open.spotify.com/album/5N12cQsHxO70Xs3wWiBwJ2) | 3:53 | 2023-07-18 |  |
+| [Haiiro](https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Haiiro](https://open.spotify.com/album/5N12cQsHxO70Xs3wWiBwJ2) | 3:53 | 2023-07-18 | 2023-09-06 |
 | [Hallo Gallo](https://open.spotify.com/track/5tEcZDbPrZDoPf5EYU9Y84) | [フィン \(CV.入野自由\)](https://open.spotify.com/artist/19Eztn3ipHq4vAh5bkWidF), [ミト \(クラムボン\)](https://open.spotify.com/artist/1jpK6BQogVa5NnFoX4okCu) | [Hallo Gallo](https://open.spotify.com/album/7dKjwg0fhfKTWFyhvR3Ucu) | 5:17 | 2022-08-30 | 2022-09-21 |
 | [Hanauta to Mawarimichi](https://open.spotify.com/track/37Fx5MyAKqKt5cGGu7SO0f) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Hanauta to Mawarimichi](https://open.spotify.com/album/7D7g3pL9H6eT9Ey3kWgt8C) | 3:35 | 2023-04-04 | 2023-05-10 |
 | [Hand](https://open.spotify.com/track/7LpaTtdSp28hoLXekLqyrI) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Hand](https://open.spotify.com/album/4GcffOwXkVml0RAgWH8sSF) | 5:07 | 2022-08-02 | 2022-10-05 |
@@ -222,7 +223,7 @@
 | [It's My Soul](https://open.spotify.com/track/6DBJ85yCuh5oP6RIGbogaR) | [Hiroki Nanami](https://open.spotify.com/artist/1NHRqPGPH0rhraHYVzzgP9) | [It's My Soul](https://open.spotify.com/album/5Jc3k5zbt7RDBYLneXlF6N) | 3:47 | 2023-07-11 | 2023-08-25 |
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-06-30 |
 | [ivory](https://open.spotify.com/track/566gHnAOFGLzHZRIctmODd) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ivory](https://open.spotify.com/album/7tYtj8EZfUDZO9EscKsuhp) | 3:30 | 2022-10-18 | 2022-10-20 |
-| [I’ll Be There](https://open.spotify.com/track/10woBXtt6mnTQPv8BDebtz) | [LINKL PLANET](https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS) | [I’ll Be There](https://open.spotify.com/album/0cmaPrUZmvXC9VoARtNIB5) | 3:57 | 2023-08-24 |  |
+| [I’ll Be There](https://open.spotify.com/track/10woBXtt6mnTQPv8BDebtz) | [LINKL PLANET](https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS) | [I’ll Be There](https://open.spotify.com/album/0cmaPrUZmvXC9VoARtNIB5) | 3:57 | 2023-08-24 | 2023-09-06 |
 | [I’m a Voice Actor \- Big Band version③](https://open.spotify.com/track/23iZwGBqHlO9ybMb4VD4jD) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [HATANO WATARU THE BEST](https://open.spotify.com/album/4lXNjJoVfpNhIjG2TDRK0W) | 4:42 | 2023-03-14 | 2023-04-09 |
 | [Joyful](https://open.spotify.com/track/2zRLLFvhcAlfqPTt5dzd2Y) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Joyful](https://open.spotify.com/album/1aB0YGK9wQktijd3N9W84d) | 3:36 | 2023-08-29 |  |
 | [Judgement](https://open.spotify.com/track/1hPFCT7wqA0TOIby783Rd9) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Judgement](https://open.spotify.com/album/5cBA9ERPjJc5TgWnwiqCJf) | 3:46 | 2023-01-17 | 2023-04-12 |
@@ -601,6 +602,7 @@
 | [ジャーニーズ・トランク](https://open.spotify.com/track/1sk0w6ug8F6RXKA7iCZJcY) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ジャーニーズ・トランク](https://open.spotify.com/album/6QC9ZNC4o9hzMsGBVs2NAQ) | 4:21 | 2022-12-20 | 2022-12-22 |
 | [ジュブナイル](https://open.spotify.com/track/0EIlSiMlNJDHecJUkmzYer) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [ジュブナイル](https://open.spotify.com/album/0omLVfcLxIrrw4WFZJMzLo) | 4:21 | 2023-01-24 | 2023-04-12 |
 | [スカー](https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [スカー](https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd) | 4:19 | 2022-10-18 | 2023-01-11 |
+| [スクラップアート](https://open.spotify.com/track/1cza4rtohdOAOZNtDQWCYO) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/4FeGPKB2ofgaHrUHI7CDyV) | 3:33 | 2023-09-05 |  |
 | [スクワッド!](https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [スクワッド!](https://open.spotify.com/album/12SiALYHMtpakrYud5tAAB) | 3:53 | 2023-02-07 | 2023-04-14 |
 | [スターチス](https://open.spotify.com/track/3WpkBKPICz2m3cxZaaVA19) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [スターチス](https://open.spotify.com/album/398wuzoQbshuwpTcTQdZSC) | 4:03 | 2023-06-15 | 2023-07-19 |
 | [スノーライト](https://open.spotify.com/track/0Kb74cofcnavVwe4Tpcdv9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [WINTER TRACKS \-冬のうた\-](https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n) | 4:23 | 2022-12-06 | 2023-01-06 |

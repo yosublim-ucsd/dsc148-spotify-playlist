@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 278181,
+  "num_followers": 278296,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzcwOWYwOGVkNjEyNmY0ZmVlYWZiN2RiZDI2YTc1YTBjYmE5ZTIw",
+  "snapshot_id": "MCxmMGI1MTgxMGVkZDc2NmY2MzcwZjgyYWQ2ZjM4NTA5OWUzZjExNDE0",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Brisa Positiva",
-        "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 204224,
-      "name": "Brisa Positiva",
-      "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Rindo \u00c0 Toa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 195118,
       "name": "Rindo \u00c0 Toa - Ao Vivo",
       "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Brisa Positiva",
+        "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 204224,
+      "name": "Brisa Positiva",
+      "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
-      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Por A\u00ed",
         "url": "https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 185470,
       "name": "Por a\u00ed",
       "url": "https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
+      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
-        }
-      ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
       "added_at": "2023-09-01 03:01:00",

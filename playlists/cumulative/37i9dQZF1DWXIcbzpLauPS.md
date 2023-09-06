@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Silent Planet
 
-736 songs - 1 day 22 hr 15 min
+737 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,8 @@
 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 | 2022-01-21 | 2022-07-23 |
 | [Nighthawk](https://open.spotify.com/track/1t1Hn5Zo6PwuIHCYxa4Agl) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Love Language](https://open.spotify.com/album/4tgzmgqcGcWyIwJra8EXNE) | 3:54 | 2022-05-06 | 2022-08-20 |
 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 | 2023-02-10 |  |
-| [Nightmare](https://open.spotify.com/track/3I0D4tybrEm75F1wEJh0zy) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Nightmare](https://open.spotify.com/album/0HawtydKGwrtka6Y96wzvJ) | 4:28 | 2023-08-04 |  |
+| [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 | 2023-08-18 |  |
+| [Nightmare](https://open.spotify.com/track/3I0D4tybrEm75F1wEJh0zy) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Nightmare](https://open.spotify.com/album/0HawtydKGwrtka6Y96wzvJ) | 4:28 | 2023-08-04 | 2023-09-06 |
 | [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-07-13 | 2022-07-23 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-07-13 | 2022-07-23 |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |

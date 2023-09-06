@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,168 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,241 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [I'm Good](https://open.spotify.com/track/6LVQaE9vOEGxFKQ3tTWU0B) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [I'm Good](https://open.spotify.com/album/5yt8yhFIRTXMtBnnqcD3Ul) | 2:35 |
 | 80 | [Elmina](https://open.spotify.com/track/3NlFpLNLAyv1f838clGuQD) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:40 |
 
-Snapshot ID: `MCw4NmNhYmVkMGJjY2FkMjM4OTQ3ZGM5MDcxN2ZhMTk3NDFhZTcwMDk4`
+Snapshot ID: `MCw2N2VjNDlkMDRiN2QyYThhNDg2MGFkZjdjNjdlNWI0MTc1MGViYjc0`

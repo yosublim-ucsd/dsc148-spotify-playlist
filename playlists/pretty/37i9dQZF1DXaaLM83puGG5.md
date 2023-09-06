@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with Gyalifest!
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,582 likes - 51 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,661 likes - 51 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 50 | [Likkle Miss \(with Skeng\) \- Remix](https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Queen Radio: Volume 1](https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6) | 2:18 |
 | 51 | [GYALIFEST \(FREESTYLE\)](https://open.spotify.com/track/6T3xbB8cVbpOFjOMbhLmAI) | [TyBass](https://open.spotify.com/artist/3A7pFV5PJyJX51l0XWNYV0) | [GYALLERY \(SIDE A\)](https://open.spotify.com/album/1IwMzVwsfQvLrwmHkug0Cy) | 2:08 |
 
-Snapshot ID: `MCxjZjNmODRjZGNkNjYyNDAwOTcxOGQ3ZTI1N2NkNzQ2ZWRmNWUwNmZh`
+Snapshot ID: `MCw4YWRhZDg4ODQxNTQ3YTZmNjYxZGVmOTEzMDNjZWE1MWUwZWUzZDIw`

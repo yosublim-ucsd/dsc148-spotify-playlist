@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421349,
+  "num_followers": 421354,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
+  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Droga Pesada (feat. Nairo)",
+        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Droga Pesada (feat. Nairo)",
+      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Putaria e Crime",
         "url": "https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL"
       },
@@ -1295,30 +1315,6 @@
       "duration_ms": 243548,
       "name": "Putaria e Crime",
       "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "JORGE",
-        "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
-      },
-      "artists": [
-        {
-          "name": "JOCA",
-          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
-        },
-        {
-          "name": "Nizaj",
-          "url": "https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr"
-        },
-        {
-          "name": "Reurbana",
-          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "JORGE",
-      "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1347,22 +1343,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Droga Pesada (feat. Nairo)",
-        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
+        "name": "JORGE",
+        "url": "https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0"
       },
       "artists": [
         {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
         },
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Nizaj",
+          "url": "https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr"
+        },
+        {
+          "name": "Reurbana",
+          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Droga Pesada (feat. Nairo)",
-      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
+      "duration_ms": 160909,
+      "name": "JORGE",
+      "url": "https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw"
     },
     {
       "added_at": "2023-07-12 21:00:00",

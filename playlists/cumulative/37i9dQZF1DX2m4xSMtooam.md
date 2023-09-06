@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-235 songs - 15 hr 5 min
+236 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Call Me](https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 4:10 | 2022-06-28 |  |
 | [Call Me](https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 4:10 | 2022-05-13 | 2022-07-29 |
 | [Caminhos Cruzados](https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:58 | 2022-05-13 | 2022-07-29 |
-| [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 | 2022-06-28 |  |
+| [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 | 2022-06-28 | 2023-09-06 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2023-01-13 |  |
 | [Cavaquinho](https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa) | [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Braziliana](https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST) | 2:13 | 2022-05-13 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-11-11 |  |
@@ -234,6 +234,7 @@
 | [Woodblock Print](https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Green Grapes](https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ) | 3:44 | 2023-01-13 |  |
 | [You Fascinate Me So](https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [You Fascinate Me So](https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW) | 3:59 | 2023-06-13 |  |
 | [You've Changed \- Studio Rio Version](https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 3:46 | 2022-05-13 |  |
+| [Your Laugh](https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Your Laugh](https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL) | 4:22 | 2023-08-31 |  |
 | [Zephyr](https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Santa Tereza](https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM) | 3:46 | 2023-06-13 |  |
 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 | 2022-06-28 |  |
 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 | 2022-05-13 | 2023-08-25 |

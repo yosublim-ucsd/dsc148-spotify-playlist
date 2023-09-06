@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2FmMinHNFfX3Apt34AwEqc.md) - [plain]
 
 > Celebrate one year of Spotify and PlayStation with the biggest tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,316 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/2FmMinHNFfX3Apt34AwEqc.md) - [plain]
 | 64 | [Nasty Freestyle](https://open.spotify.com/track/0PT7nlpo11hYYyfnBgtilT) | [T\-Wayne](https://open.spotify.com/artist/4MIULe6tfg2loNzBy5B9eu) | [Nasty Freestyle](https://open.spotify.com/album/7BqiR1ZnYFkcOnoNIpk7bS) | 2:22 |
 | 65 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/2l8w0zZVn4AZNuzrht7MRT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/5nhoVKDcCXvi3AruUFJWnv) | 4:12 |
 | 66 | [My Way \(feat\. Monty\)](https://open.spotify.com/track/1WoOzgvz6CgH4pX6a1RKGp) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:33 |
-| 67 | [Bang My Head \(feat\. Sia & Fetty Wap\)](https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:13 |
+| 67 | [Bang My Head \(feat\. Sia & Fetty Wap\)](https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:13 |
 | 68 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/4Ld3RS6KBXGsvtfmnjxlVl) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/album/7dXFsFhkgoWcb8uyI722km) | 3:27 |
 | 69 | [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 |
 | 70 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |

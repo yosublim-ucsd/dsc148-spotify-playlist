@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-186 songs - 10 hr 51 min
+188 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [From Both Sides Now](https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [From Both Sides Now](https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz) | 4:12 | 2023-02-28 |  |
 | [Gatekeeper](https://open.spotify.com/track/1tFDLeuRNjkpdwiej6gCZH) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/0Od9iGE0VH3ISl3dJwYJ7z) | 2:13 | 2022-07-15 |  |
 | [Gatekeeper](https://open.spotify.com/track/3NpymsA5tpDNj26CLM7FuN) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/4GTw1vgMJTVLIdza7QdhPH) | 2:13 | 2021-11-25 | 2022-07-29 |
+| [God Help the Outcasts](https://open.spotify.com/track/6Gc3wspd9Xqx4BlGHxWpqE) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [God Help the Outcasts](https://open.spotify.com/album/07leyNFhgegG6d02Be7wck) | 2:08 | 2023-09-05 |  |
 | [God's Plan](https://open.spotify.com/track/0u3JkMF1s1fbKt3FyIEBdq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2018](https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31) | 2:23 | 2022-11-18 | 2022-11-26 |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/2ltdhm5JuSUm5L0DizaUwO) | 3:13 | 2021-11-25 |  |
 | [Greatest Love of All](https://open.spotify.com/track/5jgYxqTewXtM1qcsWHnawA) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Two from the 80s](https://open.spotify.com/album/6NuD4zVpPFvzJUESLH5svW) | 3:52 | 2023-04-04 |  |
@@ -164,6 +165,7 @@
 | [Tattoo](https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Tattoo](https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt) | 3:09 | 2023-07-24 |  |
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 |  |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |
+| [The winner takes it all](https://open.spotify.com/track/3JH5SNLLiwxnp1IVFb8AYw) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:53 | 2023-09-05 |  |
 | [Theme From The Deer Hunter](https://open.spotify.com/track/0In8hRbe0nWrlaJuyFtx2Z) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Theme From The Deer Hunter](https://open.spotify.com/album/2wvMb6eQTqbWfe15zqwQSR) | 2:50 | 2023-06-20 |  |
 | [These Days](https://open.spotify.com/track/5yhAp5zikhraHkUJgsUYHN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Music from the Films of Wes Anderson](https://open.spotify.com/album/3RkE0u5OCmNEdPiiHuanbd) | 3:28 | 2022-11-18 | 2022-11-26 |
 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-25 | 2023-01-24 |

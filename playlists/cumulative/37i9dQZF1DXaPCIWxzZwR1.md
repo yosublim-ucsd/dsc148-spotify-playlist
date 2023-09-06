@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Selena Gomez
 
-1,651 songs - 3 day 8 hr 8 min
+1,655 songs - 3 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Back to Friends](https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Back to Friends](https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac) | 3:35 | 2021-07-24 | 2022-04-02 |
 | [Backwards \(feat\. Knox\)](https://open.spotify.com/track/6GgVR79vDpKNuHmULz7loA) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Backwards \(feat\. Knox\)](https://open.spotify.com/album/2WjAg7qrEs39TCmltinppH) | 3:10 | 2023-06-30 | 2023-08-30 |
 | [Bad](https://open.spotify.com/track/6nCjX0hl1UzPTKZzGl3gbi) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Bad](https://open.spotify.com/album/78eD8UfJDPfUempWUV71fV) | 2:55 | 2021-02-16\* | 2021-02-19 |
+| [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-09-05 |  |
 | [BAD BAD News](https://open.spotify.com/track/414ffw6iwJgQqPmIu3Kg9d) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [BAD BAD News](https://open.spotify.com/album/479uhZ3MGxZpBSZgZD3n2Z) | 3:28 | 2021-02-16\* | 2021-02-26 |
 | [BAD BITCH](https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu) | 2:17 | 2023-07-14 |  |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-09-09 | 2022-06-25 |
@@ -200,6 +201,7 @@
 | [Blue](https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGIC MAN](https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U) | 2:39 | 2022-09-09 | 2022-10-15 |
 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 | 2023-03-24 | 2023-05-06 |
 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 | 2021-06-05 |
+| [Blue Butterflies](https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd) | [JHIN](https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c) | [Blue Butterflies](https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K) | 2:17 | 2023-09-05 |  |
 | [Blue Football](https://open.spotify.com/track/3qbYn4ku7WyiqiFd5Z6pWI) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Blue Football](https://open.spotify.com/album/7nKjC4XBQOXbVaX9AycWPt) | 2:27 | 2021-07-31 | 2021-08-07 |
 | [Blue Spirits](https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk) | 3:08 | 2022-12-01 | 2023-03-04 |
 | [Blue Spirits](https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Blue Spirits](https://open.spotify.com/album/7fKKW6npF1UzqRXre0Y39n) | 3:08 | 2022-05-25 | 2022-12-03 |
@@ -1351,6 +1353,7 @@
 | [Storage](https://open.spotify.com/track/2raxtboskowNEHgAp82hEN) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Storage](https://open.spotify.com/album/6JgQR3htcro7E5jsgG1J1y) | 2:58 | 2023-04-28 | 2023-05-20 |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-08-25 | 2021-10-02 |
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2021-11-06 | 2021-12-18 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-05 |  |
 | [Strangers Forever](https://open.spotify.com/track/0mIvRrpvEg5NDJIEoXee1E) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Strangers Forever EP](https://open.spotify.com/album/6TnIod1gUSYfl8EMCgc93H) | 3:13 | 2021-10-30 | 2021-11-20 |
 | [strawberry cheeks](https://open.spotify.com/track/4zaLAS8k38OrOzcixofzwj) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [strawberry cheeks](https://open.spotify.com/album/0qy7ydTLwBmQeHbJMHL88t) | 2:14 | 2021-06-16 | 2021-08-07 |
 | [Strawberry Huracan](https://open.spotify.com/track/0m3DrWZvSJBKBdcJsTmjfy) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Strawberry Huracan](https://open.spotify.com/album/1Kfnp5XUusEkADUkNduLQT) | 2:57 | 2021-09-25 | 2021-10-16 |
@@ -1440,6 +1443,7 @@
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 | 2023-08-19 |
 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 | 2022-06-03 | 2022-06-25 |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 | 2022-04-16 |
+| [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-09-05 |  |
 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 | 2023-08-11 |  |
 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-08 | 2022-08-17 |
 | [The Idea Of You](https://open.spotify.com/track/4CBJcZklxDHIaXBoS58sq4) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [The Idea Of You](https://open.spotify.com/album/1fkTVFIHUNw9uMtGFRCxzd) | 2:58 | 2021-06-12 | 2021-07-13 |

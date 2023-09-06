@@ -4,7 +4,7 @@
 
 > 
 
-652 songs - 1 day 8 hr 46 min
+653 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 | 2022-08-24 |  |
 | [Dah Dah DahDah](https://open.spotify.com/track/5et60d119Qb7UJjhNiugUy) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl) | 2:31 | 2023-03-27 |  |
 | [DARK BROTHERHOOD \(feat\. Lil Baby\)](https://open.spotify.com/track/2q2HyvGHcDbIgHi9o5gpFQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:39 | 2023-01-20 |  |
+| [Dark Knight Dummo](https://open.spotify.com/track/4apiNNK0jp9uqn3JDG9My1) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 4:16 | 2023-09-05 |  |
 | [Daydream](https://open.spotify.com/track/6YUgzPpQxOekI8XtR3n0xo) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:22 | 2023-04-06 |  |
 | [deads](https://open.spotify.com/track/5K5htxLPB8ade25lAtz4da) | [landon\_fr\_tho](https://open.spotify.com/artist/4PCryXFB3crhcB81zQMaJf) | [deads](https://open.spotify.com/album/29PYIRiQWbb4iiaRLEt43y) | 3:29 | 2023-08-30 |  |
 | [Dealership \(feat\. Dougie B & TG Crippy\)](https://open.spotify.com/track/5l2d3o5lS5MXnWD9o85FUD) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [TG Crippy](https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps) | [The D.O.A\. Tape \(Care Package\)](https://open.spotify.com/album/6fKx0UeCduyu1piUvBZJqg) | 3:00 | 2022-12-09 |  |

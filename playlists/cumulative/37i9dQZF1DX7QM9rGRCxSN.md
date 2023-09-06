@@ -2,7 +2,7 @@
 
 ### [Shoegaze & Dreampop en español](https://open.spotify.com/playlist/37i9dQZF1DX7QM9rGRCxSN)
 
-> Belleza y distorsión imaginada por bandas iberoamericanas\. Con te vi en un planetario, en portada.
+> Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
 78 songs - 5 hr 15 min
 

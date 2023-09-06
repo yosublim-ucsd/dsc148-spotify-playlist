@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 276437,
+  "num_followers": 276633,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDE2MmJiNWJlNWIyNjEwY2ZkNmU0OTQwMjY0NGMwYWI5OGIwNjE1",
+  "snapshot_id": "MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
+        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Eric Weissberg",
+          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
+        },
+        {
+          "name": "Steve Mandell",
+          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
         }
       ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+      "duration_ms": 194879,
+      "name": "Dueling Banjos",
+      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
-        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
       },
       "artists": [
         {
-          "name": "Eric Weissberg",
-          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
-        },
-        {
-          "name": "Steve Mandell",
-          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 194879,
-      "name": "Dueling Banjos",
-      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
     },
     {
       "added_at": "2023-08-21 19:26:53",

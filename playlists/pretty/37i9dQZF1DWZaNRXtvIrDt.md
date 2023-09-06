@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Sofia Kourtesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,986 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,020 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 18 | [this time i don't think i can](https://open.spotify.com/track/2PTAzTzFwsxqMcL7T0UB40) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [this time i don't think i can](https://open.spotify.com/album/2yA1k52lUUHBRxl3qRVvns) | 3:54 |
 | 19 | [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 |
 | 20 | [Loosey Goosey](https://open.spotify.com/track/4FtBfbMregS0pXN6zVLbOH) | [Glen S](https://open.spotify.com/artist/72J41bLRJAVBkvW56cy1KR) | [Loosey Goosey](https://open.spotify.com/album/6AQPoD33zlEG9oZGrceawd) | 6:57 |
-| 21 | [Naked \- 1\-800 GIRLS Remix](https://open.spotify.com/track/2Lf4zUwZAP11mjgJGh2O4s) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [1\-800\-GIRLS](https://open.spotify.com/artist/09XCSviVAFm7kXPl3d5E5k) | [Naked \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/4x1ACDaFwrOKIPvU5IKgZ7) | 5:25 |
+| 21 | [Naked \- 1\-800 GIRLS Remix](https://open.spotify.com/track/2Lf4zUwZAP11mjgJGh2O4s) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [Naked \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/4x1ACDaFwrOKIPvU5IKgZ7) | 5:25 |
 | 22 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
 | 23 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
 | 24 | [Joint 2](https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz) | [Unsolicited Joints](https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB) | [Unsolicited Joints](https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r) | 6:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Three Chains](https://open.spotify.com/track/4mtgNcMztMWMXHZeFBJMXu) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Three Chains / Nature](https://open.spotify.com/album/3197zWxS0yTRUN3lH6YRNc) | 4:26 |
 | 70 | [Clown From Two Towns Over](https://open.spotify.com/track/1HuIZ3hrszScXRSqleQxQT) | [Bullant](https://open.spotify.com/artist/7yNYzPpllrc7QPGN9HkyiO) | [Clown From Two Towns Over](https://open.spotify.com/album/1JcvLgZduGx280qHEU5phr) | 8:18 |
 
-Snapshot ID: `MCw3ZjA4Nzc0ODg2ODg5NmQzNzUwOTc5ZDk4NWZkMGE5YTJhOWMwM2Rk`
+Snapshot ID: `MCwzNTMyYjlmY2I3YWYwZThkZjRlNTU1MGYxZWZhZDNkMGRjMTUyY2Zh`

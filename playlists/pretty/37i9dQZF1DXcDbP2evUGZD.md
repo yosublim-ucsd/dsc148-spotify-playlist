@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,313 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,327 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 7 | [Story of my friend \(feat\. Skinny Brown\)](https://open.spotify.com/track/27joS0RwQeMfNR93qvyAmK) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Story of my friend \(feat\. Skinny Brown\)](https://open.spotify.com/album/6cpSzxNa0vQ7uMb5iJHcct) | 3:40 |
 | 8 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
 | 9 | [Even if we fight, can you just remember this? Make eye contact, hold each other's hands, and try not to hurt each other with a low voice and a pretty tone ●](https://open.spotify.com/track/00jNCIdtk5SfowMdqx90kr) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop2](https://open.spotify.com/album/00XjiAPksr88CoEMJvc6ua) | 3:18 |
-| 10 | [Dazed & Confused](https://open.spotify.com/track/1MSDtrmM0lJv1p7LYb2inl) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:47 |
-| 11 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 |
-| 12 | [Dive Baby, Dive](https://open.spotify.com/track/3T3ze3aO6Lq7Q4w6NQ2Hws) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:23 |
+| 10 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 |
+| 11 | [Sins](https://open.spotify.com/track/1Ub5sCBfsF3xGEw4eHqJro) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:26 |
+| 12 | [Dive Baby, Dive](https://open.spotify.com/track/6sH7kPWltg8cTBIylZ0jgS) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:23 |
 | 13 | [Waves of you](https://open.spotify.com/track/2LsWyHF9MiKejJhGHh5DbC) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Waves Of You](https://open.spotify.com/album/1u7azlOD4pSgRjDVUlul4c) | 3:23 |
 | 14 | [Drive!](https://open.spotify.com/track/2AaKHfIiF0fSHo2OA8y446) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Drive!](https://open.spotify.com/album/5anWOL8kYwAj8ZbH6I6LpU) | 3:17 |
 | 15 | [BOY](https://open.spotify.com/track/2zyj0d6XwQqMHTDU907P9t) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [BOY](https://open.spotify.com/album/151pZ4YNWDjXFbKcYvzJie) | 4:27 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 37 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
 | 38 | [Memories of Summer](https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 4:43 |
 | 39 | [I wanna be free](https://open.spotify.com/track/14aB5V0cYhcMCS7wwYm7J9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [I wanna be free](https://open.spotify.com/album/1pEsSiqlkYafvxRxPSbiYd) | 3:32 |
-| 40 | [YAHOO!](https://open.spotify.com/track/25PlNxfa811ouAn1jlfmg2) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/4dXrC1VwOE0Ay1PBmdY1J4) | 3:07 |
-| 41 | [DAGAGA](https://open.spotify.com/track/7ogPprUMrGLCC4DFHCZ669) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/4dXrC1VwOE0Ay1PBmdY1J4) | 2:51 |
-| 42 | [Belief](https://open.spotify.com/track/6p0xfiMeUZD9LN7medZvcb) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/4dXrC1VwOE0Ay1PBmdY1J4) | 4:43 |
+| 40 | [YAHOO!](https://open.spotify.com/track/3pAKjtl6oIn4kEgiNF4bhj) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/5LGmZANhSeT6oLOkBHUf0U) | 3:07 |
+| 41 | [DAGAGA](https://open.spotify.com/track/0W3XGf1QqvMJWNeBaInl2E) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/5LGmZANhSeT6oLOkBHUf0U) | 2:51 |
+| 42 | [Belief](https://open.spotify.com/track/6ZMeVIV4NSBEOUI9VKRNYX) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL) | [DAGAGA](https://open.spotify.com/album/5LGmZANhSeT6oLOkBHUf0U) | 4:43 |
 | 43 | [Sounds Of The Universe](https://open.spotify.com/track/1BEMEYDse9pEV23MqIN2i6) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [THE SOLUTIONS](https://open.spotify.com/album/5IxlRunSlwhbUNyuEjp4ms) | 4:47 |
 | 44 | [In My City](https://open.spotify.com/track/3NpmqDtpJsnPrbLYKGS5rD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [SIGNATURE](https://open.spotify.com/album/2OgkXsEmU9TsgOcsKCF86t) | 3:44 |
 | 45 | [Dance With Me](https://open.spotify.com/track/49K2o60MwtNQiXowEbLg9a) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [LOAD](https://open.spotify.com/album/6gx4lvSob7w5Kj2ZBqWSMa) | 3:17 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 82 | [꽃 Blossom](https://open.spotify.com/track/34f6JDNuJZfRt2Mrd1w00K) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [꽃 Blossom](https://open.spotify.com/album/5W8EKu6OvTWD8V9mt86wc0) | 4:33 |
 | 83 | [눈이 내린다 It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/1vf4FWtwAk47SWqD55osz1) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [발라드 Ballad](https://open.spotify.com/album/4f28918eMeOEGiJNoR2yEk) | 5:39 |
 | 84 | [오후에 Heart](https://open.spotify.com/track/15IPM2Wpw0RXuqSs0sYrgd) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [이주영 Lee Joo Young](https://open.spotify.com/album/4ly25Ewq1QKLykA56eiS3M) | 7:10 |
-| 85 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 |
+| 85 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
 | 86 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 |
 | 87 | [look at me](https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [look at me](https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06) | 4:11 |
 | 88 | [Enemy \(feat\. GEMINI\)](https://open.spotify.com/track/6XoQep0PUbhBV1pnVK4340) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Enemy \(feat\. GEMINI\)](https://open.spotify.com/album/2C7YnsXfAs58GAhU9UpgsP) | 2:47 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCwwNGMxOTEzNTMwZjc3NTExZDUwNmEzZWRhYmI0MDI3MTNhNmNhYzAy`
+Snapshot ID: `MCwxYmEwYjgyZDdkODkyZjhmYTZjMjI1Y2QyYWI2MWI0MmNhMmVmZDhi`

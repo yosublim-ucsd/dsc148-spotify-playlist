@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Prateeksha Srivastava
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,030 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,614 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Sirfira](https://open.spotify.com/track/4EtsQ4vcaGs13NFFLNS6yK) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx) | [Sirfira](https://open.spotify.com/album/4tH5BHPomSPEGxjxKTPY8C) | 2:44 |
 | 75 | [Paar Laaye](https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Paar Laaye](https://open.spotify.com/album/07JJWCjfs4UDGYGCamuncp) | 3:00 |
 
-Snapshot ID: `MCxkYWY1ZjExOThhNTMzZWJiNTIxODUyZGUxN2FhNzFmM2MzYTc0OWY4`
+Snapshot ID: `MCwxNWZjNDRiMmE3YTM1NzliNzJhMjc3ZDFhMmY2MWJlODY0OWRhZDVj`

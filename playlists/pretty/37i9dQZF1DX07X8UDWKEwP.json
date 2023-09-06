@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Gente de Zona",
-  "num_followers": 256569,
+  "num_followers": 256617,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWEyYTIyNDZmNDY5MDMzNmNkZTRmODBmZGMwYmQyN2I4NzNlNmMw",
+  "snapshot_id": "MCw2NjczZGZmZTA3ZDQ3MzQ3ZGU2NzkyZDZkOTMzOWVkODZhM2U5MjBk",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "FOREVER KING",
-        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 203821,
-      "name": "Carcelero",
-      "url": "https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 203821,
+      "name": "Carcelero",
+      "url": "https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Volando",
         "url": "https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx"
       },
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 263631,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 263631,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -915,6 +915,30 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 203590,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
         "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
       },
@@ -927,26 +951,6 @@
       "duration_ms": 271030,
       "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
       "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "JotaB\u00e9",
-        "url": "https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS"
-      },
-      "artists": [
-        {
-          "name": "Daviles de Novelda",
-          "url": "https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 167722,
-      "name": "JotaB\u00e9",
-      "url": "https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd"
     }
   ],
   "unique_name": "el nuevo tropical",

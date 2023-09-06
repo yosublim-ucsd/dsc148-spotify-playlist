@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6586\)
+## Playlists \(6587\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -946,6 +946,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [COUNTER//CULTURE: KennyHoopla](/playlists/pretty/37i9dQZF1DX9Qt5e1zZYbU.md)
 - [COUNTER//CULTURE: PVRIS](/playlists/pretty/37i9dQZF1DXaPYCwLnB6q1.md)
 - [COUNTER//CULTURE: Teezo Touchdown](/playlists/pretty/37i9dQZF1DX6sLOMujY5ZJ.md)
+- [COUNTER//CULTURE: Turnstile](/playlists/pretty/37i9dQZF1DX6gC5r0uG7De.md)
 - [COWBOY BEBOP \-カウボーイビバップ\-](/playlists/pretty/37i9dQZF1DX2niMzbAczXW.md)
 - [CST](/playlists/pretty/37i9dQZF1DX91gZ5XTbTPm.md)
 - [CYWORLD BGM \(싸이월드 BGM\)](/playlists/pretty/37i9dQZF1DXb64n6xan4nb.md)
@@ -3505,6 +3506,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Oscuros 80](/playlists/pretty/37i9dQZF1DX2F8x5aFp3aj.md)
 - [Oscuros 90](/playlists/pretty/37i9dQZF1DWWLHV8zWnb0a.md)
 - [Otis Redding: Covered](/playlists/pretty/37i9dQZF1DWYNrnYO4HTko.md)
+- [Otoño](/playlists/pretty/37i9dQZF1DXdWmNjHAJIwP.md)
 - [Our Blues \(우리들의 블루스\)](/playlists/pretty/37i9dQZF1DX6uViAIcMm0n.md)
 - [Our Roots](/playlists/pretty/37i9dQZF1DWWTyhpyCExup.md)
 - [Our Wave, Nuestro Hip\-Hop](/playlists/pretty/37i9dQZF1DX14V0XKu8GA9.md)
@@ -5944,7 +5946,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Vanguard](/playlists/pretty/37i9dQZF1DWSfMe9z89s9B.md)
 - [Varsity Bars](/playlists/pretty/37i9dQZF1DXdWMJMjqz9bm.md)
 - [Veranito a la Española](/playlists/pretty/37i9dQZF1DX73CRmw4CiSI.md)
-- [Verano](/playlists/pretty/37i9dQZF1DXdWmNjHAJIwP.md)
 - [Verano 2023](/playlists/pretty/37i9dQZF1DX9gKTxAbfFfX.md)
 - [Verano Forever](/playlists/pretty/37i9dQZF1DXdnGF35OawbN.md)
 - [Verano Mix 2023](/playlists/pretty/37i9dQZF1DX2wgG7qxWeEp.md)

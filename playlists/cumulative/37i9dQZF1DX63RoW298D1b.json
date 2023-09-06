@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Reunion",
+        "url": "https://open.spotify.com/album/06DXO5RP52IVBcCF87fCAV"
+      },
+      "artists": [
+        {
+          "name": "Donnie Harman",
+          "url": "https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155118,
+      "name": "A Reunion",
+      "url": "https://open.spotify.com/track/67E9l7Txh7dMUVCFLAfEzu"
+    },
+    {
+      "album": {
         "name": "A Rose",
         "url": "https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA"
       },
@@ -416,6 +434,24 @@
       "duration_ms": 160064,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
+    },
+    {
+      "album": {
+        "name": "Dreamt, far hope...",
+        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139515,
+      "name": "Dreamt, far hope...",
+      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
     },
     {
       "album": {
@@ -910,6 +946,24 @@
       "duration_ms": 136045,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f"
+    },
+    {
+      "album": {
+        "name": "Kastepiisk",
+        "url": "https://open.spotify.com/album/47b0xjoL078opTjTxrQ5vm"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201159,
+      "name": "Kastepiisk",
+      "url": "https://open.spotify.com/track/22fK1BNvptS8jrDqgMQ7Em"
     },
     {
       "album": {
@@ -1731,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "album": {
         "name": "to the sea",
         "url": "https://open.spotify.com/album/2RayBw83k7G2KMzRy4Ecmw"
       },
@@ -1980,6 +2052,24 @@
       "duration_ms": 129000,
       "name": "Worn, Torn and Beautiful",
       "url": "https://open.spotify.com/track/3OlZj48BbU9OHoeL0mbAB2"
+    },
+    {
+      "album": {
+        "name": "Wreszcie",
+        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Kudov\u00e1",
+          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175825,
+      "name": "Wreszcie",
+      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
     },
     {
       "album": {

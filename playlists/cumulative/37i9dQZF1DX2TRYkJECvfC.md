@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-417 songs - 1 day 12 hr 27 min
+418 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 |  |
 | [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 |  |
-| [Gravity](https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH) | 3:57 | 2023-06-30 |  |
+| [Gravity](https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH) | 3:57 | 2023-06-30 | 2023-09-06 |
 | [Gravity \(with Delhia De France\)](https://open.spotify.com/track/6mIce4eaRg6UOFHABNX2xL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Gravity / Daka](https://open.spotify.com/album/29QX0FyGAT6KSSPyzT8s1Q) | 5:29 | 2021-12-08 |  |
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2021-12-08 | 2022-07-28 |
 | [Hide and Seek](https://open.spotify.com/track/6dtObPFRUZ4eKsZZCp9ddZ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Hide and Seek](https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM) | 5:09 | 2021-12-08 | 2022-07-29 |
@@ -391,6 +391,7 @@
 | [Turning My Head](https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/7rRwW48AX1FwDvBl8Oalap) | 6:41 | 2021-12-08 |  |
 | [Turning My Head](https://open.spotify.com/track/6n9S8Xb2FzvKsHnsZczfm4) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Turning My Head](https://open.spotify.com/album/4FfW2yPHUeipHkGhp64PKI) | 6:41 | 2022-05-03 | 2023-03-06 |
 | [Unknown Neighbor](https://open.spotify.com/track/1EETWBjKos9qzuKFWYNK8w) | [Jonny Sum](https://open.spotify.com/artist/0OxVqyycCKHoJKWeuAmBOz) | [Unknown Neighbor](https://open.spotify.com/album/0UC3kcUEraSFCxRROvkiCb) | 6:27 | 2021-12-08 | 2022-07-29 |
+| [Vajkoczy \- Edit](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 2:52 | 2023-09-01 |  |
 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 | 2023-06-30 |  |
 | [Viking](https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [M O N I T O R S](https://open.spotify.com/artist/6ZxQphvx5MuI3m1xzHSE6C) | [Viking](https://open.spotify.com/album/5J4gonRmEDbWf0bdqBaph7) | 6:58 | 2021-12-08 | 2022-07-29 |
 | [Vince Montana Tribute \- LV & Rick Wilhite ReWork](https://open.spotify.com/track/2yMFXtHHJTMTv2ynWl6avF) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Rick Wilhite](https://open.spotify.com/artist/4ayLYM2DPcx5ItuBNT91IJ) | [Expansions In The NYC Preview EP 2](https://open.spotify.com/album/5NCskE1dM8MC2omjVYujlF) | 7:10 | 2021-12-08 | 2023-08-22 |

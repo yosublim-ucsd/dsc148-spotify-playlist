@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 63159,
+  "num_followers": 63226,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzRlMWNmMTY5ZmY0M2QzYTIzMmMwNTkyZjUzN2NmYjFkODI4NGU5",
+  "snapshot_id": "MCwyMmFkYTgwODA2OTBmNDQwZTRiOTVmMGU1ZGVkNjg4Y2FlODY0MmQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 19:32:49",
@@ -767,6 +767,38 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 139017,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
         "name": "Space and Time",
         "url": "https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk"
       },
@@ -791,38 +823,6 @@
       "duration_ms": 190615,
       "name": "Space and Time",
       "url": "https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 139017,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -1399,18 +1399,30 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "2 predictable",
-        "url": "https://open.spotify.com/album/5kEYHZVgXYYZ4bVc7kbZeS"
+        "name": "Hatin' Ass Bitches Anthem",
+        "url": "https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10"
       },
       "artists": [
         {
-          "name": "lilheartbreak",
-          "url": "https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P"
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
+        },
+        {
+          "name": "Flyy TheProducer",
+          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
+        },
+        {
+          "name": "Pyt Ny",
+          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
+        },
+        {
+          "name": "Dj Blizz",
+          "url": "https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu"
         }
       ],
-      "duration_ms": 115866,
-      "name": "2 predictable",
-      "url": "https://open.spotify.com/track/2cc384XtpakSacPvmmbitA"
+      "duration_ms": 116564,
+      "name": "Hatin' Ass Bitches Anthem",
+      "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
     },
     {
       "added_at": "2023-09-01 19:32:49",

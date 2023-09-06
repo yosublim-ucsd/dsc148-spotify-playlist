@@ -98,7 +98,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 116400,
       "name": "2nd Intro",
       "url": "https://open.spotify.com/track/7tYu8dbXS8Ma6hUtszmd1s"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 124231,
       "name": "Bandemic",
       "url": "https://open.spotify.com/track/62zxM0TIkQxPADn6BRj0YE"
@@ -629,6 +629,36 @@
     },
     {
       "album": {
+        "name": "Bent",
+        "url": "https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170267,
+      "name": "Bent",
+      "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
+    },
+    {
+      "album": {
         "name": "Best Friend (Remix)",
         "url": "https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe"
       },
@@ -644,7 +674,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 254493,
       "name": "Best Friend - Remix",
       "url": "https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do"
@@ -822,6 +852,28 @@
       "duration_ms": 149946,
       "name": "Black Mask (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/0Tm6x4oJEjijVO7Yuqtfda"
+    },
+    {
+      "album": {
+        "name": "RISE OF THE SILVERBACK",
+        "url": "https://open.spotify.com/album/62qfNNUNs3SOlrpHfrcauG"
+      },
+      "artists": [
+        {
+          "name": "NEMS",
+          "url": "https://open.spotify.com/artist/1jSMH3JqXunssXcsZSKTJ4"
+        },
+        {
+          "name": "Scram Jones",
+          "url": "https://open.spotify.com/artist/0Bi7gsMOc5xrBd3gSfGsFZ"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165376,
+      "name": "BLICKY",
+      "url": "https://open.spotify.com/track/3SzkIqNNNZi5q9y5OeOxoy"
     },
     {
       "album": {
@@ -1196,7 +1248,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 90091,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/3pU2KkdQkI0lVjVInjFhgB"
@@ -1302,7 +1354,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 123549,
       "name": "Coupe",
       "url": "https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1"
@@ -1452,6 +1504,24 @@
       "duration_ms": 200106,
       "name": "Decisions",
       "url": "https://open.spotify.com/track/4Q67qRlkLStbxuuHsCGCDe"
+    },
+    {
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "album": {
@@ -1674,6 +1744,28 @@
       "duration_ms": 120333,
       "name": "Don\u2019t Know How to Act",
       "url": "https://open.spotify.com/track/5T6W3m9DxbtFQa5XQ1YdvY"
+    },
+    {
+      "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Fetty Luciano",
+          "url": "https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Double It (feat. Fetty Luciano)",
+      "url": "https://open.spotify.com/track/07I8u9BeifIfbH6Zv1YsxR"
     },
     {
       "album": {
@@ -2356,7 +2448,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 160057,
       "name": "Gangsta Boo (with Lil Tjay)",
       "url": "https://open.spotify.com/track/7jr6fz888xjUlsAD2tZzKR"
@@ -2836,7 +2928,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 103482,
       "name": "I Get Luv",
       "url": "https://open.spotify.com/track/7LoHryKSypwGyBD2av1EMO"
@@ -2939,6 +3031,28 @@
     },
     {
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Dafi Woo",
+          "url": "https://open.spotify.com/artist/2JjzeyE4vsgw2KLE6ZLvqz"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Iced Out Audemars (feat. Dafi Woo)",
+      "url": "https://open.spotify.com/track/7KUb9G3NNqbQ8NPb2ccU3s"
+    },
+    {
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj"
       },
@@ -2968,7 +3082,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 196640,
       "name": "If I Can't",
       "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
@@ -3167,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Jessvka (Act Bad)",
+        "url": "https://open.spotify.com/album/0aHtRlbF1e2u1OZxPxd2bS"
+      },
+      "artists": [
+        {
+          "name": "SpliffHappy",
+          "url": "https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132048,
+      "name": "Jessvka (Act Bad)",
+      "url": "https://open.spotify.com/track/1O4rGUOgvDMIHML0M3AJg3"
+    },
+    {
+      "album": {
         "name": "JIGGAS",
         "url": "https://open.spotify.com/album/7mDdnKrgT1NrfQUKdaYCy9"
       },
@@ -3312,7 +3444,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 152641,
       "name": "Kid$ Gotta Eat",
       "url": "https://open.spotify.com/track/2vER9SmX2mlYOVbWmAorxZ"
@@ -3338,6 +3470,28 @@
       "duration_ms": 161462,
       "name": "Kidnap Who",
       "url": "https://open.spotify.com/track/7s0Vb0uZHyJOBueJOJOxFE"
+    },
+    {
+      "album": {
+        "name": "Kiss Of Death",
+        "url": "https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv"
+      },
+      "artists": [
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Kiss Of Death",
+      "url": "https://open.spotify.com/track/5vnxlRCuiR1fzi4t8V1Qt9"
     },
     {
       "album": {
@@ -3370,7 +3524,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 156734,
       "name": "Leave it at That",
       "url": "https://open.spotify.com/track/2px7QflhWF3UMeMXmtHO6e"
@@ -3792,7 +3946,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 249230,
       "name": "Manslaughter (feat. Rick Ross & The-Dream)",
       "url": "https://open.spotify.com/track/5EVzgDPaM0LCM3M5exl3z8"
@@ -3810,7 +3964,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 256226,
       "name": "Many Men (Wish Death)",
       "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
@@ -3978,7 +4132,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 102800,
       "name": "Moody",
       "url": "https://open.spotify.com/track/5kNrhABkAowO87oF0EHDPv"
@@ -4152,7 +4306,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 126000,
       "name": "MY SET PT. III",
       "url": "https://open.spotify.com/track/0S6KnryNmhW3xW4WtvA8H3"
@@ -4188,7 +4342,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 128156,
       "name": "My Shit",
       "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
@@ -4662,7 +4816,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 195056,
       "name": "NY Is Killing Me",
       "url": "https://open.spotify.com/track/14uWrjrpU9TSpahKYPxyZx"
@@ -4800,7 +4954,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 198998,
       "name": "One Way Flight (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
@@ -4876,7 +5030,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 163156,
       "name": "Opp Spotter (feat. B-Lovee)",
       "url": "https://open.spotify.com/track/5KPeT0pL0rK6x8fesfvcGs"
@@ -5324,7 +5478,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 113600,
       "name": "PSA",
       "url": "https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n"
@@ -5342,7 +5496,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 199826,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/24b6djSbUFQtXAdyb3FMbr"
@@ -5514,7 +5668,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 116584,
       "name": "RAGS2BAGS",
       "url": "https://open.spotify.com/track/3wRwRtOvXEeDls3G9xhuzW"
@@ -6648,7 +6802,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 202560,
       "name": "That's My Bitch",
       "url": "https://open.spotify.com/track/1BMzxGds8WSK39p4y432fl"
@@ -6870,7 +7024,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 229899,
       "name": "Timeless (feat. Lil Wayne & Big Sean)",
       "url": "https://open.spotify.com/track/3JGNL5nluPz7ziQjH0EQpm"
@@ -6932,7 +7086,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
@@ -7202,7 +7356,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 138240,
       "name": "Victim",
       "url": "https://open.spotify.com/track/5JxBBjlMRfZzuHX0eNO5Qa"
@@ -7396,7 +7550,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 139928,
       "name": "Watchu Like",
       "url": "https://open.spotify.com/track/1WGMdRXlSzhohMN396g8EL"
@@ -7761,6 +7915,64 @@
     },
     {
       "album": {
+        "name": "Kiss Of Death",
+        "url": "https://open.spotify.com/album/3P7zOlM3IYKqW7f4Px6WKv"
+      },
+      "artists": [
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/58LflM1owDAzQkYIL7ayCX"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/3sgfjF2J3IM1PLwERLdtWF"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152582,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5EjqYGHpzhuoNGGb4ovuXT"
+    },
+    {
+      "album": {
+        "name": "WICK",
+        "url": "https://open.spotify.com/album/7Jg29l2KF1AbTxYqEo3Kqe"
+      },
+      "artists": [
+        {
+          "name": "SpliffHappy",
+          "url": "https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81036,
+      "name": "WICK",
+      "url": "https://open.spotify.com/track/3DodsfEVV89ZlQQ9nh62Ib"
+    },
+    {
+      "album": {
         "name": "WICK",
         "url": "https://open.spotify.com/album/7AUyTx5Ku4MvA4enIW2PZ3"
       },
@@ -7962,7 +8174,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 194401,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/2ioIEWGvazLwBfz1OBgpJ3"
@@ -8032,6 +8244,24 @@
       "duration_ms": 302004,
       "name": "Yamborghini High (feat. Juicy J)",
       "url": "https://open.spotify.com/track/2rqUblDWJKlMVwh9uJc0Vv"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185803,
+      "name": "Yea Yea",
+      "url": "https://open.spotify.com/track/0bjgQ24UZGwKikldIyEOgf"
     },
     {
       "album": {

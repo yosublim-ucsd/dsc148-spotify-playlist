@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 345747,
+  "num_followers": 345798,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGFmNDEyZGQ5ZjhlNDgzODIxNTlkNzk1ZGI2YzI2YzBhN2I0MDQw",
+  "snapshot_id": "MCwxMzgxMjIxNGQyZWM3Y2U0NGU2MGFlMmJjMGM2YmM2ZWFkN2YwNWMy",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:35",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Nos Seus Olhos",
-        "url": "https://open.spotify.com/album/04dmXQ9COXiUhG7UppprxT"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 215277,
-      "name": "Nos Seus Olhos",
-      "url": "https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Nos Seus Olhos",
+        "url": "https://open.spotify.com/album/04dmXQ9COXiUhG7UppprxT"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 215277,
+      "name": "Nos Seus Olhos",
+      "url": "https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Meu Lugar",
+        "url": "https://open.spotify.com/album/40rB2bt1WY6K7vuIFLAMFQ"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        },
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Meu Lugar",
+      "url": "https://open.spotify.com/track/6TfqFXLWyslRByvwmgsOMk"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/3Q6KR2k01ltWu8OtqOmm3E"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica (EP)",
         "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
@@ -735,22 +735,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Meu Lugar",
-        "url": "https://open.spotify.com/album/40rB2bt1WY6K7vuIFLAMFQ"
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
       "artists": [
         {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         },
         {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         }
       ],
-      "duration_ms": 186410,
-      "name": "Meu Lugar",
-      "url": "https://open.spotify.com/track/6TfqFXLWyslRByvwmgsOMk"
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Pisadinha",
-        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Pisadinha",
-      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+        "name": "Pisadinha",
+        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
       },
       "artists": [
         {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
         }
       ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
+      "duration_ms": 196706,
+      "name": "Pisadinha",
+      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Morro Dois Irm\u00e3os",
-        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 259709,
-      "name": "Morro Dois Irm\u00e3os",
-      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Twoth Pick",
         "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 235636,
       "name": "Essa Menina",
       "url": "https://open.spotify.com/track/3YOY3qnwbbAE4TH191Vs35"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Morro Dois Irm\u00e3os",
+        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 259709,
+      "name": "Morro Dois Irm\u00e3os",
+      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Lua e Estrela",
-        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
+        "name": "Interessante e Obsceno",
+        "url": "https://open.spotify.com/album/7Bs9HZ3d8sVzIW5WALFIrk"
       },
       "artists": [
         {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
         }
       ],
-      "duration_ms": 219098,
-      "name": "Lua e Estrela",
-      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+      "duration_ms": 180125,
+      "name": "N\u00e3o Duvido",
+      "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Interessante e Obsceno",
-        "url": "https://open.spotify.com/album/7Bs9HZ3d8sVzIW5WALFIrk"
+        "name": "Lua e Estrela",
+        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
       "artists": [
         {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
         }
       ],
-      "duration_ms": 180125,
-      "name": "N\u00e3o Duvido",
-      "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
+      "duration_ms": 219098,
+      "name": "Lua e Estrela",
+      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1347,6 +1347,22 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1427,6 +1443,22 @@
       "duration_ms": 280736,
       "name": "Cantar e Sangrar",
       "url": "https://open.spotify.com/track/4SGzD1eQto9Cz4vgrPins1"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1531,6 +1563,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "De: Terra; Para: Humanidade",
+        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
+      },
+      "artists": [
+        {
+          "name": "Madu",
+          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
+        },
+        {
+          "name": "Mariana Milani",
+          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
+        }
+      ],
+      "duration_ms": 230441,
+      "name": "De: Terra; Para: Humanidade",
+      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Ao Vivo no Coala Festival 2022",
         "url": "https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO"
       },
@@ -1555,26 +1607,6 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "De: Terra; Para: Humanidade",
-        "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
-      },
-      "artists": [
-        {
-          "name": "Madu",
-          "url": "https://open.spotify.com/artist/0obN5KVtincDY4w79r7NmD"
-        },
-        {
-          "name": "Mariana Milani",
-          "url": "https://open.spotify.com/artist/4ttqPTBzY21MfTI1C7uaF5"
-        }
-      ],
-      "duration_ms": 230441,
-      "name": "De: Terra; Para: Humanidade",
-      "url": "https://open.spotify.com/track/1n6VdycCDCT3LkTvVJF0vK"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1611,38 +1643,6 @@
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Tua Mania",
+        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
+      },
+      "artists": [
+        {
+          "name": "Jona Poeta",
+          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Tua Mania",
+      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Renata Maria",
         "url": "https://open.spotify.com/album/0yGw4IDr5acCU9HMgD0AP3"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 173546,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/20esrvSWWSwppeTNszrqBX"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tua Mania",
-        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
-      },
-      "artists": [
-        {
-          "name": "Jona Poeta",
-          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Tua Mania",
-      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
     },
     {
       "added_at": "2023-09-02 00:00:35",

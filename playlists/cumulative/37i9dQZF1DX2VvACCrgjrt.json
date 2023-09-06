@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 184285,
       "name": "Burned",
       "url": "https://open.spotify.com/track/1lCSVEqFldH6cTMnm28M8k"
@@ -7984,6 +7984,24 @@
       "duration_ms": 184761,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/1FAMmDVKA84HUrA12iFEuE"
+    },
+    {
+      "album": {
+        "name": "Rats",
+        "url": "https://open.spotify.com/album/2zZlhhA9JAb4FztUQJF0Tt"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/57rMaTfl37TwPrZ1omolEa"
     },
     {
       "album": {

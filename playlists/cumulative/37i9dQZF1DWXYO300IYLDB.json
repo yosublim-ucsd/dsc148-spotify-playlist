@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 234176,
       "name": "Down South In New Orleans",
       "url": "https://open.spotify.com/track/5PENTfZs9qEAnmzpRv6YkT"
@@ -1400,6 +1400,24 @@
       "duration_ms": 221377,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP"
     },
     {
       "album": {
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 147333,
       "name": "I Love You So - Acoustic",
       "url": "https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf"
@@ -2461,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "LA On A Saturday Night (Acoustic)",
+        "url": "https://open.spotify.com/album/4VbPKiMuTR1xwYxdHO4myV"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "LA On A Saturday Night - Acoustic",
+      "url": "https://open.spotify.com/track/4DUsBOTsiqZkiF4ePwUPWx"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -2776,7 +2812,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 164873,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB"
@@ -3966,6 +4002,24 @@
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
+    },
+    {
+      "album": {
+        "name": "JEWEL",
+        "url": "https://open.spotify.com/album/1FDqLknodIepWoegA2HDPD"
+      },
+      "artists": [
+        {
+          "name": "Chara",
+          "url": "https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297960,
+      "name": "Swallowtail Butterfly\u301c\u3042\u3044\u306e\u3046\u305f\u301c (JEWEL ver.)",
+      "url": "https://open.spotify.com/track/02EKv3kZQhUc7HuANxgCsT"
     },
     {
       "album": {

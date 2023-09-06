@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-50 songs - 4 hr 1 min
+51 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [コールボーイ](https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:29 | 2022-10-09 |  |
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2022-10-09 |  |
 | [会いたくて \- Piano & Strings Ver.](https://open.spotify.com/track/3gd4Ux9wShJxx4EnnnUipR) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [会いたくて \(Piano & Strings Ver.\)](https://open.spotify.com/album/7cdfYFwm3pvb23U6FOOyXM) | 5:24 | 2022-10-09 |  |
+| [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 |  |
 | [夜のピエロ \- TeddyLoid Remix](https://open.spotify.com/track/6OiZpa36iNzEmNiVszAkQv) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [夜のピエロ \(TeddyLoid Remix\)](https://open.spotify.com/album/0isciWk8sCLPlQQpocBftA) | 3:29 | 2022-10-09 |  |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-10-09 |  |
 | [永遠のあくる日](https://open.spotify.com/track/5WaSJKCZhmRZ8Pxn1oTjA5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [永遠のあくる日](https://open.spotify.com/album/4jFVggky7sWAA2JVf34gXf) | 4:06 | 2022-10-09 |  |

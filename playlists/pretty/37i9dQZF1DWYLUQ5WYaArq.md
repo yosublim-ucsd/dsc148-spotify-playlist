@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Celebrate Father's Day with these songs for dads 💙 Cover: Jimmy Barnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,885 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,884 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 |
 | 50 | [Father's Day](https://open.spotify.com/track/2mnvzsLKEG033tp9Bqm4S1) | [Weddings Parties Anything](https://open.spotify.com/artist/1RNwrc6Yfn4mxT8RCnck0y) | [Difficult Loves](https://open.spotify.com/album/5RdjICDNGB804bJNuSAKXr) | 4:02 |
 
-Snapshot ID: `MCwyYTU3NmUwOTNjZmE4NmFlYWVhYmViM2Y0NDJhMGRlNDVmYjBmY2Nh`
+Snapshot ID: `MCw3MDM3MjUwNjQzMWIwOWZiYzk2NGU3NmEwYTZjZWY4MGJhYWVjNDJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Emitê Único
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,482 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,525 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 21 | [Indomável](https://open.spotify.com/track/0lZp0muwBhwatS2psDYezn) | [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Indomável](https://open.spotify.com/album/6MBx194n7gvVy5s7KTGm4B) | 2:27 |
 | 22 | [Mandona](https://open.spotify.com/track/1cNI6Udwj8fEenmPdZGVYl) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [Mandona](https://open.spotify.com/album/5ySMEWu5ubGZhTegROwwCF) | 2:08 |
 | 23 | [01 Não É 02](https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [01 Não É 02](https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl) | 2:08 |
-| 24 | [Chicotroid](https://open.spotify.com/track/7LODmejGytdT5b0dmgiBbG) | [Ciidinn](https://open.spotify.com/artist/6tx9heZhToSi8HekdSXBwi), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Chicotroid](https://open.spotify.com/album/6wwno6zGx4StXv75dzOciA) | 1:48 |
+| 24 | [Chicotroid](https://open.spotify.com/track/7LODmejGytdT5b0dmgiBbG) | [Ciidinn](https://open.spotify.com/artist/4jNUsW6z3x0vlfavYjwvuH), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Chicotroid](https://open.spotify.com/album/6wwno6zGx4StXv75dzOciA) | 1:48 |
 | 25 | [Ak do Freddy Krueger](https://open.spotify.com/track/1wkEiN7312E1KM5BnKvk4D) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd), [Nandela](https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 3:16 |
 | 26 | [Poderosa](https://open.spotify.com/track/2XlFBuim68cXb9Xp7LmERL) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS) | [Meu Nome Não é Igor %](https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI) | 4:51 |
 | 27 | [Propagar](https://open.spotify.com/track/4OFl89CAbvPeEWwyPeqDgA) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Me Sinto Bem](https://open.spotify.com/track/6Aw6wakQNVU0aGLOeId2fY) | [Andreo](https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO), [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Me Sinto Bem](https://open.spotify.com/album/6gXqtibKBNzaRmlEq9Oa1x) | 2:47 |
 | 75 | [Muda o Clima](https://open.spotify.com/track/5rRiLKbeO2Lb6FeId5eERS) | [UF GANG](https://open.spotify.com/artist/4yIsCbR2dnX4UbeAy1UDp3), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Muda o Clima](https://open.spotify.com/album/7hWHZGvxbVWN8tbxZJv3rr) | 2:30 |
 
-Snapshot ID: `MCw2ZTc1ODFmZTk4MzJhMzNiNWEyYTRjMzg1NTdjZGVjZGNhNDMzYTRi`
+Snapshot ID: `MCwzMjM5NDY1NjFiNDdiNWI5ODRmNDZhYTUxOWIxNTcyZDM2MDkyZWZh`

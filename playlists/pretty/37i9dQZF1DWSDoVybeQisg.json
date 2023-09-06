@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1117806,
+  "num_followers": 1118050,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmU1YjI0NDRiMjUxZDE1NjM0ZGU4NGM3MWFiMmU2ZmI2NGY0YTgy",
+  "snapshot_id": "MCw1NmYwMTc4OTA2ZTdkYWU2N2ZjZGIyMmY5ZTA5M2M2OWE0MDU3MDFm",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Insight Out",
-        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
+        "name": "Buffalo Springfield Again",
+        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
       "artists": [
         {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
         }
       ],
-      "duration_ms": 187693,
-      "name": "Never My Love - Remastered Version",
-      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+      "duration_ms": 172400,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Buffalo Springfield Again",
-        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+        "name": "Insight Out",
+        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
       },
       "artists": [
         {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
+      "duration_ms": 187693,
+      "name": "Never My Love - Remastered Version",
+      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "\"Os Mutantes\"",
-        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
-      },
-      "artists": [
-        {
-          "name": "Os Mutantes",
-          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "A Minha Menina",
-      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Time Has Come: The Best Of The Chambers Brothers",
         "url": "https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 290933,
       "name": "Time Has Come Today",
       "url": "https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "\"Os Mutantes\"",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
+      },
+      "artists": [
+        {
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
     },
     {
       "added_at": "2023-01-18 16:20:47",

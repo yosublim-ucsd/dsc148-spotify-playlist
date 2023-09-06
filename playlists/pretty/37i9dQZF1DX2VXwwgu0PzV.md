@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv?si=fKXu2D3QQDeO8oX71OSFJQ">yoyo michael</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,231 likes - 89 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,291 likes - 89 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 88 | [Go](https://open.spotify.com/track/34V4ubLVKPz1D4WYofFAvY) | [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Go](https://open.spotify.com/album/1Vkwq1DmsTdpHKlL73bSwQ) | 2:48 |
 | 89 | [Confam](https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Confam](https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln) | 2:37 |
 
-Snapshot ID: `MCw0OTQ0YzRmMjU3ZjdlMzk0MzJjY2MxNWE0OWY3ZjdmYjE3YjlhNmE0`
+Snapshot ID: `MCw4OWQ5YjBiZDcyZGU4YTc4Mjk5YTMzODEzNWZhMjU4YmI5ZmQ3NDI3`

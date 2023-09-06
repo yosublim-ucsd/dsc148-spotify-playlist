@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,206 songs - 2 day 7 hr 47 min
+1,207 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [BOMB](https://open.spotify.com/track/5H4gHz16ELn3tFgvVIfApZ) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:19 | 2021-04-11 | 2021-04-13 |
 | [Bon Voyage](https://open.spotify.com/track/3U8JCs5aH9wLpQR08BuPJA) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:14 | 2021-10-23 | 2021-11-28 |
 | [BONES](https://open.spotify.com/track/3QslPNyh3s8UdAtNX3c2Fy) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [BONES](https://open.spotify.com/album/6N3UZW3lXx4yo2PqChk0lO) | 2:34 | 2022-06-24 | 2022-06-26 |
-| [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-08-07 | 2023-09-05 |
+| [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2022-08-07 |  |
 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 | 2023-08-08 | 2023-08-18 |
 | [Break Up](https://open.spotify.com/track/38Jz5IUEXhwvI8c9GKODQU) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:31 | 2022-11-19 | 2022-12-03 |
 | [Brooklyn](https://open.spotify.com/track/6WX6YUtobLydEjuvFqVggj) | [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3), [TumaniYO](https://open.spotify.com/artist/6GSMqHdLtTCTR9pv5ytaTo) | [Brooklyn](https://open.spotify.com/album/10x0aQuG6ziJIPt0FhFJ0Z) | 3:13 | 2021-08-01 | 2021-10-23 |
@@ -258,6 +258,7 @@
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-17 | 2023-09-02 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 | 2022-10-14 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-11-03 |
+| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-09-05 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-11-06 | 2023-02-26 |
 | [If I Could Teach the World](https://open.spotify.com/track/1tGPI2ezxGY8pWqtrMlA8a) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 2:28 | 2022-11-19 | 2022-11-25 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-07-20 | 2022-07-31 |
@@ -454,7 +455,7 @@
 | [PUSSY BOY](https://open.spotify.com/track/2CyGcy1HPxcFfmeUxKnAoe) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:14 | 2021-07-18 | 2021-09-12 |
 | [Putin](https://open.spotify.com/track/3lCZxajTCSYR5OnHPEfa2v) | [Cypis](https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt) | [Putin](https://open.spotify.com/album/7ir16GDY9uc0QwcJP3XttS) | 2:25 | 2022-03-02 | 2022-06-01 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-05-15 | 2023-05-26 |
-| [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 |  |
+| [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 | 2023-09-06 |
 | [quinque](https://open.spotify.com/track/6QRn5fvEBJ1SIcW0ee3fBI) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [quinque](https://open.spotify.com/album/53CyHLyv7xmdkbrJfPiBoR) | 2:30 | 2022-07-16 | 2022-07-21 |
 | [R2F](https://open.spotify.com/track/13LhzupnoFTNb9A5nMGr7u) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Gra Gra / R2F](https://open.spotify.com/album/1yxIPuGgpyoLCb6CSkj5X2) | 1:57 | 2023-04-01 | 2023-04-03 |
 | [RAGNAROK](https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [RAGNAROK](https://open.spotify.com/album/21iXpwif0hx1bu32KMAiDp) | 3:33 | 2023-06-07 | 2023-06-26 |
@@ -689,7 +690,7 @@
 | [Бэйбитрон](https://open.spotify.com/track/7M0s9oTEkUzBSnkUnG0Idr) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:57 | 2022-04-30 | 2022-05-02 |
 | [Бэлмэйн](https://open.spotify.com/track/1IiTqFqIT8BNUsTcJIwqaH) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:41 | 2021-04-29 | 2021-04-30 |
 | [Бібліотека](https://open.spotify.com/track/6ekNzvEmnCPbIdTFjRtw6L) | [Колос](https://open.spotify.com/artist/362iRKPQbIK8S5Eu5rHqtU) | [Kamasutra](https://open.spotify.com/album/2eZfffj22Wsk7zFFkaP2Ld) | 3:05 | 2021-10-09 | 2021-10-30 |
-| [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 |  |
+| [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 | 2023-09-06 |
 | [Біля тополі](https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/2MgSHC8yz1vt0ItAdH0tuJ) | 3:29 | 2023-03-15 | 2023-05-31 |
 | [Біля тополі](https://open.spotify.com/track/3MqaB8TndvgRZ1QSQXH7J7) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/3ladULEuZfnDeQ43IL3kjy) | 3:29 | 2022-07-23 | 2023-01-29 |
 | [В диапазоне](https://open.spotify.com/track/1cmIuauHOxvxzTCFXFnNRL) | [Pornofilmy](https://open.spotify.com/artist/47jBQjRmURjRn3XfLIaHvV) | [В диапазоне между отчаянием и надеждой](https://open.spotify.com/album/6qOOpX7g5uEw3NhOgmy3iq) | 5:31 | 2022-03-09 | 2022-03-27 |

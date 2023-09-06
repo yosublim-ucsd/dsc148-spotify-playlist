@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 89985,
+  "num_followers": 90233,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmEzZDMyZTkwZDI0NjgyMTgzMjU0MTFlZTk3MTM1ZTE5YmY4Njhk",
+  "snapshot_id": "MCxlYTQ5OGMyNzAxMGUwZWYxYmY4NGQ2MWZkMzdlMGMzOGNkNzIxMmU3",
   "tracks": [
     {
       "added_at": "2023-09-01 15:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "\u604b\u604b\u98a8\u6b4c",
-        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
-      },
-      "artists": [
-        {
-          "name": "Tsuji Ayano",
-          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "\u98a8\u306b\u306a\u308b",
-      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
-    },
-    {
-      "added_at": "2023-09-01 15:00:00",
-      "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 287986,
       "name": "The World's Continuation",
       "url": "https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4"
+    },
+    {
+      "added_at": "2023-09-01 15:00:00",
+      "album": {
+        "name": "\u604b\u604b\u98a8\u6b4c",
+        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
+      },
+      "artists": [
+        {
+          "name": "Tsuji Ayano",
+          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
     },
     {
       "added_at": "2023-09-01 15:00:00",

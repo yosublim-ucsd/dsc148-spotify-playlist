@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-132 songs - 7 hr 31 min
+133 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Chance Kedacha](https://open.spotify.com/track/7isPmXyAHlX7VSOsAqVdBg) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [LD.PAUL](https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G), [LIL.PUT](https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx) | [Chance Kedacha](https://open.spotify.com/album/2vliLICqA3XGHrLX7nPldg) | 2:16 | 2023-04-18 | 2023-08-01 |
 | [Commercial Paatu](https://open.spotify.com/track/43c6wb3b7zcIP42t7FLKWd) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Commercial Paatu](https://open.spotify.com/album/4ypCop9DJXjYJMRs1LdaZt) | 3:22 | 2023-03-21 | 2023-06-02 |
 | [Crushu Ponnu](https://open.spotify.com/track/6K9UX4O0gJDWB5WA2yKZ8F) | [Vithun Gopal](https://open.spotify.com/artist/1aFooHTtn9P4VBcBFIlVRe), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Crushu Ponnu](https://open.spotify.com/album/221xzfAS0aodo5AAkYo1RQ) | 3:37 | 2023-06-30 |  |
+| [Destination Jaffna](https://open.spotify.com/track/61yCcXrcPPsoOrmCWahK9m) | [Siva Pathmayan](https://open.spotify.com/artist/7JzKRkQOBMUczTAXjPw2w9), [Mahi SR](https://open.spotify.com/artist/684Kq2nF1JGJs9oJ0OwZ9s), [Dayas Mohanathas](https://open.spotify.com/artist/52EbtvgJ1cyG14ZjUG14Mm), [Shadhurshana J](https://open.spotify.com/artist/0nIC9wNsIOBwBfCIJgPZrV) | [Destination Jaffna](https://open.spotify.com/album/1Y5iSPqCC9PtHBFK260axX) | 4:35 | 2023-09-05 |  |
 | [Doctors' Anthem](https://open.spotify.com/track/0Sy8y9ebd9GZAZspvQEpOI) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Dr\. Nidarshana Pandian](https://open.spotify.com/artist/2kDp4tt7madJAjKX8jX0mv) | [Doctors' Anthem](https://open.spotify.com/album/5Z3jZzAx52YeGuCyjtiHDy) | 3:01 | 2023-06-29 |  |
 | [Dopamine](https://open.spotify.com/track/46uVjOchiOzNChMb36MKN2) | [Vijay Krishna](https://open.spotify.com/artist/5lEkeVdPIfR5GuqtfhpfyW), [Subash Mouli](https://open.spotify.com/artist/6u7Hv6H979EzkmglgndHKh) | [Dopamine](https://open.spotify.com/album/5uE6rPTznwSR9IXxgUHcpi) | 4:11 | 2023-07-03 |  |
 | [Dry Ice](https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE) | [Dry Ice](https://open.spotify.com/album/4kULflG4C2hAYSCUcbU2hD) | 3:11 | 2023-07-24 |  |

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-496 songs - 1 day 3 hr 50 min
+498 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 | 2022-09-19 |
 | [SIN](https://open.spotify.com/track/07UgTBVnVv7NnnJZynZVvX) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [SIN](https://open.spotify.com/album/4LYixRI9Z6wYnsJ6NwKgzH) | 3:18 | 2023-05-26 | 2023-07-20 |
 | [Since I Found You](https://open.spotify.com/track/0NyEvykxXpR7b7u81cyJuz) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [AMBUSH](https://open.spotify.com/album/4wwz78eGEjot2bqn2FAvZG) | 4:26 | 2022-06-25 | 2023-01-30 |
+| [skydrivin](https://open.spotify.com/track/1o8ldMCYDBQ1fFsOBPXfpB) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [skydrivin](https://open.spotify.com/album/70pPkKEzYL70r95sCzvdqe) | 4:31 | 2023-09-06 |  |
 | [skyscraper](https://open.spotify.com/track/4i87u5anIS97aQmulZU11D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎skyscraper](https://open.spotify.com/album/78r14RCs0xkOIIM38usQXQ) | 1:25 | 2023-03-24 | 2023-07-20 |
 | [Sleepless](https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 4:20 | 2022-07-21 |  |
 | [Sleepless \- The Knocks Remix](https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Sleepless \(The Knocks Remix\)](https://open.spotify.com/album/7dYiwBC4Q0d5RcT6otipKY) | 3:28 | 2022-10-14 |  |
@@ -485,6 +486,7 @@
 | [we're the last to leave](https://open.spotify.com/track/65FtIT9LaWdq7tU7vALHux) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [we're the last to leave](https://open.spotify.com/album/2erNbl7B1sTcOLElOPMtLp) | 2:27 | 2023-02-02 | 2023-07-20 |
 | [Weatherman \(feat\. Syd Silvair\)](https://open.spotify.com/track/2tNdqugzaMCRpoLEM3SqF6) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Syd Silvair](https://open.spotify.com/artist/4f2LaSXjjsqEZxRNNZL7qw) | [Weatherman](https://open.spotify.com/album/5ARlGhUDTTIQSQEqmBz8HW) | 4:50 | 2022-11-18 | 2023-01-30 |
 | [Weekdays](https://open.spotify.com/track/1fmLw7Ai93hZI7b34NPhyn) | [George Gretton](https://open.spotify.com/artist/2NG92AgykZYQwwuQ479zMo) | [Ordinary Life](https://open.spotify.com/album/4n7CoMmbjWPyMDikoNNFg0) | 3:27 | 2022-09-06 | 2022-10-06 |
+| [Westside](https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5) | 2:56 | 2023-09-06 |  |
 | [Whatever You Want](https://open.spotify.com/track/7hlml5x7bmGCjNz408WIrh) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Whatever You Want](https://open.spotify.com/album/40gxf5OtiUy2XMOUPUiG0m) | 2:38 | 2022-03-17 | 2022-04-19 |
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-15 | 2022-03-10 |
 | [While My Waves Wonder \- Slow Magic Remix](https://open.spotify.com/track/5D6DcNe4mRDejrA68zyXTH) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [While My Waves Wonder \(Slow Magic Remix\)](https://open.spotify.com/album/2SRBOc1uiyQKVOrWesetuH) | 4:17 | 2022-01-18 | 2022-02-05 |

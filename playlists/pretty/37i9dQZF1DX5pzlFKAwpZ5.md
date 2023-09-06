@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,479 likes - 148 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,551 likes - 148 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Planet of Sorrow](https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 3:13 |
+| 1 | [Planet of Sorrow](https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 3:15 |
 | 2 | [Plants Feast](https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Plants Feast](https://open.spotify.com/album/3HAH0Vl5Fbu0eoM5wgUH2W) | 3:26 |
 | 3 | [Brilliant 2.0](https://open.spotify.com/track/59HdINjnHVrnyUPoPzfgzP) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Brilliant 2.0](https://open.spotify.com/album/2d0UpDlqEib3e93cQF4l7R) | 2:40 |
 | 4 | [Sweltering Drive](https://open.spotify.com/track/3tKoE2bSAGPxtpxuTjnwQ8) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:54 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 24 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 |
 | 25 | [SUNNYSIDE OF THE WATER/水と光](https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 3:07 |
 | 26 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 |
-| 27 | [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:43 |
+| 27 | [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:45 |
 | 28 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 |
 | 29 | [Breeze from Mt\. Rokko](https://open.spotify.com/track/6j6ARhxCVB9r0cSbfccTon) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 5:34 |
 | 30 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 147 | [Körper](https://open.spotify.com/track/5LoatYCsraVXB08X6bhpzO) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Raum](https://open.spotify.com/album/1CPBp6tHWeEUM87bEBCpxS) | 5:55 |
 | 148 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 |
 
-Snapshot ID: `MCw1NTAzNWIyNjY2NTk0MDc0ODZiMTljMWQ4NmJmZmU4NmNjYWEyYjUw`
+Snapshot ID: `MCxmMjQxNmNmZTY3ODkxN2U1NDY1OGQxYWU5ZDViYjU4YTE3OGQ0Y2Rk`

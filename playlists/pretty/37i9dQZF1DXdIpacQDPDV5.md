@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Young Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,458 likes - 65 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,465 likes - 65 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 36 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 |
 | 37 | [Levitate](https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Soul Edge](https://open.spotify.com/artist/56WvcWLyO6ri4rhr21HMpa) | [Levitate](https://open.spotify.com/album/2nBnSn82VCM4k19bmD9h4a) | 3:22 |
 | 38 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
-| 39 | [Deep Of The Night \(feat\. Darla Jade\)](https://open.spotify.com/track/1CGMLxm11Fu1gYE0PNJgpJ) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Deep Of The Night \(feat\. Darla Jade\)](https://open.spotify.com/album/09ZAbS57fE8S5uFkK1Ceax) | 3:12 |
+| 39 | [Deep Of The Night \(feat\. Darla Jade\)](https://open.spotify.com/track/1CGMLxm11Fu1gYE0PNJgpJ) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Deep Of The Night](https://open.spotify.com/album/09ZAbS57fE8S5uFkK1Ceax) | 3:12 |
 | 40 | [Higher](https://open.spotify.com/track/1dIJzOc9zajGy9MicYlGre) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Higher](https://open.spotify.com/album/0eVUuKuOOeT87I5hu9PQJY) | 3:17 |
 | 41 | [Ibiza 93 \(XTC\)](https://open.spotify.com/track/3kAdftocMzgICUIBwStnuv) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Ibiza 93 \(XTC\)](https://open.spotify.com/album/0cYWEFc3G9QeXjj9hb53gU) | 2:52 |
 | 42 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Corazon](https://open.spotify.com/track/4bkHJAWyOkR15GCbMDLGry) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [EMRIA](https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl) | [Corazon](https://open.spotify.com/album/0prBKnc88KRVmIOZCiIv9k) | 4:08 |
 | 65 | [XTRDNR \(feat\. Boogát\)](https://open.spotify.com/track/1DdVrLHVEMKQdyQC1bGgOs) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [The Deadleez](https://open.spotify.com/album/4DsL01rmcJStmt2QewNrnl) | 2:41 |
 
-Snapshot ID: `MCw5MWU2ZjBiN2E4NWU5NGQ2MzIxMDRmODM1NDU2ZmVkODFlNzkwYjY4`
+Snapshot ID: `MCxjNjk3OTJlNWJiNWFjMWY0NTBlZWY2ZDYxMzk2NWVlODNlMWMyMWRk`

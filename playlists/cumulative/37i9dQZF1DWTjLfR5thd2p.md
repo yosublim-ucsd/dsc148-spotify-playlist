@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-405 songs - 17 hr 45 min
+406 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Instant Stillness](https://open.spotify.com/track/3haMh6Cy2skBZzZcBZA7qt) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Instant Stillness](https://open.spotify.com/album/3Uy5IMKPuYCOiu0otRJTv7) | 3:46 | 2022-05-20 |  |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2022-05-20 |  |
 | [Je crois en toi](https://open.spotify.com/track/5yCggunPid4GYMxzCQbk99) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [Je crois en toi](https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL) | 2:39 | 2022-05-20 |  |
-| [Joy Cycle](https://open.spotify.com/track/5wD41YdV6elIjkotk5Tc9X) | [Felted Mind](https://open.spotify.com/artist/2Whahebr1XkVsvmbpR2l8d) | [Joy Cycle](https://open.spotify.com/album/4RiB9rJRynWtQcgwsM6lA8) | 3:00 | 2022-05-20 |  |
+| [Joy Cycle](https://open.spotify.com/track/187XMbww7baW7X7zHDOTZL) | [Felted Mind](https://open.spotify.com/artist/2Whahebr1XkVsvmbpR2l8d) | [Joy Cycle](https://open.spotify.com/album/70pjqgJZQMHf6ZEucWPgsj) | 3:00 | 2023-08-15 |  |
+| [Joy Cycle](https://open.spotify.com/track/5wD41YdV6elIjkotk5Tc9X) | [Felted Mind](https://open.spotify.com/artist/2Whahebr1XkVsvmbpR2l8d) | [Joy Cycle](https://open.spotify.com/album/4RiB9rJRynWtQcgwsM6lA8) | 3:00 | 2022-05-20 | 2023-09-06 |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-05-20 |  |
 | [Just as sweet](https://open.spotify.com/track/0dq7eyvLUORWRTbiMz6eg8) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Just as sweet](https://open.spotify.com/album/0Sq2GMSzWwMtNbs5pYSss7) | 1:36 | 2023-06-27 |  |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-05-20 |  |

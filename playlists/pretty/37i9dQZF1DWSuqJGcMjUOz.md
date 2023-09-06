@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,945 likes - 132 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 132 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 23 | [Trucs sentimentaux](https://open.spotify.com/track/0NT1m7xV6uPI1BrCtR8oGH) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Trucs sentimentaux](https://open.spotify.com/album/74t7aoBKMDhrWiuoTGiReO) | 3:35 |
 | 24 | [Tristesse](https://open.spotify.com/track/0gv9l2E8gtjImlE0PDtIJs) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:31 |
 | 25 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 |
-| 26 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 |
-| 27 | [Opium](https://open.spotify.com/track/1W325J3EXLqppfS7l8kX8g) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Poésie d'une pulsion](https://open.spotify.com/album/5QInkfw4rXZuKb0lyThqlb) | 3:26 |
+| 26 | [Opium](https://open.spotify.com/track/1W325J3EXLqppfS7l8kX8g) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Poésie d'une pulsion](https://open.spotify.com/album/5QInkfw4rXZuKb0lyThqlb) | 3:26 |
+| 27 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 |
 | 28 | [Le blanc des yeux](https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Le blanc des yeux](https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z) | 2:57 |
 | 29 | [80's](https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [80's](https://open.spotify.com/album/2XjaUCMkWHkRd996KUVOHT) | 3:21 |
 | 30 | [La boxeuse amoureuse](https://open.spotify.com/track/18NBBN8LJ1a2nVIFoFK5bT) | [Arthur H](https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR) | [Amour chien fou \(Édition deluxe\)](https://open.spotify.com/album/0qxienTCfHJ1kf9Sq4dyex) | 4:53 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 62 | [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 |
 | 63 | [Porcelaine](https://open.spotify.com/track/02kvxStDNETkmbPPxEm6kF) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:22 |
 | 64 | [AlgeVita](https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [AlgeVita](https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt) | 2:34 |
-| 65 | [Plan Large](https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI) | [Glauque](https://open.spotify.com/artist/1iZD9g4AQZNty8Z0TjBe1X) | [Plan Large](https://open.spotify.com/album/5BCdQbyzn2Od3LooHrOclF) | 3:43 |
-| 66 | [Les avions de Mirabel](https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Les avions de Mirabel](https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ) | 3:40 |
+| 65 | [Les avions de Mirabel](https://open.spotify.com/track/70L2pzDrtjjpvhBjjhoR6r) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Les avions de Mirabel](https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ) | 3:40 |
+| 66 | [Plan Large](https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI) | [Glauque](https://open.spotify.com/artist/1iZD9g4AQZNty8Z0TjBe1X) | [Plan Large](https://open.spotify.com/album/5BCdQbyzn2Od3LooHrOclF) | 3:43 |
 | 67 | [Si j'étais toi](https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh), [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Si j'étais toi](https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r) | 2:24 |
 | 68 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
 | 69 | [Débloquer](https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/0nLznb2oEE0QTEpYciNEoU) | 3:27 |
 | 70 | [Combien de fois](https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 2:34 |
 | 71 | [Chicago](https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Cosmologie](https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY) | 3:18 |
-| 72 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 |
-| 73 | [+1 \(feat\. Meggie Lennon & Virginie B\)](https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt) | 2:18 |
-| 74 | [Penses\-tu rester encore?](https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Il faut partir maintenant](https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm) | 2:58 |
+| 72 | [+1 \(feat\. Meggie Lennon & Virginie B\)](https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt) | 2:18 |
+| 73 | [Penses\-tu rester encore?](https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Il faut partir maintenant](https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm) | 2:58 |
+| 74 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 |
 | 75 | [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 |
 | 76 | [Parler](https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol) | 3:38 |
 | 77 | [Le matin](https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le soleil et la mer](https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s) | 2:48 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 131 | [Pénélope](https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [la fin n’arrive jamais](https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d) | 4:15 |
 | 132 | [Moshpit à St\-Dilon](https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe) | [Margaret Tracteur](https://open.spotify.com/artist/6yXQF0UCrQ1Fqk2unBiqyz) | [L'heure du thé avec Margaret Tracteur](https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP) | 3:48 |
 
-Snapshot ID: `MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4`
+Snapshot ID: `MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk`

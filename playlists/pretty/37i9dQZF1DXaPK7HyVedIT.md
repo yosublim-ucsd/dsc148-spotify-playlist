@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,682 likes - 66 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,782 likes - 66 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 65 | [My Neck, My Back](https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [My Neck, My Back](https://open.spotify.com/album/5GW2S5DnOKOVUkgvhK2aHr) | 3:06 |
 | 66 | [Piece of Mind](https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 3:16 |
 
-Snapshot ID: `MCw5ZTc1YTJhYzVmYjgwNTE4ZDNiM2I4Njg0ZGNmODUwMjg2Yzg4NDQz`
+Snapshot ID: `MCw1MzMyOTY1NDlmM2E1MjdkOWM3MTgzZjIxNmM1NjRjOTFlZGIzMjc0`

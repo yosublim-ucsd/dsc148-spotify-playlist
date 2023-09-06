@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,168 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,247 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 7 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 |
 | 8 | [Glitch](https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:21 |
 | 9 | [Safe And Sound](https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Safe And Sound](https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH) | 3:21 |
-| 10 | [Nightmare](https://open.spotify.com/track/3I0D4tybrEm75F1wEJh0zy) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Nightmare](https://open.spotify.com/album/0HawtydKGwrtka6Y96wzvJ) | 4:28 |
+| 10 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
 | 11 | [Throne of the Sunset](https://open.spotify.com/track/5ATwGbGDPUoSfAx4KaDyYH) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Throne of the Sunset](https://open.spotify.com/album/6rH3SOru96QCO7DKgCZkiS) | 4:08 |
 | 12 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:28 |
 | 13 | [Red](https://open.spotify.com/track/6clolEOVLaSpg3mVelSzEa) | [Woe, Is Me](https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN) | [Red](https://open.spotify.com/album/5vVQSRjTqOTI6Ek6SmHqa9) | 4:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 84 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 |
 | 85 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 
-Snapshot ID: `MCxhYWE2ZTZjMThiNGI1NDkyMTIxMjcxMjNhMjBlMzg3ZTU3YWIyM2Vk`
+Snapshot ID: `MCxhMWZkYWNlZTBlMjdjMzhlZWVlYTAwOWRlM2RlZGRiMzkxOGIyZDVk`

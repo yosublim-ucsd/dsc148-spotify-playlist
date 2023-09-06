@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Rahasyamay Jheel",
+        "url": "https://open.spotify.com/album/5nyrVmapO2LsNjWhSDNY3l"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Lata",
+          "url": "https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265034,
+      "name": "Rahasyamay Jheel",
+      "url": "https://open.spotify.com/track/1Isy0Bl15sHsM8bXJiDoDV"
+    },
+    {
+      "album": {
         "name": "Rainfall",
         "url": "https://open.spotify.com/album/5doTmyH5erYnc3GMQwZVgX"
       },
@@ -1230,6 +1248,24 @@
       "duration_ms": 216063,
       "name": "The Heritage",
       "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
+    },
+    {
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/36wgKXmGlN2s3Zn0xgyAQq"
+      },
+      "artists": [
+        {
+          "name": "Nepenthesis",
+          "url": "https://open.spotify.com/artist/5eCkBm1UK2IpA92JiNoMV6"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/60MmSr0dMosjVbNVk0nhaK"
     },
     {
       "album": {

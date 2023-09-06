@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 134461,
+  "num_followers": 134544,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjY0NWQwYTNkYTU0YTJiNmMxNGUxZDU3NDFjNjY2ZjY2M2YzNWEz",
+  "snapshot_id": "MCwxYWU2NWU0NDZmODdhZDRiMGI5OTA1YjNmZDU1YzczYjE2NzA2MTJi",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Like It Ain't (Stripped)",
-        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 156690,
-      "name": "Like It Ain't - Stripped",
-      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Girl On Fire (Acoustic)",
         "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 188709,
       "name": "Girl On Fire - Acoustic",
       "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Like It Ain't (Stripped)",
+        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "Like It Ain't - Stripped",
+      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Half Of Me (Acoustic)",
-        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 175639,
-      "name": "Half Of Me - Acoustic",
-      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Half Of Me (Acoustic)",
+        "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 175639,
+      "name": "Half Of Me - Acoustic",
+      "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Take My Name (Wedding Version)",
-        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
+        "name": "All I Need Is You (Piano Version)",
+        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Take My Name - Wedding Version",
-      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
+      "duration_ms": 195806,
+      "name": "All I Need Is You - Piano Version",
+      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1171,6 +1171,22 @@
       "duration_ms": 179680,
       "name": "Girls Like You - Stripped",
       "url": "https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Take My Name (Wedding Version)",
+        "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Take My Name - Wedding Version",
+      "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1207,6 +1223,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Last Rodeo (Acoustic)",
+        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 190031,
+      "name": "Last Rodeo - Acoustic",
+      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "No Horse To Ride (demo version)",
         "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
@@ -1239,22 +1271,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "All I Need Is You (Piano Version)",
-        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 195806,
-      "name": "All I Need Is You - Piano Version",
-      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Forever and Always (Acoustic)",
         "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 190190,
       "name": "Forever and Always (Acoustic)",
       "url": "https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Last Rodeo (Acoustic)",
-        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 190031,
-      "name": "Last Rodeo - Acoustic",
-      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Hate Me More (Stripped)",
-        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "Hate Me More (Stripped)",
-      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Hate Me More (Stripped)",
+        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "Hate Me More (Stripped)",
+      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Your Love (Acoustic)",
-        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 189615,
-      "name": "Your Love - Acoustic",
-      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Studio 900 Sessions",
         "url": "https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 185847,
       "name": "Waiting For You - Acoustic",
       "url": "https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Your Love (Acoustic)",
+        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 189615,
+      "name": "Your Love - Acoustic",
+      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
     },
     {
       "added_at": "2023-09-01 04:00:00",

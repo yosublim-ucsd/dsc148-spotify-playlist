@@ -2851,6 +2851,28 @@
     },
     {
       "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256161,
+      "name": "Dark Knight Dummo",
+      "url": "https://open.spotify.com/track/4apiNNK0jp9uqn3JDG9My1"
+    },
+    {
+      "album": {
         "name": "Top Shotta",
         "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
       },

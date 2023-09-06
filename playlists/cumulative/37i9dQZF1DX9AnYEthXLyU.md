@@ -4,11 +4,12 @@
 
 > when things just feel heavy.
 
-59 songs - 3 hr 18 min
+61 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All My Friends](https://open.spotify.com/track/2H2qPnR96h3m32gZ8cnIAt) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Pop Culture](https://open.spotify.com/album/1RuvsFzs4uK88AzAAznMi3) | 3:24 | 2023-05-03 |  |
+| [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 | 2023-09-05 |  |
+| [All My Friends](https://open.spotify.com/track/2H2qPnR96h3m32gZ8cnIAt) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Pop Culture](https://open.spotify.com/album/1RuvsFzs4uK88AzAAznMi3) | 3:24 | 2023-05-03 | 2023-09-06 |
 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 | 2023-05-03 |  |
 | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/1EBtVgTnh8umbKsdsQi0zg) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/album/3Hua4dqkjlrTTNNqBd5MO8) | 2:24 | 2023-05-03 |  |
 | [Apologies](https://open.spotify.com/track/7BW0dJ7l1iG5YPdzPvVL7W) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 2:53 | 2023-05-03 |  |
@@ -18,7 +19,7 @@
 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 | 2023-05-03 |  |
 | [Broken](https://open.spotify.com/track/32yaRngoDZcF56ApmNaBNz) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:10 | 2023-05-03 |  |
 | [Broken](https://open.spotify.com/track/3xVmo0y8QSYOVLaifgZv8H) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Color Decay](https://open.spotify.com/album/5H93Egq9XH6M9R1mkxQDch) | 3:48 | 2023-05-03 |  |
-| [Chicago](https://open.spotify.com/track/3ZykTVwx06JeQVVxUpiqxa) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Dead Throne](https://open.spotify.com/album/4iYkAfmG9mB9whqxDEPgfI) | 2:44 | 2023-05-03 |  |
+| [Chicago](https://open.spotify.com/track/3ZykTVwx06JeQVVxUpiqxa) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Dead Throne](https://open.spotify.com/album/4iYkAfmG9mB9whqxDEPgfI) | 2:44 | 2023-05-03 | 2023-09-06 |
 | [Coming Down](https://open.spotify.com/track/6k3a5Y044Dm32g3yIo2zhK) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [BOYS DO CRY](https://open.spotify.com/album/7wezeeUZVM2EAzsdqlNzWj) | 3:11 | 2023-05-03 |  |
 | [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 | 2023-05-03 |  |
 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 | 2023-05-03 |  |
@@ -34,7 +35,7 @@
 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 | 2023-05-03 |  |
 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 | 2023-05-03 |  |
 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 | 2023-05-03 |  |
-| [Hospital](https://open.spotify.com/track/5aB6Q61qyaCEcvb7TfW3DH) | [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Hospital](https://open.spotify.com/album/1hlyb891WyLS9RQKs2lgK2) | 3:02 | 2023-07-20 |  |
+| [Hospital](https://open.spotify.com/track/5aB6Q61qyaCEcvb7TfW3DH) | [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Hospital](https://open.spotify.com/album/1hlyb891WyLS9RQKs2lgK2) | 3:02 | 2023-07-20 | 2023-09-06 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Thanks but No Thanks](https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT) | 3:06 | 2023-05-03 |  |
 | [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 4:21 | 2023-05-03 |  |
 | [If It Means A Lot To You](https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 4:03 | 2023-05-03 |  |
@@ -50,6 +51,7 @@
 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 | 2023-05-03 |  |
 | [Numb](https://open.spotify.com/track/0TTN18FVx6Ibfqzotyneok) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:07 | 2023-05-03 |  |
 | [Numb](https://open.spotify.com/track/0ldPf4JWjGlVNZ68wFlkIa) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 2:47 | 2023-05-03 |  |
+| [Numb](https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Numb](https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw) | 3:35 | 2023-09-05 |  |
 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-05-03 |  |
 | [Petal](https://open.spotify.com/track/6hpd3s4YS7Zn9ky5DyJjmL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:59 | 2023-05-03 | 2023-06-27 |
 | [Rag Doll](https://open.spotify.com/track/2Z9BEKyEfi58oeLUYkreZM) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Rag Doll](https://open.spotify.com/album/4pgWzbgUQmQUNwJpGmu9yY) | 3:18 | 2023-05-03 |  |

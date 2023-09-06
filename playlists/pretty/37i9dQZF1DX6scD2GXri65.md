@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,139 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,315 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 32 | [Lose It All](https://open.spotify.com/track/5u6MUAawmhnFHVGaAGDj2v) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Lose It All](https://open.spotify.com/album/6uUPzHoAFzIIjRu7PNSNVT) | 3:28 |
 | 33 | [CHAINSAW](https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [CHAINSAW](https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg) | 2:34 |
 | 34 | [Slave To The Rave](https://open.spotify.com/track/32ncEXDqBzDyblpzdcGRWB) | [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Slave To The Rave](https://open.spotify.com/album/3X68QkIEBNGdA3RTwV7YCO) | 3:42 |
-| 35 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 |
-| 36 | [Until the Day I Die](https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Until the Day I Die](https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV) | 3:11 |
+| 35 | [Until the Day I Die](https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Until the Day I Die](https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV) | 3:11 |
+| 36 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 |
 | 37 | [Rise Of The Tribe](https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Rise Of The Tribe](https://open.spotify.com/album/1wMAE1XxaWWY7U3BgUrxZO) | 4:23 |
 | 38 | [Open Up Your Heart](https://open.spotify.com/track/2klFM38gNMzVJdgGGfskhE) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Open Up Your Heart](https://open.spotify.com/album/2HIciu2sc1pzveLUV6x3wu) | 3:58 |
 | 39 | [In Hardstyle We Trust \- Melody Mix](https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [In Hardstyle We Trust \(Melody Mix\)](https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 |
 | 80 | [Love, Bass & Happiness](https://open.spotify.com/track/3bWtc9Fx7y4FRSCalxozJ4) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j), [TNYA](https://open.spotify.com/artist/5uyrncH54t5oHqQVYgisiT) | [Love, Bass & Happiness](https://open.spotify.com/album/3gGQZFVaKVNQmiUKgyuToE) | 2:51 |
 
-Snapshot ID: `MCxkYjAyNDg3NTliMTM4MWY3YjY3NTZjZmVlNWI2MWRiMTAzYTEyNzM0`
+Snapshot ID: `MCxhMzI1NjQ4MWRmY2JjMjIzYTM4Yjc5MWMzYjJlODMyYWRkMmYwNWM2`

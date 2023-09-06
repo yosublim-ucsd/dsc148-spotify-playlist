@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 920455,
+  "num_followers": 920399,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWI5ODkwYzkzYmQyOWI4YWU3ZmViMWY4ZmYwZjE5ZmZkMTNmYjA4",
+  "snapshot_id": "MCw2MjhiZDg3ODM5MjAzZDU0MWMxZDYxYTM2Y2Y2NDcyNmM3MzJiOWM2",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Nefes",
         "url": "https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 166654,
       "name": "Jolie Go",
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Vas de Salida",
+        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 203797,
       "name": "idc",
       "url": "https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Vas de Salida",
-        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
-      },
-      "artists": [
-        {
-          "name": "BELL WARISARA",
-          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
-        }
-      ],
-      "duration_ms": 251365,
-      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 229762,
       "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "duration_ms": 251365,
+      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq"
+      },
+      "artists": [
+        {
+          "name": "Charmy Pham",
+          "url": "https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "A Dream of Bonnie and Clyde",
         "url": "https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 174503,
       "name": "A Dream of Bonnie and Clyde (feat. JADE)",
       "url": "https://open.spotify.com/track/2IUXNnuWKre9DXp8nUpVDZ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "LALALA",
-        "url": "https://open.spotify.com/album/2nP6ViYg4ZULw3dP8jcesq"
-      },
-      "artists": [
-        {
-          "name": "Charmy Pham",
-          "url": "https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "LALALA",
-      "url": "https://open.spotify.com/track/7wagvml4x04xVfppCRgyxX"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
     },
     {
-      "added_at": "2023-08-02 14:04:23",
-      "album": {
-        "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
-        "url": "https://open.spotify.com/album/10hYe8TMsKOiw2ICrpVmex"
-      },
-      "artists": [
-        {
-          "name": "J.Lamotta",
-          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
-        }
-      ],
-      "duration_ms": 203859,
-      "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
-      "url": "https://open.spotify.com/track/3WL2ABZitGrbfWyfqwnVlO"
-    },
-    {
       "added_at": "2023-08-02 04:00:00",
       "album": {
         "name": "Y Volviste a Decir Te Amo",
@@ -1219,6 +1203,22 @@
       "duration_ms": 226443,
       "name": "Y Volviste a Decir Te Amo",
       "url": "https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw"
+    },
+    {
+      "added_at": "2023-08-02 14:04:23",
+      "album": {
+        "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
+        "url": "https://open.spotify.com/album/10hYe8TMsKOiw2ICrpVmex"
+      },
+      "artists": [
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "duration_ms": 203859,
+      "name": "\u05de\u05e8\u05e7\u05d5\u05e8\u05d9",
+      "url": "https://open.spotify.com/track/3WL2ABZitGrbfWyfqwnVlO"
     },
     {
       "added_at": "2023-08-02 04:00:00",

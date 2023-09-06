@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Giorgio Siladi
 
-452 songs - 1 day 1 hr 11 min
+453 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Nube Negra](https://open.spotify.com/track/3ZeKDpDvthhspRGiosXkIQ) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Nube Negra](https://open.spotify.com/album/1hfFHStwTqvGuaERkgjyka) | 3:05 | 2023-05-15 | 2023-06-08 |
 | [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-03-31 | 2023-07-13 |
 | [Nunca Es Tarde](https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Querer Querer](https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3) | 3:03 | 2021-11-18 | 2022-11-25 |
-| [Nunca Nunca](https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 2:51 | 2023-05-15 |  |
+| [Nunca Nunca](https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 2:51 | 2023-05-15 | 2023-09-06 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-12-16 | 2023-04-09 |
 | [Obra de Arte](https://open.spotify.com/track/35Bd5CL2ZxmseJleM0mpiu) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Obra de Arte](https://open.spotify.com/album/5QxvKLDBwSqfaAIazJszfC) | 2:50 | 2021-11-18 | 2022-07-29 |
 | [Obra de Arte](https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 2:50 | 2022-06-29 | 2022-11-25 |
@@ -408,6 +408,7 @@
 | [Todo lo que es Bueno](https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Todo lo que es Bueno](https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy) | 3:00 | 2023-06-23 |  |
 | [TODO LO QUE HICE](https://open.spotify.com/track/5vH9UyB4OrFgiRHHx1BqNf) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [TODO LO QUE HICE](https://open.spotify.com/album/2xrFeU2vGVFZkDtUmxUJtJ) | 4:16 | 2023-08-18 |  |
 | [Todo Me Habla De Ti](https://open.spotify.com/track/3bRixUBZ5KZ5puYk4PmNpT) | [BOH](https://open.spotify.com/artist/6hGotCIV3f8qF7fhhwXAZ9), [Melissa Romero](https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY), [Andy Rivero](https://open.spotify.com/artist/1ZDVkkAF9YyDQDraIKyPPI) | [Todo Me Habla De Ti](https://open.spotify.com/album/18pRA0lJOgkP2G2Zr5yiy8) | 3:51 | 2023-08-18 | 2023-08-27 |
+| [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 | 2023-09-01 |  |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-21 |  |
 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 | 2023-02-25 | 2023-03-25 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-07 |  |

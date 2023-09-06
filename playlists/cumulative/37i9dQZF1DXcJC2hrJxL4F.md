@@ -4,7 +4,7 @@
 
 > an early morning in the countryside, birds sing while someone quietly plays music..\. pure forest bliss!
 
-84 songs - 3 hr 40 min
+86 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Brandeburg](https://open.spotify.com/track/3tiKP9Nw60joyKTqxXNrvJ) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Brandeburg](https://open.spotify.com/album/6ulGhEHDIg1i9CA7rLbnGy) | 3:01 | 2023-04-26 |  |
 | [Breathing Slow](https://open.spotify.com/track/1Pjg5w4Cl1ZBP95XZmZ7HL) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:47 | 2023-04-26 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-04-26 |  |
+| [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-05 |  |
 | [Cavatina](https://open.spotify.com/track/0ciqR1aOIcec8GNl9FrWPI) | [Tranquil Cove](https://open.spotify.com/artist/7wcYGhAdnlsglHP4ty9b26) | [Cavatina](https://open.spotify.com/album/2V9BbvkIcL44dOw65GrhHe) | 3:36 | 2023-04-26 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-04-26 |  |
 | [Conscious Jorney](https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Conscious Jorney](https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3) | 2:43 | 2023-04-26 |  |
@@ -29,6 +30,7 @@
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-04-26 |  |
 | [Early Morning Bliss](https://open.spotify.com/track/0Nb1uxPJgZGonJrkl76PkM) | [Bastian Sjelberg](https://open.spotify.com/artist/3Rgg1JKEs7YEpXZYeEHa2z) | [Early Morning Bliss](https://open.spotify.com/album/7JQ2U8loYFz3nqKklYr7mD) | 2:32 | 2023-04-26 |  |
 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 | 2023-04-26 |  |
+| [Enviral Silvatic](https://open.spotify.com/track/3TXPkEDFl2Et0TzKYdsEs3) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Enviral Silvatic](https://open.spotify.com/album/15VOKgfDA14wrmXeVwMimN) | 2:20 | 2023-09-05 |  |
 | [Eosphoros T.Merula](https://open.spotify.com/track/5engCD94A1A16P51xvAFiP) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros T.Merula](https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC) | 2:14 | 2023-04-26 |  |
 | [Estebania Se Acurruca](https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania Se Acurruca](https://open.spotify.com/album/66HQ6SFrna5kkzGdtJGPj4) | 2:52 | 2023-04-26 |  |
 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 | 2023-04-26 |  |

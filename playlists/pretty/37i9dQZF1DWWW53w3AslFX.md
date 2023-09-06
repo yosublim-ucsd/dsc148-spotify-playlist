@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,108 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,122 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 38 | [No Thanks](https://open.spotify.com/track/4ZzFiMS203z53Hb34kJiNE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [No Thanks](https://open.spotify.com/album/4BkNGHFkgvA0j8nfjCPibb) | 3:10 |
 | 39 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 |
 | 40 | [I Don't Have To](https://open.spotify.com/track/5vgPGkZXSt8g5RoS0gzO6D) | [Sibille Attar](https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq) | [I Don't Have To](https://open.spotify.com/album/6aPouQIdUltYjgMQQlgdUT) | 4:45 |
-| 41 | [Ibland gråter jag bara för att tiden går](https://open.spotify.com/track/3qhYl8zFudxYVMeOnq9j9r) | [Marit Bergman](https://open.spotify.com/artist/1Z8YLeRzSedy0jT5D08pVU) | [Molnfabriken](https://open.spotify.com/album/1mVLlgqLIkNqdb4NcRv1FM) | 4:10 |
+| 41 | [Ibland gråter jag bara för att tiden går](https://open.spotify.com/track/1dXu2e5PBHtADRqDflTnLr) | [Marit Bergman](https://open.spotify.com/artist/1Z8YLeRzSedy0jT5D08pVU) | [Molnfabriken](https://open.spotify.com/album/2cqdkvGJGmzDC7CYqYUJ2J) | 4:10 |
 | 42 | [Aldrig lugnt](https://open.spotify.com/track/2iR1tqW264exVMo8f9bqR7) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Aldrig samma/Alltid samma](https://open.spotify.com/album/7rSADEoiXHU0dN8Mo0KStQ) | 3:02 |
 | 43 | [I Never Really](https://open.spotify.com/track/7F83IxwksIdCgxk30MUPXM) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Wandered Away](https://open.spotify.com/album/1x6WXEqvgHDBxGKpxLAaz1) | 3:59 |
 | 44 | [The Mysterious Vanishing of Electra](https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 6:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Du kan nu dö](https://open.spotify.com/track/4eP1Q5ushSiXAoUsffB2aj) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing From the Grave](https://open.spotify.com/album/4rn3FV2buJHdwnUSJlGefa) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MCw2Yjg0MmNmMWVjYzYzMGUyZTY3YTA0MDM1MTM4ZGIxNDhkZTA4NGIz`
+Snapshot ID: `MCxiMDM3MjllNmM3NWU3NzcwMTQ4MWYxNTJhMzVlZmZmNDYwNTM2MTBk`

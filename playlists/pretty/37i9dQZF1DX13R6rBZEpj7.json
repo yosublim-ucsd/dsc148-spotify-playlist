@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. MPH",
-  "num_followers": 198099,
+  "num_followers": 198136,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDkxMGIwZDdjN2M3MTY5MTk5NTU3ODIyYTZiMmVlNGFlNjg5NjM5",
+  "snapshot_id": "MCwyMDUyM2Q1OWE1YjE0Mjk0MGYwYjEwMjZjMmUzMjdkY2JmMTU0MGJj",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -839,18 +839,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "One Ting",
-        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
+        "name": "Skanker",
+        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
       },
       "artists": [
         {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 232500,
-      "name": "One Ting",
-      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
+      "duration_ms": 227189,
+      "name": "Skanker",
+      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Skanker",
-        "url": "https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48"
+        "name": "One Ting",
+        "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
       "artists": [
         {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
         }
       ],
-      "duration_ms": 227189,
-      "name": "Skanker",
-      "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
+      "duration_ms": 232500,
+      "name": "One Ting",
+      "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+        "name": "Amazon Prime",
+        "url": "https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "1st Born",
+          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+      "duration_ms": 160482,
+      "name": "Amazon Prime",
+      "url": "https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv"
     }
   ],
   "unique_name": "Bassline Bangers",

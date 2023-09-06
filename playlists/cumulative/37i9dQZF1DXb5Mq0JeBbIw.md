@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-222 songs - 12 hr 46 min
+223 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Grace](https://open.spotify.com/track/7b4xy7sXBPAK9HjjvBDmuM) | [quiet thrill](https://open.spotify.com/artist/12RDiJVAG0NYcJPRVi6bRG), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl), [Dan DeCristofaro](https://open.spotify.com/artist/7gJTGHDvybr4Gsf8xwwY11) | [Grace](https://open.spotify.com/album/7iiIyG1WxODTBVH6h9Utzp) | 2:53 | 2022-06-08 | 2022-07-29 |
 | [Hailey \- Acoustic](https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(EMBERS Remix\)](https://open.spotify.com/album/2RuyhhGVvpQZH2L4zPWo43) | 3:28 | 2022-06-24 | 2023-07-02 |
 | [Hailey \- Acoustic](https://open.spotify.com/track/4n3aDnLk9qH1YCyWlzd50i) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(Acoustic\)](https://open.spotify.com/album/6YNhHN53ycLCcq0GjAfvsW) | 3:28 | 2022-05-30 | 2022-07-29 |
+| [Hailey \- Acoustic](https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Hailey \(Acoustic\)](https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm) | 3:28 | 2023-02-10 |  |
 | [Heartshaker \- Acoustic](https://open.spotify.com/track/6oWeMwp3olTA8zD3ExlNbH) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Heartshaker \(Acoustic\)](https://open.spotify.com/album/0ft0n5RqLYzLVYFr5AdW22) | 2:56 | 2022-05-30 | 2022-07-29 |
 | [Heaven Knows, Right?](https://open.spotify.com/track/6ZxieV41UDyJEJhmPLFyPC) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Heaven Knows, Right?](https://open.spotify.com/album/4aSYt36QkZJP5fGV1rYt9C) | 4:16 | 2022-05-30 | 2022-07-29 |
 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 | 2022-06-24 |  |
@@ -202,7 +203,7 @@
 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 | 2022-06-24 |  |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-09-09 | 2023-05-20 |
 | [Time Has Told Me](https://open.spotify.com/track/1NM7DXBpH9LiybTJdGfNYD) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Rivers and Vessels](https://open.spotify.com/album/1AvkJdrOz24uu9i9xQTCNx) | 3:50 | 2022-06-24 | 2022-07-21 |
-| [Tofino](https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Tofino](https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW) | 3:41 | 2023-01-06 |  |
+| [Tofino](https://open.spotify.com/track/7gVZzikueRWDaIixnOjqgh) | [Julianna Laine](https://open.spotify.com/artist/4vMPllISmtM4M8LcHLhdHU) | [Tofino](https://open.spotify.com/album/2MD3QSDavKqW483JZZFSiW) | 3:41 | 2023-01-06 | 2023-09-06 |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p) | 3:40 | 2022-05-30 |  |
 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 | 2022-05-30 |  |
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2022-05-30 |  |

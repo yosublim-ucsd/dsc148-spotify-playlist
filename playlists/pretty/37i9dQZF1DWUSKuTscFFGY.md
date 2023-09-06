@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,405 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,443 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 |
 | 50 | [It’s Euphoric](https://open.spotify.com/track/7ynqVX9l6jWPDduSJwIiYG) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 3:41 |
 
-Snapshot ID: `MCxmNWQ3ZjVmZTlmNWViNDFlNTk1YjhmNDA1ODFkYWJmZmU0NjU0NDNm`
+Snapshot ID: `MCwzNzg5MjM1NWM2NWY2ZDYyZmQ1NjdjYmE3ZDM3ODc1NDZhMDI2MGUy`

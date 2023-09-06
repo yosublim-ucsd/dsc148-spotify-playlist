@@ -253,6 +253,32 @@
     },
     {
       "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/2jPweadDjOnzChjjcuselh"
+      },
+      "artists": [
+        {
+          "name": "H31R",
+          "url": "https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr"
+        },
+        {
+          "name": "JWords",
+          "url": "https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT"
+        },
+        {
+          "name": "maassai",
+          "url": "https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128562,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/3AalwwmizoPXoLJOoAqnJe"
+    },
+    {
+      "album": {
         "name": "Bad Dad",
         "url": "https://open.spotify.com/album/5NzdoZVEY284kNxlR2HblZ"
       },
@@ -1394,7 +1420,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 195367,
       "name": "GUNZ",
       "url": "https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2"
@@ -1781,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "inferno",
+        "url": "https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194928,
+      "name": "inferno",
+      "url": "https://open.spotify.com/track/4Jp2GBtVhmlielpBQeta18"
+    },
+    {
+      "album": {
         "name": "Infinite Window",
         "url": "https://open.spotify.com/album/7nUDFp7PYZGbXD6FFkhKB2"
       },
@@ -1886,7 +1930,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 224898,
       "name": "LADY",
       "url": "https://open.spotify.com/track/49LUs902uTt3X0OBz5nWb4"
@@ -2809,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "SUBLIME",
+        "url": "https://open.spotify.com/album/6NBuJjglwazVHlNMJj5xZt"
+      },
+      "artists": [
+        {
+          "name": "GAIKA",
+          "url": "https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265525,
+      "name": "SUBLIME",
+      "url": "https://open.spotify.com/track/5CKCRFfzvDZLGAJVMvb4o0"
+    },
+    {
+      "album": {
         "name": "Sugar Coating",
         "url": "https://open.spotify.com/album/1VKV9JOtOEbfWEKHAxvXBb"
       },
@@ -3010,7 +3072,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 245823,
       "name": "The Universe",
       "url": "https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA"
@@ -3546,7 +3608,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 336393,
       "name": "When She Dance - David Ariza Club Edit",
       "url": "https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw"

@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Cian Durcot
 
-545 songs - 1 day 5 hr 40 min
+546 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-27 | 2022-10-29 |
 | [Seasonal Love](https://open.spotify.com/track/4XsIjNzaTd19Kuldexl3RA) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Seasonal Love](https://open.spotify.com/album/2KZ8y2pZtmF6MSUOwWrJoG) | 3:05 | 2023-03-18 | 2023-05-06 |
 | [Seasons](https://open.spotify.com/track/6sbqpXpDBb6MNv93lhqKvl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/0FWLTTcCKsd3b1PiW9GTEN) | 3:23 | 2023-05-05 | 2023-08-26 |
+| [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-09-05 |  |
 | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey) | 3:24 | 2022-02-04 | 2022-02-12 |
 | [Secondhand Smoke](https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Secondhand Smoke](https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6) | 4:03 | 2023-02-24 | 2023-05-20 |
 | [See Me](https://open.spotify.com/track/4rmboUXxyv5FhkqdSwiBeG) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [See Me](https://open.spotify.com/album/6YgCC8d3DSJVDYPBDkPsEb) | 2:48 | 2023-05-05 | 2023-07-01 |

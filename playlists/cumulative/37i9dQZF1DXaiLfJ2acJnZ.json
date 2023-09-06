@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Are You Awake?",
+        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224429,
+      "name": "Are You Awake?",
+      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
+    },
+    {
+      "album": {
         "name": "At Your Worst",
         "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
       },
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 166856,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 171913,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 165423,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/5oNHxV8Ls8wlnQbi5BGOk0"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 193950,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg"
@@ -3245,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "MTJL (Maybe That\u2019s Just Life)",
+        "url": "https://open.spotify.com/album/10I7V2DrdIx51MNlkgWj90"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117440,
+      "name": "MTJL (Maybe That\u2019s Just Life)",
+      "url": "https://open.spotify.com/track/0CS4oLIBzAwmR11rELQMXv"
+    },
+    {
+      "album": {
         "name": "Muscle Memory (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj"
       },
@@ -3466,6 +3502,24 @@
       "duration_ms": 208440,
       "name": "OCD",
       "url": "https://open.spotify.com/track/6FAdjcQl0Yi8GTu1TAM0V5"
+    },
+    {
+      "album": {
+        "name": "On Purpose (For My Future Daughter)",
+        "url": "https://open.spotify.com/album/3k0VX6EgPWqqOxqdBvpxtI"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186885,
+      "name": "On Purpose (For My Future Daughter)",
+      "url": "https://open.spotify.com/track/2iEGf6cKhUrzbtRaltEtLn"
     },
     {
       "album": {
@@ -3898,7 +3952,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 185986,
       "name": "Put a Light on Me",
       "url": "https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc"
@@ -4534,7 +4588,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 199591,
       "name": "Step Dad",
       "url": "https://open.spotify.com/track/4h1d5zG9QEDxLfm418gWS6"
@@ -5144,6 +5198,24 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "album": {

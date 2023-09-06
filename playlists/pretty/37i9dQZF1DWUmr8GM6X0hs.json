@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 70631,
+  "num_followers": 70701,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTdiYjMwMzhkMWU3MGI4OGVmYmQ2NTM3Zjk1M2Y4ZWZjYzhhZjQ1",
+  "snapshot_id": "MCwzNTkzYmMwNGZmZGZkYTU2MTgxNzY2NmNlNzlhOTM0OWM0NDEyZjAy",
   "tracks": [
     {
       "added_at": "2023-07-28 05:01:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 113653,
       "name": "Se\u00f1or Abogado",
       "url": "https://open.spotify.com/track/2mA6p6NMBq8Zd1GE3PuPSv"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Lo Que Quiera Lola",
-      "url": "https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "\u00c9poca de Oro",
         "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 194351,
       "name": "Sendas Distintas",
       "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Daniel Santos",
+        "url": "https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 121733,
+      "name": "La \u00daltima Copa",
+      "url": "https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb"
     }
   ],
   "unique_name": "Boleros en Casa",

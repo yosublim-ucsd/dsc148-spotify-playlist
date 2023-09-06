@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-740 songs - 1 day 4 hr 45 min
+741 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Blessings](https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Blessings](https://open.spotify.com/album/5vgWOjahlIwxaVgsKDqE7k) | 2:18 | 2022-08-19 |  |
 | [Blossoming](https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z) | [Virg0h](https://open.spotify.com/artist/2S0EDk8weYYWFGrmSOmyWd) | [Blossoming](https://open.spotify.com/album/6w0x2RyieeP3q7i3HX335x) | 2:09 | 2022-04-15 | 2022-09-09 |
 | [Bonafide Bars](https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Bonafide Bars](https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP) | 2:29 | 2023-01-20 |  |
-| [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 |  |
+| [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 | 2023-09-06 |
 | [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 |  |
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 |  |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
@@ -148,7 +148,7 @@
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-04-15 | 2022-07-08 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-04-15 | 2022-05-14 |
 | [down again](https://open.spotify.com/track/1bzVwOf1Q8LEhp5Uh25he3) | [keeplove.](https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX) | [down again](https://open.spotify.com/album/2b87OxK5vbVM8HapvOxH5v) | 2:09 | 2022-07-29 | 2022-08-12 |
-| [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2022-05-20 |  |
+| [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2022-05-20 | 2023-09-06 |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-15 | 2022-07-29 |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
 | [dreamfield](https://open.spotify.com/track/29pPn3HgQQyKMuQrk2s0cq) | [uncles](https://open.spotify.com/artist/1CKD1SbQGvHtuNmlIWC31B) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 | 2022-05-20 | 2022-09-17 |
@@ -156,6 +156,7 @@
 | [Dreamscape](https://open.spotify.com/track/2cT8K8V4SvjgmbStnuByyi) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Dreamscape](https://open.spotify.com/album/41G0RJiWG8KIzsmhxWRO9Y) | 2:34 | 2022-08-19 |  |
 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 | 2022-04-15 |  |
 | [Driftwood](https://open.spotify.com/track/5Df3pDneVxrgAvEbgSX3Yv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Driftwood](https://open.spotify.com/album/5pwPeU5EW7xkYcXYixuvjP) | 1:47 | 2022-04-15 |  |
+| [Drip](https://open.spotify.com/track/3IjWchZ6NabiqZNzJ1yhCa) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Drip](https://open.spotify.com/album/5ZL8AF9ifQ7roWRyq6npH3) | 2:21 | 2023-09-04 |  |
 | [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 |  |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
@@ -335,7 +336,7 @@
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-04-15 | 2022-09-03 |
 | [Look After Yourself](https://open.spotify.com/track/1SL75FDChNKsexXzKgDb5P) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Look After Yourself](https://open.spotify.com/album/4ZhHQLB6hZCFU3k3qzx6wL) | 3:07 | 2022-04-15 |  |
 | [love Downpitch](https://open.spotify.com/track/6QdtafpgMQ52rXcFh6zskk) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [love Downpitch](https://open.spotify.com/album/40WNLhEvWDTrMG4HSQvqJY) | 1:54 | 2022-08-05 | 2022-10-29 |
-| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2022-08-19 | 2023-09-05 |
+| [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2022-08-19 |  |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-04-15 | 2022-06-25 |
 | [Love Snip](https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [Love Snip](https://open.spotify.com/album/1VL10DhdUCPKdNjbIkQwsY) | 1:32 | 2022-04-15 | 2022-09-09 |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2022-09-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: MIKA",
-  "num_followers": 37709,
+  "num_followers": 37714,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWZjMGNmNDA5YWEzNGFhNWRiMmQ4OGRlZTQzMDlhOWJjNmZkZTUz",
+  "snapshot_id": "MCxlNDMwMTkzNzkwYjEwMGRmMDlmMjcwZDE4Y2FlZjk3NDdhZDJhMzlm",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -419,22 +419,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Macabre",
-        "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
+        "name": "Comment on fait",
+        "url": "https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS"
       },
       "artists": [
         {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
         },
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
         }
       ],
-      "duration_ms": 208841,
-      "name": "Macabre",
-      "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
+      "duration_ms": 180213,
+      "name": "Comment on fait",
+      "url": "https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -459,22 +459,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Comment on fait",
-        "url": "https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS"
+        "name": "Macabre",
+        "url": "https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us"
       },
       "artists": [
         {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
         },
         {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 180213,
-      "name": "Comment on fait",
-      "url": "https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj"
+      "duration_ms": 208841,
+      "name": "Macabre",
+      "url": "https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Au bord de la mer",
+        "url": "https://open.spotify.com/album/68QdmvGYzprjbODlaItocj"
+      },
+      "artists": [
+        {
+          "name": "Chiloo",
+          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
+        }
+      ],
+      "duration_ms": 193136,
+      "name": "Au bord de la mer",
+      "url": "https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Chef D'orchestre",
         "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 189666,
       "name": "Cit\u00e9s de France",
       "url": "https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Au bord de la mer",
-        "url": "https://open.spotify.com/album/68QdmvGYzprjbODlaItocj"
-      },
-      "artists": [
-        {
-          "name": "Chiloo",
-          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
-        }
-      ],
-      "duration_ms": 193136,
-      "name": "Au bord de la mer",
-      "url": "https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "OH MADELEINE",
+        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
+      },
+      "artists": [
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "duration_ms": 159603,
+      "name": "OH MADELEINE",
+      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "G\u00c9 VOULAIT",
         "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
       },
@@ -675,6 +691,26 @@
       "duration_ms": 138109,
       "name": "Eyes Contact",
       "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "duration_ms": 178224,
+      "name": "Enfer",
+      "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -715,42 +751,6 @@
       "duration_ms": 167251,
       "name": "Pour nous",
       "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        },
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
-        }
-      ],
-      "duration_ms": 178224,
-      "name": "Enfer",
-      "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "OH MADELEINE",
-        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
-      },
-      "artists": [
-        {
-          "name": "Disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 159603,
-      "name": "OH MADELEINE",
-      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -887,22 +887,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "R\u00e9silience (R\u00e9edition)",
-        "url": "https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON"
+        "name": "R+V",
+        "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
       },
       "artists": [
         {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Yabibi (feat. Nej)",
-      "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"
+      "duration_ms": 89146,
+      "name": "R+V",
+      "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

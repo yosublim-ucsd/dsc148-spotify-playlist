@@ -391,6 +391,36 @@
     },
     {
       "album": {
+        "name": "Amazing World",
+        "url": "https://open.spotify.com/album/6TmlShfEQ4ef7At114va9Q"
+      },
+      "artists": [
+        {
+          "name": "HeavenlyHelly All Stars",
+          "url": "https://open.spotify.com/artist/6CJTY8wsvVrcBsLD1T7QXA"
+        },
+        {
+          "name": "FAB-EL",
+          "url": "https://open.spotify.com/artist/5G3zd8dd9zTOMMQMb9pXvE"
+        },
+        {
+          "name": "Inferno Teller",
+          "url": "https://open.spotify.com/artist/7eFF0vr6NsNBNF5jXIsOdI"
+        },
+        {
+          "name": "Seraphilight",
+          "url": "https://open.spotify.com/artist/7IwUmRLeRmYUlDdkNZsQTa"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174930,
+      "name": "Amazing World",
+      "url": "https://open.spotify.com/track/2P46wRWiKYYPShAv6bI8uQ"
+    },
+    {
+      "album": {
         "name": "Hanabi",
         "url": "https://open.spotify.com/album/09dmy5adX95reP5MhtV4f9"
       },
@@ -3134,7 +3164,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 233166,
       "name": "Haiiro",
       "url": "https://open.spotify.com/track/6FCMUZ0ecM2nAfOnPmmPar"
@@ -3976,7 +4006,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 237466,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/10woBXtt6mnTQPv8BDebtz"
@@ -11088,6 +11118,24 @@
       "duration_ms": 259191,
       "name": "\u30b9\u30ab\u30fc",
       "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30af\u30e9\u30c3\u30d7\u30a2\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/4FeGPKB2ofgaHrUHI7CDyV"
+      },
+      "artists": [
+        {
+          "name": "Inori Minase",
+          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "\u30b9\u30af\u30e9\u30c3\u30d7\u30a2\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1cza4rtohdOAOZNtDQWCYO"
     },
     {
       "album": {

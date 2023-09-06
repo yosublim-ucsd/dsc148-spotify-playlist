@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Pepe, Samurai Jay
 
-204 songs - 9 hr 28 min
+205 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Non Mi Va](https://open.spotify.com/track/3ljUzyyjKC1TWQdbIo2mib) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non Mi Va](https://open.spotify.com/album/11UvXQ70qJ3ct1kxgzHRRc) | 2:59 | 2023-06-01 | 2023-06-09 |
 | [Non Piove Più](https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non Piove Più](https://open.spotify.com/album/4z92PMJqC8PYduMcJu0Os3) | 3:10 | 2023-03-23 | 2023-07-21 |
 | [Non Ti Levo Dalla Testa](https://open.spotify.com/track/0i03V0gL4bx2EaGg2KVjPP) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Scarabocchi](https://open.spotify.com/album/4Fo6Walba2hkPdQ5XMBG5m) | 2:44 | 2023-06-29 | 2023-07-21 |
+| [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 | 2023-09-05 |  |
 | [nonèfunny :\(](https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [nonèfunny :\(](https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY) | 2:29 | 2023-05-25 | 2023-06-09 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 | 2023-07-07 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2023-03-23 | 2023-05-05 |

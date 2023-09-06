@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 317415,
+  "num_followers": 317576,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWEyMGY5YzA0YTQwYjdhMDQ4MGY5MTliYmM2MWU1ZWZlN2UwNzZl",
+  "snapshot_id": "MCxkMWIxNDgzYTJlZGI2OGU3ZTQ2ZDc0NDA0M2NhMTcyMDJlMjQ2NjNl",
   "tracks": [
     {
       "added_at": "2023-09-01 11:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 151415,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "ISAAK",
-          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
-        }
-      ],
-      "duration_ms": 143906,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/2EiFRUPsvd47wrQbF5Lfv2"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 164516,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5WVG4MP29MfXX4PdJ7jY4N"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "ISAAK",
+          "url": "https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p"
+        }
+      ],
+      "duration_ms": 143906,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
         "name": "Stop Sign",
         "url": "https://open.spotify.com/album/1awSxxmeDZc9tYchRZF5Je"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 165493,
       "name": "Stop Sign",
       "url": "https://open.spotify.com/track/11c0ewq9VC4iIsqVBtOypk"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
     },
     {
       "added_at": "2023-09-01 11:00:00",

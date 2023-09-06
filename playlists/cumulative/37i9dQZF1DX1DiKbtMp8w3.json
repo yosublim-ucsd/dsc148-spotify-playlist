@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211513,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/6YWS7t8KUTKVRPOpt2VRkd"
+    },
+    {
+      "album": {
         "name": "4ever",
         "url": "https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 212658,
       "name": "4ever",
       "url": "https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR"
@@ -1036,10 +1054,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 203833,
       "name": "Dive Baby, Dive",
       "url": "https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI"
+    },
+    {
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203833,
+      "name": "Dive Baby, Dive",
+      "url": "https://open.spotify.com/track/6sH7kPWltg8cTBIylZ0jgS"
     },
     {
       "album": {

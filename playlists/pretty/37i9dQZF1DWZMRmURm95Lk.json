@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca, Gu\u00e8 ed Ele A in cover.",
-  "num_followers": 34762,
+  "num_followers": 34800,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDNjZTJlM2FkZGQ3ODliYTU3Y2NhNzZkMzY1MmY4NjI4YWYwMWJi",
+  "snapshot_id": "MCwyNjkwZWUyNjg0YTA0MDhhNzY1MzQ1YmJkODAzMTljN2ViZWJiMDcw",
   "tracks": [
     {
       "added_at": "2023-08-31 22:01:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "Fabiano detto Inoki",
+        "url": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+      "duration_ms": 232986,
+      "name": "Non mi avrete mai",
+      "url": "https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Fabiano detto Inoki",
-        "url": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 232986,
-      "name": "Non mi avrete mai",
-      "url": "https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02"
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -795,6 +795,30 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Classe 73",
+        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        },
+        {
+          "name": "Zampa",
+          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Giorni matti",
+      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Sacrosanto",
         "url": "https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1"
       },
@@ -819,30 +843,6 @@
       "duration_ms": 158943,
       "name": "Sembrava Impossibile",
       "url": "https://open.spotify.com/track/3cAIN3it8fhHDiyO5vXOVj"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Classe 73",
-        "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        },
-        {
-          "name": "Zampa",
-          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Giorni matti",
-      "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Mondo Marcio (2022 Remastered)",
         "url": "https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf"
       },
@@ -983,22 +963,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "OVERT",
-        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
       "artists": [
         {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
         }
       ],
-      "duration_ms": 219000,
-      "name": "DON DADAIST (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2Q2mMT9N8v9uMsxiPQHemP"
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1019,6 +999,26 @@
       "duration_ms": 202142,
       "name": "Pi\u00f9 forte di me",
       "url": "https://open.spotify.com/track/0PCvuLxAe3BrJdECjoDCyv"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "OVERT",
+        "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "DON DADAIST (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2Q2mMT9N8v9uMsxiPQHemP"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 295293,
+      "name": "Cani sciolti",
+      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 233786,
       "name": "Bolo By Night",
       "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 295293,
-      "name": "Cani sciolti",
-      "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 233120,
       "name": "Bastavano Le Briciole",
       "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Sotto effetto stono",
-        "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        },
-        {
-          "name": "Danny Losito",
-          "url": "https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
-      "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Magic boulevard",
         "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Sotto effetto stono",
+        "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        },
+        {
+          "name": "Danny Losito",
+          "url": "https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
+      "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "kARMA",
         "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 283480,
       "name": "Chi more pe' mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -2079,22 +2079,26 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "MEDIOEGO",
-        "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
+        "name": "Universo (feat. Neffa & Fabri Fibra)",
+        "url": "https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93"
       },
       "artists": [
         {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+          "name": "Deda",
+          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
         },
         {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 233386,
-      "name": "VETERANO (feat. DJ Shocca)",
-      "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
+      "duration_ms": 204335,
+      "name": "Universo (feat. Neffa & Fabri Fibra)",
+      "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
     }
   ],
   "unique_name": "Radici Hip-Hop",

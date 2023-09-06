@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/0yifIBFeuMw3kbsRzF6yn7"
+      },
+      "artists": [
+        {
+          "name": "Neighbors Complain",
+          "url": "https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319422,
+      "name": "Eye of the hurricane",
+      "url": "https://open.spotify.com/track/7CFf75gA4DfBwtdfVN8yht"
+    },
+    {
+      "album": {
         "name": "Yesterday, Today & Tomorrow",
         "url": "https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV"
       },
@@ -2480,7 +2498,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 349000,
       "name": "fushigi - URBAN VOLCANO SOUNDS Mysterious Boogie Remix",
       "url": "https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ"
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -4762,10 +4780,32 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 337573,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO"
+    },
+    {
+      "album": {
+        "name": "Ninna Nanna (feat. Miho Nakayama)",
+        "url": "https://open.spotify.com/album/6yYiBqvlro4woMdLERMSWe"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u4e2d\u5c71\u7f8e\u7a42",
+          "url": "https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ninna Nanna (feat. Miho Nakayama)",
+      "url": "https://open.spotify.com/track/4VaH7sQeYL9UcA7TVvbCKx"
     },
     {
       "album": {
@@ -4912,6 +4952,32 @@
       "duration_ms": 258168,
       "name": "One More Kiss (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu"
+    },
+    {
+      "album": {
+        "name": "One More Kiss (feat. \u3072\u304b\u308a) [grooveman Spot Remix]",
+        "url": "https://open.spotify.com/album/489m6WCowErD1iqtPkQzVC"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "grooveman Spot",
+          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295500,
+      "name": "One More Kiss (feat. \u3072\u304b\u308a) - grooveman Spot Remix",
+      "url": "https://open.spotify.com/track/0JhKgf3yhZbCxA3Rap4YDT"
     },
     {
       "album": {
@@ -5384,7 +5450,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 187606,
       "name": "Playback",
       "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
@@ -6134,7 +6200,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 196666,
       "name": "SHYNESS BOY",
       "url": "https://open.spotify.com/track/7KYzARBusZhyZ6jygZDmVr"
@@ -6152,7 +6218,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Signpost",
       "url": "https://open.spotify.com/track/3CM06CWV3qisM1SzL8aLXy"
@@ -7235,6 +7301,24 @@
     },
     {
       "album": {
+        "name": "SUTEKI",
+        "url": "https://open.spotify.com/album/4jr9rEDlBFhKjRq7MeJXQr"
+      },
+      "artists": [
+        {
+          "name": "BLACK BERRY TIMES",
+          "url": "https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197119,
+      "name": "SUTEKI",
+      "url": "https://open.spotify.com/track/7ukJqd6fmFIPckkIilunXy"
+    },
+    {
+      "album": {
         "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6"
       },
@@ -7294,7 +7378,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 267440,
       "name": "Swimming Pool",
       "url": "https://open.spotify.com/track/7bY52sKxTY4fcCnodr3sLL"
@@ -7753,6 +7837,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1TDGFOk36a5deglxfMQGA5"
+      },
+      "artists": [
+        {
+          "name": "\u5e83\u702c\u5927\u5730",
+          "url": "https://open.spotify.com/artist/3CgeuQ1yRieG410Yv5HVdE"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234475,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3FIhIhiSQqSfwbpFZzNhxE"
+    },
+    {
+      "album": {
         "name": "Tonight is the night",
         "url": "https://open.spotify.com/album/17uuzHoS8GBOT8JTd3ojUA"
       },
@@ -8000,7 +8102,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 194500,
       "name": "Uzushio",
       "url": "https://open.spotify.com/track/0bKZoKnleOhLQj55bSaUnP"
@@ -10906,7 +11008,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 185714,
       "name": "\u5929\u6c17\u96e8 -Still love me- (feat. \u3072\u304b\u308a) - Vantage Remix",
       "url": "https://open.spotify.com/track/5uscxCi6JPEtHUyBwNGWmd"
@@ -11370,7 +11472,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 38226,
       "name": "\u6691\u3055\u306e\u305b\u3044\uff08Single Version 30sec\uff09",
       "url": "https://open.spotify.com/track/3HZlcJuKSbyRzY4TW58OiC"
@@ -11526,6 +11628,28 @@
       "duration_ms": 247941,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB"
+    },
+    {
+      "album": {
+        "name": "\u6ce1\u6cab\u30b8\u30ec\u30f3\u30de (feat.SUKISHA)",
+        "url": "https://open.spotify.com/album/5V1jfuUVCFiit2qDxDhXdG"
+      },
+      "artists": [
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        },
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215113,
+      "name": "\u6ce1\u6cab\u30b8\u30ec\u30f3\u30de - feat.SUKISHA",
+      "url": "https://open.spotify.com/track/3IbvgHm2hpwr2Ap5OqwcHC"
     },
     {
       "album": {

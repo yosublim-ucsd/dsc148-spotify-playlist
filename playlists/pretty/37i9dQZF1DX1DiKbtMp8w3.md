@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,786 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,788 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,8 +215,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 205 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 |
 | 206 | [The Wave](https://open.spotify.com/track/0ZlIv0GSqYEKQK5Zf5cZTM) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 4:44 |
 | 207 | [60’S CARDIN](https://open.spotify.com/track/3JYqt9ADvBsou2pDrpmAZj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [HAUTE COUTURE](https://open.spotify.com/album/5FNUoh29ai75zh2ugcDrKe) | 3:17 |
-| 208 | [Dive Baby, Dive](https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dive Baby, Dive](https://open.spotify.com/album/32kZ9wnIIZuwOqK4CV39nO) | 3:23 |
-| 209 | [4ever](https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [4ever](https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU) | 3:32 |
+| 208 | [Dive Baby, Dive](https://open.spotify.com/track/6sH7kPWltg8cTBIylZ0jgS) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:23 |
+| 209 | [4ever](https://open.spotify.com/track/6YWS7t8KUTKVRPOpt2VRkd) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:31 |
 | 210 | [Oh Yeah!](https://open.spotify.com/track/4BfmJnaP3Ghu4W7JmMHamO) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [개구쟁이 Naughty Boy](https://open.spotify.com/album/0xWooj0tF8YM8CEGIuq0J2) | 3:35 |
 | 211 | [9](https://open.spotify.com/track/7vDj50kWLQMdfvca7xhCeO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/2gli6cmeeDbvLcUpxIaH02) | 4:05 |
 | 212 | [Malibu](https://open.spotify.com/track/1xXV2P8QUyRo84zevha4HJ) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 4:15 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCwwMjY4ZTVmZWJjYWJhMjY2M2I3NGYwMzI3NjlhZTM3MTNkYzdlNWVk`
+Snapshot ID: `MCw0MTMzMTEwZjllNjUzOGRlNjExYjUxOTNmMzI4OTdiZGJlODgxNWQ2`

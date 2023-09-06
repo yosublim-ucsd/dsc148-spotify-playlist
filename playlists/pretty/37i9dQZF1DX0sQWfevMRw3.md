@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,658 likes - 101 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,726 likes - 101 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [SOL, VIND OCH SNAPS](https://open.spotify.com/track/6blrBpvFOwOCfYKDqH5bXn) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt) | [SOL, VIND OCH SNAPS](https://open.spotify.com/album/0Sc3mpJhTycU8Ei59cP29z) | 2:50 |
 | 101 | [Sommartider](https://open.spotify.com/track/3zWnPMKWTht7rc8TtQEnW4) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Sommartider](https://open.spotify.com/album/4pwWHYGgwzjqYFw1A4UknS) | 2:35 |
 
-Snapshot ID: `MCxmZTc0MDYwNWVlMDQwMTY2ODcyZDRiMTU4MTRlYTU1NDY1MDUxOWZi`
+Snapshot ID: `MCxlMDI4OWU2MGZmMmYzODNhNjRkZTlmNzg4OTY3NGQ5ZDE0M2ZjZjM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,021 likes - 172 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,086 likes - 172 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 171 | [Dancin’ with the Devil](https://open.spotify.com/track/1G79ZY1f3YVKFL47x2cern) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Dancin’ with the Devil](https://open.spotify.com/album/2BLzfwwlDzyCMHT6PV7Uw1) | 3:26 |
 | 172 | [Rinse\. Repeat.](https://open.spotify.com/track/5kxVgrrXzavmgGfg7KLFDO) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Rinse\. Repeat.](https://open.spotify.com/album/1z7vFQc38L29zC0UNBmFzx) | 3:00 |
 
-Snapshot ID: `MCwxYTM2NDEyNmZmOGQ4ZWJjZWNkZjg1Y2Y2MjI4NmY1NGU4ZTgyZDAw`
+Snapshot ID: `MCxjZjJlZTBlNmExNjkzMjBmZjRhZDk5YTVjYzhhYjdmYjcyMTcyYzQ1`

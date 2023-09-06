@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
 
-211 songs - 12 hr 4 min
+213 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [He Never Knew](https://open.spotify.com/track/1qZVKFPW6wujWMpasgwbZm) | [Fausto](https://open.spotify.com/artist/7kfU3vFpXP8Hu8DSBXmCyG) | [He Never Knew](https://open.spotify.com/album/0aBVFEM73GOF8yyFKFDxNw) | 6:35 | 2022-05-06 | 2022-07-28 |
 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 | 2022-05-06 |  |
 | [Houdini](https://open.spotify.com/track/6oHxCvvCqCrejzEQV2KKFt) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Aryue](https://open.spotify.com/artist/2lna8m2wZ99CFigsSOAqcb) | [Houdini](https://open.spotify.com/album/5HUCcH55uPddv4Xcr2adgy) | 3:00 | 2022-07-28 | 2023-03-25 |
+| [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 | 2023-09-05 |  |
 | [Huellas](https://open.spotify.com/track/6GmNKFbiPwZJ01fYkBeToB) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Laguna](https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1), [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Huellas](https://open.spotify.com/album/2h9Vvbub3Vjtcc28F8NuRG) | 3:48 | 2022-05-06 |  |
 | [Hybrid](https://open.spotify.com/track/4nyYBq8nEieGbkLVl7rrWz) | [Artelax](https://open.spotify.com/artist/1cmngJeHHZi2ZWodpFOLv3), [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex) | [Hybrid](https://open.spotify.com/album/6OU0bHvrsq4qfaxnNE4p2X) | 2:20 | 2022-05-06 | 2022-07-27 |
 | [I Saw You](https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [A\-Dyad](https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6) | [I Saw You](https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w) | 3:48 | 2022-05-06 |  |
@@ -158,6 +159,7 @@
 | [S.E.L.F.](https://open.spotify.com/track/3NPRvxOAE0ha3KAc6zwdi2) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [S.E.L.F.](https://open.spotify.com/album/7hP0dw1cQgQLid4NmYBoRi) | 4:23 | 2022-05-06 | 2022-07-29 |
 | [Safari](https://open.spotify.com/track/1sD7wfCf5OqgbQoCQylqu4) | [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl), [Yongo](https://open.spotify.com/artist/3O6jv8Iew1XZ8svS1Ug9UN) | [Safari](https://open.spotify.com/album/0i3aIyaIbZSNVSOOvBGisq) | 2:36 | 2022-05-06 | 2022-07-28 |
 | [San Junipero](https://open.spotify.com/track/34e6THp9JMgOZO2vZplFYP) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [San Junipero](https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV) | 3:11 | 2023-03-23 |  |
+| [San Junipero \(Usb Gad Remix\)](https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV), [Usb Gad](https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7) | [San Junipero Remixes Vol\. 1](https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x) | 3:15 | 2023-09-05 |  |
 | [Santa María](https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Santa María](https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm) | 4:20 | 2023-07-28 |  |
 | [Say Goodnight](https://open.spotify.com/track/4qtkxwJiHoKUJNwbuqWnCb) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Say Goodnight](https://open.spotify.com/album/4zJblKXvYzvYWe7jXBeyf5) | 2:42 | 2022-05-06 | 2022-06-13 |
 | [Scare](https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gerard Butler](https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Scare](https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC) | 3:24 | 2022-05-06 |  |

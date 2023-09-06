@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,888 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,065 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 32 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
 | 33 | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Telegrama \(Double MZK Remix\)](https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2) | 2:39 |
 | 34 | [Low \(feat\. Victor Perry\)](https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Low \(feat\. Victor Perry\)](https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5) | 2:25 |
-| 35 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk) | 3:23 |
-| 36 | [Toda Forma De Amor \- Remix](https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C) | [Make U Sweat](https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor \(Remix\)](https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80) | 3:48 |
+| 35 | [Toda Forma De Amor \- Remix](https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C) | [Make U Sweat](https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor \(Remix\)](https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80) | 3:48 |
+| 36 | [Pro Dia Nascer Feliz](https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Pro Dia Nascer Feliz](https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk) | 3:23 |
 | 37 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
 | 38 | [Back to Beginning](https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Talking Dirty](https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA) | [Back to Beginning](https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y) | 3:15 |
 | 39 | [Save Me](https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5), [TRIXL](https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Save Me](https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Helen Sancho](https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa) | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D) | 3:11 |
 | 70 | [When In Rome](https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [When In Rome](https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f) | 3:14 |
 
-Snapshot ID: `MCwyOWI3YTMzNDUxOTBhNzEyMWNkZjBlNWRkNmZhOTdkMjdhZjE4YzI1`
+Snapshot ID: `MCxhZmEyNjg4NDQwODZlZjAxNzU4ODkzMzhiMjY4NzdmODAxMzYyMWM5`

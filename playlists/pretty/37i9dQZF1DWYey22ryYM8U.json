@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Carlos Vives & Juanes",
-  "num_followers": 602280,
+  "num_followers": 602310,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjMxYjQ5MjU5YTc1YTFmNWQ5YTI0ZmY5Njc0YWJlMWI0OWQ0ZWE0",
+  "snapshot_id": "MCwwMzVlMDY1ZjgwNjQyNGEzYzBhZTc2NjJiMzUwMmYwMGE2MGZlZmRk",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Sopita",
-        "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
       },
       "artists": [
         {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 206442,
-      "name": "Sopita",
-      "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
+      "duration_ms": 205090,
+      "name": "Vuela Muy Alto",
+      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1771,18 +1767,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT"
+        "name": "Sopita",
+        "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 205090,
-      "name": "Vuela Muy Alto",
-      "url": "https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT"
+      "duration_ms": 206442,
+      "name": "Sopita",
+      "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
     },
     {
       "added_at": "2023-08-25 04:00:00",

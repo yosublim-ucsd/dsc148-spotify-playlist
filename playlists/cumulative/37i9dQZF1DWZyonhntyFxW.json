@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "ZAZA ELWASEEM",
+        "url": "https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "EL LOVE",
+      "url": "https://open.spotify.com/track/5gF2k94idQZlm5Dbe2HjoI"
+    },
+    {
+      "album": {
         "name": "MAQSOUM",
         "url": "https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC"
       },
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 225769,
       "name": "Ferksh (feat. Slyver PV)",
       "url": "https://open.spotify.com/track/5byhbOVu1cQ2hUu7EtAkeF"
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 148292,
       "name": "Leh Nehzar",
       "url": "https://open.spotify.com/track/0vE3QsIZEyespCVUntPOa9"
@@ -3864,6 +3886,24 @@
       "duration_ms": 181301,
       "name": "Yaba",
       "url": "https://open.spotify.com/track/4CzLzmQVOC0jjTacKi5hEU"
+    },
+    {
+      "album": {
+        "name": "Ya Kahera",
+        "url": "https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196806,
+      "name": "YAZMEELY",
+      "url": "https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S"
     },
     {
       "album": {

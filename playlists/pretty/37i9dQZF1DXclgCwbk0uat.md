@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Jere Klein & Nicki Nicole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,858,357 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,858,722 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 32 | [Pacto \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Pacto \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 |
 | 33 | [Ya No Pienso en Ti](https://open.spotify.com/track/447CO62bX92cmh13R0DAnk) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ya No Pienso en Ti](https://open.spotify.com/album/4dVfr03Qqi1gpp2di7naIf) | 2:13 |
 | 34 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
-| 35 | [Me Veo Rico](https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Valdi](https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5) | [Me Veo Rico](https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G) | 2:44 |
+| 35 | [Me Veo Rico](https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Me Veo Rico](https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G) | 2:44 |
 | 36 | [TE EXO DE MENOS :\(](https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TE EXO DE MENOS :\(](https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p) | 2:31 |
 | 37 | [Su Altura](https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Su Altura](https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs) | 3:01 |
 | 38 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 | 50 | [ANDA SOLITA](https://open.spotify.com/track/3BjIQyc3DOAdrn7QVNh4yx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [ANDA SOLITA](https://open.spotify.com/album/7vY06mGae6JK615cQSvD5F) | 3:22 |
 
-Snapshot ID: `MCxlY2UxNWZjNTIwZjM1ZTkwMWQ3OGMxZGNhNTVkYWZmZTVkMjhjYjcw`
+Snapshot ID: `MCw4YWEwZDE2YTNjMDA0ODEyNDQ5ZDE4M2ZmZGYxMWZlNzI4NTFkNzgy`

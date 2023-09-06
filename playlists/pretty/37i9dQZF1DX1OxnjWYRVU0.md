@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,746 likes - 356 songs - 15 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,919 likes - 356 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 118 | [Discovery Channel](https://open.spotify.com/track/1yKoZULYTinUhojFeatKQc) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Robin Novaku](https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Discovery Channel](https://open.spotify.com/album/4ya77jLzOQ5wX4Y3vnJfui) | 2:09 |
 | 119 | [Riptide](https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Riptide](https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P) | 2:34 |
 | 120 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 |
-| 121 | [Ready To Let Go](https://open.spotify.com/track/281Ohr3epWom0NgYyTXshi) | [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G), [Unklfnkl](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Ready To Let Go](https://open.spotify.com/album/41G6NVgFdSr0ayTJCVJart) | 2:32 |
+| 121 | [Ready To Let Go](https://open.spotify.com/track/281Ohr3epWom0NgYyTXshi) | [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G), [UNKLFNKL](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Ready To Let Go](https://open.spotify.com/album/41G6NVgFdSr0ayTJCVJart) | 2:32 |
 | 122 | [Bette Davis Eyes](https://open.spotify.com/track/3EvFpQWu8rHgcVj07IgIVU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [Bette Davis Eyes](https://open.spotify.com/album/013qC49DCJHQsEIHGEHdM3) | 2:30 |
 | 123 | [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 |
 | 124 | [My Pony](https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9) | 2:33 |
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 355 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 356 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCw4MDdiYmViMjRjODU1ZjlhMzNlY2JiNzNjMjM1MjlmNWI5OGU3M2Fi`
+Snapshot ID: `MCwxMWIwYjVjOGRiZjhlMjE1MWVhMTdjNDcyNGFmY2ExZjJkYWI1Njg4`

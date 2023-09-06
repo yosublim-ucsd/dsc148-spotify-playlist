@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-160 songs - 10 hr 42 min
+161 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-23 | 2023-08-17 |
 | [El Dunia Helwa](https://open.spotify.com/track/5mVB0eKgO2b6W8JNEKd8si) | [Mohab Sammy](https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j), [Sara Said](https://open.spotify.com/artist/5qgwGFlPCxO4jCEKID6SIE) | [El Dunia Helwa](https://open.spotify.com/album/4DE07uisXHQ7416FuSEAUw) | 4:54 | 2022-10-14 | 2023-02-02 |
 | [El Hawa](https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr), [Hayam Mansour](https://open.spotify.com/artist/0bJAPM1kJipyhjcDcth6D6) | [El Hawa](https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T) | 5:47 | 2022-03-30 | 2023-06-24 |
+| [El Youm El Helw Dah \(AFROJACK MDLBEAST Remix\)](https://open.spotify.com/track/3p4spHhAQaOcmGTrctyN65) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [El Youm El Helw Dah \(AFROJACK MDLBEAST Remix\)](https://open.spotify.com/album/1j7gep9a3d4zXgtRRefZvM) | 4:03 | 2023-09-05 |  |
 | [Elli Baana](https://open.spotify.com/track/6mPvxcBg9C5Msy6sJQtLdQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [RANDALL](https://open.spotify.com/artist/7EIEvxpeoLo0qpHFpSrxOr) | [Elli Baana \(RANDALL Remix\)](https://open.spotify.com/album/0nScFV3dpOKHTivxuxAFqg) | 3:22 | 2022-03-30 | 2023-06-24 |
 | [Enta Eli Hweyt](https://open.spotify.com/track/5stEpLG1ZgM1NgBFdLtC1h) | [Dj Dhaker](https://open.spotify.com/artist/1ax0bpZCDJJUtboJscmVlT), [Garmi](https://open.spotify.com/artist/00YDvtHd6GtfpKNHwJoF4o) | [Enta Eli Hweyt](https://open.spotify.com/album/2GZP4oD2TiwkzUxQGymvQy) | 3:45 | 2022-03-30 | 2022-11-26 |
 | [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/track/19k16k7aJEjAkOnSxKxyc7) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Entaha \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/album/5tM7NQ9Bmwxe2HMUf44ltE) | 3:49 | 2023-08-16 |  |

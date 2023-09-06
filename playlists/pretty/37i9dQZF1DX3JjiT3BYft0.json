@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 60359,
+  "num_followers": 60406,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTg3ZWM4ZmYzOTUyOWRiMWMxZDhiODhjYjhkNDFiMGVkYWU0MmFj",
+  "snapshot_id": "MCxlZTNjYjljMWY3MGMyNGZiYjM2ZTAwYmVlMzBmYWRjNjBiN2YzY2Ji",
   "tracks": [
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Domination to world",
-        "url": "https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 224833,
-      "name": "\u707c\u71b1 Bonfire!",
-      "url": "https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "\u97f3\u4e00\u4f1a",
         "url": "https://open.spotify.com/album/3y0omCicK4HNM90n08oFmN"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 282013,
       "name": "\u97f3\u4e00\u4f1a",
       "url": "https://open.spotify.com/track/2wjXoHFoZAPgSsyXMogQQa"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Domination to world",
+        "url": "https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 224833,
+      "name": "\u707c\u71b1 Bonfire!",
+      "url": "https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB"
     },
     {
       "added_at": "2023-08-31 15:00:00",

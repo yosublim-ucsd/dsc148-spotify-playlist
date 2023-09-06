@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 51794,
+  "num_followers": 51857,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzQ1OTI0MTIxN2FhZWM4YzE5MTg0YzU0ZTU0MWViOTYyNzQ2MDEx",
+  "snapshot_id": "MCwwZTNlYzcxNWE2NTQ2NzY3ZjliZjhmNDhkNTI2YzkwMWUxY2E2OGJm",
   "tracks": [
     {
       "added_at": "2023-08-08 13:36:47",
@@ -179,6 +179,26 @@
       "duration_ms": 207750,
       "name": "Ennene Manedevru (Title Track) - From \"Ennene Manedevru \"",
       "url": "https://open.spotify.com/track/5aGQHFqwTj94cykDNqgJNf"
+    },
+    {
+      "added_at": "2023-09-05 11:49:24",
+      "album": {
+        "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\") (Kannada)",
+        "url": "https://open.spotify.com/album/3Cy6ofL6hg37L8zfQba7KN"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "duration_ms": 260160,
+      "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\") (Kannada)",
+      "url": "https://open.spotify.com/track/50kGO4gx9bwXjf6RvnQYsj"
     },
     {
       "added_at": "2023-09-01 12:37:34",
@@ -1615,30 +1635,6 @@
       "duration_ms": 174133,
       "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
       "url": "https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS"
-    },
-    {
-      "added_at": "2023-05-20 08:05:14",
-      "album": {
-        "name": "Jai Shri Ram (From \"Adipurush\") [KANNADA]",
-        "url": "https://open.spotify.com/album/0cslRdeWMJjmBdB0KVENvM"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Jai Shri Ram (From \"Adipurush\") [KANNADA]",
-      "url": "https://open.spotify.com/track/35phVicuVSj9WXKd6fUD2u"
     },
     {
       "added_at": "2023-05-09 07:09:05",

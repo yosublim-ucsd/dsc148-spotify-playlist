@@ -4,7 +4,7 @@
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-223 songs - 14 hr 55 min
+224 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Watch Ya Self](https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Digiri](https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG), [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Map of the Human Soul](https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z) | 4:30 | 2021-08-18 |  |
 | [We Ain't Fuck Ed Up](https://open.spotify.com/track/2uVxOp8PkpuVQYEcVTEb6h) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 1:50 | 2021-08-18 | 2022-07-29 |
 | [What U Write 4 \(Feat\. P\-Type & The Illest I.L.L.S.\) \- 2021 Remaster](https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [The Illest I.L.L.S.](https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:52 | 2021-08-18 | 2023-06-23 |
-| [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 | 2021-08-18 |  |
+| [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 | 2021-08-18 | 2023-09-06 |
 | [You Don’t Know](https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:43 | 2021-08-18 |  |
 | [ZZamba Flex](https://open.spotify.com/track/6zW5FlmgTohMaL7fwQuKmg) | [ONESUN](https://open.spotify.com/artist/0TSzPywJYcEuKLFViJ4O4c) | [Do you know Hip\-Hop \(Episode 2\)](https://open.spotify.com/album/6zQqsR9eN3LcJkVr4vpgkc) | 3:06 | 2021-08-18 | 2022-07-21 |
 | [가면 무도회 The Masquerade](https://open.spotify.com/track/2Hi8362chY7CZhyjX15ELG) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [Fanatic](https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO) | 4:09 | 2021-08-18 |  |
@@ -231,5 +231,6 @@
 | [회상](https://open.spotify.com/track/3fYqXfzjf7srb50yl9aWsB) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [Garion 가리온](https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp) | 4:37 | 2021-08-18 | 2022-07-28 |
 | [훔쳐 Rob It \(feat\. Double K\)](https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:42 | 2021-08-18 |  |
 | [희귀종 \(feat\. YDG\)](https://open.spotify.com/track/4K9utewCqeRnV2Q64Daflb) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [GO HARD Part 1 : 양가치](https://open.spotify.com/album/1ldHyFmrirxBjgsXS0hEZf) | 3:02 | 2021-08-18 |  |
+| [힙합다운 힙합 Hip Hop Down Hip Hop](https://open.spotify.com/track/0vtv1Gyl26CWqVD2CRpcwm) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Heavy Bass](https://open.spotify.com/album/3fSQ0q58tU7ENEzGC3MsuK) | 3:04 | 2023-08-10 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

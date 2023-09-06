@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Koyo",
-  "num_followers": 454946,
+  "num_followers": 454987,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDNlNDExZjM1MmVhMDRiNzBjYjEzOTJlYzM4ODZmYjViZDRlMjEw",
+  "snapshot_id": "MCwxYWFjODFlOTBjNzIyMzkzMWJjZTViM2FmNjBkM2JlNDViNjZkM2M0",
   "tracks": [
     {
       "added_at": "2023-07-28 14:20:51",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 207177,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
         "name": "Sneakers",
         "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 207177,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Memories (with WILLOW)",
-        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 155919,
-      "name": "Memories (with WILLOW)",
-      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
         "name": "Meet You There 2.0",
         "url": "https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Elevated Heartbreak",
-        "url": "https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By"
+        "name": "Memories (with WILLOW)",
+        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
       "artists": [
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 203596,
-      "name": "Elevated Heartbreak",
-      "url": "https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D"
+      "duration_ms": 155919,
+      "name": "Memories (with WILLOW)",
+      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -863,22 +847,18 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Dark Days (feat. Jeris Johnson)",
-        "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
+        "name": "Elevated Heartbreak",
+        "url": "https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Dark Days (feat. Jeris Johnson)",
-      "url": "https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl"
+      "duration_ms": 203596,
+      "name": "Elevated Heartbreak",
+      "url": "https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -895,6 +875,26 @@
       "duration_ms": 168176,
       "name": "We Don't Get High Like We Used To",
       "url": "https://open.spotify.com/track/0tQklkf8QBjP21FDcyXaDW"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
+        "name": "Dark Days (feat. Jeris Johnson)",
+        "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Dark Days (feat. Jeris Johnson)",
+      "url": "https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/1dygXa6o4gec6P1yDKkxFy"
+      },
+      "artists": [
+        {
+          "name": "Blame My Youth",
+          "url": "https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP"
+        }
+      ],
+      "duration_ms": 188732,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 172928,
       "name": "Re-Entry (feat. Mark Hoppus)",
       "url": "https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/1dygXa6o4gec6P1yDKkxFy"
-      },
-      "artists": [
-        {
-          "name": "Blame My Youth",
-          "url": "https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP"
-        }
-      ],
-      "duration_ms": 188732,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 223238,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
         "name": "WE MADE PLANS & GOD LAUGHED",
         "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 195012,
       "name": "Under the Influence(r)",
       "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 223238,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
     }
   ],
   "unique_name": "The Scene",

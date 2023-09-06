@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28344,
+  "num_followers": 28352,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ1NCwwZTE3MjBjNTQ5NWUxMDFlZWZiZDRiZjM5ZDg1ZGNiNGFmMDFlMGYw",
+  "snapshot_id": "MzQ2Niw0OGYzNWMyM2E4ZDRhNjI4YmJhZThjNTQ3OWU4ZWMwNDBlNDViOTk2",
   "tracks": [
+    {
+      "added_at": "2023-09-05 19:43:29",
+      "album": {
+        "name": "inferno",
+        "url": "https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "inferno",
+      "url": "https://open.spotify.com/track/4Jp2GBtVhmlielpBQeta18"
+    },
     {
       "added_at": "2023-08-29 14:14:33",
       "album": {
@@ -57,20 +73,28 @@
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
-      "added_at": "2023-08-09 19:18:01",
+      "added_at": "2023-09-05 19:38:06",
       "album": {
-        "name": "ghosts",
-        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/2jPweadDjOnzChjjcuselh"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "H31R",
+          "url": "https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr"
+        },
+        {
+          "name": "JWords",
+          "url": "https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT"
+        },
+        {
+          "name": "maassai",
+          "url": "https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV"
         }
       ],
-      "duration_ms": 220776,
-      "name": "ghosts",
-      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
+      "duration_ms": 128562,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/3AalwwmizoPXoLJOoAqnJe"
     },
     {
       "added_at": "2023-08-31 11:05:30",
@@ -87,6 +111,38 @@
       "duration_ms": 280328,
       "name": "DJ Friendly",
       "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
+    },
+    {
+      "added_at": "2023-09-05 19:36:53",
+      "album": {
+        "name": "SUBLIME",
+        "url": "https://open.spotify.com/album/6NBuJjglwazVHlNMJj5xZt"
+      },
+      "artists": [
+        {
+          "name": "GAIKA",
+          "url": "https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd"
+        }
+      ],
+      "duration_ms": 265525,
+      "name": "SUBLIME",
+      "url": "https://open.spotify.com/track/5CKCRFfzvDZLGAJVMvb4o0"
+    },
+    {
+      "added_at": "2023-08-09 19:18:01",
+      "album": {
+        "name": "ghosts",
+        "url": "https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 220776,
+      "name": "ghosts",
+      "url": "https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC"
     },
     {
       "added_at": "2023-08-09 19:18:28",
@@ -111,22 +167,6 @@
       "duration_ms": 316000,
       "name": "What Not To Do - Moodymann Remix",
       "url": "https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK"
-    },
-    {
-      "added_at": "2023-08-17 19:45:15",
-      "album": {
-        "name": "GUNZ",
-        "url": "https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS"
-      },
-      "artists": [
-        {
-          "name": "GAIKA",
-          "url": "https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd"
-        }
-      ],
-      "duration_ms": 195367,
-      "name": "GUNZ",
-      "url": "https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2"
     },
     {
       "added_at": "2023-08-17 19:48:41",
@@ -195,26 +235,6 @@
       "duration_ms": 436484,
       "name": "You Knew",
       "url": "https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR"
-    },
-    {
-      "added_at": "2023-08-17 19:50:49",
-      "album": {
-        "name": "When She Dance (David Ariza Club Edit)",
-        "url": "https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        },
-        {
-          "name": "David Ariza",
-          "url": "https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI"
-        }
-      ],
-      "duration_ms": 336393,
-      "name": "When She Dance - David Ariza Club Edit",
-      "url": "https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw"
     },
     {
       "added_at": "2023-08-17 19:49:55",
@@ -499,46 +519,6 @@
       "duration_ms": 232057,
       "name": "Woman",
       "url": "https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n"
-    },
-    {
-      "added_at": "2023-05-18 13:54:46",
-      "album": {
-        "name": "The Universe",
-        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 245823,
-      "name": "The Universe",
-      "url": "https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA"
-    },
-    {
-      "added_at": "2023-06-07 16:00:38",
-      "album": {
-        "name": "LADY",
-        "url": "https://open.spotify.com/album/3088SZvfQYnSQsAGsxUbgi"
-      },
-      "artists": [
-        {
-          "name": "GAIKA",
-          "url": "https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd"
-        },
-        {
-          "name": "BbyMutha",
-          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
-        }
-      ],
-      "duration_ms": 224898,
-      "name": "LADY",
-      "url": "https://open.spotify.com/track/49LUs902uTt3X0OBz5nWb4"
     },
     {
       "added_at": "2023-04-25 16:05:06",

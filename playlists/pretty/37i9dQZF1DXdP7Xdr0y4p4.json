@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 9736,
+  "num_followers": 9768,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjRkYTc1MjEwMDc5YTQwZGRlNTI0ZDdmMDQ5ZjQ1MTViYThkYjdm",
+  "snapshot_id": "MCw2ZWQ1ZjU2ZWEwYmI3NjM4OGYxYTY5MDgxMjljMTFmMzA1MzgzMjgw",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Unashamed",
-        "url": "https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m"
-      },
-      "artists": [
-        {
-          "name": "Brian Free & Assurance",
-          "url": "https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0"
-        }
-      ],
-      "duration_ms": 273146,
-      "name": "Say Amen",
-      "url": "https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 193333,
       "name": "Battle Stand",
       "url": "https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Unashamed",
+        "url": "https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m"
+      },
+      "artists": [
+        {
+          "name": "Brian Free & Assurance",
+          "url": "https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0"
+        }
+      ],
+      "duration_ms": 273146,
+      "name": "Say Amen",
+      "url": "https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -439,18 +439,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Songs for the Times",
-        "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
+        "name": "You Are More",
+        "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
       },
       "artists": [
         {
-          "name": "The Isaacs",
-          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
+          "name": "Tiffany Coburn",
+          "url": "https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt"
+        },
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
         }
       ],
-      "duration_ms": 224746,
-      "name": "Peace in Trusting",
-      "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
+      "duration_ms": 208893,
+      "name": "Matchless (feat. Point Of Grace)",
+      "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -471,22 +475,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "You Are More",
-        "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
+        "name": "Songs for the Times",
+        "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
       },
       "artists": [
         {
-          "name": "Tiffany Coburn",
-          "url": "https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt"
-        },
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+          "name": "The Isaacs",
+          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
         }
       ],
-      "duration_ms": 208893,
-      "name": "Matchless (feat. Point Of Grace)",
-      "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
+      "duration_ms": 224746,
+      "name": "Peace in Trusting",
+      "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -591,18 +591,34 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "On Jordan's Stormy Banks",
-        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "John Berry",
+          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
         }
       ],
-      "duration_ms": 276000,
-      "name": "On Jordan's Stormy Banks",
-      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
+      "duration_ms": 210161,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Bring That Giant Down",
+        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
+      },
+      "artists": [
+        {
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+        }
+      ],
+      "duration_ms": 208359,
+      "name": "Bring That Giant Down",
+      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -619,6 +635,22 @@
       "duration_ms": 316864,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "On Jordan's Stormy Banks",
+        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "On Jordan's Stormy Banks",
+      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -651,38 +683,6 @@
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Bring That Giant Down",
-        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
-      },
-      "artists": [
-        {
-          "name": "11th Hour",
-          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
-        }
-      ],
-      "duration_ms": 208359,
-      "name": "Bring That Giant Down",
-      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "How Great Thou Art",
-        "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
-      },
-      "artists": [
-        {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
-        }
-      ],
-      "duration_ms": 210161,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+      },
+      "artists": [
+        {
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 149545,
       "name": "Brighten The Corner Where You Are - Radio Edit",
       "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
-      },
-      "artists": [
-        {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "McKamey Legacy",
         "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
       },
@@ -951,22 +935,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Glorious Appearing",
         "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 228997,
       "name": "Glorious Appearing",
       "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
-        "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Performance Tracks",
-          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
-      "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Good News From Jerusalem (Made Popular by Tribute Quartet) [Performance Track]",
+        "url": "https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Performance Tracks",
+          "url": "https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Good News From Jerusalem (Demonstration in C-C#-D)",
+      "url": "https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb"
     },
     {
       "added_at": "2023-04-14 06:27:38",

@@ -4,7 +4,7 @@
 
 > Best of Hip\-Hop from India\. Cover\- MC Square
 
-102 songs - 5 hr 43 min
+103 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-27 | 2023-04-20 |
 | [I'm Done](https://open.spotify.com/track/4uW8CuyO9r7vOXgYf1eqCz) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [I'm Done](https://open.spotify.com/album/5ltoKiI9M68DVgRZy0OjFZ) | 2:50 | 2023-03-27 | 2023-04-20 |
 | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/track/1meDneuv818z2sRDMbI72N) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/album/4Qz07DWj8Rnhig4nyZF6oR) | 3:01 | 2023-08-08 | 2023-08-18 |
+| [Indian Hip Hop Cypher](https://open.spotify.com/track/0xwPtXvVX3JWs508EUfe5t) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu), [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o), [Flowbo](https://open.spotify.com/artist/1zZAfmD9oBMBxA8RhSukbf), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH), [Minta](https://open.spotify.com/artist/7tda05HSCJgxnQLLqzfSNL), [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Tony James](https://open.spotify.com/artist/71RrfwS2c8N12HclIkLeBn), [Refix](https://open.spotify.com/artist/4mTGAKzDRPxo6eer6DjDb3) | [Indian Hip Hop Cypher](https://open.spotify.com/album/3iJBtqwxuTy8FOeIb3vu3f) | 8:38 | 2023-09-05 |  |
 | [Jaadugar](https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:12 | 2023-04-19 | 2023-07-22 |
 | [Jaadugar](https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:12 | 2023-07-17 |  |
 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 | 2023-04-19 |  |

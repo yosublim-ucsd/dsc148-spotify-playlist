@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Luan Pereira, MC Ryan SP, Mc Daniel",
-  "num_followers": 394118,
+  "num_followers": 394804,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjhmMTcyM2NmNDE5NGEyODUxM2Y1N2FhZGY4ZmEyMGU3NmMyMWQz",
+  "snapshot_id": "MCxiYTNhNjM5YmZhYThjYzY3Yzk0OTJkN2ZiZjNmOWFhNDg1ZGVjNDM4",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Cad\u00ea o After? Pt. 1",
+        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Mc Mika",
+          "url": "https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Fode Bem",
+      "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Love, Love",
         "url": "https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 133385,
       "name": "Love, Love",
       "url": "https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Cad\u00ea o After? Pt. 1",
-        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Mc Mika",
-          "url": "https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Fode Bem",
-      "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Eu Gosto Assim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Eu Gosto Assim - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "N\u00e3o Para",
         "url": "https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 180923,
       "name": "N\u00e3o Para",
       "url": "https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Eu Gosto Assim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Eu Gosto Assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Pivete do Arrocha Funk",
+        "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
+      },
+      "artists": [
+        {
+          "name": "Neno No beat",
+          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
+        },
+        {
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        }
+      ],
+      "duration_ms": 159276,
+      "name": "Vem Morenin",
+      "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Ro\u00e7a Em Mim",
         "url": "https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 158171,
       "name": "Ro\u00e7a Em Mim",
       "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Pivete do Arrocha Funk",
-        "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
-      },
-      "artists": [
-        {
-          "name": "Neno No beat",
-          "url": "https://open.spotify.com/artist/6wPdYcqH47pTiPqsN7SImJ"
-        },
-        {
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
-        }
-      ],
-      "duration_ms": 159276,
-      "name": "Vem Morenin",
-      "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Marrento",
-        "url": "https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 129146,
-      "name": "Marrento",
-      "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Zona De Perigo",
         "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
       },
@@ -843,22 +827,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
-        "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 137660,
-      "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
-      "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Anota A\u00ed (Ao Vivo)",
         "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
       },
@@ -875,6 +843,54 @@
       "duration_ms": 200723,
       "name": "Anota A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/5a2CIQaMW3Keqtx4BdXbEY"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Marrento",
+        "url": "https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 129146,
+      "name": "Marrento",
+      "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
+        "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 137660,
+      "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
+      "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Furduncinho do Rogerinho",
+        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 179701,
+      "name": "Furduncinho do Rogerinho",
+      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Furduncinho do Rogerinho",
-        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 179701,
-      "name": "Furduncinho do Rogerinho",
-      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Balan\u00e7o da Rede",
         "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
       },
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Vulgo Mc Paiva",
+        "url": "https://open.spotify.com/album/7nAqWtxAmYqQuSMGSahW9X"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Vulgo Mc Paiva",
+      "url": "https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Parecia Tempestade",
         "url": "https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 149639,
       "name": "Parecia Tempestade",
       "url": "https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Vulgo Mc Paiva",
-        "url": "https://open.spotify.com/album/7nAqWtxAmYqQuSMGSahW9X"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Dj LK da Esc\u00f3cia",
-          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Vulgo Mc Paiva",
-      "url": "https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "N\u00e3o Manda \u00c1udio",
+        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 194090,
+      "name": "N\u00e3o Manda \u00c1udio",
+      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "AgroPlay Ver\u00e3o Vol.2",
         "url": "https://open.spotify.com/album/3n88JkN3da4EPoxFTXl4o5"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 139413,
       "name": "Vaqueiro Apaixonado",
       "url": "https://open.spotify.com/track/26ArOjriQJspvgotGZgX1X"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "N\u00e3o Manda \u00c1udio",
-        "url": "https://open.spotify.com/album/4TvJjBa84YCeR0DZKsnWFP"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 194090,
-      "name": "N\u00e3o Manda \u00c1udio",
-      "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Te Love (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
+        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
       },
       "artists": [
         {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 169002,
-      "name": "Te Love - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
+      "duration_ms": 189800,
+      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Digo ou N\u00e3o Digo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rrEzh5Y8zLVH7njdRIECu"
+        "name": "Te Love (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
         }
       ],
-      "duration_ms": 189800,
-      "name": "Digo ou N\u00e3o Digo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2rtsT3CefzKc05JdAm8aQ5"
+      "duration_ms": 169002,
+      "name": "Te Love - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj"
     },
     {
       "added_at": "2023-09-01 03:00:00",

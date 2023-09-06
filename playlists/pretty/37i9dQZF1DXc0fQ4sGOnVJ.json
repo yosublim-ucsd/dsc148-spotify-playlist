@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150217,
+  "num_followers": 150219,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWMyNjk1NWE0OTRiNmI0MDcwZGM1ZmY1OWZjMDAwNDJmNmFjNDNm",
+  "snapshot_id": "MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Trucks Gone Wild",
-        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
-      },
-      "artists": [
-        {
-          "name": "Bezz Believe",
-          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
-        },
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
-        }
-      ],
-      "duration_ms": 101052,
-      "name": "Trucks Gone Wild",
-      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Roll With Me (feat. Chris Hurt)",
         "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 235416,
       "name": "Roll With Me (feat. Chris Hurt)",
       "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Trucks Gone Wild",
+        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
+      },
+      "artists": [
+        {
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "Trucks Gone Wild",
+      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
     },
     {
       "added_at": "2023-08-21 15:41:01",

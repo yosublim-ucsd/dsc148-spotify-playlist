@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 80534,
+  "num_followers": 80587,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWM4Y2M0YmNmYjJhZTQyYjU3ZWVkOTg3OGU4OWVjZGM2NjM2ZTVi",
+  "snapshot_id": "MCxiM2JlMWRjMzg3YjM5MjJkN2NhNzZiNTY4MGZlN2VkOTFlOThhNzJj",
   "tracks": [
     {
       "added_at": "2023-03-27 15:42:25",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 291360,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
-        "name": "Let's Get It On",
-        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 291360,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "All In The Name Of Love",
-        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 286973,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -911,6 +895,22 @@
       "duration_ms": 337333,
       "name": "For the Love of You, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "All In The Name Of Love",
+        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 338386,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Silky Soul",
         "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 317026,
       "name": "Can't Get over You",
       "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 338386,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Operator Please Put Me Through",
-        "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
-      },
-      "artists": [
-        {
-          "name": "Jesse James",
-          "url": "https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK"
-        }
-      ],
-      "duration_ms": 307760,
-      "name": "I Can Do Bad By Myself",
-      "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Saci Perer\u00ea",
         "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 245800,
       "name": "Amor Natural",
       "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Operator Please Put Me Through",
+        "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
+      },
+      "artists": [
+        {
+          "name": "Jesse James",
+          "url": "https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK"
+        }
+      ],
+      "duration_ms": 307760,
+      "name": "I Can Do Bad By Myself",
+      "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
     },
     {
       "added_at": "2023-03-27 15:42:25",

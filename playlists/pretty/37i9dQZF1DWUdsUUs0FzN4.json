@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Kali Uchis y JT en portada ",
-  "num_followers": 9659,
+  "num_followers": 9681,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2I3MTM1NDlmNmRhOGZmODdmODljNWZjZjIzMjBlYjkyYmMzZjg2",
+  "snapshot_id": "MCxjNTAyYmU5NWZiYjEzYjkzNmFhZmRkNTVlYWYxYTliNzhlNTU3NDQx",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Tiempos de Plan B",
-        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 161287,
-      "name": "Tiempos de Plan B",
-      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Tiempos de Plan B",
+        "url": "https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 161287,
+      "name": "Tiempos de Plan B",
+      "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Puta Rara, Puta Dominicana",
-        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
-      },
-      "artists": [
-        {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
-        },
-        {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        },
-        {
-          "name": "marceu inovadora",
-          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
-        }
-      ],
-      "duration_ms": 140643,
-      "name": "Puta Rara, Puta Dominicana",
-      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Que Le Den",
         "url": "https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 193469,
       "name": "Que Le Den",
       "url": "https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Puta Rara, Puta Dominicana",
+        "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "marceu inovadora",
+          "url": "https://open.spotify.com/artist/2LfXtJH9QZUqz0mawPsBY7"
+        }
+      ],
+      "duration_ms": 140643,
+      "name": "Puta Rara, Puta Dominicana",
+      "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Acelera",
+        "url": "https://open.spotify.com/album/2yLvsTfL0erLPPohKuzi3O"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Acelera",
+      "url": "https://open.spotify.com/track/7ixpPg981MDTWJEY54pnRw"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Matanga",
         "url": "https://open.spotify.com/album/5PxAycUsvpu3xl9rJGf8fe"
       },
@@ -1791,18 +1807,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Acelera",
-        "url": "https://open.spotify.com/album/2yLvsTfL0erLPPohKuzi3O"
+        "name": "Esto No Es Un \u00c1lbum",
+        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
       },
       "artists": [
         {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
         }
       ],
-      "duration_ms": 152500,
-      "name": "Acelera",
-      "url": "https://open.spotify.com/track/7ixpPg981MDTWJEY54pnRw"
+      "duration_ms": 158013,
+      "name": "Gr\u00e1bate",
+      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1823,22 +1839,6 @@
       "duration_ms": 136800,
       "name": "B\u00e9lico",
       "url": "https://open.spotify.com/track/2M5OCuzCQNkiIgBeYBJfIt"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Esto No Es Un \u00c1lbum",
-        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
-      },
-      "artists": [
-        {
-          "name": "Yoiker",
-          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "Gr\u00e1bate",
-      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1971,6 +1971,30 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Como Me Muevo",
+        "url": "https://open.spotify.com/album/4UX6wYvUssV4rHu35NHJEx"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "DJ Pedro Fuentes",
+          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Como Me Muevo",
+      "url": "https://open.spotify.com/track/5LvqbMx39IhZNUBz4YQG3b"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Bote",
         "url": "https://open.spotify.com/album/7aB9Nj7knwtrKbUSfYEgSH"
       },
@@ -2011,50 +2035,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Como Me Muevo",
-        "url": "https://open.spotify.com/album/4UX6wYvUssV4rHu35NHJEx"
-      },
-      "artists": [
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        },
-        {
-          "name": "DJ Pedro Fuentes",
-          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
-        },
-        {
-          "name": "Charly Gynn",
-          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Como Me Muevo",
-      "url": "https://open.spotify.com/track/5LvqbMx39IhZNUBz4YQG3b"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Likes",
-        "url": "https://open.spotify.com/album/36DmgVkBI3hDOxqFlFigZ6"
-      },
-      "artists": [
-        {
-          "name": "Ele O",
-          "url": "https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 122774,
-      "name": "Likes",
-      "url": "https://open.spotify.com/track/2MSQ5nSg740lxwalZ2YIiR"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Problematik (feat. RYH)",
         "url": "https://open.spotify.com/album/1qkHprIMfXGQl6MLBwce96"
       },
@@ -2091,6 +2071,26 @@
       "duration_ms": 168315,
       "name": "Date Date",
       "url": "https://open.spotify.com/track/2ahikqDplQlkRgmr76u3tU"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Likes",
+        "url": "https://open.spotify.com/album/36DmgVkBI3hDOxqFlFigZ6"
+      },
+      "artists": [
+        {
+          "name": "Ele O",
+          "url": "https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 122774,
+      "name": "Likes",
+      "url": "https://open.spotify.com/track/2MSQ5nSg740lxwalZ2YIiR"
     },
     {
       "added_at": "2023-09-01 06:00:00",

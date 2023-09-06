@@ -2,7 +2,7 @@
 
 ### [TIRADE](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> The home of dark trap\. Rap from hell\. Cover: do not resurrect
+> Rap from hell\. Cover: $uicideboy$
 
 500 songs - 19 hr 43 min
 

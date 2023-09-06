@@ -2319,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Lamento",
+        "url": "https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm"
+      },
+      "artists": [
+        {
+          "name": "Sara Hoffman",
+          "url": "https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h"
+    },
+    {
+      "album": {
         "name": "Larissa",
         "url": "https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: BOYNEXTDOOR",
-  "num_followers": 779779,
+  "num_followers": 779915,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDE4Njg5YzQxZWRmZjVjOWZmNjM0OTkwZmJmOWIzZTE0ZDhkNjkw",
+  "snapshot_id": "MCxiNDI0ZGE4OGQ5YjU4M2JmY2I0MDFhMjFmYTM0MjkxN2FkYzU4Y2Ew",
   "tracks": [
     {
       "added_at": "2023-09-04 09:00:00",
@@ -41,10 +41,26 @@
       "url": "https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3"
     },
     {
+      "added_at": "2023-09-05 06:30:36",
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
       "added_at": "2023-09-04 09:00:00",
       "album": {
-        "name": "Street Woman Fighter2 (SWF2) Class Mission(Sub-leader)",
-        "url": "https://open.spotify.com/album/5sTeyWloN8oEUtvbV0VDNY"
+        "name": "Street Woman Fighter2 (SWF2) Class Mission",
+        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
       },
       "artists": [
         {
@@ -58,23 +74,7 @@
       ],
       "duration_ms": 165986,
       "name": "Click Like (Prod. Crush) (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/3gt8XdxuOccNIY5b2UpM1l"
-    },
-    {
-      "added_at": "2023-09-04 09:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+      "url": "https://open.spotify.com/track/3uzUBVCNTdVnmJMumFA4Ce"
     },
     {
       "added_at": "2023-09-04 09:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 220573,
       "name": "SLAY",
       "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
+    },
+    {
+      "added_at": "2023-09-04 09:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "added_at": "2023-09-04 09:00:00",

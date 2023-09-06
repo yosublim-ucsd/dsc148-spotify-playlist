@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-108 songs - 7 hr 30 min
+109 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Oblivion](https://open.spotify.com/track/2JXMEXKqT4cnGI1ICepo8C) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ashwin Renju](https://open.spotify.com/artist/6gX6JbltHfNOeMAK89YFkc) | [Oblivion](https://open.spotify.com/album/4Cqq8afOI5McMl7hQCKYy5) | 4:23 | 2022-09-23 | 2023-07-28 |
 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 | 2023-05-26 | 2023-07-28 |
 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 | 2022-06-23 |  |
+| [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 |  |
 | [Parayathe Parayunna](https://open.spotify.com/track/0q5vrVopEWT359duzBEBPV) | [Nikhil Chandran](https://open.spotify.com/artist/5PNeVXZSF6jNVjvA9NGk9B) | [Parayathe Parayunna](https://open.spotify.com/album/6Hgtk1jJYSi8Fe3GxtzkyA) | 4:17 | 2022-06-23 | 2023-07-28 |
 | [Parudeesa](https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Parudeesa](https://open.spotify.com/album/5j3jXf1zZCbqNNEsFQxTfS) | 5:24 | 2022-12-27 |  |
 | [Pilleranu](https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 5:35 | 2023-07-27 |  |

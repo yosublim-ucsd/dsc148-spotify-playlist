@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,966 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,991 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 |
-| 2 | [Kudmayi \(Film Version\)](https://open.spotify.com/track/3izZ5WaGr0uNsglsGvlyaM) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu) | 4:25 |
+| 2 | [Kudmayi \(Film Version\)](https://open.spotify.com/track/7c6ULNGXJZ0Wf7voEUEcKu) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YlugBItLrdu7CEZwRGskr) | 4:25 |
 | 3 | [Aaj Ke Baad \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2lfKa3eVovQUNoPlxb0dwi) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Aaj Ke Baad \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/0THQnVadPc95q8rutBD10c) | 3:37 |
 | 4 | [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 |
 | 5 | [Wedding Mashup](https://open.spotify.com/track/1CJv2VY3VYGKtUXifClgXU) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Wedding Mashup](https://open.spotify.com/album/7eBcg17oRERBT6Swk0UT0K) | 1:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 49 | [Laung Gawacha](https://open.spotify.com/track/5ol7uDVpF1pHQitme6AJpm) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Laung Gawacha](https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv) | 2:41 |
 | 50 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 |
 
-Snapshot ID: `MCw3YTExNDJmYTQ4OWU2YzEyNDg3MzY4MjkxMmU4NDAyZjA2NWRiZjA2`
+Snapshot ID: `MCw5YTQ1NzM3OTI3ZGJlODljZmRmY2FiNWYyZDJiNWU4YzNhMTVlY2I5`

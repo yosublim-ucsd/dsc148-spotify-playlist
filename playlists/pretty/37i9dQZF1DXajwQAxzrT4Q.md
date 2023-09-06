@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,159 likes - 75 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,226 likes - 75 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 38 | [TON1GHT \- Jersey Club](https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m) | [KilSoSouth](https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N) | [TON1GHT](https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo) | 1:34 |
 | 39 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 |
 | 40 | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/track/1aKHgPHMKTJEmLkKmcbe3a) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Left Cheek \(Doo Doo Blick\)](https://open.spotify.com/album/2QCIxTKckQPH0slJpy7GV9) | 2:54 |
-| 41 | [Space and Time](https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz) | [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8), [NAWAS](https://open.spotify.com/artist/58l4CfKVxJcp2tYu7Ux2up), [Riot Forge](https://open.spotify.com/artist/35RzeuBuxE2nnnzdtYsTZH), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Space and Time](https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk) | 3:10 |
+| 41 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 42 | [\#miles \(OMG edit\)](https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles \(OMG edit\)](https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V) | 2:17 |
-| 43 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
+| 43 | [Space and Time](https://open.spotify.com/track/2NHtAJhXVOnSIN2lZhbpWz) | [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8), [NAWAS](https://open.spotify.com/artist/58l4CfKVxJcp2tYu7Ux2up), [Riot Forge](https://open.spotify.com/artist/35RzeuBuxE2nnnzdtYsTZH), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Space and Time](https://open.spotify.com/album/1Wv3UDxtjeoUYbWzMoWNyk) | 3:10 |
 | 44 | [Cupid, Pt\. 2](https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Cupid, Pt\. 2](https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn) | 1:42 |
 | 45 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
 | 46 | [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 71 | [Dream \(Jersey Club\)](https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM) | [DJ T Marq](https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO) | [Dream \(Jersey Club\)](https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie) | 2:03 |
 | 72 | [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 |
 | 73 | [Anxious](https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Anxious](https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6) | 2:01 |
-| 74 | [2 predictable](https://open.spotify.com/track/2cc384XtpakSacPvmmbitA) | [lilheartbreak](https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P) | [2 predictable](https://open.spotify.com/album/5kEYHZVgXYYZ4bVc7kbZeS) | 1:55 |
+| 74 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
 | 75 | [My Back \(Jersey Club\)](https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [My Back \(Jersey Club\)](https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy) | 2:07 |
 
-Snapshot ID: `MCw1MzRlMWNmMTY5ZmY0M2QzYTIzMmMwNTkyZjUzN2NmYjFkODI4NGU5`
+Snapshot ID: `MCwyMmFkYTgwODA2OTBmNDQwZTRiOTVmMGU1ZGVkNjg4Y2FlODY0MmQ1`

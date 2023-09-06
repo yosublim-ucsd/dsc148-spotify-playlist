@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-96 songs - 5 hr 14 min
+97 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-22 |  |
 | [Is this bad b\*\*\*\*\*\* number?](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:45 | 2022-05-22 |  |
 | [Jelly](https://open.spotify.com/track/0MsE73sXgfqOpgzCATa0Wt) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Jelly](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) | 2:59 | 2022-05-22 |  |
-| [Last Dance](https://open.spotify.com/track/1fxKKzZ6YmnrYmD7fCrBo9) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Last Dance](https://open.spotify.com/album/3IiDThxeByjo3BScAzRqHy) | 3:04 | 2022-05-22 |  |
+| [Last Dance](https://open.spotify.com/track/1fxKKzZ6YmnrYmD7fCrBo9) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Last Dance](https://open.spotify.com/album/3IiDThxeByjo3BScAzRqHy) | 3:04 | 2022-05-22 | 2023-09-06 |
+| [Last Dance \(Prod\. GroovyRoom\)](https://open.spotify.com/track/7EI7PpLESJmbAnaK4zCmFm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Last Dance \(Prod\. GroovyRoom\)](https://open.spotify.com/album/2R8RsIMCdiNxkQVD96kDDW) | 3:04 | 2023-08-23 |  |
 | [LATATA](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:22 | 2022-05-22 |  |
 | [LIAR](https://open.spotify.com/track/4NrmxVJURTgzMH0QKyYy1a) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:51 | 2022-05-22 |  |
 | [Light My Fire](https://open.spotify.com/track/3jSMGwspwFJGWIaxNIDWsT) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:51 | 2022-05-22 |  |

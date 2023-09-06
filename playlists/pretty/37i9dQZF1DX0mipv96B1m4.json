@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDRiZWZmZjIxM2M2YTRmZGQ2ZjE4NDc1YmJiN2JjZjE1NTMyNmRl",
+  "snapshot_id": "MCw4NGNjY2NlNWFmMGQwZTcyOGJlZWUxM2JlMzNmMmUxZmIxMjBjMWM2",
   "tracks": [
     {
       "added_at": "2023-08-18 12:29:53",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
         "name": "Boss Lady",
         "url": "https://open.spotify.com/album/0oVXkcJZptVuTZZRFaEbqI"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 178808,
       "name": "Boss Lady",
       "url": "https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -579,58 +579,6 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        }
-      ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
         "name": "Tick Talk",
         "url": "https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT"
       },
@@ -659,6 +607,42 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        },
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 208000,
       "name": "The One",
       "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -779,22 +779,18 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Basheshe",
-        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
       },
       "artists": [
         {
-          "name": "Zagazillions",
-          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
         }
       ],
-      "duration_ms": 139188,
-      "name": "Basheshe",
-      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+        "name": "Basheshe",
+        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
       },
       "artists": [
         {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+          "name": "Zagazillions",
+          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+      "duration_ms": 139188,
+      "name": "Basheshe",
+      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
     },
     {
       "added_at": "2023-08-18 12:29:53",

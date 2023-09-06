@@ -1,13 +1,33 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 204464,
+  "num_followers": 204604,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGFkZGYyOGI2M2VjOTc3MjAyMjc4ZmZhOWJiNmM2MDE3MjExZjQ5",
+  "snapshot_id": "MCxhNWNkNGU0Yzk2N2RlYThiOTMzZGYxNzUyN2I1YTZiZDA4MTM0YmM3",
   "tracks": [
+    {
+      "added_at": "2023-09-05 14:34:54",
+      "album": {
+        "name": "Ashin' Blunts (feat. Arden Jones)",
+        "url": "https://open.spotify.com/album/2Izbj4RptmAWte7yXLGv5X"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Ashin' Blunts (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/4zL03IAgp23CoVpXZ1PyBj"
+    },
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
@@ -29,10 +49,10 @@
       "url": "https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr"
     },
     {
-      "added_at": "2023-08-14 15:38:20",
+      "added_at": "2023-09-05 14:34:54",
       "album": {
-        "name": "ball don't lie",
-        "url": "https://open.spotify.com/album/3EC1lYeCx5BSOTRZU0JTOu"
+        "name": "we die once",
+        "url": "https://open.spotify.com/album/1Dys4No4EglJK3GfLdyM5o"
       },
       "artists": [
         {
@@ -40,9 +60,9 @@
           "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 189040,
-      "name": "ball don't lie",
-      "url": "https://open.spotify.com/track/4Afm4zpTJIR8KgTTIC3gTz"
+      "duration_ms": 158066,
+      "name": "we die once",
+      "url": "https://open.spotify.com/track/58PNvM25Mrf60NlFReyFmv"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -419,6 +439,26 @@
       "duration_ms": 143403,
       "name": "PDA",
       "url": "https://open.spotify.com/track/36NqiAgn72InTKB3TRPbhB"
+    },
+    {
+      "added_at": "2023-09-05 14:34:54",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7Fhbj777FAJ4vtLhMElkRr"
+      },
+      "artists": [
+        {
+          "name": "Gaff",
+          "url": "https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ"
+        },
+        {
+          "name": "Alex Gough",
+          "url": "https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh"
+        }
+      ],
+      "duration_ms": 195868,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/26XR5JKg2UHYDMLUAmosEm"
     },
     {
       "added_at": "2023-08-18 04:00:00",

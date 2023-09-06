@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,542 songs - 2 day 10 hr 28 min
+1,543 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [falling](https://open.spotify.com/track/0JwITaadgbbBnQIioNbjrD) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [falling](https://open.spotify.com/album/3YpHJzRylTi7Y3jU2KcXVS) | 2:40 | 2022-04-15 | 2022-10-14 |
 | [Falling Stars](https://open.spotify.com/track/4mIgrbxrhfjvbbi8pSPYZl) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Falling Stars](https://open.spotify.com/album/3VPdb1H1lJCjUnQvJKxQFW) | 1:43 | 2022-05-27 | 2022-11-12 |
 | [falling stars](https://open.spotify.com/track/6nzchYBQWnzBl8yA5taOfC) | [Pelicano](https://open.spotify.com/artist/3CRpU6gIV5tdSEjvZqlRl0), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [falling stars](https://open.spotify.com/album/4LqLHMadm7hIXlXEDyJvz3) | 2:55 | 2022-05-13 | 2022-11-12 |
-| [faltering heights](https://open.spotify.com/track/71GgMWy54Ctffgnba5tZwJ) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [sunshine states](https://open.spotify.com/album/7imq2Ao9BIk5RD9EzRcGp6) | 3:00 | 2022-11-11 | 2023-09-01 |
+| [faltering heights](https://open.spotify.com/track/71GgMWy54Ctffgnba5tZwJ) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [sunshine states](https://open.spotify.com/album/7imq2Ao9BIk5RD9EzRcGp6) | 3:00 | 2022-11-11 |  |
 | [Family Affair](https://open.spotify.com/track/3ytYZSrlHRJ2uGviCpeoKu) | [eiji](https://open.spotify.com/artist/1wzqhHInXSYezJHke90Jeo) | [Family Affair](https://open.spotify.com/album/6cDF4iRiBUZP9RLyoEs4n3) | 1:27 | 2022-12-09 |  |
 | [fantasize](https://open.spotify.com/track/6YTpB8MmcAwNmet2FtfuTm) | [bdazzled.](https://open.spotify.com/artist/5AQW8r2NypcnevFfyEAMI5) | [fantasize](https://open.spotify.com/album/7z8JnYNS2DBH4vgVgFn8ID) | 2:26 | 2023-03-24 |  |
 | [far far away](https://open.spotify.com/track/02lD05wrDhtJVJkQELhwkt) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [aurora](https://open.spotify.com/album/6ImO1VVSZr0cpYuhtBbXvp) | 2:52 | 2023-03-20 |  |
@@ -511,7 +511,7 @@
 | [Fresh Juice](https://open.spotify.com/track/3jSI6gN3eD79IbszeAzwrc) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Fresh Juice](https://open.spotify.com/album/4r9rHIMUDLFi57P2aGanEZ) | 3:00 | 2022-11-11 | 2023-03-25 |
 | [Fresh Tires](https://open.spotify.com/track/6LLsU0zVgPcQKb7Rnf1MeV) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Fresh Tires](https://open.spotify.com/album/7oQp36kWOf04mfm2LLnSiO) | 2:33 | 2022-12-16 |  |
 | [Friday Night](https://open.spotify.com/track/60xBFhU4ojvkFID0Le4XIw) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Friday Night](https://open.spotify.com/album/0KWrgf5GX7d2yd8PeVsiWY) | 1:58 | 2022-07-15 |  |
-| [Friday Night Special](https://open.spotify.com/track/175pLdVrtibfcbjVQHzT5D) | [Cheap Sneakers](https://open.spotify.com/artist/58oDekndqPDymXe2Ia9Hh5) | [Friday Night Special](https://open.spotify.com/album/6NFscmhzPsh2POcIdc6Z6A) | 2:42 | 2022-07-01 |  |
+| [Friday Night Special](https://open.spotify.com/track/175pLdVrtibfcbjVQHzT5D) | [Cheap Sneakers](https://open.spotify.com/artist/58oDekndqPDymXe2Ia9Hh5) | [Friday Night Special](https://open.spotify.com/album/6NFscmhzPsh2POcIdc6Z6A) | 2:42 | 2022-07-01 | 2023-09-06 |
 | [Friday Underground](https://open.spotify.com/track/6tUGEKjPjyo76vEROoRdcO) | [Lack Sho](https://open.spotify.com/artist/5MpqGukBLHUlsEb996s3m1) | [Friday Underground](https://open.spotify.com/album/5qD8izfLeybQjPlJ8vlF6C) | 1:56 | 2022-04-15 | 2022-09-02 |
 | [Friendly](https://open.spotify.com/track/4X40ngLEFkHOJ8FZyFnYCB) | [Cargo Ship](https://open.spotify.com/artist/1WrXHKCzXwcYewHIHKKn9e) | [Friendly](https://open.spotify.com/album/3zv6QMU7sUtIFtqTo2kZJU) | 1:36 | 2023-04-03 |  |
 | [Friendly Faces](https://open.spotify.com/track/0pNFktEQz2DVOC1pZ28K4F) | [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Friendly Faces](https://open.spotify.com/album/56hM3apSfrrdxGGvPbKsky) | 2:42 | 2022-12-09 |  |
@@ -716,6 +716,7 @@
 | [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 |  |
 | [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 |  |
 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 | 2022-08-05 | 2022-10-01 |
+| [Kyalami](https://open.spotify.com/track/0DE2JFzYVR4byph3SilATs) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Kyalami](https://open.spotify.com/album/0QOvz1G0ajW226aJNXkHkl) | 2:38 | 2023-08-31 |  |
 | [Kyiv](https://open.spotify.com/track/6zNOsAGx5GLTb3PeQmZcEo) | [Levin](https://open.spotify.com/artist/14z9YXlyvDrv11EdLohOEI) | [Kyiv](https://open.spotify.com/album/0jpBP7SN2oONwtpi2X0uHZ) | 2:39 | 2022-04-15 | 2023-08-18 |
 | [Kyoto Heights](https://open.spotify.com/track/7DM4hfmEqXzcmsm5OciGRw) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Kyoto Heights](https://open.spotify.com/album/5cr6pLYZYj2boLIftIQ3u9) | 2:25 | 2023-06-06 |  |
 | [Kyoto Nights](https://open.spotify.com/track/7kCclmsH5N16EG7eSTmkh4) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Kyoto Nights](https://open.spotify.com/album/2f0vY3mmnDAXTfqP9UzMi7) | 2:13 | 2023-03-01 |  |
@@ -1536,7 +1537,7 @@
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2022-04-15 | 2022-07-01 |
 | [World Is My Pillow](https://open.spotify.com/track/0V2A3Wj3b7wLbEf0kLZAhn) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [World Is My Pillow](https://open.spotify.com/album/4DtC7Dy60nNTJP6vOoCG5q) | 1:44 | 2022-04-15 | 2022-10-14 |
 | [World Wonders](https://open.spotify.com/track/7ECNeHwthaexm4DlKXoB6L) | [Anex Xi Ko](https://open.spotify.com/artist/49aViG8nPbDT9il51JrGD4) | [World Wonders](https://open.spotify.com/album/3WBitz6lZdhmXpW7Nu7FzO) | 1:58 | 2022-10-28 |  |
-| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 |  |
+| [wrapped arms](https://open.spotify.com/track/2ubSXCCGBqeqVmAO9MLtJC) | [LisaMadeIt](https://open.spotify.com/artist/5ViVYkn32Af29Mqim9TPj6) | [wrapped arms](https://open.spotify.com/album/23SKlJ7adcyLeKDQcjrZ5E) | 1:57 | 2022-07-15 | 2023-09-06 |
 | [wwwonderful](https://open.spotify.com/track/75EDTSiCdoU7D1fudbsVRj) | [chilliament](https://open.spotify.com/artist/6XpSrMMpim7PcR2s9dMnu7) | [llofi](https://open.spotify.com/album/1jPxjaOPiE04TzQbJiU1ow) | 2:18 | 2022-04-15 | 2023-02-14 |
 | [XOXO](https://open.spotify.com/track/6Bc5p9BJM9YPS9sZNaBp9V) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Night Life](https://open.spotify.com/album/5cNuT4skHDNiMmiwehhknD) | 1:31 | 2022-04-15 | 2022-07-15 |
 | [yellow](https://open.spotify.com/track/0lVHOXO4RZVfAog2QnCQ3T) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [yellow](https://open.spotify.com/album/7DVT4nL7IW52rubRdiEfut) | 2:06 | 2022-08-05 | 2022-12-03 |

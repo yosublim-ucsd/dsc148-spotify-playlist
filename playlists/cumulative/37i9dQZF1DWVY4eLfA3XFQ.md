@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Lee Foss & Ralf
 
-1,252 songs - 3 day 0 hr 11 min
+1,252 songs - 3 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,7 @@
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-17 | 2023-06-17 |
 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 | 2023-03-17 | 2023-06-17 |
 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 | 2021-11-26 | 2022-04-23 |
-| [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 3:31 | 2023-09-01 |  |
+| [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 2:14 | 2023-09-01 |  |
 | [Las Morenas](https://open.spotify.com/track/1DADRCZI1S4DJJ9QxvK9gG) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Allan Nunez](https://open.spotify.com/artist/2SmVeNcio0ldBHqu7tXEeI), [Felipe Espitia](https://open.spotify.com/artist/1PzUnwBokS2SFzZ2DJmqb8) | [Las Morenas](https://open.spotify.com/album/6EWPPT3LHZbGcF5EZ18DR0) | 3:10 | 2022-05-06 | 2022-05-14 |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2021-11-26 | 2022-04-23 |
 | [Leave Your Mind Behind](https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z) | 3:06 | 2022-01-14 | 2022-04-23 |

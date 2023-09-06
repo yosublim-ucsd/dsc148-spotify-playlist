@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-141 songs - 6 hr 26 min
+142 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 | 2023-01-24 |  |
 | [Stilte](https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Stilte](https://open.spotify.com/album/06VoObxzlK0aRzVpHm8FBE) | 3:14 | 2023-03-28 |  |
 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 | 2023-01-24 |  |
+| [Sun\-drenched Greenery](https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Sun\-drenched Greenery](https://open.spotify.com/album/0mF5YSe2ziMY1EpNX4im50) | 3:24 | 2023-09-05 |  |
 | [Tantra](https://open.spotify.com/track/2yxNtcqRXXLPpUroUaKYAh) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tantra](https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1) | 1:46 | 2023-02-13 |  |
 | [Tears in Heaven & Relaxing Mornings](https://open.spotify.com/track/3xxEgKyzXdz1N7SoyFq2f8) | [Liam Gray](https://open.spotify.com/artist/3nSFyO3JTPhzXGJnR7wI1j) | [Relaxing Mornings, Vol\. IV](https://open.spotify.com/album/5gTdlkIcQC0N2dDbfkU8qJ) | 1:42 | 2023-01-24 |  |
 | [Temptavi](https://open.spotify.com/track/6pAbtZUtsX7jo1QATy9yqK) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Temptavi](https://open.spotify.com/album/42bxu81Q5B6FnuwiwjjFbo) | 2:59 | 2023-03-13 |  |
@@ -147,7 +148,7 @@
 | [Unité](https://open.spotify.com/track/1XNuWRKQ8EoadsOq0nGtuI) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Unité](https://open.spotify.com/album/2arwW4mufgnvXDiPYIT6ze) | 2:38 | 2023-03-13 |  |
 | [Upstream](https://open.spotify.com/track/2AczRHkxLS55yTDtyy5Hrr) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Upstream](https://open.spotify.com/album/2PLOlM8ygtam36gb7MOYMI) | 2:38 | 2023-08-21 |  |
 | [Volans In Silva](https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Volans In Silva](https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG) | 3:06 | 2023-03-13 |  |
-| [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 | 2023-01-24 |  |
+| [WATERFALLS](https://open.spotify.com/track/6Y8AeQZTqpfDp3kynbzbBV) | [Keypling](https://open.spotify.com/artist/2V5UxuaY21iAxgMEqBBvFz) | [Cozy Cabin Piano Pieces](https://open.spotify.com/album/2szgUkYQvh2eYfiKtNxxNM) | 2:54 | 2023-01-24 | 2023-09-06 |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-01-24 | 2023-05-20 |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

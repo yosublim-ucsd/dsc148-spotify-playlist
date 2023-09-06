@@ -1,12 +1,12 @@
 {
   "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 215070,
+  "num_followers": 215092,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTg4NTlhYzVjMTA3ZWNmNTg1NjJhMTYwMzA4Nzc3ZTY3NDE0MTZi",
+  "snapshot_id": "MCxlZWExNWM3ZTkyZjg1NTA5Y2JhZjFhMGMyZTBjNzlmZmE2ZDgwMWUz",
   "tracks": [
     {
       "added_at": "2023-09-04 13:55:54",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/4CDi4Q8cBDaSi7T7RixE7F"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Choices",
-      "url": "https://open.spotify.com/track/6R2kAOhzSAQekI8Z5PL6Yq"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
         "name": "Zero Chances (Ao Vivo)",
         "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 218410,
       "name": "Zero Chances - Ao Vivo",
       "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/4CDi4Q8cBDaSi7T7RixE7F"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/6R2kAOhzSAQekI8Z5PL6Yq"
     },
     {
       "added_at": "2023-09-04 13:55:54",
@@ -767,6 +767,30 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
         "name": "M\u00fasicas Para Fumar Bal\u00e3o",
         "url": "https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX"
       },
@@ -827,30 +851,6 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
         "name": "Frozone",
         "url": "https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs"
       },
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
+        "name": "Preto Demais",
+        "url": "https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6"
+      },
+      "artists": [
+        {
+          "name": "Hugo Ojuara",
+          "url": "https://open.spotify.com/artist/0IWYr6WoUeneAbJIYdCf3D"
+        }
+      ],
+      "duration_ms": 172875,
+      "name": "Preto Demais",
+      "url": "https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
         "name": "Sou + As Negras",
         "url": "https://open.spotify.com/album/6Z6uUrQRgrTv9Uw8k1rgkg"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 161076,
       "name": "Sou + As Negras",
       "url": "https://open.spotify.com/track/4RqoUzXPTDgQSgSiPxmjHJ"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
-        "name": "Preto Demais",
-        "url": "https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6"
-      },
-      "artists": [
-        {
-          "name": "Hugo Ojuara",
-          "url": "https://open.spotify.com/artist/0IWYr6WoUeneAbJIYdCf3D"
-        }
-      ],
-      "duration_ms": 172875,
-      "name": "Preto Demais",
-      "url": "https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP"
     },
     {
       "added_at": "2023-09-04 13:55:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
-        "name": "Nova Wave, Pt. 2",
-        "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
-      },
-      "artists": [
-        {
-          "name": "Shaodree",
-          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "1 Minuto",
-      "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
         "name": "Novinha do Peito Bicudo",
         "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
+        "name": "Nova Wave, Pt. 2",
+        "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "1 Minuto",
+      "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
-        "name": "Gostosa de Air Max",
-        "url": "https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1"
-      },
-      "artists": [
-        {
-          "name": "Laura Sette",
-          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
-        },
-        {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
-        }
-      ],
-      "duration_ms": 135609,
-      "name": "Gostosa de Air Max",
-      "url": "https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
         "name": "KEN ELAS QUER",
         "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 121234,
       "name": "KEN ELAS QUER",
       "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
+        "name": "Gostosa de Air Max",
+        "url": "https://open.spotify.com/album/4h9JWqAumE78sOniGFUGg1"
+      },
+      "artists": [
+        {
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "duration_ms": 135609,
+      "name": "Gostosa de Air Max",
+      "url": "https://open.spotify.com/track/02uKdKnouBOFSqP8aRCUmj"
     }
   ],
   "unique_name": "AMPLIFIKA",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,213 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,235 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 56 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 |
 | 57 | [Great Spirit](https://open.spotify.com/track/6FzjJPwf5JzzFOei7h6Qrp) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Hilight Tribe](https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7) | [The Best Of Armin Only](https://open.spotify.com/album/1WEVdCa5YAK8tep9xOs2hS) | 3:35 |
 | 58 | [My Pony](https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9) | 2:33 |
-| 59 | [Epic \- Garmiani Remix](https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Garmiani](https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R) | [Epic \(Garmiani Remix\)](https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5) | 2:35 |
+| 59 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
 | 60 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 |
-| 61 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
+| 61 | [Epic \- Garmiani Remix](https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Garmiani](https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R) | [Epic \(Garmiani Remix\)](https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5) | 2:35 |
 | 62 | [Take Me \(feat\. Gloria Kim\)](https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Take Me \(feat\. Gloria Kim\)](https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn) | 4:00 |
 | 63 | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht) | 2:26 |
 | 64 | [Menage A Trois](https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Menage A Trois](https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo) | 2:48 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 89 | [Dished \(Male Stripper\)](https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4) | 4:13 |
 | 90 | [CHROME](https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [CHROME](https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG) | 2:40 |
 
-Snapshot ID: `MCxjYjU4MmE0MDUxZWZmMTE5OGFjY2RkM2UzYTlkYTljMTY4OTc2NDA3`
+Snapshot ID: `MCw5Y2ZkN2UzMWI5NzU1NWQ3ZmEzYzlhYzg3N2JhYjMwNGJhZTMwYjIx`

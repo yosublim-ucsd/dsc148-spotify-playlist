@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Anupam Rahasya",
+        "url": "https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Punja",
+          "url": "https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277852,
+      "name": "Anupam Rahasya",
+      "url": "https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB"
+    },
+    {
+      "album": {
         "name": "Baagh",
         "url": "https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN"
       },
@@ -312,7 +330,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 261501,
       "name": "CHAKRA HEALING (Meditation Music)",
       "url": "https://open.spotify.com/track/6rNmdoYbDXjqnslT2NbJTK"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 237209,
       "name": "Dharawi Nights",
       "url": "https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 138028,
       "name": "Lost in Space",
       "url": "https://open.spotify.com/track/7tmMkS0oXNav28iAVjTTZS"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 199090,
       "name": "Passion",
       "url": "https://open.spotify.com/track/10N4pUn5NmbJTodGCJSV4I"
@@ -1408,6 +1426,24 @@
       "duration_ms": 136009,
       "name": "Peace Within",
       "url": "https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS"
+    },
+    {
+      "album": {
+        "name": "Prakriti Ke Gupt Rahasya",
+        "url": "https://open.spotify.com/album/0l7Rz8rwxxViesi5t4C5Yx"
+      },
+      "artists": [
+        {
+          "name": "Kanta Khatri",
+          "url": "https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262930,
+      "name": "Prakriti Ke Gupt Rahasya",
+      "url": "https://open.spotify.com/track/5WVEBO6CYYfkKfB5ei6cak"
     },
     {
       "album": {
@@ -1488,7 +1524,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 210000,
       "name": "Purrfection 44 - Meow Mix",
       "url": "https://open.spotify.com/track/18iPekNLWc9PPWe0xwADKb"
@@ -1831,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Seasoned Traveler",
+        "url": "https://open.spotify.com/album/3H154bZ3wxORhkRi1tk8on"
+      },
+      "artists": [
+        {
+          "name": "Roksana Moi",
+          "url": "https://open.spotify.com/artist/35oLmyk638FInZJx5hZD6j"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Seasoned Traveler",
+      "url": "https://open.spotify.com/track/5ILMMY0T5WbyOSn4XJIo04"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/2KSHTLkxbjYzZfY85s8L2O"
       },
@@ -1878,7 +1932,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 359779,
       "name": "Shabdkosh",
       "url": "https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv"

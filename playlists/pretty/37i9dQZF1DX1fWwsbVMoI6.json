@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 102999,
+  "num_followers": 103049,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODM0NDI1NDk5NjEyYjQ5NTM5OTdjMmUwMmVlOTIxNjJlMmY4YjM1",
+  "snapshot_id": "MCwzNzNlNGMxZTI3NGU5NThlMTc3NzQ4OTg3YWQyNTJkZWE0M2Q2ZDFi",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "A Llorar a Otra Parte",
-        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
+        "name": "Por Qu\u00e9 Te Fuiste",
+        "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
       },
       "artists": [
         {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+          "name": "Maricarmen Marin",
+          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
         }
       ],
-      "duration_ms": 233813,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
+      "duration_ms": 185505,
+      "name": "Por Qu\u00e9 Te Fuiste",
+      "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Por Qu\u00e9 Te Fuiste",
-        "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
+        "name": "A Llorar a Otra Parte",
+        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
       },
       "artists": [
         {
-          "name": "Maricarmen Marin",
-          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
         }
       ],
-      "duration_ms": 185505,
-      "name": "Por Qu\u00e9 Te Fuiste",
-      "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
+      "duration_ms": 233813,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Solo \u00c9xitos",
-        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Candela",
-          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Homenaje a Mallanep: Donde Est\u00e1 el Amor / Una Aventura M\u00e1s / Me Rio de Ti",
         "url": "https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 344088,
       "name": "Homenaje a Mallanep: Donde Est\u00e1 el Amor / Una Aventura M\u00e1s / Me Rio de Ti",
       "url": "https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Solo \u00c9xitos",
+        "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
-      },
-      "artists": [
-        {
-          "name": "Amaya Hnos",
-          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
-        }
-      ],
-      "duration_ms": 241319,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Solo \u00c9xitos",
         "url": "https://open.spotify.com/album/65HPZEpduQsWS3MufRLJlS"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 213426,
       "name": "El Arbolito",
       "url": "https://open.spotify.com/track/1wr2LwsnmGTqxrOfiVrtQx"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
+      },
+      "artists": [
+        {
+          "name": "Amaya Hnos",
+          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
+        }
+      ],
+      "duration_ms": 241319,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
     },
     {
       "added_at": "2023-03-31 05:01:00",

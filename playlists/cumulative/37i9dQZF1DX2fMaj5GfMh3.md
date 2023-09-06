@@ -2,7 +2,7 @@
 
 ### [Fresh Pop](https://open.spotify.com/playlist/37i9dQZF1DX2fMaj5GfMh3)
 
-> Selena Gomez deze week op de cover van Fresh Pop.
+> Duncan Laurence deze week op de cover van Fresh Pop.
 
 323 songs - 16 hr 12 min
 

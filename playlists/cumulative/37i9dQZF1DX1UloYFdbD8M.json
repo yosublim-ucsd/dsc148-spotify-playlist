@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Palavidham",
+        "url": "https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf"
+      },
+      "artists": [
+        {
+          "name": "Arya Dhayal",
+          "url": "https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184682,
+      "name": "Palavidham",
+      "url": "https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He"
+    },
+    {
+      "album": {
         "name": "Parayathe Parayunna",
         "url": "https://open.spotify.com/album/6Hgtk1jJYSi8Fe3GxtzkyA"
       },

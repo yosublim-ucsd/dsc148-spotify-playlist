@@ -1,12 +1,12 @@
 {
   "description": "Wasia Project takes over Jasmine in celebration of ESEA Month in the UK!",
-  "num_followers": 275951,
+  "num_followers": 276157,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDlmMWQxYzk3ODI5NTg2YzA3MTc1ZDI1N2NlNjhkZjViM2U0Yzgx",
+  "snapshot_id": "MCw2YzkxYzIxN2I5MGNiYjU0OTE3ODVmMjkzOWIxMDA2OTc1MjljNzli",
   "tracks": [
     {
       "added_at": "2023-09-01 16:55:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Bug Like an Angel",
-        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "apart of me",
         "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 76285,
       "name": "apart of me",
       "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "Star b/w Heaven",
+        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "Right Before Our Eyes",
         "url": "https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd"
       },
@@ -1071,22 +1103,6 @@
       "duration_ms": 184335,
       "name": "Right Before Our Eyes",
       "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "Star b/w Heaven",
-        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1119,22 +1135,6 @@
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Like Me, Like Me",
         "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 145531,
       "name": "Like Me, Like Me",
       "url": "https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "close with desires (feat. thuy)",
+        "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        },
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 205750,
+      "name": "close with desires (feat. thuy)",
+      "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "Thank You For Attending",
         "url": "https://open.spotify.com/album/53v9iKMQji2wZTdr64QtDp"
       },
@@ -1987,22 +2007,6 @@
       "duration_ms": 179360,
       "name": "Paper Houses",
       "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "9 to 5",
-        "url": "https://open.spotify.com/album/4dNCzcO3RUpc3aZkIomzVr"
-      },
-      "artists": [
-        {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
-        }
-      ],
-      "duration_ms": 183774,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/0aLAwhKDqPl7ZtOS9BWElO"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -2023,22 +2027,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "close with desires (feat. thuy)",
-        "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/4dNCzcO3RUpc3aZkIomzVr"
       },
       "artists": [
         {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        },
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
         }
       ],
-      "duration_ms": 205750,
-      "name": "close with desires (feat. thuy)",
-      "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+      "duration_ms": 183774,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/0aLAwhKDqPl7ZtOS9BWElO"
     },
     {
       "added_at": "2023-09-01 16:55:22",

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 쏜애플\(THORNAPPLE\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-597 songs - 1 day 12 hr 33 min
+598 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [O\`Chunnki](https://open.spotify.com/track/4zvIT9fIJxLXZc5RDMuYZR) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Ready For Run](https://open.spotify.com/album/62te8mLl9wITyzuyOAalut) | 3:55 | 2022-03-31 | 2022-04-09 |
 | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/track/1HtXCINU55a9Hh19jX7QC3) | [Joa Band](https://open.spotify.com/artist/3rCJ0bFbcUt9f9CuWhm6hp) | [Ok to cry 모두 울어도 되는 날](https://open.spotify.com/album/6Y5X82rboaUN4RBvCg8IBz) | 4:04 | 2022-03-31 | 2022-04-04 |
 | [Okinawa](https://open.spotify.com/track/1CfcKv1RLdJBWhRHAZgVdf) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/3SfmjXBkaB9ASer8mFHNg6) | 5:48 | 2022-07-27 | 2023-09-03 |
+| [Okinawa](https://open.spotify.com/track/4IDuBhS4HLQh2vg83pk6Rj) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/2cVPFgXXfRtJlk5bSwpjEj) | 5:48 | 2023-09-01 |  |
 | [okokok](https://open.spotify.com/track/7kTsmaju0m5kJSoA7z5BKf) | [Witches](https://open.spotify.com/artist/4vTtoGhW5MgqrpfPL0RGxi) | [okokok](https://open.spotify.com/album/4KEhy0zdjzgj4paaFfPmlp) | 2:21 | 2022-06-08 | 2022-06-14 |
 | [Old Notes](https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX) | [JOGON](https://open.spotify.com/artist/2lrODr1QCehowaCjKFxOZG) | [Old Notes](https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl) | 3:26 | 2021-12-12 | 2022-12-06 |
 | [One and Only \(Feat\. KURO\)](https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [One and Only \(Feat\. KURO\)](https://open.spotify.com/album/16LKnqi5TwNEidWTXxbHLA) | 2:31 | 2023-06-13 | 2023-06-23 |
@@ -373,7 +374,7 @@
 | [One another \- 2020](https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [One another \(2020\)](https://open.spotify.com/album/2bxPT0H1Dxyp0TIvjV5aP7) | 3:26 | 2021-12-12 | 2022-07-16 |
 | [Only Ones Left in this World](https://open.spotify.com/track/0fhHQODEITI549NaUWqJDx) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Only Ones Left in this World](https://open.spotify.com/album/11TsV6N3xprEZVKo4haCMX) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 | 2021-12-12 | 2023-01-25 |
-| [Orange, You’re Not a Joke to Me!](https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o) | 3:40 | 2023-06-22 |  |
+| [Orange, You’re Not a Joke to Me!](https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o) | 3:40 | 2023-06-22 | 2023-09-06 |
 | [Ore Ore](https://open.spotify.com/track/117iiDCER0g58tWunlfR57) | [Se.A](https://open.spotify.com/artist/68Jz1SO82dTTPJyfdg6MBp) | [Ore Ore](https://open.spotify.com/album/3ylsJVPXRGtb5PQhSyjjGo) | 2:44 | 2022-03-31 | 2022-07-07 |
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-21 |
 | [Over and Over](https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [Over and Over](https://open.spotify.com/album/3NkbXALAlXHCwTZhx35wVm) | 3:23 | 2021-12-21 | 2022-07-10 |

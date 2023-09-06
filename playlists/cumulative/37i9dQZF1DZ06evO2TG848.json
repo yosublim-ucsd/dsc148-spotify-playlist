@@ -687,6 +687,28 @@
     },
     {
       "album": {
+        "name": "Liebes Kind (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241346,
+      "name": "Liebes Kind",
+      "url": "https://open.spotify.com/track/5wvHsiI4C3ZLZ2KDU0mhEu"
+    },
+    {
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },

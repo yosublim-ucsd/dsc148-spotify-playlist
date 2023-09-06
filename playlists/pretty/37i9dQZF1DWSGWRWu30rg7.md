@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rakhano
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,301 likes - 78 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,303 likes - 78 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 77 | [Swerve](https://open.spotify.com/track/5o6kr5wE6BBCJILfo7CtPh) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI), [Bennett A.K.](https://open.spotify.com/artist/3rWJ2p34fbKzyADYqLVN0l) | [Swerve](https://open.spotify.com/album/3T3MrPLHy6omvBiCaajWfk) | 2:48 |
 | 78 | [Indah Hari Ini](https://open.spotify.com/track/1L1GKgE2xYq1VLtHV41rbX) | [Aidoaudio](https://open.spotify.com/artist/3aK5ilM0Hnfmawu33esnwS) | [Indah Hari Ini](https://open.spotify.com/album/1hS4BO7WEHyEL01xyRqLPK) | 3:02 |
 
-Snapshot ID: `MCwzMDc3YTE5YTIwYzY5MDE0N2UyNzM4ZjVlZWQ0OWJlNGExYjk4Y2Y3`
+Snapshot ID: `MCwwMjAzZmU4ZDNlOTBiY2M3NDg4ZjVlNDdkNjg4NDAwNjljNmUyM2Ex`

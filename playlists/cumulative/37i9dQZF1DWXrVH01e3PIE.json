@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Milo J, Bhavi, Duki & LIT killah en la casa del Trap Argentino.",
+  "description": "Seven Kayne en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 184131,
       "name": "AYER",
       "url": "https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s"
@@ -2604,6 +2604,32 @@
       "duration_ms": 165336,
       "name": "Meteoritos Vs Dinosaurios",
       "url": "https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd"
+    },
+    {
+      "album": {
+        "name": "MI CIUDAD",
+        "url": "https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220551,
+      "name": "MI CIUDAD",
+      "url": "https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR"
     },
     {
       "album": {

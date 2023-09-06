@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,533 likes - 111 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,544 likes - 111 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 110 | [SANTORINO](https://open.spotify.com/track/55lldyF2SzvQpwsDew6iyN) | [ESANO](https://open.spotify.com/artist/2j47alGZiq1sg68mgJiuj4), [DOUBLE S](https://open.spotify.com/artist/4i54rx8DVVsckyh6O9C0qm) | [SANTORINO](https://open.spotify.com/album/7uTzNnbo7q4HunT05316Fp) | 2:53 |
 | 111 | [Hero To Zero](https://open.spotify.com/track/4uAFGHTxeWjvmCrIwfLSgT) | [Bonafide](https://open.spotify.com/artist/3Gtok2fWD0FxgheDPYZ6Mw) | [Hero To Zero](https://open.spotify.com/album/5tvSjofxRtqJEp3BGQUjY4) | 3:34 |
 
-Snapshot ID: `MCwyMGNkMjIwZjhiNjZmYjU2YzNmYjg4NzM1MzE1NDM5ZTM0OThhZDU5`
+Snapshot ID: `MCwzMjQwZjBjNDVkNjZiZWM0MTVjZDk1ZGRhNzZiN2RlZDgxYjU1YWYx`

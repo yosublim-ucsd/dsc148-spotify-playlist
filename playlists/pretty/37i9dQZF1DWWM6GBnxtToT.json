@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 572401,
+  "num_followers": 572531,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQzNzA1ZDllODVjMGQ1NGNkNTZiOWE0ZTVlYzI2YTQyZmJmMzA1",
+  "snapshot_id": "MCw2YmUyODhiZTFkNGJhZDYxYmVkOTk3NDc1ZDRjNTE1YzFlZTAyM2U5",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Diving (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Diving (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Diving (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Day/Night",
         "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 219335,
       "name": "Free - Single Version",
       "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
-      },
-      "artists": [
-        {
-          "name": "Yeah But No",
-          "url": "https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Run Run Run",
-      "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
+      },
+      "artists": [
+        {
+          "name": "Yeah But No",
+          "url": "https://open.spotify.com/artist/0ItjeUHfPa2W8ZMP7wi12J"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Run Run Run",
+      "url": "https://open.spotify.com/track/5BiNNRfucEIJ62KyjDP81B"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+      },
+      "artists": [
+        {
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
-      },
-      "artists": [
-        {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "ich mags",
         "url": "https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 161960,
       "name": "ich mags",
       "url": "https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Red & Blue",
-        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 213418,
-      "name": "Red & Blue",
-      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "More Than Happiness",
         "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
         }
       ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1451,6 +1435,22 @@
       "duration_ms": 198510,
       "name": "Little Lucille",
       "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Young Romance (Deluxe)",
         "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Road",
-        "url": "https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 193101,
-      "name": "Take Me Home Boy",
-      "url": "https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Aloe Vera (Clear My Mind)",
         "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 163327,
       "name": "Aloe Vera (Clear My Mind)",
       "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/5wsDrnB9aUVEhvsvgX01KI"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "Take Me Home Boy",
+      "url": "https://open.spotify.com/track/31hKb1hxqNKGY5JW9yrCxj"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Saltburn",
         "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 175375,
       "name": "IknowhowIfeel - from Hansa Studios, Berlin",
       "url": "https://open.spotify.com/track/4M3MUIXtQLN2qRPcwcpHzW"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
     }
   ],
   "unique_name": "Feelgood Indie",

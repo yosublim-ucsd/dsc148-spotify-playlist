@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU2MjAsMDAwMDAwMDBlYTVlZDFhNjMxNDVkMmIwODdiNzhlNGJhZTRjZTc5Zg==",
+  "snapshot_id": "MjgyMjU2MjAsMDAwMDAwMDA3YzIxMjY3NDZhOThjNTUwZDYxYTZkMmM3N2EyMGYxMg==",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "everything is alive",
-        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
+        "name": "alife",
+        "url": "https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 273492,
       "name": "alife",
-      "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
+      "url": "https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/06HreThIz90gKClFT9sz0v"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "DANSE MACABRE",
+      "url": "https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Greatest Hits (Deluxe)",
         "url": "https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC"
       },
@@ -120,9 +136,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 341773,
-      "name": "Livin' On The Edge - CHR Edit",
-      "url": "https://open.spotify.com/track/4cLkmQ5xLuBxAJowQeY0xa"
+      "duration_ms": 228586,
+      "name": "Kings And Queens - Single Version",
+      "url": "https://open.spotify.com/track/7bihN919MeyAUCKmq3Yxum"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -211,26 +227,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Misery (feat. Atreyu)",
-        "url": "https://open.spotify.com/album/0oIW9gCsZ1g3IXZcEZEPCm"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 192176,
-      "name": "Misery (feat. Atreyu)",
-      "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Classical Essentials: Tchaikovsky",
         "url": "https://open.spotify.com/album/7t98Cgstn3B7r0X6X5dTzX"
       },
@@ -259,6 +255,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Come On Home",
+        "url": "https://open.spotify.com/album/4j3v3azOHHyP15NNqyVuwA"
+      },
+      "artists": [
+        {
+          "name": "Danni Baylor",
+          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 225107,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Como Asesinar a Felipes (remastered)",
         "url": "https://open.spotify.com/album/6ePG8JBkPJb8dmyjnMETzW"
       },
@@ -271,46 +287,6 @@
       "duration_ms": 295512,
       "name": "Nada Mas, Nada Menos - remastered",
       "url": "https://open.spotify.com/track/4vEm6KMHaJZo8aU1L7Uztu"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Microcosmic Sunsets",
-        "url": "https://open.spotify.com/album/2JTe2k80rKzkn6GDmixZbx"
-      },
-      "artists": [
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Microcosmic Sunsets",
-      "url": "https://open.spotify.com/track/7lJs36mqGUhrLUUhQSwDCp"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Hazel Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
-        }
-      ],
-      "duration_ms": 217632,
-      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -339,46 +315,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
-        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "THE GIRLS - BLACKPINK THE GAME OST",
-      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Halo (Urbandawn Remix)",
-        "url": "https://open.spotify.com/album/7DYy9HvRUwMJEhze8qNW6I"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        },
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        },
-        {
-          "name": "Urbandawn",
-          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "Halo - Urbandawn Remix",
-      "url": "https://open.spotify.com/track/5pzttBQ4tMCLJifJSht3Yx"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Tenochtitl\u00e1n",
         "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
       },
@@ -395,26 +331,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Death's Forgotten Children",
-        "url": "https://open.spotify.com/album/5CG4JdGFTYxBXfdJM7MUEK"
-      },
-      "artists": [
-        {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
-        },
-        {
-          "name": "Tom Barber",
-          "url": "https://open.spotify.com/artist/4tDJ7Ft27GE2DF3vHPHVjB"
-        }
-      ],
-      "duration_ms": 250408,
-      "name": "Death's Forgotten Children",
-      "url": "https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "And You and I (Part I) [Promo Radio Edit]",
         "url": "https://open.spotify.com/album/0HqpMPIV74K9arhUnMuGX0"
       },
@@ -427,38 +343,6 @@
       "duration_ms": 205776,
       "name": "And You and I (Part I) - Promo Radio Edit",
       "url": "https://open.spotify.com/track/6lUi0eotNKIV2gpJbnwLw8"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Road",
-        "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "Welcome To The Show",
-      "url": "https://open.spotify.com/track/4lA69PwuNFL08LpBpcDlCq"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/5U3qCvNQmg8LrERbzUU8zd"
-      },
-      "artists": [
-        {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        }
-      ],
-      "duration_ms": 439029,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -495,6 +379,38 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "Baby Please Don't Go",
+      "url": "https://open.spotify.com/track/0PsZchN7ldnGsUrj5UYV2T"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Rewind Forward",
+        "url": "https://open.spotify.com/album/1Zh2y0Dry9SZPYyboCysN6"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Rewind Forward",
+      "url": "https://open.spotify.com/track/2FmeJwCTWPgqCHDUnXWUXX"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Salt (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP"
       },
@@ -515,6 +431,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Someone Somewhere In Summertime (Live From Paisley Abbey)",
+        "url": "https://open.spotify.com/album/586SK2hZx26UoQ3oyTOZEs"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 296360,
+      "name": "Someone Somewhere In Summertime - Live From Paisley Abbey",
+      "url": "https://open.spotify.com/track/2nqt3SX6n7CV425P2cmd9i"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Llama Violeta Cham\u00e1nica",
         "url": "https://open.spotify.com/album/2IqPZLo79cNQwnLu8Rrjh1"
       },
@@ -527,6 +459,34 @@
       "duration_ms": 508920,
       "name": "Llama Violeta Cham\u00e1nica",
       "url": "https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Soul Assassins 3: Death Valley",
+        "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "MC Ren",
+          "url": "https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU"
+        }
+      ],
+      "duration_ms": 216813,
+      "name": "Dump On Em",
+      "url": "https://open.spotify.com/track/1C1OdOEh7TEbI2qKPOZnmh"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -560,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
         }
       ],
-      "duration_ms": 63826,
-      "name": "Dark Star - Studio Recording",
-      "url": "https://open.spotify.com/track/49jmzkWMf3oO4ZarI0KIcB"
+      "duration_ms": 227786,
+      "name": "Tronic",
+      "url": "https://open.spotify.com/track/05z6Fg2mmRbxRb58zMBPvp"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -576,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
         }
       ],
-      "duration_ms": 145208,
-      "name": "Chimes Close",
-      "url": "https://open.spotify.com/track/0qvBEN2jmZpvXGORvFyFcm"
+      "duration_ms": 158244,
+      "name": "Careless and",
+      "url": "https://open.spotify.com/track/03E8oq4lOXnrTJBOT7eMp6"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -627,6 +587,30 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Hazel Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg"
+        }
+      ],
+      "duration_ms": 217632,
+      "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Dookie (30th Anniversary 4-Track Demos)",
         "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
       },
@@ -639,6 +623,26 @@
       "duration_ms": 121441,
       "name": "When I Come Around - 4-track demo",
       "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "My Curse Is My Redemption (Summer 80's Remix) (feat. Canttias)",
+        "url": "https://open.spotify.com/album/1wq2AuEEKUcMSMNYXrw91N"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        },
+        {
+          "name": "Canttias",
+          "url": "https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q"
+        }
+      ],
+      "duration_ms": 279452,
+      "name": "My Curse Is My Redemption - Summer 80's Remix",
+      "url": "https://open.spotify.com/track/53Y1vozzPxq8CBjIqQPtbI"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -803,30 +807,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 267859,
-      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
       },
@@ -859,6 +839,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "UNDEROATH VOYEURIST | Digital Ghost",
+        "url": "https://open.spotify.com/album/18NawZFszlESLx6Y6nyfwQ"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 180076,
+      "name": "Hallelujah - Live From Digital Ghost",
+      "url": "https://open.spotify.com/track/6Ei0vUXTpLhXGgasCTceha"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Greenwich (Daniel Avery Interpolation)",
         "url": "https://open.spotify.com/album/2ZoxawxdHAQSJeReB2cveV"
       },
@@ -875,22 +871,6 @@
       "duration_ms": 270539,
       "name": "Greenwich - Daniel Avery Interpolation",
       "url": "https://open.spotify.com/track/3H7wG9CzVXdiYcarxBnYb1"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "UNDEROATH VOYEURIST | Digital Ghost",
-        "url": "https://open.spotify.com/album/18NawZFszlESLx6Y6nyfwQ"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 180076,
-      "name": "Hallelujah - Live From Digital Ghost",
-      "url": "https://open.spotify.com/track/6Ei0vUXTpLhXGgasCTceha"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1099,34 +1079,6 @@
       "duration_ms": 222857,
       "name": "Who You Are (Back to the 80's Remix) Pt.2",
       "url": "https://open.spotify.com/track/74ZXk6lTiBf2fjGW40qp8k"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Dump On Em",
-        "url": "https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5"
-      },
-      "artists": [
-        {
-          "name": "DJ Muggs",
-          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "MC Ren",
-          "url": "https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU"
-        }
-      ],
-      "duration_ms": 216813,
-      "name": "Dump On Em",
-      "url": "https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz"
     },
     {
       "added_at": "2023-09-01 03:00:00",

@@ -2,7 +2,7 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The soundtrack to the internet\. Cover: Lancey Foux
+> The soundtrack to the internet\. Cover: Lil Tecca
 
 777 songs - 1 day 8 hr 0 min
 

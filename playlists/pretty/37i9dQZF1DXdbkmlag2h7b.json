@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 635283,
+  "num_followers": 635327,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y1MTA2NWYzYWM5ZmU2YzE3YTg3MDhjNWNiOWE5NzU5Njk0MTg2",
+  "snapshot_id": "MCwwNDM0ZTliNzBmZjEwNTFhNWExZTBhMmE5OWRmOTYwNTYxMDhhNmE4",
   "tracks": [
     {
       "added_at": "2023-09-01 00:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "432 hz Frequency of Universe",
-        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
-      },
-      "artists": [
-        {
-          "name": "Binaural Landscapes",
-          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
-        }
-      ],
-      "duration_ms": 160345,
-      "name": "Precious 432 hz",
-      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 162857,
       "name": "Nebulae",
       "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "432 hz Frequency of Universe",
+        "url": "https://open.spotify.com/album/5Xmwq5a06b8ZybYqX5fO8O"
+      },
+      "artists": [
+        {
+          "name": "Binaural Landscapes",
+          "url": "https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn"
+        }
+      ],
+      "duration_ms": 160345,
+      "name": "Precious 432 hz",
+      "url": "https://open.spotify.com/track/2Wq1C9dtftnI5OSMKJsie0"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Everything Shall Pass",
-        "url": "https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Everything Shall Pass",
-      "url": "https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Myriads",
-        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+        "name": "Everything Shall Pass",
+        "url": "https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3"
       },
       "artists": [
         {
-          "name": "12dust",
-          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
         }
       ],
-      "duration_ms": 175250,
-      "name": "Myriads",
-      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+      "duration_ms": 208000,
+      "name": "Everything Shall Pass",
+      "url": "https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -923,6 +907,22 @@
       "duration_ms": 146499,
       "name": "Hibernia Sleep",
       "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Myriads",
+        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Myriads",
+      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Healing Keys of Light",
-        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Healing Keys of Light",
-      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Morning Air",
         "url": "https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 158906,
       "name": "Morning Air",
       "url": "https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Healing Keys of Light",
+        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Healing Keys of Light",
+      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "The Land of the Sun",
-        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        }
-      ],
-      "duration_ms": 238725,
-      "name": "The Land of the Sun",
-      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "The Land of the Sun",
+        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "duration_ms": 238725,
+      "name": "The Land of the Sun",
+      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Son\u00e1mbulos",
+        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Ascending Journey",
         "url": "https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 202666,
       "name": "Ascending Journy",
       "url": "https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Son\u00e1mbulos",
-        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
-      },
-      "artists": [
-        {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
     },
     {
       "added_at": "2023-09-01 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: F\u00faria",
-  "num_followers": 123973,
+  "num_followers": 124059,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTRjNWQ4MDg0Zjc1NmJhYmZhZTNiMWVkODQwOGQ1YzhlZTcwODBj",
+  "snapshot_id": "MCw2OGY3OGIxMTYyNTc3NjdmODQxYjFmMTlkNjY3OGRjNDQ0OWI2ZDg5",
   "tracks": [
     {
       "added_at": "2023-09-01 15:03:02",
@@ -795,30 +795,6 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Trap Funk Star",
-        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 206068,
-      "name": "Pe\u00e7as De Griffe",
-      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
         "name": "Mimo Caro",
         "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 249600,
       "name": "Mimo Caro",
       "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "Trap Funk Star",
+        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 206068,
+      "name": "Pe\u00e7as De Griffe",
+      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Noronha",
-        "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 170256,
-      "name": "Noronha",
-      "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "Noronha",
+        "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 170256,
+      "name": "Noronha",
+      "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
+        "name": "Ela \u00e9 Rica",
+        "url": "https://open.spotify.com/album/2NKLcKdxhEWpbRr1xpZaT9"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        },
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "duration_ms": 199846,
+      "name": "Ela \u00e9 Rica",
+      "url": "https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw"
       },
@@ -1083,6 +1107,30 @@
       "duration_ms": 204839,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        }
+      ],
+      "duration_ms": 209109,
+      "name": "Big D!!!!!",
+      "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -1111,30 +1159,6 @@
       "duration_ms": 118854,
       "name": "18 NO PINGE",
       "url": "https://open.spotify.com/track/21aRl9D08SJUcr0o17PtEd"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
-        "name": "TAURUS",
-        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Duani",
-          "url": "https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1"
-        },
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Big D!!!!!",
-      "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -1175,30 +1199,6 @@
       "duration_ms": 162767,
       "name": "1 Minuto",
       "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
-        "name": "Ela \u00e9 Rica",
-        "url": "https://open.spotify.com/album/2NKLcKdxhEWpbRr1xpZaT9"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        },
-        {
-          "name": "Fabin",
-          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
-        },
-        {
-          "name": "JHXW",
-          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
-        }
-      ],
-      "duration_ms": 199846,
-      "name": "Ela \u00e9 Rica",
-      "url": "https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq"
     },
     {
       "added_at": "2023-09-01 15:03:02",

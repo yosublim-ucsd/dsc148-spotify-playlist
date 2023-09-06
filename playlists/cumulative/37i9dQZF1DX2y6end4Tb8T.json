@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 177000,
       "name": "LOAD IT UP",
       "url": "https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO"
@@ -2390,6 +2390,32 @@
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
+    },
+    {
+      "album": {
+        "name": "Teca",
+        "url": "https://open.spotify.com/album/7nuzZbEmoCi1OdDgWyJIVI"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Zecca",
+          "url": "https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201698,
+      "name": "Teca",
+      "url": "https://open.spotify.com/track/1xvTx3zOmzXG4G3MSZzHB8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-134 songs - 6 hr 9 min
+135 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Air Castles](https://open.spotify.com/track/35UFkxj74k0NpzuLfnUYIE) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 2:05 | 2023-01-12 |  |
 | [Amalfi](https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Amalfi](https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U) | 3:51 | 2023-01-12 | 2023-04-28 |
 | [Amber](https://open.spotify.com/track/2vgb3IA5TbrEoenhqFdpmO) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9), [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:15 | 2023-01-12 |  |
-| [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 | 2023-01-13 |  |
+| [Amethyst](https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:20 | 2023-01-13 | 2023-09-06 |
 | [Around Me](https://open.spotify.com/track/3i4AOqloOwc33r7pwJGLXh) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 4:34 | 2023-01-13 |  |
 | [As We Are](https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5) | [Soulstance](https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur) | [The Jazz Art Of Relax](https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd) | 5:20 | 2023-01-17 |  |
 | [Battery Park](https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp) | [Zacky Yazz](https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv) | [Battery Park](https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq) | 2:24 | 2023-04-27 |  |
@@ -119,6 +119,7 @@
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-06-01 |  |
 | [Stills](https://open.spotify.com/track/6AoJ6JUXWEm9NIU7HZqqzJ) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Stills](https://open.spotify.com/album/08NfamTiYO1DVxNLX6tq6X) | 2:24 | 2023-01-12 |  |
 | [Stuck Inside](https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SPRING](https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z) | 3:33 | 2023-01-13 |  |
+| [sunday morning stroll](https://open.spotify.com/track/4DNoCeluuyNlWt9FrEQYyi) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [sunday morning stroll](https://open.spotify.com/album/6betGZCqz1FSDDVjylmDtW) | 3:06 | 2023-08-31 |  |
 | [Sunflowers](https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [A Bouquet of Flowers](https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa) | 2:45 | 2023-01-12 |  |
 | [Sunrays](https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Sunrays](https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz) | 2:12 | 2023-01-12 |  |
 | [Sweet Summer](https://open.spotify.com/track/02StEGitEzSYO4tHxIgJXp) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sweet Summer](https://open.spotify.com/album/0ATKgXkzT0pUU5TWCPnqxT) | 1:49 | 2023-01-12 | 2023-03-25 |

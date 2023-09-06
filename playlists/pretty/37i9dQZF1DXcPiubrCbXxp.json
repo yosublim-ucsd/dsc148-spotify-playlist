@@ -1,15 +1,15 @@
 {
   "description": "that 50s kinda feeling, cover: Stephen Sanchez",
-  "num_followers": 7338,
+  "num_followers": 7647,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjU3YzIxZjMwMWY3NWJkMDQ4ZDhmMTIxMTM3M2RiMDBmN2ZlOWJi",
+  "snapshot_id": "MCwzMTM5OTRkZGQwMGI2MjNmYzdlZTc5YWFiZTc3ODdiMTIwNDY0OTYw",
   "tracks": [
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
@@ -29,55 +29,7 @@
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2023-08-04 22:05:58",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
-    },
-    {
-      "added_at": "2023-08-04 22:05:58",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
-    },
-    {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Leave Before The Lights Come On",
         "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
@@ -93,23 +45,55 @@
       "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Daydreamin'",
-      "url": "https://open.spotify.com/track/2CcQDI2IDhHbmBIFup58JE"
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2023-09-05 22:34:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Be More",
         "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
@@ -125,87 +109,39 @@
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+        "name": "despair",
+        "url": "https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "leo.",
+          "url": "https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC"
         }
       ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
+      "duration_ms": 175500,
+      "name": "despair",
+      "url": "https://open.spotify.com/track/292JruITePIpFvRpPb85GF"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
-        "name": "ELVIS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/0IJ2TYANZHDVBuFvN09QvF"
+      "duration_ms": 211293,
+      "name": "Daydreamin'",
+      "url": "https://open.spotify.com/track/2CcQDI2IDhHbmBIFup58JE"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
-      "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
-    },
-    {
-      "added_at": "2023-08-04 22:05:58",
-      "album": {
-        "name": "As She Pleases",
-        "url": "https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 214907,
-      "name": "Teenager in Love",
-      "url": "https://open.spotify.com/track/0ozo6xfFvHOxn1o2dA2UPk"
-    },
-    {
-      "added_at": "2023-08-04 22:05:58",
-      "album": {
-        "name": "Cry Baby",
-        "url": "https://open.spotify.com/album/0ttNQ0DvWtMHMKfyQ8HRWs"
-      },
-      "artists": [
-        {
-          "name": "BRIDGE",
-          "url": "https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8"
-        }
-      ],
-      "duration_ms": 181042,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/0d7o5ujbD82u5pczUaE8kn"
-    },
-    {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Good Looking",
         "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
@@ -221,7 +157,87 @@
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
+      "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2023-09-05 22:34:11",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY"
+    },
+    {
+      "added_at": "2023-09-05 22:34:11",
+      "album": {
+        "name": "ELVIS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/0IJ2TYANZHDVBuFvN09QvF"
+    },
+    {
+      "added_at": "2023-09-05 22:34:11",
+      "album": {
+        "name": "As She Pleases",
+        "url": "https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 214907,
+      "name": "Teenager in Love",
+      "url": "https://open.spotify.com/track/0ozo6xfFvHOxn1o2dA2UPk"
+    },
+    {
+      "added_at": "2023-09-05 22:34:11",
+      "album": {
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/0ttNQ0DvWtMHMKfyQ8HRWs"
+      },
+      "artists": [
+        {
+          "name": "BRIDGE",
+          "url": "https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8"
+        }
+      ],
+      "duration_ms": 181042,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/0d7o5ujbD82u5pczUaE8kn"
+    },
+    {
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Superache",
         "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Rae",
         "url": "https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/5ZtOg6T7qui1IMSwGh358t"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "As the World Caves In",
         "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/4PMdq7Q7xOFrY424ZelZEb"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Introspection Reimagined",
         "url": "https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "I Love You So",
         "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Love Don\u2019t Let Me Go",
         "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Angel Youth",
         "url": "https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "We'll Meet Again",
         "url": "https://open.spotify.com/album/1B0UgM5M4163GuNtyenSYg"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/6oOOI69XbmvAjPHziVMLYS"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Home To Another One (Acoustic)",
         "url": "https://open.spotify.com/album/1BMDuG9g9KE5GgrvM17jp9"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/0X8FU9YqDgsvXoEnCdxZHq"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "(i would have followed you)",
         "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Old Movies",
         "url": "https://open.spotify.com/album/2PkOrJql49WiBYdmnVxsiI"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/3GuZKF9sG9DtI6aIsYCkgK"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "(Here's to the) Prom Queen",
         "url": "https://open.spotify.com/album/60aRrB8FvfkZDuADVGhKkZ"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/6xqs1Mp7AXLSVcdA1pxGQN"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Too Precious",
         "url": "https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Last Night In Soho (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4DzZicbRx0J0zBg3yg7B1p"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/5ZnopBrM4ANzVmiLPohvDC"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Rae",
         "url": "https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/4fCURHaPS3CQBcYsnTidvW"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Invitation to Her's",
         "url": "https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/6RG8y3WSNUE3DcIC3eQCXO"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Love to Keep Me Warm",
         "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "The Archer",
         "url": "https://open.spotify.com/album/4Fc5K4rytNveeeaXSYzeel"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/3H3lRA0oqK92R3ygLRXn67"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
-      "added_at": "2023-08-04 22:05:58",
+      "added_at": "2023-09-05 22:34:11",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78"
@@ -807,22 +823,6 @@
       "duration_ms": 281247,
       "name": "Baby - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg"
-    },
-    {
-      "added_at": "2023-08-04 22:05:58",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/1NRL1bvYepbDkrao0zax15"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 233196,
-      "name": "Hot In The Shade",
-      "url": "https://open.spotify.com/track/7v77r6ch1dszdie86DqZuB"
     }
   ],
   "unique_name": "crushed velvet",

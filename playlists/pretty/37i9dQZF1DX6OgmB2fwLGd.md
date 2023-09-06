@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The soundtrack to the internet\. Cover: Lancey Foux
+> The soundtrack to the internet\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,196 likes - 101 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,291 likes - 101 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 |
-| 2 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 |
-| 3 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 |
-| 4 | [I love freaks](https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ) | [I love freaks](https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1) | 1:41 |
-| 5 | [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 |
-| 6 | [AT WHAT COST?](https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [AT WHAT COST?](https://open.spotify.com/album/3GkYOJW5mbaUCSUpN2cQI4) | 2:39 |
-| 7 | [Rare Story Pt\. 2](https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Story Pt\. 2](https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU) | 2:28 |
-| 8 | [Special K](https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Special K](https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG) | 2:27 |
-| 9 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
+| 1 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
+| 2 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 |
+| 3 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 |
+| 4 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 |
+| 5 | [I love freaks](https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ) | [I love freaks](https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1) | 1:41 |
+| 6 | [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 |
+| 7 | [AT WHAT COST?](https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [AT WHAT COST?](https://open.spotify.com/album/3GkYOJW5mbaUCSUpN2cQI4) | 2:39 |
+| 8 | [Rare Story Pt\. 2](https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Story Pt\. 2](https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU) | 2:28 |
+| 9 | [Special K](https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Special K](https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG) | 2:27 |
 | 10 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 |
 | 11 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 |
 | 12 | [RICH SCHOLAR](https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [RICH SCHOLAR](https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om) | 1:58 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 100 | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/track/2EoSee89OYP7n6mwxCHSlq) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O), [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa) | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe) | 2:30 |
 | 101 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
 
-Snapshot ID: `MCwzOGJlY2RhN2I3NjljNWM5MzQ3YWNlODJhNjFhMGZlZWNlYjlkMDg3`
+Snapshot ID: `MCw0MDU4NDg0MGNmOWM4NWU5OGZiYmEyM2Q3ZDU1YjIyYjJhYjdiOTMy`

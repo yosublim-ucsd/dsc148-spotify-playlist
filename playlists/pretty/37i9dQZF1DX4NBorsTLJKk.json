@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 31715,
+  "num_followers": 31733,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDljYmM1NzMwN2I4YWVlOGE4YWE0ZmFkMjI1YWMwYWVjYjExYjA4",
+  "snapshot_id": "MCxkZWZhYmFhZWM4NzYwMTljODBiMGFkYmQ4OWI5OTBjY2NjMDdjYzk5",
   "tracks": [
     {
       "added_at": "2023-08-04 01:55:26",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
-        "name": "\u4e00\u842c\u5c0f\u6642",
-        "url": "https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz"
-      },
-      "artists": [
-        {
-          "name": "Cosmos People",
-          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "\u5169\u4eba\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu"
-    },
-    {
-      "added_at": "2023-08-04 01:55:26",
-      "album": {
         "name": "\u7b2c\u4e09\u4ee3\u674e\u5fc3\u6f54 - \u88d9\u64fa\u6416\u6416",
         "url": "https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 283693,
       "name": "\u53c8\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5"
+    },
+    {
+      "added_at": "2023-08-04 01:55:26",
+      "album": {
+        "name": "\u4e00\u842c\u5c0f\u6642",
+        "url": "https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz"
+      },
+      "artists": [
+        {
+          "name": "Cosmos People",
+          "url": "https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "\u5169\u4eba\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu"
     },
     {
       "added_at": "2023-08-04 01:55:26",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
-        "name": "\u4e0b\u96e8\u5929",
-        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
-      },
-      "artists": [
-        {
-          "name": "Moon Chew",
-          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
-    },
-    {
-      "added_at": "2023-08-04 01:55:26",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 254248,
       "name": "\u59b3\u9084\u6015\u5927\u96e8\u55ce - \u570b\u8a9e",
       "url": "https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN"
+    },
+    {
+      "added_at": "2023-08-04 01:55:26",
+      "album": {
+        "name": "\u4e0b\u96e8\u5929",
+        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
+      },
+      "artists": [
+        {
+          "name": "Moon Chew",
+          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
     },
     {
       "added_at": "2023-08-04 01:55:26",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
-        "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
-        "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
+        "name": "\u6642\u9593\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
       },
       "artists": [
         {
-          "name": "Soft Lipa",
-          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
         }
       ],
-      "duration_ms": 285851,
-      "name": "\u96e8\u6c92\u505c\u904e",
-      "url": "https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR"
+      "duration_ms": 289524,
+      "name": "\u96e8\u6c34\u4e00\u76d2",
+      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
     },
     {
       "added_at": "2023-08-04 01:55:26",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
-        "name": "\u6642\u9593\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
+        "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
+        "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
       },
       "artists": [
         {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+          "name": "Soft Lipa",
+          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
         }
       ],
-      "duration_ms": 289524,
-      "name": "\u96e8\u6c34\u4e00\u76d2",
-      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
+      "duration_ms": 285851,
+      "name": "\u96e8\u6c92\u505c\u904e",
+      "url": "https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR"
     },
     {
       "added_at": "2023-08-04 01:55:26",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
-        "name": "\u96e8\u5f8c\u5f69\u8679",
-        "url": "https://open.spotify.com/album/0XNniKwaB8cHEFA17gyxpg"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 207099,
-      "name": "\u96e8\u5f8c\u5f69\u8679",
-      "url": "https://open.spotify.com/track/035sykvGT6Muyog0Q7vMoP"
-    },
-    {
-      "added_at": "2023-08-04 01:55:26",
-      "album": {
         "name": "\u5c0f\u5b87\u5b99",
         "url": "https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 258720,
       "name": "\u88ab\u96e8\u56f0\u4f4f\u7684\u57ce\u5e02",
       "url": "https://open.spotify.com/track/4PdRKbD69HOOSTsB5Q76wk"
+    },
+    {
+      "added_at": "2023-08-04 01:55:26",
+      "album": {
+        "name": "\u96e8\u5f8c\u5f69\u8679",
+        "url": "https://open.spotify.com/album/0XNniKwaB8cHEFA17gyxpg"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 207099,
+      "name": "\u96e8\u5f8c\u5f69\u8679",
+      "url": "https://open.spotify.com/track/035sykvGT6Muyog0Q7vMoP"
     },
     {
       "added_at": "2023-08-04 01:55:26",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-08-04 01:55:26",
       "album": {
+        "name": "\u9a55\u50b2\u5730\u611b\u8457",
+        "url": "https://open.spotify.com/album/3V6FTadVjrWzNFAI8qAcsS"
+      },
+      "artists": [
+        {
+          "name": "\u6162\u6162\u8aaa",
+          "url": "https://open.spotify.com/artist/0E0uWMihe8T7CfDO37S3QU"
+        }
+      ],
+      "duration_ms": 243673,
+      "name": "\u8a0e\u53ad\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/7dx5uaLYo8PQluXRPnRk4P"
+    },
+    {
+      "added_at": "2023-08-04 01:55:26",
+      "album": {
         "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 228088,
       "name": "SINGING IN THE RAIN",
       "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
-    },
-    {
-      "added_at": "2023-08-04 01:55:26",
-      "album": {
-        "name": "\u9a55\u50b2\u5730\u611b\u8457",
-        "url": "https://open.spotify.com/album/3V6FTadVjrWzNFAI8qAcsS"
-      },
-      "artists": [
-        {
-          "name": "\u6162\u6162\u8aaa",
-          "url": "https://open.spotify.com/artist/0E0uWMihe8T7CfDO37S3QU"
-        }
-      ],
-      "duration_ms": 243673,
-      "name": "\u8a0e\u53ad\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/7dx5uaLYo8PQluXRPnRk4P"
     },
     {
       "added_at": "2023-08-04 01:55:26",

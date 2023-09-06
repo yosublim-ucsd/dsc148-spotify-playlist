@@ -2,7 +2,7 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Junior H en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
 209 songs - 11 hr 50 min
 

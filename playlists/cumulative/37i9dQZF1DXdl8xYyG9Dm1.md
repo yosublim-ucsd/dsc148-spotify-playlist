@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=ABWOCesUQZS5YxyjBmAjcAA"> Black Sherif</a>
 
-185 songs - 9 hr 43 min
+186 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Africana \(feat\. Victoria Kimani\)](https://open.spotify.com/track/7v7cJqKreMEQOZlarcBAU8) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Africana \(feat\. Victoria Kimani\)](https://open.spotify.com/album/2k54ttWzOu5qOqH9e5ng0K) | 3:47 | 2021-10-14 | 2022-03-08 |
 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 | 2021-11-04 |  |
 | [Alakori](https://open.spotify.com/track/3hr4lwTXMCFKIH5KOSoXQ5) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Alakori](https://open.spotify.com/album/7qUS6HJtJCgisaC4EvQ9Nt) | 3:35 | 2021-10-14 | 2022-03-08 |
-| [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 | 2021-10-14 |  |
+| [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 | 2021-10-14 | 2023-09-06 |
 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 | 2022-02-03 |  |
 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 | 2021-11-11 |  |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-02-24 |  |
@@ -156,6 +156,7 @@
 | [sneaky](https://open.spotify.com/track/1KDGViRidQJ0UWV6J7n7Qs) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [sneaky](https://open.spotify.com/album/5zxTW3yMb6a3DXwtc0oK3B) | 3:34 | 2022-07-21 | 2023-05-12 |
 | [Soaring](https://open.spotify.com/track/5HEwz37ArQ5v5OHAyHwlGc) | [J Molley](https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T) | [Soaring](https://open.spotify.com/album/3fuT6GFqDLZ0spey7ctE5Y) | 2:15 | 2022-03-11 | 2022-04-29 |
 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 | 2022-09-23 | 2023-02-24 |
+| [Solace](https://open.spotify.com/track/0VOLzICIqLKFHQYLBxLw51) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ) | 2:00 | 2023-08-31 |  |
 | [Solace](https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Kpos Lifestyle, Vol\. 1](https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E) | 2:00 | 2021-10-14 | 2023-09-02 |
 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 | 2021-10-14 | 2022-03-08 |
 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 | 2023-06-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom, Kaya Conky",
-  "num_followers": 223181,
+  "num_followers": 223233,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjcyNGE2YzEzNGI2ZTQ5OTE4NWRkZTJjYmQ3M2I5ZGRiZWI4NzFl",
+  "snapshot_id": "MCw2YzNjMDVkNmNkNDc5YzdlNzQ2ZDRiZTE2YjljZDUwM2JmNjMyY2Vj",
   "tracks": [
     {
       "added_at": "2023-09-02 00:04:15",
@@ -155,18 +155,26 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "HER MIND",
-        "url": "https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1"
+        "name": "111 DELUXE",
+        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
       "artists": [
         {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Mc Mayara",
+          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
         }
       ],
-      "duration_ms": 131050,
-      "name": "Cuntelectual",
-      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
+      "duration_ms": 146543,
+      "name": "Bandida (feat. Mc Mayara)",
+      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -195,6 +203,22 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "HER MIND",
+        "url": "https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 131050,
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "Party Everyday",
         "url": "https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L"
       },
@@ -207,26 +231,6 @@
       "duration_ms": 137681,
       "name": "Party Everyday",
       "url": "https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "Provocar",
-        "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168138,
-      "name": "Provocar",
-      "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -303,6 +307,26 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "Provocar",
+        "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168138,
+      "name": "Provocar",
+      "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "Barbie (feat. Danny Bond)",
         "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
       },
@@ -331,6 +355,22 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "111 1",
+        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "Te Deixo Crazy",
         "url": "https://open.spotify.com/album/6GhQsV31Iz1edjKeAD6fan"
       },
@@ -347,30 +387,6 @@
       "duration_ms": 164908,
       "name": "Te Deixo Crazy",
       "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "111 DELUXE",
-        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Mc Mayara",
-          "url": "https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe"
-        }
-      ],
-      "duration_ms": 146543,
-      "name": "Bandida (feat. Mc Mayara)",
-      "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -395,6 +411,22 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "Eu Viciei",
         "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
       },
@@ -415,22 +447,6 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
         "name": "MAU",
         "url": "https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9"
       },
@@ -447,42 +463,22 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "Bumbum Check",
-        "url": "https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy"
-      },
-      "artists": [
-        {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "VILLA",
-          "url": "https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD"
-        }
-      ],
-      "duration_ms": 141187,
-      "name": "Bumbum Check",
-      "url": "https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "111 1",
-        "url": "https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9"
+        "name": "Parab\u00e9ns",
+        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
       },
       "artists": [
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
         }
       ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
+      "duration_ms": 136844,
+      "name": "Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -547,6 +543,46 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "Bumbum Check",
+        "url": "https://open.spotify.com/album/6MDj1MOMSs5N34VtAyxzjy"
+      },
+      "artists": [
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD"
+        }
+      ],
+      "duration_ms": 141187,
+      "name": "Bumbum Check",
+      "url": "https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
+        "name": "BONEKINHA",
+        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168887,
+      "name": "BONEKINHA",
+      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "F\u00f3rmula",
         "url": "https://open.spotify.com/album/1ncmgUI98E7illDvzbQNt0"
       },
@@ -575,22 +611,6 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "BONEKINHA",
-        "url": "https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168887,
-      "name": "BONEKINHA",
-      "url": "https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
         "name": "Gente Crazy",
         "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
       },
@@ -607,28 +627,8 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
-        "name": "Aladim",
-        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
-      },
-      "artists": [
-        {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        },
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "Aladim",
-      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "Parab\u00e9ns",
-        "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         },
         {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 136844,
-      "name": "Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -663,6 +663,26 @@
       "duration_ms": 181173,
       "name": "CAF\u00c9 DA MANH\u00c3 ;P",
       "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
+        "name": "Aladim",
+        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "Aladim",
+      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -707,6 +727,22 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "LEIL\u00c3O",
+        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "Traviarcado",
         "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
       },
@@ -723,22 +759,6 @@
       "duration_ms": 142722,
       "name": "Pitbull Sem Coleira",
       "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "LEIL\u00c3O",
-        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
     },
     {
       "added_at": "2023-09-02 00:04:15",
@@ -779,26 +799,6 @@
       "duration_ms": 169411,
       "name": "S\u00f3cia",
       "url": "https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
     },
     {
       "added_at": "2023-09-02 00:04:15",

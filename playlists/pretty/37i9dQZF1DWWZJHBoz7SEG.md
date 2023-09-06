@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Viernes de nueva música, escucha a Yuridia, Mora, Måneskin Jhayco con Peso Pluma y Nicki Minaj!
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,589 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,717 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Nun](https://open.spotify.com/track/2cDNCAsL794kS4lRg3Bpvl) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Nun](https://open.spotify.com/album/7j1ejF21Qf7iyg9KJztFnF) | 3:28 |
 | 50 | [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 |
 
-Snapshot ID: `MCw1NDNkMDJkNzFmNDY5MzdiMDQ1Yzc4OTdmNDUzMzE3NTc4MzI4ZTBk`
+Snapshot ID: `MCxjNTVmYjBjNzVhNjE1YTgwMDAzNjNiYmFiYzJiM2YwMTViNzlmNzM4`

@@ -4,13 +4,14 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-257 songs - 14 hr 45 min
+259 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Because we\) Fall in Love](https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Polar](https://open.spotify.com/album/7ksHT5o2iwBZr0kDYL4LSa) | 3:06 | 2022-08-25 |  |
 | [24 Years Old of You](https://open.spotify.com/track/5EdGni8Sgu75BdLyv5mSUT) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Into Innerverse](https://open.spotify.com/album/0YCxq2nT2BLL9vSCsQEFNX) | 4:32 | 2022-08-12 |  |
-| [4ever](https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [4ever](https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU) | 3:32 | 2022-08-12 |  |
+| [4ever](https://open.spotify.com/track/6YWS7t8KUTKVRPOpt2VRkd) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:31 | 2023-08-09 |  |
+| [4ever](https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [4ever](https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU) | 3:32 | 2022-08-12 | 2023-09-06 |
 | [60’S CARDIN](https://open.spotify.com/track/3JYqt9ADvBsou2pDrpmAZj) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [HAUTE COUTURE](https://open.spotify.com/album/5FNUoh29ai75zh2ugcDrKe) | 3:17 | 2022-08-12 |  |
 | [7000RPM](https://open.spotify.com/track/3byuqFayS7CCWFKJxJOLap) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SUPER BAND 2 \- Episode.13](https://open.spotify.com/album/60Cd1kNJrfYdK9ej3iolpx) | 5:41 | 2022-09-06 | 2022-10-08 |
 | [7000RPM](https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:41 | 2022-10-07 |  |
@@ -64,7 +65,8 @@
 | [Desert Eagle](https://open.spotify.com/track/0haCeyoW7lP7PNRu3RnSZZ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3VfI9ZwIJSL6xBJ6LuT3Sx) | 5:09 | 2023-08-09 |  |
 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-08-12 | 2023-09-02 |
 | [DIFFERENT](https://open.spotify.com/track/5Y7a8iWIawp1QTbevGeH1V) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DIFFERENT](https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3) | 3:42 | 2022-08-25 |  |
-| [Dive Baby, Dive](https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dive Baby, Dive](https://open.spotify.com/album/32kZ9wnIIZuwOqK4CV39nO) | 3:23 | 2022-08-12 |  |
+| [Dive Baby, Dive](https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dive Baby, Dive](https://open.spotify.com/album/32kZ9wnIIZuwOqK4CV39nO) | 3:23 | 2022-08-12 | 2023-09-06 |
+| [Dive Baby, Dive](https://open.spotify.com/track/6sH7kPWltg8cTBIylZ0jgS) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:23 | 2023-08-09 |  |
 | [Don't Stop](https://open.spotify.com/track/2SMfatKkQhQiEJhuka4L3N) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 3:59 | 2022-08-12 |  |
 | [dreams, books, power and walls](https://open.spotify.com/track/1deQhoZakgMT5fw0t9zliD) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:57 | 2022-10-06 |  |
 | [E.D.E.N.](https://open.spotify.com/track/4GRumphhF5ea8n3it2k8xG) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [E.D.E.N.](https://open.spotify.com/album/7JSzqNy9KMamv6M3TW7aJE) | 6:24 | 2022-10-06 |  |

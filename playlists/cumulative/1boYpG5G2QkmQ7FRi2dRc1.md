@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-932 songs - 2 day 11 hr 45 min
+932 songs - 2 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [Kiss It Better \- MJ Cole Remix](https://open.spotify.com/track/62AYZyWHYitJJ4oBOg1wda) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better \(MJ Cole Remix\)](https://open.spotify.com/album/4CcsxDNRrYs6CxlY62XWN3) | 4:03 | 2023-01-28 | 2023-02-12 |
 | [La leçon particulière](https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [La leçon particulière](https://open.spotify.com/album/0ZcIjW5V4jfAEAP2mcIJ5r) | 2:34 | 2023-08-26 | 2023-09-03 |
 | [LA On Acid](https://open.spotify.com/track/2QWMBe66DhsRwtn2BO9LTW) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [LA On Acid](https://open.spotify.com/album/3KJmODRcAwz06pK7gIiT0M) | 2:23 | 2023-07-07 | 2023-07-16 |
-| [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 3:31 | 2023-09-02 |  |
+| [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/0Jag248wCds9vbWJkIorce) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Lady \(Hear Me Tonight\)](https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB) | 2:14 | 2023-09-02 |  |
 | [Lady \(Hear Me Tonight\) \- Radio Edit](https://open.spotify.com/track/7pvFlBJPZVcQYqwVaFXtJ9) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Lady \(Hear Me Tonight\) \[Radio Edit\]](https://open.spotify.com/album/3EO6g07Yyk1V4lsBUdWZsn) | 3:46 | 2022-11-18 | 2022-12-03 |
 | [Last Call](https://open.spotify.com/track/3oti1h40BWsU3K82lqgBvJ) | [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Last Call](https://open.spotify.com/album/2sADtn0QW1dZIQD7vPzkcn) | 3:11 | 2023-03-31 | 2023-04-15 |
 | [Le Bon Vieux Temps \- Mosimann Remix](https://open.spotify.com/track/3ipPAyBROoMCeBYxCZ61U1) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Introspection \(Remixes\)](https://open.spotify.com/album/2u680EuTLOLYxNnEUet4lu) | 3:09 | 2023-07-15 | 2023-07-29 |

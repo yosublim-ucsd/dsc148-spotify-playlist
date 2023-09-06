@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Kinder
 
-1,293 songs - 2 day 23 hr 55 min
+1,294 songs - 2 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,6 +1054,7 @@
 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 | 2023-08-31 |  |
 | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/4jFAyLOFXPqsxb5TmrHWUj) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/album/2APyxj6pJrqb7H7IHP5Bgd) | 2:06 | 2023-07-20 | 2023-08-18 |
 | [Stop & Go \- Jacques Greene Remix](https://open.spotify.com/track/1Aa1ZTsxrNPWehEriKJxnK) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb) | [Stop & Go \(Jacques Greene Remix\)](https://open.spotify.com/album/65L6gpLAx79hEel2GDveqp) | 3:51 | 2023-08-17 | 2023-09-01 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-05 |  |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-12-08 | 2023-01-13 |
 | [Strong \- Pretty Girl Remix](https://open.spotify.com/track/66SD66rYiTENtAHIXHr7po) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong Remixes](https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M) | 4:29 | 2023-02-02 | 2023-03-03 |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-18 | 2023-06-16 |

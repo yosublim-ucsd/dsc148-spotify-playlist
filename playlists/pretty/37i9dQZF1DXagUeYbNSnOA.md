@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Priscilla Félix\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,088 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,094 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 29 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 |
 | 30 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
 | 31 | [Mercurio](https://open.spotify.com/track/4A6Xvi8gu5xBDw8oKrintA) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mercurio](https://open.spotify.com/album/11o8WvVx0QdodULqx6bmYY) | 2:03 |
-| 32 | [Secuela](https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Secuela](https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP) | 2:42 |
-| 33 | [Quién de los Dos?](https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3) | [Quién de los Dos?](https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD) | 3:30 |
+| 32 | [Quién de los Dos?](https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3) | [Quién de los Dos?](https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD) | 3:30 |
+| 33 | [Secuela](https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Secuela](https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP) | 2:42 |
 | 34 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
 | 35 | [Estás Aquí](https://open.spotify.com/track/48bK7pREsOWZC7Y8Jl78zu) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Estás Aquí](https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n) | 3:58 |
 | 36 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
-| 37 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
-| 38 | [DTB](https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [DTB](https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU) | 3:05 |
+| 37 | [DTB](https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [DTB](https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU) | 3:05 |
+| 38 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
 | 39 | [Traigo](https://open.spotify.com/track/0jF5hqfBANeJ6E7K1bxbdP) | [Pedro Bulgakov](https://open.spotify.com/artist/0oDPpQb7y6vv0sXFNDmfKa) | [Traigo](https://open.spotify.com/album/00tWe5KGlP68ZflhhneSMr) | 3:49 |
 | 40 | [Lento](https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR) | [Lento](https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm) | 3:28 |
 | 41 | [la piedad](https://open.spotify.com/track/4WRT9VV9YcsdMJEFJbHX8J) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [peek!](https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8) | 3:38 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 43 | [Patio de Adelante](https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa) | [Playa Gótica](https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz) | [Patio de Adelante](https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj) | 3:56 |
 | 44 | [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 |
 | 45 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 |
-| 46 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
-| 47 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
-| 48 | [En el dolor también hay dios](https://open.spotify.com/track/6ZUCiqcbTFd2fPbDYz9xNi) | [Max Valdés](https://open.spotify.com/artist/4aDtvnSRjsWzbXZFQTnDwY) | [En el dolor también hay dios](https://open.spotify.com/album/26utTCFELgXMcQM9yguHEW) | 3:44 |
+| 46 | [En el dolor también hay dios](https://open.spotify.com/track/6ZUCiqcbTFd2fPbDYz9xNi) | [Max Valdés](https://open.spotify.com/artist/4aDtvnSRjsWzbXZFQTnDwY) | [En el dolor también hay dios](https://open.spotify.com/album/26utTCFELgXMcQM9yguHEW) | 3:44 |
+| 47 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
+| 48 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
 | 49 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
 | 50 | [Sad Brillo](https://open.spotify.com/track/70D1DWrZqhxtiBNCs9LC8d) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Sad Brillo](https://open.spotify.com/album/4eN5vemrQsubJb5HVFPHbv) | 3:02 |
 
-Snapshot ID: `MCw2NDg3MWM3MmY1OTE2ZDRlMjNjNTQ4MmMxNGI0Y2RmM2QxOGE1NDE0`
+Snapshot ID: `MCw5ZGI5NjRkNTA2MWM1NWUyMDk0ZTEwYWM4MTE0Zjk2NTkwNmFlMWE3`

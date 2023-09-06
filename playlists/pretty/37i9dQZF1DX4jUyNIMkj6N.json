@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 187470,
+  "num_followers": 187547,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE2MjI4NjZlOTk4MTdlYmEyZWUwYzUzMzU1OTQzYTFmNmRkYzU2",
+  "snapshot_id": "MCw5MGVlYzk4MjgzMWQwZmZjZDEwNjNhYjg5NWE2NjAzNzViM2JmYjMx",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Angel - Acoustic String Version",
-      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Morten Myklebust",
         "url": "https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Magic Chairs",
         "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 293760,
       "name": "Modern Drift",
       "url": "https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "The Sky is Painted Gray Today",
-        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 221682,
-      "name": "The Sky is Painted Gray Today",
-      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+        "name": "The Sky is Painted Gray Today",
+        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
       },
       "artists": [
         {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+      "duration_ms": 221682,
+      "name": "The Sky is Painted Gray Today",
+      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 200613,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+      },
+      "artists": [
+        {
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+        }
+      ],
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "george's shelter",
+        "url": "https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY"
+      },
+      "artists": [
+        {
+          "name": "Planet Ibiza",
+          "url": "https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "george's shelter",
+      "url": "https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Dad Told Me",
         "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 224179,
       "name": "October",
       "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "george's shelter",
-        "url": "https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY"
-      },
-      "artists": [
-        {
-          "name": "Planet Ibiza",
-          "url": "https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "george's shelter",
-      "url": "https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2"
     },
     {
       "added_at": "2023-08-24 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Oboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,942 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,949 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 36 | [Réel](https://open.spotify.com/track/5cO1EF6eCyxzK6kPMQVJ0Q) | [Hash 24](https://open.spotify.com/artist/64pm5dznNZ2353HKqzGQQd), [Sobek](https://open.spotify.com/artist/0KITbps0KsxEg50TuWpLnc) | [Antartica](https://open.spotify.com/album/5o6ApIJmJBzSVN9WCkMruV) | 2:20 |
 | 37 | [LAISSE](https://open.spotify.com/track/71ZFzJ4Hc1OSnIZZ2tsX50) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [LAISSE](https://open.spotify.com/album/0Y0vM2ITnQXTjWzfY9Z9oA) | 2:44 |
 | 38 | [Une éternité ne suffit pas \(Affamé \#22\)](https://open.spotify.com/track/7DpCZl6Gej1g4TDBcwzoix) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Une éternité ne suffit pas \(Affamé \#22\)](https://open.spotify.com/album/1SFCLinVrGjftX2Az7DN27) | 2:24 |
-| 39 | [BLEU LAGON](https://open.spotify.com/track/5HNdXMCVcUNrzcZZS68Abv) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [BLEU LAGON](https://open.spotify.com/album/4Gl1DkdM3CtGGj9fMXpSMl) | 2:21 |
+| 39 | [BLEU LAGON](https://open.spotify.com/track/1SNEAzB5bb3a78remdicrF) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [BLEU LAGON](https://open.spotify.com/album/3lO5XN3KuAydWx9zIgdCf3) | 2:21 |
 | 40 | [Dans le sang](https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv) | [CHATNOIR](https://open.spotify.com/artist/417jPajaJxfk3XL4IxJZhV), [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [Dans le sang](https://open.spotify.com/album/33jB6ufMMpEsdITKnha6aU) | 3:43 |
 
-Snapshot ID: `MCxlZjk2NWRjMWM0YzI4OGY3YjM5YjdmM2JkZGY2MjkzZmU5N2U3ZjIw`
+Snapshot ID: `MCxkYzViNDNlZmQ2M2JlN2M0MjRlOTExNDdkMzZjOTdjYzY5Y2I4Yjkx`

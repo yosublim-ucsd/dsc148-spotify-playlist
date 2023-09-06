@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Viaje Al Amanecer",
+        "url": "https://open.spotify.com/album/0RdueA0736GBCbkYrLhWju"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Lo Que Pudimos Ser",
+      "url": "https://open.spotify.com/track/2DnipHyX4rRFMH8pioJb4t"
+    },
+    {
+      "album": {
         "name": "Me Desenamor\u00e9",
         "url": "https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw"
       },

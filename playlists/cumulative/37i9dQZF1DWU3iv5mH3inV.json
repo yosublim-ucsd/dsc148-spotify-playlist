@@ -3441,6 +3441,32 @@
     },
     {
       "album": {
+        "name": "Kitipo",
+        "url": "https://open.spotify.com/album/4UZSYzB1NWuXeSE0gqqv4c"
+      },
+      "artists": [
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "La Tukiti",
+          "url": "https://open.spotify.com/artist/65j9C3n5PkSSZ8oPXzO2nf"
+        },
+        {
+          "name": "Amenazandel",
+          "url": "https://open.spotify.com/artist/59QQbpbrYSGtgG338yoLx4"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211932,
+      "name": "Kitipo",
+      "url": "https://open.spotify.com/track/7vP0TrbROeQghZYCusLylM"
+    },
+    {
+      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/0m859pAzGiLM9zhTzaq4UP"
       },
@@ -5432,7 +5458,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 216439,
       "name": "Normalito",
       "url": "https://open.spotify.com/track/288q0mtUQJ4u52CwuKpNX9"

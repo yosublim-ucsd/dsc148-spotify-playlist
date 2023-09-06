@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > this is my meal: gurrll dinnerrrrr ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,877 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,891 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 26 | [Fruta y Té](https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [GP](https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t) | 2:54 |
 | 27 | [Milkshake \- Radio Mix](https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:02 |
 | 28 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/1ZrpvgLUBHozH2PLbc4SrO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 3:18 |
-| 29 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
-| 30 | [La Papa Sin Catsup](https://open.spotify.com/track/3OOWm0MiN6yL4eJsJNXyYk) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:33 |
+| 29 | [La Papa Sin Catsup](https://open.spotify.com/track/3OOWm0MiN6yL4eJsJNXyYk) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:33 |
+| 30 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 31 | [Sugar](https://open.spotify.com/track/78Yxsdi1JiwLDsU7TWHezw) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V \(Deluxe\)](https://open.spotify.com/album/0lHJwrDEFxrJhpB1gQoeMp) | 3:55 |
 | 32 | [Media Naranja](https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 3:41 |
 | 33 | [Horchata](https://open.spotify.com/track/76BIj06DoRIuJLtchonDcd) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 3:26 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 40 | [Pan Dulce](https://open.spotify.com/track/4Mkpse99DB8TNijNjPpCbn) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Jugando En Serio](https://open.spotify.com/album/4JqI9G8wkDuEff58DxdMsp) | 4:06 |
 | 41 | [Mezcal](https://open.spotify.com/track/0amPleRUJLffVWoNwUf78k) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Mezcal](https://open.spotify.com/album/4pcAzYQ2pQWtDTg4Q9tfkh) | 3:14 |
 | 42 | [Mango](https://open.spotify.com/track/6xfaCBxwV3F6qU4yCqKjKY) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade](https://open.spotify.com/album/2NHUkx5kUzp2r2laL2fonJ) | 2:36 |
-| 43 | [Maruchan](https://open.spotify.com/track/6wbH6RUoIDZy0ftFo5gO1j) | [San Coyote](https://open.spotify.com/artist/3augwZaU3wAHhqN49Y7ONe) | [San Coyote \(Studio\)](https://open.spotify.com/album/5YA35LedmE007POV6XWj1u) | 3:39 |
-| 44 | [Tamales](https://open.spotify.com/track/6TA7KXEKx9uOmrBxbicwSE) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [Tamales](https://open.spotify.com/album/0j7NAGR6aFSjQEji2es7Rm) | 3:07 |
+| 43 | [Tamales](https://open.spotify.com/track/6TA7KXEKx9uOmrBxbicwSE) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [Tamales](https://open.spotify.com/album/0j7NAGR6aFSjQEji2es7Rm) | 3:07 |
+| 44 | [Maruchan](https://open.spotify.com/track/6wbH6RUoIDZy0ftFo5gO1j) | [San Coyote](https://open.spotify.com/artist/3augwZaU3wAHhqN49Y7ONe) | [San Coyote \(Studio\)](https://open.spotify.com/album/5YA35LedmE007POV6XWj1u) | 3:39 |
 | 45 | [No Coke \- 2004 Original](https://open.spotify.com/track/0MmQL6ISNfwIErYvnVmcaQ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [WOF](https://open.spotify.com/album/0Rs1l7shLhP8WokRmI7HXQ) | 2:51 |
 
-Snapshot ID: `MCwxNGM1NzQyMzc1YTEwOTM0ZWIwMjc0YjkyNzk1YjI0MDgwNmY5YzEz`
+Snapshot ID: `MCw0MjdkZDBlZGRiMzI4ZTlmMjRhOTg2M2Y0MDg4YzAyZTkzNGNlMjhj`

@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-107 songs - 8 hr 48 min
+108 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [It Could Be Rain](https://open.spotify.com/track/1MEiH1yGTZVFXA3bsFooj7) | [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [It Could be Rain](https://open.spotify.com/album/6nbpfPyyk6ifJNekEevxM1) | 4:11 | 2022-06-10 |  |
 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 | 2022-06-10 |  |
 | [Kashmakash\-Qa'ar\-Urooj \- Live](https://open.spotify.com/track/43dxGK0P7JILrPcgwQG3Za) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Compass Box Music: Unboxed, Vol\. 2 \(Live\)](https://open.spotify.com/album/7iSN503ApELtn6u9dF77yB) | 5:38 | 2022-06-10 |  |
+| [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-09-05 |  |
 | [Kesariya Balam \- Instrumental](https://open.spotify.com/track/4u6wbiXg3RdAKYGJ1QnacW) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Kesariya Balam \(Instrumental\) \- Single](https://open.spotify.com/album/70nK4Pk1toi9xnhP4MhSQt) | 7:09 | 2022-06-10 |  |
 | [Kondalalo Nelakonna](https://open.spotify.com/track/5AISJvIwHAQeErVjr13SAi) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Vynikam, Vol\. 1](https://open.spotify.com/album/5Pp7uLokr2VML2RLaGMl2D) | 7:22 | 2022-06-10 |  |
 | [Krishna Nee Begane Baro \- Instrumental](https://open.spotify.com/track/1QJixYwyE09rwszSsKvmXE) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT) | [Krishna's Flute \- Devotional Instrumentals](https://open.spotify.com/album/48vj2VtppnRR5KeNxmYjA1) | 6:25 | 2022-06-10 |  |
@@ -72,7 +73,7 @@
 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 | 2022-06-10 |  |
 | [Monsoon Melodies](https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU) | [Bhooshan Gogad](https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B) | [Monsoon Melodies](https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60) | 4:56 | 2023-08-19 |  |
 | [Mukti](https://open.spotify.com/track/6n5ZoPiavpCUYSl9pmDXIj) | [Madhav Gopi Nair](https://open.spotify.com/artist/40Ww8FrhtcfhUOkCZdS3W0), [Akash S Menon](https://open.spotify.com/artist/4Ymsfydwf88TZH86sHDW8D) | [Mukti](https://open.spotify.com/album/6sqUHY8P1HVLfMCLJng7tY) | 1:51 | 2022-06-10 |  |
-| [Mumtaz](https://open.spotify.com/track/2Fehmrt3lh2kBdFjRI8v3f) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Bombay Dub Orchestra](https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV) | 4:11 | 2022-06-10 |  |
+| [Mumtaz](https://open.spotify.com/track/2Fehmrt3lh2kBdFjRI8v3f) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Bombay Dub Orchestra](https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV) | 4:11 | 2022-06-10 | 2023-09-06 |
 | [Need I Say More](https://open.spotify.com/track/5kYAOHvOI5nkG2KUsmccSr) | [Indosoul by Karthick Iyer](https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9) | [Two Sides of Karma](https://open.spotify.com/album/4WawflRDbhDVOY3H6KAWZi) | 6:20 | 2022-06-10 |  |
 | [North Star](https://open.spotify.com/track/3HdZsBbSejCw7VQMdT0D5f) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [The Last Analog Generation](https://open.spotify.com/album/6MklN1XPeTWjhxLIiKTzPU) | 8:05 | 2022-06-10 |  |
 | [Oceans Apart](https://open.spotify.com/track/5Mx3iBTphi0gdJwh6oYGrD) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 7:39 | 2022-06-10 |  |
@@ -97,7 +98,7 @@
 | [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 | 2022-06-10 |  |
 | [Swan Song](https://open.spotify.com/track/75eOXZRhZza077pvj5dmK9) | [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [Swan Song](https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ) | 4:02 | 2022-06-10 |  |
 | [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 | 2023-09-01 |  |
-| [Taj Mahal](https://open.spotify.com/track/4ar7UgwkIpRklX7ZXfKYUs) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 0:40 | 2022-06-10 |  |
+| [Taj Mahal](https://open.spotify.com/track/4ar7UgwkIpRklX7ZXfKYUs) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 0:40 | 2022-06-10 | 2023-09-06 |
 | [Take Off](https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML) | [Submarine in Space](https://open.spotify.com/artist/6qlx9VJUxPLlp2hbh6WLqR) | [Wavelengths](https://open.spotify.com/album/3XnJNeNVQLSgr8f5JCYJ05) | 7:41 | 2022-06-10 |  |
 | [The Comeback Trail](https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 6:42 | 2022-06-10 |  |
 | [The Last Cadenza](https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4) | [Bhaskar Dutta](https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk) | [The Violin Player \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo) | 5:47 | 2022-06-10 |  |

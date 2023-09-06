@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Mora
 
-5,056 songs - 11 day 2 hr 35 min
+5,057 songs - 11 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3741,6 +3741,7 @@
 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-09 | 2023-06-17 |
 | [Que Mueran De Envidia \(feat\. Giovakartoons\)](https://open.spotify.com/track/5kR4PPvvcUCa53PRjMxiMK) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Giovakartoons](https://open.spotify.com/artist/1hspTSkv6cudGz0WfUBGfG) | [Que Mueran De Envidia \(feat\. Giovakartoons\)](https://open.spotify.com/album/3YyPmdFWilnpR1bvftggqK) | 3:49 | 2022-05-20 | 2022-05-28 |
 | [Que no me encuentre](https://open.spotify.com/track/3Nb4ygzwmt8CNIb3fZ2Pk1) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Que no me encuentre](https://open.spotify.com/album/0C0K2Mf3DyY7cgJoPgI5eH) | 3:06 | 2023-03-24 | 2023-04-01 |
+| [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2023-09-05 |  |
 | [Que Pasaría](https://open.spotify.com/track/3BsCi8MKJcoO36EniFs1f7) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Que Pasaría](https://open.spotify.com/album/7L17MHmDXzJI4bkdQmShl4) | 3:18 | 2022-11-04 | 2022-11-12 |
 | [QUE PORQUERIA](https://open.spotify.com/track/3wHC46qxwvGWdCeRaMhDk7) | [Gabo & Shay](https://open.spotify.com/artist/5jjmUP6yITQvKy6pVt3Ihf), [Yan Leyton](https://open.spotify.com/artist/0NJ13EggPsv5z0l1xVtAVu) | [QUE PORQUERIA](https://open.spotify.com/album/0gwajOa8EZeU8Jl308TncI) | 3:23 | 2023-03-03 | 2023-03-11 |
 | [Que Pvtería](https://open.spotify.com/track/1Cu2XVeJznrcbS2r6iOLNZ) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Que Pvtería](https://open.spotify.com/album/2azP4Xmddy56fIbFoHrAAu) | 2:23 | 2022-12-09 | 2022-12-17 |

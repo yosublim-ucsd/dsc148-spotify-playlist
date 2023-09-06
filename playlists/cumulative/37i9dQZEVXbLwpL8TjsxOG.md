@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-671 songs - 1 day 16 hr 8 min
+672 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,7 @@
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2023-02-28 | 2023-03-02 |
 | [思念即地獄](https://open.spotify.com/track/7EougyUYWZdE1zCzsCA1Sx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [思念即地獄](https://open.spotify.com/album/611grh8eoY6RDvhbhaVtj0) | 4:00 | 2021-05-21 | 2021-07-31 |
 | [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 | 2022-12-03 |
-| [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 |  |
+| [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 | 2023-09-06 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-02-25 |
 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-08-26 | 2022-12-25 |
 | [愛因斯坦羅森橋](https://open.spotify.com/track/0jAoid0myjkSA854F5GZGJ) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 1:38 | 2021-12-05 | 2021-12-06 |
@@ -546,7 +546,7 @@
 | [春夏秋冬 A Balloon's Journey](https://open.spotify.com/track/4VWE88XtRQXmOH0JPzwN5T) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 4:12 | 2021-04-03 | 2023-04-04 |
 | [春秋](https://open.spotify.com/track/2WVbMoHdWCspdiEa7OnG1D) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [No\. Eleven](https://open.spotify.com/album/4SFTHZzZXGAXE7E1cd9bjt) | 4:19 | 2021-03-27\* | 2022-07-03 |
 | [是但求其愛](https://open.spotify.com/track/4IkQXb1IdIziAJmO3FODo7) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [是但求其愛](https://open.spotify.com/album/2R9j6chH2WczYgHTbG0FQx) | 4:29 | 2021-03-27\* | 2021-05-16 |
-| [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2021-12-16 | 2023-09-03 |
+| [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2021-12-16 |  |
 | [時光倒流一句話](https://open.spotify.com/track/63QmxPL3QlchvXcHLsI6UM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [時光倒流一句話](https://open.spotify.com/album/4IynRAJW9IVPnitLGtydpt) | 4:13 | 2021-03-27\* | 2021-12-05 |
 | [時光倒流一句話](https://open.spotify.com/track/1V7V9ekndGc7vqE3hVUKmA) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 4:14 | 2021-12-05 | 2022-09-05 |
 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 | 2021-03-27\* | 2021-09-10 |
@@ -613,7 +613,7 @@
 | [第二人格](https://open.spotify.com/track/3N1Gv5Qtv22eFB3gWLCCOy) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [第二人格](https://open.spotify.com/album/6J5HvuoektIH4d7uoHJjV0) | 4:34 | 2023-06-16 | 2023-07-08 |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-25 |
 | [細胞](https://open.spotify.com/track/7LFX60BiB9VlEC6SWaV1ar) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [跟你開玩笑](https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG) | 2:30 | 2022-10-18 | 2022-10-20 |
-| [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 | 2023-01-24 |  |
+| [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 | 2023-01-24 | 2023-09-06 |
 | [給缺席的人唱首歌](https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給缺席的人唱首歌](https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik) | 3:57 | 2022-07-07 | 2022-10-23 |
 | [網絡安全隱患](https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7), [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [網絡安全隱患](https://open.spotify.com/album/2U0RPpcvALJOyO7daXdGU4) | 3:01 | 2021-04-21 | 2021-05-03 |
 | [老派約會之必要](https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1) | 3:43 | 2022-07-28 | 2023-01-22 |
@@ -626,6 +626,7 @@
 | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/track/3Hw5UuPArZWxOQUu6tYdf1) | [6膠](https://open.spotify.com/artist/1LVOxgnKHc1CWaiNoMuQ8s) | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/album/1UZHXtZuKCJKRBi6mtc0DX) | 3:46 | 2022-01-13 | 2022-02-19 |
 | [自我安慰](https://open.spotify.com/track/40NvsEFexANIROSnKIMYXB) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [自我安慰](https://open.spotify.com/album/6dbUX5p1H2lH9CWtBoL92m) | 5:08 | 2022-09-08 | 2023-03-12 |
 | [自毀的程序](https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [自毀的程序](https://open.spotify.com/album/3aCajItUBZrwQZtdNTady7) | 3:58 | 2022-07-12 | 2022-10-03 |
+| [與我無關](https://open.spotify.com/track/0GoEr3439Go5CGHL6fw1US) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [與我無關](https://open.spotify.com/album/3t4fnPF3xdC4lHl3au9xf3) | 3:25 | 2023-09-05 |  |
 | [花海](https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [花海](https://open.spotify.com/album/3jHdrD9gXC0XL1ZuD4NmMS) | 2:57 | 2023-04-19 | 2023-09-03 |
 | [萬一你是個好人](https://open.spotify.com/track/6lwMbAQ6RLzlXrX5Zh1rG6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [萬一你是個好人](https://open.spotify.com/album/7l4sUDR6RnR3DVrsfrmo3g) | 3:05 | 2023-04-28 | 2023-07-23 |
 | [蒙著嘴說愛你](https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [蒙著嘴說愛你](https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9) | 4:00 | 2021-03-27\* | 2023-03-19 |

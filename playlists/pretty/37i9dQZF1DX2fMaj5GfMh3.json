@@ -1,13 +1,29 @@
 {
-  "description": "Selena Gomez deze week op de cover van Fresh Pop.",
-  "num_followers": 93997,
+  "description": "Duncan Laurence deze week op de cover van Fresh Pop.",
+  "num_followers": 94026,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTk2MjI1MmY1OTdkZWY4YTk1MjAyMDA4YjgyMGY5ZWM5NDE2NDUx",
+  "snapshot_id": "MCw2MmE4MmEyM2JjNTYwZGY5MWE0Nzg0NzdlNjZiMmVmM2FkMGI3MThi",
   "tracks": [
+    {
+      "added_at": "2023-09-04 12:23:56",
+      "album": {
+        "name": "Beste Zangers 2023 (Duncan Laurence)",
+        "url": "https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 171263,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja"
+    },
     {
       "added_at": "2023-09-04 12:23:56",
       "album": {
@@ -47,22 +63,6 @@
       "duration_ms": 174222,
       "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
       "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
-    },
-    {
-      "added_at": "2023-09-04 12:23:56",
-      "album": {
-        "name": "Beste Zangers 2023 (Duncan Laurence)",
-        "url": "https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 171263,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja"
     },
     {
       "added_at": "2023-09-04 12:23:56",

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 108757,
+  "num_followers": 108833,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDlkMjk0YTA3NDg0MDY4NzZjZjg1MmY0MjJlMmRhMTY1ZmEwY2Ex",
+  "snapshot_id": "MCxhNmExOWM1ODY2ZjhjNTA3YTMwZjAyNmQ1NTBkOTQ0ZWY5NGI2ZTg1",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "The Salcombe Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/5gAYEvsJZ7nFC220oB5DAv"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "dancing in the moonlight",
         "url": "https://open.spotify.com/album/7Bh1i9QqJTdmtwi8DtXheN"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 147457,
       "name": "dancing in the moonlight",
       "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1528,22 +1528,6 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
       },
       "artists": [
@@ -1555,6 +1539,22 @@
       "duration_ms": 244315,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "RUNNING UP THAT HILL",
-        "url": "https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg"
-      },
-      "artists": [
-        {
-          "name": "Betty Who",
-          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
-        }
-      ],
-      "duration_ms": 199841,
-      "name": "RUNNING UP THAT HILL",
-      "url": "https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
+        "name": "RUNNING UP THAT HILL",
+        "url": "https://open.spotify.com/album/4b0lmXRVg3jpRkrLS49yeg"
       },
       "artists": [
         {
-          "name": "Kristina Train",
-          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
         }
       ],
-      "duration_ms": 140090,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
+      "duration_ms": 199841,
+      "name": "RUNNING UP THAT HILL",
+      "url": "https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1651,6 +1635,22 @@
       "duration_ms": 149189,
       "name": "Solar Power - Spotify Singles",
       "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
+      },
+      "artists": [
+        {
+          "name": "Kristina Train",
+          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
+        }
+      ],
+      "duration_ms": 140090,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "feel good inc. (feat. Mateus Asato)",
         "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 199239,
       "name": "feel good inc. (feat. Mateus Asato)",
       "url": "https://open.spotify.com/track/2GzlTbrFF2V6MwRDfBnYhf"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 224588,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Yael Na\u00efm",
         "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 267226,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/72PMRGgYB1mkY3TsUJZtyc"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 224588,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "High Drama",
         "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 200171,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/6f1NtWA5ML1XxCoMBZ6B0m"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "God Only Knows",
+        "url": "https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Division (Deluxe)",
+        "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Broken Glass, Vol. 5",
         "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 214933,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/5CqrCMMhS8QzBfzks0vel8"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Division (Deluxe)",
-        "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "All Time Low",
-        "url": "https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny"
-      },
-      "artists": [
-        {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
-        }
-      ],
-      "duration_ms": 184441,
-      "name": "All Time Low",
-      "url": "https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 252716,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "All Time Low",
+        "url": "https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 184441,
+      "name": "All Time Low",
+      "url": "https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK"
     },
     {
       "added_at": "2023-09-04 16:45:54",

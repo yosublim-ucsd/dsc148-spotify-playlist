@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Clara Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,392 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,403 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 23 | [Jogadão](https://open.spotify.com/track/4zNnZ8ERpnPfin85z4Aw40) | [Udoisd](https://open.spotify.com/artist/1eNdB58hZ2Qv8kJRAATf6G), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Jogadão](https://open.spotify.com/album/6G8kIWNUmiTU8Jfw0ljpBO) | 2:00 |
 | 24 | [Noite Fria](https://open.spotify.com/track/6JtbdqQtZCniOm8VbB8pN6) | [Corleone](https://open.spotify.com/artist/6KC5SbVwchsIji35J7wGBb), [AçúK](https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx), [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB) | [Noite Fria](https://open.spotify.com/album/4dNSsEm3HuN8lG1jeiSBL8) | 2:24 |
 | 25 | [Passarelas e Vitrines \- Ao Vivo](https://open.spotify.com/track/074qxkMEa3Jab4qkhcELpe) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Vnd no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/7JMM80x6rELxdX1dMFrO99) | 3:01 |
-| 26 | [Guardo Grana](https://open.spotify.com/track/6iZYz1SBBEgJwrS3O3j29b) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc), [Hobb The Goat](https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ) | [Guardo Grana](https://open.spotify.com/album/3bPpUK0xQT4R7SEOqB0LH0) | 2:29 |
+| 26 | [Guardo Grana](https://open.spotify.com/track/6iZYz1SBBEgJwrS3O3j29b) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [MATHINVOKER](https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc), [Hobb The Goat](https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [Guardo Grana](https://open.spotify.com/album/3bPpUK0xQT4R7SEOqB0LH0) | 2:29 |
 | 27 | [Guerra](https://open.spotify.com/track/2ji9WHNU2CXRPb8Zevnnpf) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Guerra](https://open.spotify.com/album/3PRhDBXhCBniQnZYA5D6CB) | 2:23 |
 | 28 | [O Baca](https://open.spotify.com/track/2aNWBQInZtqZyFMBM8oVzU) | [AquinoBeat](https://open.spotify.com/artist/1aMLql8VZszTfgbLJXqGwG), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Pique Raro](https://open.spotify.com/artist/1M82o9NddxXzH1dUvlPb1x) | [O Baca](https://open.spotify.com/album/7sDDrpUJba1t4PcQGxnD1W) | 2:13 |
 | 29 | [Cria da Área](https://open.spotify.com/track/5B4EIRR6mhtULEwQDFQ3sM) | [Gk](https://open.spotify.com/artist/26hAdvxRBbsrcRqvsQ91OL), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Cria da Área](https://open.spotify.com/album/4UjXYdmv8UxPP5XVl4lW1W) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Revolta](https://open.spotify.com/track/1338yPBS9EvfuPW5wgKwrs) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Revolta](https://open.spotify.com/album/67kCjJrSahL0q8BpfGZmHC) | 3:16 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCwwNDM0MzVlYmFiZjMzMDY3MzEyYjZhYWY0M2E5NDkyODIyOWU2MGNi`
+Snapshot ID: `MCw3NjY5NTRiMDk1ZDU2OGJjZmNjYjUxOTA3YjFiMGQ1NWIwZDM4OWE0`

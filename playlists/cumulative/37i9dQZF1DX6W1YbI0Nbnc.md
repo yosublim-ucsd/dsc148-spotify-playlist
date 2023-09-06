@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: Gigi 炎明熹\)
+> 結集香港EQUAL女聲力量！\(cover: Lolly Talk\)
 
-243 songs - 15 hr 27 min
+246 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [一個傻瓜一個啞](https://open.spotify.com/track/0VlWjFvXbxqOYruXnE675K) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞](https://open.spotify.com/album/3yu6YCKuwt1CQRN4nYei1H) | 3:55 | 2022-08-02 | 2022-11-02 |
 | [一對一](https://open.spotify.com/track/3PBz91BGdmRVd02xIFiueK) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 3:09 | 2022-01-04 | 2022-03-08 |
 | [一馬平川](https://open.spotify.com/track/1EQJ3aWrUH3WprsMl3GeaU) | [鍾雨璇](https://open.spotify.com/artist/6h12jcWTZlK0p8ZBnwgaxV) | [一馬平川](https://open.spotify.com/album/4rAvGr3oHgyaXIfEAxW1Ft) | 4:15 | 2021-12-07 | 2022-01-05 |
-| [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 | 2022-08-02 | 2022-12-01 |
+| [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 | 2023-09-05 |  |
+| [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 | 2022-08-02 |  |
 | [不清醒都巿](https://open.spotify.com/track/4x6mdk7XUKXPUI4Kgc0Egr) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx), [拋海](https://open.spotify.com/artist/0gM5NtTCoLfsP1thegM6w2) | [不清醒都巿](https://open.spotify.com/album/3Qsv3c1H65NXYtE0PMPU7C) | 4:10 | 2022-01-04 | 2022-08-03 |
 | [不言自明](https://open.spotify.com/track/7ELzz1HpNUFXT8WNSZ1YSz) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [不言自明](https://open.spotify.com/album/0FBBORHoDYJy3lU46uaDMC) | 3:48 | 2022-03-07 | 2022-08-03 |
 | [不配](https://open.spotify.com/track/3Yr3QMBI0vorYok2uC5W2O) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [薛丁格的貓](https://open.spotify.com/album/73ntd6cAsmKAifVFpljds3) | 4:32 | 2022-01-04 | 2022-03-08 |
@@ -90,6 +91,7 @@
 | [世界與你無關](https://open.spotify.com/track/0cQT5SMEAKDUac4VmeDrdH) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [世界與你無關](https://open.spotify.com/album/2U6rtxyPmUCjqtRS1zfipL) | 4:18 | 2022-05-03 | 2022-12-01 |
 | [亂世中我們相擁](https://open.spotify.com/track/0zuykvSePyAnBBrrBtq2JB) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx), [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu) | [亂世中我們相擁](https://open.spotify.com/album/1NWAy6THrC5D5QE8z012Ml) | 4:27 | 2021-12-07 | 2022-04-06 |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-03-07 | 2022-05-04 |
+| [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 | 2023-09-05 |  |
 | [人間英靈](https://open.spotify.com/track/7oNv5d0pYrSzIiYA5fRydi) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [人間英靈](https://open.spotify.com/album/1yzycSWu0g8BCJ63E5m9sj) | 4:10 | 2022-08-02 | 2022-12-01 |
 | [今生今世](https://open.spotify.com/track/2xXjrtNMkNqcstFSYMS4Ly) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [今生今世](https://open.spotify.com/album/2ZKCptfrAqWnIxrfjzZiUT) | 3:19 | 2023-08-01 |  |
 | [仍然記得嗰一次](https://open.spotify.com/track/0DL04wLVbCs1WBzmbv31B7) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S), [伍仲衡](https://open.spotify.com/artist/0EPxEvyoEu6btIkjX92Ppq) | [仍然記得嗰一次](https://open.spotify.com/album/17SU5pAR4mnMBLYIaxmoWI) | 3:27 | 2021-12-07 | 2022-01-05 |
@@ -124,6 +126,7 @@
 | [告別式](https://open.spotify.com/track/4fxdfsuH7iUDixsF3IO8PA) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [告別式](https://open.spotify.com/album/60TuWoX4pXkaqjjadnYQxp) | 4:57 | 2021-12-07 | 2022-01-05 |
 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 | 2022-08-02 |  |
 | [哥本哈根的另一個我](https://open.spotify.com/track/51QyPUhUxWJ45JENrb2oDF) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [哥本哈根的另一個我](https://open.spotify.com/album/3ObUQkjUZx5P1rz2mChrNq) | 3:40 | 2022-03-07 | 2022-08-03 |
+| [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2023-09-05 |  |
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-04-05 | 2022-05-04 |
 | [團圓說](https://open.spotify.com/track/1hSO2gFy57hFzDzQzDDiei) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [團圓說](https://open.spotify.com/album/1x04K2Hc3MLci681Q6XTws) | 4:21 | 2022-01-04 |  |
 | [執迷不悔](https://open.spotify.com/track/2pKK1A009lhzhRPeTDderF) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [執迷不悔](https://open.spotify.com/album/7dT9AbrVU10dxGmDeJT3zK) | 4:33 | 2021-12-07 | 2022-01-05 |

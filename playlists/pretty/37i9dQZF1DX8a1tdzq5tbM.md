@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,646 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,987 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 38 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 |
 | 39 | [Exploration of Space](https://open.spotify.com/track/0P2sfcfRD0lWw4b8eXegmR) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/7LJlzaFq8LRFGGq2kijcHX) | 3:36 |
 | 40 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
-| 41 | [Café Del Mar \- Three 'n One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
-| 42 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
+| 41 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
+| 42 | [Café Del Mar \- Three 'n One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
 | 43 | [Baby When the Light \(feat\. Cozi\)](https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Cozi](https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN) | [Pop Life](https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG) | 3:28 |
 | 44 | [Go](https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk) | 3:37 |
 | 45 | [I Remember](https://open.spotify.com/track/62h4GYm6aTqS0dsfJtKYIX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Strobelite Seduction](https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc) | 4:43 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 85 | [Army Of Two \- Radio Version](https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Army Of Two](https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R) | 3:07 |
 | 86 | [Tracking Treasure Down](https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Molly Bancroft](https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q) | [50 Trance Tunes, Vol\. 28](https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb) | 3:09 |
 | 87 | [Every Word \(feat\. Daniella\) \- Wendel Kos Radio Edit](https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X) | [Ercola](https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb), [Daniella](https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY) | [Every Word](https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV) | 3:33 |
-| 88 | [Another Place](https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha) | [Mischa Daniels](https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX), [Crown](https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz) | [Worldwide Dance Hits](https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup) | 3:37 |
-| 89 | [Rocker](https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Transphormer](https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7) | 4:48 |
+| 88 | [Rocker](https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Transphormer](https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7) | 4:48 |
+| 89 | [Another Place](https://open.spotify.com/track/6FrchQ8NDHUI8ucAvz5zha) | [Mischa Daniels](https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX), [Crown](https://open.spotify.com/artist/3hd8HRM16g6gi6RMUzuQhz) | [Worldwide Dance Hits](https://open.spotify.com/album/6dfX6cEQ7MuTMY0Ldp7qup) | 3:37 |
 | 90 | [Step One Two](https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc) | 3:20 |
 | 91 | [Everything \- Radio Edit](https://open.spotify.com/track/42bWEclg5KT9KUbJYblSR5) | [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8), [Myah](https://open.spotify.com/artist/0zVkEWAv7FUL8YEBz3wlWt) | [Everything](https://open.spotify.com/album/0abTIR0UNo66Nw38K47k03) | 3:48 |
 | 92 | [The Big Fake](https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI) | [Traffic Signs](https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92) | [I Like Your Booty / The Big Fake](https://open.spotify.com/album/0D0O1lbkzRcXJECh3owHN3) | 6:24 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 | 120 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8) | [Awaken \(Part 2\)](https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT) | 3:44 |
 
-Snapshot ID: `MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz`
+Snapshot ID: `MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx`

@@ -2,9 +2,9 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE)
 
-> Milo J, Bhavi, Duki & LIT killah en la casa del Trap Argentino.
+> Seven Kayne en la casa del Trap Argentino.
 
-226 songs - 10 hr 53 min
+227 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [ANGELITO \(feat\. Duki\)](https://open.spotify.com/track/3ZBVYxy3XK4IVUlcoq3suZ) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [HÍBRIDO](https://open.spotify.com/album/7uJq7ArZ8F9RLehwiooxlo) | 2:49 | 2022-01-21 |  |
 | [Ansiedad](https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v) | 3:03 | 2022-01-21 | 2022-06-18 |
 | [aPoLLo13](https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [aPoLLo13](https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE) | 2:40 | 2023-05-04 |  |
-| [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-02-04 |  |
+| [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-02-04 | 2023-09-06 |
 | [Bad B\*tches](https://open.spotify.com/track/3XQlzdBYy7aXYwdD82WSu7) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [SnipeZ](https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN) | 2:34 | 2022-10-28 |  |
 | [Baller](https://open.spotify.com/track/0WCJqrHLaDsjt2nBZSynnS) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/4M4ASPb71i9q5uq6XDUFLJ) | 3:21 | 2022-01-21 |  |
 | [Barras Bravas Session \#1](https://open.spotify.com/track/27Z972CXJhwcelhKuHB7cj) | [Dj Telmogo](https://open.spotify.com/artist/0d0tg71mXYFG8myOTfNQCF), [Masskouh](https://open.spotify.com/artist/1ftqo8LZLPQQ80UUmSsPeE), [ElBroda](https://open.spotify.com/artist/0a10iAgSjjTpm39Ce3QRu3), [Maylo 420](https://open.spotify.com/artist/0VjXg1WrCD2tNcpGyY4Eg0), [Notorious Wach](https://open.spotify.com/artist/59LdUpPI4AkQ24aFaGoEi7) | [Barras Bravas Session \#1](https://open.spotify.com/album/0zxaIRgUNxMICIV9FwaFVp) | 2:05 | 2023-02-03 | 2023-03-31 |
@@ -123,6 +123,7 @@
 | [ME CONVIENE](https://open.spotify.com/track/6f2gN0m9L9SOlw0Y0ZLPCt) | [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ME CONVIENE](https://open.spotify.com/album/472Rqdk26bvUO36E4ltzfU) | 2:27 | 2023-09-01 |  |
 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 | 2022-01-21 |  |
 | [Meteoritos Vs Dinosaurios](https://open.spotify.com/track/5u1azLYFRISTVqC6FQWLYd) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [Meteoritos Vs Dinosaurios](https://open.spotify.com/album/77Fovy0iY1SyGS2OHgwJm7) | 2:45 | 2022-01-21 | 2022-05-28 |
+| [MI CIUDAD](https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MI CIUDAD](https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S) | 3:40 | 2023-09-05 |  |
 | [Mi Culpa](https://open.spotify.com/track/42SE13NYBeYw9r10PUwz7U) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Culpa](https://open.spotify.com/album/6Njm2qMYJeUNt6AXfMCTkR) | 3:30 | 2022-11-11 |  |
 | [MI LOCURA EN BUENOS AIRES](https://open.spotify.com/track/0b0BMDKMFdVllW5PeriqFa) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [MI LOCURA EN BUENOS AIRES](https://open.spotify.com/album/5qPPycb83v2ycLeOZD3gKw) | 3:08 | 2023-03-17 |  |
 | [Michael Jackson](https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz) | 1:49 | 2022-06-17 | 2022-07-29 |

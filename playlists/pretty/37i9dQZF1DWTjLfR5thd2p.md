@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,687 likes - 387 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,740 likes - 387 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,7 +365,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 355 | [Crossing the Danube](https://open.spotify.com/track/2nFrDHWjyJccuR1OvyjEf7) | [Marcel Pokorný](https://open.spotify.com/artist/6ln2peaIEnqs0cTqxJWVyW) | [Crossing the Danube](https://open.spotify.com/album/2BslkVgPfccnYDMot7rwCP) | 2:03 |
 | 356 | [Farvel til sommeren](https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y) | [Nansen Christoffersen](https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B) | [Farvel til sommeren](https://open.spotify.com/album/4ykDSRfJ83p4U2QJPIqq0H) | 2:03 |
 | 357 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 |
-| 358 | [Joy Cycle](https://open.spotify.com/track/5wD41YdV6elIjkotk5Tc9X) | [Felted Mind](https://open.spotify.com/artist/2Whahebr1XkVsvmbpR2l8d) | [Joy Cycle](https://open.spotify.com/album/4RiB9rJRynWtQcgwsM6lA8) | 3:00 |
+| 358 | [Joy Cycle](https://open.spotify.com/track/187XMbww7baW7X7zHDOTZL) | [Felted Mind](https://open.spotify.com/artist/2Whahebr1XkVsvmbpR2l8d) | [Joy Cycle](https://open.spotify.com/album/70pjqgJZQMHf6ZEucWPgsj) | 3:00 |
 | 359 | [Love of Us](https://open.spotify.com/track/54OvzzXMJb8edbYpIzMeBM) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [We Will Remain](https://open.spotify.com/album/3hSe9XZzLXppGtQxhwqqr6) | 2:46 |
 | 360 | [Sasha](https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY) | [Camilla Selezneva](https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX) | [Sasha](https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI) | 2:25 |
 | 361 | [Innocence](https://open.spotify.com/track/7chUrds11BR9cV2sUv32or) | [Olga Menchki](https://open.spotify.com/artist/7JORhwq0wyUPMHaYjASzLS) | [Innocence](https://open.spotify.com/album/1bJt5dNbsCzyrzMCdF4Ebq) | 2:09 |
@@ -396,4 +396,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 386 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 |
 | 387 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
 
-Snapshot ID: `MCwzODc5YTBiZGUyOGRmZjRhMjVhN2I0MmZjZTFmZWIyZmUwZDY4ZGI2`
+Snapshot ID: `MCxiNjQyNjE1YzYwYjRhODA1NTYzNjYzYTMxZTgzMTYxZjc5ZWIwZDQ2`

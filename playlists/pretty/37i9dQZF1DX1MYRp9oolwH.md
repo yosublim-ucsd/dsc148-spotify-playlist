@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,664 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,831 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 36 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 |
 | 37 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 38 | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/track/6Pu2h98HTGs437yCGnK16b) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/album/4jLEzKrOoUFyJzlTTrKwCy) | 3:36 |
-| 39 | [Nuvvunte Chaalu \- From "Rudhurudu"](https://open.spotify.com/track/1JWFAxXYPU4hwK3B0Kk2Of) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Nuvvunte Chaalu \(From "Rudhurudu"\)](https://open.spotify.com/album/0T4mEjDL3HVG3vEwOEuXIf) | 4:12 |
+| 39 | [Nuvvunte Chaalu \- From "Rudhrudu"](https://open.spotify.com/track/1JWFAxXYPU4hwK3B0Kk2Of) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Nuvvunte Chaalu \(From "Rudhrudu"\)](https://open.spotify.com/album/0T4mEjDL3HVG3vEwOEuXIf) | 4:12 |
 | 40 | [Neetho Ee Gadichina Kaalam](https://open.spotify.com/track/220ENw46j8SPA7z5gNxkjA) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/6sozvXmQZrU4CR2OLL87PT) | 3:51 |
 | 41 | [Madhurame \(From"Ravikula Raghurama"\)](https://open.spotify.com/track/53AGKXbBI0GLJhGDxrvS3o) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Madhurame \(From"Ravikula Raghurama"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/33qwUFvGqHfJnt4j6FK5PZ) | 3:14 |
 | 42 | [Yedurangula Vaana](https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [18 Pages](https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Oh Bangaram](https://open.spotify.com/track/75UdklaJHB2iYhQMXmE3DS) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5mw5TgQL15i1ernK02z9hV) | 3:48 |
 | 50 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 
-Snapshot ID: `MCxkMmZjN2ZkODAzZTc4ZjY2NGM3MDAyOWU0YjE1ZjNhYWQ3YzM2ZTI1`
+Snapshot ID: `MCwwOTlkNjczM2U4YzViYTcyNGNkODlhMTZjOGRlMGNjMTcxMWI3ODI4`

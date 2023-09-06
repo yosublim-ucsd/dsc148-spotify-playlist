@@ -4,7 +4,7 @@
 
 > ESPN is turning up the heat this season as the Rockstars of Racing embark on a world tour\. Listen to the drivers favorite tracks here.
 
-324 songs - 21 hr 17 min
+325 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Mac and Devin Go to High School \(Music from and Inspired by the Movie\)](https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h) | 3:27 | 2022-05-16 | 2022-06-24 |
 | [永不獨行](https://open.spotify.com/track/6yTcc13v7rR5QZe0EV5YTX) | [GAI周延](https://open.spotify.com/artist/37EUUUGKMLP6KSKrN9q39m), [艾熱AIR](https://open.spotify.com/artist/6G94zxdItl2GgmKVfoAGI0) | [永不獨行](https://open.spotify.com/album/1ja7W7NwYQxSQNzdBqXtT3) | 2:51 | 2023-05-03 |  |
 | [烈火战马](https://open.spotify.com/track/3mDFWR3Fi9YgempmkrchUK) | [GAI周延](https://open.spotify.com/artist/37EUUUGKMLP6KSKrN9q39m) | [烻](https://open.spotify.com/album/7D0hiBSjg3GyZPDvhKsjwT) | 3:09 | 2023-05-03 |  |
-| [爱如潮水](https://open.spotify.com/track/52bxew0vkS3xED0cvkfemM) | [GAI周延](https://open.spotify.com/artist/37EUUUGKMLP6KSKrN9q39m) | [爱如潮水](https://open.spotify.com/album/62YTNmY7S5Ts8VW8qwyX6F) | 3:46 | 2023-05-03 |  |
+| [爱如潮水](https://open.spotify.com/track/52bxew0vkS3xED0cvkfemM) | [GAI周延](https://open.spotify.com/artist/37EUUUGKMLP6KSKrN9q39m) | [爱如潮水](https://open.spotify.com/album/62YTNmY7S5Ts8VW8qwyX6F) | 3:46 | 2023-05-03 | 2023-09-06 |
+| [爱如潮水 \- Live](https://open.spotify.com/track/1n6GNPxYhZQycsMBU5WJeW) | [GAI周延](https://open.spotify.com/artist/37EUUUGKMLP6KSKrN9q39m) | [爱如潮水 \(Live\)](https://open.spotify.com/album/3rO0CvZNIfPa6QV5QMTdmd) | 3:46 | 2023-06-28 |  |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

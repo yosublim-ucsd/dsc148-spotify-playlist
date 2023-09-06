@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 266213,
       "name": "AKM",
       "url": "https://open.spotify.com/track/3Yn1eOU2fLwJeuBmONmrk2"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "alibababigbass",
       "url": "https://open.spotify.com/track/0N9Fccu5ESGwWPJ3MU9Yt5"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 175200,
       "name": "Demons",
       "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
@@ -6598,7 +6598,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -10122,7 +10122,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -16085,6 +16085,32 @@
     },
     {
       "album": {
+        "name": "SESH SMOKE",
+        "url": "https://open.spotify.com/album/0VpOtbZE9N7Utt7vrpdQE3"
+      },
+      "artists": [
+        {
+          "name": "yallen",
+          "url": "https://open.spotify.com/artist/3vdhW2Rr0NLBQA7G3gI8RU"
+        },
+        {
+          "name": "SERYLL",
+          "url": "https://open.spotify.com/artist/0PvdjXFtosZzCvdS9HFiy5"
+        },
+        {
+          "name": "Coder",
+          "url": "https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126554,
+      "name": "NA REPEAT",
+      "url": "https://open.spotify.com/track/4gDPHSEV7kZbdGsrCwHx9G"
+    },
+    {
+      "album": {
         "name": "BIG BOY FM",
         "url": "https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5"
       },
@@ -18416,6 +18442,24 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/5Z4DIygQ9bDQtjSjYB3G1U"
+      },
+      "artists": [
+        {
+          "name": "Evo DiRace",
+          "url": "https://open.spotify.com/artist/5huRfpZ0W5j4YQdjjb2pTK"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142761,
+      "name": "Paranormal",
+      "url": "https://open.spotify.com/track/52xc7zt4hSACVXsrTWpwnX"
     },
     {
       "album": {

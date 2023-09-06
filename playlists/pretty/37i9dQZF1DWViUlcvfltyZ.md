@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Leatherette in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,571 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,575 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 50 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 51 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCw0YTZmNWZlMTk2N2JkZGY2ZDI5Mjc2NzA4NTQzZmViZTNiMDNmZjk2`
+Snapshot ID: `MCwzZmM3OTU5YWRkOTAyYmY4NjVjYmY2OTY4MmZiNmJlNmI4N2EwZjNm`

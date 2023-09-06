@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,786 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,882 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [The Freedom to Fuck Off](https://open.spotify.com/track/2DTRZKLOfm8BQOdNljrF7K) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [The Freedom to Fuck Off](https://open.spotify.com/album/2vym6dm3afTUtwAj48681k) | 4:02 |
 | 100 | [RISK, RISK, RISK!](https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [RISK, RISK, RISK!](https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ) | 3:21 |
 
-Snapshot ID: `MCw2MjNiMzNiYTM0YTNlZDc2ZWFlMDMyMGE5NGVjNjM1NTg0YmI0OGU4`
+Snapshot ID: `MCw0NDU3YmMwMzk0NDZiZjRiYzAwMGI5NDdhOWNhNzhjYTE0Y2ZjM2Vh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,955 likes - 115 songs - 6 hr 28 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,955 likes - 117 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 113 | [Bliss](https://open.spotify.com/track/17xeVh2ZpFfYPsC6JVeBbF) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Shylow](https://open.spotify.com/artist/0YUf68058a5Q4W0gSGOdi6), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Bliss](https://open.spotify.com/album/3BoSAkJgsGyLNTLO2eWpw0) | 3:04 |
 | 114 | [Dry Lungs](https://open.spotify.com/track/0Zv1cAT5U7r257yvtzlTyL) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Xtra Pop](https://open.spotify.com/album/6KSljbq3i1XPjyLDN5bSau) | 3:50 |
 | 115 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
+| 116 | [Westside](https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5) | 2:56 |
+| 117 | [skydrivin](https://open.spotify.com/track/1o8ldMCYDBQ1fFsOBPXfpB) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [skydrivin](https://open.spotify.com/album/70pPkKEzYL70r95sCzvdqe) | 4:31 |
 
-Snapshot ID: `MTA0NTYsNzExZjIxNjc3ZTM0NjI4OWM5MTY0ODU0Mzc2MzI2MDM4MzUzODE0Nw==`
+Snapshot ID: `MTA0NTgsZTEwNzAwODlkNWFjNDc5NTkwZjc4YWI0NTIwMTQ0ZGUzMzFjOTI0MQ==`

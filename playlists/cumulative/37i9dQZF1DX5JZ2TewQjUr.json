@@ -6550,6 +6550,24 @@
     {
       "album": {
         "name": "Summer Fever",
+        "url": "https://open.spotify.com/album/4PQFB3qXGbLJicQk6JxUfV"
+      },
+      "artists": [
+        {
+          "name": "kaaai",
+          "url": "https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Summer Fever",
+      "url": "https://open.spotify.com/track/3gG6DUfZmMvI2GMUyps7fi"
+    },
+    {
+      "album": {
+        "name": "Summer Fever",
         "url": "https://open.spotify.com/album/30MpRmsftr9JY8es2azDI8"
       },
       "artists": [
@@ -6560,7 +6578,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 214000,
       "name": "Summer Fever",
       "url": "https://open.spotify.com/track/7tgGio1o6YS1VF8M7QHLJf"

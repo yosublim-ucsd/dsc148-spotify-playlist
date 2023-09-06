@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Nicki Minaj",
-  "num_followers": 62115,
+  "num_followers": 62117,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGQ5ZjM1ZDFkOWFmMDI3YzE3NDI4YmJlMzBiOGU2YjEwYTk3N2Yz",
+  "snapshot_id": "MCw2ZTdjNzhkZDViMjY2YzQxNjUyYTQwY2RlNmY4OGQ3ZjE0ZTNlNmI5",
   "tracks": [
     {
       "added_at": "2023-09-01 05:32:55",
@@ -738,6 +738,10 @@
         {
           "name": "Cinta Laura Kiehl",
           "url": "https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
         }
       ],
       "duration_ms": 159636,

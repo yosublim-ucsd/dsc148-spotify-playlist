@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "God Help the Outcasts",
+        "url": "https://open.spotify.com/album/07leyNFhgegG6d02Be7wck"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Khan",
+          "url": "https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128090,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/6Gc3wspd9Xqx4BlGHxWpqE"
+    },
+    {
+      "album": {
         "name": "VSQ Performs the Hits of 2018",
         "url": "https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31"
       },
@@ -2886,6 +2904,24 @@
       "duration_ms": 190588,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS"
+    },
+    {
+      "album": {
+        "name": "The winner takes it all",
+        "url": "https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Wright",
+          "url": "https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233719,
+      "name": "The winner takes it all",
+      "url": "https://open.spotify.com/track/3JH5SNLLiwxnp1IVFb8AYw"
     },
     {
       "album": {

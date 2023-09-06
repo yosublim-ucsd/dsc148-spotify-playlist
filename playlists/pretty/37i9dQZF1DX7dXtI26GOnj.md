@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,938 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,109 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [Linda](https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Linda](https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh) | 2:07 |
 | 75 | [Desire](https://open.spotify.com/track/0FnBouyjR8bNM4msAnCDOv) | [Sara Selina](https://open.spotify.com/artist/1wAuFuBFLTt9xpVGIipLd9) | [Desire](https://open.spotify.com/album/5OWngBrRUd63wXyGqJwXSN) | 3:04 |
 
-Snapshot ID: `MCxiOGE0M2M2NjgwZjk4MGFiYjM1OTgzODEwMzA5MDY4ZWJlZTk1NjEw`
+Snapshot ID: `MCxiZjJmYjIxYTJiY2M5MWE0ZDJjNDY2MTNkYjMxY2ExOTA0N2ZlMjEx`

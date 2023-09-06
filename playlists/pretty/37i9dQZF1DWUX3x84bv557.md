@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Dio
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,530 likes - 85 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,550 likes - 85 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 84 | [Het Gaat Niet Meer](https://open.spotify.com/track/15QecetmQsVjqqB6pkmaBG) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Het Gaat Niet Meer](https://open.spotify.com/album/6maAcQQlUQE5Ns4JXA5OYf) | 2:36 |
 | 85 | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/track/39IfUdhato88j7BGmWikCV) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/album/1jyMBGyKOjJGGFISEImvEm) | 3:34 |
 
-Snapshot ID: `MCxhNmUwZjM2MWVjODAxZmE4N2M1YzM2NzI2MmJkYTE1NzhkNTJkZTVk`
+Snapshot ID: `MCw3Y2Y4MzE1OGUzMDdmODI0MDU4NzQxMThkNTViMmM4NTljMWQ2Y2Vi`

@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
+    },
+    {
+      "album": {
         "name": "Narukanaga",
         "url": "https://open.spotify.com/album/68nJKYnPFSOwPY5XLqGdDO"
       },
@@ -386,7 +404,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 229946,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/4fLWpuB8IHI0Z8UecU4p9R"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 134902,
       "name": "Coffee Excess feat. Orono (Superorganism) & Lennon",
       "url": "https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw"
@@ -554,6 +572,24 @@
       "duration_ms": 201131,
       "name": "Country Gyal",
       "url": "https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb"
+    },
+    {
+      "album": {
+        "name": "Walk of Fire",
+        "url": "https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179211,
+      "name": "Dark Imagination",
+      "url": "https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS"
     },
     {
       "album": {
@@ -1050,6 +1086,28 @@
       "duration_ms": 201641,
       "name": "Honey Pot",
       "url": "https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "album": {
@@ -2192,7 +2250,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
@@ -2232,7 +2290,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
@@ -2276,6 +2334,24 @@
       "duration_ms": 233391,
       "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
       "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
+    },
+    {
+      "album": {
+        "name": "Sweet Craving",
+        "url": "https://open.spotify.com/album/2PZF0TA03SBBbOfhOblsJv"
+      },
+      "artists": [
+        {
+          "name": "King Josephine",
+          "url": "https://open.spotify.com/artist/1qf05AiTQEYatPSVe1sRDz"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177310,
+      "name": "Sweet Craving",
+      "url": "https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp"
     },
     {
       "album": {

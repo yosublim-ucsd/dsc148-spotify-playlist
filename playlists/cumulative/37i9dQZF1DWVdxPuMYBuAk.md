@@ -4,7 +4,7 @@
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-170 songs - 9 hr 57 min
+172 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2022-02-09 | 2023-05-19 |
 | [Dare You Not To Dance](https://open.spotify.com/track/5H3oVqmmGGeq1oknog4mRl) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye) | [Dare You Not To Dance](https://open.spotify.com/album/1sokPbEAiitEeeK1xzjYIK) | 3:52 | 2023-05-18 |  |
 | [Darl+ing](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 2:56 | 2023-05-18 |  |
-| [Dazed & Confused](https://open.spotify.com/track/1MSDtrmM0lJv1p7LYb2inl) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:47 | 2023-05-18 |  |
+| [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 | 2023-07-07 |  |
+| [Dazed & Confused](https://open.spotify.com/track/1MSDtrmM0lJv1p7LYb2inl) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:47 | 2023-05-18 | 2023-09-06 |
 | [Deeper Than the Dark](https://open.spotify.com/track/75iOv2HXgUWS690a0u0Azi) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [37B](https://open.spotify.com/album/5NcfivOINbHGhaFmIF91ZQ) | 4:26 | 2023-05-18 |  |
 | [Do Not Disturb](https://open.spotify.com/track/46WwHo5YkDBHnZVn7fNqTy) | [Dan Cipriano](https://open.spotify.com/artist/2FMt0CdVdTgEKkthQ8YjAO) | [First Impressions](https://open.spotify.com/album/4DvQpCKSmsDX9wiGZ1x2tL) | 5:25 | 2022-02-09 | 2023-05-19 |
 | [Don't Freak](https://open.spotify.com/track/6IDf8qhBUUi8BUWYRqk1mB) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Don't Freak](https://open.spotify.com/album/5xv8mQtOVEPHSmzUgqKlAx) | 2:46 | 2023-05-18 |  |
@@ -126,7 +127,8 @@
 | [Real Love](https://open.spotify.com/track/2f47eePMUJvRVVqWdA4JC2) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Rabbit Hole](https://open.spotify.com/album/3O9h4n6a5yGA4OCcwNx2se) | 3:46 | 2022-02-09 | 2023-05-19 |
 | [Run Away](https://open.spotify.com/track/6BYYA15dyPOSi8baFOpDgr) | [MONA](https://open.spotify.com/artist/1cFDUoQ5wYnwrHsSkwvUHr) | [When](https://open.spotify.com/album/3eIiVTuooJKLwyXAypE0eR) | 3:34 | 2023-05-18 |  |
 | [Run For Your Money](https://open.spotify.com/track/7wW1OO2yJ5vrfaVRuasv7n) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:02 | 2022-02-09 |  |
-| [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2023-05-18 |  |
+| [Sins](https://open.spotify.com/track/1Ub5sCBfsF3xGEw4eHqJro) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:26 | 2023-07-07 |  |
+| [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2023-05-18 | 2023-09-06 |
 | [Smoke Signals](https://open.spotify.com/track/1UxrIe4ZmoebVnRGkBJEPj) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Between Broken](https://open.spotify.com/album/3SWONDSeoQ0UTsRyXSlL5g) | 3:16 | 2023-07-07 |  |
 | [Smoke Signals](https://open.spotify.com/track/50BjPZRMhOrKePHDJKWnoo) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Between Broken](https://open.spotify.com/album/4zUW6lwQf3wHRdYawFEEWQ) | 3:16 | 2023-05-18 | 2023-08-09 |
 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 | 2023-05-18 |  |

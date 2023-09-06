@@ -2,7 +2,7 @@
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de agosto 2023
+> Lo mejor de septiembre 2023
 
 637 songs - 1 day 10 hr 5 min
 

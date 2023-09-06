@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,318 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,372 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 53 | [I feel](https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [I feel](https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY) | 3:46 |
 | 54 | [Saturn](https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Saturn](https://open.spotify.com/album/6xt9QesnTMEOm78vIXCTPA) | 3:05 |
 
-Snapshot ID: `MCw0YTQ1NzFlNGNhNmNhZjBkMzQ5YmQ2NzA3MjM3YmNhNDExZTMwNTMw`
+Snapshot ID: `MCwyZjZhNDlmYWZmOGQzOTc1YmVkOThhMTc3MTNkOTgzZTNmNjhkZDA0`

@@ -4,7 +4,7 @@
 
 > 2023年8月\~10月に開催される<a href="https://www.straykidsjapan.com/5stardometour/">Stray Kids 5\-STAR Dome Tour</a>に備えて、プレイリストで予習しよう!
 
-63 songs - 3 hr 21 min
+64 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ALL IN](https://open.spotify.com/track/1bIbXKrXRxfNh1l9a9lN2Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/4A9lWTDR5cObUYfO2IzK8c) | 3:07 | 2023-06-26 |  |
 | [Back Door](https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:09 | 2023-02-28 | 2023-06-27 |
 | [Back Door \-Japanese ver.\-](https://open.spotify.com/track/7p1Cyfo5Wt0c5YJPHQcUJW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Back Door \-Japanese ver.\-](https://open.spotify.com/album/3Rm01odXh5S1wXCPGgIJIf) | 3:11 | 2023-06-26 |  |
+| [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 | 2023-09-05 |  |
 | [CALL](https://open.spotify.com/track/40eQ3f56CJ34Io5JXKn5rF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars / ソリクン \-Japanese ver.\-](https://open.spotify.com/album/5hsCdHPhvg7mOo0OVzn5O0) | 2:47 | 2023-06-26 |  |
 | [Can't Stop \(Seungmin, I.N\)](https://open.spotify.com/track/33vfE5bxDMHpOFHMSgxehR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:29 | 2023-06-26 |  |
 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/24c1YnlFKxrAPINd69UlLd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:13 | 2023-02-28 |  |

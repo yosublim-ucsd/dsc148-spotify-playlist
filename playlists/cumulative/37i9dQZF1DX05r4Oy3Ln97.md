@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-275 songs - 14 hr 11 min
+276 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Hallelujah](https://open.spotify.com/track/3ZzqeiucaYmpAE1EZw6Rje) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Hallelujah](https://open.spotify.com/album/7sC4cRLjEclDq7PXBW1nW5) | 2:13 | 2022-07-08 | 2022-08-03 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-08 | 2022-10-19 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-09-30 | 2023-08-21 |
+| [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 | 2023-09-01 |  |
 | [Heartbeats](https://open.spotify.com/track/7soMS7pyMKrEsfpOFyuYL9) | [KYDS](https://open.spotify.com/artist/7qZUlT9qGTM05VsbBkBuWi) | [Heartbeats](https://open.spotify.com/album/6qezpDuS7jCwJTl19a6gv8) | 2:36 | 2021-10-29 | 2022-03-22 |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/3m6vIFTjiOc6pZgTgdQpuH) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/5mVMcDiv3to6jduunb9OTM) | 2:40 | 2021-10-29 | 2022-07-29 |
 | [Heaven Is a Place on Earth](https://open.spotify.com/track/7HEhUhF8jcJVqTOGR6BNOQ) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Heaven Is a Place on Earth](https://open.spotify.com/album/6suRrxlM7PfRhxcHiWHUIv) | 2:40 | 2022-07-08 | 2023-01-25 |
@@ -253,7 +254,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/61CmIx1hiRH7VRcNb5cCY8) | [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn), [Vi Anabella Kara](https://open.spotify.com/artist/6UI6PW7WI2jz4SF5xllpgI) | [Thinkin Bout You](https://open.spotify.com/album/3OO0NdnFvAPzcVrJ9aBBF3) | 2:34 | 2021-10-29 | 2022-07-04 |
 | [Thinking Of You](https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg) | [Thinking Of You](https://open.spotify.com/album/5HtjTfGf1F8wSr1HATgKEF) | 2:32 | 2022-04-08 | 2022-05-21 |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-04-29 | 2022-11-09 |
-| [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-11-24 |  |
+| [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-11-24 | 2023-09-06 |
 | [Thunder](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Thunder](https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj) | 2:36 | 2023-05-12 |  |
 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 | 2022-01-21 |  |
 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 | 2022-02-28 | 2022-03-04 |

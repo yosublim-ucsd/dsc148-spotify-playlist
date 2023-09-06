@@ -2868,6 +2868,24 @@
     {
       "album": {
         "name": "Joy Cycle",
+        "url": "https://open.spotify.com/album/70pjqgJZQMHf6ZEucWPgsj"
+      },
+      "artists": [
+        {
+          "name": "Felted Mind",
+          "url": "https://open.spotify.com/artist/2Whahebr1XkVsvmbpR2l8d"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180419,
+      "name": "Joy Cycle",
+      "url": "https://open.spotify.com/track/187XMbww7baW7X7zHDOTZL"
+    },
+    {
+      "album": {
+        "name": "Joy Cycle",
         "url": "https://open.spotify.com/album/4RiB9rJRynWtQcgwsM6lA8"
       },
       "artists": [
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 180419,
       "name": "Joy Cycle",
       "url": "https://open.spotify.com/track/5wD41YdV6elIjkotk5Tc9X"

@@ -1,12 +1,12 @@
 {
   "description": "The perfect classical tunes for pruning, planting, and putting your feet up.",
-  "num_followers": 150194,
+  "num_followers": 150248,
   "original_name": "Classical Garden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjA4YTVlMzc1ZmFkMWNhYTVjOTJhZWRiMWVhNjZiMDQzNmI5MDhk",
+  "snapshot_id": "MCw0MmIzYzg4ZmY1YWYyZDM1OTRjMzczOTY1NTFiMWYwZjg4MTRlNjI3",
   "tracks": [
     {
       "added_at": "2023-06-19 08:16:01",
@@ -479,6 +479,26 @@
       "duration_ms": 349760,
       "name": "Delius: 2 Pieces for Small Orchestra: No. 1, On Hearing the First Cuckoo in Spring",
       "url": "https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS"
+    },
+    {
+      "added_at": "2023-06-19 08:16:01",
+      "album": {
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "Ravel: Pavane pour une infante d\u00e9funte, M. 19",
+      "url": "https://open.spotify.com/track/3MRQn2RYo2VLYMoStnLRxu"
     },
     {
       "added_at": "2023-06-19 08:16:01",

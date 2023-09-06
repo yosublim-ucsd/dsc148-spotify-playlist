@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,615 likes - 71 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,639 likes - 71 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 70 | [Speedracer](https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4) | 2:58 |
 | 71 | [Pulse](https://open.spotify.com/track/6XNoI3L5h2ONamtxyMCkWI) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V), [Lisa Grace](https://open.spotify.com/artist/5bp3KSMBNtOvTW6OvrnwpO) | [Pulse](https://open.spotify.com/album/0OJHV3RMeL31ReoYiTtssB) | 3:19 |
 
-Snapshot ID: `MCwwYmZmMTRhZDc5M2M5YmY4Yzc4NWM5NTg0YzI3NzY3YTVlNDM4YjEw`
+Snapshot ID: `MCwzYTBjNTFkMTY3MDAzM2MwOTBhMzg1ZDkyYmE2ZGRkOTE3NDBmMTQ0`

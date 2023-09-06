@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 11126,
+  "num_followers": 11147,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjk3MzRiYWU4NzE4NjRjNDg4Nzk3OTE2YzYzZmU5YzNjNDI3ZjFm",
+  "snapshot_id": "MCxiYmFjOWE3NGIxODk3NDBiOGI5MzQzMDk4MzQ2NjBmMmVlNjgzZDYy",
   "tracks": [
     {
       "added_at": "2023-08-12 09:05:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-12 09:05:14",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2023-08-12 09:05:14",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+    },
+    {
+      "added_at": "2023-08-12 09:05:14",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2023-08-12 09:05:14",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-12 09:05:14",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
-        "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
-      },
-      "artists": [
-        {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Shadow Love",
-      "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
-    },
-    {
-      "added_at": "2023-08-12 09:05:14",
-      "album": {
         "name": "tokki",
         "url": "https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 210857,
       "name": "tokki",
       "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
+    },
+    {
+      "added_at": "2023-08-12 09:05:14",
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
+        "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Shadow Love",
+      "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
     },
     {
       "added_at": "2023-08-12 09:05:14",

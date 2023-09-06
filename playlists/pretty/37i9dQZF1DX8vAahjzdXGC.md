@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,247 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,282 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 8 | [Lesung Pipi](https://open.spotify.com/track/2TSndP59ZATZM7TN1LoHHK) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/4jNiDzoS81cClJgIqZZaqa) | 3:45 |
 | 9 | [Hilang Kendali](https://open.spotify.com/track/6g731vMn1AKOPkVS4V3Wx7) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Hilang Kendali](https://open.spotify.com/album/3EMT08L67J3GL2XiI0LhqO) | 3:58 |
 | 10 | [Kemana Kita Hari Ini](https://open.spotify.com/track/1e13iAgF2fQ9fkUr3SN0kT) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kemana Kita Hari Ini](https://open.spotify.com/album/3Tn8So8AMQaHDtJXnBT7Bs) | 4:39 |
-| 11 | [Loco](https://open.spotify.com/track/7I6wiN4iz0ztsYphZ40C4Q) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Loco](https://open.spotify.com/album/28Gr8JaXJ1wRUMqyM00O7r) | 2:39 |
+| 11 | [Loco](https://open.spotify.com/track/7I6wiN4iz0ztsYphZ40C4Q) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Loco](https://open.spotify.com/album/28Gr8JaXJ1wRUMqyM00O7r) | 2:39 |
 | 12 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 |
 | 13 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 14 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 29 | [Semoga Waktu Beri Sembuh](https://open.spotify.com/track/3tbk3KIe0j4RQtqSuTpGdj) | [Mutiarachmi](https://open.spotify.com/artist/5gFwkTOD11lsM3nXoPEVY7) | [Semoga Waktu Beri Sembuh](https://open.spotify.com/album/05473HKdw2f1cwquQz5o8e) | 3:22 |
 | 30 | [Mayapada](https://open.spotify.com/track/6kV4HJNb0oCmQrduzptFR1) | [Sorai Seroja](https://open.spotify.com/artist/1JavEJ2kOd7sCzbUhoknSv) | [Mayapada](https://open.spotify.com/album/7ISmH8TqB5bNTDqZ3cLjMY) | 4:38 |
 | 31 | [Sadarkah](https://open.spotify.com/track/0fXpT4TxdV43eWQP6hzMBw) | [Erkha](https://open.spotify.com/artist/0baIMK95LXupw6NP1weiXf) | [Sadarkah](https://open.spotify.com/album/5XpkSePmArYWBNKdO2RbKG) | 4:03 |
-| 32 | [Kisah Yang Sama](https://open.spotify.com/track/4A0W4rm2TPXK9shuPCeJTQ) | [Alika](https://open.spotify.com/artist/1nMUOY9WKwO8R1gZ8i76jU), [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE), [Rex Rakhito Dio](https://open.spotify.com/artist/1eIxexTcc8fpoK9uLC9gNi) | [Kisah Yang Sama](https://open.spotify.com/album/7IrOUPy6FSQ7mpCbr8Xzpi) | 4:52 |
+| 32 | [Kisah Yang Sama](https://open.spotify.com/track/4A0W4rm2TPXK9shuPCeJTQ) | [Alika](https://open.spotify.com/artist/1nMUOY9WKwO8R1gZ8i76jU), [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [Kisah Yang Sama](https://open.spotify.com/album/7IrOUPy6FSQ7mpCbr8Xzpi) | 4:52 |
 | 33 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 |
 | 34 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 |
 | 35 | [Dancing with you in the Rain](https://open.spotify.com/track/2KQpOKk59I54dbz0z3etMG) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Dancing with you in the Rain](https://open.spotify.com/album/2tzJU8JjqZyBOEiYRopqJv) | 3:00 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [Mirages Of You](https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Mirages Of You](https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m) | 3:16 |
 | 99 | [For What It's Worth](https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [For What It's Worth](https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121) | 4:10 |
 
-Snapshot ID: `MCxlNDE2MmQ3MTU0ZjA3NmYzN2QwMDZkNzU0ODYxYWZmMTVhZTk2ZTVh`
+Snapshot ID: `MCxjMzViZDc2MmU2NWE3Y2ZjY2M5Zjk2MjIwMGIwZDU1NDIxZWUwNzFm`

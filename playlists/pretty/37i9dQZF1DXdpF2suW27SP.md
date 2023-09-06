@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dillaz entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,134 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,202 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [CASTELOS DE AREIA](https://open.spotify.com/track/1QquirkrYcoenI0mA3FRSJ) | [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm), [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [CASTELOS DE AREIA](https://open.spotify.com/album/2Ejc0zsiqVsyRZkSde2YIH) | 2:43 |
 | 75 | [LACAZETTE CU DELE ALLI](https://open.spotify.com/track/66ZF8N3u5bzCNfEqUAqznX) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [LACAZETTE CU DELE ALLI](https://open.spotify.com/album/06RZURNUWuzGqwnEB0H1Yi) | 3:15 |
 
-Snapshot ID: `MCxhYTBiOWYwNGJlZmQyMmY5OTI4MzVlOGRkNTZmY2FhYTMzMmUwNzJk`
+Snapshot ID: `MCxiOTcwY2Q1N2QxZWEzOGFlYjBjYzQ4NmU2NGFhMzBkZDI4YTMzM2U3`

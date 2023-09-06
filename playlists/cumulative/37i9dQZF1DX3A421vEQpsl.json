@@ -2306,7 +2306,7 @@
     {
       "album": {
         "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+        "url": "https://open.spotify.com/album/1YlugBItLrdu7CEZwRGskr"
       },
       "artists": [
         {
@@ -2329,6 +2329,36 @@
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223727,
+      "name": "Saregama Carvaan Medley",
+      "url": "https://open.spotify.com/track/0ytHk1vxx8zNQLqG3kcGzW"
+    },
+    {
+      "album": {
+        "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        },
+        {
+          "name": "Santosh Anand",
+          "url": "https://open.spotify.com/artist/2VKSgUyqn6F4mAnsKTonWR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
       "duration_ms": 223727,
       "name": "Saregama Carvaan Medley",
       "url": "https://open.spotify.com/track/7431LoEdYZ0cdjgT2YkRIC"

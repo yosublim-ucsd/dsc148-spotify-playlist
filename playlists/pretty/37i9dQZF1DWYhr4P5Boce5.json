@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 198822,
+  "num_followers": 198870,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2",
+  "snapshot_id": "MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 210372,
+      "name": "Dancing in the Minefields",
+      "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Love in the West",
         "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
       },
@@ -483,18 +499,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
       },
       "artists": [
         {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 210372,
-      "name": "Dancing in the Minefields",
-      "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -511,22 +527,6 @@
       "duration_ms": 195160,
       "name": "Thank God I Got Her",
       "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 191476,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Adam & Eve'n",
-        "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
-      },
-      "artists": [
-        {
-          "name": "Sir & Saint",
-          "url": "https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL"
-        },
-        {
-          "name": "Sir the Baptist",
-          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
-        },
-        {
-          "name": "Saint Ashleey",
-          "url": "https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5"
-        }
-      ],
-      "duration_ms": 125284,
-      "name": "Adam & Eve'n",
-      "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 118503,
       "name": "When It Hurts",
       "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Adam & Eve'n",
+        "url": "https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk"
+      },
+      "artists": [
+        {
+          "name": "Sir & Saint",
+          "url": "https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL"
+        },
+        {
+          "name": "Sir the Baptist",
+          "url": "https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg"
+        },
+        {
+          "name": "Saint Ashleey",
+          "url": "https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5"
+        }
+      ],
+      "duration_ms": 125284,
+      "name": "Adam & Eve'n",
+      "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
       },
       "artists": [
         {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        },
-        {
-          "name": "The Psalm Room",
-          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
+      "duration_ms": 214746,
+      "name": "Praying For You",
+      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Overcomer",
-        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
       },
       "artists": [
         {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        },
+        {
+          "name": "The Psalm Room",
+          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
         }
       ],
-      "duration_ms": 214746,
-      "name": "Praying For You",
-      "url": "https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT"
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Band of Gold // Summer Sessions",
-        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Band of Gold // Summer Sessions",
-      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Heartland",
         "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 223445,
       "name": "Midwest Magic",
       "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Band of Gold // Summer Sessions",
+        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Band of Gold // Summer Sessions",
+      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
     },
     {
       "added_at": "2023-01-31 10:01:12",

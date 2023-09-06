@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,078 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,259 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 4 | [Mi Bruja](https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6) | 2:37 |
 | 5 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 |
 | 6 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 |
-| 7 | [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Valdi](https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 |
+| 7 | [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 |
 | 8 | [12](https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [12](https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz) | 2:37 |
 | 9 | [Siciliano](https://open.spotify.com/track/6z1LXHyx2AwwQGXoMUjjbV) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Siciliano](https://open.spotify.com/album/3cYJzm7oqoJXyw3VX3Ohkp) | 3:13 |
 | 10 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 |
 | 100 | [Perco Con Mari \- Remastered](https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Inmortal](https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW) | 3:56 |
 
-Snapshot ID: `MCwwOGM5ZDQ5MzVlNGNmMmE2OTBkZjIyYzM0ZTIxZThiM2FiZTlhMGE2`
+Snapshot ID: `MCw4NTMzMGM0ZmM1OGM1YWIxNDQzMThhMmRhM2FkOTY2MjFlYzZiMTlm`

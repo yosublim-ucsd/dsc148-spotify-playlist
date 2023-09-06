@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Limited Express \(has gone?\)
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GUMX
 
-613 songs - 1 day 9 hr 1 min
+614 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Brightness](https://open.spotify.com/track/3gJiK0W7ACaKAtCesVwMvp) | [ONIONRING](https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w) | [LEAD](https://open.spotify.com/album/2lwLgrwp7ydwzFfwWd4fJ1) | 2:56 | 2022-09-08 | 2022-09-15 |
 | [Broken](https://open.spotify.com/track/5iueD90uxIah1pCKFTRLPW) | [WHITE SURF!](https://open.spotify.com/artist/507VXioEUYbyb6NXATi8Cl) | [Broken](https://open.spotify.com/album/4BQbbtC6O1tYPVN4IZjOKW) | 4:01 | 2022-10-04 | 2022-10-07 |
 | [Broken Toys](https://open.spotify.com/track/1vj4xbA4Lh5ALHzJnklq36) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [The Visible One & The Invisible One](https://open.spotify.com/album/6tX37Pzb9Xa9Z7coSVxVN6) | 3:17 | 2022-05-12 | 2022-07-26 |
+| [Buds](https://open.spotify.com/track/01SIpBzjnznLzp9Y9uWDgL) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [EMOTIONAL TRASH](https://open.spotify.com/album/1zlTTpeNNwLIXGFomBQINe) | 2:46 | 2023-09-05 |  |
 | [B・M・W](https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [FRESH BRASH OLD MAN](https://open.spotify.com/album/6I3h8d1qKsleQ1iq9nQCwH) | 2:37 | 2022-05-19 |  |
 | [C7](https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 4:15 | 2022-05-19 |  |
 | [Call Me David](https://open.spotify.com/track/7uSjsDsqIR73i1p8sDVP7z) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Call Me David](https://open.spotify.com/album/6k5ngcbCFNpWU4X3PwBkTC) | 3:49 | 2022-06-02 | 2022-07-28 |
@@ -94,7 +95,7 @@
 | [Deadhead](https://open.spotify.com/track/2Nr5rkzcAbtEHtc4l9odhc) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [NEW MYTHTAKES](https://open.spotify.com/album/6s4vcH9Bf5VtA09WN3PlWq) | 2:26 | 2022-05-12 | 2022-07-26 |
 | [Dear my songs](https://open.spotify.com/track/5NMwkyRm1azQWdeBrfuNnM) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Songs \-what I sing when a war resounds this\-](https://open.spotify.com/album/3AShfnFUfzEQEGgofiLecD) | 5:18 | 2022-05-12 | 2022-07-25 |
 | [Deception](https://open.spotify.com/track/4bFq5BWHDFPS90EPHAWYoq) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Otherside](https://open.spotify.com/album/0lNBLtCeStZBRSQhARH6ur) | 3:02 | 2022-06-07 | 2022-08-19 |
-| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 | 2023-09-02 |
+| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 |  |
 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 | 2022-05-19 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-06-09 | 2023-06-28 |
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
@@ -307,7 +308,7 @@
 | [PUSH YOUR SELF](https://open.spotify.com/track/0dOx1jLGYsUeozJzQKKgxP) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [PUSH YOUR SELF](https://open.spotify.com/album/5mUoEHZYJ5ttD2tjjqkG50) | 2:58 | 2022-06-21 | 2022-08-19 |
 | [PUXXY WOMAN](https://open.spotify.com/track/6KzKyPetaV8xL6kPRZvOsm) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN!](https://open.spotify.com/album/3rxvfCYFLKi8NoP0kXn9cG) | 4:01 | 2022-05-24 | 2022-07-25 |
 | [R.I.P, friends](https://open.spotify.com/track/4Qqr08hTaK6rWNnNVFTIk6) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [R.I.P, friends](https://open.spotify.com/album/1CZI7e7RbHOyJnGXbxxJNh) | 2:47 | 2022-05-19 | 2022-07-27 |
-| [Rain](https://open.spotify.com/track/0oVtFtmOBfVfINJRNHx0h0) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 5:21 | 2022-05-24 |  |
+| [Rain](https://open.spotify.com/track/0oVtFtmOBfVfINJRNHx0h0) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 5:21 | 2022-05-24 | 2023-09-06 |
 | [RAY \- Single ver.](https://open.spotify.com/track/7D0XjmATk1Qer8WPhCBPIl) | [Ace ON Dawn](https://open.spotify.com/artist/3QGeIj8jFm6QzZFoM9rhVi) | [RAY](https://open.spotify.com/album/4hU8CinlsVyZLS5LRLJ2mr) | 4:13 | 2022-05-12 | 2022-07-25 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 |  |
 | [RIGHT NOW](https://open.spotify.com/track/1d5nuyjooXOIlGDluTPlTH) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [ALL THE AWESOME DUDES](https://open.spotify.com/album/6gnYtMrDzdsnwey7waJTR4) | 3:42 | 2022-05-12 | 2023-02-15 |
@@ -419,7 +420,7 @@
 | [USUAL THINGS](https://open.spotify.com/track/6tswheUnXPiqniiAEMa9o8) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [WRAINBOW](https://open.spotify.com/album/1A2wV5V15wivdfxrRkR4ZZ) | 2:55 | 2022-05-17 | 2022-07-24 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-12 |  |
 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2022-07-27 |
-| [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2022-07-21 |  |
+| [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2022-07-21 | 2023-09-06 |
 | [W.O.W](https://open.spotify.com/track/2rIIZBDtTY52jQybxMOB0q) | [MOTHBALL](https://open.spotify.com/artist/4kFIznJL74Ic9Z5wfpCFNc) | [W.O.W](https://open.spotify.com/album/3FKeP5r7PxebHqyrrL8Of1) | 3:07 | 2022-05-12 | 2022-07-17 |
 | [WAITING](https://open.spotify.com/track/0UQugALECC271HnqLBDckC) | [NOTCH](https://open.spotify.com/artist/5cI87UgyxVRsJ1AsXxDB1c) | [DO OR DO NOT](https://open.spotify.com/album/7oFo7WyG2GdbVRnDeIMJEQ) | 2:58 | 2023-01-05 | 2023-06-02 |
 | [wake up! wake up!](https://open.spotify.com/track/3lEXSVcunWsoDvb4A1KQ90) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [Hello! Mr.latecomer](https://open.spotify.com/album/4qZyWJo3epGLT7Y09RVeEV) | 3:40 | 2022-06-02 | 2022-07-29 |

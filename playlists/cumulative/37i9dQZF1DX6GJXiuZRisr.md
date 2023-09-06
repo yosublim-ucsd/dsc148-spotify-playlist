@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-409 songs - 1 day 5 hr 40 min
+410 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Close My Eyes](https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Close My Eyes](https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu) | 3:42 | 2022-02-18 | 2023-05-01 |
 | [Closer](https://open.spotify.com/track/4HGi3uJg4OTWHQs6TkYAFb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Closer](https://open.spotify.com/album/0e3tF60tqO2Niimn9HZIde) | 4:40 | 2021-05-07 | 2022-08-13 |
 | [Come Alive \- Edit](https://open.spotify.com/track/63BwSqgsSj8yh7pJqO6XPv) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Sarah Appel](https://open.spotify.com/artist/6P8X8yokMKJJH9jHaYztzk) | [Come Alive / Pattern Recognition](https://open.spotify.com/album/7lK9KoceMP2r9D845Ti1gC) | 4:01 | 2022-07-01 | 2022-07-29 |
+| [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1) | 3:32 | 2023-09-01 |  |
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/7ydQgqQNPbKNoIJa7A2G08) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/73vidbzZG7bYIoCf9OfH6q) | 3:32 | 2023-08-25 | 2023-09-02 |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-05-20 | 2022-10-29 |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-19 |  |
@@ -119,7 +120,7 @@
 | [Fire With Fire](https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fire With Fire](https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB) | 3:08 | 2023-05-12 |  |
 | [Fix Your Problems](https://open.spotify.com/track/3dazx4jjnVEfwoHcSQocxj) | [Boye & Sigvardt](https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR) | [Fix Your Problems](https://open.spotify.com/album/7tl7WUBPATfLpjgxh73qLS) | 2:16 | 2021-05-07 | 2022-05-30 |
 | [Flame](https://open.spotify.com/track/5LMVpehrEBygZ7z3aIK9Lf) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk), [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Flame](https://open.spotify.com/album/0SEyeOfZyqZjVqreACEk6D) | 3:37 | 2022-05-27 | 2022-08-13 |
-| [Flame \- Edit](https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Flame](https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0) | 5:26 | 2021-09-10 |  |
+| [Flame \- Edit](https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Flame](https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0) | 5:26 | 2021-09-10 | 2023-09-06 |
 | [Flote](https://open.spotify.com/track/4KKReGbLbORi7NKmbYWjkF) | [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j), [Las Von](https://open.spotify.com/artist/0Eg9OF05MOdIS3zMmXA6Os) | [Perseus/Flote](https://open.spotify.com/album/1KKwBNK7JKdjHabstynGkN) | 4:24 | 2021-05-07 | 2022-04-21 |
 | [Focus Shift](https://open.spotify.com/track/3pIZW8KU4gdNj1zOR3yq8X) | [Dallic](https://open.spotify.com/artist/5tGZYcCVzejFFYAjEUjbgh) | [Focus Shift](https://open.spotify.com/album/5vSq28RCgpQ02Wq4vMfqeH) | 3:59 | 2021-05-07 | 2022-04-20 |
 | [Follow me \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/5c4xnWEDCzN3Y2RrjV7GKb) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Follow Me \(Remixes\)](https://open.spotify.com/album/6yFdfs6u4PRuuhpTrTelp8) | 4:23 | 2021-05-07 | 2022-04-20 |

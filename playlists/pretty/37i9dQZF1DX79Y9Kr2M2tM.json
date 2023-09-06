@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 846652,
+  "num_followers": 846726,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjI4MjY4MjI0OWUxNjY5ZmZjMTA4MTQwZjZjZmY2OGNhYTIwYTNj",
+  "snapshot_id": "MCw4NzY5MmVkYzRhMDI2ODQxM2UyNGNlMDlkYWJhZjkyMzhiZTIzMDc4",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Theatrics",
+        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
+      },
+      "artists": [
+        {
+          "name": "Puzzle Muteson",
+          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 190160,
       "name": "To Each His Own",
       "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Theatrics",
-        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
-      },
-      "artists": [
-        {
-          "name": "Puzzle Muteson",
-          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 212826,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 214933,
       "name": "Hunger Of The Pine - Jody Wisternoff & James Grant Remix",
       "url": "https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 212826,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Everyone's Moving Out East",
-        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Everyone's Moving Out East",
-      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/3o9uyMA85EvDzYvbvfoRh0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 278625,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3T3nxiYdQQxF0EjBtwDAtm"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Everyone's Moving Out East",
+        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Everyone's Moving Out East",
+      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
     },
     {
       "added_at": "2023-06-16 04:00:00",

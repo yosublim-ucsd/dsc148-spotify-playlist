@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  5gjm999
 
-661 songs - 1 day 13 hr 21 min
+662 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,8 @@
 | [Stuck in my dream](https://open.spotify.com/track/6FRQGRaRgCBMiV1od1ZJAG) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Noodles](https://open.spotify.com/album/1ExTXmIeooEWgFxQoiFCka) | 3:44 | 2022-07-07 | 2022-11-04 |
 | [suburban crush](https://open.spotify.com/track/5uY9J7hSvVqzTcEejI2hiw) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [suburban crush](https://open.spotify.com/album/6Krpx8rHDfDEPfzENdVOmb) | 4:48 | 2022-05-26 | 2022-07-29 |
 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [RAFA](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 | 2022-12-08 | 2023-03-18 |
-| [Summer Fever](https://open.spotify.com/track/7tgGio1o6YS1VF8M7QHLJf) | [kaaai](https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c) | [Summer Fever](https://open.spotify.com/album/30MpRmsftr9JY8es2azDI8) | 3:34 | 2023-07-06 |  |
+| [Summer Fever](https://open.spotify.com/track/3gG6DUfZmMvI2GMUyps7fi) | [kaaai](https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c) | [Summer Fever](https://open.spotify.com/album/4PQFB3qXGbLJicQk6JxUfV) | 3:34 | 2023-08-31 |  |
+| [Summer Fever](https://open.spotify.com/track/7tgGio1o6YS1VF8M7QHLJf) | [kaaai](https://open.spotify.com/artist/10Dni0SDMpzGLmB1O6hp5c) | [Summer Fever](https://open.spotify.com/album/30MpRmsftr9JY8es2azDI8) | 3:34 | 2023-07-06 | 2023-09-06 |
 | [Summer Ride \(With No Brakes\)](https://open.spotify.com/track/0v83kmxHU1U4JI5KNWINe5) | [Tofu Kingdom](https://open.spotify.com/artist/5suKRYsfhnViNwhLjWWgnz) | [Summer Ride \(With No Brakes\)](https://open.spotify.com/album/3qr3Cb7hEVDfRiWmufbTda) | 5:47 | 2022-05-26 | 2022-07-29 |
 | [Summer<333](https://open.spotify.com/track/5UOMNStwSpasj1ZhvxTRe9) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [Summer<>希慎廣場](https://open.spotify.com/album/3RgmZYT045EPCuuaYncUF0) | 5:22 | 2023-07-13 |  |
 | [Summertime](https://open.spotify.com/track/1VNpY4n21SSy45W5cr1KAY) | [lil orchid](https://open.spotify.com/artist/2bH3Mtz0p3fClnVvn3SRTQ), [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR), [Just Kane](https://open.spotify.com/artist/6zsc3yu20vjzTAStfOKCKs) | [Summertime](https://open.spotify.com/album/5HXqXJMgcn4f3cyTQ7wPOU) | 3:45 | 2022-06-16 | 2022-09-09 |

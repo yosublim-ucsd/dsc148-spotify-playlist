@@ -582,10 +582,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
+    },
+    {
+      "album": {
+        "name": "alife",
+        "url": "https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273492,
+      "name": "alife",
+      "url": "https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu"
     },
     {
       "album": {
@@ -1130,6 +1148,24 @@
       "duration_ms": 128699,
       "name": "Awaits Clouds",
       "url": "https://open.spotify.com/track/0h8vChP5RgPClAd0xvhZtI"
+    },
+    {
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209418,
+      "name": "Baby Please Don't Go",
+      "url": "https://open.spotify.com/track/0PsZchN7ldnGsUrj5UYV2T"
     },
     {
       "album": {
@@ -1916,7 +1952,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 158244,
       "name": "Careless and",
       "url": "https://open.spotify.com/track/03E8oq4lOXnrTJBOT7eMp6"
@@ -2180,7 +2216,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 145208,
       "name": "Chimes Close",
       "url": "https://open.spotify.com/track/0qvBEN2jmZpvXGORvFyFcm"
@@ -2398,6 +2434,28 @@
       "duration_ms": 326886,
       "name": "Come Back (Live in Chicago, 5/16/2006)",
       "url": "https://open.spotify.com/track/0JNsmnT6u3pzClYpSHVcyG"
+    },
+    {
+      "album": {
+        "name": "Come On Home",
+        "url": "https://open.spotify.com/album/4j3v3azOHHyP15NNqyVuwA"
+      },
+      "artists": [
+        {
+          "name": "Danni Baylor",
+          "url": "https://open.spotify.com/artist/0c5oNauHHagLlEYpVVqMCK"
+        },
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225107,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
     },
     {
       "album": {
@@ -2779,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/06HreThIz90gKClFT9sz0v"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262240,
+      "name": "DANSE MACABRE",
+      "url": "https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ"
+    },
+    {
+      "album": {
         "name": "Dark Ice",
         "url": "https://open.spotify.com/album/7j3eJsf5v6HCXg2qvgIv8w"
       },
@@ -2808,7 +2884,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 63826,
       "name": "Dark Star - Studio Recording",
       "url": "https://open.spotify.com/track/49jmzkWMf3oO4ZarI0KIcB"
@@ -2942,7 +3018,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 250408,
       "name": "Death's Forgotten Children",
       "url": "https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul"
@@ -3218,7 +3294,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 216813,
       "name": "Dump On Em",
       "url": "https://open.spotify.com/track/1C1OdOEh7TEbI2qKPOZnmh"
@@ -3248,7 +3324,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 216813,
       "name": "Dump On Em",
       "url": "https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz"
@@ -4600,7 +4676,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 247586,
       "name": "Halo - Urbandawn Remix",
       "url": "https://open.spotify.com/track/5pzttBQ4tMCLJifJSht3Yx"
@@ -5106,7 +5182,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
@@ -5132,7 +5208,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p"
@@ -6720,7 +6796,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 228586,
       "name": "Kings And Queens - Single Version",
       "url": "https://open.spotify.com/track/7bihN919MeyAUCKmq3Yxum"
@@ -7112,7 +7188,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
@@ -7260,7 +7336,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 341773,
       "name": "Livin' On The Edge - CHR Edit",
       "url": "https://open.spotify.com/track/4cLkmQ5xLuBxAJowQeY0xa"
@@ -7912,7 +7988,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 219500,
       "name": "Microcosmic Sunsets",
       "url": "https://open.spotify.com/track/7lJs36mqGUhrLUUhQSwDCp"
@@ -8044,7 +8120,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
@@ -8346,7 +8422,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 279452,
       "name": "My Curse Is My Redemption - Summer 80's Remix",
       "url": "https://open.spotify.com/track/53Y1vozzPxq8CBjIqQPtbI"
@@ -10392,7 +10468,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 210293,
       "name": "Rewind Forward",
       "url": "https://open.spotify.com/track/2FmeJwCTWPgqCHDUnXWUXX"
@@ -11418,7 +11494,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 296360,
       "name": "Someone Somewhere In Summertime - Live From Paisley Abbey",
       "url": "https://open.spotify.com/track/2nqt3SX6n7CV425P2cmd9i"
@@ -12384,7 +12460,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 162000,
       "name": "THE GIRLS - BLACKPINK THE GAME OST",
       "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
@@ -13152,7 +13228,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 439029,
       "name": "Time",
       "url": "https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY"
@@ -13532,7 +13608,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 227786,
       "name": "Tronic",
       "url": "https://open.spotify.com/track/05z6Fg2mmRbxRb58zMBPvp"
@@ -14346,7 +14422,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 216720,
       "name": "Welcome To The Show",
       "url": "https://open.spotify.com/track/4lA69PwuNFL08LpBpcDlCq"

@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 101299,
+  "num_followers": 101324,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOThhOTUxZTdjMGFjYTVlODBiYzM2NzY2NzVhZjc4MDliZWE1Yjkz",
+  "snapshot_id": "MCxjZmNjM2YzNmU3ZjgxZmE0YWM5M2Q4OGI5ODQ0ZjllNzdmNTZiNTY1",
   "tracks": [
     {
       "added_at": "2023-08-31 22:50:20",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "El Cintur\u00f3n Gris (En Vivo)",
-        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
-      },
-      "artists": [
-        {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "El Cintur\u00f3n Gris - En Vivo",
-      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
         "name": "Vivo Ac\u00e1",
         "url": "https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 396626,
       "name": "Sisters - En Vivo",
       "url": "https://open.spotify.com/track/2aYsvqd1ZVh535accPDSSA"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "El Cintur\u00f3n Gris (En Vivo)",
+        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 237037,
+      "name": "El Cintur\u00f3n Gris - En Vivo",
+      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 323695,
-      "name": "Pistolas",
-      "url": "https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA"
+      "duration_ms": 247679,
+      "name": "Desde Lejos No Se Ve",
+      "url": "https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -784,25 +784,9 @@
           "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 247679,
-      "name": "Desde Lejos No Se Ve",
-      "url": "https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Ven\u00ed Raquel - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV"
+      "duration_ms": 323695,
+      "name": "Pistolas",
+      "url": "https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -835,6 +819,22 @@
       "duration_ms": 186456,
       "name": "Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 186598,
+      "name": "Ven\u00ed Raquel - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 261838,
-      "name": "Verano del 92",
-      "url": "https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK"
+      "duration_ms": 291139,
+      "name": "Banda de Garage",
+      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
-        "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
+        "name": "En el Teatro Opera - En Vivo",
+        "url": "https://open.spotify.com/album/3GvXr0sGR1aTLARW8BMHpR"
       },
       "artists": [
         {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
         }
       ],
-      "duration_ms": 222226,
-      "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
-      "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
+      "duration_ms": 334258,
+      "name": "Mujer Amante - En Vivo",
+      "url": "https://open.spotify.com/track/4GEwKXEgUAWy7nMbjfP6qJ"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1172,25 +1172,25 @@
           "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 291139,
-      "name": "Banda de Garage",
-      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
+      "duration_ms": 261838,
+      "name": "Verano del 92",
+      "url": "https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK"
     },
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "En el Teatro Opera - En Vivo",
-        "url": "https://open.spotify.com/album/3GvXr0sGR1aTLARW8BMHpR"
+        "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
+        "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 334258,
-      "name": "Mujer Amante - En Vivo",
-      "url": "https://open.spotify.com/track/4GEwKXEgUAWy7nMbjfP6qJ"
+      "duration_ms": 222226,
+      "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
+      "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 288560,
+      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 288560,
-      "name": "Espadas y Serpientes - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 431580,
+      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
         "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
         "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 200764,
       "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
       "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
-        "name": "En Las Ventas 7 septiembre 1993 (En directo)",
-        "url": "https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 342645,
-      "name": "Sin documentos - En directo, Las Ventas 7 septiembre 1993",
-      "url": "https://open.spotify.com/track/0EjnyCHJN8TeW4FYocAaRc"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1443,66 +1443,18 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "La Fuente (Vivo en Obras 11/06/2022)",
-        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
+        "name": "En Las Ventas 7 septiembre 1993 (En directo)",
+        "url": "https://open.spotify.com/album/30GKlcBPFyyhVjAxH6TC5Q"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 251434,
-      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
-      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
-        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
-        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 431580,
-      "name": "Hombre al Agua (Sinf\u00f3nico en Vivo)",
-      "url": "https://open.spotify.com/track/5wi2cktKirlyirlUTsTHCg"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
-        "name": "En Directo",
-        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
-      "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
+      "duration_ms": 342645,
+      "name": "Sin documentos - En directo, Las Ventas 7 septiembre 1993",
+      "url": "https://open.spotify.com/track/0EjnyCHJN8TeW4FYocAaRc"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1523,6 +1475,54 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "En Directo",
+        "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 381826,
+      "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
+      "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "La Fuente (Vivo en Obras 11/06/2022)",
+        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 251434,
+      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
+      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "Cactus (En Vivo en Monterrey)",
+        "url": "https://open.spotify.com/album/1i2P3wRgVKHdHfnDDpxlFX"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Cactus - En Vivo en Monterrey",
+      "url": "https://open.spotify.com/track/7AaxZgnm9gk3yfjVMp1nqe"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "En el Ojo del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
         "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
         "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Cactus (En Vivo en Monterrey)",
-        "url": "https://open.spotify.com/album/1i2P3wRgVKHdHfnDDpxlFX"
+        "name": "En el Ojo del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Cactus - En Vivo en Monterrey",
-      "url": "https://open.spotify.com/track/7AaxZgnm9gk3yfjVMp1nqe"
+      "duration_ms": 194160,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t"
     },
     {
       "added_at": "2023-08-31 22:50:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: White Shoes & The Couples Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,723 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,746 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 99 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
 | 100 | [Before Circus Over](https://open.spotify.com/track/6kXrYku6uidvZil7Qz2Oik) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/77KIsJT9Lc5upPsvvySDZx) | 4:56 |
 
-Snapshot ID: `MCwwMDFjMzczMTcxZDJkNjkyN2Y1MzVlZWE0NjAxYjcwYWQ2Y2I1MGFh`
+Snapshot ID: `MCw5NjUxZDE5YTk4M2M1ZTI2NWIyZTBkNjcxMWI1ODhhMDE1YmIwZTEz`

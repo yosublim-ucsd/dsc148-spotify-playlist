@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 159072,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4"
@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208280,
+      "name": "Freak Me Now",
+      "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
+    },
+    {
+      "album": {
         "name": "Freedom (Never Let You Go)",
         "url": "https://open.spotify.com/album/0ds4tb0fPCO9cCR58qpuEQ"
       },
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
@@ -3338,7 +3356,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 154702,
       "name": "Mind Talking",
       "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
@@ -4129,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
+    },
+    {
+      "album": {
         "name": "People Everywhere (Can You Feel It?)",
         "url": "https://open.spotify.com/album/58pumHtvUZ4AacGC56qzL8"
       },
@@ -4234,7 +4270,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 164912,
       "name": "Pleasure Love",
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
@@ -4956,6 +4992,42 @@
       "duration_ms": 195507,
       "name": "Soul Full (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ"
+    },
+    {
+      "album": {
+        "name": "Starlight Delight",
+        "url": "https://open.spotify.com/album/0SNFL0dNsmhBdzaWn1ftlp"
+      },
+      "artists": [
+        {
+          "name": "NOCUI",
+          "url": "https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327926,
+      "name": "Starlight Delight",
+      "url": "https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR"
+    },
+    {
+      "album": {
+        "name": "strangers",
+        "url": "https://open.spotify.com/album/1bvEpPcV1whK3Kw94uydvJ"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174776,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/5uwfkHrHW6smpBtHoJEmeB"
     },
     {
       "album": {

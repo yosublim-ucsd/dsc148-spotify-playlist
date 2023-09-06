@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32464,
+  "num_followers": 32489,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTI5ZDVmMTEzMTBjNjYxYzllZTU1NzQxZDYxMzdkZDcwZGU4YThh",
+  "snapshot_id": "MCwxNDE1ODU3MTFlYjg1OGE1NzU4YTgxOTQ3MDAyOWQzYjkyNzIyZTdh",
   "tracks": [
     {
       "added_at": "2023-09-04 13:49:57",
@@ -791,30 +791,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "Faixa Preta",
-        "url": "https://open.spotify.com/album/0XxLomO3lIEIFrEe0lTVtH"
-      },
-      "artists": [
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "Martelin",
-          "url": "https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr"
-        },
-        {
-          "name": "Puterrier",
-          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Faixa Preta",
-      "url": "https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "Favela Drill",
         "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 156083,
       "name": "Chutei o Balde",
       "url": "https://open.spotify.com/track/10bwZodG6Nd4WKsoKJo3Tg"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "Faixa Preta",
+        "url": "https://open.spotify.com/album/0XxLomO3lIEIFrEe0lTVtH"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Martelin",
+          "url": "https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr"
+        },
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Faixa Preta",
+      "url": "https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -923,30 +923,6 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
-    },
-    {
-      "added_at": "2023-09-04 13:49:57",
-      "album": {
         "name": "Jhony Convida #7 - Preto$",
         "url": "https://open.spotify.com/album/0srN7DSRvf01APXmDyaZ0q"
       },
@@ -987,26 +963,26 @@
     {
       "added_at": "2023-09-04 13:49:57",
       "album": {
-        "name": "NAG\u00d4",
-        "url": "https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ"
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
       },
       "artists": [
         {
-          "name": "Aldeia Records",
-          "url": "https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM"
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
         },
         {
-          "name": "Mikezin",
-          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
         },
         {
-          "name": "Bxrgez",
-          "url": "https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD"
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
         }
       ],
-      "duration_ms": 207022,
-      "name": "NAG\u00d4",
-      "url": "https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw"
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2023-09-04 13:49:57",
@@ -1031,6 +1007,30 @@
       "duration_ms": 162352,
       "name": "Sobe O Morro",
       "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
+    },
+    {
+      "added_at": "2023-09-04 13:49:57",
+      "album": {
+        "name": "NAG\u00d4",
+        "url": "https://open.spotify.com/album/3wSJQ19HeumQwpmWiiJ8kJ"
+      },
+      "artists": [
+        {
+          "name": "Aldeia Records",
+          "url": "https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM"
+        },
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Bxrgez",
+          "url": "https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD"
+        }
+      ],
+      "duration_ms": 207022,
+      "name": "NAG\u00d4",
+      "url": "https://open.spotify.com/track/5FIF8T1ns1YEQVuq6rjGMw"
     },
     {
       "added_at": "2023-09-04 13:49:57",

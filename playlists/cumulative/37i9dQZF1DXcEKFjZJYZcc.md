@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-264 songs - 10 hr 46 min
+266 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Calas de Roche](https://open.spotify.com/track/4PdjQqQIf7S5MYE044XugT) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Calas de Roche](https://open.spotify.com/album/3sd2f1RnqLNL39UAU03a3h) | 2:26 | 2021-12-14 |  |
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-14 | 2022-04-29 |
 | [Cascading Light](https://open.spotify.com/track/6XntuBpji3AMUM2Y5Dh3vx) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Cascading Light](https://open.spotify.com/album/6qg5QHrWzd4WTiKPfgLwAv) | 2:43 | 2023-01-27 |  |
+| [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-05 |  |
 | [Charlie's Dream](https://open.spotify.com/track/71QtyOzyAQf1WNfaW39g8u) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Charlie's Dream](https://open.spotify.com/album/3lz45nxfVNnTaqpZHYkDv6) | 2:13 | 2022-07-20 |  |
 | [Childhood Friends](https://open.spotify.com/track/5ss7ZRNsM5geuOqEb7ntkL) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [Childhood Friends](https://open.spotify.com/album/7dr25bsJvu47HJhW8mIZ19) | 2:07 | 2023-01-20 |  |
 | [Comme un tableau](https://open.spotify.com/track/6ee0ytkYNy49PYkvmcJn4c) | [Jean Willneuve](https://open.spotify.com/artist/6DnT4U6g5TExpqgvumr78V) | [Comme un tableau](https://open.spotify.com/album/3LRuBGPRltyrUX4aO1yqjp) | 2:04 | 2021-12-14 |  |
@@ -265,6 +266,7 @@
 | [Watching Juliette](https://open.spotify.com/track/0dlXqlUzzQ3yVswQb6Lpf9) | [Søme](https://open.spotify.com/artist/78vnOAl0eEZQpMzdi3zCwZ) | [Watching Juliette](https://open.spotify.com/album/25NJ7MdnSdCXylOXC5aKyU) | 3:36 | 2022-10-26 |  |
 | [Water Lilies](https://open.spotify.com/track/3Eq0VAdDj1j9xyQ5EKU85N) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Water Lilies](https://open.spotify.com/album/5NebT6I9YPVwMy0aWfgtGm) | 2:00 | 2022-10-26 |  |
 | [When Twilight Ends](https://open.spotify.com/track/58p2epzTksRN9FMFjuPP41) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [When Twilight Ends](https://open.spotify.com/album/7F8Mwos3myjAgQnvieeSF8) | 1:34 | 2023-04-05 |  |
+| [Whimsical](https://open.spotify.com/track/6BdXzXPrwNy1Gjr1F1JQX0) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Whimsical](https://open.spotify.com/album/3mtWkCVyqHW7FkeCO22zOq) | 2:12 | 2023-09-05 |  |
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-01-09 |  |
 | [With Ease](https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [With Ease](https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c) | 2:39 | 2023-04-18 |  |
 | [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 | 2023-05-09 |  |

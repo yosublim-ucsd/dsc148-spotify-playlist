@@ -9286,7 +9286,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 125333,
       "name": "beat71exp",
       "url": "https://open.spotify.com/track/2RbRR3tr68MkJNE2Fyz6Kt"
@@ -13844,7 +13844,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Bretagne",
       "url": "https://open.spotify.com/track/0WihknAABpFwqnLU5Fowzr"
@@ -16822,7 +16822,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 104000,
       "name": "Casual Games",
       "url": "https://open.spotify.com/track/1hF99tJ0UBNCX6lu54sO8R"
@@ -21232,7 +21232,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 120145,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/05OLav4TT1ys02hEq6UKLW"
@@ -30664,7 +30664,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 118400,
       "name": "Endless Thoughts",
       "url": "https://open.spotify.com/track/1EeD00h1nPnoX2iaEy8OzE"
@@ -33548,7 +33548,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 136418,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/278cB4s41B6DbrRENwAITC"
@@ -53966,7 +53966,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 213750,
       "name": "lantern flies",
       "url": "https://open.spotify.com/track/6MsBZrAKgNLUJEYYOV6WiQ"
@@ -54680,7 +54680,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 127339,
       "name": "Lauderdale",
       "url": "https://open.spotify.com/track/1A3YO8HxcF75PO3XQdkvH0"
@@ -65754,7 +65754,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 117162,
       "name": "Morning Rays",
       "url": "https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR"
@@ -83080,7 +83080,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 123000,
       "name": "Road to the Sea",
       "url": "https://open.spotify.com/track/76mgcQvBTBERKmPLpE2E3a"
@@ -89830,7 +89830,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Smooth Sail",
       "url": "https://open.spotify.com/track/26aN8DTvBgnKKF9S2qaYNd"
@@ -90228,7 +90228,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 107481,
       "name": "SNOWMAN",
       "url": "https://open.spotify.com/track/3zoUS1Yqa5q5PHUzkPzp6P"
@@ -100796,7 +100796,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 165226,
       "name": "The Pumpkin Salesman",
       "url": "https://open.spotify.com/track/4l4v5QIeWOdStZnFTgrf3W"
@@ -104462,7 +104462,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 104507,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6VlQL2EVYGDTIgsPmesGFS"
@@ -106818,6 +106818,24 @@
       "duration_ms": 122790,
       "name": "vegan iced coffee",
       "url": "https://open.spotify.com/track/1LH3wWro9xmySR8tvrRWxz"
+    },
+    {
+      "album": {
+        "name": "The Green Sessions, Vol. 01",
+        "url": "https://open.spotify.com/album/0yjjQrwnOspvD5jIh7VngI"
+      },
+      "artists": [
+        {
+          "name": "Tony Crisp",
+          "url": "https://open.spotify.com/artist/46Ii1pnW1Oi95UtSa0CdWc"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Vegetarian Frozen Pizza",
+      "url": "https://open.spotify.com/track/2tuZMExoYrKhUam1qaEHZF"
     },
     {
       "album": {
@@ -112310,7 +112328,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 140571,
       "name": "Wineyard bonanza",
       "url": "https://open.spotify.com/track/2eepnu15fsjc0UBgnlSXOA"

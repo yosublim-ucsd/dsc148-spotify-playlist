@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Ashin' Blunts (feat. Arden Jones)",
+        "url": "https://open.spotify.com/album/2Izbj4RptmAWte7yXLGv5X"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Ashin' Blunts (feat. Arden Jones)",
+      "url": "https://open.spotify.com/track/4zL03IAgp23CoVpXZ1PyBj"
+    },
+    {
+      "album": {
         "name": "ATTENTION (feat. PmBata & Skizzy Mars)",
         "url": "https://open.spotify.com/album/4F3BB0GXrYIMOwCDF1vfgn"
       },
@@ -752,7 +774,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-06",
       "duration_ms": 189040,
       "name": "ball don't lie",
       "url": "https://open.spotify.com/track/4Afm4zpTJIR8KgTTIC3gTz"
@@ -3040,6 +3062,28 @@
       "duration_ms": 181727,
       "name": "Fcked Up Teeth",
       "url": "https://open.spotify.com/track/3TpGGphdlSMOW7XIjq4hEG"
+    },
+    {
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7Fhbj777FAJ4vtLhMElkRr"
+      },
+      "artists": [
+        {
+          "name": "Gaff",
+          "url": "https://open.spotify.com/artist/5CoVuaRDjDMud2OJtPLnfZ"
+        },
+        {
+          "name": "Alex Gough",
+          "url": "https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195868,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/26XR5JKg2UHYDMLUAmosEm"
     },
     {
       "album": {
@@ -10526,6 +10570,24 @@
       "duration_ms": 125714,
       "name": "way back 2 you",
       "url": "https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv"
+    },
+    {
+      "album": {
+        "name": "we die once",
+        "url": "https://open.spotify.com/album/1Dys4No4EglJK3GfLdyM5o"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "we die once",
+      "url": "https://open.spotify.com/track/58PNvM25Mrf60NlFReyFmv"
     },
     {
       "album": {

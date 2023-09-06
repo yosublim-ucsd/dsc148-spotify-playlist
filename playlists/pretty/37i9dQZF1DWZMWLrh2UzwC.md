@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,115 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,117 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 38 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
 | 39 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 40 | [Real \(feat\. Pamungkas\)](https://open.spotify.com/track/0ASjlSVp2dyweESVaUR1Ss) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Nightvision \(Love Is God 8/16 Edition\)](https://open.spotify.com/album/25UbcDZ9swZeBoG7enakIj) | 4:42 |
-| 41 | [Loco](https://open.spotify.com/track/7I6wiN4iz0ztsYphZ40C4Q) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn) | [Loco](https://open.spotify.com/album/28Gr8JaXJ1wRUMqyM00O7r) | 2:39 |
+| 41 | [Loco](https://open.spotify.com/track/7I6wiN4iz0ztsYphZ40C4Q) | [Cinta Laura Kiehl](https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Loco](https://open.spotify.com/album/28Gr8JaXJ1wRUMqyM00O7r) | 2:39 |
 | 42 | [Anxiety](https://open.spotify.com/track/3VY294BowMa8tWNu1MrVg9) | [Naomi G](https://open.spotify.com/artist/26QQ1WkFkynFLtkcTULKLP) | [Anxiety](https://open.spotify.com/album/3hPck6L3LHzRBeLZuHZx1K) | 2:27 |
 | 43 | [VIRTUAL LOVE](https://open.spotify.com/track/0gpW3xS2XXGGR74FPi7lI5) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [VIRTUAL LOVE](https://open.spotify.com/album/1vkoHzonGuzIPr8gMwbJQ2) | 2:44 |
 | 44 | [Undecided](https://open.spotify.com/track/60qSc5wM9vKB1oIktWsUAA) | [KEAT](https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg) | [Undecided](https://open.spotify.com/album/0aknYPltHqav39QyNPDX6q) | 3:12 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 80 | [Mirages Of You](https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Mirages Of You](https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m) | 3:16 |
 | 81 | [For What It's Worth](https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [For What It's Worth](https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121) | 4:10 |
 
-Snapshot ID: `MCw3MGQ5ZjM1ZDFkOWFmMDI3YzE3NDI4YmJlMzBiOGU2YjEwYTk3N2Yz`
+Snapshot ID: `MCw2ZTdjNzhkZDViMjY2YzQxNjUyYTQwY2RlNmY4OGQ3ZjE0ZTNlNmI5`

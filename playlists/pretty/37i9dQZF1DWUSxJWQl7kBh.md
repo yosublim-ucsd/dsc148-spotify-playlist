@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Cálmese, pa, acá están los corridos más placosos del 2022\. Luis R Conriquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,403 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,480 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 49 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 |
 | 50 | [Los Mitotes \(En Vivo\)](https://open.spotify.com/track/2gEAaPn7Hl1qlfn7NIkgOX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/6V7WLCcWYa1BFiNseM6GQY) | 3:09 |
 
-Snapshot ID: `MCw3YTI2ZWMwNDM2NmJkNmY0YjE0Y2U2NjZjYTE0YjA1OWUwNDU5ZDg4`
+Snapshot ID: `MCxkNjQ0MmU0ZGU1YzRkYmEyZmY3MGFmOTI3NmY5YTZhYzNjYzk3N2M4`

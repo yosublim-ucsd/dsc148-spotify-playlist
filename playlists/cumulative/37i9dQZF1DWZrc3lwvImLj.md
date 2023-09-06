@@ -4,7 +4,7 @@
 
 > Beautifully sad and moody piano music.
 
-333 songs - 14 hr 40 min
+339 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [La rue de montmartre](https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [La rue de montmartre](https://open.spotify.com/album/3z86dneZ2m3ZtoUNQBOtCB) | 2:03 | 2023-01-19 |  |
 | [La vérité](https://open.spotify.com/track/3hqCeRRTNreQ9CFtpk19JR) | [Mano Vecina](https://open.spotify.com/artist/1II3YMefTHllayrOSkbwRf) | [La vérité](https://open.spotify.com/album/6z9YiFp74ziLOCjGQDnEe5) | 2:27 | 2021-12-14 |  |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-01-19 |  |
+| [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-09-05 |  |
 | [Largo "Poetique"](https://open.spotify.com/track/4sT4K3PhPyn44UuaMgMdHR) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Largo "Poetique"](https://open.spotify.com/album/7AIbY9qDsBHufKxI02EI1V) | 3:09 | 2022-12-21 |  |
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2021-12-14 |  |
 | [Last Dance](https://open.spotify.com/track/3eCueoiyNs7xUYqX05IEoy) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 3:09 | 2022-04-14 |  |
@@ -208,6 +209,8 @@
 | [Only If You Stay](https://open.spotify.com/track/5qTDBdXQbOMPXM3TFSBjbB) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Light From Your Eyes](https://open.spotify.com/album/0JgFVac8yutlbFSVp6aBrz) | 2:34 | 2023-05-09 |  |
 | [Only If You Stay](https://open.spotify.com/track/6Ghm4W4Xu3vFCQgvBKcpsn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Only If You Stay](https://open.spotify.com/album/4PGm2k9OdEo6K55PkEG88a) | 2:34 | 2023-02-14 | 2023-03-10 |
 | [Only If You Stay](https://open.spotify.com/track/7p6Fxa9ohA0lXoyUbHGNwR) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Here By The Sea](https://open.spotify.com/album/0s5eFPtzbgMkOjq1DSqKgZ) | 2:34 | 2023-03-07 | 2023-03-22 |
+| [Opposite Direction](https://open.spotify.com/track/7zTzbfW7X0K14PJvXRAoez) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Opposite Direction](https://open.spotify.com/album/0abhpvivOsubnPSDujglNS) | 2:28 | 2023-09-05 |  |
+| [Opus 9](https://open.spotify.com/track/4OVIVWM4GB2OwmlEsZ4D3U) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 9](https://open.spotify.com/album/4AqJ6Q47iOfOLyHRyQvTQq) | 2:37 | 2023-09-05 |  |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-02-16 |  |
 | [Orpheus](https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 3:27 | 2022-12-21 |  |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2021-12-14 |  |
@@ -233,6 +236,7 @@
 | [Reverie](https://open.spotify.com/track/2qmYLGvjNm4PlS1p786Xfr) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/69qZp1tfgNgDPU0M5PtO37) | 4:16 | 2022-03-30 |  |
 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 | 2021-12-14 | 2022-06-07 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2021-12-14 | 2022-05-05 |
+| [Roku](https://open.spotify.com/track/128pMqpJNmJjl3T82dsC7U) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Asa](https://open.spotify.com/album/7e91Gkl0P2cW2NcofxcVvX) | 2:21 | 2023-09-05 |  |
 | [Ruhevoll](https://open.spotify.com/track/3a29LVdJdkqOBNDFnbbqJN) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ruhevoll](https://open.spotify.com/album/3KxGRGWUmnauKY3wXDGqtV) | 2:19 | 2022-05-20 |  |
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2021-12-14 | 2022-04-15 |
 | [Salamander](https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Salamander](https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn) | 3:05 | 2022-08-03 | 2023-03-08 |
@@ -242,6 +246,7 @@
 | [Secret Garden](https://open.spotify.com/track/3yYGXW4XlXXqSRYNIC2YNH) | [Anna Kúsmierska](https://open.spotify.com/artist/7KSL6D4AfN958LTmv0jyXd) | [Secret Garden](https://open.spotify.com/album/36tCR1GpEOq3oftaSTyIKx) | 2:15 | 2023-02-28 |  |
 | [Seichtes Wasser](https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Madeira](https://open.spotify.com/album/0CPuRuX14OrSlgv2eYdjvB) | 2:18 | 2021-12-14 | 2022-06-07 |
 | [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 | 2022-03-17 |  |
+| [Serendipitous Moments](https://open.spotify.com/track/4U5cOQybpKtE5UU3uanEPi) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Serendipitous Moments](https://open.spotify.com/album/5gPa0qiVCOINiP66aBGGie) | 2:55 | 2023-09-05 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-14 | 2023-05-10 |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2021-12-14 |  |
 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 | 2022-08-03 |  |
@@ -256,6 +261,7 @@
 | [Solêr](https://open.spotify.com/track/3SsXxuvEu20CnDg7LUNFDY) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:35 | 2021-12-14 |  |
 | [Somewhere](https://open.spotify.com/track/6WZ0FZFfh0kwNYOwaxlAr7) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Somewhere](https://open.spotify.com/album/6wP1XjtfhZjzvFiDTJMfgV) | 3:02 | 2021-12-14 | 2023-05-10 |
 | [Sommersturm \- Solo Piano](https://open.spotify.com/track/4lVmCosrwdhCJPhXyqs0do) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Sommersturm](https://open.spotify.com/album/5MoRUWekh0EO4FOurmyDCE) | 2:39 | 2021-12-14 | 2022-04-23 |
+| [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-05 |  |
 | [Soul Lotion](https://open.spotify.com/track/3Wybg2sLkq2ZrA364KfQfz) | [Cadet de l'espace](https://open.spotify.com/artist/3kbDzg7IazEzF0DSWhHK5Z) | [Soul Lotion](https://open.spotify.com/album/1LnLzyOQPr9EmlWm2hsumv) | 3:30 | 2021-12-14 | 2022-05-05 |
 | [South Road](https://open.spotify.com/track/6IHwCVzlZl4wRzHO7iag9s) | [Anne Dubbot](https://open.spotify.com/artist/2Du8SzCwTpfWaUvU5d4Gdc) | [South Road](https://open.spotify.com/album/6GmIlyvmNLiAq0IeE2tinY) | 2:26 | 2021-12-14 | 2022-02-17 |
 | [Squares of life](https://open.spotify.com/track/2C6BCDdtYjbbbAucqaw9NG) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Squares of Life](https://open.spotify.com/album/2a4Xs7dCAl7IyslTWzVPqW) | 2:45 | 2021-12-14 | 2022-05-05 |
