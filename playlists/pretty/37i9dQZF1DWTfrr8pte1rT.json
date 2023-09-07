@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 315582,
+  "num_followers": 315667,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjM2MzMwN2VjNjU5ODdiOWEwODBkNDcyZTI0YThlYzI5YWQ2NDdh",
+  "snapshot_id": "MCxjNWQ3NDc2ODc5M2Q4ZGE1OTNhNTcyNTViYmEwZjc4M2QwYjI3NGQy",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Seize the Power",
-      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Skull n Bones",
         "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 145116,
       "name": "Skull n Bones",
       "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Seize the Power",
+      "url": "https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -875,8 +875,8 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Timebomb (feat. MOD SUN)",
-        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
+        "name": "This Will Be My Year",
+        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
       },
       "artists": [
         {
@@ -884,13 +884,13 @@
           "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
         },
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 182040,
-      "name": "Timebomb (feat. MOD SUN)",
-      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+      "duration_ms": 180618,
+      "name": "This Will Be My Year",
+      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -991,8 +991,8 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "This Will Be My Year",
-        "url": "https://open.spotify.com/album/4a2QqVjgLQeYJCbkZT5UjH"
+        "name": "Timebomb (feat. MOD SUN)",
+        "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
       "artists": [
         {
@@ -1000,13 +1000,13 @@
           "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
         },
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 180618,
-      "name": "This Will Be My Year",
-      "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
+      "duration_ms": 182040,
+      "name": "Timebomb (feat. MOD SUN)",
+      "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "LOVE ME",
+        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
+      },
+      "artists": [
+        {
+          "name": "KLOUD",
+          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
+        },
+        {
+          "name": "Gabriel Paris",
+          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "LOVE ME",
-        "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
-      },
-      "artists": [
-        {
-          "name": "KLOUD",
-          "url": "https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu"
-        },
-        {
-          "name": "Gabriel Paris",
-          "url": "https://open.spotify.com/artist/5mC0vGi5lOCqYs53SOojs4"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "LOVE ME",
-      "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        },
-        {
-          "name": "Vanthe",
-          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "DANCEFLOOR",
+        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
+      },
+      "artists": [
+        {
+          "name": "NOISY",
+          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "DANCEFLOOR",
+      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/5oSJfTqlsA91P6bZoc6SPV"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 178909,
       "name": "Core (That's Who We Are)",
       "url": "https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "DANCEFLOOR",
-        "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
-      },
-      "artists": [
-        {
-          "name": "NOISY",
-          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "DANCEFLOOR",
-      "url": "https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Playing Chess",
-      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Tear You Apart (feat. Aaron Gillespie)",
         "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 143180,
       "name": "Tear You Apart (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 222400,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2059,6 +2059,46 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD"
+      },
+      "artists": [
+        {
+          "name": "Sextile",
+          "url": "https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56"
+        },
+        {
+          "name": "Izzy Glaudini",
+          "url": "https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "The Dead March",
+        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 162356,
+      "name": "The Dead March",
+      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
       },
@@ -2075,6 +2115,26 @@
       "duration_ms": 199448,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
+        },
+        {
+          "name": "Yung Honi",
+          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2103,26 +2163,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "The Dead March",
-        "url": "https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 162356,
-      "name": "The Dead March",
-      "url": "https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "you\u2019ve changed, i\u2019ve changed",
         "url": "https://open.spotify.com/album/0yQkeAjjUjK8RXDgnzLkOu"
       },
@@ -2139,26 +2179,6 @@
       "duration_ms": 311625,
       "name": "you\u2019ve changed, i\u2019ve changed",
       "url": "https://open.spotify.com/track/5GQpKsz2Gn2PwbPIwHlRqv"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD"
-      },
-      "artists": [
-        {
-          "name": "Sextile",
-          "url": "https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56"
-        },
-        {
-          "name": "Izzy Glaudini",
-          "url": "https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2211,26 +2231,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2IyRXg2vo1lGbAEHvPo4H8"
-      },
-      "artists": [
-        {
-          "name": "LILO",
-          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
-        },
-        {
-          "name": "Yung Honi",
-          "url": "https://open.spotify.com/artist/3YAIpWMMHRspIoz6yVJOeq"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
-      },
-      "artists": [
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "Becko",
-          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Sleep (with Calcium)",
         "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
       },
@@ -2311,6 +2291,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Superstars",
         "url": "https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ"
       },
@@ -2325,7 +2325,7 @@
         }
       ],
       "duration_ms": 269461,
-      "name": "Blue Monday",
+      "name": "Blue Monday - Synth Riders Version",
       "url": "https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX"
     },
     {
@@ -2487,22 +2487,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Walk On Water (with Danni Carra)",
-        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
+        "name": "Never Let You Down (with TELLE)",
+        "url": "https://open.spotify.com/album/1Fld0ymwHFvzS7ES7YdKsd"
       },
       "artists": [
         {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+          "name": "TELLE",
+          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
         }
       ],
-      "duration_ms": 182844,
-      "name": "Walk On Water (with Danni Carra)",
-      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
+      "duration_ms": 166800,
+      "name": "Never Let You Down (with TELLE)",
+      "url": "https://open.spotify.com/track/7l7UeB9sG7lMtikz0DUkpS"
     }
   ],
   "unique_name": "Rocktronic",

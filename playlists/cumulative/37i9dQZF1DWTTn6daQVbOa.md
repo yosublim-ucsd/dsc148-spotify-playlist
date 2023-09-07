@@ -2,7 +2,7 @@
 
 ### [Soft 70s](https://open.spotify.com/playlist/37i9dQZF1DWTTn6daQVbOa)
 
-> Mellow songs from the 1970s\. Cover: Tom Waits.
+> Mellow songs from the 1970s\. Cover: Elton John
 
 289 songs - 18 hr 34 min
 

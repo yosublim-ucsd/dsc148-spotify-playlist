@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,291 likes - 163 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,833 likes - 163 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 | 7 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 |
 | 8 | [How to disappear](https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:48 |
 | 9 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 |
-| 10 | [Getting Even With Steven \(from the Amazon Original \- The Summer I Turned Pretty\)](https://open.spotify.com/track/3Nqqsq11jozi0KjffQYcqV) | [Milo](https://open.spotify.com/artist/0J6PhnVD21GSFoJ9HoadLH) | [Getting Even With Steven \(from the Amazon Original \- The Summer I Turned Pretty\)](https://open.spotify.com/album/3gcpOWvNXcEUydUs8jd07a) | 1:19 |
+| 10 | [Getting Even With Steven \(from the Amazon Original \- The Summer I Turned Pretty\)](https://open.spotify.com/track/3Nqqsq11jozi0KjffQYcqV) | [Milo](https://open.spotify.com/artist/5IoqcPMBVbmgT2u6oLzqcm) | [Getting Even With Steven \(from the Amazon Original \- The Summer I Turned Pretty\)](https://open.spotify.com/album/3gcpOWvNXcEUydUs8jd07a) | 1:19 |
 | 11 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 |
 | 12 | [XO](https://open.spotify.com/track/40xhyfAPDoMtv494MfPevP) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:35 |
 | 13 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 | 162 | [Funeral](https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:52 |
 | 163 | [Laurel and Susannah Hug](https://open.spotify.com/track/7I8LpR7hOSY1i7ximwIKS5) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [The Summer I Turned Pretty: Season 1 \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/5uAzefaTa85YBHL6N5u2O1) | 1:13 |
 
-Snapshot ID: `MCw1YjA4MDQ4NWY3NjA0ODNkZTNmMjMzMDg2NGQ0MDhmNWU1ZDM0Nzlm`
+Snapshot ID: `MCxiMTdmMjA3OWYyNGExMGZlM2ZlZmY4MTNkNDA3OTZkMWUyMzU1NjIy`

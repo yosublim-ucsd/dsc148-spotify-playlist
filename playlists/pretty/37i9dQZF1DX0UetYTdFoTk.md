@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: Elissa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,654 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,736 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 34 | [Weilak](https://open.spotify.com/track/1rnAqjXXzirQV1UxIDFI7K) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:29 |
 | 35 | [Bahebak](https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Bahebak](https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW) | 3:26 |
 | 36 | [Nami Aa Sadri](https://open.spotify.com/track/5f7CeTgKBeZiknrIGGKYIP) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Toul Al Yom](https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu) | 3:15 |
-| 37 | [Fi Hada](https://open.spotify.com/track/0DEZsTQcU0K8H1fQbT5tyR) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Fi Hada](https://open.spotify.com/album/1t1Czgx338qrdq0lU8P6An) | 3:39 |
-| 38 | [Maliket Gamal El Rouh](https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Maliket Gamal El Rouh](https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR) | 3:47 |
+| 37 | [Maliket Gamal El Rouh](https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Maliket Gamal El Rouh](https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR) | 3:47 |
+| 38 | [Fi Hada](https://open.spotify.com/track/0DEZsTQcU0K8H1fQbT5tyR) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Fi Hada](https://open.spotify.com/album/1t1Czgx338qrdq0lU8P6An) | 3:39 |
 | 39 | [Ana Weyak](https://open.spotify.com/track/1EKrYEbzcAFz3s5Vkb4yQz) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Ana Weyak](https://open.spotify.com/album/2jmEslJVrYeCBlFcbDS9Um) | 3:22 |
 | 40 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
 | 41 | [Mesh Aader Ansa](https://open.spotify.com/track/5WrZCiz4i3bkfElAC23iTc) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:12 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 57 | [Kifak Enta](https://open.spotify.com/track/61k5XrVEJdOD5vCXcjBKF7) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Aman](https://open.spotify.com/album/3XPWs3JfOkQCp018108l5q) | 3:44 |
 | 58 | [La Ouyounik El Helwin](https://open.spotify.com/track/54PiwwEBUU3HANCnSFgDLM) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounik El Helwin](https://open.spotify.com/album/0HUfzmbrXGPAOOKxn2RbD2) | 3:42 |
 | 59 | [و انا معاك](https://open.spotify.com/track/3DrcdweC4NVvPsbYvBedv6) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [و انا معاك](https://open.spotify.com/album/2EmNYsE7Kv9QivyM66BdbY) | 3:01 |
-| 60 | [3A Faw2a](https://open.spotify.com/track/0ytxL01ma8qk2YY1KINSnp) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [3A Faw2a](https://open.spotify.com/album/2okWWnFbcpdFYNBCxHhP4N) | 3:23 |
+| 60 | [Malek Ya Tara](https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Malek Ya Tara](https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB) | 3:15 |
 
-Snapshot ID: `MCw3M2YyY2RlNWVhNTQ2OTdjMmQwNmRiOWM4NjE4MGVlMGE1YTc1YTA3`
+Snapshot ID: `MCwyNWMzNTZiOWU0YTJkMGE3YjBiYzg2ZGFiMTVjNWU0YzA1ZmIxMThk`

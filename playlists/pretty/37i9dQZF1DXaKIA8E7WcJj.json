@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 2888467,
+  "num_followers": 2888897,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzgxZmZlYzk3NmUzOGRkNzYzYzk1ZmE0YmRlNjhlNjM2NDdhZmY2",
+  "snapshot_id": "MCw4NjkzZTgwYjZjM2UzNDA0ZTcwMTFiYjk2MDA3MDY2NTk5ZmM0NzNh",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 161906,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Music From Big Pink (Remastered)",
         "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 203680,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -771,6 +771,26 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
         "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Fly Me To The Moon (In Other Words)",
-      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
       "artists": [
         {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Days Of Future Passed (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
-      },
-      "artists": [
-        {
-          "name": "The Moody Blues",
-          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Nights In White Satin - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 150000,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+      },
+      "artists": [
+        {
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 220400,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 229360,
       "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
       "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+      "duration_ms": 145533,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2391,18 +2391,34 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Sings Lonely and Blue",
-        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 145533,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+      "duration_ms": 167066,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2419,22 +2435,6 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     }
   ],
   "unique_name": "All Out 60s",

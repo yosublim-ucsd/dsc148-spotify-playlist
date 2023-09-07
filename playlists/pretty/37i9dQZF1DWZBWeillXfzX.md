@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,886 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,907 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 24 | [Watch It Die](https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:00 |
 | 25 | [Two Steps Forward](https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Hold On](https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi) | 5:05 |
 | 26 | [Corporation](https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Boarding House Reach](https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId) | 5:39 |
-| 27 | [Coming Back](https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Headway](https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3) | 2:58 |
+| 27 | [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 |
 | 28 | [Something's Gotta Give](https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [B\. Slade](https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 4:19 |
 | 29 | [Brown Gatton](https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 4:10 |
 | 30 | [Surfing](https://open.spotify.com/track/4tyx5KvHtEyADgxo5N9o5h) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Kirk Fletcher](https://open.spotify.com/artist/4SEFm6iz9emp5qH1C5aoi5) | [Surfing](https://open.spotify.com/album/3IXyvwIPq8pfsGstJvzxU8) | 2:45 |
 | 31 | [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 |
 | 32 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 |
-| 33 | [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 |
+| 33 | [Coming Back](https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Headway](https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3) | 2:58 |
 | 34 | [Here Comes the Flood](https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Blues](https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm) | 5:15 |
 | 35 | [Rattlin' Change](https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 1:03 |
 | 36 | [28 Days](https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 49 | [Chief's Blues](https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O) | [Greg Koch](https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC) | [Defenestrator](https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h) | 7:08 |
 | 50 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 |
 
-Snapshot ID: `MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4`
+Snapshot ID: `MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz`

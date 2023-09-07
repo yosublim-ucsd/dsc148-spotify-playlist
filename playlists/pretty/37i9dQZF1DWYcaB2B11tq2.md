@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,613 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,842 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 34 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
 | 35 | [Si Sabes Donde Hallarlo \(feat\. Marcos Vidal\)](https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cerca Estás](https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz) | 3:23 |
 | 36 | [Él Nos Ama](https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:18 |
-| 37 | [Ganas De Vivir](https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas De Vivir](https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6) | 3:57 |
-| 38 | [Tú](https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Tú](https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl) | 5:19 |
+| 37 | [Tú](https://open.spotify.com/track/3VDTYrLawIMXGFDWycvZ6E) | [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Tú](https://open.spotify.com/album/1rsthZYWA3LRLAo9rTUztl) | 5:19 |
+| 38 | [Ganas De Vivir](https://open.spotify.com/track/66bT5UMc1dVPmUt5apyQZ0) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Ganas De Vivir](https://open.spotify.com/album/5Rx91EycElkbKGnZFHPOM6) | 3:57 |
 | 39 | [Bonita](https://open.spotify.com/track/3xOekfcHl1gKWgn8V6rxVy) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:05 |
 | 40 | [No Hay Pero Va a Sobrar](https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:30 |
 | 41 | [Soy Tu Dios](https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Agua](https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Digno Es El Señor](https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Ha Vencido, Ha Triunfado](https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl) | 6:01 |
 | 75 | [Soy Libre](https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:30 |
 
-Snapshot ID: `MCxiNTFjYjhlZDYzOTM2MDY3ZTQ3MzhlMTg4ZjMyOGY2YjM0MDNiZjRj`
+Snapshot ID: `MCwxZWM0YjQ0MTZkMTAwOTg3OGVhY2VmMjgwOTQzOWUyMGQyMzEyYjM2`

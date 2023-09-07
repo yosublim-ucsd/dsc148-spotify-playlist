@@ -35007,6 +35007,24 @@
     },
     {
       "album": {
+        "name": "Just a Friend",
+        "url": "https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz"
+      },
+      "artists": [
+        {
+          "name": "Jordi",
+          "url": "https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141147,
+      "name": "Just a Friend",
+      "url": "https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t"
+    },
+    {
+      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },

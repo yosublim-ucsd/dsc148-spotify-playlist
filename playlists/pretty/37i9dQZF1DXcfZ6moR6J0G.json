@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1779312,
+  "num_followers": 1780346,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWEwZWY3N2E1YmZhYzVjYjI2ZTc0NjllNjNlZTI2ZDA0NGNlYmVh",
+  "snapshot_id": "MCw3NDZjYzdhNzczMzY1NTk5ZGJkNDA5ODNhZjRlYWM5ZTI5NThhYzlk",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
-      },
-      "artists": [
-        {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
-        }
-      ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 272973,
       "name": "My Way",
       "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+      },
+      "artists": [
+        {
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+        }
+      ],
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 289560,
       "name": "Nookie",
       "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "7 Words",
+      "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -743,6 +743,22 @@
       "duration_ms": 184866,
       "name": "Papercut",
       "url": "https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -827,8 +843,8 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
       "artists": [
         {
@@ -836,25 +852,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 221000,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6holGuk1jKHTdWyWBOZi8l"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -871,6 +871,22 @@
       "duration_ms": 270960,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -967,22 +983,6 @@
       "duration_ms": 191373,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2023-05-16 09:14:45",

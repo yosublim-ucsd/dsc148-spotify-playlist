@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-973 songs - 2 day 15 hr 4 min
+974 songs - 2 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,7 +759,8 @@
 | [烏梅子醬](https://open.spotify.com/track/7gxBUjMQY9iAozVktMKEp7) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [烏梅子醬](https://open.spotify.com/album/14M5K4fg1N4pAXtFPb6ZtN) | 4:17 | 2022-11-28 | 2022-12-20 |
 | [烏雲日記](https://open.spotify.com/track/2uMmfO7yMmi5yBH09pu8Hr) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [烏雲日記](https://open.spotify.com/album/7b7ppZfnyTff8gifjYdtxB) | 4:11 | 2022-06-06 | 2022-10-04 |
 | [無傷大雅](https://open.spotify.com/track/779h1JWRGfB2GAcGy27oPp) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [無傷大雅](https://open.spotify.com/album/1zHrYJBrAktHECprorxKVp) | 4:37 | 2023-05-22 | 2023-06-06 |
-| [無名氏敬上](https://open.spotify.com/track/4aT1caPb2yGmrXzrSN468J) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [無名氏敬上](https://open.spotify.com/album/0nWfuwQJLTGJvFXZYfht0R) | 4:17 | 2023-09-04 |  |
+| [無名氏敬上](https://open.spotify.com/track/4Ik6IlxI6fYXevZtN7UnZ2) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [無名氏敬上](https://open.spotify.com/album/3mJ7fOuXGDbo3F4FGyBna0) | 4:17 | 2023-09-04 |  |
+| [無名氏敬上](https://open.spotify.com/track/4aT1caPb2yGmrXzrSN468J) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [無名氏敬上](https://open.spotify.com/album/0nWfuwQJLTGJvFXZYfht0R) | 4:17 | 2023-09-04 | 2023-09-07 |
 | [無垠](https://open.spotify.com/track/5ZC35wJkNGpel1o15XA4nc) | [NeciKen](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [無垠](https://open.spotify.com/album/3NQURJi7uV1HGynSpnONnJ) | 5:40 | 2023-07-24 | 2023-08-08 |
 | [無情怪物](https://open.spotify.com/track/5R3pccaqEJTWf5RxCkRwiW) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [無情怪物](https://open.spotify.com/album/4bISGEm3hApy3p3dZWjFLH) | 2:56 | 2022-12-19 | 2023-01-17 |
 | [無情我抵著閣較無情个妳](https://open.spotify.com/track/1lSzz84bK1okj8gxJ9Gxau) | [小安](https://open.spotify.com/artist/12QGPbN0fnuIlyEKxUlVo3) | [無情我抵著閣較無情个妳](https://open.spotify.com/album/5KO10DwGD7OVPXQtiiwnvQ) | 4:16 | 2022-07-25 | 2022-08-09 |

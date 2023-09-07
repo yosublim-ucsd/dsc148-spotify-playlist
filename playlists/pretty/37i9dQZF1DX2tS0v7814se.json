@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
-  "num_followers": 24709,
+  "num_followers": 24720,
   "original_name": "Marimba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjI2OGNjNWFhODRlM2Q4YTRlNTg4ZjRjNmI5MjgyYTU3MDZmMjRi",
+  "snapshot_id": "MCwyZmY3OWRmZWI1ZGE0YmUyYjdiMzQyNmZmMjY5ODU1N2VkMDIzNjdi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:25:31",
@@ -387,18 +387,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Tabasque\u00f1o",
-        "url": "https://open.spotify.com/album/76uEGqGyv1nLthr02G3TZt"
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
       "artists": [
         {
-          "name": "Marimba Flor De Playas",
-          "url": "https://open.spotify.com/artist/2psYEwkmQvoMxarUWGy9g4"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Mis Blancas Mariposas",
-      "url": "https://open.spotify.com/track/4KDmH7zn9unOHOxB9wZtrY"
+      "duration_ms": 97894,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -467,22 +471,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+        "name": "Tabasque\u00f1o",
+        "url": "https://open.spotify.com/album/76uEGqGyv1nLthr02G3TZt"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Marimba Flor De Playas",
+          "url": "https://open.spotify.com/artist/2psYEwkmQvoMxarUWGy9g4"
         }
       ],
-      "duration_ms": 97894,
-      "name": "Las Ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/4PelarhQJOESpMFTunAoNV"
+      "duration_ms": 170000,
+      "name": "Mis Blancas Mariposas",
+      "url": "https://open.spotify.com/track/4KDmH7zn9unOHOxB9wZtrY"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Exitos al Estilo de Internacionales Conejos. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/4h4EpwFkvtoAulP8h4fzvD"
-      },
-      "artists": [
-        {
-          "name": "Internacionales Conejos",
-          "url": "https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "El Tikalito",
-      "url": "https://open.spotify.com/track/221FZlg0q4xAeZ0DjY4ELg"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "World Music Guatemala, Danzas Mayas, Mayan Dances",
         "url": "https://open.spotify.com/album/0dKCmV0ACWcV5JqebK6ibq"
       },
@@ -535,6 +519,42 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Exitos al Estilo de Internacionales Conejos. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/4h4EpwFkvtoAulP8h4fzvD"
+      },
+      "artists": [
+        {
+          "name": "Internacionales Conejos",
+          "url": "https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "El Tikalito",
+      "url": "https://open.spotify.com/track/221FZlg0q4xAeZ0DjY4ELg"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 208622,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/0Ppn89Eh6ZAwPVJ0iUvXvv"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
         "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
@@ -547,22 +567,6 @@
       "duration_ms": 222133,
       "name": "El Valle de la Esmeralda",
       "url": "https://open.spotify.com/track/0M39n76ff47qwAfvyyUnrF"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "De Todos los Sabores",
-        "url": "https://open.spotify.com/album/1e0qH54Hm3HaqE53sxGyy2"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Corona De Tapachula",
-          "url": "https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb"
-        }
-      ],
-      "duration_ms": 167624,
-      "name": "Solamente Una Vez",
-      "url": "https://open.spotify.com/track/2b1d1agxkzR8p2lUcKcYlg"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -615,22 +619,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+        "name": "De Todos los Sabores",
+        "url": "https://open.spotify.com/album/1e0qH54Hm3HaqE53sxGyy2"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Marimba Orquesta Corona De Tapachula",
+          "url": "https://open.spotify.com/artist/5A49aknVU0AJMFRYMOvYYb"
         }
       ],
-      "duration_ms": 208622,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/0Ppn89Eh6ZAwPVJ0iUvXvv"
+      "duration_ms": 167624,
+      "name": "Solamente Una Vez",
+      "url": "https://open.spotify.com/track/2b1d1agxkzR8p2lUcKcYlg"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -683,6 +683,30 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Marimbas Y Regional Vol. 2",
+        "url": "https://open.spotify.com/album/0ETFW2f3YiuOJqNHeevh1c"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 86644,
+      "name": "Escalera a las nubes",
+      "url": "https://open.spotify.com/track/1k1wRrZuqioouMN7yZbeX2"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
         "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
@@ -699,22 +723,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "20 Exitos Con Marimba Vol.1",
-        "url": "https://open.spotify.com/album/42rrNP7c27cAXPyA09DJPO"
-      },
-      "artists": [
-        {
-          "name": "20 Super Exitos De",
-          "url": "https://open.spotify.com/artist/7bp4w5sBExrir8EIXFha0u"
-        }
-      ],
-      "duration_ms": 136720,
-      "name": "Salon Mexico",
-      "url": "https://open.spotify.com/track/0jWzNJtTTalwqAjf3J42jb"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Marimba Alma de Chiapas de Juan Palacios",
         "url": "https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz"
       },
@@ -727,6 +735,22 @@
       "duration_ms": 158426,
       "name": "El Piri",
       "url": "https://open.spotify.com/track/6F70XslxkKzqr6P0Eo7vox"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "20 Exitos Con Marimba Vol.1",
+        "url": "https://open.spotify.com/album/42rrNP7c27cAXPyA09DJPO"
+      },
+      "artists": [
+        {
+          "name": "20 Super Exitos De",
+          "url": "https://open.spotify.com/artist/7bp4w5sBExrir8EIXFha0u"
+        }
+      ],
+      "duration_ms": 136720,
+      "name": "Salon Mexico",
+      "url": "https://open.spotify.com/track/0jWzNJtTTalwqAjf3J42jb"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -779,8 +803,8 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Y Regional Vol. 2",
-        "url": "https://open.spotify.com/album/0ETFW2f3YiuOJqNHeevh1c"
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
       "artists": [
         {
@@ -788,17 +812,17 @@
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
         },
         {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
-        },
-        {
           "name": "Felipe Gutierrez",
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 86644,
-      "name": "Escalera a las nubes",
-      "url": "https://open.spotify.com/track/1k1wRrZuqioouMN7yZbeX2"
+      "duration_ms": 100413,
+      "name": "En Donde Estara Mi Reina",
+      "url": "https://open.spotify.com/track/3rzXE4LelDDBWxlqQZqvzD"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -895,30 +919,6 @@
       "duration_ms": 169227,
       "name": "Muri\u00f3 la Flor",
       "url": "https://open.spotify.com/track/2ym23q1gPhVfEcsaWJy1FX"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
-        }
-      ],
-      "duration_ms": 100413,
-      "name": "En Donde Estara Mi Reina",
-      "url": "https://open.spotify.com/track/3rzXE4LelDDBWxlqQZqvzD"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Luna de Plata",
-        "url": "https://open.spotify.com/album/5zsYxrTgEVPdO24SKoaMbv"
-      },
-      "artists": [
-        {
-          "name": "Marimba Sonora GC",
-          "url": "https://open.spotify.com/artist/1f1CzvHnAWZaOgYDP4qdSM"
-        }
-      ],
-      "duration_ms": 241397,
-      "name": "El Baile de la Princesa",
-      "url": "https://open.spotify.com/track/2u090bKl5zlp9UN8K1g5Gs"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
         "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 188666,
       "name": "Chichicastenango, Marimba de Guatemala",
       "url": "https://open.spotify.com/track/3oiHEDRCOrCLU27og8j182"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Luna de Plata",
+        "url": "https://open.spotify.com/album/5zsYxrTgEVPdO24SKoaMbv"
+      },
+      "artists": [
+        {
+          "name": "Marimba Sonora GC",
+          "url": "https://open.spotify.com/artist/1f1CzvHnAWZaOgYDP4qdSM"
+        }
+      ],
+      "duration_ms": 241397,
+      "name": "El Baile de la Princesa",
+      "url": "https://open.spotify.com/track/2u090bKl5zlp9UN8K1g5Gs"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 161191,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/24RHU19OMQSwIR93bUguNh"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "Marimbas Y Regional Vol. 2",
         "url": "https://open.spotify.com/album/0ETFW2f3YiuOJqNHeevh1c"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 85090,
       "name": "Mi Villahermosa",
       "url": "https://open.spotify.com/track/1i0PwVXUZAC94ljaKtAyVy"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 161191,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/24RHU19OMQSwIR93bUguNh"
     },
     {
       "added_at": "2021-12-29 23:25:31",

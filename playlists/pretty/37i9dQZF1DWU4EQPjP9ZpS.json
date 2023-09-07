@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 278654,
+  "num_followers": 278847,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmExYWRiMTQxYjM1YjY5NDNjMTljODQ4MzlhOTkyZDkwMTY4YWM1",
+  "snapshot_id": "MCw0Nzc5YjYxYTU3OWU2N2MxNzA2MDYwN2MyYTRmYWY5YjRmMmJiMWE1",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 253727,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "vaporgroove (singles)",
         "url": "https://open.spotify.com/album/2D1r01r3ZgUpURmPHXreaY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 203761,
       "name": "vaporgroove ~",
       "url": "https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 253727,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Based On Misunderstandings 05",
-        "url": "https://open.spotify.com/album/71xlJoKwGWihm3biLx13pn"
-      },
-      "artists": [
-        {
-          "name": "Phil Gerus",
-          "url": "https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd"
-        }
-      ],
-      "duration_ms": 191804,
-      "name": "Don't Kiss Me While I'm Swimming",
-      "url": "https://open.spotify.com/track/0F5eixGJ2CASTBwqBlM7yD"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 246870,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Based On Misunderstandings 05",
+        "url": "https://open.spotify.com/album/71xlJoKwGWihm3biLx13pn"
+      },
+      "artists": [
+        {
+          "name": "Phil Gerus",
+          "url": "https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd"
+        }
+      ],
+      "duration_ms": 191804,
+      "name": "Don't Kiss Me While I'm Swimming",
+      "url": "https://open.spotify.com/track/0F5eixGJ2CASTBwqBlM7yD"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Music in the Air",
         "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 142806,
       "name": "Akaiwa 1985",
       "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 246870,
-      "name": "Make Me Love You",
-      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
+      },
+      "artists": [
+        {
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+        }
+      ],
+      "duration_ms": 103214,
+      "name": "143",
+      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
         "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 176000,
       "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
       "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 103214,
-      "name": "143",
-      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Goodbye, 5o 5oon...",
-        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
+        "name": "Melatonin High (Rework 2021)",
+        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
       },
       "artists": [
         {
-          "name": "Pan!c Pop",
-          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
         }
       ],
-      "duration_ms": 176015,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
+      "duration_ms": 280000,
+      "name": "Melatonin High - Rework 2021",
+      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Melatonin High (Rework 2021)",
-        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
+        "name": "Goodbye, 5o 5oon...",
+        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "Pan!c Pop",
+          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Melatonin High - Rework 2021",
-      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
+      "duration_ms": 176015,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Left to Our Own Devices",
         "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 416000,
       "name": "Arms of Mine",
       "url": "https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "No Sugar Added",
         "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 162228,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+      },
+      "artists": [
+        {
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+        }
+      ],
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
-      },
-      "artists": [
-        {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
-        }
-      ],
-      "duration_ms": 135035,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Us Ephemeral (George Clanton Remix)",
         "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 269538,
       "name": "Us Ephemeral (George Clanton Remix)",
       "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
+      },
+      "artists": [
+        {
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+        }
+      ],
+      "duration_ms": 135035,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "EMAIL",
-        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
-      },
-      "artists": [
-        {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
-        }
-      ],
-      "duration_ms": 176269,
-      "name": "SOULLL",
-      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Marina Forever",
         "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+        "name": "EMAIL",
+        "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
       },
       "artists": [
         {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
         }
       ],
-      "duration_ms": 170379,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+      "duration_ms": 176269,
+      "name": "SOULLL",
+      "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 170379,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -1647,26 +1647,6 @@
       "duration_ms": 234013,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1691,6 +1671,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
       },
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Street Smarts",
-        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+        "name": "Baby, I Miss You",
+        "url": "https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5"
       },
       "artists": [
         {
-          "name": "VHS LOGOS",
-          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        },
+        {
+          "name": "Dan Mason",
+          "url": "https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag"
         }
       ],
-      "duration_ms": 86400,
-      "name": "Telefunken",
-      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
+      "duration_ms": 176848,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T"
     },
     {
       "added_at": "2023-07-18 02:19:19",

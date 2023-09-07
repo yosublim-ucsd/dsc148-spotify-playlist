@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,285 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,408 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 24 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
 | 25 | [Henceforth](https://open.spotify.com/track/0IrFbhdGbgz9NemUAzaNi1) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [And So Henceforth,](https://open.spotify.com/album/2vVnTKk2FkGP6oGiE8HpT7) | 3:54 |
 | 26 | [Young Girl A \- one day After Another Remix](https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Young Girl A \(one day After Another Remix\)](https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm) | 3:50 |
-| 27 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 |
+| 27 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
 | 28 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
 | 29 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
 | 30 | [少女レイ](https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 4:54 |
-| 31 | [魔天楼](https://open.spotify.com/track/3LPkrY0tXzqY9dx7DodNCH) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [魔天楼](https://open.spotify.com/album/2vlTk0u2twffIAFYVQDozz) | 3:15 |
+| 31 | [魔天楼](https://open.spotify.com/track/6T7MBYPqnRyrFUQwLVCBcb) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [FRUITÁGE](https://open.spotify.com/album/7ifOYF4dgTjWjRmVxGe1Rk) | 3:15 |
 | 32 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 |
 | 33 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 34 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 |
-| 35 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
+| 35 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 |
 | 36 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 |
 | 37 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
 | 38 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 50 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
 
-Snapshot ID: `MCw4Y2NhZDIwOWZkZTRhMDBjOGY2MzU1NjA2MWZlNjBhZDk4MzBkZjJj`
+Snapshot ID: `MCw4NmQxMzNjODk4NWI4Njk5ZGU5YTE0NmJjM2QwZmUzMDRjOWRmYjBk`

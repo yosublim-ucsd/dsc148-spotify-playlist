@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: STRAIGHTENER\(ストレイテナー\)
 
-775 songs - 2 day 3 hr 30 min
+777 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [SEVENTEEN](https://open.spotify.com/track/0JJ1bCVoFAh9T5M0g80BzX) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [海になりたい part.3](https://open.spotify.com/album/7FhnLBi4ao88WF2guGYjXU) | 3:30 | 2023-02-01 | 2023-02-02 |
 | [SEVENTEEN](https://open.spotify.com/track/67iNt98UJRDjlwxdGvo2qJ) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/7r3FOYP2u5wyfUXp7XPWA1) | 3:30 | 2023-02-01 | 2023-02-22 |
 | [Shangri\-Ra](https://open.spotify.com/track/5EbXeDHm7LEZwo995W8Uty) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6) | [Shangri\-Ra](https://open.spotify.com/album/1lfI8BKatDabAwkQLbe0Ot) | 4:25 | 2023-08-01 | 2023-08-16 |
+| [Shin Takara Jima \(hf remix\)](https://open.spotify.com/track/0cJEseMqUZcRsEJpceH5Zb) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Tsuki no Maboroshi \~ Remix works \~](https://open.spotify.com/album/677gGniYchInGseMSycVKe) | 4:08 | 2023-09-05 |  |
 | [Shiroi Koibitotachi \[2022 Remaster\]](https://open.spotify.com/track/3lVj9Znb5F2BpHMZmp1Id2) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Itsumo Dokokade](https://open.spotify.com/album/2nFXYmfqJ6f5YnQAX5227e) | 4:42 | 2022-11-22 | 2022-11-30 |
 | [shuttle way](https://open.spotify.com/track/1AuES2HPRFzcZZbbUbXxGz) | [Strobolights](https://open.spotify.com/artist/3h0GJ51Ax2cxu6m5PflkWZ) | [shuttle way](https://open.spotify.com/album/6m0hIIxkOsAhXSchfiCkIm) | 3:03 | 2022-11-03 | 2022-11-09 |
 | [Silhouette](https://open.spotify.com/track/1QdGtH513X4JGGjuLKsUl1) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Silhouette](https://open.spotify.com/album/4y8XGDlXX8HNqaEZrPNIaW) | 3:37 | 2022-05-19 | 2022-06-22 |
@@ -503,7 +504,8 @@
 | [これでいいのだ](https://open.spotify.com/track/5YEUcZpNQH5OujYr2vTdgE) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [これでいいのだ](https://open.spotify.com/album/6wwcWh2rUlOKDdjxtai1hF) | 3:29 | 2022-05-10 | 2022-07-09 |
 | [ごらん](https://open.spotify.com/track/3QgiKtomG9JIt3U4hljXJU) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [君に会いたいんだ、とても](https://open.spotify.com/album/4CrzCrLZfXA83j0PUpgWi6) | 2:04 | 2023-02-28 | 2023-03-02 |
 | [さよならセニョリータ](https://open.spotify.com/track/7u4jJOelFD7OT3KTN1oGfo) | [Oledickfoggy](https://open.spotify.com/artist/0TVLH5zOLVKWvqGcvnWud9) | [残夜の汀線 \-ZANYA NO TEISEN\-](https://open.spotify.com/album/7j53RkEpf9DJcYYhQVE0W8) | 3:39 | 2023-03-14 | 2023-03-22 |
-| [さらば世界](https://open.spotify.com/track/5moXWdc1WSGamWwlD5YL4Z) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [色即是空](https://open.spotify.com/album/0rpJ5FMeYS2i5099FiUcsA) | 8:15 | 2023-09-05 |  |
+| [さらば世界](https://open.spotify.com/track/4O2R1FWAdrF7HBrUBCiPsL) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [色即是空](https://open.spotify.com/album/34HCqTjxeot4jQme5gTsJu) | 8:15 | 2023-09-05 |  |
+| [さらば世界](https://open.spotify.com/track/5moXWdc1WSGamWwlD5YL4Z) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [色即是空](https://open.spotify.com/album/0rpJ5FMeYS2i5099FiUcsA) | 8:15 | 2023-09-05 | 2023-09-07 |
 | [そばにいるから](https://open.spotify.com/track/1pkbFbojWxiX0ttqpPhMIl) | [JUN SKY WALKER\(S\)](https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr) | [そばにいるから](https://open.spotify.com/album/5KMjcGmHWpQp19SxdlisRf) | 4:43 | 2023-04-18 | 2023-06-21 |
 | [それくらいのこと](https://open.spotify.com/track/7MJptTkQjQNRQ1gMaLtq2w) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [それくらいのこと](https://open.spotify.com/album/6n00Y9KahbZadkPFzhSuNd) | 4:08 | 2022-05-10 | 2022-06-11 |
 | [それは愛なんだぜ!](https://open.spotify.com/track/4YAm0nGPrA8J0qGEOn5qtv) | [カーリングシトーンズ](https://open.spotify.com/artist/2CWdFcS91QZURvn7PnbpdP) | [それは愛なんだぜ!](https://open.spotify.com/album/1Awt6Ml00XvndM9CEutUzc) | 3:42 | 2022-05-10 | 2022-06-19 |
@@ -684,7 +686,7 @@
 | [手探り](https://open.spotify.com/track/31hF1E87am8QziX1racpkp) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Uniolla](https://open.spotify.com/album/5F3yuKACvWYjz3G6YHPAlO) | 3:38 | 2022-05-10 | 2022-07-27 |
 | [敗れざる者](https://open.spotify.com/track/0gYW9W9HyF76360oQof3Ty) | [SA](https://open.spotify.com/artist/6ltrzJoPt65XBEylX3a8xr) | [敗れざる者](https://open.spotify.com/album/1VpXefTs5g3JvJLNKq20Hw) | 6:22 | 2023-09-05 |  |
 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 | 2023-07-04 |  |
-| [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 | 2023-09-05 |  |
+| [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 | 2023-09-05 | 2023-09-07 |
 | [旅人よ\~The Longest Journey \- 25th Anniversary Version](https://open.spotify.com/track/2jNP2JDMZfnSpiOm79b2LC) | [Sunplaza Nakano Kun](https://open.spotify.com/artist/3GuupOBSa826HytfVVhxdi) | [旅人よ\~The Longest Journey](https://open.spotify.com/album/7wAtGu69gfX5ImUtuk2npI) | 4:58 | 2022-05-10 | 2022-06-22 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-05-10 | 2022-05-17 |
 | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/track/3yxHmjUP94fcDZu0VgESzj) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/album/3aNEW4FiY1e1nZYJ2IDsdB) | 5:39 | 2022-07-21 | 2022-07-29 |

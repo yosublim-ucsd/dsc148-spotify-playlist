@@ -4,7 +4,7 @@
 
 > Indie and alternative favorites.
 
-76 songs - 5 hr 1 min
+77 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [At Night In Dreams](https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz) | 4:04 | 2023-01-18 | 2023-06-23 |
 | [Bad Mouth](https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:35 | 2023-01-18 |  |
 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 | 2023-01-18 |  |
-| [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2023-01-18 |  |
+| [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2023-01-18 | 2023-09-07 |
+| [Bohemian Like You](https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak) | 3:31 | 2023-01-18 |  |
 | [C'mon C'mon](https://open.spotify.com/track/0YPDp1KIxVLTdh3vnvk6wd) | [The Von Bondies](https://open.spotify.com/artist/5QPNEMldc8k1g5hT54PCWg) | [Pawn Shoppe Heart](https://open.spotify.com/album/4iqIG2tV2idmgWZGjsIQVb) | 2:13 | 2023-01-18 |  |
 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 | 2023-01-18 |  |
 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 | 2023-01-18 |  |

@@ -6,13 +6,49 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDAwYjM4NDJkNmExOGM5NDBkYWMxMmE2OTI2NzY5Mjg0YQ==",
+  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDA1ZmUxNjk5MDQyZWJlNDNkZWVjMzkzY2VmMDZkMWQwMQ==",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Flying Objects",
-        "url": "https://open.spotify.com/album/2iyBzf6DkOwnAkxGsPv3tP"
+        "name": "Born to Fuck/Fuck This Job",
+        "url": "https://open.spotify.com/album/0DaL5XUgTh7I38yxTQGrla"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Born To Fuck",
+      "url": "https://open.spotify.com/track/6AjGza35NlMh2bmEMEAO5o"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "You Thought (feat. Janelle Mon\u00e1e)",
+        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Painted Houses (feat. Conway the Machine)",
+        "url": "https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b"
       },
       "artists": [
         {
@@ -24,53 +60,13 @@
           "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
         },
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 137945,
-      "name": "Harlem World 97 (feat. Estelle)",
-      "url": "https://open.spotify.com/track/26R9jIj6avrEzoIGrRz5ub"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Puerto Rico",
-        "url": "https://open.spotify.com/album/4xfwBnoenPCuV6HCgwisUy"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 215717,
-      "name": "Puerto Rico",
-      "url": "https://open.spotify.com/track/3wyBkA7dOMJX0zqW3iIKu8"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Origin Story",
-        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        },
-        {
-          "name": "The Future Kingz",
-          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
-        }
-      ],
-      "duration_ms": 297624,
-      "name": "Origin Story",
-      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
+      "duration_ms": 183157,
+      "name": "Painted Houses (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -115,6 +111,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Superb Superb Name Poop Songs",
+        "url": "https://open.spotify.com/album/5b7XOHKjJ1TRmwfXLsM4uq"
+      },
+      "artists": [
+        {
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
+        }
+      ],
+      "duration_ms": 90647,
+      "name": "The Cliff Poop Song",
+      "url": "https://open.spotify.com/track/0aM3j7Wb80SnNeudqQRGxq"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "In Your Love (Live From Radio City Music Hall)",
         "url": "https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9"
       },
@@ -127,26 +139,6 @@
       "duration_ms": 242573,
       "name": "In Your Love - Live From Radio City Music Hall",
       "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/2Gt6YZlvw2ygWIeIX7VzCc"
-      },
-      "artists": [
-        {
-          "name": "Dream",
-          "url": "https://open.spotify.com/artist/0PAljb1bunnr2Zdzt7zn5Q"
-        },
-        {
-          "name": "Cortex",
-          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/1EZv3GSeVkMItYgSjrbgqS"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -187,22 +179,6 @@
       "duration_ms": 188000,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/2qWOTKZpovfDaiqfwa78G5"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -272,13 +248,29 @@
           "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         },
         {
-          "name": "Chief Adjuah",
-          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Like It Like That (feat. Chief Adjuah)",
-      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
+      "duration_ms": 293122,
+      "name": "Witchcraft (feat. Robert Glasper)",
+      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -379,46 +371,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Last a While",
-        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
-      },
-      "artists": [
-        {
-          "name": "Arc De Soleil",
-          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
-        }
-      ],
-      "duration_ms": 185412,
-      "name": "Last a While",
-      "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "JUMPIN (Timmy Trumpet Remix)",
-        "url": "https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 164911,
-      "name": "JUMPIN - Timmy Trumpet Remix",
-      "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Dookie (30th Anniversary 4-Track Demos)",
         "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
       },
@@ -428,9 +380,29 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 121441,
-      "name": "When I Come Around - 4-track demo",
-      "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"
+      "duration_ms": 154884,
+      "name": "When It's Time - 4-track demo",
+      "url": "https://open.spotify.com/track/5b9yMkeoRD3nWPdep8sAt4"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "METALI!! (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "METALI!! - feat. Tom Morello",
+      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -451,6 +423,26 @@
       "duration_ms": 169411,
       "name": "Blood Moon (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -495,22 +487,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Forgiven",
+        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
         }
       ],
-      "duration_ms": 242016,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2AHB69HbFGTZu086ELZXdw"
+      "duration_ms": 205497,
+      "name": "Forgiven",
+      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
     },
     {
       "added_at": "2023-09-01 04:00:00",

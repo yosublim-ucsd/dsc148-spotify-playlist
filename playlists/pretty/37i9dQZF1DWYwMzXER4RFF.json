@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 273217,
+  "num_followers": 273315,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODEzYzQzMWNhNDkwYzE0MDMzMWY2Y2IwZTA4NmI0ZDE1Y2UzNDFj",
+  "snapshot_id": "MCxkYjU3MTdiNTM3ZTU1YTIyOWY0MjdmYjJiNGE0NWQyZDZlNjhiOGM3",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Never Fight A Man With A Perm",
-      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Houseplants",
+        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 258130,
+      "name": "Houseplants",
+      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
+    },
+    {
       "added_at": "2023-07-28 14:24:56",
       "album": {
         "name": "TELL ME WHEN I'M TELLING LIES",
@@ -231,18 +247,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Houseplants",
-        "url": "https://open.spotify.com/album/1YDyZrS75xgT5CQnNQQCVx"
+        "name": "Jackie Down The Line",
+        "url": "https://open.spotify.com/album/194s8X2fl22otVaRdWSm9Q"
       },
       "artists": [
         {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 258130,
-      "name": "Houseplants",
-      "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
+      "duration_ms": 241093,
+      "name": "Jackie Down The Line",
+      "url": "https://open.spotify.com/track/6FDrld0oPlhhRKItogchWo"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -259,22 +275,6 @@
       "duration_ms": 194693,
       "name": "Almost Had to Start a Fight/In and Out of Patience",
       "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Jackie Down The Line",
-        "url": "https://open.spotify.com/album/194s8X2fl22otVaRdWSm9Q"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "Jackie Down The Line",
-      "url": "https://open.spotify.com/track/6FDrld0oPlhhRKItogchWo"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ"
     },
     {
-      "added_at": "2023-03-17 13:08:31",
-      "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
-    },
-    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "Sweet Princess EP",
@@ -391,22 +375,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Creatures",
-      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Flower of Devotion",
         "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
       },
@@ -419,6 +387,38 @@
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
+    },
+    {
+      "added_at": "2023-03-17 13:08:31",
+      "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "The Cleaner",
         "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Audio Drag for Ego Slobs",
         "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 120268,
       "name": "Book",
       "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Holding Hands with Jamie",
         "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 413721,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
     },
     {
       "added_at": "2023-02-24 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,197 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,212 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 33 | [Go DJ](https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1) | [Lil' Max$o](https://open.spotify.com/artist/7kXeApbOgTQGEeF76m6qQP) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:22 |
 | 34 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 |
 | 35 | [Rise](https://open.spotify.com/track/00Nx5kFUJBcdGa0GNPH8Lx) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Tower to Tower 2](https://open.spotify.com/album/0FT8XvXuscoSlxZb5138Fq) | 3:03 |
-| 36 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 |
-| 37 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 |
+| 36 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 |
+| 37 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 |
 | 38 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 |
 | 39 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 |
 | 40 | [Black and White](https://open.spotify.com/track/5nni7e0KD2XviqyGPPBFCU) | [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Wonderful People](https://open.spotify.com/track/5ABg6eFoA2NChM7tFbP9Ch) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/6l7fAsrzxw5t91B9C5iruc), [Gideon Marley](https://open.spotify.com/artist/6MsoG1dkQpQZRY9AMSJASt), [Abraham Marley](https://open.spotify.com/artist/4Ezgjt3L4fZUzMPESHmQFX) | [More Family Time](https://open.spotify.com/album/7C4QjjsOqV2XxrcWiDNOqo) | 3:48 |
 | 50 | [Girls vs\. Boys](https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:31 |
 
-Snapshot ID: `MCwyYzE3NTA0OTRmZmQxNjQ1ZmFkNWExNTdmZmUxNjNiMDdmMjFlMWQz`
+Snapshot ID: `MCxhYmE3NWQ5MzA3M2ZiNWJkYjY3MjA2NWRlNDJkZjAzOWJhNmYxNDMy`

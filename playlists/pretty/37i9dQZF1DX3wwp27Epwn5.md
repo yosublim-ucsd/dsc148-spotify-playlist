@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,556 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,638 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 3 | [Chammak Challo](https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Hamsika Iyer](https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 3:47 |
 | 4 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 |
 | 5 | [Kar Har Maidaan Fateh](https://open.spotify.com/track/7gZwhDmzciskHbZemjf931) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Sanju](https://open.spotify.com/album/2uZYzAlfetvbdWlpSfeNk0) | 5:12 |
-| 6 | [Jawan Prevue Theme](https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan Prevue Theme](https://open.spotify.com/album/2bE8aLgWEZkHvTRhosPwmC) | 2:07 |
+| 6 | [Jawan Title Track](https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan](https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6) | 3:08 |
 | 7 | [Nadiyon Paar \(Let the Music Play Again\) \(From "Roohi"\)](https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Shamur](https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Nadiyon Paar \(Let the Music Play Again\) \[From "Roohi"\]](https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi) | 2:44 |
 | 8 | [Jab Koi Baat \- Recreated](https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN) | [Jab Koi Baat \- Recreated](https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm) | 3:12 |
 | 9 | [Sooraj Dooba Hain](https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY) | [Roy](https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Goa Beach](https://open.spotify.com/track/4obyqyCX0Vx839PTsz1OGf) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Goa Beach](https://open.spotify.com/album/7EI4PXzgUDnRVsFCgP8xPF) | 3:38 |
 | 50 | [Dil Mera Blast](https://open.spotify.com/track/1OjjMsdBWWszjERnKeJbfd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dil Mera Blast](https://open.spotify.com/album/0Gk4AsC07XUkqvk0lCbNIw) | 3:09 |
 
-Snapshot ID: `MCxkOTIxZGExMGZiNjU5MWIwZDFjNGQxYmE1ODBiN2NjNTJmNjg3OWIz`
+Snapshot ID: `MCxiNzZjNWIwNjA5NTQ1YTE5MjcyOGM4NzdlZmFkODllMmJhMmYwMDJi`

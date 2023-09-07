@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-133 songs - 7 hr 36 min
+134 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Idhayam \- Tune In For Love](https://open.spotify.com/track/3BfXgDsVD042HtzGkuVbjR) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Idhayam \- Tune In For Love](https://open.spotify.com/album/0q6MhFUORMR0rOaLM7tRKq) | 3:31 | 2023-05-26 | 2023-05-28 |
 | [Ilanthalizhe](https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn) | [Nouf Aloufiz](https://open.spotify.com/artist/0lhgeOIYdvd6JVX5Qqrd04), [Athithyan](https://open.spotify.com/artist/7luB4uNlhp3lGJAf9xVmpQ) | [Ilanthalizhe](https://open.spotify.com/album/13kI9nQ3eCTr4BqTzkeumw) | 3:10 | 2023-04-24 | 2023-06-24 |
 | [Jinukku Jikka](https://open.spotify.com/track/595MCW6XYXF10IBVpLBPrV) | [Lak](https://open.spotify.com/artist/3kNbpMF08hTkUfVQLH3zPN), [K R Soundarya](https://open.spotify.com/artist/4f9IuGiCtB0c4bWHIJnQLq) | [Jinukku Jikka](https://open.spotify.com/album/5vmnvHJgGKa3RyOpOjBJ1I) | 3:51 | 2023-03-21 |  |
+| [Kaadale](https://open.spotify.com/track/1GuEuMYg1KF2etBPSMFgAJ) | [Krishnamurthy Kiitty](https://open.spotify.com/artist/2eGNuqkPQ5mdFd94l5nRTz), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Kaadale](https://open.spotify.com/album/5kpXYu6mR7mY8ZeOmg9vJ6) | 1:02 | 2023-09-06 |  |
 | [Kaadhal Dhevathaiye](https://open.spotify.com/track/1J3fwSmN2BNVgptyBYdLpu) | [Ram SK](https://open.spotify.com/artist/6YqlCTnPB1qNu3PlPSnHnq), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kaadhal Dhevathaiye](https://open.spotify.com/album/6B9CFmXUej7OEbOlzxvVku) | 3:17 | 2023-03-21 | 2023-07-25 |
 | [Kaadhal Kanna](https://open.spotify.com/track/6CPsDWOjYdRTbdH5BIuVfh) | [Kanimozhi Kabilane](https://open.spotify.com/artist/7ARoKETwZfM1MAwuvYxtAR), [Tharun Medley](https://open.spotify.com/artist/5tzzxTj73S4syVrVQo9gFc) | [Kaadhal Kanna](https://open.spotify.com/album/4Zdez1WTo7CmrQVRd66Jdu) | 4:37 | 2023-07-06 |  |
 | [Kaadhal Kolluthe](https://open.spotify.com/track/2eB6gQjZdls4ZGckkf20Gw) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Sunny Stephen Nathan](https://open.spotify.com/artist/56CPqj0QxUYMA9udITIUzk) | [Kaadhal Kolluthe](https://open.spotify.com/album/6JwWwZw0GNqd7RQj6ECxUf) | 3:18 | 2023-07-04 |  |

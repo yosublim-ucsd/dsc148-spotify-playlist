@@ -4,7 +4,7 @@
 
 > Chill indie music\. Cover: kenzie
 
-536 songs - 1 day 5 hr 45 min
+537 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Close My Eyes](https://open.spotify.com/track/2h4I9QSVxzP6DwsKMO52st) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Pathways](https://open.spotify.com/album/6O3nOESQ83406o4w97Wn1b) | 2:52 | 2023-01-16 | 2023-01-24 |
 | [Close One](https://open.spotify.com/track/1xIT1hBftZGBNLIf35XlgV) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/5tpLjmCPdpBn81pZTqiygc) | 3:55 | 2023-07-24 | 2023-08-08 |
 | [Coast \(feat\. Anderson .Paak\) \[Acoustic\]](https://open.spotify.com/track/44VnSIaXlh4NAncVN1QOJ2) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast \(Acoustic\)](https://open.spotify.com/album/7M4wQVXsGx99nOIajsGkvO) | 2:46 | 2022-12-12 | 2023-01-19 |
-| [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-28 |  |
+| [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-28 | 2023-09-07 |
 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-07-03 | 2023-07-17 |
 | [Cold Life](https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k) | [Deve](https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo) | [Cold Life](https://open.spotify.com/album/6zcBxU9W42AT1iWb9oy1xk) | 2:37 | 2022-06-10 | 2023-02-23 |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-06-06 | 2022-12-06 |
@@ -409,6 +409,7 @@
 | [See The Light](https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:00 | 2022-08-22 | 2022-11-08 |
 | [see u](https://open.spotify.com/track/5BiIlyxCaxD6wfwJYCxcZv) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [see u](https://open.spotify.com/album/4wVugNew9PUtRxS7bliTYF) | 3:04 | 2022-06-13 | 2022-06-27 |
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-06-06 | 2022-08-02 |
+| [she\-rex](https://open.spotify.com/track/3f2BR1qNYODnMq3ncGQ1SV) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 1:51 | 2023-09-06 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-14 | 2023-06-26 |
 | [Silent Dream](https://open.spotify.com/track/7iXvlrUHFsLAH3neUpxIfM) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Charm of Pleasure](https://open.spotify.com/album/6YrdjgvM2rx0BQ3yQFAJuH) | 3:33 | 2022-09-18 | 2022-10-11 |
 | [Skyscraper](https://open.spotify.com/track/3TtpWHLX36RLUi5dyE3Ray) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 3:06 | 2022-12-21 | 2023-01-10 |

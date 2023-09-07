@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 177201,
+  "num_followers": 177293,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy",
+  "snapshot_id": "MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi",
   "tracks": [
     {
       "added_at": "2023-02-09 09:05:31",
@@ -579,34 +579,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Bach, J.S. / Purcell / Handel: Stokowski Transcriptions",
-        "url": "https://open.spotify.com/album/7yTPt5MG7Rh9mST50YtQDQ"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Leopold Stokowski",
-          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
-        },
-        {
-          "name": "Bournemouth Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
-        },
-        {
-          "name": "Jos\u00e9 Serebrier",
-          "url": "https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Messiah, HWV 56, Part I: Pastoral Symphony, \"Pifa\" (arr. L. Stokowski)",
-      "url": "https://open.spotify.com/track/2WuYYACpbXgn41VaPN3IYs"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Into Silence: P\u00e4rt | Vasks | G\u00f3recki | Pel\u0113cis",
         "url": "https://open.spotify.com/album/7I6GRzGwHByDn59Y9cneeo"
       },
@@ -631,6 +603,34 @@
       "duration_ms": 377560,
       "name": "Concertino bianco: 1. Con intenerimento",
       "url": "https://open.spotify.com/track/4RCllHzuJX9PaV7kNHxmu0"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Bach, J.S. / Purcell / Handel: Stokowski Transcriptions",
+        "url": "https://open.spotify.com/album/7yTPt5MG7Rh9mST50YtQDQ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Leopold Stokowski",
+          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Jos\u00e9 Serebrier",
+          "url": "https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Messiah, HWV 56, Part I: Pastoral Symphony, \"Pifa\" (arr. L. Stokowski)",
+      "url": "https://open.spotify.com/track/2WuYYACpbXgn41VaPN3IYs"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
         "name": "Faur\u00e9: Music for Piano",
         "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -959,30 +959,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
-        "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        },
-        {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
-        }
-      ],
-      "duration_ms": 155826,
-      "name": "Carmen Suite No. 1: Intermezzo",
-      "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Works for Solo Piano",
         "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
       },
@@ -1035,22 +1011,26 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Kissin Plays Liszt",
-        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
+        "name": "Bizet: Carmen Suites 1 & 2; L'Arl\u00e9sienne Suites 1 & 2",
+        "url": "https://open.spotify.com/album/3MHXMoe8tGfheDCfH6lUFn"
       },
       "artists": [
         {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
         },
         {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
         }
       ],
-      "duration_ms": 375920,
-      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
-      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
+      "duration_ms": 155826,
+      "name": "Carmen Suite No. 1: Intermezzo",
+      "url": "https://open.spotify.com/track/7bf93oDYxqU36lyBhEa3mB"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1079,6 +1059,26 @@
       "duration_ms": 172000,
       "name": "Can\u00e7oneta for Violin and Orchestra",
       "url": "https://open.spotify.com/track/4h6KTocEXwAdCJDgGqRFEs"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Kissin Plays Liszt",
+        "url": "https://open.spotify.com/album/3iN0jN2bjNrr6nLDS7ZAEE"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 375920,
+      "name": "St\u00e4ndchen (From Schwanengesang, D957)",
+      "url": "https://open.spotify.com/track/1Fye8VOMOlXxtBo02TpNWD"
     },
     {
       "added_at": "2023-02-09 09:05:31",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-02-09 09:05:31",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2023-02-09 09:05:31",
-      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 78066,
       "name": "Kesaillan idylli (Summer Night's Idyll) , Op. 16, No. 2 (arr. J. Panula)",
       "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+    },
+    {
+      "added_at": "2023-02-09 09:05:31",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2023-02-09 09:05:31",

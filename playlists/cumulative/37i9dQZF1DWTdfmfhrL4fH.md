@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-543 songs - 1 day 10 hr 6 min
+544 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Mind Your Manners](https://open.spotify.com/track/2PdxbK3d0ZS58dD8jRqR6L) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lightning Bolt](https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M) | 2:38 | 2022-05-25 | 2022-07-28 |
 | [Miracle](https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:26 | 2022-05-25 |  |
 | [Miss Nothing](https://open.spotify.com/track/1FFpE97M77Nf8HxF8SDJZJ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:13 | 2022-05-25 | 2022-07-27 |
-| [Missed Connection](https://open.spotify.com/track/4R9KztunyNTH13KtAqePLp) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:15 | 2023-01-18 |  |
+| [Missed Connection](https://open.spotify.com/track/4R9KztunyNTH13KtAqePLp) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:15 | 2023-01-18 | 2023-09-07 |
 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 | 2022-05-25 | 2023-05-14 |
 | [Monarchy of Roses](https://open.spotify.com/track/16Bf9uR4PI2dCoXDIjs0cP) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 4:11 | 2022-05-25 | 2022-07-22 |
 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 | 2022-05-25 | 2023-08-30 |
@@ -391,6 +391,7 @@
 | [Red Flag Day](https://open.spotify.com/track/5EUCP8FTOGYUBqaYaYVpmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:19 | 2022-05-25 | 2022-07-09 |
 | [Reflektor](https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 7:30 | 2022-05-25 |  |
 | [Remember Everything](https://open.spotify.com/track/02W7gkxX3cgmddUQeUMwJe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 4:38 | 2022-05-25 | 2023-08-20 |
+| [Remember Everything](https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 4:38 | 2023-01-18 |  |
 | [Remember Everything](https://open.spotify.com/track/4G2GSsAneHpcG5J8cKGXyw) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe\)](https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy) | 4:38 | 2022-05-25 | 2022-07-28 |
 | [Remember When](https://open.spotify.com/track/7jp3STyCSsoakSPUoKTtFX) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 3:29 | 2022-05-25 | 2023-08-31 |
 | [Renegade Music](https://open.spotify.com/track/3WiWXLl3u4MH9Xz1uEDcO4) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Renegade Music](https://open.spotify.com/album/2Rw9mBFhhWxe19izrj0T98) | 3:23 | 2022-05-25 | 2022-11-18 |

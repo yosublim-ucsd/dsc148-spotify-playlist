@@ -21034,10 +21034,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 213484,
       "name": "Unreleased leak",
       "url": "https://open.spotify.com/track/1zcGglVX1j3nM6kOjrUt5J"
+    },
+    {
+      "album": {
+        "name": "Ganger",
+        "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213484,
+      "name": "Unreleased leak",
+      "url": "https://open.spotify.com/track/5II9VQpQ8MGDWwBZfVyxTN"
     },
     {
       "album": {

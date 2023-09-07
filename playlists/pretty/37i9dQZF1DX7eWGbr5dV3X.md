@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 28 | [Mess](https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Mess](https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN) | 3:32 |
 | 29 | [Fix Me](https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk) | 3:25 |
 | 30 | [Man Who Loves You](https://open.spotify.com/track/6vJogWl1AUnWilW3UCKQ8K) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:29 |
-| 31 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
-| 32 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 |
+| 31 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 |
+| 32 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
 | 33 | [Goals\_](https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Goals\_](https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a) | 3:29 |
 | 34 | [Sorry](https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [Sorry](https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn) | 2:54 |
 | 35 | [K I'm Mortal](https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [K I'm Mortal](https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P) | 3:40 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 44 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 |
 | 45 | [Safe](https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI) | 3:23 |
 
-Snapshot ID: `MCxmOTNiZDhmZmFiODhhZWE1YmIwMjFiZWEwMDU3MDJkODdiZjNiYTg2`
+Snapshot ID: `MCw5MTdmYTU4ZWFkY2JlOWQ4YjhkMzc0YjQ1MDJiM2NlYzg4ZjhiMDVl`

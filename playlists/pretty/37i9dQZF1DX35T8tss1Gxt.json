@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147\">Dante Bowe</a>",
-  "num_followers": 211223,
+  "num_followers": 211326,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2U5MjJlYjMxOTZhY2FlNWMyZmRmOWUwMmY5Zjg0ZmZhZmNiZTk1",
+  "snapshot_id": "MCxkMzY5NDNjYmZiMGJiMGZjZjZkMWY1NWFlYzIzYTEzNTM3NTJlOGIy",
   "tracks": [
     {
       "added_at": "2023-07-21 11:58:05",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 231879,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Get to Me",
-        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Get to Me",
-      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Home Called Heaven",
         "url": "https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 227719,
       "name": "Home Called Heaven",
       "url": "https://open.spotify.com/track/1RUgjAvt8majG62li8evpf"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Get to Me",
+        "url": "https://open.spotify.com/album/56aVzknaQ0OunipgBpWn4y"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Get to Me",
+      "url": "https://open.spotify.com/track/2LRIT8uc9Xj6qZDGwAXFhT"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Miracles (feat. Pastor Mike Jr.)",
-        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 358885,
-      "name": "Miracles (feat. Pastor Mike Jr.)",
-      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 185510,
       "name": "Down (Remix)",
       "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Miracles (feat. Pastor Mike Jr.)",
+        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 358885,
+      "name": "Miracles (feat. Pastor Mike Jr.)",
+      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Ultimate Self",
-        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Ultimate Self",
-      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "NITE-N-DAY - EP",
         "url": "https://open.spotify.com/album/0elwGmWUMo8oDksWnvqyoC"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "pillow soft",
-        "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
+        "name": "Ultimate Self",
+        "url": "https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd"
       },
       "artists": [
         {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+          "name": "Lani Rose",
+          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
         }
       ],
-      "duration_ms": 143439,
-      "name": "pillow soft",
-      "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
+      "duration_ms": 225000,
+      "name": "Ultimate Self",
+      "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1175,6 +1159,22 @@
       "duration_ms": 180678,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "pillow soft",
+        "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 143439,
+      "name": "pillow soft",
+      "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "I'll Praise",
+        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 160405,
+      "name": "I'll Praise",
+      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/54LWHBnYqAVc9lVI7LaJ9Q"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "I'll Praise",
-        "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 160405,
-      "name": "I'll Praise",
-      "url": "https://open.spotify.com/track/76z0xBhIITVBwHni9PZZ8v"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1831,18 +1831,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
       "artists": [
         {
-          "name": "Relena-Rochelle",
-          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 167926,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
+      "duration_ms": 180375,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1863,22 +1867,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+          "name": "Relena-Rochelle",
+          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
         }
       ],
-      "duration_ms": 180375,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+      "duration_ms": 167926,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
     }
   ],
   "unique_name": "Rhythm & Praise",

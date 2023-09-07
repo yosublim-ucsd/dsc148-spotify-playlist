@@ -1,12 +1,12 @@
 {
   "description": "The new wave of rock from the UK & Ireland. Cover: VENUS GRRRLS",
-  "num_followers": 6838,
+  "num_followers": 6860,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGZmNWY2YTVjMmJlZTY3OWQ4NDlmNzQ1ZThkZWUxN2UxNTM4ODYz",
+  "snapshot_id": "MCwzZGY4YmY0NzhhYzRlY2Q3YTNkYTEzYWM0NjVkZWM2ZDlhOWRmMmFi",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -854,6 +854,10 @@
         {
           "name": "POLICE CAR COLLECTIVE",
           "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        },
+        {
+          "name": "Cole Bleu",
+          "url": "https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S"
         }
       ],
       "duration_ms": 126744,

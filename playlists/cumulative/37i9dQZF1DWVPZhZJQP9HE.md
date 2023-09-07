@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-439 songs - 1 day 2 hr 3 min
+440 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Kadha Sollava](https://open.spotify.com/track/48OzFwA6DSCqMRijia83fZ) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kadha Sollava](https://open.spotify.com/album/68elX72BSUN5eH5SWrH1XE) | 2:48 | 2023-01-24 | 2023-08-03 |
 | [Kadhal Alaiye](https://open.spotify.com/track/3zVaTgEzpYZnYUrYT5TGPC) | [Guru Prasath](https://open.spotify.com/artist/6N0b4qpUvm8OcghNE1OtSd), [Prasanna Adhisesha](https://open.spotify.com/artist/2RI0JvkmtOl5Se3SVrWYfn), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Sowmya](https://open.spotify.com/artist/4TgdGWqMfO5fl1GE89uD4K) | [Kadhal Alaiye](https://open.spotify.com/album/1ilP7gB9SYitSuKnbcl7Du) | 3:19 | 2023-01-13 | 2023-04-01 |
 | [Kadhal Chedi](https://open.spotify.com/track/2RkzxdwBSOWo5fKTkIDghj) | [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7) | [Kadhal Chedi](https://open.spotify.com/album/6OAeOR3T8QJMhmISwGv6Mr) | 3:29 | 2022-07-26 | 2023-02-07 |
+| [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO) | 3:44 | 2023-09-06 |  |
 | [Kadhal Kandraavi](https://open.spotify.com/track/7w4IGTgcxIpKKkynF7EPv6) | [inFuze](https://open.spotify.com/artist/11tX2vQnkSxUNwy15fIL6U), [Steve Cliff](https://open.spotify.com/artist/3E0yr1MsO4kPFbvq9PHBMd) | [Kadhal Kandraavi](https://open.spotify.com/album/4W12O1istsodXAi9WgbAno) | 3:38 | 2022-02-14 | 2022-07-08 |
 | [Kadhal Mazhaiyae](https://open.spotify.com/track/05uenVwul3q4H9iaQm4Ohy) | [Emzy Shady](https://open.spotify.com/artist/3kNgX4u7lDyGcp1cK9osEQ), [Lenix](https://open.spotify.com/artist/5xDbPSV29LbyKj4tgkWrZP) | [Kadhal Mazhaiyae](https://open.spotify.com/album/1FU76K9pQLmJUL1eQgT3Pn) | 3:37 | 2022-02-17 | 2022-08-06 |
 | [Kadhal Raasee](https://open.spotify.com/track/4haNuRPEFpfolOmtO0YQvQ) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [OJ Da Tamil Rapper](https://open.spotify.com/artist/0tphHIjvOj8Xkc8Q7WH27C), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Kadhal Raasee](https://open.spotify.com/album/1GSRblB74gF4QNAGzsEPsi) | 3:01 | 2022-11-30 | 2023-03-08 |

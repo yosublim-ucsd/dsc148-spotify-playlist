@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,143 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,304 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 12 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 |
 | 13 | [Serenata huasteca](https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:55 |
 | 14 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
-| 15 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 |
-| 16 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
-| 17 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
+| 15 | [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 |
+| 16 | [La Malagueña](https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 5:24 |
+| 17 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
 | 18 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 |
 | 19 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/4euwnQbnoDNtXQ5LKNb07t) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete, Trio Calaveras y Silvestre Vargas](https://open.spotify.com/album/2QV8SOTtZ3APYWXwBjpNy8) | 2:25 |
 | 20 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 39 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
 | 40 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
 | 41 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 |
-| 42 | [El Barrilito](https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4) | [Los Montanes Del Alamo](https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS) | [Antologia Musical 30 Exitos](https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7) | 2:28 |
-| 43 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
-| 44 | [El Mariachi Loco](https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [No Que No](https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP) | 2:42 |
+| 42 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
+| 43 | [El Barrilito](https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4) | [Los Montanes Del Alamo](https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS) | [Antologia Musical 30 Exitos](https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7) | 2:28 |
+| 44 | [Colas](https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu) | [Conjunto Alma Jarocha](https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f) | [Reventón Veracruzano Puros Éxitos De..](https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh) | 3:36 |
 | 45 | [La Bamba](https://open.spotify.com/track/5vTCRHPzOIXTPx0Bx6fGhM) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana‚ Puro Mariachi](https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo) | 3:01 |
-| 46 | [Colas](https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu) | [Conjunto Alma Jarocha](https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f) | [Reventón Veracruzano Puros Éxitos De..](https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh) | 3:36 |
+| 46 | [El Mariachi Loco](https://open.spotify.com/track/2InG1WrLizDf1KUKYLnmIw) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [No Que No](https://open.spotify.com/album/0GuwpNGXt3Kfl0H8lI5wQP) | 2:42 |
 | 47 | [La Evangelina](https://open.spotify.com/track/3WsjRAP92a3CXO3WVXpCHZ) | [Los Gavilanes Del Norte](https://open.spotify.com/artist/5kqPT6E1RZlzwDYwYOWFfE) | [Polkas Norteñas](https://open.spotify.com/album/1O5AuiYeEUi1TWQnthPMET) | 2:35 |
 | 48 | [15 de Septiembre](https://open.spotify.com/track/21yxW3iXPbxEpa5FRILbdF) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 2:52 |
 | 49 | [Los machetes](https://open.spotify.com/track/1xSDPL5ae24cnZFDwaIO6z) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Memorias Musicales del Mariachi](https://open.spotify.com/album/6DsXaAZwKKpOP1Lex4jDig) | 2:38 |
 | 50 | [La Cucaracha](https://open.spotify.com/track/4b0FVK3GdHI75vdUm8QrHV) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Aires de Mexico](https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi) | 2:28 |
 
-Snapshot ID: `MCxjZmVmZGM3MjI2ZmQzNWNmY2UxNjA0MTA0MmMwZDI2MGI0NWNiZDhk`
+Snapshot ID: `MCw0MjQwZTk2ZjQxYzBkM2VhZDI1NzMwMTljZmNmMmNiNjhkOWM0YmVm`

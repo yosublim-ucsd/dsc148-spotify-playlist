@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 103707,
+  "num_followers": 103748,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDg0MDYxYmVjZTE0YTYyZjI3YmQ4MjUxMDYyNDA2NTdiOGRkNmUy",
+  "snapshot_id": "MCxlZTkzYTA3NWU2MGZkMzUzNDhhOGEzZWIxNTk3OWZjMDQzZGQ1M2Yy",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
-      },
-      "artists": [
-        {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Konge p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
       },
@@ -775,18 +759,42 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+      },
+      "artists": [
+        {
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
+        "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
       "artists": [
         {
           "name": "Kuselofte",
           "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
         }
       ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
+      "duration_ms": 140245,
+      "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
+      "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -911,26 +919,18 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
-        "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
       },
       "artists": [
         {
           "name": "Kuselofte",
           "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
         }
       ],
-      "duration_ms": 140245,
-      "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
-      "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1275,18 +1275,26 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "En f\u00e5r v\u00e6re som en er",
-        "url": "https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
-          "name": "Ole Ivars",
-          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 205818,
-      "name": "Kongen av campingplassen",
-      "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbla\u030a",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

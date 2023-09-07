@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 134544,
+  "num_followers": 134605,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWU2NWU0NDZmODdhZDRiMGI5OTA1YjNmZDU1YzczYjE2NzA2MTJi",
+  "snapshot_id": "MCwyMjY0NWQwYTNkYTU0YTJiNmMxNGUxZDU3NDFjNjY2ZjY2M2YzNWEz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
         }
       ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Slow Dance In A Parking Lot (Acoustic)",
         "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 178285,
       "name": "Slow Dance In A Parking Lot - Acoustic",
       "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+        "name": "All I Need Is You (Piano Version)",
+        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+      "duration_ms": 195806,
+      "name": "All I Need Is You - Piano Version",
+      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "All I Need Is You (Piano Version)",
-        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 195806,
-      "name": "All I Need Is You - Piano Version",
-      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Girls Like You - Stripped",
         "url": "https://open.spotify.com/album/0iNFmOXHsrjgNL5NmSVvQu"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 179680,
       "name": "Girls Like You - Stripped",
       "url": "https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Last Rodeo (Acoustic)",
+        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 190031,
+      "name": "Last Rodeo - Acoustic",
+      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Last Rodeo (Acoustic)",
-        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 190031,
-      "name": "Last Rodeo - Acoustic",
-      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Hate Me More (Stripped)",
-        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 160434,
-      "name": "Hate Me More (Stripped)",
-      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Another (Wedding Version)",
         "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 171188,
       "name": "Another - Wedding Version",
       "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Hate Me More (Stripped)",
+        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "Hate Me More (Stripped)",
+      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Your Love (Acoustic)",
-        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 189615,
-      "name": "Your Love - Acoustic",
-      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 260000,
       "name": "Waves (Live)",
       "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Your Love (Acoustic)",
+        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 189615,
+      "name": "Your Love - Acoustic",
+      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
     },
     {
       "added_at": "2023-09-01 04:00:00",

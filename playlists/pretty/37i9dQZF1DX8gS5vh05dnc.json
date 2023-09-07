@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 132057,
+  "num_followers": 132060,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzhmZDI5NTcwNzEwNDZlOWFlZjRiNmI4ZWEyYmZhYzE1Mjg0ZGIw",
+  "snapshot_id": "MCwxZjY2OTIyYzY0ODkxOGM2ZGVjMjc3N2Q5ZWNiMzJiMmVmZjkxNzU0",
   "tracks": [
     {
       "added_at": "2023-09-04 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "added_at": "2023-09-04 04:00:00",
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
-    },
-    {
-      "added_at": "2023-09-04 04:00:00",
-      "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -763,30 +763,6 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "Despacito Feat. Justin Bieber (Remix)",
-        "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Despacito - Remix",
-      "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
-    },
-    {
-      "added_at": "2023-09-04 04:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2023-09-04 04:00:00",
+      "album": {
+        "name": "Despacito Feat. Justin Bieber (Remix)",
+        "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Despacito - Remix",
+      "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -915,42 +915,6 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 183925,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
-    },
-    {
-      "added_at": "2023-09-04 04:00:00",
-      "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
-    },
-    {
-      "added_at": "2023-09-04 04:00:00",
-      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -971,22 +935,38 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "STELLA & STEVE",
-        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
         }
       ],
-      "duration_ms": 223480,
-      "name": "Supalonely",
-      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
+    },
+    {
+      "added_at": "2023-09-04 04:00:00",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 183925,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -1007,6 +987,26 @@
       "duration_ms": 232853,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/6mXdCcFnPKQznj4CmMRmHC"
+    },
+    {
+      "added_at": "2023-09-04 04:00:00",
+      "album": {
+        "name": "STELLA & STEVE",
+        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Supalonely",
+      "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2023-09-04 04:00:00",
+      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 226160,
       "name": "Side To Side",
       "url": "https://open.spotify.com/track/43bCmCI0nSgcT7QdMXY6LV"
-    },
-    {
-      "added_at": "2023-09-04 04:00:00",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2023-09-04 04:00:00",

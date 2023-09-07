@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Yng Lvcas & DrefQuila.
 
-588 songs - 1 day 8 hr 5 min
+589 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Entendemos](https://open.spotify.com/track/2Pz9DnS04JtX70gERPeorz) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Sistema](https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM) | 3:33 | 2021-12-24 | 2022-03-18 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2021-12-24 | 2022-01-15 |
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-02-18 | 2022-09-02 |
+| [Escándalo](https://open.spotify.com/track/1jtlQznvROmiq3b3gulGzE) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Escándalo](https://open.spotify.com/album/3OA4b7KyqgX26a6r7XZWE3) | 2:46 | 2023-09-06 |  |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2021-12-24 | 2022-02-19 |
 | [Esta Dejá](https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:01 | 2021-12-24 | 2022-06-11 |
 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 | 2022-02-18 | 2022-08-27 |

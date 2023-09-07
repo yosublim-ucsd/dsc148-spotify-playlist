@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcWL5K0oNHcG)
 
-> Fresh jazz by independent artists every Wednesday\. Cover: Cisco Swank Artwork: Joy Yamusangie
+> Fresh jazz by independent artists every Wednesday\. Cover: Sen Morimoto Artwork: Joy Yamusangie
 
-1,232 songs - 4 day 1 hr 37 min
+1,233 songs - 4 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Back into Space](https://open.spotify.com/track/3Io8fYuBkKtRCAV80N1BDy) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Back into Space](https://open.spotify.com/album/5vDRjgLpG543rxS5KRdSfR) | 4:11 | 2022-05-18 | 2022-06-16 |
 | [Back to the Future](https://open.spotify.com/track/2DJRXtc51sD6tC1qOLiQLl) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Antiloops](https://open.spotify.com/artist/7xpNzqZV8QdDRSNA53fUAb) | [Back to the Future](https://open.spotify.com/album/1Prun5wLBaM7tfTEyJe2ap) | 3:24 | 2022-04-13 | 2022-05-12 |
 | [Back to you](https://open.spotify.com/track/5JIktP5Tdr1Azs6xAQGssi) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Back to you](https://open.spotify.com/album/5iwR3OV9mPjCQH1GmDq1AF) | 4:08 | 2022-09-21 | 2023-01-12 |
+| [Bad State](https://open.spotify.com/track/2V4vuCR0VyMyq2zyb0Ou0u) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Bad State](https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R) | 2:23 | 2023-09-06 |  |
 | [Bakeren](https://open.spotify.com/track/1tl99aJBxyHmTomw8WHhCY) | [Espen Horne](https://open.spotify.com/artist/7hpcUZfbdKYP4JMC1zNaYW), [Faye Houston](https://open.spotify.com/artist/5062CWWnt9yuyESJ5uKrIB) | [Bakeren](https://open.spotify.com/album/29vxqC6XoqZkfCB0O5j0Xv) | 4:53 | 2023-05-10 | 2023-07-20 |
 | [Bald](https://open.spotify.com/track/15NxxtxCbctEpZCkDKKaC2) | [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY), [Prizm Wizard](https://open.spotify.com/artist/3NY11hCKUaJRJmsPo4pu4c), [Adam Mansfield](https://open.spotify.com/artist/07lxEN2yQLJijFHjZV01Uf), [Ryan Nadin](https://open.spotify.com/artist/1eDdmLqcLhJXubA0xItdGA) | [Bald](https://open.spotify.com/album/6cPvXvJbEQK1dQ1Yq1nnnT) | 2:21 | 2022-09-21 | 2022-10-27 |
 | [Ballade](https://open.spotify.com/track/1jsvElBBPNPlTHR4RDi1Tj) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Ballade](https://open.spotify.com/album/3RSKY05f7foURdIh9uLcxA) | 3:02 | 2023-05-17 | 2023-07-20 |
@@ -1005,7 +1006,7 @@
 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 | 2023-05-24 | 2023-08-10 |
 | [Take 50](https://open.spotify.com/track/6e6vZ47BF8pnP9Ve6kUHko) | [Quarter to Africa](https://open.spotify.com/artist/3vOaGVqHAJ9ZSBIhbPaciM) | [Take 50](https://open.spotify.com/album/4Zcu7oIjg3v2Kc2nov7N0I) | 4:34 | 2022-01-19 | 2022-02-17 |
 | [Take Them On](https://open.spotify.com/track/2vECh3gpUppsRKDKP4tndx) | [The Bogie Band](https://open.spotify.com/artist/6A8JusPR2vVzgZsZ73LMsG), [Stuart Bogie](https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf), [Joe Russo](https://open.spotify.com/artist/6IBqjWy0ZvqhVTBjtLJgYV) | [The Prophets in the City](https://open.spotify.com/album/6kZPGdj57jCZHgeEg28ASc) | 3:43 | 2022-03-30 | 2022-04-27 |
-| [Tame It](https://open.spotify.com/track/36LrjOrsZpubA8Lh5PnIGw) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [KiliHippie](https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX) | [Tame It](https://open.spotify.com/album/3lQBGb4hCkJ5HCdXOrh7Hn) | 3:35 | 2023-07-05 |  |
+| [Tame It](https://open.spotify.com/track/36LrjOrsZpubA8Lh5PnIGw) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [KiliHippie](https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX) | [Tame It](https://open.spotify.com/album/3lQBGb4hCkJ5HCdXOrh7Hn) | 3:35 | 2023-07-05 | 2023-09-07 |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-03-09 | 2023-04-20 |
 | [Tears \-ⅠSob](https://open.spotify.com/track/6HuZVMRKOdTQfIm5TAbIHz) | [平倉初音トリオ](https://open.spotify.com/artist/4r5Ua6zhOnytjKnQr5MQn2) | [Tears](https://open.spotify.com/album/26DMPqaj6Y6CzFkyhmuOVc) | 6:34 | 2022-06-22 | 2022-07-21 |
 | [Teatro Kabuki](https://open.spotify.com/track/4ni65Jg9quhyNp0PXLU0hR) | [Fred Red](https://open.spotify.com/artist/7jZQdP8ZyE3hXyP66y51Bx), [Malik Diao](https://open.spotify.com/artist/7IxwZNOXJe9NktbZmWNiHV) | [Teatro Kabuki](https://open.spotify.com/album/19vgHEjvea39kZgeLKx6ik) | 3:02 | 2023-01-11 | 2023-03-23 |

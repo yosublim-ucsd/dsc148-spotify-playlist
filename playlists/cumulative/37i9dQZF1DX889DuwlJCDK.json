@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Dreamy Soul Of Language",
+        "url": "https://open.spotify.com/album/28BP4mS8hNnYdC6qtzlI1O"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Dreamy Soul Of Language",
+      "url": "https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0"
+    },
+    {
+      "album": {
         "name": "Even if the world hates me (2023 ver.)",
         "url": "https://open.spotify.com/album/3Mw3CdZ9Zt838W2gQ8yhqz"
       },
@@ -844,10 +862,28 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 266357,
       "name": "madatripper",
       "url": "https://open.spotify.com/track/1Hh3QSf7fPLVuky3D9BaMa"
+    },
+    {
+      "album": {
+        "name": "Madatripper",
+        "url": "https://open.spotify.com/album/0HoXHpuT8PGPTlAo2sRuPu"
+      },
+      "artists": [
+        {
+          "name": "CHUCK TAYLORS",
+          "url": "https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266357,
+      "name": "Madatripper",
+      "url": "https://open.spotify.com/track/6M8rQwcw2cejAJfurs2Nbx"
     },
     {
       "album": {
@@ -977,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u306e\u5b50\u306e\u5c45\u5834\u6240",
+        "url": "https://open.spotify.com/album/1SPApkvSiWPYoR9RtsEbdW"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30de\u30a4\u30ac\u30fc\u30eb!!",
+          "url": "https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261320,
+      "name": "never",
+      "url": "https://open.spotify.com/track/1B2Lt7VQ5aNkbTLuViieCf"
+    },
+    {
+      "album": {
         "name": "never",
         "url": "https://open.spotify.com/album/2LQaHH45sZDy0p3GudOjgU"
       },
@@ -988,7 +1042,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 261320,
       "name": "never",
       "url": "https://open.spotify.com/track/6qMhk6Xj8nR3BZk1OdBEyx"
@@ -2608,7 +2662,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 203500,
       "name": "\u5922\u898b\u308b\u30b3\u30c8\u30c0\u30de",
       "url": "https://open.spotify.com/track/2MKluK2KfxYohBpYNmZz3M"

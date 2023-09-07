@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 
 > California dreaming\. Listen to the soundtrack that shaped a generation\. 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,177 likes - 51 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,235 likes - 51 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 | 16 | [A Bad Dream](https://open.spotify.com/track/6sinw4zZPdNS2ftU1QfTyK) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 5:04 |
 | 17 | [Eve, The Apple Of My Eye](https://open.spotify.com/track/4IKBiI4qqSQKU7kYKFa8XG) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Music In Mouth](https://open.spotify.com/album/2hZw9YXp6w9fDMD0RWs8F1) | 5:33 |
 | 18 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
-| 19 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 |
+| 19 | [We Used To Be Friends](https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:19 |
 | 20 | [Goodnight and Go](https://open.spotify.com/track/0vfWzo75MKGYiQSiT5jEzt) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:52 |
 | 21 | [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 |
 | 22 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 | 50 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:45 |
 | 51 | [Out Of Control](https://open.spotify.com/track/6zIkiZqUnSMsuRJ6acyJuD) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 7:19 |
 
-Snapshot ID: `MCwwZDdkN2QzNjE2MDBjNzEyZTRiY2Q0NmE5NDA1N2E3ZjcxMzk0MTBm`
+Snapshot ID: `MCxkMTYzMTdkZWNhNmZhMjkzNTkwMWY3NDYwYWYwMzA4OTQ3ZjE4ZGNl`

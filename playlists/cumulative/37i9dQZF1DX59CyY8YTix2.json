@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "KikiKaikai",
+        "url": "https://open.spotify.com/album/4wkbntjtGIVTsORR7qH1XD"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6728\u6e1a",
+          "url": "https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Gatsby",
+      "url": "https://open.spotify.com/track/0fY2kx2T3v1XIsyL1fWNQP"
+    },
+    {
+      "album": {
         "name": "\u5668\u5668\u56de\u56de",
         "url": "https://open.spotify.com/album/1yrsuxaSlA0QvvF7hfNRzN"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 222533,
       "name": "Gatsby",
       "url": "https://open.spotify.com/track/6oMAlkEP9u96hfAMoZfTwo"
@@ -2843,6 +2861,28 @@
     },
     {
       "album": {
+        "name": "GO STRAIGHT feat.KOPI",
+        "url": "https://open.spotify.com/album/5B2ujC57Dcjt2PNZoyy7SE"
+      },
+      "artists": [
+        {
+          "name": "kobasolo",
+          "url": "https://open.spotify.com/artist/4n2W84plMrq8WttT18Npwi"
+        },
+        {
+          "name": "KOPI",
+          "url": "https://open.spotify.com/artist/2AmXHyB9qc6FlnOuy9loLE"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206116,
+      "name": "GO STRAIGHT feat.KOPI",
+      "url": "https://open.spotify.com/track/3EaUfuF5JpTGuBUUo4f1pi"
+    },
+    {
+      "album": {
         "name": "GO STRAIGHT feat.\u3053\u3074",
         "url": "https://open.spotify.com/album/6naodXZPKLKBBYd0Hbdv3u"
       },
@@ -2858,7 +2898,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 206116,
       "name": "GO STRAIGHT feat.\u3053\u3074",
       "url": "https://open.spotify.com/track/6FXLer6D6xXJvK0xErLlvn"
@@ -5757,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u306e\u5b50\u306e\u5c45\u5834\u6240",
+        "url": "https://open.spotify.com/album/1SPApkvSiWPYoR9RtsEbdW"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30de\u30a4\u30ac\u30fc\u30eb!!",
+          "url": "https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261320,
+      "name": "never",
+      "url": "https://open.spotify.com/track/1B2Lt7VQ5aNkbTLuViieCf"
+    },
+    {
+      "album": {
         "name": "never",
         "url": "https://open.spotify.com/album/2LQaHH45sZDy0p3GudOjgU"
       },
@@ -5768,7 +5826,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 261320,
       "name": "never",
       "url": "https://open.spotify.com/track/6qMhk6Xj8nR3BZk1OdBEyx"
@@ -10104,7 +10162,7 @@
     {
       "album": {
         "name": "\u3042\u308b\u590f\u306e\u8a18\u9332",
-        "url": "https://open.spotify.com/album/4qINgkQDfjk1a9SNffeh7M"
+        "url": "https://open.spotify.com/album/2flAmkwxY2hg2mZ6elCFhE"
       },
       "artists": [
         {
@@ -10115,6 +10173,24 @@
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183583,
+      "name": "\u3042\u308b\u590f\u306e\u8a18\u9332",
+      "url": "https://open.spotify.com/track/2cRAbQKSmwpDBWk1k6iCzU"
+    },
+    {
+      "album": {
+        "name": "\u3042\u308b\u590f\u306e\u8a18\u9332",
+        "url": "https://open.spotify.com/album/4qINgkQDfjk1a9SNffeh7M"
+      },
+      "artists": [
+        {
+          "name": "kittone",
+          "url": "https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
       "duration_ms": 183583,
       "name": "\u3042\u308b\u590f\u306e\u8a18\u9332",
       "url": "https://open.spotify.com/track/5s5uO2dBoYA8MiFAYmNtJJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,775 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,823 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,17 +57,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 47 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
 | 48 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
 | 49 | [Tranquilo](https://open.spotify.com/track/1fobXPCu47gikLMIoyQBLy) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Tranquilo](https://open.spotify.com/album/1qhBvfD0i324wwBlU0QZxD) | 4:23 |
-| 50 | [MONCLER](https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:40 |
-| 51 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
+| 50 | [Louco](https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Louco](https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D) | 4:04 |
+| 51 | [MONCLER](https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [HOODZ](https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 3:40 |
 | 52 | [Stunka](https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Stunka](https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf) | 3:08 |
 | 53 | [Coração](https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu) | [Anatomia de GROG](https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y) | 4:42 |
 | 54 | [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 |
 | 55 | [GOD MODE](https://open.spotify.com/track/6EUF8bqqgRbkXgYOPSrJXj) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [GOD MODE](https://open.spotify.com/album/6y8APcv5ZwKstmaTBD5Jqf) | 4:14 |
 | 56 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 57 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
-| 58 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 |
+| 58 | [Conto Bafiento](https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG) | [Conto Bafiento](https://open.spotify.com/album/3QRH1H6QoLo6mjDaLAaryZ) | 4:07 |
 | 59 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
-| 60 | [Conto Bafiento](https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG) | [Conto Bafiento](https://open.spotify.com/album/3QRH1H6QoLo6mjDaLAaryZ) | 4:07 |
+| 60 | [ES7ÁDIO](https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [ES7ÁDIO](https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq) | 3:37 |
 | 61 | [P de Pablito](https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [P de Pablito](https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF) | 3:02 |
 | 62 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
 | 63 | [FAMA](https://open.spotify.com/track/35uZfu8sybuugk9DkelTFv) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [FAMA](https://open.spotify.com/album/2wehAGXNEm5zttICwk1ERI) | 2:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 74 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 | 75 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 
-Snapshot ID: `MCxlMWE3ZTRhZjBmMGViNWJiZWI0MjBjZmNhZTI3YjAxZGJiNzkwODUy`
+Snapshot ID: `MCwzNTIxMzljMTg3ZGU1M2QzNjYzNDM5NjhjODJmNzg3MTUzZDE1ZGE2`

@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 777319,
+  "num_followers": 777484,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzBhYzEyYThlYTdiNWFlODE2NmYyMGRlMzRlZjgzOGFmYjQ5MzMz",
+  "snapshot_id": "MCw5MjcyYTFhN2FkODkyZjJiODJjZTA1YmVlMjY5NGY4NmU3M2JmNjMz",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:45",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-09-02 00:00:45",
       "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 337308,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
+    },
+    {
+      "added_at": "2023-09-02 00:00:45",
+      "album": {
         "name": "Onde?",
         "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 190592,
       "name": "Ningue\u0301m",
       "url": "https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG"
-    },
-    {
-      "added_at": "2023-09-02 00:00:45",
-      "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 337308,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
     },
     {
       "added_at": "2023-09-02 00:00:45",

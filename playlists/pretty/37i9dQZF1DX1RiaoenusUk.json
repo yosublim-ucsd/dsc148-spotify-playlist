@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 24010,
+  "num_followers": 24023,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjNlNjRkNTU3MDc3NjNjYmMzZGYyMGM0MzBlYzgwZmI1ZTA0OGNl",
+  "snapshot_id": "MCw1NDIxNTc2YWJlNzE5ODM3ODQ1N2JjYzlhNDEyMmZkYjU3MGU4ZjFm",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "The New Sound of the Venezuelan Gozadera",
-        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
+        "name": "Combustion Espont\u00e1nea",
+        "url": "https://open.spotify.com/album/0zjwZODdvGyYNNwcIU89Ir"
       },
       "artists": [
         {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+          "name": "Crewrod",
+          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Ultra-Funk",
-      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
+      "duration_ms": 117016,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/7jUpS0VQn1kmdlZEfsyf7q"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Combustion Espont\u00e1nea",
-        "url": "https://open.spotify.com/album/0zjwZODdvGyYNNwcIU89Ir"
+        "name": "The New Sound of the Venezuelan Gozadera",
+        "url": "https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh"
       },
       "artists": [
         {
-          "name": "Crewrod",
-          "url": "https://open.spotify.com/artist/0IRPT7hzEs6iBFYxFB3kmk"
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
         }
       ],
-      "duration_ms": 117016,
-      "name": "Happy Ending",
-      "url": "https://open.spotify.com/track/7jUpS0VQn1kmdlZEfsyf7q"
+      "duration_ms": 218666,
+      "name": "Ultra-Funk",
+      "url": "https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 203506,
       "name": "Baila el Funk",
       "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 296120,
-      "name": "El Cocinero",
-      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Prescription For Soul",
         "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 241706,
       "name": "Can't Fight The Funk",
       "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 296120,
+      "name": "El Cocinero",
+      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Musica Pa'l Mundo",
         "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 233373,
       "name": "Simon Freak",
       "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -867,42 +867,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Guacamole",
-        "url": "https://open.spotify.com/album/3raZcKrCjK3p09mhwHw52N"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 279399,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/00FsHXEI0mghYOXWCxLenP"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Flecha Verde",
-        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 183215,
-      "name": "Flecha Verde",
-      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Los Funktasticos Genitales",
         "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
@@ -915,6 +879,22 @@
       "duration_ms": 236858,
       "name": "Alergica",
       "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/3raZcKrCjK3p09mhwHw52N"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 279399,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/00FsHXEI0mghYOXWCxLenP"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -971,6 +951,50 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Flecha Verde",
+        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 183215,
+      "name": "Flecha Verde",
+      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Poppin",
+        "url": "https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE"
+      },
+      "artists": [
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        },
+        {
+          "name": "Josefina Fiebelkorn",
+          "url": "https://open.spotify.com/artist/5cTcXQ78LkQxxXNZcYyIiC"
+        },
+        {
+          "name": "Rojai",
+          "url": "https://open.spotify.com/artist/2j6f7lxXOFnCcHVPcv9osR"
+        }
+      ],
+      "duration_ms": 296319,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/4y0BxbN4myQ0ty0mu0ZVty"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Combustication",
         "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
       },
@@ -1007,78 +1031,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Poppin",
-        "url": "https://open.spotify.com/album/6NFHjrAmxBu1h3wqrZglVE"
-      },
-      "artists": [
-        {
-          "name": "C-Funk",
-          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
-        },
-        {
-          "name": "Josefina Fiebelkorn",
-          "url": "https://open.spotify.com/artist/5cTcXQ78LkQxxXNZcYyIiC"
-        },
-        {
-          "name": "Rojai",
-          "url": "https://open.spotify.com/artist/2j6f7lxXOFnCcHVPcv9osR"
-        }
-      ],
-      "duration_ms": 296319,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/4y0BxbN4myQ0ty0mu0ZVty"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Env\u00e9s",
-        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
-      },
-      "artists": [
-        {
-          "name": "Javier Malosetti",
-          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
-        }
-      ],
-      "duration_ms": 378213,
-      "name": "Maybe I'm Leo",
-      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Especies",
-        "url": "https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 193944,
-      "name": "Croto",
-      "url": "https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Chicas on Fire - Single",
         "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
       },
@@ -1091,6 +1043,22 @@
       "duration_ms": 240085,
       "name": "Chicas on Fire",
       "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Env\u00e9s",
+        "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
+      },
+      "artists": [
+        {
+          "name": "Javier Malosetti",
+          "url": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV"
+        }
+      ],
+      "duration_ms": 378213,
+      "name": "Maybe I'm Leo",
+      "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "A Pesar de la Tormenta",
         "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Especies",
+        "url": "https://open.spotify.com/album/4hPlGM0VqF1tmjVtkKyKo7"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 193944,
+      "name": "Croto",
+      "url": "https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/5Js2VcV6zO50yS2T1UwVdM"
       },
@@ -1143,38 +1143,6 @@
       "duration_ms": 176924,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/5d007GtoRlEUZQghmKt9ps"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Twice",
-        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        },
-        {
-          "name": "Funky Torinos",
-          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1379,18 +1375,38 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
       },
       "artists": [
         {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+      "duration_ms": 216249,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2023-08-25 03:00:00",

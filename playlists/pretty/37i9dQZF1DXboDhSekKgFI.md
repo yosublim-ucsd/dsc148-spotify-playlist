@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,764 likes - 61 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,788 likes - 61 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 3 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 |
 | 4 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 |
 | 5 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
-| 6 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
-| 7 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 6 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
+| 7 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
 | 8 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 | 9 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
 | 10 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 45 | [Merengue!](https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:15 |
 | 46 | [Un Día Voy a Ser Gigante](https://open.spotify.com/track/24F2hfF3c2hx0wAzzP1NHn) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 3:16 |
 | 47 | [Despacito](https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:52 |
-| 48 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
+| 48 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
 | 49 | [Copy Paste](https://open.spotify.com/track/39UXEKOYb2YXx3GgzQf7hs) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Copy Paste](https://open.spotify.com/album/0BMYDRsP7t1nBcDM2Lmatn) | 3:01 |
 | 50 | [Mi Gente](https://open.spotify.com/track/5ztaePc76dP2m4hUvbI1Gt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 3:06 |
 | 51 | [A Bailar \(Reggaeton\)](https://open.spotify.com/track/1o57FlJbOyZyg9f6ZZYR4W) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T), [Dj Checho](https://open.spotify.com/artist/22x9PuTD1UCatt3pkPn8QZ) | [Por Ti y Para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:24 |
 | 52 | [La Luz](https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X) | [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:40 |
-| 53 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
+| 53 | [Vamos a Jugar](https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:55 |
 | 54 | [Speedy Gonzalez](https://open.spotify.com/track/11dG2Slr6F3a3UB7MHztvd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:25 |
 | 55 | [Chiqui Boom](https://open.spotify.com/track/6QOEP25z7BqTTIK8Skyu7Z) | [Banda Infantil](https://open.spotify.com/artist/28qWzF1RMBH0ZJrSj20BdZ) | [Colorea Tu Portada Vol.25](https://open.spotify.com/album/6B4ZCjw573fCJh94YZq6nV) | 3:12 |
 | 56 | [Será un Día Fenomenal \(De "Phineas & Ferb"\)](https://open.spotify.com/track/2yKwySjvnUXeIQ4eqwBmFj) | [Super Banda Infantil](https://open.spotify.com/artist/7mtajIQbgVMoKTabPTzXVU) | [Canciones Infantiles](https://open.spotify.com/album/4yu4Wj0D2Jz2FNWuJplHIB) | 3:06 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 60 | [Desconocidos](https://open.spotify.com/track/18K0QPs7G0yPaDlz1W47bG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:26 |
 | 61 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 
-Snapshot ID: `MCwzN2Y4ZTY1YzM2MTNjOTIxYzE2OThiOTM5NDQzNzA4YmQ0Yzg3ODRl`
+Snapshot ID: `MCw5MjNkNjQyMDBiN2U4ZGQ4NTNkOWNjOTk1N2U4NTczZmE4MjFiMmM0`

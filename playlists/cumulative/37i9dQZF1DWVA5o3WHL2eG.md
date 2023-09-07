@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: MOLA
 
-1,085 songs - 2 day 8 hr 34 min
+1,086 songs - 2 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Dunkles Herz](https://open.spotify.com/track/0Ukdo082XT59U3knpa7fPf) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Dunkles Herz](https://open.spotify.com/album/6yeDqR3YGVmFUwP9lTTn9u) | 3:04 | 2023-04-04 | 2023-05-03 |
 | [Durch die Nacht](https://open.spotify.com/track/4oYy8ZAuW2cwqCiN3ysE2E) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA) | [Perlen](https://open.spotify.com/album/1n5G19KN2dpBAtdaC1VZBn) | 3:12 | 2023-06-06 | 2023-07-05 |
 | [Dušo](https://open.spotify.com/track/2SeAVXkFIKPadWuXfGLmU0) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Dušo](https://open.spotify.com/album/6RWLB9voMduITYuOO2wULl) | 2:56 | 2023-08-01 | 2023-09-06 |
+| [Dynamit](https://open.spotify.com/track/61gLecFYRRatHP8D0JPYRK) | [Gigolo Tears](https://open.spotify.com/artist/59pdIy4nTA2X9oRaA17vk7) | [Dynamit](https://open.spotify.com/album/1KYZ9H3uumgyBsSkzl8CRF) | 2:29 | 2023-09-06 |  |
 | [Easy Out](https://open.spotify.com/track/31p8TpE84SfbZ7wj21IOyu) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Easy Out](https://open.spotify.com/album/0s3KsymHAAPrJsZ6c7KJUY) | 2:56 | 2023-07-04 | 2023-08-02 |
 | [Echt](https://open.spotify.com/track/5m1EmuvBcvReq1Wbsuzcl0) | [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Echt](https://open.spotify.com/album/62ROhodMC9Pgx0O9o4QFde) | 2:56 | 2023-02-28 | 2023-04-05 |
 | [Egal was](https://open.spotify.com/track/71z6IWe0V0z5mfLcvxEJFt) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Egal was](https://open.spotify.com/album/51427tNhEqzDNVbtLQJyFZ) | 2:28 | 2023-08-01 | 2023-09-06 |
@@ -503,7 +504,7 @@
 | [Keiner Kennt Dich](https://open.spotify.com/track/0QXUvBjR9s2zm7bo4OziO2) | [BABE](https://open.spotify.com/artist/39hWGyIQGZp8mBmNdpVH0Y) | [Keiner Kennt Dich](https://open.spotify.com/album/6vmOnI9bXC6oeJ4USdFluK) | 2:44 | 2022-04-05 | 2022-05-04 |
 | [Kick it like Beckham](https://open.spotify.com/track/0oZuai4FHOLGs7cI01Ac10) | [ACE TEE](https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm) | [Kick it like Beckham](https://open.spotify.com/album/5POGlV8Z7acnrP2wHzsz8M) | 2:07 | 2023-09-05 |  |
 | [Killer](https://open.spotify.com/track/5IrenNXIBzq2YPD8Qbo3Gj) | [Brenda Blitz](https://open.spotify.com/artist/4Y5p81qOj2sCelEgz8Fikd) | [Killer](https://open.spotify.com/album/4vovkbUOIW9zkyZQy0WilV) | 2:35 | 2023-06-06 | 2023-07-05 |
-| [KINDER DER SONNE](https://open.spotify.com/track/1kp9lhT6LljlyWveiLz8ev) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [KIDS](https://open.spotify.com/album/7jGgmaIuDcXmSRgdIV2YAt) | 2:39 | 2023-09-05 |  |
+| [KINDER DER SONNE](https://open.spotify.com/track/1kp9lhT6LljlyWveiLz8ev) | [Yecca](https://open.spotify.com/artist/0ypMouAPYgghSqlAwwOebe) | [KIDS](https://open.spotify.com/album/7jGgmaIuDcXmSRgdIV2YAt) | 2:39 | 2023-09-05 | 2023-09-07 |
 | [Klein\-Marx](https://open.spotify.com/track/4TRnKdnXz3parnrGKklKc0) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Klein\-Marx](https://open.spotify.com/album/7zEUDaYg0t5hCDSa2hyx7Y) | 3:31 | 2022-09-06 | 2022-10-05 |
 | [Klippe](https://open.spotify.com/track/5v55WAa8wfRaVpVHAMDeqc) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8) | [Klippe](https://open.spotify.com/album/0pfjDkd226jzAU1El7wokl) | 2:38 | 2023-01-31 | 2023-03-01 |
 | [Koma](https://open.spotify.com/track/0sOwPqGeO8FhLluS9dSOyc) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Koma](https://open.spotify.com/album/4JBwPoWGowNpzeVN615GTW) | 2:31 | 2022-07-05 | 2022-08-03 |

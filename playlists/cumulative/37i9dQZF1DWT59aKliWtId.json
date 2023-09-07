@@ -7181,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "Killer Bee",
+        "url": "https://open.spotify.com/album/6hKMgzDTb4HuSluQs2vwQP"
+      },
+      "artists": [
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Killer Bee",
+      "url": "https://open.spotify.com/track/1iK5fVde5LlBhKZHQMFkaX"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 170475,
+  "num_followers": 170610,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJmZGViZGM5OTU1NGExODVlYzJlZmU4MDUzMjcxMWEzYzA4Zjdj",
+  "snapshot_id": "MCxkMDUwMDg2OTU0OWRlOGYyZTE0YmJiNTI2OTA1OWFmNDAxMzAzMDY1",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 308893,
-      "name": "Aqu\u00e9l Viejo Motel",
-      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 302866,
-      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
+      "duration_ms": 308893,
+      "name": "Aqu\u00e9l Viejo Motel",
+      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 263400,
       "name": "Comp\u00e1rame",
       "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
         "name": "Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 310831,
       "name": "El Baile del Suavecito",
       "url": "https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
     },
     {
       "added_at": "2022-12-30 20:18:36",

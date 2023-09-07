@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 108833,
+  "num_followers": 108936,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmExOWM1ODY2ZjhjNTA3YTMwZjAyNmQ1NTBkOTQ0ZWY5NGI2ZTg1",
+  "snapshot_id": "MCw5NDlkMjk0YTA3NDg0MDY4NzZjZjg1MmY0MjJlMmRhMTY1ZmEwY2Ex",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Heather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Everywhere (BBC Children In Need)",
         "url": "https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 171413,
       "name": "Everywhere (BBC Children In Need)",
       "url": "https://open.spotify.com/track/0z0kUUd2jPQiI2Ob8VXajc"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Heather - Spotify Singles",
-      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 159651,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 203538,
       "name": "I Wanna Dance With Somebody - Who Loves Me",
       "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 159651,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "glimpse of us",
-        "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "glimpse of us",
-      "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "glimpse of us",
+        "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "glimpse of us",
+      "url": "https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "LOVE ALL COVER ALL",
         "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
       },
@@ -1576,6 +1560,22 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AccJ5bsbh5fiF4uPaQuyE"
       },
       "artists": [
@@ -1587,6 +1587,22 @@
       "duration_ms": 268840,
       "name": "Never Be The Same - Recorded At Revolution Studios, Toronto",
       "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 149189,
+      "name": "Solar Power - Spotify Singles",
+      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1619,22 +1635,6 @@
       "duration_ms": 199841,
       "name": "RUNNING UP THAT HILL",
       "url": "https://open.spotify.com/track/0IPux9AVDKm0OiJgqi8b4v"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 149189,
-      "name": "Solar Power - Spotify Singles",
-      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 192029,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
         "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
-      },
-      "artists": [
-        {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 217043,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
+      },
+      "artists": [
+        {
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 268437,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 284050,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 268437,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "The Only Exception",
+        "url": "https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "A Million Dreams",
         "url": "https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS"
       },
@@ -2543,22 +2559,6 @@
       "duration_ms": 289276,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "The Only Exception",
-        "url": "https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 232682,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq"
     },
     {
       "added_at": "2023-09-04 16:45:54",

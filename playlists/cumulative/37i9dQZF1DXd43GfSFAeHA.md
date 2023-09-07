@@ -4,7 +4,7 @@
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Wingii
 
-312 songs - 16 hr 11 min
+313 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 | 2023-05-31 |  |
 | [KAMASHA \- كماشه \(feat\. Wezza Montaser\)](https://open.spotify.com/track/0TRvIDRqRemga0vsrSaiwf) | [Mahdy Madness](https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [METHANOL 62](https://open.spotify.com/album/7fGb0W5kyonlNbdoI1aAfU) | 3:21 | 2023-08-19 |  |
 | [KATAFAST](https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:30 | 2022-11-28 | 2023-08-03 |
-| [Kda Msh Bees](https://open.spotify.com/track/3f1AUIx5LZoS3afGcSOJNl) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Big Moe](https://open.spotify.com/artist/2gWfo8ecNqmWaHQWDIyoYo) | [Kda Msh Bees](https://open.spotify.com/album/5WKuQfB4NZXZWKeCQ1Uk9L) | 2:36 | 2023-08-19 |  |
+| [Kda Msh Bees](https://open.spotify.com/track/3f1AUIx5LZoS3afGcSOJNl) | [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV), [Big Moe](https://open.spotify.com/artist/2gWfo8ecNqmWaHQWDIyoYo) | [Kda Msh Bees](https://open.spotify.com/album/5WKuQfB4NZXZWKeCQ1Uk9L) | 2:36 | 2023-08-19 | 2023-09-07 |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-08 | 2022-07-05 |
 | [Kekh](https://open.spotify.com/track/2IuRjFbDzdhm8rOa8wrFmP) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Kekh](https://open.spotify.com/album/2mGW0ZP1RsNgR62jjVKI7P) | 3:05 | 2022-05-26 | 2022-07-05 |
 | [KHABTA](https://open.spotify.com/track/4haYrG9E9kcu1inPdfsktK) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5daw2vuOQGUWyHYoUvKPEm) | 4:24 | 2023-01-11 | 2023-05-13 |
@@ -166,6 +166,7 @@
 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 | 2023-02-28 | 2023-07-04 |
 | [Maalish](https://open.spotify.com/track/42CFrgrQ2SOvAXPSbnaH3e) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:18 | 2022-05-08 | 2022-08-24 |
 | [Maktoub](https://open.spotify.com/track/5gcjlJBN0VbOcxMZlRTnmn) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Maktoub](https://open.spotify.com/album/1aodjEwWr0vyVMIOGgGHuP) | 3:14 | 2022-10-04 | 2023-01-12 |
+| [MANSEETESH \(feat\. El Shiekh Ahmed Bren\)](https://open.spotify.com/track/3gKwLYk0ZodMJPbUDd48fO) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [El Shiekh Ahmed Bren](https://open.spotify.com/artist/4sUZ6nxKvqdNLqPBhaMR8s) | [MANSEETESH \(feat\. El Shiekh Ahmed Bren\)](https://open.spotify.com/album/6dc5Fxuy9PKfWfBrb2iU5w) | 2:20 | 2023-09-06 |  |
 | [Markaz El Madina](https://open.spotify.com/track/6VEcFlnTsnRc8ZrYKBQc88) | [Tribe of Monsters](https://open.spotify.com/artist/6ZBkSEQim7hD4OpsvDuCh3), [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Markaz El Madina](https://open.spotify.com/album/3hkPcVtkxN2d8PCxx1T4Da) | 4:01 | 2023-05-09 | 2023-07-04 |
 | [Mashi El Hal](https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:28 | 2023-05-31 | 2023-08-20 |
 | [Masna3 \- مصنع](https://open.spotify.com/track/6xDb46g5ETNyA853muS6M3) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Masna3 \(مصنع\)](https://open.spotify.com/album/1jF8SmlOMQR93ePTpMbFi3) | 3:03 | 2023-05-09 | 2023-08-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1144824,
+  "num_followers": 1145007,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDk4Yzg3YmIwZjJhMTk0NGI0ZDVhOWJmM2UxN2IyYmU4Y2E5NzFl",
+  "snapshot_id": "MCxhMjBmODU2ZGU0MDhiN2NjOTk2ZWU5NDM2ZTI5ZGI1YWZjMDQ2OGNk",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Take My Breath Away",
-        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 208560,
       "name": "Wild World - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "In The Heart Of The Young",
-        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
-      },
-      "artists": [
-        {
-          "name": "Winger",
-          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 252613,
       "name": "The Search Is Over",
       "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "In The Heart Of The Young",
+        "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
       },
       "artists": [
         {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
+      "duration_ms": 247466,
+      "name": "Can't Stop Lovin' You",
+      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
         }
       ],
-      "duration_ms": 247466,
-      "name": "Can't Stop Lovin' You",
-      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
+      "duration_ms": 323360,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 326826,
-      "name": "Til Death Do Us Part",
-      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 238800,
       "name": "I Can't Hold Back",
       "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 326826,
+      "name": "Til Death Do Us Part",
+      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Psychotic Supper",
-        "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
+        "name": "OU812",
+        "url": "https://open.spotify.com/album/3KufjKt0L2EVahGfxOYJhg"
       },
       "artists": [
         {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 435226,
-      "name": "What You Give",
-      "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
+      "duration_ms": 337906,
+      "name": "When It's Love",
+      "url": "https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "OU812",
-        "url": "https://open.spotify.com/album/3KufjKt0L2EVahGfxOYJhg"
+        "name": "Psychotic Supper",
+        "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
         }
       ],
-      "duration_ms": 337906,
-      "name": "When It's Love",
-      "url": "https://open.spotify.com/track/7gG1RvwQRrofiL3tvq8pBI"
+      "duration_ms": 435226,
+      "name": "What You Give",
+      "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
     },
     {
       "added_at": "2023-05-24 19:29:38",

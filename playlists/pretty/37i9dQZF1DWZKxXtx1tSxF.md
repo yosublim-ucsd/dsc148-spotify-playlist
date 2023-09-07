@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,670 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,715 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 43 | [Aire](https://open.spotify.com/track/2OgG6HxGqmfPNJiJcBEfBN) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/5YQG2L5Xt8XLWWnhUSVdED) | 4:10 |
 | 44 | [Con Vos](https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibrasound](https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6) | 5:16 |
 | 45 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 |
-| 46 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
-| 47 | [Parte de Mi](https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz) | 2:55 |
+| 46 | [Parte de Mi](https://open.spotify.com/track/7wDe4kdynBEvHQE1EhHJvW) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Parte de Mi](https://open.spotify.com/album/3ErYgvpNleudC23eIdPOTz) | 2:55 |
+| 47 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
 | 48 | [El Amor](https://open.spotify.com/track/5pK27zjtHYInLXV2uquCRg) | [KeTeKalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Remendar el Caos](https://open.spotify.com/album/0lTandwWVUjKjstfF8RghG) | 2:50 |
 | 49 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
 | 50 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 69 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
 | 70 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
 
-Snapshot ID: `MCxjZWY4MjI5ZDBkOWEyOWQ5MTYzMTFjZjEzMzBhMTkwYTk5NDRhZmM5`
+Snapshot ID: `MCwyOGFhMzc4NmJjMmNlYzE4Mzc2YTg1ZTI3NDUyZjdiYTQwZTg1YmM5`

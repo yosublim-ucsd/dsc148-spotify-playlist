@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,110 likes - 94 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,343 likes - 94 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 87 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 |
 | 88 | [Slow](https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Slow](https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l) | 2:40 |
 | 89 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4QiyTGoMBRz4AHbsPYgiRc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/7yd9HHhG8MvhJ1ksT3InDF) | 3:36 |
-| 90 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [Kappekoff](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
+| 90 | [Swim Home \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Swim Home \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO) | 3:06 |
 | 91 | [Sleep On It](https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:36 |
-| 92 | [Swim Home \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Swim Home \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO) | 3:06 |
+| 92 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [Kappekoff](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
 | 93 | [Kool Aid](https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Kool Aid](https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C) | 2:35 |
 | 94 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 
-Snapshot ID: `MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj`
+Snapshot ID: `MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy`

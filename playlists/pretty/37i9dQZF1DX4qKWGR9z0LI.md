@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842,429 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,554 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 6 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
 | 7 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 8 | [Yo También \(feat\. Marc Anthony\)](https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 5:06 |
-| 9 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
-| 10 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
+| 9 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
+| 10 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
 | 11 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 |
 | 12 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 4:32 |
 | 13 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 68 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
 | 69 | [Ella Lo Que Quiere Es Salsa \(feat\. Voltio & Jowell y Randy\)](https://open.spotify.com/track/6l9iRzgakAc5U82eVbt8ow) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Busco Un Pueblo \(Deluxe Edition\)](https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL) | 4:00 |
 | 70 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
-| 71 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
-| 72 | [Siempre Sere](https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [MP 10th Anniversary](https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX) | 5:21 |
+| 71 | [Siempre Sere](https://open.spotify.com/track/0ViQHcFsGyynn92NTscTIN) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [MP 10th Anniversary](https://open.spotify.com/album/4PLj1LIHYKLMeVfWW0ukJX) | 5:21 |
+| 72 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
 | 73 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 |
 | 74 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
 | 75 | [Viene Y Se Va](https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Baila Salsa](https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk) | 4:09 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 79 | [Maria Teresa y Danilo](https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [10 De Colección](https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH) | 4:46 |
 | 80 | [Agua Que Va Caer](https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Tromboranga](https://open.spotify.com/album/73edLPjbItIG3qulH8etvP) | 4:43 |
 | 81 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 |
-| 82 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
-| 83 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
+| 82 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
+| 83 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
 | 84 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
 | 85 | [Loco Pero Feliz](https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:23 |
 | 86 | [Vienes](https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Luis Figueroa](https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Charrupi](https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9) | [Orquesta Calibre](https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB) | [La Foto, el Video, la Chicanería](https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4) | 5:41 |
 | 100 | [Pa'lante y Pa'tras \- Remix](https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Nuestra Esquina](https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD) | 3:33 |
 
-Snapshot ID: `MCxkNTRjMmIwOTExMjNiZWJkYjQ1MDM5Yjc0YTI0YWY0MmQ5NjU5OGZk`
+Snapshot ID: `MCw5NzNlOWY2YTQ2M2ZiYzZhN2MxODRkZjg4NTI0ZGZkNDFmMmY1Mjc4`

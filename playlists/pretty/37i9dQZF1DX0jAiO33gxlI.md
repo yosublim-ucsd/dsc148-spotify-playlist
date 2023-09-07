@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: N.I.N.A, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,649 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,652 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 35 | [Cidade Que Nunca Dorme \- Remix](https://open.spotify.com/track/5dW3fLr1MZgA6sq75SPSpY) | [Karrasco](https://open.spotify.com/artist/2ElhaH5clwqTyZZuXQa6Fl), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Camelo 7L](https://open.spotify.com/artist/6uci8ONmDMGosATBqDrqsk), [Dj Pow Brasil](https://open.spotify.com/artist/6DnlFvuVnzw75pDyFmJuHO) | [Cidade Que Nunca Dorme \(Remix\)](https://open.spotify.com/album/3U8Ge33EHbS2TQx4Aykaw8) | 4:22 |
 | 36 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 |
 | 37 | [Preta](https://open.spotify.com/track/57w75cw5ROGxHeDmZ9S0mS) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [João Carlos Martins](https://open.spotify.com/artist/5lcYXhAfA5WoaCtUXIzwNb) | [Preta](https://open.spotify.com/album/0eETaCTE3z3Jcc3fqxB15E) | 3:30 |
-| 38 | [Dia Seguinte](https://open.spotify.com/track/4yUtBgKKxXUubVPGn5MGEt) | [Thegust Mc's](https://open.spotify.com/artist/18l5DrXKHLKU3uUQckp63O), [Daniel Raillow](https://open.spotify.com/artist/6MyrkD0gF4qoD9L0muNWE2) | [Dia Seguinte](https://open.spotify.com/album/2FEnrYzE64TqnS755thROU) | 3:37 |
+| 38 | [Dia Seguinte](https://open.spotify.com/track/4yUtBgKKxXUubVPGn5MGEt) | [Thegust Mc's](https://open.spotify.com/artist/18l5DrXKHLKU3uUQckp63O), [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN) | [Dia Seguinte](https://open.spotify.com/album/2FEnrYzE64TqnS755thROU) | 3:37 |
 | 39 | [De volta ao Básico](https://open.spotify.com/track/3xoMdEwMLpgpwi1CiNX8up) | [Puro Suco](https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Cacau](https://open.spotify.com/album/7hLXr1YD7DGY8c1A5zWPmo) | 2:44 |
 | 40 | [Guerra](https://open.spotify.com/track/2ji9WHNU2CXRPb8Zevnnpf) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Guerra](https://open.spotify.com/album/3PRhDBXhCBniQnZYA5D6CB) | 2:23 |
 | 41 | [Jazz de Favela](https://open.spotify.com/track/3X6QpopA34zcqsW5DWeKOZ) | [Coronel](https://open.spotify.com/artist/7C6lpxEHiYsZX2013VmXXe) | [Jazz de Favela](https://open.spotify.com/album/6hvR5yED5kQXqXS8N6FrSc) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Lembra Dessa, Kevin?](https://open.spotify.com/track/0WC2QLIzlmR8mc5xVFpnFN) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [R&F: UltraSom](https://open.spotify.com/album/1aX7BghARSDAxshFvHOoZx) | 4:32 |
 | 75 | [Respeitosamente](https://open.spotify.com/track/11Kl9alN9okNVqew0BIdQw) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Respeitosamente](https://open.spotify.com/album/1JcZLFNFMDpXGJGVlCCJ5x) | 4:11 |
 
-Snapshot ID: `MCwzNTBlYWI4MWRjNTQ1YWZmMGUzODM4MTEwNWVkMDA3ZWVlYzJjZWQ2`
+Snapshot ID: `MCw2OTU4NjYzMDdmYTBlZjAzOTU2NGZkOTVkNzRkYzNlNWNlYjkyMTdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 
 > Pa' toda la raza pesada\. Los Huracanes del Norte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,901 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,046 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 | 22 | [Más Chingón Que Ese Buey](https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Con Banda Y De Parranda](https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR) | 2:42 |
 | 23 | [Las Águilas Andan Solas](https://open.spotify.com/track/6wQjoZ4ffP7cAIfiwldEWZ) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [Le Compré la Muerte a Mi Hijo](https://open.spotify.com/album/36jpd4kKEalvzpw8k12mNP) | 2:56 |
 | 24 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
-| 25 | [No Se La Van A Acabar](https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB) | [La Mejores Bandas Del Mundo Vol 2](https://open.spotify.com/artist/69jBNhFKISDzO6IJPgKfsC) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2S8pPO6llQejOCpnkj3U9b) | 3:12 |
+| 25 | [No Se La Van Acabar](https://open.spotify.com/track/2axPsgKQouhRvodneN6K3Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 1\)](https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54) | 3:12 |
 | 26 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 27 | [Chevrolet Cuatro por Cuatro](https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS) | [Los Dos Grandes De La Sierra](https://open.spotify.com/artist/58EWXwU9oVr0Iwuh4rF6on) | [Chevrolet 4 X 4](https://open.spotify.com/album/0zEg38J4RG3C05jP6ZNGW6) | 3:07 |
 | 28 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU43UtgmzCjN.md) - [plain]
 | 49 | [El Albanil](https://open.spotify.com/track/6Py57WENEDfmxVKw8rrD7J) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Traficantes Michoacanos](https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2) | 3:14 |
 | 50 | [La Merma del Traficante](https://open.spotify.com/track/64UVBttkrFYUK8TlFuayRK) | [Los Pumas Del Norte](https://open.spotify.com/artist/7oDAL6I6hsVHfn0ADFYpmh) | [Lluvia De Corridos](https://open.spotify.com/album/5gLeRe8gSJoDr9eNRBcqg0) | 3:10 |
 
-Snapshot ID: `MCxlMWVmZjkxMjNjY2NhMGVhMzJmNWIwNTc5ZGEzY2Q0MTE0NTA1ZjEy`
+Snapshot ID: `MCxmYmZjZDYyZDlhYWNkNzczNjcwYWE2ZTExYzI4Nzk0NjY0OTNhNmYx`

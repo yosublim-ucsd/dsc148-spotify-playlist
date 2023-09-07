@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20955,
+  "num_followers": 20952,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0NTgsZTEwNzAwODlkNWFjNDc5NTkwZjc4YWI0NTIwMTQ0ZGUzMzFjOTI0MQ==",
+  "snapshot_id": "MTA0NjAsNjk5ODdiODg5MzdhZDk0NDVkODExZjk0MmIxY2FkMjFhYmRlNmY2OQ==",
   "tracks": [
     {
       "added_at": "2023-09-01 20:06:07",
@@ -2187,6 +2187,38 @@
       "duration_ms": 271818,
       "name": "skydrivin",
       "url": "https://open.spotify.com/track/1o8ldMCYDBQ1fFsOBPXfpB"
+    },
+    {
+      "added_at": "2023-09-06 16:47:52",
+      "album": {
+        "name": "If The DJ Let Me",
+        "url": "https://open.spotify.com/album/4kNlUWofwgf6KjUF6vB9pS"
+      },
+      "artists": [
+        {
+          "name": "a.k.a. skips",
+          "url": "https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv"
+        }
+      ],
+      "duration_ms": 231068,
+      "name": "If The DJ Let Me",
+      "url": "https://open.spotify.com/track/0WOr4IFzO5PX2KQoU4hslu"
+    },
+    {
+      "added_at": "2023-09-06 16:50:23",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/3RnXk2590lJ1zz4l2otNOZ"
+      },
+      "artists": [
+        {
+          "name": "Electric Polar Bears",
+          "url": "https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/09Gw3c0YxUGPVCrj2GXbSF"
     }
   ],
   "unique_name": "Moving Castle Monthly",

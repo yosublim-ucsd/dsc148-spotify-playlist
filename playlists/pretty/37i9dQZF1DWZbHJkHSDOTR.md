@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editors’ picks for the best of R&B in Canada in 2022\. Cover: dvsn \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,848 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,871 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 73 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 |
 | 74 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 |
 
-Snapshot ID: `MCwyMTM0NDNjYjAyOTYzNGJiZjcwZTcyYmU3NDEwYjQxMTI0MDYzMWIx`
+Snapshot ID: `MCwwNTI4NzdiNGEwZWU2NGI3YTUzMTJlN2M5YTc0Y2RhNzg4NTcwZTA1`

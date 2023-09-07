@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Be Your Own Pet
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,883 likes - 127 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,957 likes - 127 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 126 | [Goon](https://open.spotify.com/track/14w7mxmqf2jz2qrzl8DsVs) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Goon](https://open.spotify.com/album/5VliPgxUgHZBjcPWap69wY) | 2:12 |
 | 127 | [Moments of Clarity](https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:50 |
 
-Snapshot ID: `MCxhMzAyZDk0MjM5Yzg5YjU1Mjg5ZGZkNjNjNGI2NWNkMjk4YmMwODMx`
+Snapshot ID: `MCw5YmUyZDM1YjU5YzcwMTIwMjc2Yjc5MTU0OGQzNTBlN2IyMmQ2Y2Zj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,049 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,120 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 16 | [Serpiente](https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primicias y Éxitos](https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2) | 2:01 |
 | 17 | [Tu Recuerdo](https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Tan Solo Tú](https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m) | 4:06 |
 | 18 | [Tu Amor Fue una Mentira](https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:36 |
-| 19 | [Muchahita](https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s) | 3:24 |
-| 20 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
+| 19 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
+| 20 | [Muchahita](https://open.spotify.com/track/5yGFm9tvElzhY4DkEl45h5) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/37Vtar7W83nFn6pfFbVu0s) | 3:24 |
 | 21 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
 | 22 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
 | 23 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 49 | [Me Enamoré y Qué \- Cover](https://open.spotify.com/track/5EMjx5ziUTeOY32D8Hv2RB) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Me Enamoré y Qué](https://open.spotify.com/album/0XBPJbBVGFN97nv9jVCOda) | 2:51 |
 | 50 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
 
-Snapshot ID: `MCwzNzNlNGMxZTI3NGU5NThlMTc3NzQ4OTg3YWQyNTJkZWE0M2Q2ZDFi`
+Snapshot ID: `MCxjODM0NDI1NDk5NjEyYjQ5NTM5OTdjMmUwMmVlOTIxNjJlMmY4YjM1`

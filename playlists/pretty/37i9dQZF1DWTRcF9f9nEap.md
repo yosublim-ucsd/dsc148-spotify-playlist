@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,531 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,581 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 44 | [Sweet Home Chicago](https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [At The Crossroads: The Blues Of Robert Johnson](https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc) | 4:28 |
 | 45 | [In Your Town](https://open.spotify.com/track/0nSJRp4NjamAD4pyMkLFyd) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2017\)](https://open.spotify.com/album/5o5I17kDIyB7c5iAOhslmJ) | 5:44 |
 | 46 | [My Heart Beat Like a Hammer](https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Best of Peter Green's Fleetwood Mac](https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI) | 2:57 |
-| 47 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
-| 48 | [Jack Of Diamonds](https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood \(Bonus Track Version\)](https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC) | 4:12 |
+| 47 | [Jack Of Diamonds](https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood \(Bonus Track Version\)](https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC) | 4:12 |
+| 48 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
 | 49 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
 | 50 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
 
-Snapshot ID: `MCw4Njg5ZjRhN2Q0ZWFhMzRiOWM4OWRhYzdiYWQ3OWZmMDE2ZmI3MWU3`
+Snapshot ID: `MCw0YjQ4NGJmZWExYjUwYWNlMDFmYWY5ZjQ5NzkxZWMyNGNjMGY3Y2M1`

@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 105528,
+  "num_followers": 105588,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
+  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "Lito y Polaco",
-          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Maniatica Sexual",
-      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Fatal Fantassy",
         "url": "https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 172434,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "Lito y Polaco",
+          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Maniatica Sexual",
+      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Golosa",
-        "url": "https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3"
-      },
-      "artists": [
-        {
-          "name": "Impacto Mc",
-          "url": "https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "El Trenecito",
-      "url": "https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 190266,
       "name": "Alza la Mano Si Te Gusta Fumar",
       "url": "https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Golosa",
+        "url": "https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3"
+      },
+      "artists": [
+        {
+          "name": "Impacto Mc",
+          "url": "https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs"
+        }
+      ],
+      "duration_ms": 194676,
+      "name": "El Trenecito",
+      "url": "https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

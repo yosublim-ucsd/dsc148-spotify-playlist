@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,546 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,583 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 24 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
 | 25 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 |
 | 26 | [Luna Llena](https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 3:07 |
-| 27 | [Volero](https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:11 |
-| 28 | [Eucalipto](https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:40 |
+| 27 | [Eucalipto](https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:40 |
+| 28 | [Volero](https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:11 |
 | 29 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 |
 | 30 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 | 31 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 47 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 |
 | 48 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 |
 | 49 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 |
-| 50 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 |
+| 50 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
 | 51 | [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 |
-| 52 | [La Burbuja](https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [La Burbuja](https://open.spotify.com/album/3ZLG0zv8u8nKtHOoMpy0yW) | 3:50 |
+| 52 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 |
 | 53 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 |
 | 54 | [tensión](https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 3:07 |
-| 55 | [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 |
+| 55 | [Llévame](https://open.spotify.com/track/4mJYjmCeiuYarCtAc26VyS) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [Llévame](https://open.spotify.com/album/4CWhl8L32gMw3ShIjje1io) | 3:34 |
 | 56 | [Te necesito everywhere](https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Te necesito everywhere](https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG) | 2:46 |
-| 57 | [En Tu Mar](https://open.spotify.com/track/4a7wgmHW4wn7NEeAetauZD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:29 |
-| 58 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
-| 59 | [Llévame](https://open.spotify.com/track/4mJYjmCeiuYarCtAc26VyS) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [Llévame](https://open.spotify.com/album/4CWhl8L32gMw3ShIjje1io) | 3:34 |
+| 57 | [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 |
+| 58 | [En Tu Mar](https://open.spotify.com/track/4a7wgmHW4wn7NEeAetauZD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 5:29 |
+| 59 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 60 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 |
 | 61 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 |
 | 62 | [Despierta](https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV) | [Esotérica Tropical](https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs) | [Despierta](https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 74 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 | 75 | [Nieve De Arrayán](https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Nieve De Arrayán](https://open.spotify.com/album/5A8t6J9w1Pykdm5PLundCA) | 3:39 |
 
-Snapshot ID: `MCw4ZjEzMGJiMjFhYjlmMmYxMjI5NTc2N2I5MDZkZWIwMDMwYjFiNDg0`
+Snapshot ID: `MCxmYzBhODY2NjU2NjM0OTU1YmViYmJiYWUwZjMzNWM0MTNlNDkwY2U1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,161 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,288 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 73 | [Que Voy a Hacer Con Mi Amor](https://open.spotify.com/track/5wnAIdzevofAf22VSmkbwU) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9) | [Que Voy a Hacer Con Mi Amor](https://open.spotify.com/album/1nmtoyJ23z0NL8eOrvQwpe) | 4:34 |
 | 74 | [Hoy Que Te Vuelvo a Ver \- Versión Salsa](https://open.spotify.com/track/68ci2Ioh4qYJEoMalSb1Rv) | [Idéntico](https://open.spotify.com/artist/1rRFD7wAhD9VekIljwlLs1) | [Hoy Que Te Vuelvo a Ver \(Versión Salsa\)](https://open.spotify.com/album/4l2g8GJDkvB6PGTMXm3rhf) | 4:21 |
 | 75 | [Te Hubieras Ido Antes](https://open.spotify.com/track/7L4NlPfnt1MNc3hsgDQPqX) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6zqCAOy9YS9W4J2v4kaZOY) | 5:28 |
-| 76 | [Si Tu No Estas](https://open.spotify.com/track/2ESN4xnCP0dzgn5S7rFc6W) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/0ylGVYJWSqGFNGCtGYFFJy), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Si Tú No Estas](https://open.spotify.com/album/2Ezk3HBbV6uN85korIcfpK) | 5:19 |
+| 76 | [Si Tu No Estas](https://open.spotify.com/track/480oPnqQMLLRiALvz9aAJM) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/1lciUJeXDP0n8UN4RqRTYr), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Feliz Año Nuevo](https://open.spotify.com/album/46dXR90BMhDCnYZOClbTCM) | 5:19 |
 | 77 | [Quiero Saber](https://open.spotify.com/track/58bITP8kCWbCgSMR7pymTk) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Quiero Saber](https://open.spotify.com/album/1yDStnQKSi1Tw11A38BFJc) | 4:07 |
 | 78 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 |
 | 79 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MCw4M2MzNTViNzdlYzgzN2ZlNmE5ODUwN2ZhNjY4ODVmNTc1NDVlNjRh`
+Snapshot ID: `MCxiYjAzOGJjZmM2YWFmNWE1NGM2ZTE5NmMyMDliN2RjYWE5M2RmYTc4`

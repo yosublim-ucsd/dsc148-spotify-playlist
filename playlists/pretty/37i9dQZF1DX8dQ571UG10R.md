@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,659 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,694 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 19 | [Lobo da Morte](https://open.spotify.com/track/3njxGUCNJwcYw5ngNbTvRu) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Lobo da Morte](https://open.spotify.com/album/5ROinWZCjY4vRWTjiCBZXy) | 3:29 |
 | 20 | [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 |
 | 21 | [Rap do Hidan: Vai Começar o Ritual \(Nerd Hits\)](https://open.spotify.com/track/4RQfj4QMNXCLdheNn8yVD6) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Hidan: Vai Começar o Ritual \(Nerd Hits\)](https://open.spotify.com/album/0crukJhJaU4xCCamzJFTNN) | 4:07 |
-| 22 | [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r) | 3:37 |
+| 22 | [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/1By63MALvoiyxWv21qlX5r) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6aVdnN4n6d3g8py8alrKkm) | 3:37 |
 | 23 | [Rap do Joel e Ellie: Os Últimos de Nós \(Nerd Hits\)](https://open.spotify.com/track/1k0Mtei0Qu87Xg16OMA6md) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Joel e Ellie: Os Últimos de Nós \(Nerd Hits\)](https://open.spotify.com/album/6SGI4HBaLeqcy5BwiC3OWu) | 3:29 |
 | 24 | [SpeedLord: Akatsuki](https://open.spotify.com/track/0Xo6kYVMKlisXIMUFJmbwS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [SpeedLord: Akatsuki](https://open.spotify.com/album/14iuVUCKKTKUqJIDRCktTG) | 5:13 |
 | 25 | [Esse é o melhor Rap do Levi](https://open.spotify.com/track/0TIL1uiTx69oaBUOSZZBXS) | [Byakuran](https://open.spotify.com/artist/4KzmxE2KIMp9GRuFiDsouR) | [Esse é o melhor Rap do Levi](https://open.spotify.com/album/27MB9kSbxFtNMFsR4pqyDF) | 2:43 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 34 | [Rei dos Piratas](https://open.spotify.com/track/3CDYKrq6GAp7AIw6ujmVn1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Rei dos Piratas](https://open.spotify.com/album/5o1Rdvz6hHdG957z6Z3f9w) | 3:29 |
 | 35 | [Chuva de Kunai](https://open.spotify.com/track/4usBkW8CT7JWQeKKFOrzmX) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/6Ws7SAfsSmqkGGCjhX3LUk) | 3:19 |
 | 36 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/7DWialEIm1eklBVKQwxgFl) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/6YNpUmtjrGTzAhEh56QA6F) | 3:56 |
-| 37 | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/3EqMHlH0AMgUmx7xgf73aI) | 4:36 |
+| 37 | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/58oDtx7UCVl3TiKjjcGm92) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/2zzvk4nbKZT3sA7flUuTGu) | 4:36 |
 | 38 | [Pique Narutão](https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Narutão](https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL) | 3:01 |
 | 39 | [Tipo Narutin](https://open.spotify.com/track/4nqvl1yLuiGO5C6TtwbKhS) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Narutin](https://open.spotify.com/album/0ikI9k4kn5GqbML5UrGQnF) | 3:08 |
 | 40 | [Então Se Afogue](https://open.spotify.com/track/65vQE4uU8Vl7qH5pB8lwRN) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Se Afogue](https://open.spotify.com/album/341vwbxFVT1gzohGXxwET9) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 49 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 |
 | 50 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCxmNTYwM2Q5OGUyNjllN2Y1ZWNlOGQ0Y2JiMWJhMzJiMmY5ZDhkNDI0`
+Snapshot ID: `MCxmMGZkYTc0ZDYyNTczOTIwOGE4ODA3MjgwZTYzZmMyMWE2NDZhNjYy`

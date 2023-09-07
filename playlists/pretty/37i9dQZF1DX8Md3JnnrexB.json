@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 200428,
+  "num_followers": 200534,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmU4MDU1MWQyMzVlN2I0ZWMyZTRlYmQxYzZiODU5YTY1MGM4ZTM4",
+  "snapshot_id": "MCw4MGEzMWVlNmY0NWRjNDA3ZWY1OTk2NWIxMzJjMDVlMjQwMjJiNzEx",
   "tracks": [
     {
       "added_at": "2023-08-15 09:52:41",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Keeper Of The Castle",
+        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't No Woman (Like The One I've Got)",
+      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 345240,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Keeper Of The Castle",
-        "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't No Woman (Like The One I've Got)",
-      "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 277400,
+      "name": "Let's Wait Awhile",
+      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Let's Wait Awhile",
-      "url": "https://open.spotify.com/track/3333YXdcyths5CB8v28dZj"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 468653,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
+      "duration_ms": 256733,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1459,6 +1459,22 @@
       "duration_ms": 243480,
       "name": "Don't Look Any Further - Single Version",
       "url": "https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 468653,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1595,38 +1611,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Let's Get It On",
-        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Circle Of One",
         "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
       },
@@ -1675,6 +1659,26 @@
       "duration_ms": 316893,
       "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Take Me To The Alley",
+        "url": "https://open.spotify.com/album/4www5vBDvAP3VXKgDoLZLZ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 254893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0NnM0CgQaifZmhDquugyZV"
     }
   ],
   "unique_name": "Soulful Blend",

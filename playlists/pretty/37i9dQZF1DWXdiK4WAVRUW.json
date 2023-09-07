@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 10th anniversary of Luke Bryan's hit album \"Crash My Party\" on 2010s Country! ",
-  "num_followers": 521439,
+  "num_followers": 521823,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2NkZTAzMjFiZWRiNjkyMzJkOTdhYTY3NDc3OTNmZWVkNGNmZGZh",
+  "snapshot_id": "MCxiZjU5YWY1NWNiYmJiZDE2NGExYTAyYzBkOTY3NDkxNjVjNzgyYTNk",
   "tracks": [
     {
       "added_at": "2023-08-10 16:26:03",
@@ -439,18 +439,22 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+        "name": "All Your Fault: Pt. 2",
+        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 190186,
-      "name": "That's My Kind Of Night",
-      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
+      "duration_ms": 163870,
+      "name": "Meant to Be (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -487,22 +491,18 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "All Your Fault: Pt. 2",
-        "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 163870,
-      "name": "Meant to Be (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+      "duration_ms": 190186,
+      "name": "That's My Kind Of Night",
+      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Sunshine & Whiskey",
-        "url": "https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof"
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
       "artists": [
         {
-          "name": "Frankie Ballard",
-          "url": "https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Sunshine & Whiskey",
-      "url": "https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w"
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Tailgates & Tanlines",
         "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 219973,
       "name": "I Don't Want This Night To End",
       "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "Sunshine & Whiskey",
+        "url": "https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ballard",
+          "url": "https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Sunshine & Whiskey",
+      "url": "https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "How Country Feels",
-        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "How Country Feels",
-      "url": "https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Damn Country Music",
         "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "How Country Feels",
+        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "How Country Feels",
+      "url": "https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -1169,7 +1169,7 @@
       "artists": [
         {
           "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "url": "https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D"
         }
       ],
       "duration_ms": 229880,
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Haywire",
         "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192800,
       "name": "Why Don't We Just Dance",
       "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ain't Worth the Whiskey",
-      "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "I'm Comin' Over",
         "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 197280,
       "name": "I'm Comin' Over",
       "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ain't Worth the Whiskey",
+      "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -1829,7 +1829,7 @@
       "artists": [
         {
           "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "url": "https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D"
         }
       ],
       "duration_ms": 243706,
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 171120,
-      "name": "When She Says Baby",
-      "url": "https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Tullahoma",
         "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 205426,
       "name": "Ridin\u2019 Roads",
       "url": "https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "When She Says Baby",
+      "url": "https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -2201,7 +2201,7 @@
       "artists": [
         {
           "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "url": "https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D"
         }
       ],
       "duration_ms": 192160,
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Days of Gold",
-        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Beachin'",
-      "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 236800,
       "name": "Whatever She's Got",
       "url": "https://open.spotify.com/track/4PJXT82AZtlDW4Q71b43oz"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "Days of Gold",
+        "url": "https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Beachin'",
+      "url": "https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -2587,6 +2587,22 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
+        "name": "Ticket To L.A.",
+        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
         "name": "Cosmic Hallelujah",
         "url": "https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G"
       },
@@ -2603,22 +2619,6 @@
       "duration_ms": 217466,
       "name": "Setting the World On Fire (with P!NK)",
       "url": "https://open.spotify.com/track/7AclP0W2jy6yrbvBiC4prQ"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
-        "name": "Ticket To L.A.",
-        "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -2679,22 +2679,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Hemingway's Whiskey",
-        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 243520,
-      "name": "Somewhere With You",
-      "url": "https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -2711,6 +2695,22 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "Hemingway's Whiskey",
+        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 243520,
+      "name": "Somewhere With You",
+      "url": "https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "The Big Revival",
-        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 182213,
-      "name": "Save It for a Rainy Day",
-      "url": "https://open.spotify.com/track/6wfTb2he5ANMQSFnlamnyi"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -2823,6 +2807,22 @@
       "duration_ms": 205560,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "The Big Revival",
+        "url": "https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 182213,
+      "name": "Save It for a Rainy Day",
+      "url": "https://open.spotify.com/track/6wfTb2he5ANMQSFnlamnyi"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Love Is Everything",
-        "url": "https://open.spotify.com/album/2tJoaDnwr0xWHD4OriSNtB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Give It All We Got Tonight",
-      "url": "https://open.spotify.com/track/19PJ75UGKjpBo0muDNyxPW"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
         "name": "SLOWHEART",
         "url": "https://open.spotify.com/album/03hlPprQQU9VN1H4GaDWoi"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 154706,
       "name": "More Girls Like You",
       "url": "https://open.spotify.com/track/73WWkaWkIRSP3MYGZ14aY4"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
+        "name": "Love Is Everything",
+        "url": "https://open.spotify.com/album/2tJoaDnwr0xWHD4OriSNtB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Give It All We Got Tonight",
+      "url": "https://open.spotify.com/track/19PJ75UGKjpBo0muDNyxPW"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -3131,6 +3131,22 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 215920,
+      "name": "Hey Pretty Girl",
+      "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
+    },
+    {
+      "added_at": "2023-08-10 16:26:03",
+      "album": {
         "name": "WildHorse",
         "url": "https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4"
       },
@@ -3195,18 +3211,18 @@
     {
       "added_at": "2023-08-10 16:26:03",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+        "name": "Brett Eldredge",
+        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 215920,
-      "name": "Hey Pretty Girl",
-      "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
+      "duration_ms": 208720,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
     },
     {
       "added_at": "2023-08-10 16:26:03",
@@ -3223,22 +3239,6 @@
       "duration_ms": 201840,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/10ps1I1sIMRNZW11eceN7W"
-    },
-    {
-      "added_at": "2023-08-10 16:26:03",
-      "album": {
-        "name": "Brett Eldredge",
-        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 208720,
-      "name": "The Long Way",
-      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
     },
     {
       "added_at": "2023-08-10 16:26:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,941 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,940 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 45 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 46 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 |
 | 47 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
-| 48 | [All Good](https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq) | 3:24 |
-| 49 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
+| 48 | [Glorify \(feat\. Toby Mac & Terrian\)](https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
+| 49 | [All Good](https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [All Good](https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq) | 3:24 |
 | 50 | [Who Says?](https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [Who Says?](https://open.spotify.com/album/60mgib427tgTcQiBP5na0y) | 4:06 |
 | 51 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
 | 52 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 75 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
 | 76 | [Most High](https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Most High](https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs) | 3:14 |
 | 77 | [Pray](https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Pray](https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe) | 3:48 |
-| 78 | [Perspectives](https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:16 |
-| 79 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
+| 78 | [Surprise](https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Surprise](https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg) | 3:13 |
+| 79 | [Perspectives](https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:16 |
 | 80 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 |
 | 81 | [Blackout](https://open.spotify.com/track/32QjsWVmD27U1NrVjcP7rj) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Blackout](https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8) | 5:11 |
 | 82 | [Let Go](https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Let Go](https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd) | 3:51 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 86 | [¡hola!](https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [¡hola!](https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe) | 3:15 |
 | 87 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |
 | 88 | [Snapshot](https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Snapshot](https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s) | 3:28 |
-| 89 | [Something About You](https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:19 |
-| 90 | [Mercy's Tree](https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw) | [Firma Collective](https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB), [Lexi Jones](https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6) | [Songs for Every Soul](https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk) | 4:17 |
+| 89 | [Mercy's Tree](https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw) | [Firma Collective](https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB), [Lexi Jones](https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6) | [Songs for Every Soul](https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk) | 4:17 |
+| 90 | [Something About You](https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:19 |
 | 91 | [Chasing Quiet](https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Chasing Quiet](https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg) | 2:38 |
 | 92 | [No Other Love](https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:27 |
 | 93 | [HAPPY](https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [HAPPY](https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
 | 100 | [Seasons](https://open.spotify.com/track/346A6fJDzFS2YxUXhldt2c) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 4:04 |
 
-Snapshot ID: `MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm`
+Snapshot ID: `MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj`

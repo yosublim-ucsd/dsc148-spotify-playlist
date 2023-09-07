@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Colbie Caillat
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,216 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,376 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 94 | [Always Gonna Love You](https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:57 |
 | 95 | [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw) | 3:01 |
 | 96 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 |
-| 97 | [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
-| 98 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |
-| 99 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 |
-| 100 | [Matchbox](https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Matchbox](https://open.spotify.com/album/0qt1he5UlLF3ZBtwmcPzif) | 3:31 |
+| 97 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |
+| 98 | [I Still Love You](https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [I Still Love You](https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe) | 3:44 |
+| 99 | [Matchbox](https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Matchbox](https://open.spotify.com/album/0qt1he5UlLF3ZBtwmcPzif) | 3:31 |
+| 100 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 |
 
-Snapshot ID: `MCxiNmUyMGFlMzRlNzZlYjk2NDhmY2EzNThiZmNjYWNhZTk3OTRjNmRl`
+Snapshot ID: `MCwyN2E1Y2JhM2Q3NzdjZjM5MDBhZDcxZGViYzIyNDkzMGExYTY4MWE1`

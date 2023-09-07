@@ -1646,24 +1646,6 @@
     {
       "album": {
         "name": "MTV Unplugged In New York",
-        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "date_added": "2022-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 306066,
-      "name": "Where Did You Sleep Last Night",
-      "url": "https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht"
-    },
-    {
-      "album": {
-        "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
       },
       "artists": [
@@ -1678,6 +1660,24 @@
       "duration_ms": 308306,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/6HJujxcjMmVZhd8z5EpPri"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged In New York",
+        "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306066,
+      "name": "Where Did You Sleep Last Night - Live",
+      "url": "https://open.spotify.com/track/551qy5vUgrUfEUc4dCNfht"
     },
     {
       "album": {

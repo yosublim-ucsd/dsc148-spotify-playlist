@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 荒巻勇仁
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,995 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,017 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 64 | [flowers\(English version\)](https://open.spotify.com/track/6lpSVuPXcCEXRVmivP4XAB) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers\(English version\)](https://open.spotify.com/album/3fxUuJLYWwwUVD3fAR1wsG) | 4:20 |
 | 65 | [Skeleton](https://open.spotify.com/track/3CTsEBmajbGmNE6gY73zMA) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [Skeleton](https://open.spotify.com/album/0E3yX8MwuGJ4j64PXRa8zV) | 3:49 |
 | 66 | [愛まかせ](https://open.spotify.com/track/2sxYZMU4VjrnoSwQnhZKgZ) | [LUKA](https://open.spotify.com/artist/4ysOWJmw7tPDTUwxcbzQ78) | [愛まかせ](https://open.spotify.com/album/2Kx4VTnUwuXPAyQlGFq8Yf) | 3:22 |
-| 67 | [SATURDAY feat.CaTEye](https://open.spotify.com/track/7lJeN41pqffDbydS2Y9iDs) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb), [CaTEye](https://open.spotify.com/artist/55wG5gbi7QT6QTVldDwZjc) | [SATURDAY feat.CaTEye](https://open.spotify.com/album/6GXtRSRthsJYu6QhzyYfrb) | 3:19 |
+| 67 | [SATURDAY feat.CaTEye\(猫眼以太\)](https://open.spotify.com/track/7lJeN41pqffDbydS2Y9iDs) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb), [CaTEye\(猫眼以太\)](https://open.spotify.com/artist/7ltl2T8DgsN8G0YFjJyXvQ) | [SATURDAY feat.CaTEye\(猫眼以太\)](https://open.spotify.com/album/6GXtRSRthsJYu6QhzyYfrb) | 3:19 |
 | 68 | [Smurph Rock Steady](https://open.spotify.com/track/1Z6GcCPxKtDzmGMbqqqW6V) | [Smurphies' Fearless Bunch](https://open.spotify.com/artist/0XI6WXYAUBuZMOG3tDeTnY) | [Smurphies' Fearless Bunch Proudly Presents " Nuevo Tiempo "](https://open.spotify.com/album/6rP4ZyBxhGg0iWoOgF977q) | 5:26 |
 | 69 | [Chilled noodles in summer](https://open.spotify.com/track/7iLoZJgQJUUf5k4RS7QPPP) | [yuyuhackshow](https://open.spotify.com/artist/02ILgnFVp5SRTBJTtK2yTN) | [Chilled noodles in summer](https://open.spotify.com/album/6wdMBU5m5ynWu0u8bzjfoh) | 1:56 |
 | 70 | [ハッピィエンド](https://open.spotify.com/track/4cVB6Mdg3nqyAb7eMwdGCT) | [ニィキュッパ](https://open.spotify.com/artist/2xO9IhKnLiL2kuOmuaRgaI) | [ハッピィエンド](https://open.spotify.com/album/7lbeoNGyoikSnCGVyEdiKn) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [It's Over](https://open.spotify.com/track/5u86AmIVY306M364aRJKjn) | [Adee A.](https://open.spotify.com/artist/3O9DIzF5U9WkV0FzoTu2Nr) | [It's Over](https://open.spotify.com/album/5xG0ViCPgIXcIfMyTExzuH) | 4:04 |
 | 80 | [Taiban](https://open.spotify.com/track/0Y1h4vHrIQASEX0I9KOH2G) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W) | [Taiban](https://open.spotify.com/album/1R90ou1rdQdFPWYR4CZqFU) | 3:44 |
 
-Snapshot ID: `MCxjNzMwNGEwYzA1ZmFmMWRjMGJkYzMyOTI4MDA2ODdiYmFiZjI1NDcy`
+Snapshot ID: `MCxjM2U5NWQxMmYyM2U4NDU4NWJiNGZjMjY2ZGUzNTljNjRkMWNhZjBj`

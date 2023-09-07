@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 
 > Party blues tunes\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,409 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,414 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 9 | [Mojo Boogie \- Remastered](https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:53 |
 | 10 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 11 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
-| 12 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
+| 12 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 |
 | 13 | [Too Drunk To Drive Drunk](https://open.spotify.com/track/3cXAJHZCL2YDWWlZzBXlmv) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hellfire](https://open.spotify.com/album/2wzjGfzorVn8UUiq7MHvwA) | 3:56 |
-| 14 | [Playin' With My Friends](https://open.spotify.com/track/071l1tdfckojdC5V37NKN6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [Blues Summit](https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI) | 5:18 |
+| 14 | [Shake Your Money Maker](https://open.spotify.com/track/3JPC78sNlPaiZ1NgztXW2Q) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Dust My Broom](https://open.spotify.com/album/2EtFRWTnIw4nLsMI3KZcQq) | 2:30 |
 | 15 | [King Bee Shakedown](https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 4:22 |
 | 16 | [If You Love Me](https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:03 |
 | 17 | [Make It Move](https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:29 |
-| 18 | [Soundman](https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 3:43 |
-| 19 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
+| 18 | [Bump that Mother](https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM) | 3:11 |
+| 19 | [Soundman](https://open.spotify.com/track/0QiCMItV7fotSykjjha7o3) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 3:43 |
 | 20 | [T\-Bone Shuffle](https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:50 |
 | 21 | [We've Got The Music](https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 1:54 |
 | 22 | [Shake It](https://open.spotify.com/track/2uKt3YMVIDuEDY2xH1jZFz) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcyTcS6xqm.md) - [plain]
 | 49 | [Mr\. Loving Man](https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7) | [Cassie Taylor / Dani Wilde / Samantha Fish](https://open.spotify.com/artist/2lL46Pd4sRMERjkg0GbdDc) | [Girls With Guitars](https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS) | 3:34 |
 | 50 | [Little Juke Joint](https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Show Of Strength](https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3) | 6:00 |
 
-Snapshot ID: `MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4`
+Snapshot ID: `MCxiY2JiMGM1MzQ1ZmJkNmQzYzhlODhjZmFlOGVjYjA3OGZkMGYyOTVl`

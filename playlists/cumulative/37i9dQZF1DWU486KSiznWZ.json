@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Kellahe El Shouq",
+        "url": "https://open.spotify.com/album/6RBuponLlbtQMbtKh5uJ53"
+      },
+      "artists": [
+        {
+          "name": "Khaled Abdul Rahman",
+          "url": "https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351553,
+      "name": "Kellahe El Shouq",
+      "url": "https://open.spotify.com/track/6E3UOyIIeRzeycTVY84CLZ"
+    },
+    {
+      "album": {
         "name": "Kent Ahebik",
         "url": "https://open.spotify.com/album/1XO27ea0qJbAW3ntk0Plz4"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 247837,
       "name": "Yeshhad Allah",
       "url": "https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR"

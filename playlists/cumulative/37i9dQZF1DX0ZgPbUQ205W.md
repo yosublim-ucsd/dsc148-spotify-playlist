@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-314 songs - 22 hr 40 min
+315 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Almost Romance](https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [No City, No Tree, No Lake](https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C) | 2:35 | 2022-05-25 | 2022-11-11 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 |  |
 | [Amarinthine](https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq) | [Warp](https://open.spotify.com/album/32XHiqhjVkOjYz0IHp2Vdv) | 3:03 | 2021-12-17 |  |
+| [Après Un Rêve](https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY), [Tore Brunborg](https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh) | [Après Un Rêve](https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql) | 4:28 | 2023-08-31 |  |
 | [Arrolo da Alba](https://open.spotify.com/track/2h3sCc2q9ul9H0D7rKltg7) | [Iago Fernández](https://open.spotify.com/artist/2MWNQBtNDrblXtYwG6JQ5I) | [Arrolo da Alba](https://open.spotify.com/album/16EEit8iE2DytoZTrMQDO4) | 5:28 | 2022-09-14 | 2022-09-22 |
 | [Austin](https://open.spotify.com/track/4hNWyQLrBIhFpEnwhpLNJh) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joakim Milder](https://open.spotify.com/artist/6qlsVWkkxnqeu0ysL9qDjx) | [Spark Of Life](https://open.spotify.com/album/6xryZq7zr0ukHTMLRgGLoS) | 7:07 | 2022-05-25 |  |
 | [Autumn Once Again](https://open.spotify.com/track/3FFYuymUtI8DihGhLMHggW) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Autumn Once Again](https://open.spotify.com/album/3XWIqHBr7g3vkRKOx94SFk) | 4:44 | 2022-11-11 |  |
@@ -64,7 +65,7 @@
 | [D mol](https://open.spotify.com/track/0M7Ew3UU4f6UtQOsLFHNNp) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Sagn](https://open.spotify.com/album/0hwofeNMLK5s24UEjGVfDh) | 4:35 | 2021-12-17 |  |
 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 | 2023-08-31 |  |
 | [Danny Boy](https://open.spotify.com/track/0HrxeBGg3LGIw170eNX9SW) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [John Scofield](https://open.spotify.com/album/5KxGVWWQWETbJQ6ckQ4XD6) | 4:56 | 2022-05-19 | 2022-05-31 |
-| [Dans mon pays](https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9) | [Matthieu Bordenave](https://open.spotify.com/artist/2r30D3PYG5DxMxwwsxE8FE), [Patrice Moret](https://open.spotify.com/artist/0MTZfu5gIOffmUnu7hmrg1), [Florian Weber](https://open.spotify.com/artist/191rzpMqossqKurYORFe8F) | [Dans mon pays](https://open.spotify.com/album/3spAWJ1FOjGIJSM1CJyCOT) | 4:35 | 2021-12-17 |  |
+| [Dans mon pays](https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9) | [Matthieu Bordenave](https://open.spotify.com/artist/2r30D3PYG5DxMxwwsxE8FE), [Patrice Moret](https://open.spotify.com/artist/0MTZfu5gIOffmUnu7hmrg1), [Florian Weber](https://open.spotify.com/artist/191rzpMqossqKurYORFe8F) | [Dans mon pays](https://open.spotify.com/album/3spAWJ1FOjGIJSM1CJyCOT) | 4:35 | 2021-12-17 | 2023-09-07 |
 | [Deep As Love](https://open.spotify.com/track/2zLYr006x2323uleZZT1U2) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 5:54 | 2022-05-26 | 2022-10-07 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-11-11 |  |
 | [Distant Hearts](https://open.spotify.com/track/7qOoWH3cUsEMfqEGcT1muE) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Distant Hearts](https://open.spotify.com/album/1fbiWYWMGJF3yB4WmoqJNv) | 2:19 | 2022-11-24 |  |

@@ -2507,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "album": {
         "name": "Baila Morena",
         "url": "https://open.spotify.com/album/7mOdiBhGocIW2uYFihkZKP"
       },
@@ -3320,7 +3338,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 196406,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/48ww1RXAxDm9XbePE72Gys"
@@ -17028,7 +17046,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 228902,
       "name": "Pa Romper La Discoteca - Chile",
       "url": "https://open.spotify.com/track/50Ex7Qk2MTfw8GulTAhpJt"
@@ -18758,6 +18776,32 @@
       "duration_ms": 142734,
       "name": "Pra pra pra",
       "url": "https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy"
+    },
+    {
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
       "album": {
@@ -23650,7 +23694,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 158325,
       "name": "TRANKY FUNKY",
       "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
@@ -26660,7 +26704,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"

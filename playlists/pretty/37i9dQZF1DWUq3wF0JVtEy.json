@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936922,
+  "num_followers": 937032,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzlkZDVjYjJhMTYxMTQwNGIzNTczMjYzMjNjMzcyYzBkZDg4MWIx",
+  "snapshot_id": "MCw2Njk2M2I0YThiNzUyMGIwNTlmYTA4ZmY5OWJlOGVmZWRiMjg3NGNm",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Off The Wall",
         "url": "https://open.spotify.com/album/6N2YOdLB0cTLbaIMBfD9rr"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 212839,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "We Don\u2019t Need",
-        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "We Don\u2019t Need",
-      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "No Piensa",
         "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 149268,
       "name": "No Piensa",
       "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Repeating",
-        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 147420,
-      "name": "Repeating",
-      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Pop That",
-        "url": "https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Pop That",
-      "url": "https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Pop That",
+        "url": "https://open.spotify.com/album/14t75m8JmscI68WH2AqqC8"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/2VEl3fZmYeoJacH1Sn4DS2"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1587,18 +1587,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/3KqTXkQpNuyIqs6eUl5kRd"
+        "name": "No Man",
+        "url": "https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3"
       },
       "artists": [
         {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "WEiRD GRRL",
+          "url": "https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz"
         }
       ],
-      "duration_ms": 194508,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/7gF0avLmjgWz9TYxXT12T2"
+      "duration_ms": 133477,
+      "name": "No Man",
+      "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1639,26 +1647,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "No Man",
-        "url": "https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3"
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/3KqTXkQpNuyIqs6eUl5kRd"
       },
       "artists": [
         {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        },
-        {
-          "name": "WEiRD GRRL",
-          "url": "https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz"
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
         }
       ],
-      "duration_ms": 133477,
-      "name": "No Man",
-      "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
+      "duration_ms": 194508,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/7gF0avLmjgWz9TYxXT12T2"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Push And Pull",
+        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Push And Pull",
+      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 158769,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/059IpwaF7UmCi7lN24IENk"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Push And Pull",
-        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Push And Pull",
-      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
     },
     {
       "added_at": "2023-09-01 06:00:00",

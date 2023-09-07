@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 101324,
+  "num_followers": 101350,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmNjM2YzNmU3ZjgxZmE0YWM5M2Q4OGI5ODQ0ZjllNzdmNTZiNTY1",
+  "snapshot_id": "MCxmOThhOTUxZTdjMGFjYTVlODBiYzM2NzY2NzVhZjc4MDliZWE1Yjkz",
   "tracks": [
     {
       "added_at": "2023-08-31 22:50:20",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
         "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
         "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 247884,
       "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
       "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Quebrado Vivo",
-        "url": "https://open.spotify.com/album/2obHx8Orxsw1my5N3SrLhY"
-      },
-      "artists": [
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Faro de los Ahogados",
-      "url": "https://open.spotify.com/track/6SmQ9rcEcmcpGdk41EKgWr"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
         "name": "1982-1987 - Himnos Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 186456,
       "name": "Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/0hgyNtZGfzFHuz5UMt4xnG"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "Quebrado Vivo",
+        "url": "https://open.spotify.com/album/2obHx8Orxsw1my5N3SrLhY"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Faro de los Ahogados",
+      "url": "https://open.spotify.com/track/6SmQ9rcEcmcpGdk41EKgWr"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "En el Teatro Opera - En Vivo",
-        "url": "https://open.spotify.com/album/3GvXr0sGR1aTLARW8BMHpR"
+        "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
+        "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
         }
       ],
-      "duration_ms": 334258,
-      "name": "Mujer Amante - En Vivo",
-      "url": "https://open.spotify.com/track/4GEwKXEgUAWy7nMbjfP6qJ"
+      "duration_ms": 222226,
+      "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
+      "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Vivo De Pastillas: Locura Y Realidad (Live In Buenos Aires / 2016)",
-        "url": "https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe"
+        "name": "En el Teatro Opera - En Vivo",
+        "url": "https://open.spotify.com/album/3GvXr0sGR1aTLARW8BMHpR"
       },
       "artists": [
         {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
         }
       ],
-      "duration_ms": 222226,
-      "name": "Absolutismos\u2026 - Live In Buenos Aires / 2016",
-      "url": "https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI"
+      "duration_ms": 334258,
+      "name": "Mujer Amante - En Vivo",
+      "url": "https://open.spotify.com/track/4GEwKXEgUAWy7nMbjfP6qJ"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1252,13 +1252,29 @@
           "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         },
         {
-          "name": "Emiliano Brancciari",
-          "url": "https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8"
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
         }
       ],
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
+      "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1279,22 +1295,6 @@
       "duration_ms": 221712,
       "name": "Sola en los Bares (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/2YKniWmO0pqMXajnqrKpA3"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
-      "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 249144,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
         "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
         "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
-        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
         }
       ],
-      "duration_ms": 200764,
-      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
-      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
+      "duration_ms": 249144,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1423,6 +1407,22 @@
       "duration_ms": 212106,
       "name": "Beatle - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
+        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 200764,
+      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
+      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 381826,
       "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
       "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2023-08-31 22:50:20",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-31 22:50:20",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
-    },
-    {
-      "added_at": "2023-08-31 22:50:20",
-      "album": {
         "name": "En el Ojo del Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 194160,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t"
+    },
+    {
+      "added_at": "2023-08-31 22:50:20",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
     },
     {
       "added_at": "2023-08-31 22:50:20",

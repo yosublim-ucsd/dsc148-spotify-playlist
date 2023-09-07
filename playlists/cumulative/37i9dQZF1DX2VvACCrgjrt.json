@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 157440,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
@@ -4661,6 +4661,28 @@
     },
     {
       "album": {
+        "name": "Here With You",
+        "url": "https://open.spotify.com/album/2bckXiVdAAmStOvsZlfOzx"
+      },
+      "artists": [
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        },
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/3ofM6vMSZ9FWC0bUv6VzYg"
+    },
+    {
+      "album": {
         "name": "Hey Hey (Heard You Say)",
         "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
       },
@@ -5134,6 +5156,32 @@
       "duration_ms": 180480,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
+    },
+    {
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
       "album": {
@@ -7998,7 +8046,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 203520,
       "name": "Rats",
       "url": "https://open.spotify.com/track/57rMaTfl37TwPrZ1omolEa"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,822 songs - 4 day 1 hr 7 min
+1,823 songs - 4 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1725,6 +1725,7 @@
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-12 |  |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-02-28 | 2023-03-14 |
 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-21 | 2023-03-18 |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-06 |  |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2023-05-13 | 2023-05-26 |
 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 | 2023-05-29 | 2023-06-02 |
 | [We Don't Talk About Bruno](https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh), [Rhenzy Feliz](https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr), [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:36 | 2021-12-27 | 2022-02-23 |
@@ -1793,7 +1794,7 @@
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-07-15 | 2022-07-20 |
 | [you were there for me](https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [you were there for me](https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV) | 3:15 | 2022-08-16 | 2022-09-15 |
 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Make It A Double](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 | 2023-07-11 | 2023-08-02 |
-| [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2023-08-14 |  |
+| [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2023-08-14 | 2023-09-07 |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-07-18 | 2023-09-06 |
 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 | 2022-04-26 | 2022-05-11 |
 | [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-05-03 | 2022-05-08 |

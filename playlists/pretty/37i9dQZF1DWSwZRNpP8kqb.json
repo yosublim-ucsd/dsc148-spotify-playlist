@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 19775,
+  "num_followers": 19804,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTdmNDkyNTM1OWVmMGUwNjlkMWY0MWNkZGFiMDYyMDNkNWFjNGRh",
+  "snapshot_id": "MCw3MDhhN2QzZDZkMjA2MzY0OTE5YzVkODFjZmU5MWFjM2NmNTAxZDY3",
   "tracks": [
     {
       "added_at": "2023-09-01 22:13:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Aut\u00f3ctona",
-        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
+        "name": "Coplas de Sangre, Vol. 5",
+        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
       },
       "artists": [
         {
-          "name": "Roxana Carabajal",
-          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+          "name": "Mariana Carrizo",
+          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
         }
       ],
-      "duration_ms": 140600,
-      "name": "D\u00edas para Celebrar",
-      "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
+      "duration_ms": 165040,
+      "name": "Cuequita del Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/0yNasMmFNCvAv6X7QDk4AJ"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Coplas de Sangre, Vol. 5",
-        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
+        "name": "Aut\u00f3ctona",
+        "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
       },
       "artists": [
         {
-          "name": "Mariana Carrizo",
-          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
         }
       ],
-      "duration_ms": 165040,
-      "name": "Cuequita del Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/0yNasMmFNCvAv6X7QDk4AJ"
+      "duration_ms": 140600,
+      "name": "D\u00edas para Celebrar",
+      "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Escondido En Mi Pa\u00eds",
-        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Para Cantar He Nacido",
-      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 211200,
       "name": "Viene Clareando",
       "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Escondido En Mi Pa\u00eds",
+        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Para Cantar He Nacido",
+      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -855,42 +855,6 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Gaucha",
-        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
-      },
-      "artists": [
-        {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
-        }
-      ],
-      "duration_ms": 107710,
-      "name": "La Arruguita",
-      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        },
-        {
-          "name": "Celso Duarte",
-          "url": "https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "El Mentiroso",
-      "url": "https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
         "name": "Lorena Canta al Cuchi",
         "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
       },
@@ -907,18 +871,34 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Vuela una lagrima",
-        "url": "https://open.spotify.com/album/4RVnFfyDV9ZoFvSo8jzNID"
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK"
       },
       "artists": [
         {
-          "name": "Marina Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/7egtvubyoo0WK5QsIWCfvU"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
         }
       ],
-      "duration_ms": 302656,
-      "name": "Vuela una lagrima",
-      "url": "https://open.spotify.com/track/37dJCBj04mNiUPDRAsDCLg"
+      "duration_ms": 164250,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Gaucha",
+        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+      },
+      "artists": [
+        {
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+        }
+      ],
+      "duration_ms": 107710,
+      "name": "La Arruguita",
+      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -935,22 +915,6 @@
       "duration_ms": 340040,
       "name": "En el Fresco de la Noche",
       "url": "https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Las Flores Buenas",
-        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "El Surco",
-      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -975,6 +939,38 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
+        "name": "Las Flores Buenas",
+        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "El Surco",
+      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Vuela una lagrima",
+        "url": "https://open.spotify.com/album/4RVnFfyDV9ZoFvSo8jzNID"
+      },
+      "artists": [
+        {
+          "name": "Marina Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/7egtvubyoo0WK5QsIWCfvU"
+        }
+      ],
+      "duration_ms": 302656,
+      "name": "Vuela una lagrima",
+      "url": "https://open.spotify.com/track/37dJCBj04mNiUPDRAsDCLg"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
         "name": "La Madrugada",
         "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
       },
@@ -987,6 +983,22 @@
       "duration_ms": 245804,
       "name": "En Tu Pelo",
       "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "El Cuchi de Camara",
+        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Zamba del Laurel",
+      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -1007,6 +1019,26 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Celso Duarte",
+          "url": "https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "El Mentiroso",
+      "url": "https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
         "name": "Vuelve a Sonar",
         "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
       },
@@ -1019,38 +1051,6 @@
       "duration_ms": 164394,
       "name": "Vuelve a Sonar",
       "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Pajarito",
-        "url": "https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Pajarito",
-      "url": "https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "El Cuchi de Camara",
-        "url": "https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Zamba del Laurel",
-      "url": "https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+        "name": "Tierra, Tan S\u00f3lo",
+        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
       "artists": [
         {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
         }
       ],
-      "duration_ms": 220941,
-      "name": "Algo de M\u00ed",
-      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
+      "duration_ms": 232000,
+      "name": "Tierra, Tan S\u00f3lo",
+      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -1143,26 +1147,6 @@
       "duration_ms": 110291,
       "name": "El T\u00edmido (feat. Nahuel Pennisi)",
       "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Tierra, Tan S\u00f3lo",
-        "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Tierra, Tan S\u00f3lo",
-      "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 241835,
       "name": "Podr\u00e1s",
       "url": "https://open.spotify.com/track/3sXY8JJRU6Gi6YTTDA7YUP"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Algo de M\u00ed",
+      "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
     },
     {
       "added_at": "2023-09-01 22:13:00",

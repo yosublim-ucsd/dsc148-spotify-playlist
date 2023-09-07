@@ -4,7 +4,7 @@
 
 > und macht laune
 
-104 songs - 4 hr 55 min
+105 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-07-21 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-07-21 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2023-07-21 |  |
-| [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-07-21 |  |
+| [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-07-21 | 2023-09-07 |
 | [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-07-21 |  |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-07-21 |  |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-07-21 |  |
@@ -110,6 +110,7 @@
 | [Where Them Girls At \(feat\. Nicki Minaj & Flo Rida\)](https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:30 | 2023-07-21 |  |
 | [WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1), [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [WILDES DING](https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF) | 2:16 | 2023-07-21 |  |
 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2023-07-21 |  |
+| [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/3PjbA0O5olhampPMdaB0V1) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Phonk Vol 1\]](https://open.spotify.com/album/1nyfZlIOe109tZTrpR3z8h) | 2:44 | 2023-09-05 |  |
 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-07-21 | 2023-09-04 |
 | [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-07-21 |  |
 

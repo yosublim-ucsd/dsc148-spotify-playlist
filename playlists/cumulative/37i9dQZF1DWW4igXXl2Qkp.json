@@ -2387,6 +2387,24 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151350,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY"
+    },
+    {
+      "album": {
         "name": "Sewaside II",
         "url": "https://open.spotify.com/album/79qFRdOPllZ9t0uhJsqHwi"
       },
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 124085,
       "name": "Boner",
       "url": "https://open.spotify.com/track/3rALLrKGsYRLXBYceGnZXB"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 131343,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/5q4PzEPtexRWiTh68Z67EB"
@@ -7311,6 +7329,24 @@
     },
     {
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126473,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi"
+    },
+    {
+      "album": {
         "name": "I'm Bach (Feelin' like yak)",
         "url": "https://open.spotify.com/album/1Kn4A42jYU9a2cs0XIOhPP"
       },
@@ -7630,7 +7666,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 216338,
       "name": "it is what it is",
       "url": "https://open.spotify.com/track/6utwQVdK6GvgDSS5mzjkkq"
@@ -16268,6 +16304,24 @@
       "duration_ms": 149629,
       "name": "Wash Your Hands",
       "url": "https://open.spotify.com/track/2Oaudlk5vOSnukZW49D7Fk"
+    },
+    {
+      "album": {
+        "name": "Wassup Gwayy",
+        "url": "https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax"
+      },
+      "artists": [
+        {
+          "name": "FamousSally & YB",
+          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144383,
+      "name": "Wassup Gwayy",
+      "url": "https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV"
     },
     {
       "album": {

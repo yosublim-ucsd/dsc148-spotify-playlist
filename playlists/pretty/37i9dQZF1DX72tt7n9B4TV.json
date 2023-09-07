@@ -1,12 +1,12 @@
 {
   "description": "Hot noise for those summer days. ",
-  "num_followers": 32330,
+  "num_followers": 32326,
   "original_name": "Summer Rock 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDMwYTllNmQ4NTMzMTI0YjNhNmZmYjk2NGE1NDhlM2M2MDEzZTQy",
+  "snapshot_id": "MCxkOGI0YjcxODQyMTgyYmQ0ZDU3MmQzOWU1NmEwMGJlODc4ZmExMzhj",
   "tracks": [
     {
       "added_at": "2023-05-25 20:52:42",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 187344,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
+      "duration_ms": 232320,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -663,6 +647,22 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187344,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 167365,
+      "name": "cotton candy",
+      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
         "name": "Technology",
         "url": "https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 173120,
       "name": "CHAMPION",
       "url": "https://open.spotify.com/track/14oFxKTXuTpYgKe2vy0Cih"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 167365,
-      "name": "cotton candy",
-      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Never Ending Moment",
-        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 257946,
-      "name": "Never Ending Moment",
-      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH"
     },
     {
-      "added_at": "2023-06-02 11:00:50",
-      "album": {
-        "name": "Trouble\u2019s Coming",
-        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Trouble\u2019s Coming",
-      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
-    },
-    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "Toxic Positivity",
@@ -1067,6 +1051,22 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "added_at": "2023-06-02 11:00:50",
+      "album": {
+        "name": "Trouble\u2019s Coming",
+        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Trouble\u2019s Coming",
+      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "GODDESS",
-        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "girlfriends",
         "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 207226,
       "name": "Visitor",
       "url": "https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1229,6 +1229,22 @@
       "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
     },
     {
+      "added_at": "2023-07-28 14:13:22",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4"
+    },
+    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "estella//",
@@ -1249,22 +1265,6 @@
       "url": "https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du"
     },
     {
-      "added_at": "2023-07-28 14:13:22",
-      "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4"
-    },
-    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "2am",
@@ -1279,6 +1279,22 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Heaven Without You",
+        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -1299,22 +1315,6 @@
       "duration_ms": 147907,
       "name": "deathwish (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
-        "name": "Heaven Without You",
-        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
-      },
-      "artists": [
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Heaven Without You",
-      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     }
   ],
   "unique_name": "Summer Rock 2023",

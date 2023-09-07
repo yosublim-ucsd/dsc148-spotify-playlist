@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 167994,
+  "num_followers": 167997,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjAyMWQyNWY1ZGNkOGZhYTBjYzk4ODkzYjdiYTdhZGNiNDIyYjY5",
+  "snapshot_id": "MCxhZDBlYWM1OTU5Yzc1ZWU1M2UxYTNlNzBlYmZhMTk0NjYxMWRjMzNl",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
-        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 360133,
-      "name": "Soul Holidays",
-      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas with PJ Morton (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 203207,
       "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
       "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
+        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 360133,
+      "name": "Soul Holidays",
+      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -865,6 +865,22 @@
       "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "A Classic Christmas Night - EP",
@@ -881,20 +897,20 @@
       "url": "https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Merry Like This",
-        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Merry Like This",
-      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -927,22 +943,6 @@
       "duration_ms": 216933,
       "name": "Favorite Time of Year",
       "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 215586,
       "name": "Hark the Herald Angels Sing",
       "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/2Zd76A2BuP2CIufE63RkdA"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "To: You (a holiday joint)",
-        "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 192455,
-      "name": "To: You",
-      "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Merry Christmas from Andra Day",
@@ -1135,6 +1119,22 @@
       "duration_ms": 194053,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "To: You (a holiday joint)",
+        "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 192455,
+      "name": "To: You",
+      "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/5ou7qxprOCJkbNgxJLygwo"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Spend Christmas With You",
-        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Spend Christmas With You",
-      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Still Home For The Holidays",
@@ -1269,20 +1253,20 @@
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+        "name": "Spend Christmas With You",
+        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+      "duration_ms": 195816,
+      "name": "Spend Christmas With You",
+      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1303,6 +1287,22 @@
       "duration_ms": 218146,
       "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
       "added_at": "2022-11-25 20:23:30",

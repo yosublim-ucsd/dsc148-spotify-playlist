@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 298195,
+  "num_followers": 298246,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODZiN2FjZTlhZDI3YWI3ZmI5ZjEzZWI4NzI1YTY5OGE1Y2M3NzY1",
+  "snapshot_id": "MCw1ODMzMTUzYzNiZWE0NzVlNGZiMDI1ZWUwOTJmOWRiM2FmNDJjZWRj",
   "tracks": [
     {
       "added_at": "2023-08-29 01:26:44",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": "2023-08-29 01:26:44",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2023-08-29 01:26:44",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-08-29 01:26:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 317960,
-      "name": "Long Live (Taylor's Version)",
-      "url": "https://open.spotify.com/track/4hqJ4bSlYJOXb6Z4SRmzxs"
-    },
-    {
-      "added_at": "2023-08-29 01:26:44",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
+    },
+    {
+      "added_at": "2023-08-29 01:26:44",
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 317960,
+      "name": "Long Live (Taylor's Version)",
+      "url": "https://open.spotify.com/track/4hqJ4bSlYJOXb6Z4SRmzxs"
     },
     {
       "added_at": "2023-08-29 01:26:44",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
+    },
+    {
+      "added_at": "2023-08-29 01:26:44",
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Mi Bello Angel",
-      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
-    },
-    {
-      "added_at": "2023-08-29 01:26:44",
-      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2023-08-29 01:26:44",
-      "album": {
         "name": "Wasted Summers",
         "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2023-08-29 01:26:44",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2023-08-29 01:26:44",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2023-08-29 01:26:44",
-      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 247196,
       "name": "San Lucas",
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2023-08-29 01:26:44",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2023-08-29 01:26:44",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
+        "name": "Marlboro Nights",
+        "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
+      },
+      "artists": [
+        {
+          "name": "Lonely God",
+          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
+        }
+      ],
+      "duration_ms": 68522,
+      "name": "Marlboro Nights",
+      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
+    },
+    {
+      "added_at": "2023-08-29 01:26:44",
+      "album": {
         "name": "qu\u00e9 le pasa conmigo?",
         "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
-    },
-    {
-      "added_at": "2023-08-29 01:26:44",
-      "album": {
-        "name": "Marlboro Nights",
-        "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
-      },
-      "artists": [
-        {
-          "name": "Lonely God",
-          "url": "https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v"
-        }
-      ],
-      "duration_ms": 68522,
-      "name": "Marlboro Nights",
-      "url": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX"
     },
     {
       "added_at": "2023-08-29 01:26:44",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-29 01:26:44",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
-    },
-    {
-      "added_at": "2023-08-29 01:26:44",
-      "album": {
         "name": "Lovelove U",
         "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 175479,
       "name": "Lovelove U",
       "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
+    },
+    {
+      "added_at": "2023-08-29 01:26:44",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
     }
   ],
   "unique_name": "internet crush",

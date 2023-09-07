@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,921,702 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,922,109 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 |
 | 50 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 
-Snapshot ID: `MCw5MDI5ZDg2MTgzMmVkZWUyZDllMGYyMTUzN2M1MDlmZTM5NWM2NTc5`
+Snapshot ID: `MCw5NWMxMmE5ZDBlMTg4N2ZhNjA2MjlmMDg5ZTdjMjdkNzM4NGQ1NWI1`

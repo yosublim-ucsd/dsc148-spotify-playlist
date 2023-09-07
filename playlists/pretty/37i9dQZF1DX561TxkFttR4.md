@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,171 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,219 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 66 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 |
 | 67 | [Breathe](https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Breathe](https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO) | 2:32 |
 | 68 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 |
-| 69 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
-| 70 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 |
+| 69 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 |
+| 70 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
 | 71 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
 | 72 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
-| 73 | [Beyond Dreams](https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Beyond Dreams](https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM) | 2:24 |
+| 73 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
 | 74 | [Mirror](https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Mirror](https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU) | 3:00 |
-| 75 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
+| 75 | [Beyond Dreams](https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Beyond Dreams](https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM) | 2:24 |
 | 76 | [Anona](https://open.spotify.com/track/44rpvXgWhgUWmLUH12Nu58) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [The Lost](https://open.spotify.com/album/7kC6WXiBzA4Itfbzy9PmkT) | 3:27 |
 | 77 | [Any](https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Any](https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC) | 3:32 |
-| 78 | [Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 |
-| 79 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
+| 78 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
+| 79 | [Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 |
 | 80 | [how we sleep](https://open.spotify.com/track/6pUNZUVQATDNzGS0fyJL9W) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4koHpBgZulX1pTaEjm2MuP) | 3:02 |
 
-Snapshot ID: `MCxkM2UyYmEzNzgxZTI0NGM3ZDA3MTI4OGEyMjdhZTI0ZjZiOWY3MTU2`
+Snapshot ID: `MCw2MjBlMDU1NjVhMGM0YmI4ZmE3ZTgwNWJiNjA4NmVlODFjOGY5ZTdm`

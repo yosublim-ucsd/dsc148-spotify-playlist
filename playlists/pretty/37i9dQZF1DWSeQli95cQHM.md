@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,723 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,735 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 33 | [Proibidao \- Selvagem / Trepanado Remix](https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD), [Rosco Sledge](https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5), [Selvagem](https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt), [Trepanado](https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ) | [Proibidao EP](https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj) | 6:38 |
 | 34 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
 | 35 | [Rock The Box \- Original](https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a) | [Vermelho](https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL), [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7) | [Rock The Box](https://open.spotify.com/album/15RTVs764De4RhPcuu03li) | 6:22 |
-| 36 | [Laiaraiá \- LOV.ini Remix](https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/737UVySDRItiHv1XQIqygV) | 5:08 |
-| 37 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
+| 36 | [Maelström](https://open.spotify.com/track/7MwBYwSqHHawXItyk1gRpC) | [Wielki](https://open.spotify.com/artist/69q5CZV9Zg5GaKi5gOMonB) | [Maelström](https://open.spotify.com/album/7qAo2jVa8XixAGpGVkhLDT) | 8:07 |
+| 37 | [Laiaraiá \- LOV.ini Remix](https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/737UVySDRItiHv1XQIqygV) | 5:08 |
 | 38 | [Chá de trombeta](https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e), [Fel C](https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4), [Bica](https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU) | [Chá de trombeta](https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp) | 7:00 |
 | 39 | [Keyboard Cats](https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO) | [Amanda Mussi](https://open.spotify.com/artist/6yoR3GxDnUclI3jI8exbvQ) | [Keyboard Cats EP](https://open.spotify.com/album/5aPc3zrMNTcnOLE72B1l8t) | 6:09 |
 | 40 | [Feel Me \- Original mix](https://open.spotify.com/track/2UKEv5MMX7TYHcc92TJHP5) | [Aninha](https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf) | [Feel Me](https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW) | 5:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 |
 | 50 | [Vou Pra Longe \(Floatin'\)](https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Bajolo Vol\. I](https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx) | 6:24 |
 
-Snapshot ID: `MCw3ODhiNjJhNmQ5YTA5ZmNkNmJhMTU2MDBhNzlmY2YyYWUyOGUyNWU3`
+Snapshot ID: `MCxhMjdiMTU4YzRjMDRhOGJjN2JjYmRiOGNiMjM1NzEwMmIzODdkMjA4`

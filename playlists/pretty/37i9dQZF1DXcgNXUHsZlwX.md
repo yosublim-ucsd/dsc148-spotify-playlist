@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,064 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,101 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 65 | [Alaska](https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [SITKA](https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP) | 3:38 |
 | 66 | [Nous sommes](https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 2:47 |
 | 67 | [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 |
-| 68 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 |
-| 69 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 |
+| 68 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 |
+| 69 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 |
 | 70 | [Les artifices](https://open.spotify.com/track/0ElBgVzjnmsUHx7FwiwPZe) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Les artifices](https://open.spotify.com/album/7BvlJsXbXMIxoA9EEJr6cq) | 3:58 |
 | 71 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 |
 | 72 | [Je retourne à la maison](https://open.spotify.com/track/1w0stJagOZUvxjsP5lEvSF) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Dans la lune](https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND) | 3:20 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 86 | [Platane](https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/7eau0t375JHKnxK48tequj) | 2:57 |
 | 87 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 |
 | 88 | [Fables \- The Garden Version](https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Fables \(The Garden Version\)](https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s) | 2:56 |
-| 89 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 |
-| 90 | [Pleure pas pour moi](https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:17 |
+| 89 | [Pleure pas pour moi](https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:17 |
+| 90 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 |
 | 91 | [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 |
 | 92 | [Les fleurs d’une autre dimension](https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [L'heure mauve](https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL) | 3:23 |
 | 93 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 |
 | 94 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 |
-| 95 | [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 |
-| 96 | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 |
-| 97 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
+| 95 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 |
+| 96 | [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 |
+| 97 | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 |
 | 98 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 |
-| 99 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
-| 100 | [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 |
+| 99 | [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 |
+| 100 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
 
-Snapshot ID: `MCxiZGY1OGNmMTNlNzdkM2I5OTQyNzU3MjBmMmJmNGY3MzIxMTQ1Njcy`
+Snapshot ID: `MCw4ZTJmMjViZWE3Zjg5YjdhZjQ5YzE3MDM4NDI2ZGI0ZjU1MzM0NGUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,769 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,788 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 31 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 |
 | 32 | [Blooming Today](https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Blooming Today](https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT) | 3:02 |
 | 33 | [Fairy Of Shampoo](https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD) | [Junggigo Trio](https://open.spotify.com/artist/6frZUtjcYrrKvl8qmjUgjL) | [Junggigo Sings Brazil](https://open.spotify.com/album/6KQ05nnRbeB2LuzDX48S3K) | 4:57 |
-| 34 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 |
-| 35 | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl) | 4:05 |
+| 34 | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl) | 4:05 |
+| 35 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 |
 | 36 | [Love song \(Feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/2pEIzi5xMeeOpWqRT1nyIe) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 5:00 |
 | 37 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
 | 38 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 60 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
 | 61 | [zZ](https://open.spotify.com/track/1xaSabcqQbn0LVsKDyHz96) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN) | 3:37 |
 | 62 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
-| 63 | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK) | 3:14 |
-| 64 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 |
+| 63 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 |
+| 64 | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [We don’t talk \(Feat\. CHEEZE\)](https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK) | 3:14 |
 | 65 | [Rainy Apgujeong](https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm), [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rainy Apgujeong](https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV) | 4:34 |
-| 66 | [Dancing](https://open.spotify.com/track/2iAs2WIRVMGiN3RBOzW3BI) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Dancing](https://open.spotify.com/album/6ka6nxWStlsLUxmyNdxkzq) | 3:30 |
+| 66 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
 | 67 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 |
-| 68 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
+| 68 | [Dancing](https://open.spotify.com/track/2iAs2WIRVMGiN3RBOzW3BI) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Dancing](https://open.spotify.com/album/6ka6nxWStlsLUxmyNdxkzq) | 3:30 |
 | 69 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 |
 | 70 | [ROSE](https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [ROSE](https://open.spotify.com/album/26fovYAowQaJmrucMlNztd) | 2:58 |
 
-Snapshot ID: `MCw4MTA2ZWI1OWNhMWZiMzk1NWNkZjE0YWFhYTZiOWE3YzJiNGFjNzVm`
+Snapshot ID: `MCxmMTYwZTI1OWM1ZDY1NmJmZThmZmRlMTkwNmFlMzJlMDcxYjAyNTU1`

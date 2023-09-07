@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. ERRE en portada.
 
-405 songs - 20 hr 55 min
+406 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ) | 3:20 | 2022-11-11 | 2023-04-15 |
 | [Sigo Pa' Delante](https://open.spotify.com/track/23X9OuSIh4FqrShffGvmLt) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [Sigo Pa' Delante](https://open.spotify.com/album/1sxra7YvVszvG6KOLBt7HL) | 2:28 | 2022-12-09 | 2022-12-24 |
 | [Sigo Vigente](https://open.spotify.com/track/7nXCqGUKaHvlp7sfU710pl) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Sigo Vigente](https://open.spotify.com/album/5e4UoYWJctlZpUsMgmC9hi) | 3:37 | 2023-02-24 | 2023-05-06 |
+| [Sigues Siendo Tú](https://open.spotify.com/track/4gITyhCjJzAnoMk06bXodN) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Sigues Siendo Tú](https://open.spotify.com/album/14m3LBc5VPxkbdUiK8TewF) | 3:04 | 2023-09-01 |  |
 | [Sin Escalas](https://open.spotify.com/track/4YAgZYw2v8wyh5LVNV8Ta1) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/0FtcvjbtqVDC64pOq1UJMe) | 2:20 | 2023-08-18 | 2023-08-23 |
 | [Sin Escalas](https://open.spotify.com/track/6hoC511JZk2gaDBSSDV7UP) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Los 2 de la S Y Sus Amigos](https://open.spotify.com/album/1daB1drE8UKC2vbKDGadJX) | 2:20 | 2023-08-18 |  |
 | [Sin Lado Izquierdo \- En Vivo](https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:06 | 2022-12-23 | 2023-08-19 |
@@ -368,7 +369,7 @@
 | [Tiro Veneno](https://open.spotify.com/track/6NQOzi65xjcVERfKrMec9k) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Tiro Veneno](https://open.spotify.com/album/5rtWkKgMUeAHiBtYU14B9L) | 2:41 | 2022-11-11 | 2022-12-24 |
 | [Todas Son Iguales](https://open.spotify.com/track/2qfUvyyu0CrKcJTSXh6ifx) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Todas Son Iguales](https://open.spotify.com/album/4cnB7ZFMYPWYXtMyDkahpj) | 2:35 | 2023-08-04 |  |
 | [Todo Todo](https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Todo Todo](https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD) | 3:14 | 2023-07-07 |  |
-| [Toro Relajo](https://open.spotify.com/track/1N6XCVkEpYzLbKsO2BZt7P) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Toro Relajo](https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q) | 3:38 | 2023-08-25 |  |
+| [Toro Relajo](https://open.spotify.com/track/1N6XCVkEpYzLbKsO2BZt7P) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Toro Relajo](https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q) | 3:38 | 2023-08-25 | 2023-09-07 |
 | [TQM \(feat\. Grupo Doble G\)](https://open.spotify.com/track/7n2SBXYBxaWWrPXRCZQwVq) | [Los De La 21](https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE), [Grupo Doble G](https://open.spotify.com/artist/6Op5dYF7fOO3KPigdZqac0) | [TQM \(feat\. Grupo Doble G\)](https://open.spotify.com/album/0sObnYlV4voPzH97IYq2hw) | 2:42 | 2023-06-23 |  |
 | [Traigo Un Equipón](https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Traigo Un Equipón](https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5) | 2:43 | 2023-01-27 |  |
 | [TRANQUILEÓN](https://open.spotify.com/track/17tisFioZUL9GaClgNYV3S) | [Chiken Lira](https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn), [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [TRANQUILEÓN](https://open.spotify.com/album/5xCtNSL4NqQNgw3r7O2KKZ) | 3:39 | 2023-07-21 |  |

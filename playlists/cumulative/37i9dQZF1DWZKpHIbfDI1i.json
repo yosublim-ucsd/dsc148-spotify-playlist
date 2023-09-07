@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 167224,
       "name": "3x4",
       "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
@@ -11400,6 +11400,28 @@
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
+    },
+    {
+      "album": {
+        "name": "SQ LITO",
+        "url": "https://open.spotify.com/album/05e97jCxn4v6Ljq7uirzHk"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199654,
+      "name": "SQ LITO",
+      "url": "https://open.spotify.com/track/6xGn94pu3u5xDpEDbrbDbn"
     },
     {
       "album": {

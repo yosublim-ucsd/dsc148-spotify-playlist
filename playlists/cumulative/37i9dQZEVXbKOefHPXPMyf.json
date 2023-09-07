@@ -731,6 +731,28 @@
     },
     {
       "album": {
+        "name": "LlenO 2",
+        "url": "https://open.spotify.com/album/6T7iv4QkNq0XkGyhCOhfEH"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/6j0u5ErJPUbAzDURe99VWQ"
+    },
+    {
+      "album": {
         "name": "Aces",
         "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
       },
@@ -29526,7 +29548,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"

@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 19701,
+  "num_followers": 19870,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWJiYWM4MzIxNjFhNTE1YjVlZDQ5Yzk3ZmIxODg4MWE0ZDFiNzJi",
+  "snapshot_id": "MCxlODM4NWUyNGUzZGJjOTdmMGM5NTYwYTI4OTJmYjExZTAzZmEwMDMz",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 316919,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Seconds",
         "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 195136,
       "name": "Feel Like I Do",
       "url": "https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 316919,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ"
     },
     {
-      "added_at": "2023-07-14 16:15:11",
-      "album": {
-        "name": "Big Hammer",
-        "url": "https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 240742,
-      "name": "Big Hammer",
-      "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
-    },
-    {
       "added_at": "2023-05-17 20:35:57",
       "album": {
         "name": "Wolfgang Amadeus Phoenix",
@@ -887,6 +871,22 @@
       "duration_ms": 224973,
       "name": "Fences",
       "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
+    },
+    {
+      "added_at": "2023-07-14 16:15:11",
+      "album": {
+        "name": "Big Hammer",
+        "url": "https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 240742,
+      "name": "Big Hammer",
+      "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        }
-      ],
-      "duration_ms": 345560,
-      "name": "Blind - Radio Edit",
-      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Sunlight (feat. Years & Years) [Remixes]",
         "url": "https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 345560,
+      "name": "Blind - Radio Edit",
+      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Life Round Here",
+      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 217120,
-      "name": "Life Round Here",
-      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1067,22 +1083,6 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Odyssey / Sonne",
+        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 290201,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "shrines",
         "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 239013,
       "name": "Dissolve Me",
       "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Odyssey / Sonne",
-        "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 290201,
-      "name": "Recovery",
-      "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Meet the Frownies",
         "url": "https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 240493,
       "name": "Meet the Frownies",
       "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
-      },
-      "artists": [
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        }
-      ],
-      "duration_ms": 75429,
-      "name": "Easy Fraction",
-      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Someday Somewhere",
         "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 196546,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
+      },
+      "artists": [
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        }
+      ],
+      "duration_ms": 75429,
+      "name": "Easy Fraction",
+      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Underwaterfall",
-        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+        "name": "Make It Up",
+        "url": "https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1"
       },
       "artists": [
         {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
         }
       ],
-      "duration_ms": 260064,
-      "name": "Underwaterfall",
-      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+      "duration_ms": 230745,
+      "name": "Make It Up",
+      "url": "https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1467,18 +1467,34 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Make It Up",
-        "url": "https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1"
+        "name": "Underwaterfall",
+        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
       },
       "artists": [
         {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
         }
       ],
-      "duration_ms": 230745,
-      "name": "Make It Up",
-      "url": "https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f"
+      "duration_ms": 260064,
+      "name": "Underwaterfall",
+      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Lover Chanting (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 205464,
+      "name": "Lover Chanting - Edit",
+      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1499,22 +1515,6 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Lover Chanting (Jayda G Remix)",
-        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 205464,
-      "name": "Lover Chanting - Edit",
-      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
     },
     {
       "added_at": "2023-05-17 20:35:57",

@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 222893,
       "name": "Grey Suit",
       "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
@@ -4022,10 +4022,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 194546,
       "name": "let it be summer",
       "url": "https://open.spotify.com/track/19PusCmhiWHG4UN5lAeRp0"
+    },
+    {
+      "album": {
+        "name": "Letters with notes",
+        "url": "https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "let it be summer",
+      "url": "https://open.spotify.com/track/6SFurcT8NOuglistyVb2F9"
     },
     {
       "album": {
@@ -7056,7 +7074,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 268453,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
@@ -7578,7 +7596,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 227240,
       "name": "Sweet Chaos",
       "url": "https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm"
@@ -9382,7 +9400,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"

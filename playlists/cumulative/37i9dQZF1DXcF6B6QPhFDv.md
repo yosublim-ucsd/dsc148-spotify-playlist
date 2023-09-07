@@ -4,7 +4,7 @@
 
 > Måneskin along with today's Rock songs you need to hear.
 
-386 songs - 21 hr 55 min
+387 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-03-10 |  |
 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 | 2022-05-06 | 2022-12-17 |
 | [Anarchy](https://open.spotify.com/track/0osszNZH6LSuk4AzVNh7KC) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:54 | 2021-06-01 | 2022-01-15 |
+| [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-06 |  |
 | [ANIMAL](https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [ANIMAL / ANYWHERE BUT HERE](https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7) | 2:51 | 2022-10-28 | 2023-02-04 |
 | [Another Celebration at the End of the World](https://open.spotify.com/track/4k6NV1b3icM8BRCkT57oPV) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Another Celebration at the End of the World](https://open.spotify.com/album/3LOcvq0COUOnftohINoJAD) | 4:35 | 2023-03-31 |  |
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2023-01-06 | 2023-03-25 |

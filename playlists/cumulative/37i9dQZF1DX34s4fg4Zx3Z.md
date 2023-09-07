@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-1,212 songs - 2 day 23 hr 20 min
+1,212 songs - 2 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1202,7 +1202,7 @@
 | [Để Làm Người Yêu Em](https://open.spotify.com/track/1M5rKwCJqCAEXvXNU32W0G) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd) | [Để Làm Người Yêu Em](https://open.spotify.com/album/78825gwjBoURlJ8kxSwy2a) | 3:26 | 2022-05-04 | 2022-08-01 |
 | [Để mua cho em một đóa hoa hồng xinh \(Yêu xa\)](https://open.spotify.com/track/21pME9KmLAQR5qhSlwv0QL) | [dNam](https://open.spotify.com/artist/6QDiH6RMjZ0OmMJjoDeB7k) | [Mơ Say](https://open.spotify.com/album/68FMhv85oevGwCpZ4pUsd2) | 2:50 | 2023-07-14 | 2023-08-01 |
 | [Để Từ Đầu](https://open.spotify.com/track/1LvNA0aDJhQaz1qdnURjQ0) | [Cú](https://open.spotify.com/artist/3YhJ6WiVNrXWWH1TQhVt60) | [Để Từ Đầu](https://open.spotify.com/album/24UTrqlIOatGjkapsITzEf) | 3:53 | 2022-06-16 | 2022-06-27 |
-| [Đối Diện Ngày Mất Em](https://open.spotify.com/track/3hxNcOgZqSXZ7LZhulieEo) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Đối Diện Ngày Mất Em](https://open.spotify.com/album/1rhTXYXBGRC3OaIKFWjzeN) | 6:50 | 2023-06-15 |  |
+| [Đối Diện Ngày Mất Em](https://open.spotify.com/track/3hxNcOgZqSXZ7LZhulieEo) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Đối Diện Ngày Mất Em](https://open.spotify.com/album/1rhTXYXBGRC3OaIKFWjzeN) | 6:10 | 2023-06-15 |  |
 | [Đồ Gây Mê](https://open.spotify.com/track/1SY387jXr76Km4ieYGvKgN) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [Jombie](https://open.spotify.com/artist/4P5sYDkznyMel8jtD0CgE4), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Đồ Gây Mê](https://open.spotify.com/album/6ZgOCIL60Ne6AKodCEkAS4) | 2:52 | 2022-07-20 | 2022-09-10 |
 | [Đồ Thất Lạc](https://open.spotify.com/track/1UmHEsGebvM4R7YvmeaLuS) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Đồ Thất Lạc](https://open.spotify.com/album/6ylIO0x7mMDDqAcmvPB8Lk) | 2:20 | 2023-06-06 | 2023-06-30 |
 | [Đổi Lấy Nụ Cười](https://open.spotify.com/track/6O3iP4GbtEkpUl2JZLCi6I) | [My Mơ](https://open.spotify.com/artist/5BjHJXPxwRKh7Qz7cKOPAH) | [Đổi Lấy Nụ Cười](https://open.spotify.com/album/0uFk3n2lg0ks9Dwjpvr6Kx) | 4:47 | 2022-05-27 | 2022-09-09 |

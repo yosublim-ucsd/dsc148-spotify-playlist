@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,272 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,307 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 17 | [I'm Sorry](https://open.spotify.com/track/20K2hZ4xjfoSKoQ8adBkk8) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [I'm Sorry](https://open.spotify.com/album/5Vv9obdBrXn80tmZqSHPkI) | 2:56 |
 | 18 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 | 19 | [Limits \- Unplugged](https://open.spotify.com/track/4WcOPeBNUtQCvGmSIneuA1) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/1rfwzthKH7XyJ5yIJ4OZ71) | 3:16 |
-| 20 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
-| 21 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
+| 20 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
+| 21 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 22 | [She's Quiet \- Acoustic](https://open.spotify.com/track/4PkfRaum27YPheL0Kdu6wx) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/7Grtj3qLvoDzw8glKBPIfF) | 3:20 |
 | 23 | [how big is your brain?](https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:05 |
 | 24 | [Pâquerette \(Without Me\)](https://open.spotify.com/track/5WS1H3DdV9oRlv2Scf4rgO) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/7rC6nRIxTCwWlO9mHmNLwK) | 3:15 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 26 | [End of a Good Thing](https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 4:38 |
 | 27 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 |
 | 28 | [Toothpick](https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:35 |
-| 29 | [Who I Am Hates Who I've Been \- Acoustic](https://open.spotify.com/track/2sP6Ne0hozVjqZAhTzvjgi) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Bird and the Bee Sides](https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz) | 3:25 |
-| 30 | [Here's My Heart](https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ) | 3:35 |
+| 29 | [Here's My Heart](https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ) | 3:35 |
+| 30 | [Who I Am Hates Who I've Been \- Acoustic](https://open.spotify.com/track/2sP6Ne0hozVjqZAhTzvjgi) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Bird and the Bee Sides](https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz) | 3:25 |
 | 31 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
 | 32 | [Take My Breath Away](https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ) | 3:54 |
 | 33 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 43 | [Walking Disaster](https://open.spotify.com/track/5aVoovrdVz1PLZa6iLl2cf) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Walking Disaster](https://open.spotify.com/album/3cqogTHL6NnU25ijfLpLtg) | 3:15 |
 | 44 | [Monsters \- Acoustic \- Live From Lockdown](https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Monsters \(Acoustic \- Live From Lockdown\)](https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis) | 3:03 |
 | 45 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 |
-| 46 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
-| 47 | [Aquamarine \- Acoustic](https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo) | 3:52 |
+| 46 | [Aquamarine \- Acoustic](https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo) | 3:52 |
+| 47 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
 | 48 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 |
 | 49 | [Crying out Loud](https://open.spotify.com/track/3b5xqoWMD6W0oW814guCqs) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:43 |
 | 50 | [Cruel Summer](https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 2:54 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 52 | [Seattle](https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Seattle](https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT) | 3:26 |
 | 53 | [Dear Rose, I'm Haunted](https://open.spotify.com/track/1RassIaNyHc5jjD3oRyK8t) | [Drawn To The Sky](https://open.spotify.com/artist/50rzrA2ZgQYfaBRo6KwG02) | [Dear Rose, I'm Haunted](https://open.spotify.com/album/3lL6k9OydgJKywcvVohCy7) | 3:57 |
 | 54 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
-| 55 | [Tide](https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Blue in the Dark](https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42) | 2:39 |
-| 56 | [Dakota \(Reimagined\)](https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Reimagined](https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe) | 3:19 |
+| 55 | [Dakota \(Reimagined\)](https://open.spotify.com/track/3Rkpb1WRkkFD7AlFjNZf1i) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Reimagined](https://open.spotify.com/album/3VCobudBxR70a4fngXZFLe) | 3:19 |
+| 56 | [Tide](https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Blue in the Dark](https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42) | 2:39 |
 | 57 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
 | 58 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
 | 59 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 72 | [Right Here \(Acoustic\)](https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc) | [Chase Your Words](https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC) | [Right Here \(Acoustic\)](https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr) | 3:49 |
 | 73 | [Smokestack](https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 2:36 |
 | 74 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
-| 75 | [Teeth](https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Teeth](https://open.spotify.com/album/5AxRjl0PvsKU9FTGuIZkDx) | 3:28 |
+| 75 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/5uxbUvPyzIU64kyuKgrKab) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 
-Snapshot ID: `MCwxNTg4ODk4ZDAyYTdiZTE5OGJjZTc3MGFkNzZhNmUxMDM0NGI5MjFi`
+Snapshot ID: `MCxmMDhkMGFhZmEzMTdmNTY4ZWMxZTNkYTBkMTBlYzAwZjhhZDE4Zjdl`

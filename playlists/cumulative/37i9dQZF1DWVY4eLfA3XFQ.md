@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Lee Foss & Ralf
 
-1,252 songs - 3 day 0 hr 10 min
+1,253 songs - 3 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Bass Club](https://open.spotify.com/track/08ZXJG3HB3NwmNIx9fVCY1) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Bass Club](https://open.spotify.com/album/2pebS8n2XSGF3QLRl2BpH3) | 3:06 | 2022-01-07 | 2022-04-23 |
 | [BASS GLIDE](https://open.spotify.com/track/2K9aKWIqTlv2tEsb4mptJj) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [BASS GLIDE](https://open.spotify.com/album/0NSeoYQHRCXOFejQqiL8q8) | 2:33 | 2023-02-24 | 2023-05-20 |
 | [Bass Go Boom](https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Bass Go Boom](https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG) | 2:58 | 2023-03-24 | 2023-06-24 |
-| [Bass Into the Future](https://open.spotify.com/track/77OusbYYDTgplE8hdihWXN) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Bass Into the Future](https://open.spotify.com/album/4ZnC1xEkr40JxLTugK4d6H) | 2:41 | 2023-08-11 |  |
+| [Bass Into the Future](https://open.spotify.com/track/77OusbYYDTgplE8hdihWXN) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Bass Into the Future](https://open.spotify.com/album/4ZnC1xEkr40JxLTugK4d6H) | 2:41 | 2023-08-11 | 2023-09-07 |
 | [Be Good](https://open.spotify.com/track/7vaPvdlnM8kBtibPGjRwxp) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Be Good](https://open.spotify.com/album/1BxTavE4Mq4RYV9NafcpWx) | 3:18 | 2022-02-18 | 2022-04-23 |
 | [Be With You Tonight](https://open.spotify.com/track/4J3UQnSs1gWUfhh0u8o2bi) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Be With You Tonight](https://open.spotify.com/album/6S8E2IvaHwp1wrHPGVacPK) | 2:55 | 2023-08-11 |  |
 | [Beat Go Bump](https://open.spotify.com/track/51RhTPvrVNx7DmGscgNJuc) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Mike & Me](https://open.spotify.com/artist/0V0VNxLAmU4j1caUNW477Z) | [Beat Go Bump](https://open.spotify.com/album/3O8BU5I0ieW8HvsIJTKD2H) | 2:54 | 2023-06-09 |  |
@@ -148,6 +148,7 @@
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-08-06 |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-25 | 2022-06-11 |
 | [Buck](https://open.spotify.com/track/7jIgr15l4MF8wm9m3r2tPr) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Buck](https://open.spotify.com/album/0eyiDFC2XrUgmVrrN9v7kx) | 3:29 | 2023-06-30 | 2023-08-18 |
+| [Buenas Noches](https://open.spotify.com/track/1BlPQs0VPOI926x7ighmjr) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [Buenas Noches](https://open.spotify.com/album/3mbB2dCVv1xnWJcn5wFQmm) | 3:20 | 2023-08-11 |  |
 | [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 | 2023-04-17 |
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 | 2023-04-22 |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |

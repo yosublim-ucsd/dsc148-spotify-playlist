@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,296 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,167 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Unreleased leak](https://open.spotify.com/track/1zcGglVX1j3nM6kOjrUt5J) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:33 |
+| 1 | [Unreleased leak](https://open.spotify.com/track/5II9VQpQ8MGDWwBZfVyxTN) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 3:33 |
 | 2 | [Karma A Bitch](https://open.spotify.com/track/5UpmN3mzwZIUV2rjOuh49Z) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 1:45 |
 | 3 | [RR Fr](https://open.spotify.com/track/5jAJ9HCNqBVhvpiWOSsFv9) | [Lil Candy Paint](https://open.spotify.com/artist/7eKI9e9Oa1muxmRwoY40kv) | [Kage](https://open.spotify.com/album/6iPAFDN66hqKZSnpanBXZL) | 2:04 |
 | 4 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 46 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 47 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 
-Snapshot ID: `MCxjMjJlZTk0MjJkMGM1ZWZhNzdhNzY2MjUyOTk4YWI3NGJjYWNiNDIx`
+Snapshot ID: `MCxlZWYzYzA5YWIxMDY5MGFkNTZmODc2NWViZTIxN2VmNzY4MWIwOTdj`

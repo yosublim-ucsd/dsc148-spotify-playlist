@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 105221,
+  "num_followers": 105256,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDJkOTRkOTMyMzRjNzk3YTdhZTY2MzM5OTljOWZjZWNiMDdhMGRl",
+  "snapshot_id": "MCwyYjE4ODMzNDhhN2ZmYzczNTZlY2VmMWMwYjg1YjMwMjA1MDBjZDQ0",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 213441,
+      "name": "Clavicle",
+      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Sea To Sky",
         "url": "https://open.spotify.com/album/6Z9aMIfQYDjF3Z0vuhJps8"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 264003,
       "name": "Sea To Sky",
       "url": "https://open.spotify.com/track/7AZvdqbQJdakmxCPFK5F5E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 213441,
-      "name": "Clavicle",
-      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -443,6 +443,22 @@
       "duration_ms": 388735,
       "name": "Whipbird Dub",
       "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -499,22 +515,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
-      },
-      "artists": [
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Whatever Happens, Happens",
         "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
       },
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
       },
       "artists": [
         {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
         }
       ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 329784,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "do you feel it too?",
         "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 308623,
       "name": "by the reservoir",
       "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 329784,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
     },
     {
       "added_at": "2023-08-31 14:00:00",

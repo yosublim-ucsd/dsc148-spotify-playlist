@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Tito Nieves, Gilberto Santa Rosa
 
-139 songs - 10 hr 16 min
+140 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2022-11-11 | 2023-02-17 |
 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 | 2022-05-13 |  |
 | [Si se fue, se fue](https://open.spotify.com/track/1ZVE8ZUI31bleE7vEC8RQG) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Si se fue, se fue](https://open.spotify.com/album/783J1gQIsaFy8bQtSlFlt7) | 4:23 | 2022-05-13 | 2022-05-28 |
-| [Si Tu No Estas](https://open.spotify.com/track/2ESN4xnCP0dzgn5S7rFc6W) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/0ylGVYJWSqGFNGCtGYFFJy), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Si Tú No Estas](https://open.spotify.com/album/2Ezk3HBbV6uN85korIcfpK) | 5:19 | 2022-05-13 |  |
+| [Si Tu No Estas](https://open.spotify.com/track/2ESN4xnCP0dzgn5S7rFc6W) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/0ylGVYJWSqGFNGCtGYFFJy), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Si Tú No Estas](https://open.spotify.com/album/2Ezk3HBbV6uN85korIcfpK) | 5:19 | 2022-05-13 | 2023-09-07 |
+| [Si Tu No Estas](https://open.spotify.com/track/480oPnqQMLLRiALvz9aAJM) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/1lciUJeXDP0n8UN4RqRTYr), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Feliz Año Nuevo](https://open.spotify.com/album/46dXR90BMhDCnYZOClbTCM) | 5:19 | 2023-08-22 |  |
 | [Si Tu Te Atreves](https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Si Tu Te Atreves](https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG) | 3:46 | 2022-05-13 |  |
 | [Sin Ti](https://open.spotify.com/track/60Lkn19mTVKexNrbIvqgos) | [La Perú Salsa All Star](https://open.spotify.com/artist/6LraR5S4VeqSQ5NflpY0GI) | [Juntos en Lo Mejor](https://open.spotify.com/album/4QYksnq4JOQhxeOCQCiffK) | 5:27 | 2022-05-13 |  |
 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 | 2023-05-12 |  |

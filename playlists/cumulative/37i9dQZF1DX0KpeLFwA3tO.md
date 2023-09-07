@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Knuckle Puck
 
-1,292 songs - 2 day 16 hr 26 min
+1,293 songs - 2 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,7 +1047,8 @@
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-03-11 |
 | [Stars](https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Stars](https://open.spotify.com/album/3OTRR5C4VpcZttyfQz5ouG) | 2:43 | 2022-03-25 | 2022-04-22 |
 | [Startafight](https://open.spotify.com/track/30nqbZ1fDudZpIcONS5Y2P) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Startafight](https://open.spotify.com/album/56gJl75eEF3pO6FMDtUPXW) | 3:07 | 2022-06-30 | 2022-08-19 |
-| [Stay Up All Night](https://open.spotify.com/track/3DoUIWxLgJXAlvrlMmtlZO) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Stay Up All Night](https://open.spotify.com/album/3uRMevrGC00yUbjq19okHx) | 2:58 | 2023-07-20 |  |
+| [Stay Up All Night](https://open.spotify.com/track/3DoUIWxLgJXAlvrlMmtlZO) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Stay Up All Night](https://open.spotify.com/album/3uRMevrGC00yUbjq19okHx) | 2:58 | 2023-07-20 | 2023-09-07 |
+| [Stay Up All Night](https://open.spotify.com/track/55r7ZPhEQfhHW0erJ3wurb) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Find A Way Home](https://open.spotify.com/album/58iPMpEF2hFTr5rBqFZOBP) | 2:58 | 2023-09-01 |  |
 | [Step Mum](https://open.spotify.com/track/5WUWMhGe3d2Uok2AGQBBcv) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Step Mum](https://open.spotify.com/album/48LpBIwni5aHpYil0eaMTp) | 2:08 | 2022-05-12 | 2022-06-24 |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-05-26 | 2022-07-29 |
 | [Stick Up](https://open.spotify.com/track/3k9gh7zRCItcTo363Re0DR) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Stick Up](https://open.spotify.com/album/6YmNTDXbkcrhFqrswdyLxp) | 2:38 | 2023-05-04 | 2023-06-30 |

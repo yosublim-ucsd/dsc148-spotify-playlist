@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: La Franela
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,566 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,673 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [Mis Heridas Cure](https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [El Hombrecito Del Mar](https://open.spotify.com/album/74LmgcRuLCHqeCuzIvpNCT) | 4:56 |
 | 100 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 |
 
-Snapshot ID: `MCwyYzlkODVjMzdhN2UwOGQ3NzI3NmY2NTIwOTZiMmYwNTY2OTgwM2Jk`
+Snapshot ID: `MCwzMmY0YmU2ZGMyZTVhZmRiODUzMmZjMzQxY2I0N2FkODUyYWNkYzNk`

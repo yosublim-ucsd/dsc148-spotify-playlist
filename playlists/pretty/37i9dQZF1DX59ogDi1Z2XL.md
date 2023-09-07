@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Raz Fresco
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,200 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,235 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 6 | [Fuck Em Up Moses](https://open.spotify.com/track/4tH1p1TYEtXkLNtPDPHnvI) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Fuck Em Up Moses](https://open.spotify.com/album/5LxED8zuZ1X7XUMdQS60E6) | 3:39 |
 | 7 | [That Guy](https://open.spotify.com/track/7JOHnoHhKdeFFW4Yks1rvF) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Album Mode Vol\. 3](https://open.spotify.com/album/6D54FlTLEY9ORvciC0i84l) | 2:55 |
 | 8 | [Studio Freestyle](https://open.spotify.com/track/5phF4lBmJEMg4NfvbE59i1) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Studio Freestyle](https://open.spotify.com/album/3uGNUmdVUKxSuMYPy1vKq3) | 2:42 |
-| 9 | [Choose Summer \(Gold Teeth and Bamboo$\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 |
+| 9 | [Choose Summer \(Gold Teeth and Bamboos\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 |
 | 10 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 |
 | 11 | [Nothing Was The Same](https://open.spotify.com/track/3ffDBgmDtNAvmNn3DcI1qI) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Nothing Was The Same](https://open.spotify.com/album/1DLxPoBp1fgEPHpklSt7dN) | 2:59 |
 | 12 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 |
 | 100 | [Summer '23](https://open.spotify.com/track/5yeCvrdFhhoPjvT6GyFu5J) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [Summer '23](https://open.spotify.com/album/2cPogalXYynhKFCuJZ7sDH) | 2:52 |
 
-Snapshot ID: `MCxiNWM1MTU2OGE0ZDAzZGZhNzNkYzZjNzcxMDRmMzQyNmFmOTQyOTg2`
+Snapshot ID: `MCxhZTU1ZDZkMjVhMGQ3MDJjMWY5YWJiZDQ0YzJkZmMxZDMyYTViNDBl`

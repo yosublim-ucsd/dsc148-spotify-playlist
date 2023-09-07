@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: ALOISIO",
-  "num_followers": 282929,
+  "num_followers": 282944,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2YwMGFmMDgyMGY1MTE0MDhjMDViNjI4ODYwZjQ3Y2E4NWNlMzY2",
+  "snapshot_id": "MCxiMDA4MGI3NTNiZTMwMDU2NWI5NDlmMGJiMWRmM2FiMTRhZDgyYjVj",
   "tracks": [
     {
       "added_at": "2023-08-31 21:21:57",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-31 21:21:57",
       "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
-    },
-    {
-      "added_at": "2023-08-31 21:21:57",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 191725,
       "name": "Si En Tu Mente Estuve",
       "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+    },
+    {
+      "added_at": "2023-08-31 21:21:57",
+      "album": {
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-08-31 21:21:57",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-31 21:21:57",
       "album": {
-        "name": "Ocho",
-        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Toda Mi Fe",
-      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
-    },
-    {
-      "added_at": "2023-08-31 21:21:57",
-      "album": {
         "name": "Esa Estrella",
         "url": "https://open.spotify.com/album/5YgizxkrAK1uV89OaGUrAo"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 238232,
       "name": "Esa Estrella",
       "url": "https://open.spotify.com/track/6p0tTJxVVRd31eC3KPRHM6"
+    },
+    {
+      "added_at": "2023-08-31 21:21:57",
+      "album": {
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Toda Mi Fe",
+      "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
     },
     {
       "added_at": "2023-08-31 21:21:57",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-31 21:21:57",
       "album": {
-        "name": "Mundo Extra\u00f1o",
-        "url": "https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "Mundo Extra\u00f1o",
-      "url": "https://open.spotify.com/track/0hy08kvUwjuF40ai53TANQ"
-    },
-    {
-      "added_at": "2023-08-31 21:21:57",
-      "album": {
         "name": "Bajo Los \u00c1rboles",
         "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 247947,
       "name": "Bajo Los \u00c1rboles",
       "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
+    },
+    {
+      "added_at": "2023-08-31 21:21:57",
+      "album": {
+        "name": "Mundo Extra\u00f1o",
+        "url": "https://open.spotify.com/album/11emlvXuZrS8319yl6IW5r"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "Mundo Extra\u00f1o",
+      "url": "https://open.spotify.com/track/0hy08kvUwjuF40ai53TANQ"
     },
     {
       "added_at": "2023-08-31 21:21:57",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-31 21:21:57",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Qu\u00e9date Con \u00c9l",
-      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
-    },
-    {
-      "added_at": "2023-08-31 21:21:57",
-      "album": {
         "name": "Lo Que Hay Dentro de M\u00ed",
         "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-08-31 21:21:57",
       "album": {
-        "name": "Fallaste",
-        "url": "https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P"
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 156698,
-      "name": "Fallaste",
-      "url": "https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u"
+      "duration_ms": 163720,
+      "name": "Qu\u00e9date Con \u00c9l",
+      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
     },
     {
       "added_at": "2023-08-31 21:21:57",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-08-31 21:21:57",
       "album": {
+        "name": "Fallaste",
+        "url": "https://open.spotify.com/album/5v8aMzOfrstHYKBSFp9V5P"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 156698,
+      "name": "Fallaste",
+      "url": "https://open.spotify.com/track/0E6xkmlNQ9GRHyir1tlg6u"
+    },
+    {
+      "added_at": "2023-08-31 21:21:57",
+      "album": {
         "name": "Desp\u00eddete Bien",
         "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
       },
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2023-08-31 21:21:57",
       "album": {
-        "name": "Noches Largas (feat. Bruses)",
-        "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
       },
       "artists": [
         {
           "name": "SERBIA",
           "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 293866,
-      "name": "Noches Largas (feat. Bruses)",
-      "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
+      "duration_ms": 262293,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
     },
     {
       "added_at": "2023-08-31 21:21:57",

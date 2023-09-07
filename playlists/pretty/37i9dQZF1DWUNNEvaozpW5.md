@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,123 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,221 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 49 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
 | 50 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 51 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
-| 52 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
-| 53 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 |
+| 52 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 |
+| 53 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
 | 54 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 |
 | 55 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 |
 | 56 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 88 | [Frío \(con Fito y Fitipaldis, Tarque y Rosendo\)](https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un día nada más](https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x) | 4:09 |
 | 89 | [Cien gaviotas](https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [20 años de canciones](https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3) | 2:49 |
 | 90 | [Sorprendente](https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Corre Corre](https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53) | 4:05 |
-| 91 | [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 |
-| 92 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
+| 91 | [Noviembre](https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [El doble de tu mitad](https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u) | 4:00 |
+| 92 | [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 |
 | 93 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 |
 | 94 | [Que Hace una Chica Como Tu en un Sitio Como Este](https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:07 |
 | 95 | [Maneras de vivir \- Rosendo, Barricada y Aurora Beltrán directo 2008](https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Otra noche sin dormir](https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL) | 4:42 |
 | 96 | [Como Camarón](https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Esencial Estopa](https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK) | 3:23 |
 | 97 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
-| 98 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
-| 99 | [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 |
-| 100 | [Mis Amigos Donde Estarán](https://open.spotify.com/track/4FOyMbEiJGOl4dcaoqRkqE) | [Topo](https://open.spotify.com/artist/6XC3SG7i2Eogjgm9uKPd8a), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N), [Ñu](https://open.spotify.com/artist/15ZPKVTqD5FD3P7n3m04KX), [Obus](https://open.spotify.com/artist/5OImtJcOmtdm3MkR1yLHkp), [Saratoga](https://open.spotify.com/artist/0pFExKST1wGbE6DBSNK6ox), [Muro](https://open.spotify.com/artist/6gv7K55o2qyiGD9u84TIsW), [Stafas](https://open.spotify.com/artist/5xHAV1UViByZr5kVkXxKfW), [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn), [Caskärrabias](https://open.spotify.com/artist/5fIAW5q9gVlnpmZji5h8ub) | [Mis Amigos Donde Estarán](https://open.spotify.com/album/3SRMIpwq9xoIuSqwLUbw2X) | 4:54 |
+| 98 | [Por las noches](https://open.spotify.com/track/7BtkQSPamCwesQN1mBBUFd) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:26 |
+| 99 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
+| 100 | [Buena muerte](https://open.spotify.com/track/3ukdHzLqj0G4ZaeOFW9lVf) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Buena muerte](https://open.spotify.com/album/65I0m92pou1tBZedRi4F0g) | 3:38 |
 
-Snapshot ID: `MCxlYWExZjczMGE3NmIxNTU5YmY2MDAyY2M3MTI5MzU2MzFmZWQwMjQ5`
+Snapshot ID: `MCwzYWRkNWQ5OWYzMTRkZjNkODI0OWFmYTEwMzFjYmRlODRjYjk3ZjRk`

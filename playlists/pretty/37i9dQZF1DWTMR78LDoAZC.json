@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 137409,
+  "num_followers": 137543,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy",
+  "snapshot_id": "MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Leave It On The Dancefloor",
+        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 175016,
+      "name": "Leave It On The Dancefloor",
+      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Kill Your Pain (with King Princess)",
@@ -339,22 +355,6 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Leave It On The Dancefloor",
-        "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175016,
-      "name": "Leave It On The Dancefloor",
-      "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
-    },
-    {
       "added_at": "2023-06-01 04:00:00",
       "album": {
         "name": "Maggot",
@@ -519,6 +503,22 @@
       "duration_ms": 269328,
       "name": "Sweet Cis Teen",
       "url": "https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+    },
+    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Angel",
@@ -603,22 +619,6 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "del mar county fair 2008",
-        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "del mar county fair 2008",
-      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Plastic Envelope / Protect Him Always",
-        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Plastic Envelope",
-      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Queen",
@@ -815,6 +799,22 @@
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Plastic Envelope / Protect Him Always",
+        "url": "https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Plastic Envelope",
+      "url": "https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy"
     },
     {
       "added_at": "2023-03-07 19:29:41",

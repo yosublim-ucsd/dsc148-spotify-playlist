@@ -810,7 +810,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 220708,
       "name": "Cuanto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
@@ -2046,6 +2046,24 @@
       "duration_ms": 266774,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/1xF8kpo2MmbMT7cEBWGUMB"
+    },
+    {
+      "album": {
+        "name": "Puro Sentimiento",
+        "url": "https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Curi",
+          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266831,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
     },
     {
       "album": {

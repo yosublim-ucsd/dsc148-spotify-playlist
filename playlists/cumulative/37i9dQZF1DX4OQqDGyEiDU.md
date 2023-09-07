@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-521 songs - 1 day 5 hr 48 min
+522 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,7 +526,8 @@
 | [青く駆けろ!](https://open.spotify.com/track/0QFrVzd6dk4az0TOK5ZtA5) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV), [ミライアカリ](https://open.spotify.com/artist/0nQt0sivKt7x5EE1n6nHKt), [YuNi](https://open.spotify.com/artist/6BzlN4V17m7ogeItP4CNN5), [富士葵](https://open.spotify.com/artist/2MpCDbGU66x0pDfCRESqmZ), [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [青く駆けろ!](https://open.spotify.com/album/7xVqbJHODRwsHQy5tK3HK3) | 3:47 | 2022-06-28 | 2022-07-28 |
 | [風](https://open.spotify.com/track/0wU8Ejhr1mAA9DdCw1nBcz) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [風](https://open.spotify.com/album/4hqX3NRbqoyxsSvTpkeNIM) | 2:58 | 2022-10-20 | 2022-10-28 |
 | [鬼の居ぬ間に](https://open.spotify.com/track/2IN6XI9EDkeCvYF0NAXu6V) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [魔性のカマトト](https://open.spotify.com/album/1fcTlxhOnqhPZFBinHPCCl) | 3:12 | 2022-06-09 | 2022-07-15 |
-| [魔天楼](https://open.spotify.com/track/3LPkrY0tXzqY9dx7DodNCH) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [魔天楼](https://open.spotify.com/album/2vlTk0u2twffIAFYVQDozz) | 3:15 | 2023-08-10 |  |
+| [魔天楼](https://open.spotify.com/track/3LPkrY0tXzqY9dx7DodNCH) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [魔天楼](https://open.spotify.com/album/2vlTk0u2twffIAFYVQDozz) | 3:15 | 2023-08-10 | 2023-09-07 |
+| [魔天楼](https://open.spotify.com/track/6T7MBYPqnRyrFUQwLVCBcb) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [FRUITÁGE](https://open.spotify.com/album/7ifOYF4dgTjWjRmVxGe1Rk) | 3:15 | 2023-09-05 |  |
 | [魔法みたいなミュージック!](https://open.spotify.com/track/4Cm1crfy5GQw1OiEuFjAXO) | [OSTER project](https://open.spotify.com/artist/4OFuKxuZg7eKcAj9Bg5off) | [魔法みたいなミュージック!](https://open.spotify.com/album/4pgrKtRbknVEqxBTWFZtRX) | 4:25 | 2022-06-23 | 2022-07-02 |
 | [魔法少女とチョコレゐト](https://open.spotify.com/track/77bBbeFxLNNUQK466osDRd) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [魔法少女とチョコレゐト](https://open.spotify.com/album/0el5IznnTWmmoYyjrS9Dwb) | 3:07 | 2022-06-09 | 2022-07-29 |
 

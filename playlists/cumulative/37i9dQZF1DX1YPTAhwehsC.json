@@ -14376,10 +14376,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 133170,
       "name": "This Is New York",
       "url": "https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5"
+    },
+    {
+      "album": {
+        "name": "This Is New York",
+        "url": "https://open.spotify.com/album/3eugYbmPxCM1oGbDTXXkMX"
+      },
+      "artists": [
+        {
+          "name": "Scar Lip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137015,
+      "name": "This Is New York",
+      "url": "https://open.spotify.com/track/1sn4GarhOWPEWaFRBMtaSt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 2043,
+  "num_followers": 2083,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzVlYzQyOWU4ODY4YTQ1YWMwNjkzZGZlZmE0ZDZjZTExZmNmNmM2",
+  "snapshot_id": "MCwwY2JjYTRiOWI3YmQ4MDE1ZTRmNjk2MTI2ZGI4NTg0NTdmNjc1ZmMy",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Wild Love (Acoustic)",
-        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Wild Love - Acoustic",
-      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Too Good At Goodbyes (Acoustic)",
         "url": "https://open.spotify.com/album/33wYkcgcs44wHh8QCO6G7p"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 220095,
       "name": "Too Good At Goodbyes - Acoustic",
       "url": "https://open.spotify.com/track/1JhuXhMiTBavuRXQTsGOdV"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "More & More",
-        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
-      },
-      "artists": [
-        {
-          "name": "Finding Hope",
-          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "More & More",
-      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "More & More",
+        "url": "https://open.spotify.com/album/5ASbLWy4g3WyCCuxvnJRvD"
+      },
+      "artists": [
+        {
+          "name": "Finding Hope",
+          "url": "https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/5oYMLJBYRv0I3D5GZEqODA"
     },
     {
       "added_at": "2023-02-24 11:06:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Chasing Cars (Acoustic)",
         "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 236298,
       "name": "Chasing Cars - Acoustic",
       "url": "https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
-      "added_at": "2023-05-19 09:18:00",
-      "album": {
-        "name": "Meltdown (Acoustic)",
-        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224487,
-      "name": "Meltdown - Acoustic",
-      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Free",
@@ -839,6 +823,22 @@
       "duration_ms": 199462,
       "name": "Free",
       "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
+    },
+    {
+      "added_at": "2023-05-19 09:18:00",
+      "album": {
+        "name": "Meltdown (Acoustic)",
+        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224487,
+      "name": "Meltdown - Acoustic",
+      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
-      },
-      "artists": [
-        {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
-        }
-      ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "T-Shirts (Acoustic)",
         "url": "https://open.spotify.com/album/6hqV9kF9ktgt9BFWz8oQTG"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 195480,
       "name": "T-Shirts - Acoustic",
       "url": "https://open.spotify.com/track/4TuldNZ6ojVCsvVh0yJyrw"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+      },
+      "artists": [
+        {
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
       "added_at": "2023-06-23 11:57:00",
       "album": {
         "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
@@ -1159,22 +1175,6 @@
       "duration_ms": 145521,
       "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
       "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 163588,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hailey (Acoustic)",
         "url": "https://open.spotify.com/album/4xEYNfrEr2Jz9e52KevWRm"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 208723,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/5q529aJou2KbRCzDj5TYtI"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 163588,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs"
     },
     {
       "added_at": "2023-02-10 06:37:00",

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-741 songs - 1 day 4 hr 47 min
+742 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Blessings](https://open.spotify.com/track/4hE1uYOJZy6UPe1mTGQBhK) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Blessings](https://open.spotify.com/album/5vgWOjahlIwxaVgsKDqE7k) | 2:18 | 2022-08-19 |  |
 | [Blossoming](https://open.spotify.com/track/2nwfeHcD1NPwrBH7Rh2l5Z) | [Virg0h](https://open.spotify.com/artist/2S0EDk8weYYWFGrmSOmyWd) | [Blossoming](https://open.spotify.com/album/6w0x2RyieeP3q7i3HX335x) | 2:09 | 2022-04-15 | 2022-09-09 |
 | [Bonafide Bars](https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Bonafide Bars](https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP) | 2:29 | 2023-01-20 |  |
-| [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 | 2023-09-06 |
+| [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 |  |
 | [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 |  |
 | [Breathe](https://open.spotify.com/track/4IRM3iTIInBJ7oYkYP61F6) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/2Rfn3GAAWwaewH4cmG9OC7) | 2:14 | 2022-07-29 |  |
 | [Breathe](https://open.spotify.com/track/4ScuIvlR3YPeRicTQ37Ftz) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD), [Summum](https://open.spotify.com/artist/4iC29mHqpn1NwZN7hf53Pt) | [Breathe](https://open.spotify.com/album/5ZUdrgtFWsHUlKf1y0QF7Z) | 2:14 | 2022-07-15 | 2022-07-29 |
@@ -350,6 +350,7 @@
 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 | 2022-09-23 |  |
 | [Mad World](https://open.spotify.com/track/3xwrhWMrYlSv1YkMaOa9KV) | [Rascal](https://open.spotify.com/artist/3fWAVycjEzJH9BxxrfyCDA) | [Mad World](https://open.spotify.com/album/56bhW3j6Ti2w1Drf7qEUXv) | 1:28 | 2022-09-09 |  |
 | [Mangos](https://open.spotify.com/track/19Lkk1hRKKOwE4qTOL36nf) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Mangos](https://open.spotify.com/album/7GISc4x59WUJlbOapq2IHK) | 3:38 | 2022-04-15 |  |
+| [Maple Road](https://open.spotify.com/track/4FoEEJ5oiENSiLkYFStz88) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Maple Road](https://open.spotify.com/album/4ZZnP0rWjdjFzOtLWVsrJa) | 2:20 | 2023-09-04 |  |
 | [Marathon](https://open.spotify.com/track/7fs8fhf8E1KefxhgJ2lOCJ) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [Marathon](https://open.spotify.com/album/1eCjtC5oxQIrNjbHp6TUUm) | 1:56 | 2023-03-13 |  |
 | [Marble Madness](https://open.spotify.com/track/1HeO6mQfjy7V7LSnNa1029) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [Marble Madness](https://open.spotify.com/album/77h5IYy4eY58o1hJD5EywX) | 2:20 | 2022-04-15 | 2022-07-08 |
 | [Maroon Leaves](https://open.spotify.com/track/4MiM622Brc1FuwxiieUyXz) | [LilJuice](https://open.spotify.com/artist/5lD2lVGn3KXsfYFOcfa8fG), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Maroon Leaves](https://open.spotify.com/album/3diKoUdvFcD9uSZ6u3zRnI) | 1:51 | 2022-11-25 |  |
@@ -598,7 +599,7 @@
 | [Stream of Consciousness](https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Stream of Consciousness](https://open.spotify.com/album/4dKDzOF6I8IMZqKFEInpcn) | 2:32 | 2022-06-10 | 2022-07-08 |
 | [Street Of Gold](https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3) | [ShinE](https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH) | [Street Of Gold](https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH) | 3:03 | 2022-04-15 | 2022-05-20 |
 | [Streets](https://open.spotify.com/track/7s5AKPdIFRAKhwNdTdsAcH) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj), [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Streets](https://open.spotify.com/album/6eAlAb0BGG1DxKvBhFW7SG) | 2:00 | 2023-04-03 |  |
-| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 |  |
+| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 | 2023-09-07 |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-04-15 | 2022-07-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-15 |  |
 | [Subliminal](https://open.spotify.com/track/3VLSJ5VvSBGVXoC5cQo0Fg) | [FOCUS inc.](https://open.spotify.com/artist/5KhJljlbtsSaGGbRwYVp2n) | [Subliminal](https://open.spotify.com/album/56EXm35Vqwysafnh14WaNT) | 2:14 | 2022-04-15 |  |
@@ -665,7 +666,7 @@
 | [Toi Story](https://open.spotify.com/track/05IHKkcyA2KJ26KazTPJCV) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Toi Story](https://open.spotify.com/album/13fmUIoJNaAzPzKaF8GcPz) | 4:00 | 2022-05-20 | 2022-09-17 |
 | [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2022-12-09 |  |
 | [Touch It](https://open.spotify.com/track/2293GzJHceVDK6bJCISEmQ) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Touch It](https://open.spotify.com/album/4SN65gYWILrk3439N1zvdg) | 1:53 | 2022-06-10 | 2022-11-21 |
-| [Touch It](https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Avola](https://open.spotify.com/album/5n1LCUeJv4IOkJwZVxCIEL) | 1:53 | 2022-11-11 |  |
+| [Touch It](https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Avola](https://open.spotify.com/album/5n1LCUeJv4IOkJwZVxCIEL) | 1:53 | 2022-11-11 | 2023-09-07 |
 | [touring](https://open.spotify.com/track/5oMoDylmKjg2dEv00OmP6V) | [ted traver](https://open.spotify.com/artist/08j9BSeKARV01FHZ9FwbpZ) | [touring](https://open.spotify.com/album/684fYtehLjITRbiCEk2E1I) | 2:53 | 2022-12-23 |  |
 | [Toys](https://open.spotify.com/track/0uA5haTZ3KkIWXReBo9PX1) | [Fairground Fish](https://open.spotify.com/artist/6lG54eZ9rnLWDSoaV4GtRE) | [XYZ](https://open.spotify.com/album/4EBEcFilrfd78jF1pIUe2M) | 2:22 | 2022-04-15 |  |
 | [Trading Bikes](https://open.spotify.com/track/58eukN93h5b7rBlbcR6owz) | [Ewert](https://open.spotify.com/artist/1ZUxK62OchtduzQOHN86Di) | [Trading Bikes](https://open.spotify.com/album/1ElL26L8Fo4svRK6FrBrEh) | 2:57 | 2022-04-15 | 2022-04-22 |

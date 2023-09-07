@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Lido
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,661 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,674 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 100 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
 | 101 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 
-Snapshot ID: `MCxhNTJmZjY2NmEzYzA2YjQ4NmMyYzE3NTEyN2I0OTliZTg5ZWQyMjlj`
+Snapshot ID: `MCwyOTkyYmUzZTQzMGE1NWQzZjdlZGVmYzE5YWZiNjA4ZjJhMjhjMDZl`

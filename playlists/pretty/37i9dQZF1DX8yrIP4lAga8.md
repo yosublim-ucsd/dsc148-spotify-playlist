@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,913 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,968 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 44 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
 | 45 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 46 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
-| 47 | [Izolo \(feat\. Madumane, Mpura & Daliwonga\)](https://open.spotify.com/track/2lM7orFD058wiAiBixzffm) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Banyana](https://open.spotify.com/album/1H0Us4t0RJOtulhONf5bQp) | 7:25 |
-| 48 | [Sweet Harmony](https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx) | [Liquid](https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9) | [Sweet Harmony](https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3) | 4:22 |
+| 47 | [Sweet Harmony](https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx) | [Liquid](https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9) | [Sweet Harmony](https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3) | 4:22 |
+| 48 | [Izolo \(feat\. Madumane, Mpura & Daliwonga\)](https://open.spotify.com/track/2lM7orFD058wiAiBixzffm) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Banyana](https://open.spotify.com/album/1H0Us4t0RJOtulhONf5bQp) | 7:25 |
 | 49 | [I Luv U Baby \- Edit](https://open.spotify.com/track/0g9OCw6sY9ZLRA5KxRkcIQ) | [The Original](https://open.spotify.com/artist/2IwjkUrnzXsfgXkvUtZYKH), [Walter Taieb](https://open.spotify.com/artist/67h9I9xLu9KPydQoldwCyL) | [I Luv U Baby](https://open.spotify.com/album/2hqKNctlSpTAdngdaU7lqf) | 3:33 |
 | 50 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 |
 
-Snapshot ID: `MCw2YjgzYTFmZjk2MzgxYzc1Y2ZjZTA0MDdkMzM3YThkMDllYTc3ODg4`
+Snapshot ID: `MCxlMTlmNTM3NTVkNGQ5YmY5ODQ4NzkwZDk5NDVjZTEwOTdkNjMzNWQ4`

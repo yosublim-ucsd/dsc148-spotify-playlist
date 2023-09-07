@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. my bloody valentine on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,683 likes - 144 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,931 likes - 144 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 40 | [Walkabout \(W/ Noah Lennox\)](https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T), [Noah Lennox](https://open.spotify.com/artist/6XrrzKnazbofp8WajiHZyH) | [Logos](https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh) | 3:58 |
 | 41 | [Kim & Jessie](https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:22 |
 | 42 | [Pancake](https://open.spotify.com/track/00YCRrySf0dJ6nRCKYSAkA) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 3:15 |
-| 43 | [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 |
-| 44 | [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 |
-| 45 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
+| 43 | [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 |
+| 44 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
+| 45 | [Not Too Soon](https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h) | 3:10 |
 | 46 | [Farewell](https://open.spotify.com/track/1zcV54IyIHMrIDhTytt3b2) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Pink](https://open.spotify.com/album/0L7mC9kTa31p3cEaFwHIgD) | 7:33 |
 | 47 | [Pearl](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
 | 48 | [La nuit marche avec moi](https://open.spotify.com/track/4Ig4lqvambqo9NPYoDklJe) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/3qIcbxymPhXoA1wOR98cLP) | 4:58 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 50 | [What Lies Beneath](https://open.spotify.com/track/3pkju2uZWb1chH7n2AgbU3) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/7cdeIVN0qTwcpO7uq3ASYR) | 3:56 |
 | 51 | [One](https://open.spotify.com/track/3TY2qqZZhGdk7BciNr5sS5) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Mild Orange](https://open.spotify.com/album/21ttBqlfgrFZCmIL7xVT3Y) | 4:11 |
 | 52 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
-| 53 | [Evergreen](https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Methodrone](https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka) | 3:24 |
+| 53 | [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 |
 | 54 | [babysbreath](https://open.spotify.com/track/37I8y5acJyPT7BRtoiVH3S) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER) | 3:51 |
-| 55 | [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 |
+| 55 | [Evergreen](https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Methodrone](https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka) | 3:24 |
 | 56 | [Seagull \- 2001 Remaster](https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Nowhere \(Expanded\)](https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ) | 6:08 |
-| 57 | [Superbike](https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:53 |
-| 58 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
+| 57 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
+| 58 | [Superbike](https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:53 |
 | 59 | [Slide Away \- 2016 Remastered](https://open.spotify.com/track/3qe5DVIk3kwc0p9IrfHJ2g) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Storm In Heaven](https://open.spotify.com/album/67PdmKLom1PcFJavDAaEtE) | 4:03 |
 | 60 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 61 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 75 | [Taste of Cindy](https://open.spotify.com/track/7hyvnzr9Vba4tlvIs9ZHlg) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 1:42 |
 | 76 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
 | 77 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
-| 78 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
-| 79 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |
+| 78 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |
+| 79 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
 | 80 | [Falling Down](https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:56 |
 | 81 | [Blue Line Baby](https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Blue Line Baby](https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj) | 4:30 |
 | 82 | [Mercy Seat](https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui) | [Ultra Vivid Scene](https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH) | [Ultra Vivid Scene](https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f) | 4:09 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 101 | [Polyfusion](https://open.spotify.com/track/6NHnq8hdSCeWALDPWJURjh) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/3r5NrFdXR5yr4HgVoTtklt) | 6:23 |
 | 102 | [Lip](https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Mouth By Mouth](https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs) | 2:59 |
 | 103 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
-| 104 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
-| 105 | [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 |
+| 104 | [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 |
+| 105 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
 | 106 | [Chlorine Dream](https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L) | [Spirea X](https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb) | [Chlorine Dream](https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1) | 4:24 |
 | 107 | [Dance AM](https://open.spotify.com/track/6MJh7i7sDHNcjXoW0XWP1s) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Dance AM](https://open.spotify.com/album/52R2Lt3CRjW7tvf0slRYtE) | 4:32 |
 | 108 | [You Tear the World in Two \- Woodhouse Studio LP Demo \- Remastered](https://open.spotify.com/track/5pDey3D5oUHwFqoHHlT4nl) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness \(30th Anniversary Reissue\)](https://open.spotify.com/album/25CMjoxhvBmncIaTPMWf4c) | 2:33 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 115 | [Lovely Times](https://open.spotify.com/track/2qHgQxl7E25hozdKtfk0Kh) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/1OSSnfkFKEZTavvnLf7MrR) | 4:17 |
 | 116 | [Record Still Spinning](https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Matters](https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5) | 3:29 |
 | 117 | [It's Tomorrow Now](https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:43 |
-| 118 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
-| 119 | [A Fading Smile](https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd) | [Alcian Blue](https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET) | [Years Too Late](https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v) | 4:20 |
+| 118 | [A Fading Smile](https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd) | [Alcian Blue](https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET) | [Years Too Late](https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v) | 4:20 |
+| 119 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
 | 120 | [Slow Burner](https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy) | [Almighty Mighty](https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e) | [Slow Burner](https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY) | 5:18 |
 | 121 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
 | 122 | [Donuts](https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [KIN](https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd) | 6:23 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 143 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
 | 144 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 
-Snapshot ID: `MCwwYWI5MDliZDRkYzM0YTI2YTkwZjZhODc5ZGY5MjRhMjBmM2M1MDk0`
+Snapshot ID: `MCwxMmNhMWQwNGRhYWU2MWMwYzQxYzY3ZmZmODIxMjNiMjI1MjUzYjgy`

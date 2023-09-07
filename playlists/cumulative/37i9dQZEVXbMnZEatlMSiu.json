@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/7I5WT7DtpwSAhEeDLpZEfm"
@@ -6094,7 +6094,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 169584,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/6gOZzuHIApHtAPTelkOMUc"
@@ -8444,6 +8444,24 @@
       "duration_ms": 217906,
       "name": "\u4f60\u662f\u6211\u7684\u6b4c - \u300a\u4e0d\u4e8c\u5144\u5f1f\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u662f\u6211\u9019\u8f29\u5b50\u6700\u60f3\u611b\u7684\u5440",
+        "url": "https://open.spotify.com/album/30pjHo1kj2exb6bIUfCvVv"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
+          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264626,
+      "name": "\u4f60\u662f\u6211\u9019\u8f29\u5b50\u6700\u60f3\u611b\u7684\u5440",
+      "url": "https://open.spotify.com/track/4NF4arILnIdBOZu2FkRV8P"
     },
     {
       "album": {
@@ -13150,7 +13168,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 165989,
       "name": "\u96ea Distance",
       "url": "https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC"

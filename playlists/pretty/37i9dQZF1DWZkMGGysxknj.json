@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 817555,
+  "num_followers": 817594,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzM5NzhiZGUxZDMwNDllYTU5YjU2YWVhYjNhZWQ3OTJiNGUyZmIw",
+  "snapshot_id": "MCw2ZDliNWQ2YWJkZmQ5ZjhkYTdjN2E1ODE1ODc0YzU1YWE2YWE5YWRh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 206100,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Downtown (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
       },
       "artists": [
         {
-          "name": "Mechi Pieretti",
-          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 204452,
-      "name": "Downtown - Acoustic Version",
-      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1591,6 +1591,22 @@
       "duration_ms": 198007,
       "name": "Heather - Acoustic",
       "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Downtown (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
+      },
+      "artists": [
+        {
+          "name": "Mechi Pieretti",
+          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+        }
+      ],
+      "duration_ms": 204452,
+      "name": "Downtown - Acoustic Version",
+      "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Mi Gente (Acoustic)",
         "url": "https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Urban Driftwood",
         "url": "https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 230333,
       "name": "Juvenescence",
       "url": "https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1915,18 +1915,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+      "duration_ms": 180778,
+      "name": "Un D\u00eda Lo Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1947,6 +1951,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "CSN",
         "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
@@ -1959,26 +1979,6 @@
       "duration_ms": 274040,
       "name": "Shadow Captain",
       "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Un D\u00eda Lo Encontr\u00e9",
-      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Trampoline (Acoustic)",
-        "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 213098,
-      "name": "Trampoline - Acoustic",
-      "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "bad guy",
         "url": "https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 185544,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Trampoline (Acoustic)",
+        "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 213098,
+      "name": "Trampoline - Acoustic",
+      "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
-      },
-      "artists": [
-        {
-          "name": "Parker Jenkins",
-          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Ransom",
         "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 166698,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
+      },
+      "artists": [
+        {
+          "name": "Parker Jenkins",
+          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
+        }
+      ],
+      "duration_ms": 188712,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ"
-      },
-      "artists": [
-        {
-          "name": "Pomplamoose",
-          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ"
+      },
+      "artists": [
+        {
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Casa del Viento",
-        "url": "https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw"
-      },
-      "artists": [
-        {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
-        }
-      ],
-      "duration_ms": 174489,
-      "name": "Que Facil Es Hablar",
-      "url": "https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "The Moons Detriment",
         "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 155000,
       "name": "The Moons Detriment",
       "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Casa del Viento",
+        "url": "https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw"
+      },
+      "artists": [
+        {
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+        }
+      ],
+      "duration_ms": 174489,
+      "name": "Que Facil Es Hablar",
+      "url": "https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2379,6 +2379,22 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2419,22 +2435,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Runaway (Deluxe)",
         "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
       },
@@ -2447,22 +2447,6 @@
       "duration_ms": 220468,
       "name": "Hell Or High Water",
       "url": "https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2483,6 +2467,22 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2023-06-09 14:25:05",

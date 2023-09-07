@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,266 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,443 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [LELE](https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh) | [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Lufasa](https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J) | [LELE](https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu) | 3:04 |
 | 50 | [Hotspot](https://open.spotify.com/track/28PDHCkELl8cwOtCdksjWE) | [Combo M](https://open.spotify.com/artist/5dOFdrZEOqCk0Lc6rFyL1B), [Mrnationthingz](https://open.spotify.com/artist/76DDGfFwEZav6E1lC2QXGf), [Cuba Beats](https://open.spotify.com/artist/2GyTwPnCWi2COPYXy6ZA5D), [Sickoo](https://open.spotify.com/artist/5WaZy4jMXKbxEHPd8BQFmM), [Rockess](https://open.spotify.com/artist/3DBgVmiqXyYtoxSpjbpEWX), [DJ Sicky](https://open.spotify.com/artist/7tUGaH6Ba1CczzxvQfVXD1), [Ndodana](https://open.spotify.com/artist/6YXeuEA7AhRZXmrZzPUWo5) | [Hotspot](https://open.spotify.com/album/7vj9WtiotylvS3rKrJuBmG) | 7:00 |
 
-Snapshot ID: `MCxjMTI3MTUyYmU3YTg4MTM4MDliY2YwYTMyNjQyMWFlYzJlMzgzZjc3`
+Snapshot ID: `MCxkNTNiZmM3MDViYmU3OGIzYjA3Njk5MzYwODFlNzUzMWNmYzZjYjM0`

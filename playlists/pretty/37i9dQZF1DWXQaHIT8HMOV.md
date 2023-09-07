@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Eddy Kenzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,780 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,782 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 39 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
 | 40 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
 | 41 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 |
-| 42 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 |
-| 43 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
+| 42 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
+| 43 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 |
 | 44 | [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 |
-| 45 | [Koroba](https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB) | [Sl Fiq](https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT) | [Coroba](https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg) | 2:47 |
+| 45 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 |
 | 46 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
-| 47 | [Far Away](https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Far Away](https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE) | 2:59 |
+| 47 | [Koroba](https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB) | [Sl Fiq](https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT) | [Coroba](https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg) | 2:47 |
 | 48 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
-| 49 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
-| 50 | [Dont\-Stopp](https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9) | 2:54 |
+| 49 | [Dont\-Stopp](https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9) | 2:54 |
+| 50 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
 
-Snapshot ID: `MCwyNjkyODA3YzA5YmYyZTIwY2Q2NzM1NjRkMTY1ODQzNjQ4ZDdlMzQ5`
+Snapshot ID: `MCxkMTBiNmYwNmU2MTA4M2NjNTgzNDEwZTQzZjNhNmZlNmU0YjkyYjUy`

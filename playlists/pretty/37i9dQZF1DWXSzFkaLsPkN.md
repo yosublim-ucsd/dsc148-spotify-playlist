@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- The Yellow Diary
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,095 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,146 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 70 | [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 |
 | 71 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
 | 72 | [Woh Saat Din](https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Woh Saat Din](https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa) | 3:42 |
-| 73 | [Uljhe Hue \- From "Uljhe Hue"](https://open.spotify.com/track/0tEAGQTo2PXnWFKn99x0a7) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Melissa Srivastava](https://open.spotify.com/artist/6TRkbVu5prWSsBreC4tw4K) | [Uljhe Hue \(From "Uljhe Hue"\)](https://open.spotify.com/album/6VDcItSobKtTHwCIrmYdvx) | 1:52 |
-| 74 | [Tumhare Aane Se](https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Tumhare Aane Se](https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l) | 3:28 |
+| 73 | [Tumhare Aane Se](https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Tumhare Aane Se](https://open.spotify.com/album/03D2jYzgyCTr5erXY6yc1l) | 3:28 |
+| 74 | [Uljhe Hue \- From "Uljhe Hue"](https://open.spotify.com/track/0tEAGQTo2PXnWFKn99x0a7) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Melissa Srivastava](https://open.spotify.com/artist/6TRkbVu5prWSsBreC4tw4K) | [Uljhe Hue \(From "Uljhe Hue"\)](https://open.spotify.com/album/6VDcItSobKtTHwCIrmYdvx) | 1:52 |
 | 75 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
 
-Snapshot ID: `MCwyMjI1MzdmY2Q0YmMxNDUxOWJlYzhhN2YwMDRmNWQ5MTU3ZDRjOTkz`
+Snapshot ID: `MCw4NDAyNDM4N2VkOGJiYzI4OTg2NzhmNjEyZDBjMTE1YTM0ZWYyNjM0`

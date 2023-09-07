@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 157963,
+  "num_followers": 158210,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDU0YmJkYmE4YmQ2YThjYTVkNDU3ZTZiNjg1Mzk5ZWNmOGY5NzNk",
+  "snapshot_id": "MCw0YjFmN2FkNjNjZGM0NDlmYzBlYjM2YWNiYWFkMDExMTg5YzRjOTI0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -739,26 +739,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Qu\u00edmico Amor",
-        "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
       },
       "artists": [
         {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Pedro Senna",
-          "url": "https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu"
-        },
-        {
-          "name": "Ugo Ludovico",
-          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
         }
       ],
-      "duration_ms": 250680,
-      "name": "Qu\u00edmico Amor",
-      "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -783,18 +775,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+        "name": "Qu\u00edmico Amor",
+        "url": "https://open.spotify.com/album/7xT968dCMFNWkYxfT03kYJ"
       },
       "artists": [
         {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pedro Senna",
+          "url": "https://open.spotify.com/artist/1VpBywbGRTON81xOXCreOu"
+        },
+        {
+          "name": "Ugo Ludovico",
+          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
         }
       ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
+      "duration_ms": 250680,
+      "name": "Qu\u00edmico Amor",
+      "url": "https://open.spotify.com/track/3uJ8J19euzlMHBuobmIXbb"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Greatest Hits & Remixes",
-        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
-      },
-      "artists": [
-        {
-          "name": "Ken Laszlo",
-          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Hey Hey Guy (7\" Vocal Version)",
-      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Disco Fizz",
         "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Greatest Hits & Remixes",
+        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
+      },
+      "artists": [
+        {
+          "name": "Ken Laszlo",
+          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Hey Hey Guy (7\" Vocal Version)",
+      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Polydans Remixes",
+        "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 239788,
+      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "My Magic Number",
         "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Polydans Remixes",
-        "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 239788,
-      "name": "Feels Right - Gerd Janson Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
     },
     {
       "added_at": "2023-07-28 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,707 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,831 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 3 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 |
 | 4 | [Infinita Highway \- Ao Vivo](https://open.spotify.com/track/0yDvCGnKcBuv0ltINV0nuu) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [Acústico \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/26A68nUfZ08rQSrwjSdcR5) | 4:18 |
 | 5 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
-| 6 | [Come As You Are](https://open.spotify.com/track/3sYWyVGfPuit80szWXhrRA) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:13 |
-| 7 | [Não Olhe Pra Trás \(feat\. Lenine\) \- Ao Vivo](https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ) | 4:16 |
-| 8 | [Os Cegos do Castelo \- Ao Vivo](https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 4:56 |
+| 6 | [Come As You Are \- Live](https://open.spotify.com/track/3sYWyVGfPuit80szWXhrRA) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:13 |
+| 7 | [Os Cegos do Castelo \- Ao Vivo](https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 4:56 |
+| 8 | [Não Olhe Pra Trás \(feat\. Lenine\) \- Ao Vivo](https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ) | 4:16 |
 | 9 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
 | 10 | [Tarde Vazia \(feat\. Samuel Rosa\) \- Versão Acústica](https://open.spotify.com/track/6tFiwRosuePm2v0DQTyGpj) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Acústico Ira!](https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw) | 4:18 |
 | 11 | [Black \- Live MTV Unplugged](https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [MTV Unplugged](https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX) | 5:30 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 58 | [The Little Things That Give You Away \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 5:07 |
 | 59 | [Enquanto Houver Sol \- Trio Acústico](https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Enquanto Houver Sol \(Trio Acústico\)](https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9) | 3:33 |
 | 60 | [Guerra e Paz \- Acústico Live](https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest Acústico CCBB LIVE EP](https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU) | 3:10 |
-| 61 | [Enquanto Ela Não Chegar \- Acústico](https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Enquanto Ela Não Chegar \(Acústico\)](https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk) | 3:28 |
-| 62 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 61 | [Straight From The Heart \- Live at The Royal Albert Hall](https://open.spotify.com/track/4LZn7eK3vwTYQX5zSxfUSf) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife \- 40th Anniversary, Live From The Royal Albert Hall](https://open.spotify.com/album/5ol5EQxk9OUHUh7JXb061Z) | 3:02 |
+| 62 | [Enquanto Ela Não Chegar \- Acústico](https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Enquanto Ela Não Chegar \(Acústico\)](https://open.spotify.com/album/3t2IxR2XIFLTtrRv03pSEk) | 3:28 |
 | 63 | [What's Going On \- Recorded at Neptune Valley, LA](https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Spotify Singles](https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1) | 3:51 |
 | 64 | [Bad Guy \- Acoustic](https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Bad Guy \(Acoustic\)](https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi) | 2:41 |
 | 65 | [Digital \- Acústico](https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX) | [Pirredy](https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf) | [Digital \(Acústico\)](https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 2:31 |
 
-Snapshot ID: `MCwxZGEzMDA3MmRiZDczYWIyNjdiMmI1MDZhZjUwNmRlNWQ4MjM5MTEx`
+Snapshot ID: `MCxlYTY2MzAzOGQ0NDFjNzU2ZTIwM2JjMzJhODYwMGM3ZDhiMmZjMGI5`

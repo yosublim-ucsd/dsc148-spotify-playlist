@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Yp07Vpnxob.md) - [plain]
 
 > Featuring Young Miko, Mora, Rauw Alejandro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794 likes - 25 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 805 likes - 25 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Yp07Vpnxob.md) - [plain]
 | 24 | [La Suzi](https://open.spotify.com/track/7Hr9ke37qeKfCajWSZ4iet) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 2:35 |
 | 25 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 |
 
-Snapshot ID: `MCw3MDU1ZDM4NTg4OTQ3ODNhY2ZhNTQyNGZjOTA1YzBlZTgwZjdhN2E3`
+Snapshot ID: `MCw2ZjJiNzU2ZDUyNjk4YzJiNTZiOGZkNTcyNjlmMTdkODgzNDZmOTc5`

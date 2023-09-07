@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,596 likes - 72 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,619 likes - 72 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [笨蛋](https://open.spotify.com/track/6IeWsmiTBpHv6zmV1CDtt1) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [笨蛋](https://open.spotify.com/album/0EpBEMnAxBm58kUDQBc2dm) | 3:49 |
 | 72 | [黑](https://open.spotify.com/track/0TPQEJA9KeMOJDnKUCeOXs) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [黑](https://open.spotify.com/album/2QAspwCWad19ci7ZNomwqd) | 3:40 |
 
-Snapshot ID: `MCw0YzhiMDFjOWIyNTM2YWNkZWJmYzdiMzA3MWJhMmUyOGQzOGExZmQ5`
+Snapshot ID: `MCwyNDQ1NTc4MjY3NDNjODJiYTUxMjM1MjI3YTU2NWExMjU5M2YyYTc3`

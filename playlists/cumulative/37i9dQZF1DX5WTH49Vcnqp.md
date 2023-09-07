@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Jungle
 
-1,063 songs - 2 day 12 hr 24 min
+1,064 songs - 2 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 | 2022-02-17 | 2022-04-01 |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2023-02-09 | 2023-03-10 |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-07-13 | 2023-09-01 |
+| [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 | 2023-09-06 |  |
 | [I Like It Like](https://open.spotify.com/track/1J1BneZ7n94exyy4B9Qobx) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Between The Head & The Heart](https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH) | 3:30 | 2022-07-04 | 2022-08-26 |
 | [I Love This Song](https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Love This Song](https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7) | 3:26 | 2022-02-10 | 2022-04-01 |
 | [I Need a Doctor](https://open.spotify.com/track/5h7QCIkrAcCbdxILyK4pxF) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Journey to the Center of Myself, Vol\. 3](https://open.spotify.com/album/1cS2zM7E9G94LQgat1ANTR) | 2:12 | 2021-12-28 | 2022-02-11 |
@@ -748,7 +749,7 @@
 | [Promises](https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Andie](https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr) | [Promises](https://open.spotify.com/album/7c2P9D7n2ve73GhVHeOHVb) | 3:56 | 2022-01-27 | 2022-03-24 |
 | [Proof](https://open.spotify.com/track/4t9y553ZCwQBrp3ZzV9IRl) | [Methyl Ethel](https://open.spotify.com/artist/3I3Fz1DeUY0icXFvOjbXm7), [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Proof](https://open.spotify.com/album/0YO2AdPUojNY422lWMsu2d) | 4:24 | 2022-01-17 | 2022-03-30 |
 | [Pulling Through](https://open.spotify.com/track/06JviyTdgDWjuAeISDct2L) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/1NDvZ5ehnQvrTg8ILwGwsg) | 3:55 | 2022-06-23 | 2022-09-30 |
-| [Pulse](https://open.spotify.com/track/6XNoI3L5h2ONamtxyMCkWI) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V), [Lisa Grace](https://open.spotify.com/artist/5bp3KSMBNtOvTW6OvrnwpO) | [Pulse](https://open.spotify.com/album/0OJHV3RMeL31ReoYiTtssB) | 3:19 | 2023-07-06 |  |
+| [Pulse](https://open.spotify.com/track/6XNoI3L5h2ONamtxyMCkWI) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V), [Lisa Grace](https://open.spotify.com/artist/5bp3KSMBNtOvTW6OvrnwpO) | [Pulse](https://open.spotify.com/album/0OJHV3RMeL31ReoYiTtssB) | 3:19 | 2023-07-06 | 2023-09-07 |
 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 | 2022-10-20 | 2023-02-10 |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-01-20 | 2022-02-25 |
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-20 | 2022-03-25 |
@@ -822,7 +823,7 @@
 | [Sick To My Stomach](https://open.spotify.com/track/0KsX41llne8z0tX1kyTXwo) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Sick To My Stomach](https://open.spotify.com/album/4Klr3xrFeQrNjf1PNMLiKk) | 3:14 | 2022-03-10 | 2022-05-27 |
 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 | 2022-04-21 | 2022-06-24 |
 | [Sidewalk](https://open.spotify.com/track/6uy9SVkJLW4lqkosNsflfd) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Sidewalk](https://open.spotify.com/album/0OnTVLkesHC8y3tONTSkBr) | 4:38 | 2022-07-14 | 2022-09-02 |
-| [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-06 |  |
+| [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-06 | 2023-09-07 |
 | [Simple Pleasures](https://open.spotify.com/track/0JvupwxNeYjupHIONPr4kj) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Heading East](https://open.spotify.com/album/7yR7XplXI0jVhzrzvTuHb8) | 3:10 | 2022-09-15 | 2022-12-09 |
 | [Simple Pleasures](https://open.spotify.com/track/0yiSyQoAtXlwHguf3o1E4V) | [Soaked Oats](https://open.spotify.com/artist/6J6UC5lC7h9fEJPCR7UM4m) | [Working Title](https://open.spotify.com/album/7xwD0blVEPPzJ3i73qSukv) | 3:43 | 2022-11-24 | 2023-02-17 |
 | [sink](https://open.spotify.com/track/5smvhXxq6FpGKNJIqwOetD) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sink](https://open.spotify.com/album/2Vj2TUjMOqVpbieeKGD2v9) | 2:32 | 2022-03-31 | 2022-04-29 |

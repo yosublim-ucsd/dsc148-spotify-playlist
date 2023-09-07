@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Claptone.",
-  "num_followers": 1866053,
+  "num_followers": 1866456,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWFlZTJiNjY0ZWEzYTgwZjkxNjgzYjA4MDlhZjgyOTU4MmVhYmEy",
+  "snapshot_id": "MCxkMDhiNGE1NmUxMTBiM2JkOTIwODIzNzdhOGQwNjI1MDNmZGVhZTUz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 170668,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -1279,22 +1299,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 170668,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 203225,
       "name": "To Be Real",
       "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Your Mother",
-        "url": "https://open.spotify.com/album/3mEkKriilkzliPrmhaIxo5"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Your Mother",
-      "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Make Me Happy (feat. Might Delete Later)",
         "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 204545,
       "name": "Make Me Happy (feat. Might Delete Later)",
       "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Your Mother",
+        "url": "https://open.spotify.com/album/3mEkKriilkzliPrmhaIxo5"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Your Mother",
+      "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 157212,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/1LStsedQUVmTDXp9xGVMyp"
       },
@@ -1739,26 +1759,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
@@ -1775,6 +1775,46 @@
       "duration_ms": 217708,
       "name": "If Love Is A Skill",
       "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "NaNa Djon",
+        "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Victor D\u00e9m\u00e9",
+          "url": "https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "NaNa Djon",
+      "url": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1803,6 +1843,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/2nBnSn82VCM4k19bmD9h4a"
       },
@@ -1823,30 +1883,6 @@
       "duration_ms": 202800,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "NaNa Djon",
-        "url": "https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Victor D\u00e9m\u00e9",
-          "url": "https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg"
-        }
-      ],
-      "duration_ms": 161520,
-      "name": "NaNa Djon",
-      "url": "https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1887,18 +1923,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
+        "name": "Downstream",
+        "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
       },
       "artists": [
         {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
         }
       ],
-      "duration_ms": 195241,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
+      "duration_ms": 175179,
+      "name": "Downstream",
+      "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1923,26 +1963,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 157212,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Capoeira Mata Um (Zum Zum Zum)",
         "url": "https://open.spotify.com/album/5lQLZNV76a34Md7qojyO2s"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 172175,
       "name": "Capoeira Mata Um (Zum Zum Zum)",
       "url": "https://open.spotify.com/track/7rriLHw4KHgWQnKY5vR2fw"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Downstream",
-        "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 175179,
-      "name": "Downstream",
-      "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2055,6 +2055,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Bucovina 2023",
+        "url": "https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Shantel",
+          "url": "https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA"
+        }
+      ],
+      "duration_ms": 187205,
+      "name": "Bucovina 2023",
+      "url": "https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -2103,26 +2123,6 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Bucovina 2023",
-        "url": "https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Shantel",
-          "url": "https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA"
-        }
-      ],
-      "duration_ms": 187205,
-      "name": "Bucovina 2023",
-      "url": "https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "NO GUEST LIST",
-        "url": "https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 162562,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Baila (La Banda)",
         "url": "https://open.spotify.com/album/3rzSGcuOW6mGCGu0Sc2pzb"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 158293,
       "name": "Baila (La Banda)",
       "url": "https://open.spotify.com/track/6AY8ze5ZtHhkygQryAvdHI"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "NO GUEST LIST",
+        "url": "https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 162562,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Acid (All Night Long)",
+        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 153690,
+      "name": "Acid (All Night Long)",
+      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Strangers (Do You Remember) [feat. Yas Cepeda]",
         "url": "https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc"
       },
@@ -2387,38 +2403,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Your Love (feat. House Gospel Choir)",
-        "url": "https://open.spotify.com/album/4fo8hmUbqDIW5UbzfkhTs2"
+        "name": "Inferno (No. 1)",
+        "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Disco Dom",
+          "url": "https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004"
         },
         {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 258342,
-      "name": "Your Love (feat. House Gospel Choir) (Edit)",
-      "url": "https://open.spotify.com/track/60JeXqcZ2yBJiedeM1Xv4i"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Acid (All Night Long)",
-        "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
-      },
-      "artists": [
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
         }
       ],
-      "duration_ms": 153690,
-      "name": "Acid (All Night Long)",
-      "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
+      "duration_ms": 296453,
+      "name": "Be The One (feat. Yung Bae)",
+      "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
     }
   ],
   "unique_name": "Housewerk",

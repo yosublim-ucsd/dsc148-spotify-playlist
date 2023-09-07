@@ -13412,10 +13412,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 145080,
       "name": "Good Things Take Time",
       "url": "https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW"
+    },
+    {
+      "album": {
+        "name": "Dystopia Girl",
+        "url": "https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu"
+      },
+      "artists": [
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "Good Things Take Time",
+      "url": "https://open.spotify.com/track/2osU4WkxDWd6ME9qdZ92S2"
     },
     {
       "album": {
@@ -28484,10 +28502,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 141546,
       "name": "Shoplifting From Nike",
       "url": "https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V"
+    },
+    {
+      "album": {
+        "name": "Dystopia Girl",
+        "url": "https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu"
+      },
+      "artists": [
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141546,
+      "name": "Shoplifting From Nike",
+      "url": "https://open.spotify.com/track/5EeFXlnVF1b7y1n5HzpCQg"
     },
     {
       "album": {

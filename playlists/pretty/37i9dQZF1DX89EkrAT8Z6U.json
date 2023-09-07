@@ -1,13 +1,33 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 562738,
+  "num_followers": 564171,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODc1MTY0M2Y4ZjM3ZmJmMGY3MzE5ZWUyODNiNmM1YzQzMzYyYmYx",
+  "snapshot_id": "MCw3Njc5MTc1NTJiNjdmZTg0NTc5NjhiM2IzNTU1NGU1YzNjN2E0YWUw",
   "tracks": [
+    {
+      "added_at": "2023-09-06 17:53:17",
+      "album": {
+        "name": "King Kai",
+        "url": "https://open.spotify.com/album/5pxT6OgFygrOCvCqaUVnxe"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 103379,
+      "name": "King Kai",
+      "url": "https://open.spotify.com/track/04tAzmldYGn6DAZrpny2WG"
+    },
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
@@ -83,22 +103,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "She Bad",
-        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 105534,
-      "name": "She Bad",
-      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "Now the Moon's Rising",
         "url": "https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK"
       },
@@ -127,6 +131,22 @@
       "duration_ms": 149461,
       "name": "COWBELL WARRIOR!",
       "url": "https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "She Bad",
+        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 105534,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -183,22 +203,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Let\u2019s Ride",
-        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 120981,
-      "name": "Let\u2019s Ride",
-      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "I'm Only a Fool for You",
         "url": "https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN"
       },
@@ -223,26 +227,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "WET DREAMS (w/ Nimstarr)",
         "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
       },
@@ -259,6 +243,26 @@
       "duration_ms": 124711,
       "name": "WET DREAMS (w/ Nimstarr)",
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -311,22 +315,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "Hexada",
         "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
       },
@@ -339,6 +327,22 @@
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -559,22 +563,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "The Law of Recognition",
-        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
-      },
-      "artists": [
-        {
-          "name": "KYSLINGO",
-          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
-        }
-      ],
-      "duration_ms": 129142,
-      "name": "The Law of Recognition",
-      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "LA ESPADA",
         "url": "https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs"
       },
@@ -587,6 +575,22 @@
       "duration_ms": 177230,
       "name": "LA ESPADA",
       "url": "https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "The Law of Recognition",
+        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
+      },
+      "artists": [
+        {
+          "name": "KYSLINGO",
+          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "The Law of Recognition",
+      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -815,6 +819,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "Let\u2019s Ride",
+        "url": "https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 120981,
+      "name": "Let\u2019s Ride",
+      "url": "https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "Trap Anthem",
         "url": "https://open.spotify.com/album/0RYvZMaunWeYkHDYMLPwhe"
       },
@@ -835,22 +855,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Kujo Freestyle",
-        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
-      },
-      "artists": [
-        {
-          "name": "Sinoda",
-          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
-        }
-      ],
-      "duration_ms": 115099,
-      "name": "Kujo Freestyle",
-      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "Killin' On Demand",
         "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
       },
@@ -863,6 +867,22 @@
       "duration_ms": 129196,
       "name": "Killin' On Demand",
       "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Kujo Freestyle",
+        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
+      },
+      "artists": [
+        {
+          "name": "Sinoda",
+          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
+        }
+      ],
+      "duration_ms": 115099,
+      "name": "Kujo Freestyle",
+      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1111,6 +1131,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "Vito / Bad Boy",
         "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
       },
@@ -1139,22 +1175,6 @@
       "duration_ms": 133392,
       "name": "BLACKED OUT",
       "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1231,6 +1251,30 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+        "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        }
+      ],
+      "duration_ms": 157407,
+      "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+      "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "Bars No Jutsu",
         "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
       },
@@ -1259,30 +1303,6 @@
       "duration_ms": 127925,
       "name": "MAMBO",
       "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
-        "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "KAMAARA",
-          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
-        }
-      ],
-      "duration_ms": 157407,
-      "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
-      "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1335,26 +1355,6 @@
       "duration_ms": 95483,
       "name": "Break Shit",
       "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "Dead on Arrival",
-        "url": "https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx"
-      },
-      "artists": [
-        {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dead on Arrival",
-      "url": "https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ"
     }
   ],
   "unique_name": "sh\u014dnen",

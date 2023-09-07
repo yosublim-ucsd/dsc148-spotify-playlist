@@ -1,13 +1,29 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Cisco Swank Artwork: Joy Yamusangie",
-  "num_followers": 194703,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Sen Morimoto Artwork: Joy Yamusangie",
+  "num_followers": 194886,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmU2MjM2MTkxNjA2ZTlmZjJkNWI3ODFmOGRiMTI4OWY2OTg2OTA3",
+  "snapshot_id": "MCw2MTE2ZjQxYWI4Y2E2ZDQ5MDNjYjhmODVkN2I4NzYzODkzOGFjOWNh",
   "tracks": [
+    {
+      "added_at": "2023-09-06 13:21:34",
+      "album": {
+        "name": "Bad State",
+        "url": "https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "duration_ms": 143173,
+      "name": "Bad State",
+      "url": "https://open.spotify.com/track/2V4vuCR0VyMyq2zyb0Ou0u"
+    },
     {
       "added_at": "2023-08-23 04:00:00",
       "album": {
@@ -1379,26 +1395,6 @@
       "duration_ms": 289293,
       "name": "Sweet Jasmine",
       "url": "https://open.spotify.com/track/1UJElgaArW1jL1dWX726z3"
-    },
-    {
-      "added_at": "2023-07-05 04:00:00",
-      "album": {
-        "name": "Tame It",
-        "url": "https://open.spotify.com/album/3lQBGb4hCkJ5HCdXOrh7Hn"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "KiliHippie",
-          "url": "https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX"
-        }
-      ],
-      "duration_ms": 215509,
-      "name": "Tame It",
-      "url": "https://open.spotify.com/track/36LrjOrsZpubA8Lh5PnIGw"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

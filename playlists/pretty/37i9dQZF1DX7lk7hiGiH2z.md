@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,194 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,268 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 17 | [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 |
 | 18 | [Unter dem Meer](https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 3](https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd) | 3:07 |
 | 19 | [Dschungelparty](https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9) | [Giraffenaffen Gang](https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv) | [Nö mit Ö](https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V) | 3:05 |
-| 20 | [Probiers mal mit Gemütlichkeit](https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 2](https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6) | 3:07 |
-| 21 | [Hakuna Matata](https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t) | [voXXclub](https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 3:34 |
+| 20 | [Hakuna Matata](https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t) | [voXXclub](https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 3:34 |
+| 21 | [Probiers mal mit Gemütlichkeit](https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 2](https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6) | 3:07 |
 | 22 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
 | 23 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
 | 24 | [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
-Snapshot ID: `MCw1NjRiZWQ2N2NlZDQ4M2ZhN2UwMDIyYjk1NTNkMGRlZWM5NTAxMGNk`
+Snapshot ID: `MCw4ODQzMjMyYTVlMmRjOWI0ZTg5NDEzNzE2YzMyYTQyYzg2YWRmOGVk`

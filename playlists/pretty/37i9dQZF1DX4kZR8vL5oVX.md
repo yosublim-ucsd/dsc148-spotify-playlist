@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Louane
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,079 likes - 32 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,089 likes - 35 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,23 +22,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 12 | [Quelqu'un d'autre](https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh) | 3:01 |
 | 13 | [Magicienne](https://open.spotify.com/track/57krOw4pJ9ClxrZvrbxsSn) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Magicienne](https://open.spotify.com/album/5KHcQLrDmNtzkmGZz2fM1F) | 3:49 |
 | 14 | [Rassure\-toi](https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Rassure\-toi](https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo) | 2:54 |
-| 15 | [L'olivier](https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [L'olivier](https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o) | 3:23 |
-| 16 | [envie](https://open.spotify.com/track/26UPRXmqv8EQVW5lAwgXTo) | [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [grandir](https://open.spotify.com/album/1WOP8GBvkCO1P999yvZXG4) | 2:46 |
-| 17 | [What If](https://open.spotify.com/track/6AAP86MjtmDzvnlzeOM8Nh) | [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Roots](https://open.spotify.com/album/4txrDsNrBZ1G64En6eT7FW) | 3:17 |
-| 18 | [Jamais](https://open.spotify.com/track/16LeJAdldS7WXqYh2o5GaS) | [Evelinn Trouble](https://open.spotify.com/artist/49GbMjOzWCx2QZHPCY6F5K) | [Jamais](https://open.spotify.com/album/2SNUtJI4OC1RzBGkONssIM) | 3:22 |
-| 19 | [Pépite](https://open.spotify.com/track/5sJrcw7rjaQv5ybf9wucnx) | [Popi Mendez](https://open.spotify.com/artist/3dPuvi6zVeWuCtqLzyv36H) | [Pépite](https://open.spotify.com/album/2muk2aadSRURjBHyeGYbdp) | 3:02 |
-| 20 | [La rivière](https://open.spotify.com/track/30eBrvh29hpWJMhJWEVa6e) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [La rivière](https://open.spotify.com/album/6pSOpkv1sjvKHvrZ8k5lTK) | 3:47 |
-| 21 | [Dans La Plaine](https://open.spotify.com/track/54Apo3hpZwyT8yZkr8gahK) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Dans La Plaine](https://open.spotify.com/album/1wINNT0JAWBE0iMroQbgGR) | 2:01 |
-| 22 | [bad days](https://open.spotify.com/track/6Zasn2U1p72BVpgkPo1rz3) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [bad days](https://open.spotify.com/album/6WN2yMHZBjcmepRcKcVSkC) | 2:41 |
-| 23 | [Mourir sur scène](https://open.spotify.com/track/2bOZ0Yv5J2CXTSMS03U3kS) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [Mourir sur scène](https://open.spotify.com/album/02ktnKt3SeRQwpvIniN9ZR) | 3:29 |
-| 24 | [Ma vie](https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31) | [Madeleine](https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8) | [Ma vie](https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC) | 2:56 |
-| 25 | [Soft bby](https://open.spotify.com/track/5ots2YCAZvY2dXcfhqtHdV) | [Jilo](https://open.spotify.com/artist/1ieFxzBuKDWczHTuom6Ytc) | [Soft bby](https://open.spotify.com/album/7FQgs8nCtRtrTKWjvx0t7t) | 4:20 |
-| 26 | [Je te pardonne](https://open.spotify.com/track/22N377asZRTo4cs8E6V5f7) | [CLEM](https://open.spotify.com/artist/5LbSBkKKMb5it8AqwDDa4R) | [Je te pardonne](https://open.spotify.com/album/3MGdkQB5t67iC9jV4A1vo5) | 3:14 |
-| 27 | [La thune](https://open.spotify.com/track/1fsm7Pw1RgeRyi60P692iK) | [Estia](https://open.spotify.com/artist/34ZjHp6ltnvpdfOylNdXJ4) | [La thune](https://open.spotify.com/album/1dBeZWGSK6J6aCzWKSwwAB) | 2:41 |
-| 28 | [Encore](https://open.spotify.com/track/5DsYQhuJeUqNbGxIr8Ans5) | [Céline Aviani](https://open.spotify.com/artist/4tRlZZ759Bi8Z9xoxBntOt) | [Encore](https://open.spotify.com/album/0RJTRnY0n5OdmalJAUNy5J) | 2:56 |
-| 29 | [club déprime](https://open.spotify.com/track/4dn2eJ7COBgboJF6gQzC2p) | [Prune.](https://open.spotify.com/artist/6INlStbrt73y2NCqtmkeMa) | [club déprime](https://open.spotify.com/album/5NTQCJcKXE8TdVF5pc5KdM) | 2:43 |
-| 30 | [Théorèmes](https://open.spotify.com/track/4Gp5Z8xbgWsZZpsKPA0qH1) | [Pixel](https://open.spotify.com/artist/1rmUeanBa7ccqHR6uOIFZV) | [Théorèmes](https://open.spotify.com/album/2lvR9pNRXUeufi5LjY1l4u) | 2:39 |
-| 31 | [Bancale](https://open.spotify.com/track/4By9ybXyyb3WzA6HZ4ZOl2) | [Maroussia](https://open.spotify.com/artist/58G083mCMdDwHg0R9ndgPG) | [Bancale](https://open.spotify.com/album/2gl23hTT1XmSHbFksvicRB) | 3:07 |
-| 32 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 |
+| 15 | [8h sonne](https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [8h sonne](https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU) | 3:08 |
+| 16 | [Baiser Amer](https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Baiser Amer](https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK) | 2:37 |
+| 17 | [L'olivier](https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [L'olivier](https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o) | 3:23 |
+| 18 | [envie](https://open.spotify.com/track/26UPRXmqv8EQVW5lAwgXTo) | [Adeline Lovo](https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6) | [grandir](https://open.spotify.com/album/1WOP8GBvkCO1P999yvZXG4) | 2:46 |
+| 19 | [What If](https://open.spotify.com/track/6AAP86MjtmDzvnlzeOM8Nh) | [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Roots](https://open.spotify.com/album/4txrDsNrBZ1G64En6eT7FW) | 3:17 |
+| 20 | [Jamais](https://open.spotify.com/track/16LeJAdldS7WXqYh2o5GaS) | [Evelinn Trouble](https://open.spotify.com/artist/49GbMjOzWCx2QZHPCY6F5K) | [Jamais](https://open.spotify.com/album/2SNUtJI4OC1RzBGkONssIM) | 3:22 |
+| 21 | [Pépite](https://open.spotify.com/track/5sJrcw7rjaQv5ybf9wucnx) | [Popi Mendez](https://open.spotify.com/artist/3dPuvi6zVeWuCtqLzyv36H) | [Pépite](https://open.spotify.com/album/2muk2aadSRURjBHyeGYbdp) | 3:02 |
+| 22 | [La rivière](https://open.spotify.com/track/30eBrvh29hpWJMhJWEVa6e) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [La rivière](https://open.spotify.com/album/6pSOpkv1sjvKHvrZ8k5lTK) | 3:47 |
+| 23 | [Dans La Plaine](https://open.spotify.com/track/54Apo3hpZwyT8yZkr8gahK) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [Dans La Plaine](https://open.spotify.com/album/1wINNT0JAWBE0iMroQbgGR) | 2:01 |
+| 24 | [bad days](https://open.spotify.com/track/6Zasn2U1p72BVpgkPo1rz3) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [bad days](https://open.spotify.com/album/6WN2yMHZBjcmepRcKcVSkC) | 2:41 |
+| 25 | [Mourir sur scène](https://open.spotify.com/track/2bOZ0Yv5J2CXTSMS03U3kS) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [Mourir sur scène](https://open.spotify.com/album/02ktnKt3SeRQwpvIniN9ZR) | 3:29 |
+| 26 | [Another Victim](https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Another Victim](https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT) | 3:52 |
+| 27 | [Ma vie](https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31) | [Madeleine](https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8) | [Ma vie](https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC) | 2:56 |
+| 28 | [Soft bby](https://open.spotify.com/track/5ots2YCAZvY2dXcfhqtHdV) | [Jilo](https://open.spotify.com/artist/1ieFxzBuKDWczHTuom6Ytc) | [Soft bby](https://open.spotify.com/album/7FQgs8nCtRtrTKWjvx0t7t) | 4:20 |
+| 29 | [Je te pardonne](https://open.spotify.com/track/22N377asZRTo4cs8E6V5f7) | [CLEM](https://open.spotify.com/artist/5LbSBkKKMb5it8AqwDDa4R) | [Je te pardonne](https://open.spotify.com/album/3MGdkQB5t67iC9jV4A1vo5) | 3:14 |
+| 30 | [La thune](https://open.spotify.com/track/1fsm7Pw1RgeRyi60P692iK) | [Estia](https://open.spotify.com/artist/34ZjHp6ltnvpdfOylNdXJ4) | [La thune](https://open.spotify.com/album/1dBeZWGSK6J6aCzWKSwwAB) | 2:41 |
+| 31 | [Encore](https://open.spotify.com/track/5DsYQhuJeUqNbGxIr8Ans5) | [Céline Aviani](https://open.spotify.com/artist/4tRlZZ759Bi8Z9xoxBntOt) | [Encore](https://open.spotify.com/album/0RJTRnY0n5OdmalJAUNy5J) | 2:56 |
+| 32 | [club déprime](https://open.spotify.com/track/4dn2eJ7COBgboJF6gQzC2p) | [Prune.](https://open.spotify.com/artist/6INlStbrt73y2NCqtmkeMa) | [club déprime](https://open.spotify.com/album/5NTQCJcKXE8TdVF5pc5KdM) | 2:43 |
+| 33 | [Théorèmes](https://open.spotify.com/track/4Gp5Z8xbgWsZZpsKPA0qH1) | [Pixel](https://open.spotify.com/artist/1rmUeanBa7ccqHR6uOIFZV) | [Théorèmes](https://open.spotify.com/album/2lvR9pNRXUeufi5LjY1l4u) | 2:39 |
+| 34 | [Bancale](https://open.spotify.com/track/4By9ybXyyb3WzA6HZ4ZOl2) | [Maroussia](https://open.spotify.com/artist/58G083mCMdDwHg0R9ndgPG) | [Bancale](https://open.spotify.com/album/2gl23hTT1XmSHbFksvicRB) | 3:07 |
+| 35 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 |
 
-Snapshot ID: `MCxkMWQ1MWEwYzgxMWJmNDkxMWE4MDdmNGY2NGQ4NTBmNzJiMjhlZTM4`
+Snapshot ID: `MCw2ZWNmNDcyZWJkMmU4M2Q0YzEyNDU2MWM4MGQ0MDdhZGM3ZGU1Njhj`

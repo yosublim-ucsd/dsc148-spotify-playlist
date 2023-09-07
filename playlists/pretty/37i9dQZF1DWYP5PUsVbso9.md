@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,633 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,830 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 | 100 | [Love In The Hot Afternoon](https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Love In The Hot Afternoon](https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77) | 3:19 |
 
-Snapshot ID: `MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky`
+Snapshot ID: `MCwzM2U3ZmYwZDM5YmZjNjQ3ZTQwZGFlNGEwODEwNzJhZWJiMjMxZTBh`

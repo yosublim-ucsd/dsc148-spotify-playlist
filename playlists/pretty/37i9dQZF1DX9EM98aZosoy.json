@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1269068,
+  "num_followers": 1269164,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmM0Nzk3ZGU3NTQxM2UyMTRjYmUxZDcwY2QxMmY4MGMwYTJlNzUx",
+  "snapshot_id": "MCwxMWI0ZGRlMGI5NzlmMmMyYjMxOTBmYjlkZTgyMDZiZWI2MTNkNWU0",
   "tracks": [
     {
       "added_at": "2023-09-01 11:00:00",
@@ -327,30 +327,6 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "Friesenjung",
-        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        },
-        {
-          "name": "Otto Waalkes",
-          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Friesenjung",
-      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -715,30 +715,6 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "2022 war film gewesen",
-        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
-        }
-      ],
-      "duration_ms": 137847,
-      "name": "Party Sahne",
-      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 163515,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "2022 war film gewesen",
+        "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "duration_ms": 137847,
+      "name": "Party Sahne",
+      "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -859,42 +859,6 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "Young Right Now",
-        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 186140,
-      "name": "Young Right Now",
-      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW"
-      },
-      "artists": [
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        }
-      ],
-      "duration_ms": 191166,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
@@ -915,6 +879,42 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/23x07E0mPIzgXa1i4i6EnW"
+      },
+      "artists": [
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        }
+      ],
+      "duration_ms": 191166,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "Young Right Now",
+        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 186140,
+      "name": "Young Right Now",
+      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
     },
     {
       "added_at": "2023-09-01 11:00:00",

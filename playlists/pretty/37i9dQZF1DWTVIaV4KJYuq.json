@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688316,
+  "num_followers": 688374,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzgwOThmODY2ZDk5NmI3MTIwOTFiMzM5OTMxOGVkZjdmZGM2MzMz",
+  "snapshot_id": "MCxmNmJiNWY2MmU5NWNkMTQ5OTVhZDA4MzAwMDhiMTQ5MTJiMjRhYTlh",
   "tracks": [
     {
       "added_at": "2023-08-21 14:49:33",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
+      "added_at": "2023-08-28 16:11:48",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
+    },
+    {
       "added_at": "2023-08-21 14:49:33",
       "album": {
         "name": "America",
@@ -759,22 +775,6 @@
       "duration_ms": 260053,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
-    },
-    {
-      "added_at": "2023-08-28 16:11:48",
-      "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 241663,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -859,26 +859,18 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "You Are My Sunshine (with Chris Stapleton)",
-        "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
       "artists": [
         {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Southern Family",
-          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
         }
       ],
-      "duration_ms": 373266,
-      "name": "You Are My Sunshine (with Chris Stapleton)",
-      "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -899,22 +891,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "You Are My Sunshine (with Chris Stapleton)",
+        "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
+      },
+      "artists": [
+        {
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Southern Family",
+          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
+        }
+      ],
+      "duration_ms": 373266,
+      "name": "You Are My Sunshine (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Stranger In A Strange Land",
-        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 288618,
-      "name": "Stranger In A Strange Land",
-      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "Strangers (From \"Life In A Day\")",
         "url": "https://open.spotify.com/album/2R1whJdo3obmdC009WcaYC"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 192963,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4rhqHKUFyeXBfdGUcbYVCQ"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "Stranger In A Strange Land",
+        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 288618,
+      "name": "Stranger In A Strange Land",
+      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
     },
     {
       "added_at": "2023-08-21 14:49:33",

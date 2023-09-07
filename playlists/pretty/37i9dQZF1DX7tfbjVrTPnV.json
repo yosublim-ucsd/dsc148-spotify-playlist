@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 193091,
+  "num_followers": 193163,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzI3MDRmOWQ5OTM1ZjU4MGVjMDAyOGE1NjNmNDM1ZGI2ODA5NWJl",
+  "snapshot_id": "MCwzZmM1NWRiYmVlYzE0YjRmOGQwZmI4NDVhNTAwYjA2MTAwZGQzZTQx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Childhood Home",
         "url": "https://open.spotify.com/album/1LzGZidfjepFeFOHNxxrIX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 162800,
       "name": "A House Is A Home",
       "url": "https://open.spotify.com/track/1YYikTSCFdbivfd22fqGsX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "John Prine",
         "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
       },
@@ -623,38 +639,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Bring The Family",
+        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 239800,
+      "name": "Memphis In The Meantime",
+      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Hickory Wind",
         "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 245202,
       "name": "Red Dirt Girl",
       "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Do I Look Worried",
-      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Bring The Family",
-        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 239800,
-      "name": "Memphis In The Meantime",
-      "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
+      "duration_ms": 273693,
+      "name": "Do I Look Worried",
+      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Crossing Muddy Waters / Be My Husband",
         "url": "https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Love Wore A Halo (Back Before the War)",
-        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Love Wore A Halo (Back Before The War)",
-      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Your Life Is a Record",
         "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
       "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Love Wore A Halo (Back Before the War)",
+        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Love Wore A Halo (Back Before The War)",
+      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "Night Still Comes",
+      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 347769,
       "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
       "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "Night Still Comes",
-      "url": "https://open.spotify.com/track/0l5TOyEd5RswsWnqOaOX0X"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "For the Birds",
         "url": "https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH"
       },
@@ -2003,18 +2019,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+        "name": "Love Calling",
+        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
       },
       "artists": [
         {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
         }
       ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+      "duration_ms": 239266,
+      "name": "Angel Flight",
+      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2031,22 +2047,6 @@
       "duration_ms": 129077,
       "name": "Let's Have A Good Thing Together",
       "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Love Calling",
-        "url": "https://open.spotify.com/album/60H0TY0XqRGEsXKovVOHAY"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Angel Flight",
-      "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2231,6 +2231,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The Essential Guy Clark",
         "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
@@ -2259,26 +2279,6 @@
       "duration_ms": 276600,
       "name": "I Contain Multitudes",
       "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Our Year",
-        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
+        "name": "12 Stories",
+        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
       },
       "artists": [
         {
-          "name": "Kelly Willis & Bruce Robison",
-          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
         }
       ],
-      "duration_ms": 142157,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
+      "duration_ms": 216906,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2379,18 +2379,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "12 Stories",
-        "url": "https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz"
+        "name": "Our Year",
+        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+          "name": "Kelly Willis & Bruce Robison",
+          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
         }
       ],
-      "duration_ms": 216906,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb"
+      "duration_ms": 142157,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Into The Purple Valley",
-        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Taxes on the Farmer Feeds Us All",
-      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 237720,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Into The Purple Valley",
+        "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Taxes on the Farmer Feeds Us All",
+      "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,723 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,765 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 55 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
 | 56 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 57 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 58 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
-| 59 | [Não Liga Pra Mim](https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Não Liga Pra Mim](https://open.spotify.com/album/6DQkKTTgkyn0vajNSZTwer) | 2:45 |
+| 58 | [Não Liga Pra Mim](https://open.spotify.com/track/52HXxFOvQ3o8qMT9lmdaWZ) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Não Liga Pra Mim](https://open.spotify.com/album/6DQkKTTgkyn0vajNSZTwer) | 2:45 |
+| 59 | [Sem Parar](https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN) | [Vicente Augusto](https://open.spotify.com/artist/50bEMb8JJd2GxHQF1AoOV7), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [Sem Parar](https://open.spotify.com/album/1UUgWYpo34wjGwSXGxZHIV) | 3:16 |
 | 60 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 |
 | 61 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
 | 62 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [Só Uma Noite](https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [Só Uma Noite](https://open.spotify.com/album/28PX9MrdXuq9RbiOpE8Cfw) | 2:36 |
 | 70 | [Contigo](https://open.spotify.com/track/6vRa0xwMWiBR8fvGd7brnb) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Contigo](https://open.spotify.com/album/1dav5pLvS9gKsxuCcH5M1j) | 2:31 |
 
-Snapshot ID: `MCwyYzQ4YjI4ZjNhOGE2MWYyNGI0YjBhM2Q2MDM0MzNhMmY4Y2MxNWFi`
+Snapshot ID: `MCw3YTBkMzI4ZmY1MGIxYWFlYTAxODNhN2RlODgwMjBiNzUxZDM2N2Y1`

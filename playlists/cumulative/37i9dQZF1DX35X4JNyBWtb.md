@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-428 songs - 22 hr 14 min
+429 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Like I Do](https://open.spotify.com/track/6RnkFd8Fqqgk1Uni8RgqCQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Like I Do](https://open.spotify.com/album/5oU1ROIHS6IOWnb87GWhqU) | 3:22 | 2021-12-16 | 2023-03-07 |
 | [Like That](https://open.spotify.com/track/3831W9bQFWQyiH2F9Y2G0U) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Like That](https://open.spotify.com/album/2KruLoLod168ShxVb4zqbt) | 2:26 | 2021-12-16 | 2022-07-28 |
 | [Lose Control](https://open.spotify.com/track/0CBP40V5xkzhQqAOHRQmsB) | [Anto](https://open.spotify.com/artist/1GE165o9hlsv2zQETzQix7), [Rare Candy](https://open.spotify.com/artist/5okfcZF47LTIbEIx6RILD9) | [Lose Control EP](https://open.spotify.com/album/01MFM2SvnTw5Xx3vCIWxM1) | 2:34 | 2022-04-28 | 2022-07-29 |
+| [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 | 2023-09-01 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2021-12-16 |  |
 | [Louder \- Radio Edit](https://open.spotify.com/track/0zaaWhjBOtcxaTFvhL6znM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Louder](https://open.spotify.com/album/7hbyJgg40Flm7Lv4i3Uei0) | 2:33 | 2022-03-15 | 2022-04-19 |
 | [Louder \- Radio Edit](https://open.spotify.com/track/1jTKIuhvCHygnnY4QnUvyv) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Louder](https://open.spotify.com/album/7IdKpXiJU049bx6jqbERFc) | 2:33 | 2022-11-11 | 2022-11-13 |
@@ -429,7 +430,7 @@
 | [Won’t Let You Go](https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won’t Let You Go](https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h) | 3:37 | 2021-12-16 | 2023-03-07 |
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-03-06 |  |
 | [Would I Lie to You \- Radio Edit](https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly) | [Would I Lie to You](https://open.spotify.com/album/1o9FV0S0KY1kqmYsacy4j8) | 3:17 | 2022-03-15 |  |
-| [Would You Ever](https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Would You Ever](https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX) | 3:54 | 2022-03-15 |  |
+| [Would You Ever](https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Would You Ever](https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX) | 3:54 | 2022-03-15 | 2023-09-07 |
 | [You Little Beauty](https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [You Little Beauty](https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b) | 3:26 | 2022-03-15 |  |
 | [You Make Me Feel](https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [You Make Me Feel](https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as) | 3:23 | 2022-06-17 | 2023-05-13 |
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-01-28 | 2023-03-07 |

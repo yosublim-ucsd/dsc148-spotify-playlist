@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,625 likes - 52 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,686 likes - 52 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 7 | [A.I.E\. \- The L.L\. Club Mix](https://open.spotify.com/track/4ojWUlwqe20RDxfTunZSEH) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h), [Larry Levan](https://open.spotify.com/artist/7wxPD9vDsKD5OuHCeWgXRm) | [A.I.E\. \(Larry Levan Remixes\)](https://open.spotify.com/album/5DDnG0c9KJqwF4VePStSGZ) | 7:18 |
 | 8 | [Acid Thunder](https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba) | 4:32 |
 | 9 | [Your Love](https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 6:43 |
-| 10 | [The House Music Anthem \(Move Your Body\) \- Original Mix](https://open.spotify.com/track/5GwqtJkXxEU4AB7zjD1cCe) | [Curtis "Move Your Body" Mcclain](https://open.spotify.com/artist/4TN7qh4IyreD54FZPzCGxS) | [Move Your Body 30Th Anniversary: Commemorative Edition](https://open.spotify.com/album/5quqVXlP2SHq1fH3L9HQc8) | 7:47 |
+| 10 | [Move Your Body \- Jerry C King \(Kingdom\) Remix](https://open.spotify.com/track/3HUWzCRJXO8oQryPVCmQHg) | [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Legends of Chicago, Vol\. 2](https://open.spotify.com/album/0G9DLcK1XFirHbGfdKeYjA) | 7:47 |
 | 11 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
 | 12 | [Sensation \(Long\) \- Remastered](https://open.spotify.com/track/5Im1UUImw2eFDcaXxjhWoy) | [Ron Hardy](https://open.spotify.com/artist/1N6soJa7mZhKemJjaLLXx3) | [Traxbox Vol\. 1 \(Trax Records Remastered\)](https://open.spotify.com/album/1Tma8fnYGAuDqvMQfEri3X) | 6:40 |
 | 13 | [Dance You Mutha](https://open.spotify.com/track/4Lsm1CZ7dcStREyx82DNfY) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/46z9rRRERhimT8fptPcJMW) | 6:11 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 51 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 52 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
 
-Snapshot ID: `MCw4NGFiMjUxZTUwN2QzYTY3YzllNjRiNDlmY2EzODU1NGRmNmY3YzNm`
+Snapshot ID: `MCxkNDhiYWU2Njg3ZDRlYWI3ZmJiYmRiODQ5MGMyZDAyZmVhY2FjMDZh`

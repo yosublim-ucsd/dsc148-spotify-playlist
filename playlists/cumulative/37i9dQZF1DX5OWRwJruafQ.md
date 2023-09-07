@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-193 songs - 9 hr 18 min
+194 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Pehli Vaari](https://open.spotify.com/track/6TCiIez3DSy7ZwpBQ4RWrw) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Supremacy](https://open.spotify.com/album/4isvJOYqf8qa24FykMvycD) | 3:18 | 2023-03-29 | 2023-04-15 |
 | [Pind Da Riwaaz](https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad](https://open.spotify.com/artist/21wSW3l3ykp9cMOkbfMbQo) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 3:08 | 2023-03-29 | 2023-07-28 |
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
+| [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 |  |
 | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/0le7rsL6RS0cv3JRpPHim3) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/7MNNv8dFXb563dcOpw4P4H) | 2:58 | 2023-04-15 | 2023-04-21 |
 | [Raid](https://open.spotify.com/track/0zzFgse3Kxav0FTpHD32JH) | [Gurpreet Randhawa](https://open.spotify.com/artist/3uB5zQEcpSgthO42DwPcH9), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Raid](https://open.spotify.com/album/5ZkyLxGnYpG47sUsN2f4f8) | 2:16 | 2023-03-29 | 2023-04-21 |
 | [Roots](https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI) | [Pavii Ghuman](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW) | [Roots](https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92) | 2:09 | 2023-08-25 |  |

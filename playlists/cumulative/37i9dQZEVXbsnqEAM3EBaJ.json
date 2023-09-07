@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits (Deluxe)",
+        "url": "https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "Angel - Single Version",
+      "url": "https://open.spotify.com/track/02gRwJ10wlpzGHVX1SB7KB"
+    },
+    {
+      "album": {
         "name": "Angel of Fortune and Crime",
         "url": "https://open.spotify.com/album/6sUoNm5bfObOgctaklrxqw"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 209418,
       "name": "Baby Please Don't Go",
       "url": "https://open.spotify.com/track/0PsZchN7ldnGsUrj5UYV2T"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 414778,
       "name": "Beyond the Matrix - Live At The AFAS Live",
       "url": "https://open.spotify.com/track/5v4dSDlQ9cChObDYjYtZKh"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 270066,
       "name": "Bleed Out",
       "url": "https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe"
@@ -1790,6 +1808,24 @@
       "duration_ms": 291868,
       "name": "Buffalo Soldier",
       "url": "https://open.spotify.com/track/3W1I6GPK5Gs2u1f74Sy16y"
+    },
+    {
+      "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126383,
+      "name": "Burnout - 4-track demo",
+      "url": "https://open.spotify.com/track/13jtz15KnrtUmkWYHnDXZR"
     },
     {
       "album": {
@@ -2452,7 +2488,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 225107,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
@@ -2848,7 +2884,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 262240,
       "name": "DANSE MACABRE",
       "url": "https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ"
@@ -3018,7 +3054,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 250408,
       "name": "Death's Forgotten Children",
       "url": "https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul"
@@ -3294,7 +3330,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 216813,
       "name": "Dump On Em",
       "url": "https://open.spotify.com/track/1C1OdOEh7TEbI2qKPOZnmh"
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 216813,
       "name": "Dump On Em",
       "url": "https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz"
@@ -5182,7 +5218,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
@@ -5208,7 +5244,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p"
@@ -5554,7 +5590,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 226360,
       "name": "I Need Your Loving - Acapella Version",
       "url": "https://open.spotify.com/track/5PYl3wdWkjjwn5GoLsuN60"
@@ -5590,7 +5626,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 435973,
       "name": "I Need Your Loving - Extended Version",
       "url": "https://open.spotify.com/track/25p3dckllV2Hdrqu4yDcy3"
@@ -5750,6 +5786,24 @@
       "duration_ms": 179419,
       "name": "I'd Be Fine (If I Never Saw You Again)",
       "url": "https://open.spotify.com/track/0cLNjebMun5VyYDORebAkp"
+    },
+    {
+      "album": {
+        "name": "I Am Loved",
+        "url": "https://open.spotify.com/album/7E8nbhsAXvzmqOepO5iqap"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179963,
+      "name": "I'll Never Be The Same",
+      "url": "https://open.spotify.com/track/4EEBpXn3KUzGPDrQB79H5l"
     },
     {
       "album": {
@@ -6796,7 +6850,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 228586,
       "name": "Kings And Queens - Single Version",
       "url": "https://open.spotify.com/track/7bihN919MeyAUCKmq3Yxum"
@@ -7188,7 +7242,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
@@ -8120,7 +8174,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
@@ -8422,7 +8476,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 279452,
       "name": "My Curse Is My Redemption - Summer 80's Remix",
       "url": "https://open.spotify.com/track/53Y1vozzPxq8CBjIqQPtbI"
@@ -8732,7 +8786,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 123638,
       "name": "Never Done Nothing Like That Before - 2023 Remaster",
       "url": "https://open.spotify.com/track/686p6mrCE6HcLbAISuKjAa"
@@ -10755,6 +10809,24 @@
     },
     {
       "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228104,
+      "name": "Rules Of The Road",
+      "url": "https://open.spotify.com/track/5mZ5YripxFjfFaxfRQKqm7"
+    },
+    {
+      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
       },
@@ -11494,7 +11566,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 296360,
       "name": "Someone Somewhere In Summertime - Live From Paisley Abbey",
       "url": "https://open.spotify.com/track/2nqt3SX6n7CV425P2cmd9i"
@@ -12460,7 +12532,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "THE GIRLS - BLACKPINK THE GAME OST",
       "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
@@ -13608,7 +13680,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 227786,
       "name": "Tronic",
       "url": "https://open.spotify.com/track/05z6Fg2mmRbxRb58zMBPvp"
@@ -14538,7 +14610,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 121441,
       "name": "When I Come Around - 4-track demo",
       "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"

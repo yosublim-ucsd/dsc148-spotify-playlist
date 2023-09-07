@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,928 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,969 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 82 | [La Del Moño Colorado](https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE) | [Los Pedernales](https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc) | [La Del Moño Colorado](https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR) | 5:00 |
 | 83 | [Por las Noches](https://open.spotify.com/track/468QGXzfE7d46DeJ7ncjGz) | [La Zona X](https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Por las Noches](https://open.spotify.com/album/1FZvdjfWsyqKBDFlRWPTfP) | 2:52 |
 | 84 | [Los Ángeles Existen](https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Diez](https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi) | 3:18 |
-| 85 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 |
-| 86 | [Voy a Conquistarte](https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Voy a Conquistarte](https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4) | 3:18 |
+| 85 | [Voy a Conquistarte](https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Voy a Conquistarte](https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4) | 3:18 |
+| 86 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 |
 | 87 | [Si Te Pudiera Mentir](https://open.spotify.com/track/1nThd666DrTYTk1Fs9h3Lr) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Se Abre el Telón](https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt) | 3:09 |
 | 88 | [Escondidos](https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Los de la DC](https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE) | 3:29 |
 | 89 | [Simplemente Gracias](https://open.spotify.com/track/0HGxHzii8mi1z2tB7z2FvW) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Simplemente Gracias](https://open.spotify.com/album/1s3r2lkbalw3SIolEp0IMV) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Duele De A Madre](https://open.spotify.com/track/0TkQ3zCOFNJCmB8dYj2i47) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Duele De A Madre](https://open.spotify.com/album/0drIr1wTxVUeQmpu6pYHdv) | 2:55 |
 | 100 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
 
-Snapshot ID: `MCw1M2U0OTZhMmEzYWQ5MDMxOWVjZTA5ZjE0NWZhYzA5ZDU0OTc0MGFk`
+Snapshot ID: `MCwzZTU5MjkxOWViYjQxZWQ1MDFjM2EzYjExNjNiNjY3M2VjYzYwOTlj`

@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 41053,
+  "num_followers": 41103,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjIxOGNhZTgyNWRjZWI2OWIzMWE0ZjVmNzc0MDNjYzI1ZDU3MWY3",
+  "snapshot_id": "MCxiMjY4ODgxNWY3OGIzZjU5NDc1Mzg0MmI4ZTVjYjk5ZGQ4MGY2OWJj",
   "tracks": [
     {
       "added_at": "2023-09-05 14:54:35",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-09-05 14:54:35",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Treat People With Kindness",
-      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
-    },
-    {
-      "added_at": "2023-09-05 14:54:35",
-      "album": {
         "name": "At Your Worst",
         "url": "https://open.spotify.com/album/0dhaQArDYjNo5woJGbXaYU"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 167201,
       "name": "At Your Worst",
       "url": "https://open.spotify.com/track/6IYIPVF7RZQUEbVVs47xqw"
+    },
+    {
+      "added_at": "2023-09-05 14:54:35",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Treat People With Kindness",
+      "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
     },
     {
       "added_at": "2023-09-05 14:54:35",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-09-05 14:54:35",
       "album": {
-        "name": "Maybe Next Time",
-        "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Maybe Next Time",
-      "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
-    },
-    {
-      "added_at": "2023-09-05 14:54:35",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2023-09-05 14:54:35",
+      "album": {
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
     },
     {
       "added_at": "2023-09-05 14:54:35",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-05 14:54:35",
       "album": {
+        "name": "Are You Awake?",
+        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "duration_ms": 224429,
+      "name": "Are You Awake?",
+      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
+    },
+    {
+      "added_at": "2023-09-05 14:54:35",
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 270453,
       "name": "Have Fun!",
       "url": "https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R"
-    },
-    {
-      "added_at": "2023-09-05 14:54:35",
-      "album": {
-        "name": "Are You Awake?",
-        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Mayberry",
-          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
-        }
-      ],
-      "duration_ms": 224429,
-      "name": "Are You Awake?",
-      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
     },
     {
       "added_at": "2023-09-05 14:54:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-05 14:54:35",
       "album": {
-        "name": "Give It Up For Love",
-        "url": "https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Give It Up For Love",
-      "url": "https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da"
-    },
-    {
-      "added_at": "2023-09-05 14:54:35",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 171913,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
+    },
+    {
+      "added_at": "2023-09-05 14:54:35",
+      "album": {
+        "name": "Give It Up For Love",
+        "url": "https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Give It Up For Love",
+      "url": "https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da"
     }
   ],
   "unique_name": "Wholesome",

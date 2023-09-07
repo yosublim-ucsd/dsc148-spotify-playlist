@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: cignature\(시그니처\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: LEE CHAE YEON\(이채연\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-358 songs - 20 hr 8 min
+359 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5 More Minutes](https://open.spotify.com/track/3epPI6Bx5IeRtPMNFG5976) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:28 | 2021-11-29 | 2022-07-24 |
 | [5th Season \(SSFWL\)](https://open.spotify.com/track/2o0H0o6gWgnegtqkuOhtZk) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [THE FIFTH SEASON](https://open.spotify.com/album/7nRRZFQgQKQsXG7mQIuQPA) | 4:00 | 2022-07-28 | 2023-08-19 |
 | [A Girl Like Me](https://open.spotify.com/track/5O3I7UPYpdJHLwA6Nw3Qhx) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.2 Narcissus](https://open.spotify.com/album/1Y9ADL4odfgfgO7rwyL3zu) | 2:55 | 2021-11-29 | 2022-06-04 |
-| [A\-MOONO\-KE \(I’m OK\)](https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [A\-MOONO\-KE](https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM) | 2:57 | 2023-08-23 |  |
+| [A\-MOONO\-KE \(I’m OK\)](https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [A\-MOONO\-KE](https://open.spotify.com/album/3cDziy5BC62rGFTHokSlIM) | 2:57 | 2023-08-23 | 2023-09-07 |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-11-29 |  |
 | [Ah\-Choo](https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz8](https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8) | 3:38 | 2021-11-29 | 2022-07-28 |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2022-07-28 |  |
@@ -113,7 +113,7 @@
 | [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2022-01-26 | 2022-07-24 |
 | [FIRST LOVE](https://open.spotify.com/track/5r7VhVyqfb2W7wIhZSqMuP) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 2:58 | 2021-11-29 | 2022-07-29 |
 | [FLASH](https://open.spotify.com/track/2Purw8ZAANLan4cMqsKVp7) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [FLASH](https://open.spotify.com/album/3oEJDNtdlHeHJL2l0hAaTA) | 3:20 | 2022-08-29 | 2022-11-26 |
-| [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 | 2023-09-03 |
+| [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 |  |
 | [Fool](https://open.spotify.com/track/21C7B7PWYDW00czamOjleO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:53 | 2021-11-29 | 2022-04-20 |
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2021-11-29 | 2022-06-25 |
 | [frozen](https://open.spotify.com/track/5zNzvVBEuk8EEQslNTe42B) | [LOONA/yyxy](https://open.spotify.com/artist/5JPKwLsHGaPIlxqHiF29e4) | [beauty&thebeat](https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1) | 3:27 | 2021-11-29 | 2022-07-26 |
@@ -160,6 +160,7 @@
 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 | 2022-07-28 |  |
 | [Lady's Room](https://open.spotify.com/track/6f48SDPW5xu6gUsfLaHOZi) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:15 | 2022-03-29 | 2022-04-05 |
 | [Let Me In](https://open.spotify.com/track/4KJ8wgT7D6ZsSmVlXjEptF) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Let Me In](https://open.spotify.com/album/6Bdam86JkTBRhCz7Rohz1i) | 3:11 | 2021-11-29 | 2022-07-26 |
+| [LET′S DANCE](https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [The Move : Street](https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK) | 3:19 | 2023-09-06 |  |
 | [LIFE IS A PARTY](https://open.spotify.com/track/1xG5krI48MsenYWnbfimxK) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 2:59 | 2022-03-29 | 2022-04-17 |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 |  |
 | [LIKE](https://open.spotify.com/track/38d2AabK6k4Ct4iQk80MI5) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [SLEEP](https://open.spotify.com/album/7roSNEb22dwOVwdxbqL9By) | 3:06 | 2022-10-08 | 2022-10-25 |
@@ -267,7 +268,7 @@
 | [Sixteen](https://open.spotify.com/track/3hNdg4iWnhnjj1kP14sRKC) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:21 | 2022-01-04 | 2022-04-21 |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2023-08-15 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 |  |
-| [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 |  |
+| [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 | 2023-09-07 |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
 | [Sparkling Rain](https://open.spotify.com/track/5LokC9peDfvMTpAPjMIlV6) | [hyeon seo park](https://open.spotify.com/artist/3ikV9ZwFZz1DDiTc6xbMAW) | [Sparkling Rain](https://open.spotify.com/album/4uCCdIu2Ug9CBtTW11LtiZ) | 3:26 | 2022-07-04 | 2022-07-09 |

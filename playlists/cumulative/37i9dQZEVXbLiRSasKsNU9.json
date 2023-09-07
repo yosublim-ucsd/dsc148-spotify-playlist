@@ -34571,6 +34571,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
         "name": "Watergun",
         "url": "https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT"
       },
@@ -35934,7 +35952,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 221500,
       "name": "Young Girl A",
       "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"

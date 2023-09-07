@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-174 songs - 9 hr 0 min
+175 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-12-01 | 2022-10-19 |
 | [23](https://open.spotify.com/track/3GlGzfwUr7SQPsLC9WsOLJ) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/6JqgmFOlHCHv2gB6ETdGcH) | 2:44 | 2021-12-01 |  |
 | [23](https://open.spotify.com/track/3QV7DIIsx2qaeO5BvVbTtb) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:44 | 2021-12-01 | 2022-11-13 |
-| [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-12-01 |  |
+| [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-12-01 | 2023-09-07 |
+| [A Song About the Sun](https://open.spotify.com/track/3yVfX4uOLz0lVhHsXxFNTV) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Ricardo](https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK) | 3:30 | 2021-12-01 |  |
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-12-01 |  |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2021-12-01 |  |
 | [All I Need](https://open.spotify.com/track/5ed3H9JNDRtTomjDegQUOI) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [All I Need](https://open.spotify.com/album/1ZnoaQUOjszDsLOUvNycts) | 3:16 | 2021-12-01 |  |

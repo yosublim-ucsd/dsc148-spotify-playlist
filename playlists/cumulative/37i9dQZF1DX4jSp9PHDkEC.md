@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-309 songs - 20 hr 40 min
+310 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bad Kingdom](https://open.spotify.com/track/7vCuaxRIKElwgjSAo5REkw) | [May The Muse](https://open.spotify.com/artist/1IrFtEbmhbGENE14a9hV7s), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Gold](https://open.spotify.com/album/3nYz872xZUdkVyigIa1bwJ) | 3:13 | 2023-01-17 |  |
 | [Ballad of the Dying Man](https://open.spotify.com/track/0IFIJrJhp4UlMde4OYCPxb) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Pure Comedy](https://open.spotify.com/album/6nyf9D2M4je5BdNXwycoIe) | 4:50 | 2023-01-17 |  |
 | [Be On Your Way](https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:04 | 2023-01-17 |  |
+| [Beating](https://open.spotify.com/track/5EQHQEFO3S4Kv20cD6wSRX) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Colourgrade](https://open.spotify.com/album/0Uu5MAL65d04IDQ3h1waXy) | 3:41 | 2023-01-17 |  |
 | [Before We Begin](https://open.spotify.com/track/4yx0aYJgnWIy18akJtxmON) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 3:22 | 2023-01-17 |  |
 | [Believe](https://open.spotify.com/track/7LU69DVvvm8SXa3f4R7qzH) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/317uI12DItPAj28IxEA8qz) | 3:22 | 2023-01-17 |  |
 | [Bend The Round](https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Bend The Round](https://open.spotify.com/album/5wnRlXirKPPP7DrFswTIdq) | 3:27 | 2023-07-25 |  |
@@ -45,7 +46,7 @@
 | [Blouse](https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 2:45 | 2023-01-17 |  |
 | [Blue Comanche](https://open.spotify.com/track/2dOhyVmcZKCFB2F5FYdrwB) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Blue Comanche](https://open.spotify.com/album/7IG2AAoxK9nNPL2Me3tKxI) | 3:28 | 2023-01-17 |  |
 | [Blue Comanche](https://open.spotify.com/track/3XtVFhcbHLcENVSDyR3XLn) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:28 | 2023-01-17 | 2023-09-02 |
-| [Both Sides](https://open.spotify.com/track/7oN4n94quPbTiR0jGb3bx4) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Radiate](https://open.spotify.com/album/5GG9RkQ5zxoRT5m7DCqlst) | 3:36 | 2023-01-17 |  |
+| [Both Sides](https://open.spotify.com/track/7oN4n94quPbTiR0jGb3bx4) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Radiate](https://open.spotify.com/album/5GG9RkQ5zxoRT5m7DCqlst) | 3:36 | 2023-01-17 | 2023-09-07 |
 | [Broken Sleep](https://open.spotify.com/track/0fJTfkGfoHwWfJiHFvGpeZ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Broken Sleep](https://open.spotify.com/album/4y4DoLI7N2irCVu1BE8wWi) | 4:55 | 2023-01-17 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2023-01-17 |  |
 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 | 2023-01-17 |  |

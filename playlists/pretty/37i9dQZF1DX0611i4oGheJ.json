@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 417281,
+  "num_followers": 417522,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWZiODI5ODM0Y2YwNDY3NTJkMTIzYTRkNDE1MmFhMTcwY2Y2NTNm",
+  "snapshot_id": "MCw2MjY3ZGM4NmUwMTkzZWIxOTI0ZDYzOTE4YTRkNjhmNzcwYWJiNjcy",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Designer",
         "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Nothing's Gonna Happen (Demo)",
+        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Nothing's Gonna Happen (Demo)",
+      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Nothing's Gonna Happen (Demo)",
-        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Nothing's Gonna Happen (Demo)",
-      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Ode to Joy",
-        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Pharmakon",
         "url": "https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Darkest Darks, Lightest Lights",
-        "url": "https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "I Am the Moon",
-      "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Darkest Darks, Lightest Lights",
+        "url": "https://open.spotify.com/album/15fTepGOPHDgjR18E9vt4y"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "I Am the Moon",
+      "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "All Remains",
-        "url": "https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 227279,
-      "name": "Our Remains - Acoustic",
-      "url": "https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 230626,
       "name": "Pale November Dew",
       "url": "https://open.spotify.com/track/1mKLnhqWC5imlKFmmqLtvL"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "All Remains",
+        "url": "https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 227279,
+      "name": "Our Remains - Acoustic",
+      "url": "https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 176551,
-      "name": "Summertime Mama",
-      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
         }
       ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
+      "duration_ms": 176551,
+      "name": "Summertime Mama",
+      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 137060,
-      "name": "To Learn",
-      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Folding Leaves",
         "url": "https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr"
       },
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+      "duration_ms": 137060,
+      "name": "To Learn",
+      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1771,6 +1755,22 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Transcendence",
-        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 173231,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 216781,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 173231,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "when i look at you.",
+        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "when i look at you.",
+      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 253888,
       "name": "Bittersweet, TN",
       "url": "https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "when i look at you.",
-        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "when i look at you.",
-      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Belly of the Beast / Paper Mountain",
-        "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 195540,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Belly of the Beast / Paper Mountain",
+        "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 195540,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
     },
     {
       "added_at": "2023-08-25 04:00:00",

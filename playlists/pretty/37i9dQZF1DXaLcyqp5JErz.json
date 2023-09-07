@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Davi Sacer, Simone",
-  "num_followers": 514820,
+  "num_followers": 515138,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjAxZmQyNjkyMTc5NTQ5Y2MwMWQxMTM4NWM1Njc0NmY3MTNiNDQ5",
+  "snapshot_id": "MCwxZmM1YjA4OThkNTUwZjU2M2YwNDFkYTAzY2I4NWM3ODJlODE1YTM4",
   "tracks": [
     {
       "added_at": "2023-07-21 04:44:41",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Identidade",
-        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Identidade",
-      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
         "name": "Abra\u00e7a-Me (Paix\u00e3o Fogo e Gl\u00f3ria) [Ao Vivo em BH]",
         "url": "https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 847493,
       "name": "Abra\u00e7a-Me - Ao Vivo em BH",
       "url": "https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Identidade",
+        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Identidade",
+      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
+        "name": "Mem\u00f3rias 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
       },
       "artists": [
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
         }
       ],
-      "duration_ms": 298005,
-      "name": "Teus Olhos Revelam - Ao Vivo",
-      "url": "https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE"
+      "duration_ms": 264164,
+      "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Mem\u00f3rias 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "\u00c1lvaro Tito",
-          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
         }
       ],
-      "duration_ms": 264164,
-      "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
+      "duration_ms": 298005,
+      "name": "Teus Olhos Revelam - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE"
     },
     {
       "added_at": "2023-07-21 04:44:41",

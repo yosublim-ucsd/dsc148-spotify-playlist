@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-75 songs - 7 hr 51 min
+76 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Missing You](https://open.spotify.com/track/1b6iU8nzAEdugEbUIrCALC) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Genesis](https://open.spotify.com/album/45yUTfKObHBzr8saIHQMBc) | 6:36 | 2021-06-01 | 2022-07-29 |
 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 | 2021-06-01 |  |
 | [Move Your Body](https://open.spotify.com/track/0dVDcEuOSqco3xlIRZ6Iji) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Move Your Body](https://open.spotify.com/album/65K0e0Zmet0xlAo7dq7nNI) | 7:49 | 2021-06-01 | 2022-07-29 |
+| [Move Your Body \- Jerry C King \(Kingdom\) Remix](https://open.spotify.com/track/3HUWzCRJXO8oQryPVCmQHg) | [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Legends of Chicago, Vol\. 2](https://open.spotify.com/album/0G9DLcK1XFirHbGfdKeYjA) | 7:47 | 2023-06-01 |  |
 | [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g) | 7:10 | 2021-06-01 |  |
 | [Mystery Of Love](https://open.spotify.com/track/6AvtRMA6AzFNYZ3qEMYpch) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/3qcIddqx4v69RvwyY5hfSH) | 7:10 | 2021-06-01 | 2022-07-29 |
 | [Never No More Lonely](https://open.spotify.com/track/3vvFD7Vd5gANTraXckJeuu) | [Fingers Inc.](https://open.spotify.com/artist/7DbXdVqrretuCKPkTeX8Kk) | [Another Side](https://open.spotify.com/album/0h1OjjFTmWLJaRGLhOuNf7) | 5:30 | 2021-06-01 |  |
@@ -71,7 +72,7 @@
 | [Sensation \(Long\) \- Remastered](https://open.spotify.com/track/5Im1UUImw2eFDcaXxjhWoy) | [Ron Hardy](https://open.spotify.com/artist/1N6soJa7mZhKemJjaLLXx3) | [Traxbox Vol\. 1 \(Trax Records Remastered\)](https://open.spotify.com/album/1Tma8fnYGAuDqvMQfEri3X) | 6:40 | 2021-06-01 |  |
 | [Sister Sister](https://open.spotify.com/track/23nF3uAzoThBrAKzF5844r) | [Screamin Rachael](https://open.spotify.com/artist/2ygp1KNMsaJYXKcASSRCjK) | [Trax Records: Queer Trax](https://open.spotify.com/album/4KQBQoG77BGnzTiE8cYIaa) | 2:59 | 2021-06-01 |  |
 | [Someday](https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [CeCe Rogers](https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx) | 3:50 | 2021-06-01 |  |
-| [The House Music Anthem \(Move Your Body\) \- Original Mix](https://open.spotify.com/track/5GwqtJkXxEU4AB7zjD1cCe) | [Curtis "Move Your Body" Mcclain](https://open.spotify.com/artist/4TN7qh4IyreD54FZPzCGxS) | [Move Your Body 30Th Anniversary: Commemorative Edition](https://open.spotify.com/album/5quqVXlP2SHq1fH3L9HQc8) | 7:47 | 2021-06-01 |  |
+| [The House Music Anthem \(Move Your Body\) \- Original Mix](https://open.spotify.com/track/5GwqtJkXxEU4AB7zjD1cCe) | [Curtis "Move Your Body" Mcclain](https://open.spotify.com/artist/4TN7qh4IyreD54FZPzCGxS) | [Move Your Body 30Th Anniversary: Commemorative Edition](https://open.spotify.com/album/5quqVXlP2SHq1fH3L9HQc8) | 7:47 | 2021-06-01 | 2023-09-07 |
 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 | 2021-06-01 |  |
 | [Time To Jack \- House Mix](https://open.spotify.com/track/0e7Cem09Vtt7iUwpsgCd7w) | [Chip E.](https://open.spotify.com/artist/1o4OYTXLA2ugfRiHKVE8mh) | [Time To Jack](https://open.spotify.com/album/0BXPOOpImrzRIna6Rgfhez) | 7:53 | 2021-06-01 |  |
 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 | 2021-06-01 |  |

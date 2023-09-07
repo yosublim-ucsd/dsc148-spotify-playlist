@@ -5678,7 +5678,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 195312,
       "name": "Missed Connection",
       "url": "https://open.spotify.com/track/4R9KztunyNTH13KtAqePLp"
@@ -6968,6 +6968,24 @@
       "duration_ms": 278813,
       "name": "Remember Everything",
       "url": "https://open.spotify.com/track/02W7gkxX3cgmddUQeUMwJe"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278813,
+      "name": "Remember Everything",
+      "url": "https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ"
     },
     {
       "album": {

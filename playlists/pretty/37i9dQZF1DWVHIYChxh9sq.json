@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 58009,
+  "num_followers": 58106,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmEzZDFhYzM4NDNjZDc3ZjEwN2NmNDYxODAyYWU0MjUxYjZiMzgz",
+  "snapshot_id": "MCxlMjk1ODJkMjk0MDJmMDc3ZjE0ZjEwN2Y5OTRhOGY4YjUzNWE0YWEz",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 252888,
-      "name": "Te Vez Buena",
-      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252888,
+      "name": "Te Vez Buena",
+      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Levantando Polvadera (En vivo)",
+      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "El Chino",
         "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 167439,
       "name": "El Chino",
       "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "El Corrido Del Piyi (LDLG)",
-        "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
-      },
-      "artists": [
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 184874,
-      "name": "El Corrido Del Piyi (LDLG)",
-      "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1575,22 +1575,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "Jalando La Bandona (En Vivo)",
-        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+        "name": "El Corrido Del Piyi (LDLG)",
+        "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         },
         {
-          "name": "Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 129500,
-      "name": "Levantando Polvadera (En vivo)",
-      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+      "duration_ms": 184874,
+      "name": "El Corrido Del Piyi (LDLG)",
+      "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/6V7WLCcWYa1BFiNseM6GQY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189314,
+      "name": "Los Mitotes (En Vivo)",
+      "url": "https://open.spotify.com/track/2gEAaPn7Hl1qlfn7NIkgOX"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 194253,
       "name": "F\u00e1cil Criticar - En Vivo",
       "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/6V7WLCcWYa1BFiNseM6GQY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189314,
-      "name": "Los Mitotes (En Vivo)",
-      "url": "https://open.spotify.com/track/2gEAaPn7Hl1qlfn7NIkgOX"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
-        "name": "En Vivo Desde Chicago",
-        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 163877,
-      "name": "Margarita Margarita (En Vivo)",
-      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
         "name": "Flor Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/4Js76hPZtqnf4iOXvUXq00"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 172666,
       "name": "Flor Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5bzbCzlMs85sg8Y9a9kdv0"
+    },
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "En Vivo Desde Chicago",
+        "url": "https://open.spotify.com/album/2z6kMSAE2UYjf4ToJNriLb"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 163877,
+      "name": "Margarita Margarita (En Vivo)",
+      "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
     },
     {
       "added_at": "2023-06-16 04:01:00",

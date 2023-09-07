@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 
 > 1990s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus \| system of a down \| wheatus
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 761,186 likes - 160 songs - 11 hr 11 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 761,157 likes - 160 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/20LKsiDZd4ALrlihncFcFa.md) - [plain]
 | 88 | [Meet Virginia](https://open.spotify.com/track/4ocbH5ZJqajZIpUrqRUoue) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Train](https://open.spotify.com/album/01aoYWjhjshlHf5vJNYb03) | 3:59 |
 | 89 | [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:17 |
 | 90 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
-| 91 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
+| 91 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
 | 92 | [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:23 |
 | 93 | [Best I Ever Had \(Grey Sky Morning\)](https://open.spotify.com/track/2EVNYzHWebyLvKxPX6Ozt8) | [Vertical Horizon](https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn) | [Everything You Want](https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1) | 4:30 |
 | 94 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 |

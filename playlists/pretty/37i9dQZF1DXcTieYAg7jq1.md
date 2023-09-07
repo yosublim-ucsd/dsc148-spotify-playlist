@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,321 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,356 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 |
 | 100 | [Bad For Me](https://open.spotify.com/track/3bDuKFvJHwIUkFl8QtF2tb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Bad For Me](https://open.spotify.com/album/42Uoa1QDJvCegKzkixsTlG) | 2:58 |
 
-Snapshot ID: `MCw2MDk4NzhkYmUzMTgxYTBhZjk3M2Y2MzZmZDRjMzlhNWQzNDdhZGE1`
+Snapshot ID: `MCwxYmE1YzM2NzI1YWIyMzc3OTczMDhjZTc0MzBmZGYwYjJlYjA0ZDQy`

@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-346 songs - 19 hr 54 min
+347 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2022-01-10 |  |
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2022-08-08 |  |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2022-01-10 |  |
-| [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-04-24 |  |
+| [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-04-24 | 2023-09-07 |
 | [Algodón de azúcar](https://open.spotify.com/track/6CHYyL3462Y2Bb2uWIIBkE) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Algodón de azúcar](https://open.spotify.com/album/7GXFvjeCBHDD783X4jms0l) | 2:48 | 2022-08-08 | 2022-11-13 |
 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 | 2022-08-08 | 2023-01-06 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2022-01-10 | 2022-08-09 |
@@ -113,6 +113,7 @@
 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 | 2023-04-24 | 2023-06-05 |
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-04-24 |  |
 | [El Viaje](https://open.spotify.com/track/0XR0jBbghtl9mPFu2sdrkw) | [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI) | [El Viaje](https://open.spotify.com/album/6yYEqaQ9hk4TSbimaDF7Dw) | 4:41 | 2022-01-10 | 2022-07-29 |
+| [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 | 2023-04-24 |  |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-08-08 |  |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/2y4tVYe37VJaEkYbWTJvHE) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/7daj8IRYx1YWlcYwRlFc5O) | 3:55 | 2022-01-10 | 2022-07-29 |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/4lYGDM2P0P6NosnaoFiPqB) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/2NdVSWwmCmdCamPxCSt1er) | 3:54 | 2022-08-08 | 2023-01-02 |

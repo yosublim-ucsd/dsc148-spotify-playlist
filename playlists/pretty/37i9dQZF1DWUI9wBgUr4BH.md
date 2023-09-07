@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,967 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,010 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 48 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 |
 | 49 | [Méditerranée](https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Méditerranée](https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4) | 3:03 |
 
-Snapshot ID: `MCxiNGM0ODZjOWViNTIxNTU3Y2RiZWM1ZWExZTkyYTlhZmJiYmYyMjc4`
+Snapshot ID: `MCxiYTFmMTE3YWQ1MGI1MTBjMTM1NTNlOGI3ZDA2OWMxMzA5MjdmMzVi`

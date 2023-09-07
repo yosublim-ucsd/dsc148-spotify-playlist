@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,113 songs - 5 day 22 hr 31 min
+2,114 songs - 5 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1963,6 +1963,7 @@
 | [Un Silbido Amoroso](https://open.spotify.com/track/0QOWZ2Iqb36FFecUmLdUTy) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Un Silbido Amoroso](https://open.spotify.com/album/3tqk1zxZedRxvOzhGgKVOK) | 2:36 | 2022-06-09 | 2022-10-21 |
 | [Un toit et une famille](https://open.spotify.com/track/2NIrQXLiSiGuOpDPUaCBMy) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 4:28 | 2022-10-31 | 2022-12-17 |
 | [Un toit et une famille](https://open.spotify.com/track/6YTeWjkxIBqD52skaMDpg5) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/6IbSMUM51EtNdEmXZ0BHPJ) | 4:28 | 2022-07-12 | 2022-11-20 |
+| [Unconditional \(feat\. Rationale\)](https://open.spotify.com/track/3Lgb0uFGQ8SJVoqpq6bSif) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Unconditional \(feat\. Rationale\)](https://open.spotify.com/album/14vupgjqKCmYJ0eqMUr9px) | 3:15 | 2023-08-31 |  |
 | [Ungena Za Ulimwengu \(Unite The World\)](https://open.spotify.com/track/6AkLY10RHXu6U7808L6reG) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Face To Face With The Truth](https://open.spotify.com/album/4ZswFiADrD5jIg1Y5Eu7cc) | 8:51 | 2022-07-12 |  |
 | [Up From the South](https://open.spotify.com/track/1QVvGeS1HzBT5UmLsQotCs) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/1DTr4zczUy1kfP9cISFH6v) | 3:26 | 2022-07-27 | 2023-04-30 |
 | [Up From the South](https://open.spotify.com/track/4U4GZOYUwMGXZKdLnVb3Wx) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Daptone Records Singles Collection: Volume 2](https://open.spotify.com/album/5vu0XeLFtypEMTMc22gVpG) | 3:26 | 2022-10-31 | 2022-11-13 |

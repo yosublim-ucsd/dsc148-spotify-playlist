@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas",
-  "num_followers": 200682,
+  "num_followers": 200696,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNhOGEwMGU1ZTVhNzA2N2NkNjA2MTIxZGIyZjA1YTNlMjBhNDBm",
+  "snapshot_id": "MCxmOThkYTE1ZGQ3ZDcxMDAzYjIwZjgyNWZmOWU2MWY1MWZiZGJjMmRm",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Explorador (Remaster 2022)",
-        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
-      },
-      "artists": [
-        {
-          "name": "Fother Muckers",
-          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Explorador - Remaster 2022",
-      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Te van a olvidar",
         "url": "https://open.spotify.com/album/458faUpDTootevU4wWRBY9"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 241651,
       "name": "Te van a olvidar",
       "url": "https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Explorador (Remaster 2022)",
+        "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
+      },
+      "artists": [
+        {
+          "name": "Fother Muckers",
+          "url": "https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Explorador - Remaster 2022",
+      "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "7 Mares",
+        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
+      },
+      "artists": [
+        {
+          "name": "Tsunamis",
+          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
+        }
+      ],
+      "duration_ms": 258331,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Vueltas y Vueltas",
         "url": "https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 197747,
       "name": "Asocial",
       "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "7 Mares",
-        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
-      },
-      "artists": [
-        {
-          "name": "Tsunamis",
-          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
-        }
-      ],
-      "duration_ms": 258331,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
     }
   ],
   "unique_name": "Rock Chileno",

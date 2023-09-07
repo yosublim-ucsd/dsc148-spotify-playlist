@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,331 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,407 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 95 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 |
 | 96 | [El Que Se Fue \- Tributo A Tito Rodriguez](https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [A Dos Tiempos de un Tiempo](https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9) | 4:52 |
 | 97 | [Hecho Y Derecho](https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho Y Derecho](https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy) | 2:47 |
-| 98 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
-| 99 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
+| 98 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
+| 99 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
 | 100 | [Tokyo Blues](https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Best Of The Concord Years](https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3) | 5:15 |
 | 101 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
 | 102 | [Tanga](https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Yo Soy La Rumba](https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx) | 3:34 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCwxNDU5MzNlMTdhZGQ3ZDhlNDdkYTJjOGJlMDBmY2JmZjQ3NGUzYmY3`
+Snapshot ID: `MCw1MDkzMTdjYWRjMzBjMDk5NGQzOGFlNTgwNTY3ZjZiODE3ZjQyZDE4`

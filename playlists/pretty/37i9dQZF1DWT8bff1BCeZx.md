@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,837 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,887 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 17 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 |
 | 18 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
 | 19 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
-| 20 | [Confam](https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Confam](https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln) | 2:37 |
-| 21 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
+| 20 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
+| 21 | [Confam](https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Confam](https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln) | 2:37 |
 | 22 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 |
 | 23 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 |
 | 24 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
 | 50 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 |
 
-Snapshot ID: `MCwxN2Y5ZThiY2FiZWFmYjI2OWQxNjlkZTc3NmExYmQzY2ZlMTY3OTUz`
+Snapshot ID: `MCxhMTI3MDRjMmM2ZWVjZTFkMDEwOWMzOWViMjUxZDg0MTkzMDYyOTIz`

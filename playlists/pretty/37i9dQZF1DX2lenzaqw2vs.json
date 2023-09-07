@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ana Macho",
-  "num_followers": 133490,
+  "num_followers": 133503,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzcwZGRmZTg2MjRmYzc1YzU2YmM0Zjk1YWQyNGVhMDNmOWIyM2Ri",
+  "snapshot_id": "MCw1MmEwNmY1MTY4Yzk1OGEzYjA1YmZmZDdhYWRlNjg4MmJiYTZjMjNh",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 225879,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "NO ERA M\u00cdA",
-        "url": "https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT"
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
       "artists": [
         {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 193700,
-      "name": "NO ERA M\u00cdA",
-      "url": "https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN"
+      "duration_ms": 225879,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -879,22 +863,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
+        "name": "NO ERA M\u00cdA",
+        "url": "https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT"
       },
       "artists": [
         {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        },
-        {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
         }
       ],
-      "duration_ms": 178252,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
+      "duration_ms": 193700,
+      "name": "NO ERA M\u00cdA",
+      "url": "https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -915,6 +895,26 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
+      },
+      "artists": [
+        {
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+        },
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "duration_ms": 178252,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "TORQUE: Vol. 1",
+        "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 171857,
+      "name": "Fue",
+      "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Cielo de Colores",
         "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 163902,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "TORQUE: Vol. 1",
-        "url": "https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne"
-      },
-      "artists": [
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 171857,
-      "name": "Fue",
-      "url": "https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "La isla de Lesbos",
-        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "La isla de Lesbos",
-      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Cuidar\u00e9 De Ti",
         "url": "https://open.spotify.com/album/66t7uYODEltF75JDOSgroj"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 148085,
       "name": "Cuidar\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "La isla de Lesbos",
+        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "La isla de Lesbos",
+      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
     },
     {
       "added_at": "2023-09-01 04:00:00",

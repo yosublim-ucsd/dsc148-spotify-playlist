@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,916 likes - 219 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,927 likes - 219 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 123 | [Kiki](https://open.spotify.com/track/1gEo3St6nqFBAlXX2YU4z6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Kiki](https://open.spotify.com/album/249z39NOAXP1q0HuhduwM7) | 3:14 |
 | 124 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
 | 125 | [The Rest Of Us](https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:25 |
-| 126 | [Cop Car](https://open.spotify.com/track/7LJOfS8evyKfP8Fl5rdZXw) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:13 |
+| 126 | [Cop Car](https://open.spotify.com/track/7LJOfS8evyKfP8Fl5rdZXw) | [Sam Hunt](https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:13 |
 | 127 | [Jesus Take the Wheel](https://open.spotify.com/track/2uNdFwTYXDzAahBUeURWLJ) | [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Live from the Archives of 650am Wsm \- Volume 1](https://open.spotify.com/album/2fB9vCOs2bHnLkZGHcJzEY) | 3:40 |
 | 128 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 |
 | 129 | [Drowns the Whiskey](https://open.spotify.com/track/79268NV31JJE8d4VzGEKLb) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Josh Thompson](https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 3:22 |
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 218 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 |
 | 219 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 
-Snapshot ID: `MCw5OGM0MjliMGQ1MmFkNzQyM2MyODc0ODBiMmQzZDQwMjY3NWM0NmMz`
+Snapshot ID: `MCxhOTU2ZmVhNWJhOGQ2YjU0MWQwYzA1MzRkODY1NWYxYWIyNWJlMGM3`

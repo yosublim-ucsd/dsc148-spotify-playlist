@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,027 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,060 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 13 | [Aubade](https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Aubade](https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn) | 2:51 |
 | 14 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 |
 | 15 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
-| 16 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
-| 17 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
+| 16 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
+| 17 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
 | 18 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 |
 | 19 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 |
 | 20 | [Catá Surf](https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:55 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 33 | [Brazilian Flavor](https://open.spotify.com/track/3whLJWc9Bu4mk0cnueIiKg) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Brazilian Flavor](https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR) | 1:58 |
 | 34 | [Dalia](https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Dalia](https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV) | 2:53 |
 | 35 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 |
-| 36 | [Abrázame mucho estos días](https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Óleo sobre tela](https://open.spotify.com/album/105WPjJen4emN55961ICvo) | 2:42 |
-| 37 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
+| 36 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
+| 37 | [Abrázame mucho estos días](https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Óleo sobre tela](https://open.spotify.com/album/105WPjJen4emN55961ICvo) | 2:42 |
 | 38 | [Primer Beso](https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Primer Beso](https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g) | 2:15 |
 | 39 | [Bolero coqueto](https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF), [Diego Galindo](https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Bolero coqueto](https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D) | 2:15 |
 | 40 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 45 | [Playa del Amor](https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del Amor](https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7) | 2:09 |
 | 46 | [love in medellín](https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [love in medellín](https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA) | 1:49 |
 | 47 | [Ciudad de Papel](https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Ciudad de Papel](https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh) | 2:09 |
-| 48 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |
-| 49 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 |
+| 48 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 |
+| 49 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |
 | 50 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 |
 
-Snapshot ID: `MCw3OTNlODBlOGQ0YzAwMTYyNDIyNjE1Y2FmM2MwODQ1ZjIwYTg4MmMx`
+Snapshot ID: `MCxlNWQzZDhlYTk5ZTM0Mzc0M2JlYTdkYTIxZDgyMzEyOGNkZGVmYTUx`

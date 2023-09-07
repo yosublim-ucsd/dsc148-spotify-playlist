@@ -1,15 +1,15 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 12511,
+  "num_followers": 12525,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2NkYTQ5OWRlZDFmZGMwMWIyNDU0ZWQzZGIwM2FjMjQ0MTk0YzIz",
+  "snapshot_id": "MCwyZjIxM2U2MmFjZjRkZDQwMDNiOTRlY2NhOTFjYmQ2MTk2MGY1NDA3",
   "tracks": [
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "Love Lee",
+        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 179683,
+      "name": "Love Lee",
+      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "No Make Up",
         "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -165,23 +181,7 @@
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
@@ -197,7 +197,23 @@
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
@@ -261,23 +277,7 @@
       "url": "https://open.spotify.com/track/5eO04wLeM487N9qhPHPPoB"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
-        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "\ub450 \uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
@@ -293,7 +293,23 @@
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
+        "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "\ub450 \uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Encounter (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Seasonal Hiatus",
         "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Errr Day",
         "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Especially For You",
         "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
@@ -549,23 +565,7 @@
       "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
@@ -581,23 +581,23 @@
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
-        "name": "Twenty (Prod. Jung Key)",
-        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
       },
       "artists": [
         {
-          "name": "SWAN",
-          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Twenty (Prod. Jung Key)",
-      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
@@ -613,7 +613,23 @@
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "Twenty (Prod. Jung Key)",
+        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
+      },
+      "artists": [
+        {
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Twenty (Prod. Jung Key)",
+      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
         "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Omnibus, Pt. 2: Inside Out",
         "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
@@ -769,23 +785,7 @@
       "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "1,2,3..",
-        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
@@ -801,7 +801,23 @@
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "1.0",
         "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
@@ -849,71 +865,7 @@
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
-      },
-      "artists": [
-        {
-          "name": "Kei",
-          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
-        }
-      ],
-      "duration_ms": 189575,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
-        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
-      },
-      "artists": [
-        {
-          "name": "SECRET NUMBER",
-          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
@@ -929,7 +881,55 @@
       "url": "https://open.spotify.com/track/59fPM7nPg0z5L9LoyoNhbK"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "duration_ms": 189575,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
+        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
@@ -965,7 +965,23 @@
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "INTERVIEW",
         "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
     },
     {
-      "added_at": "2023-08-05 06:02:24",
+      "added_at": "2023-09-06 08:29:40",
       "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
@@ -995,22 +1011,6 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 226573,
-      "name": "Dream Catcher",
-      "url": "https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,835,135 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835,298 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [Self Love](https://open.spotify.com/track/3oRT45v51KOyV37KPmemc3) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Self Love](https://open.spotify.com/album/4WBtpTuPHxHKWuzEuSHO5t) | 2:51 |
 | 100 | [Blue Dress](https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:08 |
 
-Snapshot ID: `MCxhZTM4YzUzYzc0ZjA3NGUwYmVkMjBkYWQxNWJjNjk1NTdlNjc5MmQw`
+Snapshot ID: `MCxlODUyMThhNWU5OWU1MDEzMDAyNTg4Y2FmNWVjNDQ1NTU2NmZlZDFm`

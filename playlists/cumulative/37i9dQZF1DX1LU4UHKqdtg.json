@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "FESTA",
+        "url": "https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208320,
+      "name": "7HEAVEN",
+      "url": "https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
       },
@@ -5764,6 +5782,24 @@
       "duration_ms": 178373,
       "name": "I like you",
       "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+    },
+    {
+      "album": {
+        "name": "I Love My Body",
+        "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150176,
+      "name": "I Love My Body",
+      "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
     },
     {
       "album": {

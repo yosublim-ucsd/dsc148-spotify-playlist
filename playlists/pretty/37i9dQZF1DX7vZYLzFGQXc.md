@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: YeonJeong \(연정\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,314 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,340 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [our gloomy](https://open.spotify.com/track/3FYErI4z6JZYQnp9SKcdym) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [our gloomy](https://open.spotify.com/album/1jfOiaI6cBnIP4PiU9mfew) | 2:39 |
 | 100 | [Hatred](https://open.spotify.com/track/6wZAYtq58NtIuF2fhlsy8t) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Hatred](https://open.spotify.com/album/0lQvanEeBBKXPsa4sw5tbb) | 3:04 |
 
-Snapshot ID: `MCwxZjQxNGY2ZGIyZjQ3OTkxNmQyNWU3ZDdlODFhZGZjMzJkMWY0Yzcz`
+Snapshot ID: `MCwzYjgyZjg0YjNhMGE5YjYyNDg1ZmFkZTc5NDgyMGI2MDM0MjE5NWYx`

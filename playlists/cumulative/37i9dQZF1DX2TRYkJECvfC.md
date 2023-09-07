@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-418 songs - 1 day 12 hr 30 min
+419 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Cultivating Yucca](https://open.spotify.com/track/4U6DkNEUHQgfgu8jm162on) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [Cultivating Yucca](https://open.spotify.com/album/1ZzEgEs198OaTCNk2pdtpX) | 6:28 | 2021-12-08 | 2023-05-19 |
 | [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-04 |  |
 | [Dancing Queen](https://open.spotify.com/track/5r3t2sftGlEi8JZn0OSO7S) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l) | 2:54 | 2021-12-08 | 2022-02-22 |
-| [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2023-01-06 |  |
+| [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2023-01-06 | 2023-09-07 |
 | [Day Dream](https://open.spotify.com/track/0OOL8Uj0FcXcsCt11vVVQ3) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Hard To Get EP](https://open.spotify.com/album/31pjUrPh9AclCWJs5j7l7T) | 6:40 | 2023-01-06 | 2023-04-16 |
 | [Deep \-N\- Dirty](https://open.spotify.com/track/1ARiXnXFgvydd61r4ODC75) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Late Night Basix Vol\. 2](https://open.spotify.com/album/40kEMLpSvFYHmpzYZXPutN) | 5:59 | 2021-12-08 | 2022-07-29 |
 | [Deep \-N\- Dirty](https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Late Night Basix Vol\. 2](https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l) | 5:59 | 2022-05-03 | 2023-05-23 |
@@ -329,6 +329,7 @@
 | [Sol](https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 6:24 | 2021-12-08 |  |
 | [Solace](https://open.spotify.com/track/2cR1w1HbWarKVJWZCQgnga) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/39riohie5wvMQprmpzycEK) | 4:47 | 2022-10-28 | 2023-08-14 |
 | [Solace](https://open.spotify.com/track/4K1uWOEOc35qp3uqvP5hls) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/4DDpH2PSjc0E09E3W1nhYW) | 4:47 | 2022-05-03 | 2022-10-17 |
+| [Solace](https://open.spotify.com/track/6saWohwMM21SuBgtxaPIpG) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/2vgSOVdVGZKEWBPK8QPMIx) | 4:47 | 2023-09-01 |  |
 | [Solace](https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw) | [My Heart Burns There Too / Solace](https://open.spotify.com/album/07vqdHo7zpz7GiykpxWGbi) | 4:47 | 2021-12-08 | 2022-07-29 |
 | [Solaris](https://open.spotify.com/track/6ucvqqz22FxhiodmbhW8dQ) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 7:30 | 2021-12-08 | 2022-11-13 |
 | [Solid Gold Love](https://open.spotify.com/track/6YzXlsjXVZTwUoKSwHZsuF) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Solid Gold Love](https://open.spotify.com/album/2S2xWb8NSimNm5D4jz6vSp) | 4:05 | 2021-12-08 |  |

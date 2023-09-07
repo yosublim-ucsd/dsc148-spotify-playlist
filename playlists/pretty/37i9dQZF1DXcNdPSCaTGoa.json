@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 41128,
+  "num_followers": 41195,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2E0MTllZTJmMDEwYTM0MmQ0Y2FiYTQ0YjE4NDZmNGFhMDA5Mzk1",
+  "snapshot_id": "MCxjMDQ5N2JjMDY0NjBjYjNhY2ZmOGU3MDFjNzQwZjQ0NmM5MWJjZjFk",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
-        }
-      ],
-      "duration_ms": 320613,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 311880,
       "name": "Doo Be Doo",
       "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
+        }
+      ],
+      "duration_ms": 320613,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 387500,
       "name": "Heavenly Sent",
       "url": "https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2023-01-23 13:10:38",

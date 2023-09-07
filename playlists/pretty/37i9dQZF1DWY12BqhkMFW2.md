@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,663 likes - 35 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,751 likes - 35 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 7 | [Who Can I Run To](https://open.spotify.com/track/0wdaPticLmmqJdhgLDJ9zI) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Off The Hook](https://open.spotify.com/album/6lwTyWDtJbJ3czkIkUBPoj) | 3:36 |
 | 8 | [Didn't Cha Know \- Live At Electric Lady](https://open.spotify.com/track/7dmgo44DhX2MOtaFV5a0HQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/29C15dlrrccQP32Cl60kjl) | 4:23 |
 | 9 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
-| 10 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
-| 11 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
+| 10 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
+| 11 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
 | 12 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
 | 13 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
 | 14 | [Slow Jam \(feat\. Monica\)](https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 4:43 |
-| 15 | [Million](https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Million](https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU) | 4:31 |
-| 16 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 |
+| 15 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 |
+| 16 | [Million](https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Million](https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU) | 4:31 |
 | 17 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 |
 | 18 | [How Come You Don't Call Me](https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:57 |
 | 19 | [The Love We Had \(Stays On My Mind\)](https://open.spotify.com/track/1c5933EOm7iYCsbVLHNxq7) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 5:35 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Right And A Wrong Way](https://open.spotify.com/track/2bm9LWKQR8PwqveIBGTHpH) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 5:11 |
 | 35 | [If Only You Knew](https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [I Missed Us](https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8) | 5:09 |
 
-Snapshot ID: `MCxiYjBlNWQyODIyNjdjZjUyYmNiYzExNWE1M2Q4MzYzZDlhYTA1M2M2`
+Snapshot ID: `MCwzMDEwNjA3MzJiYjI3ZjhlZmVlMDYzNTczNmZjYzlmMjFlMDg3YjZi`

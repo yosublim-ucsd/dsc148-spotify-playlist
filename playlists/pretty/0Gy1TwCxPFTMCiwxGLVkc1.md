@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 
 ### [Kids Music](https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1)
 
-> Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
+> Kids music from Disney, CoComelon, Nickelodeon, and more! Find new favorites and familiar tracks on this kids music playlist, and check back each week for more!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 85,412 likes - 50 songs - 1 hr 55 min
+[Digster](https://open.spotify.com/user/digster.fm) - 85,408 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0Gy1TwCxPFTMCiwxGLVkc1.md) - [plain]
 | 49 | [Wheels on the Bus](https://open.spotify.com/track/6YQ7aPJhk0MGpwoKfFAEbS) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 3:27 |
 | 50 | [Nobody Like U \- From "Turning Red"](https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Nobody Like U \(From "Turning Red"\)](https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2) | 2:40 |
 
-Snapshot ID: `MzQ2NywzOGJmMjUxNTQ3NGZlNTBjN2JhNjc2Y2JhNTI4N2RlMjE4NGFlZjJh`
+Snapshot ID: `MzQ3NCw3N2ZiYTk1ZWFlYzAxMTg2NDJjZjc3ZGVkMDNjMGMzZWRjZGQyMDE3`

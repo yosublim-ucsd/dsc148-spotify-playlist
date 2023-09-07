@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-593 songs - 23 hr 14 min
+594 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Afterglow](https://open.spotify.com/track/6Oothto33WJTlAqGNInoDI) | [Aykroyd](https://open.spotify.com/artist/6ptJ0me90iIz3OSsho69cm), [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Afterglow](https://open.spotify.com/album/6KM6sMZVlq5MqNREhWFRFg) | 2:03 | 2023-07-19 | 2023-09-05 |
 | [Afterglow](https://open.spotify.com/track/2wYmvZTZuJ9ztq9tI5BBcD) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afterglow](https://open.spotify.com/album/4LYclO71Nf6yDzyIi97zv9) | 2:08 | 2023-01-13 |  |
 | [Afterhours](https://open.spotify.com/track/7t878GTLe6oof2QELO1yWD) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Afterhours](https://open.spotify.com/album/02yxWPRU391qLJI7s0SRAJ) | 1:46 | 2023-01-13 |  |
-| [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2023-01-13 | 2023-09-05 |
+| [Aiyomi](https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Aiyomi](https://open.spotify.com/album/5i46HcGgJkGagzxnsLM5en) | 2:36 | 2023-01-13 |  |
 | [akalla](https://open.spotify.com/track/4J98BDXw9nFDF044SgAYfC) | [abel gecco](https://open.spotify.com/artist/6DvLO2WJYRMtUD9oiyFcJR) | [akalla](https://open.spotify.com/album/7MHDYC4TuelMHoRtAELi7o) | 2:23 | 2023-01-13 |  |
 | [Alfredo](https://open.spotify.com/track/6YlmEmmOqSzZ5Q69yCXMsn) | [lloyd og](https://open.spotify.com/artist/6wCwzQplaGnUnTxgioKwr6) | [Alfredo](https://open.spotify.com/album/2niP9abC7F8vDdnC0qgWHm) | 2:30 | 2023-02-21 | 2023-05-01 |
 | [Alfredo](https://open.spotify.com/track/1Q7DSl0WfWe0zCbfqK5NAF) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Alfredo](https://open.spotify.com/album/2BMBix54yodrJVQi5drYEr) | 2:30 | 2023-01-13 | 2023-09-05 |
@@ -409,7 +409,7 @@
 | [Rainbow Guava](https://open.spotify.com/track/1scv1M7a8HPLhHoacyhlb8) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Rainbow Guava](https://open.spotify.com/album/1A2LsWvOO9hsjr7gBnuNZg) | 1:58 | 2023-07-19 |  |
 | [Raincoat](https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Raincoat](https://open.spotify.com/album/4M2OJAbq1PJLe732DTkxv3) | 2:04 | 2023-01-13 |  |
 | [Raindrops](https://open.spotify.com/track/0YOAGIXidZMIIlul2TTpUw) | [Loxbeats](https://open.spotify.com/artist/2yTDt06lsG7dGqJuCbR88I), [Neoplasma](https://open.spotify.com/artist/1UUfEEstgd64AnExToS403) | [Raindrops](https://open.spotify.com/album/7kYGSSFywyzsc4c1dZgIOS) | 2:34 | 2023-01-13 |  |
-| [Rainy Days](https://open.spotify.com/track/1vQu2jxZ6Blc1nisozbPyl) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Rainy Days](https://open.spotify.com/album/15B6spW7ItmHLtUq20jv5p) | 2:00 | 2023-01-13 |  |
+| [Rainy Days](https://open.spotify.com/track/1vQu2jxZ6Blc1nisozbPyl) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Rainy Days](https://open.spotify.com/album/15B6spW7ItmHLtUq20jv5p) | 2:00 | 2023-01-13 | 2023-09-07 |
 | [Real Careful](https://open.spotify.com/track/6fYXVvxC9nqgHaOKog1UDD) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Real Careful](https://open.spotify.com/album/4S66X358g9lP7cHLhRwpve) | 2:18 | 2023-09-04 |  |
 | [Recordar](https://open.spotify.com/track/36ismlZjS82Hnlu0sDxRA3) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [Recordar](https://open.spotify.com/album/175n68FKT3phBamXATIpuX) | 1:54 | 2023-01-13 |  |
 | [Recycle](https://open.spotify.com/track/12IiT0rZC12d6KxwfzdoDL) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Recycle](https://open.spotify.com/album/7briPpRhxJQOGe3JGBzU2H) | 2:03 | 2023-01-20 |  |
@@ -457,6 +457,7 @@
 | [Sidewalking](https://open.spotify.com/track/6yQREQuyTj1BcrDfV1i0j4) | [Jazzdroid](https://open.spotify.com/artist/5oHXx18DkyL0MSytwm6LEO) | [Sidewalking](https://open.spotify.com/album/0Gvu76HZo16xfDNAzEkNa1) | 1:50 | 2023-02-21 |  |
 | [Siesta](https://open.spotify.com/track/4tCEvBMoB1S4FtyZwzvzRF) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Siesta](https://open.spotify.com/album/0dKue5PyOxoUEKjz01S8RJ) | 2:24 | 2023-01-13 |  |
 | [Simmer Down](https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Simmer Down](https://open.spotify.com/album/0mzDPdasH5BhizWTqoMlRV) | 3:05 | 2023-01-13 |  |
+| [Simple](https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Simple](https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ) | 2:09 | 2023-09-04 |  |
 | [Sketchy Dreamers](https://open.spotify.com/track/5nxEHnue5hDtbbubvyZRUe) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Sketchy Dreamers](https://open.spotify.com/album/5CWACW6EISOrtIaNFZxJkN) | 2:40 | 2023-01-13 |  |
 | [Sky Lullaby](https://open.spotify.com/track/3cQHsfwhxsdJJABkWO1N5U) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sky Lullaby](https://open.spotify.com/album/6jo7r1HGaDlUBBgNUUue8G) | 3:07 | 2023-01-13 |  |
 | [Slack](https://open.spotify.com/track/1NinSAwNClX9Vl5v66qWE2) | [DJ Buzz](https://open.spotify.com/artist/4OL7JQEzpw3nyfQn0DrrB6) | [Slack](https://open.spotify.com/album/7yhbDimWjJ14ps15Bubqka) | 2:39 | 2023-04-11 |  |
@@ -532,7 +533,7 @@
 | [Told U So](https://open.spotify.com/track/6fy3emRuJwUBTs2mdOfePc) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Told U So](https://open.spotify.com/album/71ZBfDPYIS9pQvqjc590hn) | 2:06 | 2023-01-13 |  |
 | [Tonde Iru Tori](https://open.spotify.com/track/6aWOKxYd6UCWjvTX9duJ3Q) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Tonde Iru Tori](https://open.spotify.com/album/5HRlqqokcT52PFQDKxV3U9) | 1:47 | 2023-01-13 |  |
 | [Too Late](https://open.spotify.com/track/0mJh6dJHIY7eGEp5cOn2AY) | [Third and Forever](https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg) | [Third And Forever](https://open.spotify.com/album/3Z4RwTUxQAH7pbiHv4753e) | 2:51 | 2023-01-13 |  |
-| [Trades](https://open.spotify.com/track/00LfWDHLj3v2x9rGFkrFGL) | [Beefs](https://open.spotify.com/artist/2X5Pr83Qdiy2wf5Mjv4R6G) | [Trades](https://open.spotify.com/album/1CUqHNxrlvmg1THkzsbrZi) | 2:04 | 2023-01-13 |  |
+| [Trades](https://open.spotify.com/track/00LfWDHLj3v2x9rGFkrFGL) | [Beefs](https://open.spotify.com/artist/2X5Pr83Qdiy2wf5Mjv4R6G) | [Trades](https://open.spotify.com/album/1CUqHNxrlvmg1THkzsbrZi) | 2:04 | 2023-01-13 | 2023-09-07 |
 | [Travel by Night](https://open.spotify.com/track/0csl0mkkpaPCtMhvm54f4a) | [Itsuju](https://open.spotify.com/artist/3PUVlFHrSamIkjf9UWphev) | [Travel By Night](https://open.spotify.com/album/2caQtRv2tcZTD7fv7P38PA) | 2:20 | 2023-01-13 |  |
 | [Travellers](https://open.spotify.com/track/1ZXtKzULVti9F95g9HlyWJ) | [Tree60](https://open.spotify.com/artist/4NEA8zkFgdVHYWZXANEHA7) | [The Endless Resource](https://open.spotify.com/album/1LOIXvD97QSJ8CHDuQprdn) | 2:15 | 2023-09-04 |  |
 | [Treetop Sailing](https://open.spotify.com/track/6FuMCYsA26hstQJohldRQa) | [Fluurish\_ish](https://open.spotify.com/artist/2uHiTGGGiEJEA3dgYeLlH8) | [Treetop Sailing](https://open.spotify.com/album/79DKmURpkKUELitlP23E8m) | 2:38 | 2023-01-13 |  |

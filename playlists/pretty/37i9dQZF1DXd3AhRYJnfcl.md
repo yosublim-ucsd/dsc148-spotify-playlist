@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=vP5Wm1cSRrK50OVEcXd\_oA">  حماقي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,952 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,196 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 |
 | 50 | [Wahshteeny](https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr) | 2:28 |
 
-Snapshot ID: `MCxkNTk0YTJlMWNjMTYxYmZmYmRjYzRjOGFlOTJjZWZmNTMzMDBkMDg2`
+Snapshot ID: `MCw2ZjVhMWM5YWZmOGY1Njc5OTUzYWZkM2E1ZDU0NTUwZDgxYjJjNjc1`

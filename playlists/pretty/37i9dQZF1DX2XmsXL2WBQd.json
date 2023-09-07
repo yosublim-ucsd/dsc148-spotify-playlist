@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 371003,
+  "num_followers": 371070,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
+  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
   "tracks": [
     {
       "added_at": "2023-08-07 11:45:42",
@@ -235,6 +235,26 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
+        "name": "Planet Rock",
+        "url": "https://open.spotify.com/album/1t1veMmAYjKi3kN4bkysUn"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+        }
+      ],
+      "duration_ms": 319960,
+      "name": "Planet Rock",
+      "url": "https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 431800,
       "name": "The Message (feat. Melle Mel & Duke Bootee)",
       "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
-        "name": "Planet Rock",
-        "url": "https://open.spotify.com/album/1t1veMmAYjKi3kN4bkysUn"
-      },
-      "artists": [
-        {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "Planet Rock",
-      "url": "https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "So Wat Cha Sayin'",
-      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 266026,
       "name": "Colors - 2014 Remaster",
       "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "So Wat Cha Sayin'",
+      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Duck Rock",
         "url": "https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 259426,
       "name": "Buffalo Gals",
       "url": "https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN"
     },
     {
       "added_at": "2023-08-07 11:45:42",

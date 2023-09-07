@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 136727,
+  "num_followers": 136813,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjkwMjZlZThlZjAzODg0OGJlZjI2ODI5MDI1NzVmNjllZGZkOWE4",
+  "snapshot_id": "MCxjOWI2OTkxMDM3ZDdmMDJmYTUwYjBjMDliMmNiNzAyYmYyZDEwY2Uw",
   "tracks": [
     {
       "added_at": "2023-09-01 09:05:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Endings Are Beginnings",
-      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "That's What Friends Are For",
         "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 223986,
       "name": "That's What Friends Are For",
       "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Endings Are Beginnings",
+      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+      },
+      "artists": [
+        {
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Just A Little Lovin' (Early In The Mornin')",
+      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
         "name": "There is a place",
         "url": "https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E"
       },
@@ -919,18 +935,22 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
       },
       "artists": [
         {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        },
+        {
+          "name": "Carol Riddick",
+          "url": "https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Just A Little Lovin' (Early In The Mornin')",
-      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
+      "duration_ms": 231040,
+      "name": "2nite",
+      "url": "https://open.spotify.com/track/2EVvYPOMpYIjP9mxyxmvE4"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -955,26 +975,6 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
-        "name": "Rogue",
-        "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
-      },
-      "artists": [
-        {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
-        },
-        {
-          "name": "Carol Riddick",
-          "url": "https://open.spotify.com/artist/0TXTa4w6P9h0tJ1GFTZIhL"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "2nite",
-      "url": "https://open.spotify.com/track/2EVvYPOMpYIjP9mxyxmvE4"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "90 Degrees",
-        "url": "https://open.spotify.com/album/5EQ1ea2Hs4SNRwmnRBp2cm"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 255024,
-      "name": "90 Degrees",
-      "url": "https://open.spotify.com/track/46T4UTffeX2GrfqAU1hGjZ"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 192854,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "90 Degrees",
+        "url": "https://open.spotify.com/album/5EQ1ea2Hs4SNRwmnRBp2cm"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 255024,
+      "name": "90 Degrees",
+      "url": "https://open.spotify.com/track/46T4UTffeX2GrfqAU1hGjZ"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
         "name": "Something My Heart Trusts",
         "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
-      },
-      "artists": [
-        {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "All For One",
         "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 320640,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
-        "name": "Mother Of Mine",
-        "url": "https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp"
-      },
-      "artists": [
-        {
-          "name": "more than neighbours",
-          "url": "https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Mother Of Mine",
-      "url": "https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1339,6 +1323,22 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "Mother Of Mine",
+        "url": "https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp"
+      },
+      "artists": [
+        {
+          "name": "more than neighbours",
+          "url": "https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Mother Of Mine",
+      "url": "https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
         "name": "Bagatelles",
         "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
       },
@@ -1407,18 +1423,34 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+        "name": "Break In",
+        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
       },
       "artists": [
         {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
         }
       ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+      "duration_ms": 199636,
+      "name": "Break In",
+      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "What Love Is For",
+        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
+      },
+      "artists": [
+        {
+          "name": "PRD",
+          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "What Love Is For",
+      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1443,22 +1475,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "Break In",
-        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Break In",
-      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "You Are My Everything",
         "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 250000,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
-        "name": "What Love Is For",
-        "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
-      },
-      "artists": [
-        {
-          "name": "PRD",
-          "url": "https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "What Love Is For",
-      "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "Chamomile Tea",
-        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Farstar",
-          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
-        }
-      ],
-      "duration_ms": 252261,
-      "name": "Chamomile Tea",
-      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "Back to the Start",
         "url": "https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 196154,
       "name": "Back to the Start",
       "url": "https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "Chamomile Tea",
+        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Farstar",
+          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
+        }
+      ],
+      "duration_ms": 252261,
+      "name": "Chamomile Tea",
+      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "A Happy Thought (feat. Stu Mindeman)",
-        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Stu Mindeman",
-          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "A Happy Thought (feat. Stu Mindeman)",
-      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "Featuring EP",
         "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 176543,
       "name": "I'd Run to the Moon",
       "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "A Happy Thought (feat. Stu Mindeman)",
+        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Stu Mindeman",
+          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "A Happy Thought (feat. Stu Mindeman)",
+      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "All About You",
-        "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
-      },
-      "artists": [
-        {
-          "name": "Maluku Sweden Connection",
-          "url": "https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7"
-        },
-        {
-          "name": "SheemaW",
-          "url": "https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl"
-        }
-      ],
-      "duration_ms": 260852,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "Baby, It's Cold Outside",
         "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 188273,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
+      },
+      "artists": [
+        {
+          "name": "Maluku Sweden Connection",
+          "url": "https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7"
+        },
+        {
+          "name": "SheemaW",
+          "url": "https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl"
+        }
+      ],
+      "duration_ms": 260852,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR"
+        "name": "The Revolution of Me",
+        "url": "https://open.spotify.com/album/4NAP8F0xgasd8y44YScUmv"
       },
       "artists": [
         {
-          "name": "The Scalicis",
-          "url": "https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV"
+          "name": "Aden Ray",
+          "url": "https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD"
+      "duration_ms": 242526,
+      "name": "Made Me Cry",
+      "url": "https://open.spotify.com/track/51xSOVzWcd1A8sCxZUYEel"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "The Revolution of Me",
-        "url": "https://open.spotify.com/album/4NAP8F0xgasd8y44YScUmv"
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/14KfV7dED8JuA3C6NYnoTR"
       },
       "artists": [
         {
-          "name": "Aden Ray",
-          "url": "https://open.spotify.com/artist/5k863ZBt4xV8lVCESSyJTc"
+          "name": "The Scalicis",
+          "url": "https://open.spotify.com/artist/1aXYGkJ7p5IUE8BbPFmkWV"
         }
       ],
-      "duration_ms": 242526,
-      "name": "Made Me Cry",
-      "url": "https://open.spotify.com/track/51xSOVzWcd1A8sCxZUYEel"
+      "duration_ms": 180000,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4dumLEql3QNZfwVK4sTojD"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
+      },
+      "artists": [
+        {
+          "name": "Lady Linn",
+          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
         "name": "A Bridge",
         "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 243666,
       "name": "A Bridge",
       "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
-      },
-      "artists": [
-        {
-          "name": "Lady Linn",
-          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
     },
     {
       "added_at": "2023-09-01 09:05:53",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-09-01 09:05:53",
       "album": {
-        "name": "Heaven's King",
-        "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
-      },
-      "artists": [
-        {
-          "name": "Imprint Worship",
-          "url": "https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV"
-        }
-      ],
-      "duration_ms": 215352,
-      "name": "Heaven's King",
-      "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
-    },
-    {
-      "added_at": "2023-09-01 09:05:53",
-      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 215587,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG"
+    },
+    {
+      "added_at": "2023-09-01 09:05:53",
+      "album": {
+        "name": "Heaven's King",
+        "url": "https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ"
+      },
+      "artists": [
+        {
+          "name": "Imprint Worship",
+          "url": "https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV"
+        }
+      ],
+      "duration_ms": 215352,
+      "name": "Heaven's King",
+      "url": "https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX"
     },
     {
       "added_at": "2023-09-01 09:05:53",

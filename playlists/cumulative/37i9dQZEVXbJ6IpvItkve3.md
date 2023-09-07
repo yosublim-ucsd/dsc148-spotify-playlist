@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-774 songs - 1 day 19 hr 30 min
+775 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,7 @@
 | [חיים מאושרים](https://open.spotify.com/track/5bfyO9R6raJctlhVpXzPG4) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [חיים מאושרים](https://open.spotify.com/album/2FtWmySJ08u2O3lA6Xbm9C) | 3:23 | 2021-03-27\* | 2021-08-06 |
 | [חישגוזים](https://open.spotify.com/track/31cPrw1QeS642qgShdFYza) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [חישגוזים](https://open.spotify.com/album/32XFV7Wh93lpTGQnvZ3UoL) | 2:51 | 2023-06-25 | 2023-07-07 |
 | [חלק מהזמן](https://open.spotify.com/track/3hay408PSjTAxPn5TPxzyh) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [חלק מהזמן](https://open.spotify.com/album/2S2e0HzH9GpeLouWR1ctCB) | 3:43 | 2023-03-18 | 2023-03-20 |
-| [חמישי שישי](https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Nadav Navi Aharoni](https://open.spotify.com/artist/2KxKLkAYIg1MJyLCH0Pl8e) | [חמישי שישי](https://open.spotify.com/album/53nQ4JcS0sLdyI5F7t6yiZ) | 3:25 | 2022-05-19 |  |
+| [חמישי שישי](https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Nadav Navi Aharoni](https://open.spotify.com/artist/2KxKLkAYIg1MJyLCH0Pl8e) | [חמישי שישי](https://open.spotify.com/album/53nQ4JcS0sLdyI5F7t6yiZ) | 3:25 | 2022-05-19 | 2023-09-07 |
 | [חנוכה](https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [חנוכה](https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ) | 3:01 | 2021-12-01 | 2021-12-08 |
 | [חנוכה חנוכה](https://open.spotify.com/track/7fT1m5zBUXcQhrQ8GY6zxH) | [Dalia Amihud](https://open.spotify.com/artist/4iZXZxiD3ZWOqaD4s1IHI3), [Kids Choir](https://open.spotify.com/artist/2rj7Su1MsQ6zRbSHnYqcJb) | [שירי החגים הגדולים בכל הזמנים](https://open.spotify.com/album/0pyNXUcowpgnknHQUoVVyW) | 1:41 | 2021-11-30 | 2021-12-01 |
 | [חנוכיה לי יש](https://open.spotify.com/track/5ROswswUSxvwCkk8CiODGB) | [Dudu Elharar](https://open.spotify.com/artist/3ELOubnH7PInJmLhjlwK7n) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:51 | 2021-11-30 | 2021-12-01 |
@@ -536,6 +536,7 @@
 | [יאללה ביי](https://open.spotify.com/track/1XO1AePYpXpLxtRWpcaJiJ) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [יאללה ביי](https://open.spotify.com/album/4bhj4uZODLIVtCJkg7bI7J) | 2:32 | 2022-07-06 | 2022-09-23 |
 | [יאללה ביי](https://open.spotify.com/track/65xypSQQ6kSMjkL634ICtB) | [Maya Dadon](https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG) | [חוץ ממך](https://open.spotify.com/album/4P8ClljYc0ABC9cDVJAxHF) | 2:32 | 2022-09-22 | 2022-09-25 |
 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 | 2023-06-03 |  |
+| [יהיה טוב & מים שקופים](https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יהיה טוב & מים שקופים](https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl) | 4:47 | 2023-09-06 |  |
 | [יהיה יהיה](https://open.spotify.com/track/3Y58GeDl9FXsnIaMVXX7RO) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [יהיה יהיה](https://open.spotify.com/album/0XT3w3qdavbU1OpjPW5EFX) | 2:30 | 2023-05-06 | 2023-05-13 |
 | [יהלום \- Prod\. By Triangle](https://open.spotify.com/track/20rg6HNd837eX34TA5tEVf) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [יהלום \- Prod\. By Triangle](https://open.spotify.com/album/5y4rSQJbmDFsIoTCvT6vey) | 2:42 | 2021-03-27\* | 2021-09-26 |
 | [יהלומים \- BLING BLING](https://open.spotify.com/track/7v63pRo1RXcYzrCxaMkGc5) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [יהלומים \- BLING BLING](https://open.spotify.com/album/3P8ZbT26YFY9rS0bKbS3Ed) | 3:05 | 2021-03-27\* | 2021-09-05 |
@@ -543,7 +544,7 @@
 | [יום חדש](https://open.spotify.com/track/3z2xDkd4Bz0y3Teh4RZOWz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/1egE5NfiejbJB9tUclCEdN) | 3:28 | 2021-05-15 | 2021-05-21 |
 | [יום חדש](https://open.spotify.com/track/4mRreSUqP7waa2jT5ul41T) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/3lg5JGBlIiGeMbRwSh53hS) | 3:28 | 2023-05-20 | 2023-06-10 |
 | [יותר חזק מה?](https://open.spotify.com/track/4C7X3ja0DeTxMaTQJXtQ8W) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [יותר חזק מה?](https://open.spotify.com/album/0r3z6vvJSpUWhMHLWgbJj1) | 2:19 | 2022-09-06 | 2022-10-02 |
-| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 | 2023-08-26 |
+| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 |  |
 | [ילד מטריה](https://open.spotify.com/track/29ZGOiRf0t8zjvz5JwwdM4) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [ילד מטריה](https://open.spotify.com/album/0RMHBV15CrRX9qvub7MjwN) | 3:10 | 2023-07-22 |  |
 | [ים הרחמים](https://open.spotify.com/track/5OLFgqtdjdZJVByMwUEZfg) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w) | [בא מן השתיקה](https://open.spotify.com/album/5KsNUKsnSKIrYH8X23Ykgi) | 3:59 | 2023-04-26 | 2023-04-28 |
 | [יצאה שבת](https://open.spotify.com/track/4f15d7Qc81qw4LKMAQhfYz) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:08 | 2023-06-02 |  |
@@ -763,7 +764,7 @@
 | [שמש](https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [שמש](https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U) | 3:58 | 2021-08-25 | 2023-03-27 |
 | [שני ילדים בעולם](https://open.spotify.com/track/3qWDOGP2SBMLQ3nzMIkNbz) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [שני ילדים בעולם](https://open.spotify.com/album/0LtCEsb3XEhynpgFLiWcLV) | 3:06 | 2021-03-27\* | 2021-09-26 |
 | [שער הרחמים](https://open.spotify.com/track/6OVPuT8LP83moqJYC1GpDm) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU) | [וביניהם](https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU) | 3:46 | 2022-05-05 | 2022-05-07 |
-| [שקיעות אדומות](https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:32 | 2021-12-07 |  |
+| [שקיעות אדומות](https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 3:32 | 2021-12-07 | 2023-09-07 |
 | [שקיעות אדומות](https://open.spotify.com/track/74pfNNxGlwSyokwtqxHcDa) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [שקיעות אדומות](https://open.spotify.com/album/4xfBD4GDwXMPHczd2pts2j) | 3:32 | 2021-03-27\* | 2021-12-07 |
 | [שרק תחייך](https://open.spotify.com/track/7vn9SIc4NraLuIMzUeCK2o) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [שרק תחייך](https://open.spotify.com/album/07tEZylbG1KjXkvzsRnLqb) | 3:16 | 2021-03-27\* | 2021-07-10 |
 | [תופס לך את הדמעות](https://open.spotify.com/track/2aNH7JeBJa6eRPBpaSQipk) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [2023](https://open.spotify.com/album/1rK9oII8KSQLi5WRYhVaVk) | 3:33 | 2023-03-29 | 2023-04-02 |

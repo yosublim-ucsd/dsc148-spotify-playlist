@@ -1,12 +1,12 @@
 {
   "description": "Its time to travel inwards & feel the bliss!",
-  "num_followers": 57907,
+  "num_followers": 57970,
   "original_name": "Dhyanam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTQ3MzYyMGFlMGM3NWQyMjczNjFiZDM5MjAyYTM0NTgwZTgyMzlm",
+  "snapshot_id": "MCxiYzUyNGNjNmU0NjIzZDkzNWZjYjQ2MDRiMTI3ZTAyMjE1YjYwZWQ1",
   "tracks": [
     {
       "added_at": "2021-04-22 05:37:53",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "The Healing Process",
-        "url": "https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq"
-      },
-      "artists": [
-        {
-          "name": "Koh Lantana",
-          "url": "https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc"
-        }
-      ],
-      "duration_ms": 161442,
-      "name": "The Healing Process",
-      "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "New Endings",
         "url": "https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 188592,
       "name": "New Endings",
       "url": "https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "The Healing Process",
+        "url": "https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq"
+      },
+      "artists": [
+        {
+          "name": "Koh Lantana",
+          "url": "https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc"
+        }
+      ],
+      "duration_ms": 161442,
+      "name": "The Healing Process",
+      "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Dream Helpers",
-        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
-      },
-      "artists": [
-        {
-          "name": "Spirits Of Our Dreams",
-          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
-        }
-      ],
-      "duration_ms": 124864,
-      "name": "Moving Silence",
-      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Hibernation",
         "url": "https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+        "name": "Dream Helpers",
+        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
       },
       "artists": [
         {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+          "name": "Spirits Of Our Dreams",
+          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+      "duration_ms": 124864,
+      "name": "Moving Silence",
+      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -347,6 +331,22 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
         "name": "The Calm Sessions",
         "url": "https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ"
       },
@@ -359,38 +359,6 @@
       "duration_ms": 157481,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Matter and Energy",
-        "url": "https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm"
-      },
-      "artists": [
-        {
-          "name": "Matter and Energy",
-          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Quantum",
-      "url": "https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Aion",
-        "url": "https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol"
-      },
-      "artists": [
-        {
-          "name": "O.A.S.",
-          "url": "https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Aion",
-      "url": "https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -423,6 +391,38 @@
       "duration_ms": 185045,
       "name": "Hanami",
       "url": "https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Matter and Energy",
+        "url": "https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm"
+      },
+      "artists": [
+        {
+          "name": "Matter and Energy",
+          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Quantum",
+      "url": "https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Aion",
+        "url": "https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol"
+      },
+      "artists": [
+        {
+          "name": "O.A.S.",
+          "url": "https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Aion",
+      "url": "https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Romantic Evening Ragas'",
-        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
-      },
-      "artists": [
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Raga Hemavati (Flute)",
-      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Ragas Relax",
         "url": "https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 309013,
       "name": "Shiva's Meditation",
       "url": "https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Romantic Evening Ragas'",
+        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "Raga Hemavati (Flute)",
+      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Nautilus",
-        "url": "https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL"
-      },
-      "artists": [
-        {
-          "name": "Ebb & Flod",
-          "url": "https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Repose",
-      "url": "https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Sahaj Atma",
         "url": "https://open.spotify.com/album/1301F9iFu666bf4IqviXar"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 359204,
       "name": "Sahana Vavatu (For Inner Nourishment)",
       "url": "https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Nautilus",
+        "url": "https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL"
+      },
+      "artists": [
+        {
+          "name": "Ebb & Flod",
+          "url": "https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr"
+        }
+      ],
+      "duration_ms": 213823,
+      "name": "Repose",
+      "url": "https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Healing Memories",
-        "url": "https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my"
-      },
-      "artists": [
-        {
-          "name": "Kumbhaka",
-          "url": "https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO"
-        }
-      ],
-      "duration_ms": 202305,
-      "name": "Healing Memories",
-      "url": "https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Long Distance (Deep Sleep Drone Music)",
         "url": "https://open.spotify.com/album/05IJiYAP4yFUioSrQ9GSGY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 156807,
       "name": "Our Beginning",
       "url": "https://open.spotify.com/track/48zUSuNPWf2yFkzGu0BTv8"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Healing Memories",
+        "url": "https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my"
+      },
+      "artists": [
+        {
+          "name": "Kumbhaka",
+          "url": "https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO"
+        }
+      ],
+      "duration_ms": 202305,
+      "name": "Healing Memories",
+      "url": "https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "In the Om Zone 2.0",
-        "url": "https://open.spotify.com/album/5GHnyBPAznBKbWccswmDKb"
+        "name": "Wellness Spa Sounds - Nature Music for Relaxation, Peaceful Sleep with New Age Music & Relaxing Sounds",
+        "url": "https://open.spotify.com/album/6LKUqXc4Z1V93EdaclLKa1"
       },
       "artists": [
         {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+          "name": "Wellness",
+          "url": "https://open.spotify.com/artist/1EbHNLhZfVqNhmthBWUdLg"
         }
       ],
-      "duration_ms": 247640,
-      "name": "Om Zone 2.0 - XIV",
-      "url": "https://open.spotify.com/track/3tOpCsBzhi5I2ZyZpk1Ven"
+      "duration_ms": 320249,
+      "name": "Music for Inner Peace and Meditation (Okinawa Inspired Music)",
+      "url": "https://open.spotify.com/track/2ElXIde9edGAyNjPaXgIHW"
     }
   ],
   "unique_name": "Dhyanam",

@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 101941,
+  "num_followers": 102047,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQwNjJhZTExNDU0MTg5YjQ5MmUxNjYxNTgwMGMyMTljZDI4MzM1",
+  "snapshot_id": "MCxkNzQ0NzAzYzU5MzJhNzU4NDBhZjY1OTMzYmY3MGM1NWM5MzA0YjRi",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "We Stitch These Wounds",
-        "url": "https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 251706,
-      "name": "The Mortician's Daughter",
-      "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "YES! (Commentary)",
-        "url": "https://open.spotify.com/album/2pkE09f0DykOk472XemaTs"
+        "name": "We Stitch These Wounds",
+        "url": "https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
         }
       ],
-      "duration_ms": 257173,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/1qvToOLpOdxoxmEyebs0Wi"
+      "duration_ms": 251706,
+      "name": "The Mortician's Daughter",
+      "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -1023,6 +1007,22 @@
       "duration_ms": 275493,
       "name": "Move Together",
       "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "YES! (Commentary)",
+        "url": "https://open.spotify.com/album/2pkE09f0DykOk472XemaTs"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/1qvToOLpOdxoxmEyebs0Wi"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Everything This Way",
-        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
-      },
-      "artists": [
-        {
-          "name": "Walking On Cars",
-          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
-        }
-      ],
-      "duration_ms": 261024,
-      "name": "Flying High Falling Low",
-      "url": "https://open.spotify.com/track/5ompsQEJ93uy0YGCgANzBI"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 259252,
       "name": "Zombie - Acoustic",
       "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Everything This Way",
+        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
+      },
+      "artists": [
+        {
+          "name": "Walking On Cars",
+          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
+        }
+      ],
+      "duration_ms": 261024,
+      "name": "Flying High Falling Low",
+      "url": "https://open.spotify.com/track/5ompsQEJ93uy0YGCgANzBI"
     },
     {
       "added_at": "2023-01-11 18:02:14",

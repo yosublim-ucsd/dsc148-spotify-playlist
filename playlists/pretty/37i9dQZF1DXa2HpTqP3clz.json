@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 125705,
+  "num_followers": 125760,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGJiODhiYjc4NTYyNDg3YjJhMTIwNTY0Zjc0MTMwYzJiODU0YTll",
+  "snapshot_id": "MCwzZmUzODcyZGVmMTVjODZjYzA4M2FiNmUxNjI5NjVhYTZkZWYwMzkx",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 139893,
-      "name": "Super Moon",
-      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Where the Long Line Leads",
-        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 204618,
-      "name": "Where the Long Line Leads",
-      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1335,6 +1319,38 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Where the Long Line Leads",
+        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 224800,
       "name": "Message From Heaven",
       "url": "https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1519,6 +1519,42 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Almost Proud",
+        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "Honky Tonk Nights",
+      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1559,74 +1595,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Almost Proud",
-        "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "Honky Tonk Nights",
-      "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "4:09",
-        "url": "https://open.spotify.com/album/2KwAbI08WaxaEABYTgSPpJ"
-      },
-      "artists": [
-        {
-          "name": "Chandler Beavers",
-          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
-        },
-        {
-          "name": "Caleb Cox",
-          "url": "https://open.spotify.com/artist/0tnOQUxUsvtuOzlQjFxenc"
-        },
-        {
-          "name": "Chris Stockwell",
-          "url": "https://open.spotify.com/artist/3UyfWIdlmw1ejsXy1h3owu"
-        },
-        {
-          "name": "Brendan Macie",
-          "url": "https://open.spotify.com/artist/2lctN9BubZrESorwh3JGHT"
-        },
-        {
-          "name": "Lars Swanson",
-          "url": "https://open.spotify.com/artist/43AjHzaUAjsoTmaOJWqqzQ"
-        }
-      ],
-      "duration_ms": 258318,
-      "name": "Once in a Thousand",
-      "url": "https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1659,6 +1627,38 @@
       "duration_ms": 166707,
       "name": "The Trailblazer",
       "url": "https://open.spotify.com/track/6XwSoj31OGTt9CjkzyzjOf"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "4:09",
+        "url": "https://open.spotify.com/album/2KwAbI08WaxaEABYTgSPpJ"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Caleb Cox",
+          "url": "https://open.spotify.com/artist/0tnOQUxUsvtuOzlQjFxenc"
+        },
+        {
+          "name": "Chris Stockwell",
+          "url": "https://open.spotify.com/artist/3UyfWIdlmw1ejsXy1h3owu"
+        },
+        {
+          "name": "Brendan Macie",
+          "url": "https://open.spotify.com/artist/2lctN9BubZrESorwh3JGHT"
+        },
+        {
+          "name": "Lars Swanson",
+          "url": "https://open.spotify.com/artist/43AjHzaUAjsoTmaOJWqqzQ"
+        }
+      ],
+      "duration_ms": 258318,
+      "name": "Once in a Thousand",
+      "url": "https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1711,6 +1711,42 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
+      },
+      "artists": [
+        {
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 190634,
+      "name": "Run To Heaven",
+      "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -1727,18 +1763,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
+        "name": "Open The Road",
+        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
       },
       "artists": [
         {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+          "name": "We Banjo 3",
+          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
         }
       ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
+      "duration_ms": 178182,
+      "name": "Alive With You",
+      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1759,38 +1795,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Skunk Weed",
-        "url": "https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Skunk Weed",
-      "url": "https://open.spotify.com/track/12VKMGe1sbcOHDBWrH9hUJ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Open The Road",
-        "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
-      },
-      "artists": [
-        {
-          "name": "We Banjo 3",
-          "url": "https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD"
-        }
-      ],
-      "duration_ms": 178182,
-      "name": "Alive With You",
-      "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
     }
   ],
   "unique_name": "Grass Roots",

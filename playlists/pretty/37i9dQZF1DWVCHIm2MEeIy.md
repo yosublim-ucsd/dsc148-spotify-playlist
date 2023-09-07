@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,816 likes - 70 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,996 likes - 70 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 40 | [You Can Dance Now](https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [You Can Dance Now](https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2) | 4:04 |
 | 41 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 |
 | 42 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 |
-| 43 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
-| 44 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 43 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
+| 44 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
 | 45 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
 | 46 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 47 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 55 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
 | 56 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 |
 | 57 | [Himmelblau](https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Never Stop Dancing](https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC) | 8:13 |
-| 58 | [Almost Everything](https://open.spotify.com/track/4pxC44xd2qCE3FnOcrFdtT) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/5QFKgCvQUFnHDeWbdCQ6aO) | 3:54 |
+| 58 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
 | 59 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
-| 60 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
-| 61 | [Highlight \- Edit](https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Highlight](https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP) | 3:39 |
-| 62 | [Euphoria](https://open.spotify.com/track/29bvDzVtefT0PDoC4BDUpQ) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Euphoria \| Tanz der Planeten](https://open.spotify.com/album/4DRNTwsmWHDch8Sizreid3) | 7:32 |
+| 60 | [Almost Everything](https://open.spotify.com/track/4pxC44xd2qCE3FnOcrFdtT) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/5QFKgCvQUFnHDeWbdCQ6aO) | 3:54 |
+| 61 | [Euphoria](https://open.spotify.com/track/29bvDzVtefT0PDoC4BDUpQ) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Euphoria \| Tanz der Planeten](https://open.spotify.com/album/4DRNTwsmWHDch8Sizreid3) | 7:32 |
+| 62 | [Highlight \- Edit](https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Highlight](https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP) | 3:39 |
 | 63 | [Der Mond \- 1980 Version](https://open.spotify.com/track/0mTq8qD7jCebFoN5HP7NqY) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Classic Gold Remixed \(Pt.2\)](https://open.spotify.com/album/6CcQYWYQnnG9oYutc0EP2y) | 5:24 |
 | 64 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
 | 65 | [Heaven \- Oliver Schories Club Mix](https://open.spotify.com/track/2ZtjuNdPKbiRlxCAm7J8Tt) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Heaven \(Oliver Schories Club Mix\)](https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn) | 3:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
 | 70 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 |
 
-Snapshot ID: `MCwwMWJhNTY5Y2Q5NjgzOGU3NzZmYTNjMzNkYWY5YzcxM2QyNGIxYjMx`
+Snapshot ID: `MCw2NDlkZWJkNzY2MjlhYTNhYWRmMDVmNTU2MDE2NTA0OTY4OWE1Nzk0`

@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 295850,
+  "num_followers": 295916,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzI1NjUwNmRhOGU2MTA1NGU0OGMwZmViMmVlMDgyZmRlYWFiY2Y4",
+  "snapshot_id": "MCwzZWFkZmM4ZGE2ZDI4OWE5OGE0NTZiNDE2ZDg3ZDViODVhOGZiMzVi",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "The Wild Swan",
         "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
-      },
-      "artists": [
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        },
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        }
-      ],
-      "duration_ms": 197526,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/4KPde9UNrNKwWQBsIvQD2c"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        },
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 197526,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/3f5qREySyxn04acVAQadPg"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "America",
-      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "America",
+      "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "If I Didn\u2019t Love You",
         "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
     },
     {
       "added_at": "2023-08-18 04:01:00",

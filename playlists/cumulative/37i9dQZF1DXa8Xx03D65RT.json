@@ -3351,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/0vXwvweYixVXGGlhfqHqw0"
+      },
+      "artists": [
+        {
+          "name": "Tamara Eden",
+          "url": "https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1wawCywSOC0uHeauIiCibd"
+    },
+    {
+      "album": {
         "name": "Flying",
         "url": "https://open.spotify.com/album/0mgGkc6kmIhNfPa8skiBEt"
       },
@@ -4230,7 +4248,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 174000,
       "name": "Higo",
       "url": "https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV"
@@ -10633,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "Thirsty Conversation",
+        "url": "https://open.spotify.com/album/7EEPkMNW7fV2EODmZB0Kuz"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134211,
+      "name": "Thirsty Conversation",
+      "url": "https://open.spotify.com/track/16fE7hNcwAY1jLN8eJJ22a"
+    },
+    {
+      "album": {
         "name": "Those Moments",
         "url": "https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g"
       },
@@ -11278,7 +11314,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 185670,
       "name": "Undulations",
       "url": "https://open.spotify.com/track/53FjteGUXpjef8J3SD7HoP"

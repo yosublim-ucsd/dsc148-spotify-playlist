@@ -1,13 +1,29 @@
 {
   "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: <a href=\"spotify:artist:6UIpxj5ggLdOebFVCOxVax\">Loe Shimmy</a>",
-  "num_followers": 217404,
+  "num_followers": 217511,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2QzMzk4Y2QyM2U3M2QyNzkzNDc1NjRjNGQxN2NlZjg1Y2QxZWU0",
+  "snapshot_id": "MCxlZDA0OTU1ZjhkNGQ4NDBmN2M4ZTE3NTliNDAzYzY2NzU3YzQ1MDNj",
   "tracks": [
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        }
+      ],
+      "duration_ms": 126473,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi"
+    },
     {
       "added_at": "2023-08-24 04:32:24",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 175882,
       "name": "Last laugh",
       "url": "https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Wassup Gwayy",
+        "url": "https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax"
+      },
+      "artists": [
+        {
+          "name": "FamousSally & YB",
+          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
+        }
+      ],
+      "duration_ms": 144383,
+      "name": "Wassup Gwayy",
+      "url": "https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV"
     },
     {
       "added_at": "2023-08-30 15:31:44",
@@ -217,6 +249,22 @@
       "url": "https://open.spotify.com/track/2O7Nl0SHRRcV0rR2NDS6BM"
     },
     {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "duration_ms": 151350,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY"
+    },
+    {
       "added_at": "2023-08-30 15:31:44",
       "album": {
         "name": "Beach Bounce: Vol. 01",
@@ -291,22 +339,6 @@
       "duration_ms": 219877,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/0AtZRrAMpCmGJrvUpbeWvG"
-    },
-    {
-      "added_at": "2023-08-24 04:32:24",
-      "album": {
-        "name": "Yard Work Volume.1",
-        "url": "https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu"
-      },
-      "artists": [
-        {
-          "name": "Pote Baby",
-          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "it is what it is",
-      "url": "https://open.spotify.com/track/6utwQVdK6GvgDSS5mzjkkq"
     },
     {
       "added_at": "2023-08-24 04:32:24",
@@ -445,22 +477,6 @@
       "url": "https://open.spotify.com/track/7omzhSspMbVMsLXvvexL2M"
     },
     {
-      "added_at": "2023-08-24 04:32:24",
-      "album": {
-        "name": "Can't Forget",
-        "url": "https://open.spotify.com/album/2nVqJ5q1XPxi3x0lbUdM9a"
-      },
-      "artists": [
-        {
-          "name": "TYK",
-          "url": "https://open.spotify.com/artist/59e1xBpxB7CmdSl0wre3nT"
-        }
-      ],
-      "duration_ms": 131343,
-      "name": "Can't Forget",
-      "url": "https://open.spotify.com/track/5q4PzEPtexRWiTh68Z67EB"
-    },
-    {
       "added_at": "2023-08-30 15:31:44",
       "album": {
         "name": "MILLIONAIRE MARNI",
@@ -527,6 +543,26 @@
     {
       "added_at": "2023-08-24 04:32:24",
       "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/7JL3x8rNQSWmogtHZvobC9"
+      },
+      "artists": [
+        {
+          "name": "Freddy Got Magic",
+          "url": "https://open.spotify.com/artist/019TO0knm3TR0pRqesSPSW"
+        },
+        {
+          "name": "Supa Bwe",
+          "url": "https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D"
+        }
+      ],
+      "duration_ms": 119780,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/0uFgVAfNa7f6W3HWR8MM4g"
+    },
+    {
+      "added_at": "2023-08-24 04:32:24",
+      "album": {
         "name": "MY FAVORITE DRUG",
         "url": "https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5"
       },
@@ -539,6 +575,22 @@
       "duration_ms": 183453,
       "name": "MY FAVORITE DRUG",
       "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"
+    },
+    {
+      "added_at": "2023-08-24 04:32:24",
+      "album": {
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/66p0Gpgv4Tz6psDCNZputd"
+      },
+      "artists": [
+        {
+          "name": "TAAYLEE G",
+          "url": "https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM"
+        }
+      ],
+      "duration_ms": 161648,
+      "name": "Your The One",
+      "url": "https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG"
     },
     {
       "added_at": "2023-08-24 04:32:24",
@@ -755,22 +807,6 @@
     {
       "added_at": "2023-08-24 04:32:24",
       "album": {
-        "name": "SUPERSEXXXYSUMMER",
-        "url": "https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4"
-      },
-      "artists": [
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        }
-      ],
-      "duration_ms": 165920,
-      "name": "SUPERSEXXXYSUMMER",
-      "url": "https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ"
-    },
-    {
-      "added_at": "2023-08-24 04:32:24",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N"
       },
@@ -927,6 +963,22 @@
     {
       "added_at": "2023-08-24 04:32:24",
       "album": {
+        "name": "SUPERSEXXXYSUMMER",
+        "url": "https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 165920,
+      "name": "SUPERSEXXXYSUMMER",
+      "url": "https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ"
+    },
+    {
+      "added_at": "2023-08-24 04:32:24",
+      "album": {
         "name": "SZN 2",
         "url": "https://open.spotify.com/album/1Ex7GXej7dLQ1DU7UiEZQM"
       },
@@ -955,26 +1007,6 @@
       "duration_ms": 212088,
       "name": "No Gun No Knife",
       "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
-    },
-    {
-      "added_at": "2023-08-24 04:32:24",
-      "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/7JL3x8rNQSWmogtHZvobC9"
-      },
-      "artists": [
-        {
-          "name": "Freddy Got Magic",
-          "url": "https://open.spotify.com/artist/019TO0knm3TR0pRqesSPSW"
-        },
-        {
-          "name": "Supa Bwe",
-          "url": "https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D"
-        }
-      ],
-      "duration_ms": 119780,
-      "name": "OUTSIDE",
-      "url": "https://open.spotify.com/track/0uFgVAfNa7f6W3HWR8MM4g"
     },
     {
       "added_at": "2023-08-24 04:32:24",
@@ -1079,22 +1111,6 @@
     {
       "added_at": "2023-08-24 04:32:24",
       "album": {
-        "name": "Waiting To Exhale",
-        "url": "https://open.spotify.com/album/66p0Gpgv4Tz6psDCNZputd"
-      },
-      "artists": [
-        {
-          "name": "TAAYLEE G",
-          "url": "https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM"
-        }
-      ],
-      "duration_ms": 161648,
-      "name": "Your The One",
-      "url": "https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG"
-    },
-    {
-      "added_at": "2023-08-24 04:32:24",
-      "album": {
         "name": "Any Given Scheme Day",
         "url": "https://open.spotify.com/album/7hiKjRALDT8VuvNokpLVFn"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 159939,
       "name": "YUP!",
       "url": "https://open.spotify.com/track/51bDDKxzwJAc6zUtyYSyHL"
-    },
-    {
-      "added_at": "2023-08-24 04:32:24",
-      "album": {
-        "name": "Stop Playing",
-        "url": "https://open.spotify.com/album/4NTOhajbvWZBuzdC0Rjfh3"
-      },
-      "artists": [
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 124085,
-      "name": "Boner",
-      "url": "https://open.spotify.com/track/3rALLrKGsYRLXBYceGnZXB"
     },
     {
       "added_at": "2023-08-24 04:32:24",

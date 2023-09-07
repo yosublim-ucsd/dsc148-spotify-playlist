@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=A5mc71RFRBysDrajiP0\_Pw">Lloyiso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,417 likes - 58 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,478 likes - 58 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 57 | [It's You](https://open.spotify.com/track/1Lvniduwuk2kVWtcTBAypq) | [Liam Burger](https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ) | [It's You](https://open.spotify.com/album/6eQKQdyr0WPuLZ9TzTHqJT) | 3:13 |
 | 58 | [My Own Accord](https://open.spotify.com/track/4LljozlQfsmFsIj8EJPpBi) | [Derónshay](https://open.spotify.com/artist/2rIPVjV2J92G2iwJR7jjNY) | [My Own Accord](https://open.spotify.com/album/4fLYghi1U2Q4WOWHPAIYfK) | 3:47 |
 
-Snapshot ID: `MCw2YTM2NTZiZGMyOTNhYzUzYzQ1Mjg3NTA1NmRmZDVjMjBmYmNjYTgx`
+Snapshot ID: `MCxjZmNmZjczYzEyYzRiOTUzNjIzZTliODg3YzJjMjk2YTNkMWQ1NmM0`

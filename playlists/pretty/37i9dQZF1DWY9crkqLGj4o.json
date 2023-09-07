@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 389834,
+  "num_followers": 390156,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTc0ZTMzODBiYmRkODY3MWQxMjMxOTlkMTU5ZDhlYmYwOTFhMzhk",
+  "snapshot_id": "MCxlOGM5YWFhZTgzNjMxNjMzNDcwZTk1ZmJkM2IxMjU2NmNhODM5Y2Rl",
   "tracks": [
     {
       "added_at": "2023-09-01 05:05:43",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-09-01 05:05:43",
       "album": {
-        "name": "A Casa \u00c9 Sua",
-        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 562388,
-      "name": "A Casa \u00c9 Sua",
-      "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
-    },
-    {
-      "added_at": "2023-09-01 05:05:43",
-      "album": {
         "name": "De Dentro Pra Fora",
         "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 307213,
       "name": "De Dentro Pra Fora",
       "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+    },
+    {
+      "added_at": "2023-09-01 05:05:43",
+      "album": {
+        "name": "A Casa \u00c9 Sua",
+        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 562388,
+      "name": "A Casa \u00c9 Sua",
+      "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
     },
     {
       "added_at": "2023-09-01 05:05:43",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-01 05:05:43",
       "album": {
-        "name": "A Casa \u00c9 Sua",
-        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 346697,
-      "name": "Eu Te Vejo Em Tudo",
-      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
-    },
-    {
-      "added_at": "2023-09-01 05:05:43",
-      "album": {
         "name": "Raridade",
         "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 297726,
       "name": "Raridade",
       "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
+    },
+    {
+      "added_at": "2023-09-01 05:05:43",
+      "album": {
+        "name": "A Casa \u00c9 Sua",
+        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 346697,
+      "name": "Eu Te Vejo Em Tudo",
+      "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
     },
     {
       "added_at": "2023-09-01 05:05:43",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-09-01 05:05:43",
       "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Giselli Cristina",
+          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
         }
       ],
-      "duration_ms": 261178,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
+      "duration_ms": 287826,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
     },
     {
       "added_at": "2023-09-01 05:05:43",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-09-01 05:05:43",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
       "artists": [
         {
-          "name": "Giselli Cristina",
-          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 287826,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
+      "duration_ms": 261178,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
     },
     {
       "added_at": "2023-09-01 05:05:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-01 05:05:43",
       "album": {
-        "name": "Pra que outros possam viver",
-        "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "Vai Valer a Pena",
-      "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
-    },
-    {
-      "added_at": "2023-09-01 05:05:43",
-      "album": {
         "name": "Fornalha Laura Souguellis",
         "url": "https://open.spotify.com/album/6wc5LOhw4vZGwkaJPQqdwW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 735253,
       "name": "Em Teus Bra\u00e7os",
       "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
+    },
+    {
+      "added_at": "2023-09-01 05:05:43",
+      "album": {
+        "name": "Pra que outros possam viver",
+        "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 386560,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
     },
     {
       "added_at": "2023-09-01 05:05:43",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-01 05:05:43",
       "album": {
-        "name": "Andando na Luz",
-        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 348499,
-      "name": "H\u00e1 um Lugar",
-      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
-    },
-    {
-      "added_at": "2023-09-01 05:05:43",
-      "album": {
         "name": "H\u00e1 Um Vinho Novo",
         "url": "https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 315586,
       "name": "Voc\u00ea Me Leva ao Deserto",
       "url": "https://open.spotify.com/track/6WtZILxWzvODyrra2QnLLv"
+    },
+    {
+      "added_at": "2023-09-01 05:05:43",
+      "album": {
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "Jesus \u00e9 o Caminho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt"
     },
     {
       "added_at": "2023-09-01 05:05:43",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-01 05:05:43",
       "album": {
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "added_at": "2023-09-01 05:05:43",
+      "album": {
         "name": "Diz",
         "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
-    },
-    {
-      "added_at": "2023-09-01 05:05:43",
-      "album": {
-        "name": "Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1ckzmKQdcpMhcvLAYo8Vdg"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 232240,
-      "name": "Jesus \u00e9 o Caminho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yjfCdnaW1A5z2HtLPbedt"
     },
     {
       "added_at": "2023-09-01 05:05:43",

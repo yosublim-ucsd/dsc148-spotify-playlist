@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,690 likes - 90 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,721 likes - 90 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 29 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 30 | [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 |
 | 31 | [Love That Burns](https://open.spotify.com/track/39xwaEbjsgAEsh5yN4X90k) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 5:04 |
-| 32 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 |
-| 33 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
-| 34 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
-| 35 | [That's Why I'm Crying](https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 5:04 |
+| 32 | [Long Distance](https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:33 |
+| 33 | [You Shook Me](https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 4:15 |
+| 34 | [That's Why I'm Crying](https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 5:04 |
+| 35 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
 | 36 | [A Fool No More](https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Man of the World: The Anthology 1968\-1988](https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o) | 7:44 |
-| 37 | [Same Old Blues](https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:34 |
-| 38 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
+| 37 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
+| 38 | [Same Old Blues](https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:34 |
 | 39 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
 | 40 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 |
 | 41 | [Waiting For The Dawn](https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:50 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 75 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 |
 | 76 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
 | 77 | [Still Here](https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N) | [Ben Levin](https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci) | [Still Here](https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV) | 4:10 |
-| 78 | [Mistreated so Bad](https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Pickin' the Blues](https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW) | 3:25 |
-| 79 | [Abandoned Child](https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Shine](https://open.spotify.com/album/6uco735wn69n3ODYvdrd21) | 7:35 |
+| 78 | [Abandoned Child](https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Shine](https://open.spotify.com/album/6uco735wn69n3ODYvdrd21) | 7:35 |
+| 79 | [Mistreated so Bad](https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Pickin' the Blues](https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW) | 3:25 |
 | 80 | [Get Your Lovin'](https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil) | [Secret Formula Band](https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs) | [Get Your Lovin'](https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR) | 3:23 |
 | 81 | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:34 |
 | 82 | [Sometimes I Worry](https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg) | [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2) | [Roll and Tumble](https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW) | 3:25 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 87 | [Wrong Kind of Lovin](https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af) | [Dan Kearney](https://open.spotify.com/artist/2vDDjafIuvRtW46fMvdOy6) | [Wrong Kind of Lovin](https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX) | 5:20 |
 | 88 | [Karma Wheel](https://open.spotify.com/track/1rWNmWtcbwpuZlx1b5ep9x) | [Joel Astley](https://open.spotify.com/artist/7IVBtfN5PK0ZVVQoU9zcGS) | [Seattle to Greaseland](https://open.spotify.com/album/4AEV6zOQHpeir1oa37YWRc) | 5:03 |
 | 89 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
-| 90 | [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 |
+| 90 | [Use As Needed](https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 5:42 |
 
-Snapshot ID: `MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0`
+Snapshot ID: `MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl`

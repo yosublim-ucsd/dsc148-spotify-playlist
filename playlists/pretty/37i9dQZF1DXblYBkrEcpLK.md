@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,379 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,429 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 7 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 8 | [Let you know!](https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Let you know!](https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86) | 2:36 |
 | 9 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
-| 10 | [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/track/2MkKQluQXqkeC8dtU2QQpn) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/album/1rpQHVbbUu64PsLH7gQXmY) | 4:49 |
+| 10 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 |
 | 11 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 12 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 |
 | 13 | [ONEGAI MUSCLE](https://open.spotify.com/track/5zJoNz19s5lsL5NXKp1Q8O) | [紗倉ひびき\(CV:ファイルーズあい\)](https://open.spotify.com/artist/6s8j3klwQxJ9wYm6r4YXPU), [街雄鳴造\(CV:石川界人\)](https://open.spotify.com/artist/02R36FyZZ3oAF0wElreEuQ) | [TV SERIES ”DUMBBELL NAN\-KILO MOTERU?” OPENING THEME「ONEGAI MUSCLE」/ENDING THEME「MACHO ARE NAME?」](https://open.spotify.com/album/56Ke1qDHo3xZksZWa3Mwye) | 3:40 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 28 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 | 29 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
 | 30 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 |
-| 31 | [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 |
+| 31 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
 | 32 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 |
-| 33 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
+| 33 | [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 |
 | 34 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 35 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
 | 36 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 40 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 |
 | 41 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 | 42 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
-| 43 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
-| 44 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 |
-| 45 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 |
+| 43 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 |
+| 44 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
+| 45 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 |
 | 46 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
 | 47 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 48 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 | 49 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 |
 | 50 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 |
 
-Snapshot ID: `MCw2M2RhY2U4YTdmNGM3ZWIwMTEwYWE2ZWJlMTIzNTA4YTExN2MxNGI5`
+Snapshot ID: `MCw2NzUxNzU3MmY0MTY3ZDdlYzEyNWFiMTAyNDI5OGI3MTc1Y2QwZGFl`

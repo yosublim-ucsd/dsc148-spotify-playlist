@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Live now: die personal Picks eurer Lieblings\-Creator\*innen im "MEGA\-Playlist\-Takeover"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,299 likes - 99 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,630 likes - 99 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [Go Solo](https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/30dSlleSaT1dEaK39OM5B4) | 2:22 |
 | 99 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
 
-Snapshot ID: `MCwxNjcyYWNmMWFlNGFiOGY2YzVkMjdmMjcxOTUxMzNiMTc4ZTZjYTMw`
+Snapshot ID: `MCw2ZWM3YmYyYmZlZTYzMDZiMzM2OTI1YzE1ZDQ1NjBiNjRmZjVhNThk`

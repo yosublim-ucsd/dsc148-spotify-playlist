@@ -4,7 +4,7 @@
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
 
-114 songs - 6 hr 25 min
+115 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ay amor](https://open.spotify.com/track/7pwCqAOD5ycYyhgdz8HeU4) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Ay amor](https://open.spotify.com/album/2vhLLMbLpNVjFGl5cY0zv6) | 3:05 | 2023-06-02 | 2023-08-29 |
 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 | 2022-02-16 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/5auKj4jbfYPJg8sQTIZaxt) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Blanco Y Negro](https://open.spotify.com/album/5s3KNRr9tjpXQqbPllvKPe) | 2:53 | 2022-02-16 | 2022-07-29 |
-| [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 | 2022-02-16 |  |
+| [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 | 2022-02-16 | 2023-09-07 |
 | [Bolero a La Vida](https://open.spotify.com/track/7qGmsJV4rZ75QrMOK7KHnp) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Gaby Moreno](https://open.spotify.com/artist/3b9CdPu3dtj9M7SEiuTCHu) | [Bolero a La Vida](https://open.spotify.com/album/2QVCxBao2oIF57UdXoDMoi) | 4:26 | 2022-02-16 | 2022-07-28 |
 | [Bolero Triste](https://open.spotify.com/track/5sGZ8hCxOrzeSK3lX5Gjrv) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Bolero Triste](https://open.spotify.com/album/1LQhIZ6TUYsbZXU02QhAIR) | 3:47 | 2022-02-16 | 2022-07-29 |
 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 | 2022-02-16 |  |
@@ -118,6 +118,7 @@
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-08-05 |  |
 | [Vete](https://open.spotify.com/track/6dElnKdNDNlknIIQnOZ8SB) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Vete](https://open.spotify.com/album/3WeFaoj0z5fLqbsr0PsAsr) | 3:14 | 2022-05-31 | 2022-07-29 |
 | [Vivir Es Complicado](https://open.spotify.com/track/35TTXg8GvEtMOOHAyLDjxY) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Vivir Es Complicado](https://open.spotify.com/album/2Quo0M4xUnpt1Om8W3pTqz) | 4:49 | 2022-05-31 | 2022-07-27 |
+| [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 | 2023-09-01 |  |
 | [Yo Esperaré](https://open.spotify.com/track/5nqfV6YFYiRx1docxwRolq) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Yo Esperaré](https://open.spotify.com/album/0yzD7GkfhEnulvW3JBD2JR) | 4:16 | 2023-06-30 |  |
 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 | 2022-02-16 |  |
 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 | 2022-02-16 |  |

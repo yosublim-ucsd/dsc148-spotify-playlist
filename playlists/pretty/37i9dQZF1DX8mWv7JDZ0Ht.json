@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariana Nolasco",
-  "num_followers": 431293,
+  "num_followers": 431371,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjM2NDllMDNiYWY0ZmQ0NWVkMjk5MDgxYzA2ZTUyYjQ3OTJmNzg0",
+  "snapshot_id": "MCw1ZmRmODYwM2JlNTE1MTU3NmZkMzBlMjJjOTI1NDUyZDI5ZGYxNmFk",
   "tracks": [
     {
       "added_at": "2023-09-01 12:17:15",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "N\u00f3 de Marinheiro",
-        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
-        }
-      ],
-      "duration_ms": 183503,
-      "name": "N\u00f3 de Marinheiro",
-      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "Cora\u00e7\u00f5es Psicod\u00e9licos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ycBHEPlVuRvP3qM8ckL1m"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 207810,
       "name": "Cora\u00e7\u00f5es Psicod\u00e9licos - Ao Vivo",
       "url": "https://open.spotify.com/track/2PChtfI75ZmcvUty1KBLas"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "N\u00f3 de Marinheiro",
+        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 183503,
+      "name": "N\u00f3 de Marinheiro",
+      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
+        "name": "Se eu n\u00e3o te amasse tanto assim",
+        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Se eu n\u00e3o te amasse tanto assim",
+      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
         "name": "Por Que Voc\u00ea N\u00e3o Vem?",
         "url": "https://open.spotify.com/album/0aBrzFzgTN18yJdycI1NHh"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 166542,
       "name": "Por Que Voc\u00ea N\u00e3o Vem?",
       "url": "https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
-        "name": "Se eu n\u00e3o te amasse tanto assim",
-        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Se eu n\u00e3o te amasse tanto assim",
-      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "Corda Bamba",
         "url": "https://open.spotify.com/album/572WWhgJJ3QWIw180d00DO"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 171100,
       "name": "Corda Bamba",
       "url": "https://open.spotify.com/track/5RRogbBQK33amziOlo85tg"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Me Arrependo",
-        "url": "https://open.spotify.com/album/3C40vpn8VGTZiMQ6IYICkZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        }
-      ],
-      "duration_ms": 200393,
-      "name": "Me Arrependo",
-      "url": "https://open.spotify.com/track/2AY8ZWochVcpJ4smrjXeGQ"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "T\u00e3o Cedo",
         "url": "https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 183222,
       "name": "T\u00e3o Cedo",
       "url": "https://open.spotify.com/track/1yAXltaINGRVf72BCeHcgH"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "Me Arrependo",
+        "url": "https://open.spotify.com/album/3C40vpn8VGTZiMQ6IYICkZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 200393,
+      "name": "Me Arrependo",
+      "url": "https://open.spotify.com/track/2AY8ZWochVcpJ4smrjXeGQ"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Um Brinde A Vida",
-        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
-        }
-      ],
-      "duration_ms": 182086,
-      "name": "Um Brinde A Vida",
-      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "Vidro Emba\u00e7ado",
         "url": "https://open.spotify.com/album/2GUM0ZM1ZRWb3XY5H4fvGl"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 139895,
       "name": "Vidro Emba\u00e7ado",
       "url": "https://open.spotify.com/track/3fXg6lRxBtaWPCNxS9zhPM"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "Um Brinde A Vida",
+        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "duration_ms": 182086,
+      "name": "Um Brinde A Vida",
+      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
     },
     {
       "added_at": "2023-09-01 12:17:15",

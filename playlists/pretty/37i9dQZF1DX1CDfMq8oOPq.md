@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Irmãs de Pau, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,480 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,531 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 31 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 |
 | 32 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 33 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
-| 34 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 |
-| 35 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
+| 34 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 |
+| 35 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 |
 | 36 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
 | 37 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
 | 38 | [Glossy](https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Glossy](https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Betty Boop](https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Betty Boop](https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK) | 1:50 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw5OTI5ZWZlNTBjZGU2ZDgxYzM2NzZlNDU3YjdhMTFiNWJjNjU0Mzhm`
+Snapshot ID: `MCw5MTIyY2FlYmY0ZDk5YmY4NmRjZGE1NWFmMzdjNzk1YTYyZDBmMzI1`

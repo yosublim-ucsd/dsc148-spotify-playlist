@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: KV Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,954 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,963 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 5 | [lately](https://open.spotify.com/track/3YnTdXRTanguQKUxkPwgC7) | [sxber](https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2) | [lately](https://open.spotify.com/album/2E8kbBu4PvlhK6eABA7hzf) | 2:09 |
 | 6 | [Mahimbing](https://open.spotify.com/track/1BIWy84Qpw2TTXUxTeNEQH) | [JESTUR](https://open.spotify.com/artist/4MK8tlJZVaE5mIsrnkjzSY) | [Mahimbing](https://open.spotify.com/album/0aPDajq1yOzGLYMgz3e952) | 3:55 |
 | 7 | [Pintig](https://open.spotify.com/track/5KJy2qiuLZiQgN1KgnIf2a) | [647](https://open.spotify.com/artist/5D984UAqizvsWgAaUgx10v) | [Pintig](https://open.spotify.com/album/4bF21PJHU2mD1Xtj0F7x6J) | 4:09 |
-| 8 | [Day 1s](https://open.spotify.com/track/1wDDJksKr54KrHc3gftNja) | [Jo$h](https://open.spotify.com/artist/2WLHdtgNOvCzFd47N5bkiP), [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV) | [Day 1s](https://open.spotify.com/album/5Ljh9MlaIgxdbEnMVWdqtj) | 3:28 |
+| 8 | [Day 1's](https://open.spotify.com/track/1wDDJksKr54KrHc3gftNja) | [Jo$h](https://open.spotify.com/artist/2WLHdtgNOvCzFd47N5bkiP), [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV) | [Day 1's](https://open.spotify.com/album/5Ljh9MlaIgxdbEnMVWdqtj) | 3:28 |
 | 9 | [Friendly](https://open.spotify.com/track/3xemdEY0o53WtIVemghnBl) | [Paul Arcega](https://open.spotify.com/artist/7egkoyQeJv0rQkkCVl35ME) | [Friendly](https://open.spotify.com/album/3ccLvFCoKwWa8p2imKHW4T) | 4:40 |
 | 10 | [PA TRY NGA](https://open.spotify.com/track/7krb49Rlsp4WHkcZZgo1Pm) | [VID](https://open.spotify.com/artist/5mtu6plEC7sUWGo68fi6q1) | [PA TRY NGA](https://open.spotify.com/album/5GQz8SRfDTQ8EenAr0kll4) | 2:47 |
 | 11 | [Call You In Heaven](https://open.spotify.com/track/0VTuxQ54M4gDNk2TfY0mQt) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Call You In Heaven](https://open.spotify.com/album/1xPWP62NnQSHmttUMgfPuo) | 5:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Kung Ikaw Ay Lalayo](https://open.spotify.com/track/43lnLp5LtC84sIRisV4GLL) | [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Kung Ikaw Ay Lalayo](https://open.spotify.com/album/3UFZrvE59KTO3odZnBGRmQ) | 3:50 |
 | 75 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 |
 
-Snapshot ID: `MCxiY2VkZmM0NDBjZmE1ZDE4MmZkOTVkNWM0YTY1MmVlMmE5MGJiZTA0`
+Snapshot ID: `MCw2ZmQ1YjY5OTQ3Nzg1M2JkZjRlZTQ2YWU5NjAwYzNkNWM5ODllNTMx`

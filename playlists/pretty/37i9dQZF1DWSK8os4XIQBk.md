@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,774 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,927 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Taking It Easy](https://open.spotify.com/track/4cymUHqMBOwxcI6HuaI4i0) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Throw Down \(Deluxe Remastered\)](https://open.spotify.com/album/0DOWHM6JBa9U0agPsDQDXY) | 2:49 |
 | 75 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 
-Snapshot ID: `MCxhNDI3NmU2NmUyNzE2MTM1ZDU0NDE5OWU2MGMyMTJjODljNDhkNGYz`
+Snapshot ID: `MCwzMDA5ZTU4OTdjODliYTIxM2E3ODVlODJhOWYwMzdjZjU5MDRkMTlh`

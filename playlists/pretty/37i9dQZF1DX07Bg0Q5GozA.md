@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Poolside
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,965 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,006 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 10 | [To be honest \- SG Lewis Remix](https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [To be honest \(SG Lewis Remix\)](https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en) | 3:58 |
 | 11 | [Immer](https://open.spotify.com/track/6Ryc8vAXGzR2yGcl7jBZAr) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Deckert](https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd), [Sargland](https://open.spotify.com/artist/5nV7I7kKE57Z6lXvKbu15u) | [Immer](https://open.spotify.com/album/2DcExJfAW7s0P6fS3XexAu) | 3:19 |
 | 12 | [Rising](https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Rising](https://open.spotify.com/album/7lvWOiTh8oMtOldgbB4EWi) | 4:13 |
-| 13 | [Seeking Angels \- Radio Edit](https://open.spotify.com/track/5EYQoWdYzVdJNH9pjskz72) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Seeking Angels](https://open.spotify.com/album/1T0uJmNC4M9rYkU7I7f7dC) | 3:16 |
+| 13 | [Seeking Angels \- Radio Edit](https://open.spotify.com/track/5EYQoWdYzVdJNH9pjskz72) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Seeking Angels](https://open.spotify.com/album/1T0uJmNC4M9rYkU7I7f7dC) | 3:19 |
 | 14 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 15 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 16 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [You Knew \- Edit](https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 2:55 |
 | 75 | [LOSER](https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [LOSER](https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA) | 3:44 |
 
-Snapshot ID: `MCwzNTJjNjM4NWI4ZjkxOGNhMmYxNjQwOGY3NWYwNzk5M2ZmMmRjOTQ3`
+Snapshot ID: `MCxlZWNkY2JmZTIyZjI1MjQwN2MzZmM5MWM1Y2U3MzVlODhmNWZkY2I1`

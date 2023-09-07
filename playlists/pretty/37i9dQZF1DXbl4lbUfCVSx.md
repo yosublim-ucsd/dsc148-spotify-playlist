@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,912 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,939 likes - 40 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu me manques](https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP) | [Harry Diboula](https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn) | [Entre vous et moi \(32 Hits\)](https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB) | 4:27 |
 | 2 | [Kompa SHATTA](https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3) | [Ken'zii Bwa](https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn) | [Kompa SHATTA](https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm) | 1:54 |
-| 3 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
-| 4 | [\#TPM](https://open.spotify.com/track/2nC05mJIPSnHLiSX1xzIBX) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [\#Esolf](https://open.spotify.com/album/7EDHii05sIu37py58x4F76) | 2:56 |
+| 3 | [\#TPM](https://open.spotify.com/track/2nC05mJIPSnHLiSX1xzIBX) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [\#Esolf](https://open.spotify.com/album/7EDHii05sIu37py58x4F76) | 2:56 |
+| 4 | [Avé'w](https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01) | [Daan Junior](https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs) | [Avé'w](https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf) | 5:35 |
 | 5 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
 | 6 | [Kanpe devanm](https://open.spotify.com/track/5ZfBDA0XCxmxwClnn4BaCZ) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Kanpe devanm \(feat\. Tony Mix\)](https://open.spotify.com/album/0nt3MwxJVZMRPZh2sOpn7u) | 5:03 |
 | 7 | [Incroyable](https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 6:12 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 37 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 | 38 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 |
 | 39 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 |
-| 40 | [Pa kite'm \- Djazz Dj'aa](https://open.spotify.com/track/6QpPY9WVrobfQM7pU4TdFB) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Olivier Duret](https://open.spotify.com/artist/4Lo1kP4n9FjjG8bDmOl2zB) | [Pa kite'm \(Djazz Dj'aa\)](https://open.spotify.com/album/7lmLIlwmKZfUmPFxWZY3kc) | 5:35 |
+| 40 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
 
-Snapshot ID: `MCxiMjNjZDA0ZDU1MTY3MDRjZWNmZTQyZDMyYTMyNGZlYWZlNTM4Njc0`
+Snapshot ID: `MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk`

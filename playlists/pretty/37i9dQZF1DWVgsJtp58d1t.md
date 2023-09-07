@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H?si=25458d952b9d4615">Ruger</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,674 likes - 120 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,696 likes - 120 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 |
 | 120 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 
-Snapshot ID: `MCw3NWYxMmY3YmE0NGMwMjcxZDYyNTQ0MTU1YTc3OGY2MTJlYzJjYzU5`
+Snapshot ID: `MCw3ZDgyZjhmZGE4YmM1ODMyNjc3YWQ3NDJiYzVlMDI1NDFkYTIwZDNi`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTU0Mjc5YWZjMTNmMjhhYzhmMjczMmYwNjBlZGIyOWNiZjY4OTIy",
+  "snapshot_id": "MCwyZjM2MjcwZjc0ODBhNTIxODg3ZjY3MjY3Zjc0ZjM1ZWQ4Mjk5M2Mw",
   "tracks": [
     {
       "added_at": "2021-03-04 17:57:34",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2021-03-04 17:57:34",
       "album": {
-        "name": "Money Sucks, Friends Rule",
-        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
-    },
-    {
-      "added_at": "2021-03-04 17:57:34",
-      "album": {
         "name": "God Is A Dancer (with Mabel)",
         "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 168125,
       "name": "God Is A Dancer (with Mabel)",
       "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
+    },
+    {
+      "added_at": "2021-03-04 17:57:34",
+      "album": {
+        "name": "Money Sucks, Friends Rule",
+        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
     },
     {
       "added_at": "2021-03-04 17:57:34",

@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Aqua",
-  "num_followers": 3436572,
+  "num_followers": 3436864,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmRjZTAzMzYyNTE2YjRhYjA4OGU0NzY0OWY0ZTgzZTFjZmY1ZjEz",
+  "snapshot_id": "MCwyNjg3N2M2MzUzYjdjYWYyZWI1MTBkYTUyMmYyMzVkYWZiZjYwZTQw",
   "tracks": [
     {
       "added_at": "2023-09-03 13:51:50",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Say Yes To Heaven (Anyma Remix)",
-        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 222076,
-      "name": "Say Yes To Heaven - Anyma Remix",
-      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Lose You (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 156404,
       "name": "Lose You - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "Say Yes To Heaven (Anyma Remix)",
+        "url": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 222076,
+      "name": "Say Yes To Heaven - Anyma Remix",
+      "url": "https://open.spotify.com/track/6YzWNNWyxVGC0eczvuUtmF"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 117026,
-      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Shivers (Dillon Francis Remix)",
         "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 127766,
       "name": "Shivers (Dillon Francis Remix) [Main Mix]",
       "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 117026,
+      "name": "Players - DJ Smallz 732 - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -923,22 +903,22 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Eyes Closed (Lost Frequencies Remix)",
-        "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 179529,
-      "name": "Eyes Closed - Lost Frequencies Remix",
-      "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -999,6 +979,26 @@
       "duration_ms": 238032,
       "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
       "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "Eyes Closed (Lost Frequencies Remix)",
+        "url": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 179529,
+      "name": "Eyes Closed - Lost Frequencies Remix",
+      "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Hallucination (Navos Remix)",
-        "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "Hallucination - Navos Remix",
-      "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
-    },
-    {
-      "added_at": "2023-09-03 13:51:50",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2023-09-03 13:51:50",
+      "album": {
+        "name": "Hallucination (Navos Remix)",
+        "url": "https://open.spotify.com/album/0WKL2d7faG0lR3HLJuvT6v"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Hallucination - Navos Remix",
+      "url": "https://open.spotify.com/track/5VrfQqPD5hymxVQzd5pkkw"
     },
     {
       "added_at": "2023-09-03 13:51:50",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2023-09-03 13:51:50",
       "album": {
-        "name": "Made You Look (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
+        "name": "golden hour (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/5YfRV1SVXDVwNNf2dmJRyf"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Made You Look - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
+      "duration_ms": 154761,
+      "name": "golden hour - R3HAB Remix",
+      "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
     }
   ],
   "unique_name": "Pop Remix",

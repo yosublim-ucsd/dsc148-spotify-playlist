@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5275960,
+  "num_followers": 5276078,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGVhNTUxYmM1YWY1MDMyODJkOTRhNTEyOGQyZTIyZWUzMmUwMDkw",
+  "snapshot_id": "MCw0MWU2NWQ4Zjg5Y2E3Zjc0ZjJhNTVmOGU3ZjI0OTc0ODIxNDE3ZTlj",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "That's Christmas To Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Mary, Did You Know?",
-      "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 153240,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "That's Christmas To Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Run Rudolph Run",
-      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 232213,
-      "name": "Shake Up Christmas",
-      "url": "https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL"
+      "duration_ms": 255306,
+      "name": "Merry Christmas, Happy Holidays",
+      "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 255306,
-      "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
+      "duration_ms": 232213,
+      "name": "Shake Up Christmas",
+      "url": "https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Learning to Crawl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 220426,
-      "name": "2000 Miles - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+      "duration_ms": 219293,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Learning to Crawl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
         }
       ],
-      "duration_ms": 219293,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1sFWEpf1aPYN576LS1aa4Y"
+      "duration_ms": 220426,
+      "name": "2000 Miles - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "I Wish It Could Be Christmas Everyday",
-        "url": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
-      },
-      "artists": [
-        {
-          "name": "Wizzard",
-          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "I Wish It Could Be Christmas Everyday",
-      "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Christmas Classics",
         "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "I Wish It Could Be Christmas Everyday",
+        "url": "https://open.spotify.com/album/1xYecZKOZdxIuTQN4AuAwB"
+      },
+      "artists": [
+        {
+          "name": "Wizzard",
+          "url": "https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "I Wish It Could Be Christmas Everyday",
+      "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
         "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 199546,
       "name": "Bring Me Love",
       "url": "https://open.spotify.com/track/5MknXpAUgINT11lxoobaJK"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2022-12-22 09:55:37",

@@ -1,14 +1,14 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain](/playlists/plain/37i9dQZF1DWVf5yEjHHamn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVf5yEjHHamn)
 
-### [Flashback : Tubes de l'été](https://open.spotify.com/playlist/37i9dQZF1DWVf5yEjHHamn)
+### [Flashback tubes de l'été](https://open.spotify.com/playlist/37i9dQZF1DWVf5yEjHHamn)
 
 > Replongez dans les plus grands tubes d'été
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,106 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,132 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/1MtUq6Wp1eQ8PC6BbPCj8P) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/1Tz3Ai1guEFf4hV3d9i17K) | 3:17 |
+| 1 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 |
 | 2 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 3 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 4 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 | 49 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
 | 50 | [Alane \- Radio Version](https://open.spotify.com/track/2wkoeulxiywQoKtniBbTHJ) | [Wes](https://open.spotify.com/artist/3tXUeiWOSod3mSQ2lOautf) | [Welenga](https://open.spotify.com/album/3Y74humHgxWLzOJfEbLsI3) | 3:40 |
 
-Snapshot ID: `MCwyNTczMjc0NDM0M2NiZmQxMzg5N2RhNGFmOWE4NTFhYjYzYTE1N2Nm`
+Snapshot ID: `MCw2YzlmZmEwNDdiODgzMDhiYjBlMTU0OGMwMmM5ZjA0YmY2NDA5Y2Vm`

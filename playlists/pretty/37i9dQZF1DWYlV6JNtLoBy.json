@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 2544,
+  "num_followers": 2553,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjA5Y2IwZDhkMWNlODg2MzcxNDVjMzA1NTU0MjEzNjY3MWE2YzFk",
+  "snapshot_id": "MCwyNWUxZGNkNTE3NzcxNjcyY2QxMDRlOTk0YzM4OThlZWM0ZDBlMTA3",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -661,10 +661,10 @@
       "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
     },
     {
-      "added_at": "2023-08-25 00:01:00",
+      "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Sweetie Sweetie",
-        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
+        "name": "Uko Single?",
+        "url": "https://open.spotify.com/album/5ub2GKGHFCglwgxkpiq3v0"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
         }
       ],
-      "duration_ms": 316473,
-      "name": "Sweetie Sweetie",
-      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+      "duration_ms": 224189,
+      "name": "Uko Single?",
+      "url": "https://open.spotify.com/track/1LYgA4jCtKJQ3sx8WjMIcz"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -809,10 +809,10 @@
       "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
     },
     {
-      "added_at": "2023-09-01 00:01:00",
+      "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Uko Single?",
-        "url": "https://open.spotify.com/album/5ub2GKGHFCglwgxkpiq3v0"
+        "name": "Sweetie Sweetie",
+        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
         }
       ],
-      "duration_ms": 224189,
-      "name": "Uko Single?",
-      "url": "https://open.spotify.com/track/1LYgA4jCtKJQ3sx8WjMIcz"
+      "duration_ms": 316473,
+      "name": "Sweetie Sweetie",
+      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
     },
     {
       "added_at": "2023-08-25 00:01:00",

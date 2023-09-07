@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-150 songs - 8 hr 30 min
+151 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [digging for windows](https://open.spotify.com/track/1sdBPiPEKm2OHKybnx3wnA) | [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [digging for windows](https://open.spotify.com/album/0qSXfPoHz4ZfOz8ixOTSxX) | 3:31 | 2022-07-01 | 2022-07-06 |
 | [digging for windows](https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5) | [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [digging for windows](https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG) | 3:31 | 2022-07-01 |  |
 | [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Dirty](https://open.spotify.com/album/2O6i9surGnW91oOcoucyNI) | 3:28 | 2020-09-23 | 2022-11-14 |
-| [Divide](https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 4:17 | 2022-07-01 |  |
+| [Divide](https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 4:17 | 2022-07-01 | 2023-09-07 |
 | [Divide](https://open.spotify.com/track/27BkjyUcx9Q8fpcr09T8yy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe\)](https://open.spotify.com/album/00OObEWyVVmIF9Le5Ra5Yj) | 4:17 | 2020-08-19 | 2022-07-29 |
 | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY) | 3:38 | 2020-08-19 |  |
 | [Don't Wait \(ft\. Sam Carter\)](https://open.spotify.com/track/0qOyIp7uxZedcUIVp6BWmT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/6MiQ7JVsKlOBJFJzWQZ2Kz) | 3:16 | 2020-08-19 | 2022-07-29 |
@@ -94,6 +94,7 @@
 | [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 | 2022-07-01 | 2023-09-02 |
 | [National Anthem](https://open.spotify.com/track/17DPxC2PVZH80od1vFvW2t) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [National Anthem](https://open.spotify.com/album/7pqXY4C7TOgZPfaz9q4Kxt) | 2:28 | 2020-08-19 | 2022-07-29 |
 | [None Of The Above](https://open.spotify.com/track/0qochh4sUrYpilQZKTtutC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/3Ubxq3xl0xzgKTyetggqbm) | 3:34 | 2020-08-19 | 2022-07-27 |
+| [None Of The Above](https://open.spotify.com/track/20rgXJLz47hMoQUOP218ll) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:34 | 2023-06-23 |  |
 | [None Of The Above](https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 | 2022-07-01 | 2023-08-31 |
 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2021-03-19 |  |
 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 4:40 | 2022-11-04 |  |

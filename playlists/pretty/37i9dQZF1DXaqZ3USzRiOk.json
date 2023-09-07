@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 152167,
+  "num_followers": 152355,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2ViM2QxNWJkNDk1M2FlY2QzYmUyNDAwYjQ1MTUwMWNjMWYwMTc3",
+  "snapshot_id": "MCwzMDdjZTYxYWE1MmZiYjU2YzUxN2NjZTdjYmZlNDQzNGQzZmQ0Y2Fk",
   "tracks": [
     {
       "added_at": "2023-06-16 16:57:29",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
-      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 175400,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
+      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 169769,
-      "name": "Una Lagrima y Un Recuerdo",
-      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
+      "duration_ms": 174360,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Un Mexicano en la M\u00e9xico",
-        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 174360,
-      "name": "La Ley del Monte",
-      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
+      "duration_ms": 169769,
+      "name": "Una Lagrima y Un Recuerdo",
+      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Los Dos Amigos",
-        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Prenda Querida",
-      "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Cruz De Madera",
         "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Prenda Querida",
+      "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 160392,
-      "name": "Que Chulos Ojos",
-      "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
         "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 231418,
       "name": "Cucurrucucu Paloma",
       "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 160392,
+      "name": "Que Chulos Ojos",
+      "url": "https://open.spotify.com/track/2dl2KGfCQ2cleNVXlwFSdh"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "20 Exitos de Ley",
-        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 164337,
-      "name": "Son las Dos de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Amo del Imperio",
         "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 242013,
       "name": "Si Llego a Viejo",
       "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "20 Exitos de Ley",
+        "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 164337,
+      "name": "Son las Dos de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
+        "name": "El Campesino y el Sol",
+        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "El Campesino Y El Sol",
+      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
       },
@@ -1931,22 +1947,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "El Campesino y el Sol",
-        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "El Campesino Y El Sol",
-      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
-      "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "Un Beso para el Cielo",
         "url": "https://open.spotify.com/album/0CyTLGAbPLjzSMNIRSUY4a"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 185273,
       "name": "Un Beso para el Cielo",
       "url": "https://open.spotify.com/track/0JGB3vSKZp5llpdL1oJcy1"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
+      "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
     },
     {
       "added_at": "2023-06-16 16:57:29",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-06-16 16:57:29",
       "album": {
-        "name": "Ojitos Verdes",
-        "url": "https://open.spotify.com/album/12NMZGKX68Z4Y0AcrbNiRi"
-      },
-      "artists": [
-        {
-          "name": "Dueto Las Palomas",
-          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/14VZC2EXvzZxRKOIFmo35b"
-    },
-    {
-      "added_at": "2023-06-16 16:57:29",
-      "album": {
         "name": "El Triunfador",
         "url": "https://open.spotify.com/album/5ZJGizTYkU56jpwZpn89T6"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 202071,
       "name": "Nom\u00e1s Por Tu Culpa",
       "url": "https://open.spotify.com/track/17mpNHcEbIn0IxNoQL8FLS"
+    },
+    {
+      "added_at": "2023-06-16 16:57:29",
+      "album": {
+        "name": "Ojitos Verdes",
+        "url": "https://open.spotify.com/album/12NMZGKX68Z4Y0AcrbNiRi"
+      },
+      "artists": [
+        {
+          "name": "Dueto Las Palomas",
+          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/14VZC2EXvzZxRKOIFmo35b"
     },
     {
       "added_at": "2023-06-16 16:57:29",

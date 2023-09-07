@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: KALMA
 
-185 songs - 11 hr 17 min
+188 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Crop](https://open.spotify.com/track/5sRsTvvSrYOoWY0xnJWEaV) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [Crop](https://open.spotify.com/album/13jE6JkQjHDJTwACoWmZkn) | 3:08 | 2023-08-29 |  |
 | [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-07-27 | 2023-08-14 |
 | [DAY DREAM BEAT](https://open.spotify.com/track/3RTwBdZ4AbiIwiUwcblBCs) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [純異性交遊](https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3) | 3:58 | 2023-07-27 |  |
+| [Dreamy Soul Of Language](https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Dreamy Soul Of Language](https://open.spotify.com/album/28BP4mS8hNnYdC6qtzlI1O) | 3:23 | 2023-09-05 |  |
 | [Even if the world hates me \(2023 ver.\)](https://open.spotify.com/track/5OtLyHGENq0YNpo6jNSo8d) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Even if the world hates me \(2023 ver.\)](https://open.spotify.com/album/3Mw3CdZ9Zt838W2gQ8yhqz) | 4:32 | 2023-07-27 | 2023-08-30 |
 | [FIVE](https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [アウトドア](https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE) | 3:32 | 2023-07-27 |  |
 | [FOREVER YOUNG](https://open.spotify.com/track/1G1sygdH9BiwOem76Xzii6) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Good Luck](https://open.spotify.com/album/1nRHnUTxgaC8wBPX7J6lCI) | 4:08 | 2023-08-22 | 2023-09-06 |
@@ -54,7 +55,8 @@
 | [kajitsukyoso](https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [kajitsukyoso](https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5) | 4:17 | 2023-07-27 | 2023-08-16 |
 | [Kiminomachimade](https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kiminomachimade](https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7) | 3:18 | 2023-07-27 |  |
 | [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-07-27 |  |
-| [madatripper](https://open.spotify.com/track/1Hh3QSf7fPLVuky3D9BaMa) | [CHUCK TAYLORS](https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee) | [madatripper](https://open.spotify.com/album/4n25Hsyrj3W8IqiwaeSRql) | 4:26 | 2023-09-05 |  |
+| [madatripper](https://open.spotify.com/track/1Hh3QSf7fPLVuky3D9BaMa) | [CHUCK TAYLORS](https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee) | [madatripper](https://open.spotify.com/album/4n25Hsyrj3W8IqiwaeSRql) | 4:26 | 2023-09-05 | 2023-09-07 |
+| [Madatripper](https://open.spotify.com/track/6M8rQwcw2cejAJfurs2Nbx) | [CHUCK TAYLORS](https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee) | [Madatripper](https://open.spotify.com/album/0HoXHpuT8PGPTlAo2sRuPu) | 4:26 | 2023-09-05 |  |
 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 | 2023-07-27 | 2023-08-03 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-05 |  |
 | [Musica](https://open.spotify.com/track/1iaDqtkMhnPYa8QDS6KFOy) | [Brandy Senki](https://open.spotify.com/artist/2Y1i6bxyYpz8SaVBfWZHeT) | [Jinrui metsubou Wonderland](https://open.spotify.com/album/1lyPHH5S3dpgLoAUtkgHSk) | 3:01 | 2023-08-08 | 2023-08-16 |
@@ -62,7 +64,8 @@
 | [MUSICA](https://open.spotify.com/track/0QxcEG4UlDINiBqHp5rVTa) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:08 | 2023-07-27 | 2023-08-11 |
 | [Musica](https://open.spotify.com/track/56RYbfRvG2QVbTwQ62UfyI) | [ブランデー戦記](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [人類滅亡ワンダーランド](https://open.spotify.com/album/5e55sI0bkUXXVudsy8GZFK) | 3:01 | 2023-08-08 | 2023-08-10 |
 | [NARIYUKI\-MAKASE](https://open.spotify.com/track/6IlwrxsEdVVWO4QRu91EBY) | [OKOJO](https://open.spotify.com/artist/1RTVAEXT1GPXtN6MQjiaXU) | [NARIYUKI\-MAKASE](https://open.spotify.com/album/1aQebxLOZ0GmpPflLzGVv4) | 3:01 | 2023-08-08 | 2023-08-16 |
-| [never](https://open.spotify.com/track/6qMhk6Xj8nR3BZk1OdBEyx) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [never](https://open.spotify.com/album/2LQaHH45sZDy0p3GudOjgU) | 4:21 | 2023-09-05 |  |
+| [never](https://open.spotify.com/track/1B2Lt7VQ5aNkbTLuViieCf) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [あの子の居場所](https://open.spotify.com/album/1SPApkvSiWPYoR9RtsEbdW) | 4:21 | 2023-09-05 |  |
+| [never](https://open.spotify.com/track/6qMhk6Xj8nR3BZk1OdBEyx) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [never](https://open.spotify.com/album/2LQaHH45sZDy0p3GudOjgU) | 4:21 | 2023-09-05 | 2023-09-07 |
 | [nisenni](https://open.spotify.com/track/05tSeuJqYJOsM2OazOVZ4i) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [GAKUSEIGAI YORI BASSUI](https://open.spotify.com/album/30z6NiCsJomQGqRBC4CDnj) | 4:49 | 2023-08-08 | 2023-08-16 |
 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 | 2023-07-27 |  |
 | [OUR\-AWA\-HOUR!!](https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [OUR\-AWA\-HOUR!!](https://open.spotify.com/album/7baaliEPecZK25JCO29ze3) | 2:29 | 2023-08-01 |  |
@@ -152,7 +155,7 @@
 | [夏恋センセイション](https://open.spotify.com/track/4jWIn8qaXFAIBssMhJQMzu) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [夏恋センセイション](https://open.spotify.com/album/6N9JXrnY5nuf74KK25a4CN) | 2:16 | 2023-07-27 |  |
 | [夜行列車](https://open.spotify.com/track/0DsAzRg1nlwaHsk4MzRQfd) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [夜行列車](https://open.spotify.com/album/3esqVMiQ0ZozcqBZbhnkdO) | 3:47 | 2023-08-29 | 2023-08-31 |
 | [夜行列車](https://open.spotify.com/track/4YlPOV9LxsRgoAJhGf7Kh5) | [RIP DISHONOR](https://open.spotify.com/artist/4aDGKnZOq8zStrKXfR3pWu) | [melt.](https://open.spotify.com/album/0dTDiz1cvmBfZVCWWQxph3) | 4:27 | 2023-08-10 | 2023-08-16 |
-| [夢見るコトダマ](https://open.spotify.com/track/2MKluK2KfxYohBpYNmZz3M) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [夢見るコトダマ](https://open.spotify.com/album/3TPwiVWELo9ZZjnBAzw6oH) | 3:23 | 2023-09-05 |  |
+| [夢見るコトダマ](https://open.spotify.com/track/2MKluK2KfxYohBpYNmZz3M) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [夢見るコトダマ](https://open.spotify.com/album/3TPwiVWELo9ZZjnBAzw6oH) | 3:23 | 2023-09-05 | 2023-09-07 |
 | [季節すら追い抜いて](https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [季節すら追い抜いて](https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f) | 3:13 | 2023-07-27 | 2023-09-06 |
 | [少年讃歌](https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [少年讃歌](https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne) | 3:42 | 2023-08-17 |  |
 | [幻陽](https://open.spotify.com/track/7DSNoKeR28MdcU1kSGwjz1) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [幻陽](https://open.spotify.com/album/4iTDgRLajqImZ6lnImUaD3) | 3:57 | 2023-08-08 | 2023-08-10 |

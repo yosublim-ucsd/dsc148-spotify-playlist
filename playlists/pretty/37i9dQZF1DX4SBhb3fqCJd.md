@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > The pulse of R&B music today\. Cover: Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,255,706 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,256,063 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 49 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 |
 | 50 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 |
 
-Snapshot ID: `MCxjMmU4YmExYWU4MzEwMWI2MTIxYzRlMmU3YTNiNzJjMTRiMGJmYTA4`
+Snapshot ID: `MCxjZmYwZjI0OTNmMzRlYjg2NDZlODViNTc4NDBlNWMwMzVjMjkxNjNk`

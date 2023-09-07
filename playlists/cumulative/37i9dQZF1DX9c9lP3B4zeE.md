@@ -4,7 +4,7 @@
 
 > California dreaming\. Listen to the soundtrack that shaped a generation\. 🧡
 
-146 songs - 8 hr 51 min
+147 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Waitin' on Ya](https://open.spotify.com/track/2LOm31eIgFM0DaVUfZjKeg) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 5:44 | 2023-03-24 | 2023-04-20 |
 | [Walnut Tree](https://open.spotify.com/track/2772z1nmiTU6hVs4kjn2uq) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [The Best Of Keane \(Deluxe Edition\)](https://open.spotify.com/album/6VYlEGQqJBMJR4vksRpM1d) | 3:37 | 2023-08-10 |  |
 | [WATERBOYZ \(with JID & J\. Cole\)](https://open.spotify.com/track/3NdC4IcyHzxmpISC1lH8u9) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 5:03 | 2023-04-19 | 2023-08-10 |
-| [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 | 2023-08-09 |  |
+| [We Used To Be Friends](https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:19 | 2023-08-10 |  |
+| [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 | 2023-08-09 | 2023-09-07 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2023-04-19 | 2023-08-10 |
 | [WFM](https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:16 | 2023-03-24 | 2023-04-20 |
 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 | 2023-04-19 | 2023-08-10 |

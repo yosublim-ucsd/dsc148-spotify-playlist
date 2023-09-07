@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Stray Kids
 
-723 songs - 1 day 15 hr 33 min
+725 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-04 | 2022-11-23 |
 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 | 2022-10-04 | 2022-12-07 |
 | [64](https://open.spotify.com/track/3RscSDB2uUc7cqjZZSChkg) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [64](https://open.spotify.com/album/40A0DSsLCcNDjQPPvlIeiT) | 2:40 | 2023-03-20 | 2023-05-10 |
+| [7HEAVEN](https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [FESTA](https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x) | 3:28 | 2023-09-06 |  |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-18 | 2022-11-16 |
 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 | 2022-08-25 | 2022-12-16 |
 | [A Kind Of Magic \- Coke Studio Session](https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [A Kind Of Magic \(Coke Studio Session\)](https://open.spotify.com/album/47oy52LyIbbzC0qLKQH16Z) | 2:49 | 2022-06-07 | 2022-07-29 |
@@ -313,6 +314,7 @@
 | [I do! Do you?](https://open.spotify.com/track/7wFeVMTlgOu910OH9RctRI) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [I do! Do you?](https://open.spotify.com/album/3UZfvVHePm0ROe6EcJEwMl) | 3:34 | 2023-02-21 | 2023-06-30 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-10-18 | 2022-11-11 |
 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 | 2022-08-09 | 2022-09-26 |
+| [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-06 |  |
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-28 | 2022-08-31 |
 | [I LOVE U](https://open.spotify.com/track/5C4LYdOg6MoaRcuPFnu7CC) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/7GzeKow6a3UwRNvJESxl3m) | 2:56 | 2022-07-05 | 2022-07-29 |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-19 | 2022-06-29 |

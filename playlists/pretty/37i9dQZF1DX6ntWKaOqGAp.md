@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 羊文学
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,026 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,269 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 86 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
 | 87 | [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 |
 | 88 | [Parasol](https://open.spotify.com/track/3exFdWjEOzH8fOq1U2c8EI) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [gravity](https://open.spotify.com/album/7HDUHwXlqdvOYYtgAqx54M) | 2:47 |
-| 89 | [夢見るコトダマ](https://open.spotify.com/track/2MKluK2KfxYohBpYNmZz3M) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [夢見るコトダマ](https://open.spotify.com/album/3TPwiVWELo9ZZjnBAzw6oH) | 3:23 |
+| 89 | [Dreamy Soul Of Language](https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Dreamy Soul Of Language](https://open.spotify.com/album/28BP4mS8hNnYdC6qtzlI1O) | 3:23 |
 | 90 | [ゴールド・ディガーズ](https://open.spotify.com/track/7tI6nkmbkKzFNFrsm2U7Ob) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [ゴールド・ディガーズ](https://open.spotify.com/album/16fqAl0jauDkLOqCKgPPtZ) | 3:20 |
 | 91 | [両想い](https://open.spotify.com/track/3zw6TA1Fn8A5rVm1DlSS8I) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [両想い](https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad) | 3:36 |
 | 92 | [climax](https://open.spotify.com/track/4ozZzsM0g9xljF5XoNQXiQ) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [climax](https://open.spotify.com/album/4LoDUYeIMIXPhx745L7ICE) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [YOUTH OF EDGE](https://open.spotify.com/track/3oHj3opkJTEfywxvCqQuUM) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [YOUTH OF EDGE](https://open.spotify.com/album/0a7tm3zCW2yFRfdTjJ78Ec) | 3:49 |
 | 100 | [おもいつくかぎりのすべて](https://open.spotify.com/track/01EbADTLRUtT9qvfmSXxan) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [おもいつくかぎりのすべて](https://open.spotify.com/album/6H4nCo7arFfNNEDATsdMD2) | 4:36 |
 
-Snapshot ID: `MCxmNjZiOWJjYzMxMGUxNThjOTNhZTBkNjlhZTNkNDM4OGMzM2YyNDk1`
+Snapshot ID: `MCw0ZGQ2Mzk5MTdiN2FiN2ZjZjc3NTc2ODU1MDc0ZWMzZTg2NzIwOWQy`

@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 234933,
+  "num_followers": 235033,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmNlNTZhYTc5MWM2YjAyZTA5MmZmZWM2YjlkMzk3NzQ1YTU3ZGRi",
+  "snapshot_id": "MCxhMTg2NGVjNGExMDc3YmQwZmRhNjI5ODZmYzg1NGZmNDBkYjEzMGRl",
   "tracks": [
     {
       "added_at": "2023-09-04 13:55:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
-    },
-    {
-      "added_at": "2023-09-04 13:55:23",
-      "album": {
         "name": "No Fake Love (with YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 148996,
       "name": "No Fake Love (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
+    },
+    {
+      "added_at": "2023-09-04 13:55:23",
+      "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
-    },
-    {
-      "added_at": "2023-09-04 13:55:23",
-      "album": {
         "name": "Cheat (feat. JoJo)",
         "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
+    },
+    {
+      "added_at": "2023-09-04 13:55:23",
+      "album": {
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
       "artists": [
         {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
         }
       ],
-      "duration_ms": 229040,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Look My Way",
-        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Look My Way",
-      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
-    },
-    {
-      "added_at": "2023-09-04 13:55:23",
-      "album": {
         "name": "Intentional",
         "url": "https://open.spotify.com/album/1Q9sstiNguU45sRy8I8iXa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 194235,
       "name": "Intentional",
       "url": "https://open.spotify.com/track/38jhsyeLF4zr4P5I6dMeSq"
+    },
+    {
+      "added_at": "2023-09-04 13:55:23",
+      "album": {
+        "name": "Look My Way",
+        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Look My Way",
+      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Simp",
-        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Simp",
-      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
-    },
-    {
-      "added_at": "2023-09-04 13:55:23",
-      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
+    },
+    {
+      "added_at": "2023-09-04 13:55:23",
+      "album": {
+        "name": "Simp",
+        "url": "https://open.spotify.com/album/4P8lTjlKEMjE8uDkJBG2Tr"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Simp",
+      "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "added_at": "2023-09-04 13:55:23",
+      "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
         "url": "https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2023-09-04 13:55:23",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Save Me, Pt. 2",
-        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 151569,
-      "name": "Save Me, Pt. 2",
-      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
-    },
-    {
-      "added_at": "2023-09-04 13:55:23",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/35lLMH1ugTDYOJHQYuQjM2"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 195976,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
+    },
+    {
+      "added_at": "2023-09-04 13:55:23",
+      "album": {
+        "name": "Save Me, Pt. 2",
+        "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 151569,
+      "name": "Save Me, Pt. 2",
+      "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -1559,22 +1559,18 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
       },
       "artists": [
         {
-          "name": "Kim Petite",
-          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
-        },
-        {
-          "name": "Eurosoundz",
-          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 179954,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
+      "duration_ms": 178226,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2MZHL3LurNRCqORyOMypja"
       },
       "artists": [
         {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+          "name": "Kim Petite",
+          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
+        },
+        {
+          "name": "Eurosoundz",
+          "url": "https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn"
         }
       ],
-      "duration_ms": 178226,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
+      "duration_ms": 179954,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/5pziO6WDRV9TY71Bj7Oq7C"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "feelings 4 u",
-        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
-      },
-      "artists": [
-        {
-          "name": "Colette Lush",
-          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
-        }
-      ],
-      "duration_ms": 144352,
-      "name": "feelings 4 u",
-      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
-    },
-    {
-      "added_at": "2023-09-04 13:55:23",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2023-09-04 13:55:23",
       "album": {
-        "name": "Cheetos",
-        "url": "https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM"
+        "name": "feelings 4 u",
+        "url": "https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe"
       },
       "artists": [
         {
-          "name": "Mael",
-          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
+          "name": "Colette Lush",
+          "url": "https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX"
         }
       ],
-      "duration_ms": 152727,
-      "name": "Cheetos",
-      "url": "https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz"
+      "duration_ms": 144352,
+      "name": "feelings 4 u",
+      "url": "https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W"
     },
     {
       "added_at": "2023-09-04 13:55:23",
@@ -1751,6 +1735,22 @@
       "duration_ms": 143903,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+    },
+    {
+      "added_at": "2023-09-04 13:55:23",
+      "album": {
+        "name": "Cheetos",
+        "url": "https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM"
+      },
+      "artists": [
+        {
+          "name": "Mael",
+          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Cheetos",
+      "url": "https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz"
     }
   ],
   "unique_name": "R&B Magic",

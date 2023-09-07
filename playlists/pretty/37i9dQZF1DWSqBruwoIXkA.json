@@ -1,12 +1,12 @@
 {
   "description": "Heartbreak is the national anthem, we sing it proudly! Cover: Rene\u00e9 Rapp",
-  "num_followers": 1599262,
+  "num_followers": 1600207,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjIzNzViMzBiMWI2OGQ0ZWViNmRiNjFiODc0Mzk4YmUxY2RmNmFh",
+  "snapshot_id": "MCw3ODgzMDk0MjUyNTJlZDM1Yzg1MmE4ZTBhYjQ1ZDMwZWU1MzRjNzE5",
   "tracks": [
     {
       "added_at": "2023-09-01 04:03:04",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "orange blood",
         "url": "https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "drunk text",
+        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 104408,
-      "name": "emails i can\u2019t send",
-      "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 245629,
-      "name": "I know it won't work",
-      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+      "duration_ms": 104408,
+      "name": "emails i can\u2019t send",
+      "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "lie",
-        "url": "https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 214044,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 172547,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/04zpnoSROKFTCfgkoPcZ5A"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "lie",
+        "url": "https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 214044,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Mountain With A View",
-      "url": "https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "this is what ____ feels like (Vol. 1-4)",
         "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 191830,
       "name": "this is what sadness feels like",
       "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Mountain With A View",
+      "url": "https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
-        "url": "https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 156626,
-      "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
-      "url": "https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 141060,
       "name": "Best Friend Breakup",
       "url": "https://open.spotify.com/track/79tOFjU8iFZn0pvsAfQ1DZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
+        "url": "https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 156626,
+      "name": "Everyone Who Falls In Love (Has Someone Else They\u2019re Thinking Of)",
+      "url": "https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1883,38 +1883,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 174406,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
         "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
       },
@@ -1927,6 +1895,38 @@
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 174406,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Guitar",
-      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 168461,
       "name": "Unlearn You",
       "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Guitar",
+      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0"
+        "name": "MUST BE NICE",
+        "url": "https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 183186,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF"
+      "duration_ms": 175916,
+      "name": "MUST BE NICE",
+      "url": "https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al"
     }
   ],
   "unique_name": "sad hour",

@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-364 songs - 23 hr 21 min
+365 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-06-29 | 2023-08-13 |
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-20 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-23 |  |
-| [Blue Moon](https://open.spotify.com/track/1SJEahRau4sLSZlPDl2bnr) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Blue Moon](https://open.spotify.com/album/50uJ5kjLlvCA5PlUTiUEir) | 4:34 | 2022-06-29 |  |
+| [Blue Moon](https://open.spotify.com/track/1SJEahRau4sLSZlPDl2bnr) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [Blue Moon](https://open.spotify.com/album/50uJ5kjLlvCA5PlUTiUEir) | 4:34 | 2022-06-29 | 2023-09-07 |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-19 |  |
 | [Blue Moonshine](https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Blue Moonshine](https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA) | 3:13 | 2023-08-11 |  |
 | [Blues for a Lost Love](https://open.spotify.com/track/5ZofcIkLEHUrLQh3TeTlji) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Blues for a Lost Love](https://open.spotify.com/album/1FhT1PEEuKf3ARcIujXGOL) | 2:46 | 2023-04-14 |  |
@@ -268,6 +268,7 @@
 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 | 2022-06-29 | 2023-06-11 |
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-02-02 |  |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-04-14 |  |
+| [Right Now Right Here](https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Your Laugh](https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL) | 3:27 | 2023-08-31 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-12 |  |
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 |  |
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-06 |  |
@@ -293,7 +294,7 @@
 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 | 2022-06-29 |  |
 | [Stardust](https://open.spotify.com/track/41qzCwPm0Myt0uJIarjl4p) | [Lisa Gordan Trio](https://open.spotify.com/artist/5as2rPZvgwaMW96pHHPDTW) | [Stardust](https://open.spotify.com/album/3zzFdi4zMi1OwjrOvg6Au7) | 6:24 | 2022-06-29 | 2023-05-08 |
 | [Stardust \- Remastered](https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 6:18 | 2022-06-29 | 2022-11-25 |
-| [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-13 |  |
+| [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-13 | 2023-09-07 |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-06-29 | 2023-01-20 |
 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 | 2022-06-29 |  |
 | [Strangest Sea](https://open.spotify.com/track/1uptgSNdSsDIVsdynJEoCe) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Strangest Sea](https://open.spotify.com/album/2KsZ2DjNxiSbfwWv49bHS9) | 3:34 | 2023-02-16 |  |
@@ -361,7 +362,7 @@
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-08 |  |
 | [Wrap Your Troubles In Dreams](https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Wrap Your Troubles In Dreams](https://open.spotify.com/album/5BMDLUvkvvkaxOVWKDnM7Q) | 2:49 | 2023-06-09 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/3rGH9xLvAP2R6445FaLVs8) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [You Are Too Beautiful](https://open.spotify.com/album/33NCFfEVLRuMZduy6wUiQA) | 3:18 | 2023-05-25 |  |
-| [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-29 | 2023-09-03 |
+| [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-29 |  |
 | [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-03-28 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2022-06-29 |  |
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2022-06-29 |  |

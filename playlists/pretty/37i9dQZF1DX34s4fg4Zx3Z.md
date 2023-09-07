@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,328 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,338 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 22 | [Từng Có Thời Yêu Người Như Thế Đó](https://open.spotify.com/track/4wRX6qBr2cdIx47SgTYxf0) | [Upin](https://open.spotify.com/artist/4sJaOI1bU42O4eApLm0xOD), [Củ Cải](https://open.spotify.com/artist/1Dsu1qosuhggqKT62FafSj) | [Từng Có Thời Yêu Người Như Thế Đó](https://open.spotify.com/album/6gIFIGdocNX8ncKPZFXV79) | 2:50 |
 | 23 | [Anh Chẳng Quan Tâm Em Nữa Rồi](https://open.spotify.com/track/1lctl2S32k72azI5Pd4T7R) | [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m), [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK) | [Anh Chẳng Quan Tâm Em Nữa Rồi](https://open.spotify.com/album/413MvADaoCHcscgo1EAjan) | 3:48 |
 | 24 | [Giờ Là Lúc Để Anh Nhận Ra](https://open.spotify.com/track/2VLBsQYTO0hjhzqzy9GYHB) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Giờ Là Lúc Để Anh Nhận Ra](https://open.spotify.com/album/6bxu9clXs7gvF0Lt8r8w4I) | 4:52 |
-| 25 | [Đối Diện Ngày Mất Em](https://open.spotify.com/track/3hxNcOgZqSXZ7LZhulieEo) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Đối Diện Ngày Mất Em](https://open.spotify.com/album/1rhTXYXBGRC3OaIKFWjzeN) | 6:50 |
+| 25 | [Đối Diện Ngày Mất Em](https://open.spotify.com/track/3hxNcOgZqSXZ7LZhulieEo) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Đối Diện Ngày Mất Em](https://open.spotify.com/album/1rhTXYXBGRC3OaIKFWjzeN) | 6:10 |
 | 26 | [Sau Những Lần Đau \- Remake](https://open.spotify.com/track/6DXlafxUhuXiRZah0yDP6t) | [Dũng](https://open.spotify.com/artist/7MmYt8AEBM64SmtswuUUEH), [fhung](https://open.spotify.com/artist/4YShTTdbTtAijqfto0IBWG) | [Sau Những Lần Đau \(Remake\)](https://open.spotify.com/album/58RkQJVMwNKPmBtUYXhd80) | 2:20 |
 | 27 | [Lại Gần Nữa](https://open.spotify.com/track/2Q8c5s63DrMlk1MOJ4Ksnw) | [Lynk Nguyen](https://open.spotify.com/artist/4NkJ2ST54TN8b1Mpp1d0Kh) | [Lại Gần Nữa](https://open.spotify.com/album/7mFY0GNAEzazICgEr1OmvP) | 2:09 |
 | 28 | [chạy theo em](https://open.spotify.com/track/03hRoo3FsmzG3X5FZpn0S8) | [Duniverse](https://open.spotify.com/artist/3h1HA6owjEkAHnIkMzYXoZ) | [chạy theo em](https://open.spotify.com/album/1NdIMRmI0TVUh3TgitAuzc) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Hạnh Phúc Của Một Tang Gia](https://open.spotify.com/track/02e7eP3dx2cdOVxFUO5tqd) | [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i), [Minionz](https://open.spotify.com/artist/4LnAxWwAvNG6m62sp3q0Pt) | [Hạnh Phúc Của Một Tang Gia](https://open.spotify.com/album/0fpOLnMOparhE97l1WUxyq) | 3:30 |
 | 100 | [Lovelyboy](https://open.spotify.com/track/17gjDrdge4XCwr3XGnykJu) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Lovelyboy](https://open.spotify.com/album/4xcw8Xlrbs2NA0o5hhrgBY) | 2:57 |
 
-Snapshot ID: `MCwyNGU0OTZkOTgzMWY5M2MyYWYwMDJjMTk0NzQ1ZTBhYTkxMDNhMjhk`
+Snapshot ID: `MCwwNjdmMDU2MmEwYmNmNzAyYjc2YTk1NDRmMWEyNTA4NWVjYjljZDlk`

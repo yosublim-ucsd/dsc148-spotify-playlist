@@ -41,7 +41,7 @@
     },
     {
       "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
+        "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
       "artists": [
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
@@ -1234,6 +1234,24 @@
     {
       "album": {
         "name": "Thirteen Tales From Urban Bohemia",
+        "url": "https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319970,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/4vJRdgiKKzF36ZqUH0ha6A"
+    },
+    {
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
         "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
       },
       "artists": [
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 319970,
       "name": "Godless",
       "url": "https://open.spotify.com/track/7zPyyV3kRtp9PWtPJJbNZ1"
@@ -3322,7 +3340,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 199960,
       "name": "We Used To Be Friends",
       "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"

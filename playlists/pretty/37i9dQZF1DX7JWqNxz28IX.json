@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 40213,
+  "num_followers": 40238,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzA1N2E4YmZhNzZiYmY1MTA4YTg0NjU1NzRkNmM1OWM4ZmM0ZTg3",
+  "snapshot_id": "MCxmOWJkMGY5MmEyNzljMGY1NmYxZWU5MDc1ZWE0YWIwMDJkZTg0NTAx",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Spazjo",
-        "url": "https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu"
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
       },
       "artists": [
         {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
         }
       ],
-      "duration_ms": 158307,
-      "name": "un*cielo*di*stelle",
-      "url": "https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL"
+      "duration_ms": 198857,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Amelie",
-        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
+        "name": "Spazjo",
+        "url": "https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu"
       },
       "artists": [
         {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
         }
       ],
-      "duration_ms": 198857,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
+      "duration_ms": 158307,
+      "name": "un*cielo*di*stelle",
+      "url": "https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI"
-      },
-      "artists": [
-        {
-          "name": "Milly>",
-          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "PROLOGO",
         "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
@@ -863,22 +847,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Torner\u00f2",
-        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Torner\u00f2",
-      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Hai fatto tardi",
         "url": "https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m"
       },
@@ -891,6 +859,22 @@
       "duration_ms": 172923,
       "name": "Hai fatto tardi",
       "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Torner\u00f2",
+        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Torner\u00f2",
+      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI"
+      },
+      "artists": [
+        {
+          "name": "Milly>",
+          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "nostalgia liquida",
         "url": "https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 172216,
-      "name": "Empatia",
-      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Acqua salata",
         "url": "https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 229175,
       "name": "Acqua salata",
       "url": "https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 172216,
+      "name": "Empatia",
+      "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 211500,
       "name": "Letto grande",
       "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "LOVE?",
-        "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
-      },
-      "artists": [
-        {
-          "name": "Cloud\u00ec",
-          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
-        },
-        {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Bombay Lemon",
-      "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 174720,
       "name": "DOVE SEI",
       "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "LOVE?",
+        "url": "https://open.spotify.com/album/0zNYn4shWIiTPfCporUCVm"
+      },
+      "artists": [
+        {
+          "name": "Cloud\u00ec",
+          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
+        },
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Bombay Lemon",
+      "url": "https://open.spotify.com/track/1ZdWAkytO762tfvevja8lG"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
-      },
-      "artists": [
-        {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglia",
-          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
-        }
-      ],
-      "duration_ms": 174814,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Rottami",
         "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 199053,
       "name": "Rottami",
       "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
+      },
+      "artists": [
+        {
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+        },
+        {
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+        }
+      ],
+      "duration_ms": 174814,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
     },
     {
       "added_at": "2023-06-29 22:01:00",

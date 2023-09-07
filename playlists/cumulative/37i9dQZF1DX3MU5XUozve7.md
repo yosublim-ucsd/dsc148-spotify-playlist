@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-652 songs - 1 day 8 hr 31 min
+653 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [American Attraction](https://open.spotify.com/track/0p8fUOBfWtGcaKGiD9drgJ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:56 | 2020-03-20\* | 2022-11-13 |
 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 | 2020-03-25 | 2022-06-29 |
 | [An Irish Pub song](https://open.spotify.com/track/2xETnGJqu4jCd0NVRfvXfy) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/1uV0UzpC2Sw6wY3uOPqx8t) | 3:22 | 2021-10-09 | 2021-10-10 |
-| [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 | 2022-07-26 |  |
+| [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 | 2022-07-26 | 2023-09-07 |
 | [Analog](https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Exile in Oblivion](https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j) | 2:55 | 2020-03-20\* | 2022-07-28 |
 | [Anaphylaxis](https://open.spotify.com/track/79OtBhIbY5HWLaYJGUtjV2) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Anaphylaxis](https://open.spotify.com/album/0Zh3meYIVyfe7zx2toSOwY) | 3:17 | 2020-06-12 | 2021-01-15 |
 | [Anarchist Wedding](https://open.spotify.com/track/55kEuymUAIg09tm6h2nAaE) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Anarchist Wedding](https://open.spotify.com/album/1ghjESs35sI4QD3UvJO2Do) | 1:37 | 2020-03-20\* | 2022-07-27 |
@@ -66,6 +66,7 @@
 | [Bathed In Light](https://open.spotify.com/track/5iuaBxnxs195wmC0OP0f1Z) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bathed In Light](https://open.spotify.com/album/0YytB8rSSLKDKBmhAZKOan) | 2:23 | 2020-03-30 | 2021-11-17 |
 | [Bayside](https://open.spotify.com/track/7brekJbApEyvHnNXkRhfNV) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 2:56 | 2020-03-22 | 2022-05-19 |
 | [Be Good](https://open.spotify.com/track/4g5Xzds1GLR8yvuGUGTmwF) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [Be Good](https://open.spotify.com/album/2yyLZ1fX8G4MBbtXdRlQm1) | 3:32 | 2020-03-20 | 2022-07-29 |
+| [Beat on the Brat \- 2016 Remaster](https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:31 | 2022-07-26 |  |
 | [Beat The Clock](https://open.spotify.com/track/31oMMeD8s69s4yd2qyWqgP) | [The Decline](https://open.spotify.com/artist/7MMcJHFoJYUjHIk9YwTufv) | [War](https://open.spotify.com/album/08OLOgWt7KUvEnaHF6KDQz) | 1:18 | 2020-04-18 | 2021-10-27 |
 | [Beat Your Heart Out](https://open.spotify.com/track/4daLV53Tvv0rD3FlWVt23m) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 2:49 | 2022-07-26 | 2023-05-08 |
 | [Beat Your Heart Out](https://open.spotify.com/track/4ut0TJ2w4uBoiIdX1uzVTB) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(Alternate Cover PA Version\)](https://open.spotify.com/album/1c4fH0GPGQJs4RxfmBLxia) | 2:49 | 2021-01-23 | 2022-07-23 |

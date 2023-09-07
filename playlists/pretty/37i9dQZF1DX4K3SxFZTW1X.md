@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 | 16 | [No Cap \(feat\. Yung Bans\)](https://open.spotify.com/track/31zngSQ2oL4nMYxWzhXyy7) | [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy), [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [Reese LaFlare](https://open.spotify.com/album/6lTrOFRPpdeUtFvxjTsgGU) | 2:01 |
 | 17 | [Couple Straps](https://open.spotify.com/track/4sUTWijG6R4wwDgzNRQDBa) | [RetcH](https://open.spotify.com/artist/4Jx84VBxI1tR2KGPNRFH9l) | [Lean & Neck](https://open.spotify.com/album/6Q5Sqba93rcA4QNY7oJbLo) | 3:27 |
 | 18 | [Internet Sensation](https://open.spotify.com/track/7FRkzDzvNJZKUivOTyAmdp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:05 |
-| 19 | [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 |
+| 19 | [Not a Drill](https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 3:44 |
 | 20 | [HIM](https://open.spotify.com/track/2oHt1kTlsZwQZNm9l9PROY) | [Luhgary](https://open.spotify.com/artist/4SlOYI222bVIym0CfYUME9) | [HIM](https://open.spotify.com/album/1XHl4zjijotOX2QaZKKnlB) | 1:59 |
 | 21 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 | 22 | [A2Z](https://open.spotify.com/track/4TPot2zdZDMXE8J8nkmvW3) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Out On Bond](https://open.spotify.com/album/1rM3JOw6PilCUL4GXU0WCi) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4K3SxFZTW1X.md) - [plain]
 | 49 | [YAKUZA TIES](https://open.spotify.com/track/0dIfSEyjNJsdTzJKdBC2co) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 1:56 |
 | 50 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/7H08E8B32OZ1vJE7AtCwaG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:40 |
 
-Snapshot ID: `MCwxZDIzNzliYjIyNjhhYmQ5YzA0Y2NjZmI1OWQzM2RhMjc1OGJkMDU3`
+Snapshot ID: `MCw4NDRjZDYzY2IyNTk1ZmFiYjQ1YTg2NTc1ZmU1ODIzZTRiNGI0ZjFm`

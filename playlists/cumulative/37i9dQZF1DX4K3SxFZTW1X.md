@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/colebennett/">Cole Bennett</a>
 
-50 songs - 2 hr 34 min
+51 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2023-09-01 |  |
 | [My Favorite Fish](https://open.spotify.com/track/5EytpNhHiwfmy2oJN8J3Vx) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Where Polly People Go to Read](https://open.spotify.com/album/5FEmLiapygMzGwrsjQ02vF) | 3:35 | 2023-09-01 |  |
 | [No Cap \(feat\. Yung Bans\)](https://open.spotify.com/track/31zngSQ2oL4nMYxWzhXyy7) | [Reese LAFLARE](https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy), [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [Reese LaFlare](https://open.spotify.com/album/6lTrOFRPpdeUtFvxjTsgGU) | 2:01 | 2023-09-01 |  |
-| [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 | 2023-09-01 |  |
+| [Not a Drill](https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 3:44 | 2023-09-01 |  |
+| [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 | 2023-09-01 | 2023-09-07 |
 | [On tha linë](https://open.spotify.com/track/37nYSBS0MfRCm913QwCCYo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:34 | 2023-09-01 |  |
 | [Out Of Love \(feat\. Internet Money\)](https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:33 | 2023-09-01 |  |
 | [Party All Day](https://open.spotify.com/track/6ttxObu3D64nLg3aL44tpK) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:30 | 2023-09-01 |  |

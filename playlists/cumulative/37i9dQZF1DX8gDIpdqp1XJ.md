@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-869 songs - 2 day 8 hr 54 min
+870 songs - 2 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A Heavy Drug](https://open.spotify.com/track/0ZrT7h8W04PDhxTSBgsdrU) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Whatever & Ever](https://open.spotify.com/album/4EX14bfjBceEPyq5a3LAKI) | 5:26 | 2021-06-04 | 2022-04-18 |
 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 | 2023-01-27 | 2023-04-22 |
 | [A New Vibration \- The Supersonic Scientist Sound](https://open.spotify.com/track/6lTHwKod7Jt9eCD5okqU9X) | [Professor Yaffle](https://open.spotify.com/artist/0Iui7ebFz1m5ugzLIRF6bf) | [A New Vibration \- The Supersonic Scientist Sound](https://open.spotify.com/album/6P9cWhjYGVnh3xgcN3VuJd) | 4:34 | 2021-04-02 | 2022-04-11 |
-| [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-08-09 |  |
+| [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-08-09 | 2023-09-07 |
+| [A Song About the Sun](https://open.spotify.com/track/3yVfX4uOLz0lVhHsXxFNTV) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Ricardo](https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK) | 3:30 | 2023-06-23 |  |
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2023-04-14 |  |
 | [Aerostar](https://open.spotify.com/track/0MapUfkFs5QgcRXuj7Dihy) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Aerostar](https://open.spotify.com/album/7qC9vTonZ0IXuKKkPyNqar) | 4:20 | 2021-04-02 | 2022-07-09 |
 | [After All](https://open.spotify.com/track/6wuJXtirfIartyLOSSDno9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [After All](https://open.spotify.com/album/3yNmwe7tHm0YXMPAHfrxjr) | 2:21 | 2023-03-06 | 2023-06-10 |

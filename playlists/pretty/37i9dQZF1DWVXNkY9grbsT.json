@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 44121,
+  "num_followers": 44161,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQyYjg0MDk3YjI5MDAwMjJkMzhkMDg2OTU1OWU4MDljOTIwOTVh",
+  "snapshot_id": "MCw0YmQ0OTMwODljMmIzMTkwZmNmNTY0NzFhM2NlZjZlOGQwOThhMmJm",
   "tracks": [
     {
       "added_at": "2023-08-31 17:19:35",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Human By Mistake",
-        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
-      },
-      "artists": [
-        {
-          "name": "Landhouse",
-          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
-        }
-      ],
-      "duration_ms": 415526,
-      "name": "Human By Mistake",
-      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "By the Air (Six Missing Rework)",
         "url": "https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 210243,
       "name": "By the Air - Six Missing Rework",
       "url": "https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Human By Mistake",
+        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
+      },
+      "artists": [
+        {
+          "name": "Landhouse",
+          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
+        }
+      ],
+      "duration_ms": 415526,
+      "name": "Human By Mistake",
+      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Golden Apples of the Sun",
-        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        },
-        {
-          "name": "Jonathan Fitoussi",
-          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
-        }
-      ],
-      "duration_ms": 273053,
-      "name": "Golden Apples Of The Sun",
-      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Traves\u00eda",
         "url": "https://open.spotify.com/album/3R9mvWE3pbsxy5uruk5HNK"
       },
@@ -635,18 +615,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Objekt",
-        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
         }
       ],
-      "duration_ms": 302367,
-      "name": "Objekt",
-      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -667,6 +651,22 @@
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/3HFIxZpIfmaLKTgxc2guNS"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Objekt",
+        "url": "https://open.spotify.com/album/5VSUUCCq6NYP4BWEZqw8fi"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 302367,
+      "name": "Objekt",
+      "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
+        "name": "Taum",
+        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Torpid",
+      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
         "name": "Hello Planta",
         "url": "https://open.spotify.com/album/6UC52kWUMqIeubdZM31TmG"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 306676,
       "name": "Melting Hazard",
       "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Taum",
-        "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
-      },
-      "artists": [
-        {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Torpid",
-      "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
         "name": "Briefly Human",
         "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 210889,
       "name": "Must Have Been Good",
       "url": "https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 340974,
-      "name": "Tan\u00df",
-      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Connections",
         "url": "https://open.spotify.com/album/6PXeUwaH1WzmEhQcgb3wDd"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 318373,
       "name": "Opposite Sides",
       "url": "https://open.spotify.com/track/03VbNLKlENAi4IUbClDw1n"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 340974,
+      "name": "Tan\u00df",
+      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Bluet",
-        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
+        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
+        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
       },
       "artists": [
         {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+          "name": "Federico Bisozzi",
+          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
         },
         {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
         }
       ],
-      "duration_ms": 291096,
-      "name": "Bluet",
-      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
+      "duration_ms": 191405,
+      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
+      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
+        "name": "Bluet",
+        "url": "https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "duration_ms": 291096,
+      "name": "Bluet",
+      "url": "https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
         "name": "EA9633",
         "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 192920,
       "name": "EA9633",
       "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
-        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
-      },
-      "artists": [
-        {
-          "name": "Federico Bisozzi",
-          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
-        },
-        {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
-        }
-      ],
-      "duration_ms": 191405,
-      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
-      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
     },
     {
       "added_at": "2023-08-31 17:19:35",

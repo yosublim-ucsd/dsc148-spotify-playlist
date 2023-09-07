@@ -4,7 +4,7 @@
 
 > Mood: Turnt
 
-631 songs - 1 day 6 hr 31 min
+632 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-05 |  |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 | 2023-06-03 |
 | [Goin Up](https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Goin Up](https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932) | 2:20 | 2022-04-29 | 2022-11-12 |
-| [GOMD](https://open.spotify.com/track/6Fsz3e2FD08hr15PHvCsgI) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:51 | 2023-08-04 |  |
+| [GOMD](https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 2:51 | 2023-09-05 |  |
+| [GOMD](https://open.spotify.com/track/6Fsz3e2FD08hr15PHvCsgI) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:51 | 2023-08-04 | 2023-09-07 |
 | [Good Summer \- Extended](https://open.spotify.com/track/3c7shYrKVEkRb9VZTuSIeo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Good Summer](https://open.spotify.com/album/3w8GyyoKJWb0IFhGOzwmmm) | 3:04 | 2023-08-11 | 2023-09-02 |
 | [Gorgeous](https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:33 | 2023-07-07 |  |
 | [Grammy](https://open.spotify.com/track/25jc6WmHktLK4SgVfiLS1M) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 2:47 | 2022-10-28 | 2022-12-03 |

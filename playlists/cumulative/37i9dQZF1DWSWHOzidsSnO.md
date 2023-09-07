@@ -2,9 +2,9 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Mujeres de los Andes, a todo volumen! En portada Diana Burco.
+> ¡Mujeres de los Andes, a todo volumen! En portada Shakira.
 
-228 songs - 12 hr 45 min
+231 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-03-10 | 2023-05-04 |
 | [Aguántame un ratito](https://open.spotify.com/track/6mxRQaBAAFwnUnefO2ilh6) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Morir en Escena](https://open.spotify.com/album/4tw3Ze1UOCLZKCohr7e00v) | 3:39 | 2023-01-04 |  |
 | [Airampito](https://open.spotify.com/track/6qiVSgeijeice6TrfhnCKj) | [Flor Pucarina](https://open.spotify.com/artist/0Cx0jBqPZuvdKTcpOkRsk8) | [¡Sola...Siempre Sola!](https://open.spotify.com/album/712D7w8qU2KB9J9HJQOpEk) | 2:51 | 2023-03-01 | 2023-04-06 |
-| [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 | 2022-10-05 |  |
+| [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 | 2022-10-05 | 2023-09-07 |
 | [Al Tiempo](https://open.spotify.com/track/4qzItEnlJBTPp1ByoYIoIx) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Al Tiempo](https://open.spotify.com/album/2s0S6lQrbEyKsjRoosKIg3) | 3:37 | 2022-01-05 | 2023-01-05 |
 | [Algo Hermoso Termina](https://open.spotify.com/track/6vLSpP0HTFZBPAy0DGflyR) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 2:55 | 2023-05-26 |  |
 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 | 2023-01-04 | 2023-03-09 |
@@ -82,6 +82,7 @@
 | [ENMÚSAME](https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv) | [Gallardía](https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY) | [ENMÚSAME](https://open.spotify.com/album/1BwMM9VT7IO94E8ImUD9ys) | 2:29 | 2022-05-31 | 2023-02-02 |
 | [Eres \(Como El Mar\)](https://open.spotify.com/track/0MiVynTf6cgHAdF7Bg9Bzh) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Eres \(Como El Mar\)](https://open.spotify.com/album/64MHMIzRYXbn47ks6iezXi) | 3:28 | 2023-06-07 | 2023-07-06 |
 | [ESMERALDAS \(Vainarara\_Bm\_80BPM\)](https://open.spotify.com/track/0YxqvalYueKU5d8kiIwxos) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [ESMERALDAS \(Vainarara\_Bm\_80BPM\)](https://open.spotify.com/album/5pYvjIHn4s9wKqVEbeBXFY) | 2:34 | 2023-05-12 | 2023-08-03 |
+| [Estrella Fugaz](https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW) | [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Estrella Fugaz](https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs) | 2:53 | 2023-09-06 |  |
 | [FANTASMAS](https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FANTASMAS](https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay) | 2:52 | 2023-05-03 |  |
 | [Fashion Criminal](https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Fashion Criminal](https://open.spotify.com/album/2S6TKxlcxqreIKTckKQAcW) | 2:50 | 2022-01-05 | 2023-03-04 |
 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 | 2023-03-03 |  |
@@ -89,10 +90,11 @@
 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 | 2022-03-04 | 2022-03-15 |
 | [Flow Romántico](https://open.spotify.com/track/3eA8t1I6hL24GnFKThKZU3) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:55 | 2022-03-09 | 2022-07-30 |
 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 | 2023-07-05 | 2023-07-07 |
+| [Fuego](https://open.spotify.com/track/1Vyn9k1jYzQj9CJAwY3wWl) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [Fuego](https://open.spotify.com/album/7Ib1ipLvdkWJPPbKBXdryk) | 2:51 | 2023-09-06 |  |
 | [Fui y Volví](https://open.spotify.com/track/66tE6J4QvH59jTSajXcVXl) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Fui y Volví](https://open.spotify.com/album/3oDIB2jNRlhWJM7qcYa7LF) | 4:05 | 2022-01-05 | 2022-03-10 |
 | [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 | 2023-05-03 |  |
 | [Ganas](https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Ganas](https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD) | 3:01 | 2022-01-05 | 2023-06-21 |
-| [Ganas Locas](https://open.spotify.com/track/0rS9kk4bI8tM044NB1Oh0b) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Voz de Mujer](https://open.spotify.com/album/2mdCSrZOhptXobgl9dJkCj) | 3:55 | 2023-03-03 |  |
+| [Ganas Locas](https://open.spotify.com/track/0rS9kk4bI8tM044NB1Oh0b) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Voz de Mujer](https://open.spotify.com/album/2mdCSrZOhptXobgl9dJkCj) | 3:55 | 2023-03-03 | 2023-09-07 |
 | [Gloria](https://open.spotify.com/track/7g6hdsFsrG5uRvZqbHJ6QW) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Epifanías](https://open.spotify.com/album/0MiX5iS0BA78SNf2EQ7wFz) | 3:20 | 2023-01-04 | 2023-03-02 |
 | [Gracias A Ti](https://open.spotify.com/track/41k2uNbjNzjUTmwvpw1kK8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Gracias A Ti](https://open.spotify.com/album/5SqgyIuq6nnGDn2QYAu8I8) | 2:15 | 2022-01-05 | 2022-04-02 |
 | [Gravedad](https://open.spotify.com/track/6rHOqHrsEyQeX7X5pDtvv2) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Gravedad](https://open.spotify.com/album/1LwHjlzl2QgQPN9CfbQoSk) | 2:38 | 2022-05-04 | 2023-01-05 |
@@ -176,7 +178,7 @@
 | [Por Infiel](https://open.spotify.com/track/6kA6ItJcRJTQK3XkZqnEy1) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Por Infiel](https://open.spotify.com/album/0eHJV4b2FT7jGtLZG1VQ4H) | 2:46 | 2022-03-04 | 2022-05-07 |
 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 | 2023-05-03 |  |
 | [QLQ](https://open.spotify.com/track/4AIohYuFOuGlck4a4WPwer) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [QLQ](https://open.spotify.com/album/12SrWPi6P4YE75GutgfxN2) | 2:29 | 2023-06-07 |  |
-| [Quema](https://open.spotify.com/track/1qvEn0FGwIhvvUggNcV9k5) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:36 | 2023-01-04 |  |
+| [Quema](https://open.spotify.com/track/1qvEn0FGwIhvvUggNcV9k5) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:36 | 2023-01-04 | 2023-09-07 |
 | [Quisiera](https://open.spotify.com/track/3qMTFFbHJ6W4C3tL8smoCp) | [Madrigal](https://open.spotify.com/artist/6l5BOrVZG2Plgjkjm1WTsa) | [Quisiera](https://open.spotify.com/album/6a77QQePpJeQv01F8Pimcl) | 3:32 | 2023-06-30 | 2023-07-06 |
 | [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 4:06 | 2023-01-04 |  |
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2023-01-04 |  |
@@ -232,6 +234,7 @@
 | [WOW](https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:51 | 2022-01-05 | 2022-03-05 |
 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 | 2023-07-28 |  |
 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 | 2022-03-08 | 2023-02-02 |
+| [¿Cómo Es Que Tú?](https://open.spotify.com/track/4baS2oyw8UwFMgoZt58vkS) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Dijo Que Era Fácil?](https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7) | 2:40 | 2023-09-06 |  |
 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 | 2023-04-05 |  |
 | [Échale Fuego](https://open.spotify.com/track/0GGFWgHZe4v1dXfHMypHwd) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Échale Fuego](https://open.spotify.com/album/2UGtJRRI2WWkxibKaGqMAO) | 3:00 | 2023-05-26 |  |
 | [último y primero](https://open.spotify.com/track/3hF6BMF3pT8MV6vWQZZI4h) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [último y primero](https://open.spotify.com/album/2GwdTLsgFiGYd5cIUp6RvG) | 2:59 | 2022-01-05 | 2022-03-05 |

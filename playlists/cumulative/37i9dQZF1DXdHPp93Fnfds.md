@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-551 songs - 1 day 7 hr 26 min
+552 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Diferente](https://open.spotify.com/track/3yD8ieuHLGv0MGKTYa1OJo) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Diferente](https://open.spotify.com/album/3K3zNoJFeTu1Sca0U8whGF) | 3:54 | 2022-04-20 | 2022-07-02 |
 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 | 2022-06-03 | 2022-07-28 |
 | [DISFRAZ](https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [DISFRAZ](https://open.spotify.com/album/0aNHmrgKLB5pGoj1bZ16RQ) | 2:52 | 2022-10-28 | 2023-08-19 |
-| [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 | 2022-01-21 | 2023-09-02 |
+| [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 | 2022-01-21 |  |
 | [Do Not Disturb](https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Do Not Disturb](https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV) | 1:26 | 2023-07-14 | 2023-08-19 |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-01-14 | 2023-06-10 |
 | [Dos](https://open.spotify.com/track/0J49GNG60XrmImmBl3UGCQ) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Dos](https://open.spotify.com/album/0TEAkQp2XSbE12UE0BsP2W) | 3:54 | 2022-01-14 | 2022-07-29 |
@@ -209,6 +209,7 @@
 | [Gritan Fuerte](https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [Gritan Fuerte](https://open.spotify.com/album/69CyCtEbufErhbo60ck42J) | 3:32 | 2022-01-21 | 2022-07-07 |
 | [Guerra](https://open.spotify.com/track/6oBBPVRgc1YH7khQ16whTa) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Juano Loyola](https://open.spotify.com/artist/7JFW2HEZghxdK06CyCINGx) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 2:52 | 2022-07-15 | 2022-07-24 |
 | [Haikus](https://open.spotify.com/track/5F0wz82HpYta58t2sAMwR0) | [KO](https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu) | [Haikus](https://open.spotify.com/album/1FOq8dtUXCt2bZlLPgw4WC) | 3:31 | 2022-03-04 | 2022-04-30 |
+| [Harakiri](https://open.spotify.com/track/35rpU4Y959WoFdKfdvUHFy) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 3:33 | 2023-09-01 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/6tIOMUJ75caEiH47DhqDYe) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Reconstrucción](https://open.spotify.com/album/20NTZgsDfie7eJEHfhKnmh) | 3:36 | 2022-01-21 | 2022-07-06 |
 | [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 | 2022-12-09 |  |
 | [Helado de Mango](https://open.spotify.com/track/3h3L1IArPewYKXLgb6YLX1) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/5fd7vj3legWUCGUdEhM6S8) | 3:28 | 2022-01-14 | 2022-07-28 |
@@ -358,7 +359,7 @@
 | [Nunca haría lo que me hiciste](https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Nunca haría lo que me hiciste](https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p) | 3:11 | 2022-12-16 | 2023-02-03 |
 | [NUNCA PUDIMOS](https://open.spotify.com/track/5KyTt6vJU0yh8R8Q46e4TB) | [unÁnima](https://open.spotify.com/artist/5QxH2WRNyntAccePm1BtD3) | [NUNCA PUDIMOS](https://open.spotify.com/album/0hyPn8QJLC6GNiDflt1lj2) | 3:25 | 2022-01-21 | 2022-07-28 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2023-02-03 |  |
-| [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 | 2023-07-14 |  |
+| [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 | 2023-07-14 | 2023-09-07 |
 | [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 | 2023-03-31 | 2023-08-13 |
 | [Ordenar](https://open.spotify.com/track/6cMAjbEM3SDBBWFwvx4qSl) | [VETRA](https://open.spotify.com/artist/7obSoqTA0ah9tLNktBUNU7) | [Liberarnos Es Placer](https://open.spotify.com/album/2f920Ow1P5wRwMgSYjr7eC) | 3:03 | 2022-01-21 | 2022-07-25 |
 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 | 2023-08-04 |  |
@@ -545,7 +546,7 @@
 | [Vuelo](https://open.spotify.com/track/24eo3E9uK6zPl0bvlIZuoi) | [Maria Trapaglia](https://open.spotify.com/artist/5f53oTxcEXYARPX4xRIO0i) | [Vuelo](https://open.spotify.com/album/4jmOTynTRGQeByOvtnCFzx) | 3:50 | 2022-04-01 | 2022-04-21 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-08 | 2023-08-19 |
 | [With Or Without You](https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [With Or Without You](https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn) | 2:34 | 2023-04-07 |  |
-| [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-18 |  |
+| [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-18 | 2023-09-07 |
 | [y regalamelo](https://open.spotify.com/track/16lIxq1EPneaRXmH7t6OnH) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [y regalamelo](https://open.spotify.com/album/5HgDdJRNvEyRoNOvajcNti) | 2:55 | 2022-01-21 | 2022-06-19 |
 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 | 2023-08-18 |  |
 | [Ya Es Muy Tarde](https://open.spotify.com/track/3sGAVerncV8XFlfA5WBRhX) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Ya Es Muy Tarde](https://open.spotify.com/album/5RTdwTUrJUvY6hBumUq9Ds) | 3:01 | 2022-01-21 | 2022-07-05 |

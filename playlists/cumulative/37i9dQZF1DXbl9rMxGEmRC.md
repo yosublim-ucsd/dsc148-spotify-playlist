@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-499 songs - 1 day 18 hr 20 min
+500 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [De Mysteriis Dom Sathanas](https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:21 | 2022-07-13 | 2023-03-01 |
 | [De tes yeux bleus perlés](https://open.spotify.com/track/1QcLDalgSZ6weWyHyzKnM8) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [De tes yeux bleus perlés](https://open.spotify.com/album/2LJw28WXsdnDv6XkpJYiXJ) | 5:23 | 2021-12-17 | 2022-01-15 |
 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 | 2022-09-01 | 2022-11-17 |
+| [Death March](https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS) | [Enemies Everywhere](https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz) | [Death March](https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs) | 4:41 | 2023-09-01 |  |
 | [Death Walks Among Us \- Single Edit](https://open.spotify.com/track/005yHsz6xGZubdhG8ghJdY) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Death Walks Among Us](https://open.spotify.com/album/3UuzBA3t6Krm96ydpYXaei) | 4:38 | 2022-01-14 | 2022-04-02 |
 | [Deathcrush](https://open.spotify.com/track/5wWRdIjndDOh1j4OXAPpdD) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Deathcrush](https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz) | 3:32 | 2022-07-13 | 2023-03-01 |
 | [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 |  |
@@ -401,7 +402,7 @@
 | [Summoned for Sacrifice](https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Summoned for Sacrifice](https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr) | 4:05 | 2023-08-11 |  |
 | [Sunholy](https://open.spotify.com/track/0up8bZXZqgKg9TzlrSPOTR) | [Shade Empire](https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH) | [Sunholy](https://open.spotify.com/album/3wPqeHtegyMuh6LsNyTjJ9) | 6:57 | 2023-07-03 | 2023-07-15 |
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
-| [Svart Industriell Olycka](https://open.spotify.com/track/5xltwwuGP4FKjUQkEMtWxO) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III: Angst](https://open.spotify.com/album/0bmWUXx7WGseDggqGUFgTt) | 8:05 | 2023-09-01 |  |
+| [Svart Industriell Olycka](https://open.spotify.com/track/5xltwwuGP4FKjUQkEMtWxO) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III: Angst](https://open.spotify.com/album/0bmWUXx7WGseDggqGUFgTt) | 8:05 | 2023-09-01 | 2023-09-07 |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2023-02-11 |
 | [Swan Season](https://open.spotify.com/track/2hqNNF4viFvXsEd7sDozD6) | [Deadly Carnage](https://open.spotify.com/artist/6Smmabcnt0gxJ3PnXAFq1L) | [Swan Season](https://open.spotify.com/album/0qxGwkCxJYjfGRP2d0XsgZ) | 4:30 | 2023-07-21 | 2023-08-12 |
 | [Szex Witchery](https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Szex Witchery](https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS) | 3:59 | 2022-01-21 | 2022-02-11 |

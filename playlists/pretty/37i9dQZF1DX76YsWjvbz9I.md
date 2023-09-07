@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,809 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,142 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 22 | [Fly Me To The Moon](https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 4:09 |
 | 23 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
 | 24 | [I Could Write A Book](https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Swings Rodgers And Hart](https://open.spotify.com/album/6LArOC2pxaG9rYlTCIIeXN) | 2:09 |
-| 25 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
-| 26 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
+| 25 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 |
+| 26 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
 | 27 | [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 |
 | 28 | [All The Things You Are](https://open.spotify.com/track/5gPetRvxQKyOjjwZX1dzbt) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The Jerome Kern Songbook](https://open.spotify.com/album/5h4aTZVRSMxo9JzQojpUSx) | 3:15 |
 | 29 | [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 31 | [The Man I Love](https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Mystery Lady: Songs of Billie Holiday](https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW) | 4:26 |
 | 32 | [Hallelujah, I Love Him So](https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 2:30 |
 | 33 | [Like Someone In Love \- Vocal Version](https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:26 |
-| 34 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Some Nice Things I've Missed](https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV) | 4:01 |
+| 34 | [Love Is Here To Stay](https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:46 |
 | 35 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 |
-| 36 | [Love Is Here To Stay](https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:46 |
-| 37 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
+| 36 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
+| 37 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/0q4svepUwk6ZDLZEQlhKQn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Some Nice Things I've Missed](https://open.spotify.com/album/4ZSUkTw8BgdedIYtmteKsV) | 4:01 |
 | 38 | [You Do Something To Me](https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 2:22 |
 | 39 | [All I Do Is Dream Of You \- Remastered](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 |
 | 40 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 50 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 |
 | 51 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |
 | 52 | [Dream A Little Dream Of Me \- 1998 Remaster](https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 3:15 |
-| 53 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
-| 54 | [The touch of your lips](https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:19 |
+| 53 | [The touch of your lips](https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:19 |
+| 54 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
 | 55 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 56 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 57 | [All The Way](https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Sinatra](https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [If You Were Mine](https://open.spotify.com/track/1sMb1VoCi31FQiC435Rocn) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [So Warm](https://open.spotify.com/album/6gnhgowSVTcOXuP9v3Jcr0) | 2:42 |
 | 100 | [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 |
 
-Snapshot ID: `MCwzMTczZmMwMDY3ODc0YzM3YmZjZGE5ZTMzNTFiNmJjNmRhNjBkYTkx`
+Snapshot ID: `MCwyZDk1Mzk3ODE3N2RlZjRhZWYzNTI1MGYyY2IzY2E1MTdkNzRkNzA5`

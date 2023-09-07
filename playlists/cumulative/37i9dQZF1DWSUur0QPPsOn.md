@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-1,175 songs - 3 day 3 hr 6 min
+1,176 songs - 3 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1077,7 +1077,8 @@
 | [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 | 2022-04-01 | 2022-05-03 |
 | [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:15 | 2022-11-01 | 2022-12-02 |
 | [Unpredictable \(feat\. Ludacris\) \- Main](https://open.spotify.com/track/3UNrtRxBBlWE70SjxnOo02) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Unpredictable](https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve) | 3:39 | 2023-01-01 | 2023-02-02 |
-| [Unreleased leak](https://open.spotify.com/track/1zcGglVX1j3nM6kOjrUt5J) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:33 | 2023-09-01 |  |
+| [Unreleased leak](https://open.spotify.com/track/1zcGglVX1j3nM6kOjrUt5J) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:33 | 2023-09-01 | 2023-09-07 |
+| [Unreleased leak](https://open.spotify.com/track/5II9VQpQ8MGDWwBZfVyxTN) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 3:33 | 2023-09-01 |  |
 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 | 2022-02-01 | 2022-03-02 |
 | [Up Down](https://open.spotify.com/track/5lYfQfvpLuTWN6L1npXXzW) | [Stone](https://open.spotify.com/artist/4ohGippqa3Ba7mrFW2B8Ft) | [Long Lake Drive](https://open.spotify.com/album/4tXXSBbiJZeieNBYGdrSAA) | 3:22 | 2022-09-08 | 2022-09-29 |
 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 | 2022-09-29 | 2022-10-04 |

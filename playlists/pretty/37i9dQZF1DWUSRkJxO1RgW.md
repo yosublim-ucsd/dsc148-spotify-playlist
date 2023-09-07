@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,226 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,334 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 40 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
 | 41 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
 | 42 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
-| 43 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
-| 44 | [Lunes Por La Madrugada](https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 3:14 |
+| 43 | [Lunes Por La Madrugada](https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 3:14 |
+| 44 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
 | 45 | [Wadu Wadu](https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Wadu Wadu](https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU) | 2:36 |
 | 46 | [Mundo Agradable](https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 4:11 |
 | 47 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 50 | [Sin Hilo](https://open.spotify.com/track/6qLoe5HRx2GNv21z30QL53) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 4:38 |
 | 51 | [Cancion Del Pinar](https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [La Mañana Siguiente](https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg) | 3:41 |
 | 52 | [Sucia Estrella](https://open.spotify.com/track/5HkF4wdtGZkskTOpp0UwOH) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Ratones Paranoicos](https://open.spotify.com/album/4jiSCesO2MeWBzRze9cfRq) | 3:22 |
-| 53 | [Entregá el Marrón](https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 2:22 |
+| 53 | [La Rubia Tarada](https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Sí o Sí \- Diario del Rock Argentino \- Sumo](https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm) | 3:42 |
 | 54 | [No Llores Por Mí, Argentina \(En Vivo\)](https://open.spotify.com/track/7nYOhcrbQmeetR6f4hMoVM) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 3:31 |
-| 55 | [La Rubia Tarada](https://open.spotify.com/track/3lO1h0KPfhlXl2fSjaTcnh) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Sí o Sí \- Diario del Rock Argentino \- Sumo](https://open.spotify.com/album/0abeUjNSrovGBaaEavSfRm) | 3:42 |
+| 55 | [Entregá el Marrón](https://open.spotify.com/track/1U9nKdWvYxGLyoi25KSSdh) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [El Milagro Argentino](https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ) | 2:22 |
 | 56 | [Lollipop](https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A) | [Viuda E Hijas De Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Perlas y Diamantes](https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt) | 2:31 |
 | 57 | [Volver A Los 17 \- Live In Argentina / 1984](https://open.spotify.com/track/2N9y942Xz3zsgEDbIzs1Mz) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Corazón Americano](https://open.spotify.com/album/4Rq7IfvTdpx1jNTkLkEXZS) | 5:45 |
 | 58 | [La Llama de Tu Amor](https://open.spotify.com/track/4UzckxebrukyreeLZGw6z9) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:45 |
 | 59 | [Fantasma De Canterville](https://open.spotify.com/track/5o3XTDIlBbl66xPNLj1dol) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma De Canterville](https://open.spotify.com/album/5ftByhg3rSWly4WhsALmh8) | 3:48 |
 | 60 | [A Cada Hombre, A Cada Mujer](https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:53 |
 
-Snapshot ID: `MCwxM2M1OWExMDVhY2UwOGZhNzNiOGQzYmNkM2E5NTBiNmFhZTAwNGEz`
+Snapshot ID: `MCwxY2Y1YmFlNzkzZWE3MGQ1MTQ0MDM0OTgwN2RmNDNmN2ZjNTllNjQz`

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 羊文学
 
-740 songs - 1 day 22 hr 14 min
+741 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 | 2023-04-28 | 2023-06-28 |
 | [Drama](https://open.spotify.com/track/2AYRZZBTGjhFKATI4f7AlH) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/4Jj1Z1zQ7erei7UsqsGNSo) | 3:37 | 2023-04-04 | 2023-04-06 |
 | [Drama](https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Drama](https://open.spotify.com/album/5jnChZoGsz6XTKKEgr6xkm) | 3:37 | 2023-04-04 | 2023-05-03 |
+| [Dreamy Soul Of Language](https://open.spotify.com/track/2VwjtQtzLbss67dDHtjSr0) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Dreamy Soul Of Language](https://open.spotify.com/album/28BP4mS8hNnYdC6qtzlI1O) | 3:23 | 2023-09-05 |  |
 | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/track/18mcIcXC3YMnF1akgaYGDR) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [E\-R\-T\-H\-C\-Na\-H\-Q\-ka\-H\-K\-M\-B\-Ne\-Z\-Om](https://open.spotify.com/album/5OWUfCVXL9QZHzMIdipGdR) | 3:53 | 2023-06-27 | 2023-07-26 |
 | [EL MARIACHI](https://open.spotify.com/track/4AhqLI5pedSyAjm5bWfZaN) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 3:32 | 2023-01-24 | 2023-02-15 |
 | [EMA \(alt ver.\)](https://open.spotify.com/track/3RgRthwq2xYgJ8ysOVzblu) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [EMA \(alt ver.\)](https://open.spotify.com/album/2eU4oSMy8U0s80C1Y96hIC) | 3:32 | 2023-08-29 |  |
@@ -621,7 +622,7 @@
 | [夜間飛行](https://open.spotify.com/track/68YvkhqAt2SVQUCjjIjtyX) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [夜間飛行](https://open.spotify.com/album/1AnR0C9gnRDw8qgV4wdWlU) | 3:00 | 2023-01-13 | 2023-02-17 |
 | [夜顔](https://open.spotify.com/track/4XH4ckpvd4q1MDFKyE4PEQ) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [夜顔](https://open.spotify.com/album/6Z45gYtioGt7lLln8FsP14) | 3:20 | 2023-01-17 | 2023-02-15 |
 | [夢の10年後](https://open.spotify.com/track/22srVUYjt1uZ4H86ip36t4) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [夢の10年後](https://open.spotify.com/album/6pNnpUzUs7Bkn4DEBGMK5P) | 5:49 | 2023-07-11 | 2023-08-16 |
-| [夢見るコトダマ](https://open.spotify.com/track/2MKluK2KfxYohBpYNmZz3M) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [夢見るコトダマ](https://open.spotify.com/album/3TPwiVWELo9ZZjnBAzw6oH) | 3:23 | 2023-09-05 |  |
+| [夢見るコトダマ](https://open.spotify.com/track/2MKluK2KfxYohBpYNmZz3M) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [夢見るコトダマ](https://open.spotify.com/album/3TPwiVWELo9ZZjnBAzw6oH) | 3:23 | 2023-09-05 | 2023-09-07 |
 | [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 | 2023-02-28 | 2023-04-12 |
 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 | 2023-07-04 |  |
 | [太陽とイカロス](https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [太陽とイカロス](https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP) | 4:30 | 2023-03-07 | 2023-03-09 |

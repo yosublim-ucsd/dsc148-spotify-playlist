@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover \- OG
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,678 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,804 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 26 | [Appudo Ippudo](https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [Bommarillu](https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj) | 4:03 |
 | 27 | [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 |
 | 28 | [Thattukolede](https://open.spotify.com/track/5idQ5WN2CK5FeUhRQ4ZvKY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Thattukolede](https://open.spotify.com/album/2Ch8BRdcnGnATmjIPcxSQc) | 4:44 |
-| 29 | [Neeti Mullai \(Bit\)](https://open.spotify.com/track/29ffQxBUZLJdN3kiPndB9n) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Sumangali](https://open.spotify.com/artist/24tUR24bFxuw2HkGjG8Q2B) | [Varsham](https://open.spotify.com/album/7h1jWklU81GDvg0N02TiH7) | 1:21 |
+| 29 | [Neeti Mullai \(Bit\)](https://open.spotify.com/track/29ffQxBUZLJdN3kiPndB9n) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Varsham](https://open.spotify.com/album/7h1jWklU81GDvg0N02TiH7) | 1:21 |
 | 30 | [Endhuko Pichi Pichi](https://open.spotify.com/track/693359DlfpvoEfIYleKs05) | [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2) | [Chirutha](https://open.spotify.com/album/5KEPglkfQDPC5xMCqrrKpa) | 4:31 |
 | 31 | [Inthandham](https://open.spotify.com/track/0gE8ZP2cTXpRDz53bTkpu6) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:38 |
 | 32 | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Hoyna Hoyna \(From "Gang Leader"\)](https://open.spotify.com/album/2aHSx4B2TQtrnPYsEzSSRt) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 50 | [Evare Nuvvu](https://open.spotify.com/track/7m64tTau2Rh6hzVDA1oV6K) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Rajubhai](https://open.spotify.com/album/7IeNvR1LQ1Z8sWM8KaAB2O) | 4:10 |
 
-Snapshot ID: `MCwxNzg4YzIxZDRlM2FjMThmNmUxODI0ZGM3M2RjMjIyZTE1YjRlOWIx`
+Snapshot ID: `MCwwMTdmMzE2Yzg1NzM3YjAzMTJkOTk5MTYzNTllZWJjNDg5NjMwZDc2`

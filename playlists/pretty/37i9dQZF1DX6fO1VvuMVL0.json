@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 59116,
+  "num_followers": 59194,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjJiNDg2NmYwNjQ4NTUwN2Y1ZTRiOWY2MDY4OWUxNDdjNjVmMTAz",
+  "snapshot_id": "MCwxNGE2ZDUwNjAxMjkzMWI1MDEyZmM5NTU3Nzk2NzI1NDhmZjI0MjFm",
   "tracks": [
     {
       "added_at": "2023-08-31 09:01:39",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-31 09:01:39",
       "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 602173,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
-    },
-    {
-      "added_at": "2023-08-31 09:01:39",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 166640,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
+    },
+    {
+      "added_at": "2023-08-31 09:01:39",
+      "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 602173,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-31 09:01:39",
       "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
+    },
+    {
+      "added_at": "2023-08-31 09:01:39",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 324773,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
-    },
-    {
-      "added_at": "2023-08-31 09:01:39",
-      "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-31 09:01:39",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2023-08-31 09:01:39",
-      "album": {
         "name": "Django (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 179240,
       "name": "One Bass Hit",
       "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
+    },
+    {
+      "added_at": "2023-08-31 09:01:39",
+      "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -895,18 +895,22 @@
     {
       "added_at": "2023-08-31 09:01:39",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
+        "name": "The Ivory Hunters",
+        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
       },
       "artists": [
         {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 319240,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+      "duration_ms": 446066,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -923,6 +927,22 @@
       "duration_ms": 178920,
       "name": "Waltz Me Blues",
       "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
+    },
+    {
+      "added_at": "2023-08-31 09:01:39",
+      "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -947,22 +967,34 @@
     {
       "added_at": "2023-08-31 09:01:39",
       "album": {
-        "name": "The Ivory Hunters",
-        "url": "https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59"
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
       },
       "artists": [
         {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 446066,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+      "duration_ms": 319240,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+    },
+    {
+      "added_at": "2023-08-31 09:01:39",
+      "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -987,38 +1019,6 @@
       "duration_ms": 264533,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY"
-    },
-    {
-      "added_at": "2023-08-31 09:01:39",
-      "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2023-08-31 09:01:39",
-      "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-08-31 09:01:39",
       "album": {
-        "name": "Stan Getz Quartets (Remastered)",
-        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
+        "name": "A Night At The Vanguard",
+        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Kenny Burrell Trio",
+          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
         }
       ],
-      "duration_ms": 173360,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
+      "duration_ms": 260973,
+      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
+      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
     },
     {
       "added_at": "2023-08-31 09:01:39",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-08-31 09:01:39",
       "album": {
-        "name": "A Night At The Vanguard",
-        "url": "https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra"
+        "name": "Stan Getz Quartets (Remastered)",
+        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
       },
       "artists": [
         {
-          "name": "Kenny Burrell Trio",
-          "url": "https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 260973,
-      "name": "Just A-Sittin' And A-Rockin' - Live At The Village Vanguard, New York / 1959",
-      "url": "https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1"
+      "duration_ms": 173360,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
     },
     {
       "added_at": "2023-08-31 09:01:39",

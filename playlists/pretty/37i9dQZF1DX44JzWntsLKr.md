@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,825 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,841 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 32 | [Just love](https://open.spotify.com/track/1JYumffldxoPtGhe7HN8Mx) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:12 |
 | 33 | [Mercy](https://open.spotify.com/track/3k9tiwbGNmznma8hCuLMhp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:10 |
 | 34 | [I got love](https://open.spotify.com/track/1qcWe8WuPOXdaXg34Lw5tw) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:23 |
-| 35 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 |
+| 35 | [KISS OR DEATH](https://open.spotify.com/track/31NoynLg4SrXK8Lcb9mLmL) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/7jvDaGCtBMlNNccPPUurqh) | 3:27 |
 | 36 | [GAMBLER](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:33 |
 | 37 | [Heaven](https://open.spotify.com/track/3U6avVr8ubNg0B5VB6TPf1) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:03 |
 | 38 | [Addicted](https://open.spotify.com/track/1BBNX3VBikQkDdNMJ201kk) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:06 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 129 | [I'll Be There](https://open.spotify.com/track/3AhSHpQhUasqq1Ni8xRh3c) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:12 |
 | 130 | [부나비 \(The Tiger Moth\)](https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm) | 3:24 |
 
-Snapshot ID: `MCw2YWY0OGIyMTU1NjU3NTE3MTg3ZDg1N2VkYzhjZDI1NTJjMTE3Y2Rk`
+Snapshot ID: `MCwxNzdhOGVlYzM1YjhiNmM5ODNjZmNkNWM4MjVlZjNlMWVjN2Y1OWI2`

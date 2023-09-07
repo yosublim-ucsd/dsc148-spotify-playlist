@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > it's scary hours...⛈️  cover: Aaliyah 🕊
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,839 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,305 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 99 | [90's Love](https://open.spotify.com/track/6izMYA7zfbugQijioqoUIi) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [90's Love](https://open.spotify.com/album/2Hk0ZF1VM15CuaN2f8aWbF) | 3:27 |
 | 100 | [Bout Your Love](https://open.spotify.com/track/0ayhuUaQaJ4dT3PyIrw42k) | [2rude](https://open.spotify.com/artist/4Iidg3Dx7YDYjhsScQWr50), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [2Rude \(Rudimental 2K Remastered\)](https://open.spotify.com/album/1EVrrsLa9ZezXXhJ5kXrZD) | 3:56 |
 
-Snapshot ID: `MCwyY2ZkZmNmODU2NDQzMmUwYWNkM2VmMTAzMzMzODBlYjQxNThkODBk`
+Snapshot ID: `MCw3NzIyYjI0ZmU4OWI1ODIyZWQ1ZTcyNzE2NDFlY2FiMjc2ZTUzNWZm`

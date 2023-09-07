@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 50775,
+  "num_followers": 50823,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE3ZTRhZjBmMGViNWJiZWI0MjBjZmNhZTI3YjAxZGJiNzkwODUy",
+  "snapshot_id": "MCwzNTIxMzljMTg3ZGU1M2QzNjYzNDM5NjhjODJmNzg3MTUzZDE1ZGE2",
   "tracks": [
     {
       "added_at": "2023-08-31 23:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-08-31 23:00:00",
       "album": {
-        "name": "MINA D'OURO",
-        "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
-      },
-      "artists": [
-        {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
-        },
-        {
-          "name": "HOODZ",
-          "url": "https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "MONCLER",
-      "url": "https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu"
-    },
-    {
-      "added_at": "2023-08-31 23:00:00",
-      "album": {
         "name": "Louco",
         "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 244000,
       "name": "Louco",
       "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+    },
+    {
+      "added_at": "2023-08-31 23:00:00",
+      "album": {
+        "name": "MINA D'OURO",
+        "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "HOODZ",
+          "url": "https://open.spotify.com/artist/3y4q2i7dNCUrGM1u3CcHMY"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "MONCLER",
+      "url": "https://open.spotify.com/track/7KccImY9LfyZgU8xnUqnRu"
     },
     {
       "added_at": "2023-08-31 23:00:00",
@@ -1027,26 +1027,18 @@
     {
       "added_at": "2023-08-31 23:00:00",
       "album": {
-        "name": "ES7\u00c1DIO",
-        "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
+        "name": "Conto Bafiento",
+        "url": "https://open.spotify.com/album/3QRH1H6QoLo6mjDaLAaryZ"
       },
       "artists": [
         {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "Rafaell Dior",
-          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Mundo Segundo",
+          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
         }
       ],
-      "duration_ms": 217715,
-      "name": "ES7\u00c1DIO",
-      "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
+      "duration_ms": 247200,
+      "name": "Conto Bafiento",
+      "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
     },
     {
       "added_at": "2023-08-31 23:00:00",
@@ -1067,18 +1059,26 @@
     {
       "added_at": "2023-08-31 23:00:00",
       "album": {
-        "name": "Conto Bafiento",
-        "url": "https://open.spotify.com/album/3QRH1H6QoLo6mjDaLAaryZ"
+        "name": "ES7\u00c1DIO",
+        "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
       },
       "artists": [
         {
-          "name": "Mundo Segundo",
-          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "Rafaell Dior",
+          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Conto Bafiento",
-      "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
+      "duration_ms": 217715,
+      "name": "ES7\u00c1DIO",
+      "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
     },
     {
       "added_at": "2023-08-31 23:00:00",

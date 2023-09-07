@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: NWA
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,728 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,234 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 18 | [Check Yo Self \- Remix](https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Bootlegs And B\-Sides](https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo) | 4:33 |
 | 19 | [Passin' Me By](https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 |
 | 20 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
-| 21 | [Ain’t No Fun \(If The Homies Can’t Have None\)](https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:06 |
-| 22 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
+| 21 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
+| 22 | [Ain’t No Fun \(If The Homies Can’t Have None\)](https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:06 |
 | 23 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:10 |
 | 24 | [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:51 |
 | 25 | [Express Yourself](https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 4:25 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 27 | [No Vaseline](https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 5:13 |
 | 28 | [Blow the Whistle](https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Blow The Whistle](https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp) | 2:43 |
 | 29 | [Bitch Please](https://open.spotify.com/track/5Sm1X46tna50RstHZvw072) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:54 |
-| 30 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 |
-| 31 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
+| 30 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
+| 31 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 |
 | 32 | [How I Could Just Kill a Man](https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Cypress Hill](https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM) | 4:12 |
 | 33 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 |
 | 34 | [Streiht Up Menace](https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [When We Wuz Bangin](https://open.spotify.com/album/3pmtX0h9cMvyBcwWx5oz3w) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 |
 | 50 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 
-Snapshot ID: `MCxiNjkwY2Q2YmUzNmJjMDI4MGYyM2E2OGJhMmEzMjBkMGIxMmExMGNh`
+Snapshot ID: `MCw0YThkMWI1NTEzY2ExNWQ1N2I0OGViODhmODgxZGIwYTJjZDM0NzEz`

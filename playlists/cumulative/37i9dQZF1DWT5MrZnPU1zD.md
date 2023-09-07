@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-791 songs - 1 day 13 hr 56 min
+792 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,8 @@
 | [NO TRENDS](https://open.spotify.com/track/5ovhl0nECbfRyApcixLy2d) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:31 | 2022-07-22 | 2022-10-24 |
 | [NonChalant](https://open.spotify.com/track/4ROfrYVx9pkthvjSUYuzCH) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX) | [NonChalant](https://open.spotify.com/album/1LPJ2RwVnDxY3wxOwl9EZK) | 2:53 | 2022-02-11 | 2022-04-29 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-19 | 2022-09-03 |
-| [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 | 2023-08-18 |  |
+| [Not a Drill](https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 3:44 | 2023-08-18 |  |
+| [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 | 2023-08-18 | 2023-09-07 |
 | [Nothin' At All \(feat\. Skoolie 300\)](https://open.spotify.com/track/4IiI9lpobMyEbhV5VstNs7) | [Chuuwee](https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8), [Trizz](https://open.spotify.com/artist/7zmxRagidm9E5dF0mGhQ6K), [Skoolie 300](https://open.spotify.com/artist/5tv4PSu78YRxZ8FH9ye7Ob) | [Amerikkas Most Blunted](https://open.spotify.com/album/1WaCWQ0jNpRSF2XvqKm4mt) | 4:31 | 2022-03-25 | 2022-04-21 |
 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 | 2022-10-07 |  |
 | [Obsessed With You](https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 1:48 | 2023-03-24 | 2023-06-10 |

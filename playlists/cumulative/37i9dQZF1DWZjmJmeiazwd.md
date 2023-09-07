@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-444 songs - 1 day 2 hr 36 min
+445 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/3jfr0TF6DQcOLat8gGn7E2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 4:32 | 2020-06-29 | 2022-06-11 |
 | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [DOA \[Feat\. Joyner Lucas\]](https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY) | 3:38 | 2020-06-29 | 2022-11-13 |
 | [DOMINO \(Inspired by "Arcane League of Legends"\)](https://open.spotify.com/track/1dJ0yTqdEAN34XsiJH3i24) | [Divide Music](https://open.spotify.com/artist/50iN4QFD9Z9S1KAzDLvAju) | [DOMINO \(Inspired by "Arcane League of Legends"\)](https://open.spotify.com/album/6bRes1FwkG4jY4ATb6HAht) | 3:04 | 2022-06-16 | 2022-07-29 |
-| [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 | 2023-02-09 |  |
+| [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 | 2023-02-09 | 2023-09-07 |
 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 | 2020-06-29 | 2022-02-26 |
 | [Don't Wanna Fight](https://open.spotify.com/track/1xmctspTzQxisNXKY6Gxf6) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/2IVZPDXb7LFbyukqaoWpYR) | 3:52 | 2020-06-29 | 2022-04-20 |
 | [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 | 2021-07-20 | 2022-07-29 |
@@ -216,6 +216,7 @@
 | [Kid Midnight](https://open.spotify.com/track/7FmqchmnWZPhWE7IzBAowz) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Kid Midnight](https://open.spotify.com/album/5WV7yT3UR2eJss5tAVDhId) | 2:45 | 2022-04-22 | 2022-05-21 |
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2020-06-29 | 2022-11-30 |
 | [Killing Me Slowly](https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:57 | 2020-06-29 | 2023-08-31 |
+| [Killing Me Slowly](https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 3:57 | 2023-02-09 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2022-04-19 | 2022-05-21 |
 | [Kiss This](https://open.spotify.com/track/0cYrnLpz2drPo2aZWExpCl) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Have You Heard](https://open.spotify.com/album/6lu5Z4nCRAbJqz1DuccCKQ) | 2:57 | 2020-06-29 | 2022-07-26 |
 | [Kiss This](https://open.spotify.com/track/3Zm5SMUA3JH98Aty7Zc0xr) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 2:57 | 2022-07-28 |  |

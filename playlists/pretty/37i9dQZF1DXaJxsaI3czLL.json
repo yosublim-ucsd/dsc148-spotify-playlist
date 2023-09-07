@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 127145,
+  "num_followers": 127180,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTRhOWUwNDI0YzBmZWY2MTVjMTJkZDI2MzQ4NzExNTZmNDZlZGFi",
+  "snapshot_id": "MCxhMWExOGRmMWM3ZTQxY2VjMmJjODkxMDYzY2QyMzFiMGUyY2M5YWE5",
   "tracks": [
     {
       "added_at": "2023-09-05 15:00:00",
@@ -535,6 +535,46 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+      },
+      "artists": [
+        {
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        },
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 340573,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "Tsuki no Maboroshi ~ Remix works ~",
+        "url": "https://open.spotify.com/album/677gGniYchInGseMSycVKe"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        },
+        {
+          "name": "Hiroshi Fujiwara",
+          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Shin Takara Jima (hf remix)",
+      "url": "https://open.spotify.com/track/0cJEseMqUZcRsEJpceH5Zb"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
         "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
         "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
       },
@@ -555,46 +595,6 @@
       "duration_ms": 287000,
       "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
       "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
-        "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        },
-        {
-          "name": "Hiroshi Fujiwara",
-          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
-      "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
-      },
-      "artists": [
-        {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        },
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        }
-      ],
-      "duration_ms": 340573,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
+      },
+      "artists": [
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        },
+        {
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+        }
+      ],
+      "duration_ms": 223187,
+      "name": "Last Peace",
+      "url": "https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 228005,
       "name": "Separate Seasons",
       "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
-      },
-      "artists": [
-        {
-          "name": "Taichi Mukai",
-          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
-        },
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 223187,
-      "name": "Last Peace",
-      "url": "https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
-      },
-      "artists": [
-        {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
-        }
-      ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1131,22 +1115,6 @@
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -1171,6 +1139,38 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+      },
+      "artists": [
+        {
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+        }
+      ],
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "Prescribing The...",
-        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 287169,
-      "name": "\u82fa",
-      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "Prescribing The...",
+        "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 287169,
+      "name": "\u82fa",
+      "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
+        "name": "BLUEHARLEM",
+        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
+      },
+      "artists": [
+        {
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+        }
+      ],
+      "duration_ms": 327173,
+      "name": "Good Night Station",
+      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
         "name": "\u524d\u3078",
         "url": "https://open.spotify.com/album/1i08uVsbsJOmn2JSOSFD4C"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "BLUEHARLEM",
-        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/44XoDv7runauinyZvY92VD"
       },
       "artists": [
         {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
         }
       ],
-      "duration_ms": 327173,
-      "name": "Good Night Station",
-      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
+      "duration_ms": 94933,
+      "name": "\u5e83\u3044\u4e16\u754c\u3092\u898b\u306a\u3001\u5bdd\u308b\u306e\u306f\u307e\u3060\u65e9\u3044\u3055",
+      "url": "https://open.spotify.com/track/3aow3mcHv9GOqzI9ghHCF4"
     },
     {
       "added_at": "2023-09-05 15:00:00",
@@ -1303,38 +1319,6 @@
     {
       "added_at": "2023-09-05 15:00:00",
       "album": {
-        "name": "Soil",
-        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
-      },
-      "artists": [
-        {
-          "name": "naomi paris tokyo",
-          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
-        }
-      ],
-      "duration_ms": 357073,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
-        "name": "\u89d2\u3092\u63a2\u3059\u4eba",
-        "url": "https://open.spotify.com/album/7iMAmNtdF8KZZiyupPHhzo"
-      },
-      "artists": [
-        {
-          "name": "\u6d66\u4e0a\u60f3\u8d77",
-          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
-        }
-      ],
-      "duration_ms": 356258,
-      "name": "\u89d2\u3092\u63a2\u3059\u4eba",
-      "url": "https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq"
-    },
-    {
-      "added_at": "2023-09-05 15:00:00",
-      "album": {
         "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
         "url": "https://open.spotify.com/album/41kjvJsOSF46d9QIv8RuUy"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"
+    },
+    {
+      "added_at": "2023-09-05 15:00:00",
+      "album": {
+        "name": "Soil",
+        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+      },
+      "artists": [
+        {
+          "name": "naomi paris tokyo",
+          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+        }
+      ],
+      "duration_ms": 357073,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

@@ -4,14 +4,14 @@
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-54 songs - 5 hr 16 min
+55 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adam Nana](https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc) | [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [Adam Nana](https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH) | 3:50 | 2023-04-06 |  |
-| [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 | 2023-04-06 | 2023-09-05 |
+| [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 | 2023-04-06 |  |
 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 | 2023-04-06 |  |
-| [Aden Nti Na Woresu Yi\_](https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Holy Ghost](https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0) | 5:47 | 2023-04-06 |  |
+| [Aden Nti Na Woresu Yi\_](https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Holy Ghost](https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0) | 5:47 | 2023-04-06 | 2023-09-07 |
 | [ADOM BI](https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL) | [No Tribe](https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1) | [The Altar](https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4) | 4:18 | 2023-04-06 |  |
 | [Afurumuba](https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj) | [Cecilia Marfo](https://open.spotify.com/artist/2ruygXlfagVfWzDhyNooZo) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:18 | 2023-04-06 |  |
 | [Agyenkwah](https://open.spotify.com/track/0Mo8oQn8ZjAhU8ftXjxrg7) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [My Saviour](https://open.spotify.com/album/5dDZ6d85Ak4mwjt5YUvwlC) | 5:31 | 2023-04-06 |  |
@@ -30,7 +30,7 @@
 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 | 2023-04-06 |  |
 | [E Be God](https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [The Counselor I](https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry) | 5:06 | 2023-04-06 |  |
 | [Ebenezer](https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:14 | 2023-04-06 | 2023-04-22 |
-| [Enyi Me Mma](https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:31 | 2023-04-06 |  |
+| [Enyi Me Mma](https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:31 | 2023-04-06 | 2023-09-07 |
 | [Ghana Local Worship](https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Naa Mercy](https://open.spotify.com/artist/21ARrGfmU7xp92nCM0N4ib), [Calvis Hammond](https://open.spotify.com/artist/7BtTdyh7xO8z4T7gpXA6Hh), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 16:17 | 2023-04-06 |  |
 | [Go Higher](https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:55 | 2023-04-06 |  |
 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 | 2023-04-06 |  |
@@ -44,6 +44,7 @@
 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 | 2023-04-06 |  |
 | [Metease yi](https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [My Vision](https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK) | 5:31 | 2023-04-06 |  |
 | [Mo Ne Yo](https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 4:29 | 2023-04-06 |  |
+| [Moving Forward](https://open.spotify.com/track/4qVOF4NQeIxRCWGfHxCPwT) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Moving Forward](https://open.spotify.com/album/7diObPzwppZEKJjTNrGlHr) | 5:06 | 2023-04-06 |  |
 | [Nipa](https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt) | [Esther Smith](https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8) | [Onyame Boafuo](https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg) | 5:16 | 2023-04-06 |  |
 | [Nyame Do Me](https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ) | [Isaac Ampong](https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:24 | 2023-04-06 |  |
 | [Nyame Eguamba](https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 5:05 | 2023-04-06 |  |

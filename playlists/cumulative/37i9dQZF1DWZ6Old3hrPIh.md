@@ -4,7 +4,7 @@
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-73 songs - 8 hr 24 min
+74 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 | 2022-03-07 |  |
 | [Aaya Laariye](https://open.spotify.com/track/3AwPmvABmAc0iVuH49UOi8) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:12 | 2022-03-07 | 2022-07-29 |
 | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/track/3mdWh20oySW08m75NxSC51) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF) | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/album/53Itk6l9qzgKvvTBopDjhi) | 7:12 | 2022-03-07 |  |
-| [Ae Dil Kisi Ki Yaad Mein](https://open.spotify.com/track/335kskxwq8xBigEXYBQ61e) | [Sara Haider](https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 5:55 | 2022-03-07 |  |
+| [Ae Dil Kisi Ki Yaad Mein](https://open.spotify.com/track/3lSvGJBxKoSGcDTjm0DRD8) | [Sara Haider](https://open.spotify.com/artist/6SAVSCOYe60i9z4XY9O2Rh) | [Coke Studio Season 8 Episode 4](https://open.spotify.com/album/06uotZnnaFu0JEwbMAJyE4) | 5:55 | 2022-03-07 |  |
+| [Ae Dil Kisi Ki Yaad Mein](https://open.spotify.com/track/335kskxwq8xBigEXYBQ61e) | [Sara Haider](https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 5:55 | 2022-03-07 | 2023-09-07 |
 | [Afreen Afreen](https://open.spotify.com/track/4tTfuSruVfIbN1PgpgmTee) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 6:40 | 2022-03-07 | 2022-07-29 |
 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 | 2022-03-07 |  |
 | [Alif Allah Chambey Di Booty](https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref) | [Arif Lohar & Meesha Shafi](https://open.spotify.com/artist/2AI4UlqXx9uRwCcK4hCqcg), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 8:44 | 2022-03-07 |  |

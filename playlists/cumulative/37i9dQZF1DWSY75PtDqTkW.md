@@ -4,7 +4,7 @@
 
 > Extra van je vrije tijd genieten voor jong en oud.
 
-278 songs - 18 hr 29 min
+279 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Good Heart](https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX) | [Feargal Sharkey](https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T) | [Feargal Sharkey](https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N) | 4:41 | 2021-12-28 |  |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2021-12-28 |  |
 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/1LFK84nUerBbYfFd1LmnTm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 4:24 | 2021-12-28 |  |
-| [About A Girl](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 | 2021-12-28 |  |
+| [About A Girl \- Live](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 | 2021-12-28 |  |
 | [Absolute Beginners \- 2002 Remaster](https://open.spotify.com/track/5PBFhuXB9tgBaP31nfbkS5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Absolute Beginners](https://open.spotify.com/album/4YfMtOTb3PcIbv5VI6zibX) | 5:37 | 2021-12-28 |  |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2021-12-28 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2021-12-28 |  |
@@ -105,7 +105,8 @@
 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 | 2021-12-28 |  |
 | [High](https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Postcards From Heaven](https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1) | 5:10 | 2021-12-28 |  |
 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 | 2021-12-28 |  |
-| [High Places \- Radio Edit](https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only \(Deluxe Edition\)](https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6) | 3:44 | 2021-12-28 |  |
+| [High Places \- Radio Edit](https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only \(Deluxe Edition\)](https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6) | 3:44 | 2021-12-28 | 2023-09-07 |
+| [High Places \- Radio Edit](https://open.spotify.com/track/61astKgCviWvZBzarzoLj3) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only](https://open.spotify.com/album/3Il322SNo1g3L05JO22BvR) | 3:44 | 2023-07-20 |  |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2021-12-28 |  |
 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2021-12-28 |  |
 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 | 2021-12-28 |  |

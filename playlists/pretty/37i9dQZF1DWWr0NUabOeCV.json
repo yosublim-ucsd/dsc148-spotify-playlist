@@ -1,12 +1,12 @@
 {
   "description": "Para iniciar la fiesta. \u00a1Salud!",
-  "num_followers": 16548,
+  "num_followers": 16549,
   "original_name": "Toneras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg2NmQ0NzJlOGY0MGMwZjQyYzg4YjM2ODAxZDliNTM0ZWEyMjY4",
+  "snapshot_id": "MCwzMzcyMDExNDJlZWU1M2E2MGQ4ZTQ0MWZiNTMyMTcxMDg2MmY2MWMy",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]",
         "url": "https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 382555,
       "name": "La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
       "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
+        "name": "Mal de Amores",
+        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 289933,
       "name": "No Te Enamores - Remix",
       "url": "https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "Mal de Amores",
-        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
     },
     {
       "added_at": "2021-12-14 16:04:58",

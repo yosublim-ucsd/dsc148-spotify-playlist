@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2566,
+  "num_followers": 2584,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDkxMDFkN2FjODM3ZDRlMDA2MmUzZTcyMDAyYTRlYTNiM2UwYzVj",
+  "snapshot_id": "MCxmNWNhZDYyZjgyYjAzNjgxYmNhYjJmNTViNjJiNWE0Y2IwZTQyZDli",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -391,22 +391,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+        "name": "Regalo de Navidad",
+        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
       },
       "artists": [
         {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+          "name": "Gary Nu\u00f1ez & Plena Libre",
+          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Palo'e bandera",
-      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
+      "duration_ms": 411213,
+      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
+      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -427,18 +423,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Regalo de Navidad",
-        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
       "artists": [
         {
-          "name": "Gary Nu\u00f1ez & Plena Libre",
-          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
         }
       ],
-      "duration_ms": 411213,
-      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
-      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
+      "duration_ms": 194760,
+      "name": "Palo'e bandera",
+      "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Pal' Mundo",
-        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
-      },
-      "artists": [
-        {
-          "name": "Bomba & Plena",
-          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
-        }
-      ],
-      "duration_ms": 229103,
-      "name": "Bombale",
-      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Candela!",
         "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 260946,
       "name": "Ola de la Mar",
       "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Pal' Mundo",
+        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
+      },
+      "artists": [
+        {
+          "name": "Bomba & Plena",
+          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
+        }
+      ],
+      "duration_ms": 229103,
+      "name": "Bombale",
+      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tambuy\u00e9",
-        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+        "name": "\u00edEst\u00e1 es mi rumba!",
+        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
       },
       "artists": [
         {
-          "name": "Tambuy\u00e9",
-          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
         }
       ],
-      "duration_ms": 365600,
-      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
-      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
+      "duration_ms": 236785,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 150333,
-      "name": "Yuba La Marile",
-      "url": "https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2"
+      "duration_ms": 243586,
+      "name": "La Negra Pancha",
+      "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+      },
+      "artists": [
+        {
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Org\u00e1nico y Medicinal",
         "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 300674,
       "name": "La Revoluci\u00f3n (A la Calle Plenero)",
       "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "\u00edEst\u00e1 es mi rumba!",
-        "url": "https://open.spotify.com/album/0oMPQ5BDsAcBTGkdo3nVkU"
-      },
-      "artists": [
-        {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
-        }
-      ],
-      "duration_ms": 236785,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Zona de Bomba",
-        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
-      },
-      "artists": [
-        {
-          "name": "Zona de Bomba",
-          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
-        }
-      ],
-      "duration_ms": 350346,
-      "name": "Sirenas, Sangueo y San Mill\u00e1n",
-      "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "A La Buena S\u00ed",
         "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 174345,
       "name": "A La Buena S\u00ed",
       "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+      },
+      "artists": [
+        {
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+        }
+      ],
+      "duration_ms": 350346,
+      "name": "Sirenas, Sangueo y San Mill\u00e1n",
+      "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
     },
     {
       "added_at": "2023-06-13 22:15:19",

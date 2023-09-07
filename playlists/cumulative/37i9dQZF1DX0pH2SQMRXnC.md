@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-616 songs - 1 day 11 hr 40 min
+617 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Exhale](https://open.spotify.com/track/3N9ng00i9rx0E3OeebXXW6) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Exhale](https://open.spotify.com/album/1WbaboljISzBhzFwupv3XL) | 3:32 | 2022-12-27 | 2023-01-03 |
 | [Exhale](https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Exhale](https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU) | 3:32 | 2022-12-09 | 2023-04-18 |
 | [Exist](https://open.spotify.com/track/7HiN2dRRco0wxLSJytLIAd) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs) | [Exist](https://open.spotify.com/album/1irczmJHGzFX6lrXjPGB13) | 4:00 | 2021-12-16 | 2022-07-01 |
-| [F.O.O.L\. \- Hard Mix](https://open.spotify.com/track/5PaX3RxYZKeqIZzuC2vtOH) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [F.O.O.L.](https://open.spotify.com/album/6LF2nUkqmDjMNBwpQEwt0z) | 3:05 | 2022-07-22 |  |
+| [F.O.O.L\. \- Hard Mix](https://open.spotify.com/track/5PaX3RxYZKeqIZzuC2vtOH) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [F.O.O.L.](https://open.spotify.com/album/6LF2nUkqmDjMNBwpQEwt0z) | 3:05 | 2022-07-22 | 2023-09-07 |
 | [F.O.O.L\. \- Hard Mix](https://open.spotify.com/track/63KC2Aunh24fSJkOIaWCk1) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [F.O.O.L\. \(Hard Mix\)](https://open.spotify.com/album/5TjMi1M5Hj3sdSOMhKzpFP) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Face The Fire](https://open.spotify.com/track/4evxamNGus4rXd3EN74Hy6) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Face The Fire](https://open.spotify.com/album/0GhIWxKkS99zPV9m8OkGTB) | 3:55 | 2022-12-27 | 2023-01-03 |
 | [Faith Of This World \- Original Mix](https://open.spotify.com/track/3l0zz7lo8PPlXryowB0254) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Faith Of This World \(Original Mix\)](https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE) | 4:02 | 2022-05-29 |  |
@@ -245,6 +245,7 @@
 | [Here To Stay](https://open.spotify.com/track/4bidbyOK1pdyHM3Hu0cvKO) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [Here To Stay](https://open.spotify.com/album/7lbZP1s3x8hvjQDXK20mMQ) | 4:22 | 2021-12-28 | 2022-11-01 |
 | [Hero](https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV) | [Hero](https://open.spotify.com/album/6WN1NA4eXWtdmNdXzjxEVS) | 3:02 | 2022-10-13 |  |
 | [Hero’s Journey \(Official Anthem Fairytale Festival 2019\)](https://open.spotify.com/track/2Surrty34uHAIN9b7ENgCQ) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Hero’s Journey \(Official Anthem Fairytale Festival 2019\)](https://open.spotify.com/album/6d5zsWOyROVV0lPiPTKG66) | 4:14 | 2021-12-16 | 2022-06-12 |
+| [Hiding](https://open.spotify.com/track/58vvcs6zKY0a5YLOI2ARrE) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Hiding](https://open.spotify.com/album/1IJlUWOEIvjfweNgnGDlmU) | 3:37 | 2023-09-06 |  |
 | [High From It \(Coone & Sephyx Remix\)](https://open.spotify.com/track/3XussQ7yygu3uoAPEDlwhi) | [LAXX](https://open.spotify.com/artist/2kDv96OSt2CHxn9zx3pBwx), [Belle Humble](https://open.spotify.com/artist/5Uh9Oco0Khv18UvTo2PucM), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Trip To Tomorrow](https://open.spotify.com/album/54eWpBGnOsZkADEGirKRLd) | 2:59 | 2021-12-16 | 2022-09-16 |
 | [Higher](https://open.spotify.com/track/7glssGGXw5IFTquoddZ7cn) | [Crystal Mad](https://open.spotify.com/artist/2NyXMMvV782sHnPZogo3bH), [Kutski](https://open.spotify.com/artist/49PZ7FFeHPdNJlOd76pmdr) | [Whilst We're Young](https://open.spotify.com/album/0YIcR2AQA7w5vEE3w0fQze) | 2:56 | 2022-03-24 | 2022-04-20 |
 | [Higher](https://open.spotify.com/track/2dEMhq5qrP52ooZrtaPRTZ) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Higher](https://open.spotify.com/album/2Iozy73N8xt57vKBASmLu3) | 2:35 | 2021-12-28 | 2022-06-07 |

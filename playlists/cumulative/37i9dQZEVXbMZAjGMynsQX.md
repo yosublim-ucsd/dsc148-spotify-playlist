@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-801 songs - 1 day 21 hr 30 min
+802 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-05 | 2023-09-01 |
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-07 | 2022-11-30 |
 | [El Año Viejo](https://open.spotify.com/track/5PZlMcW7VUlti8IRdApRIn) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [El Año Viejo](https://open.spotify.com/album/71sqz38xfGvclndbAzc4Gc) | 3:05 | 2022-01-01 | 2023-01-04 |
-| [EL CHACAL](https://open.spotify.com/track/4CQW7jSDYk3kRfv7708NGF) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:17 | 2023-08-30 |  |
+| [EL CHACAL](https://open.spotify.com/track/4CQW7jSDYk3kRfv7708NGF) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:17 | 2023-08-30 | 2023-09-07 |
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-06-03 |  |
 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 | 2023-05-02 | 2023-05-15 |
 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 | 2023-03-18 | 2023-04-14 |
@@ -539,6 +539,7 @@
 | [Pacto \(feat\. Bryant Myers & Dei V\) \- Remix](https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Pacto \(Remix\) \[feat\. Bryant Myers & Dei V\]](https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6) | 5:46 | 2023-07-29 | 2023-08-07 |
 | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 4:44 | 2023-05-31 | 2023-06-25 |
 | [Padre Tiempo](https://open.spotify.com/track/1PtXtGJSDKTkB5urVEZ7rf) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:39 | 2023-03-18 | 2023-03-31 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-06 |  |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-03-20 | 2023-03-19 |
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-06 |
 | [PARA SIEMPRE](https://open.spotify.com/track/272vIYVYzfAgHUQRUYWmhP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:30 | 2022-03-26 | 2022-03-30 |

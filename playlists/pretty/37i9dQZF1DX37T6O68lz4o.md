@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="https://open.spotify.com/artist/5and6mMu319HtYPWAacsju?si=h1ZEBxcITVGdqGQT6p6Fxg">Nay $peaks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,175 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,195 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 49 | [Flavor](https://open.spotify.com/track/6Cz0ZeKQyq723rpUePycbd) | [JOBANNY](https://open.spotify.com/artist/4FLNvTxyvcl8ZWUfLFZec6), [Cuphasol](https://open.spotify.com/artist/0FLCcc9af7R66QW8NDOhq3), [Kairo Saint](https://open.spotify.com/artist/6SPMyUJXpLR8wHQiyhHbzX), [Bucket Boheme](https://open.spotify.com/artist/1oZS00Gd1vU7SAMYmQwV7O) | [CABRERA](https://open.spotify.com/album/3i2POekDsSzdXkP4nDM7oA) | 2:56 |
 | 50 | [Moody](https://open.spotify.com/track/07PoRSMOFn1w2GjaNcGvDu) | [JuS CODE](https://open.spotify.com/artist/433OVAzQuqubUN9KFvLTDB) | [Sold A Dream](https://open.spotify.com/album/7GjbucZPUdN34fNt0zvoPu) | 1:37 |
 
-Snapshot ID: `MCwzNDI4ZWIwZjUwZDE2Mjg2NTE4Y2E0NjNkMDI3Yjg1ZjI3YzI0YzFm`
+Snapshot ID: `MCxhM2RkMDVkOTcwNjY3MDkzZWFkZGU5ZDc1MTIxNWY4YzRhNTg3N2E3`

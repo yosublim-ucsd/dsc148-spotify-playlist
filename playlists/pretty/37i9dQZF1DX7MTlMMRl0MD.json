@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sael",
-  "num_followers": 1918320,
+  "num_followers": 1918421,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGFiMTI4MDU1NWZlNTI2ZjYzZGE5OGY2NDVhYThmNDM1NzIxOTM1",
+  "snapshot_id": "MCw3OWRhNzEyMDY4ZmFhNWRiYjRkZTQzOTNjMzcwMzE0MTI3MmExZTBh",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "...A Pasito Lento!",
-        "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
-      "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Amigos (con Maria Becerra) [Bachata]",
         "url": "https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "...A Pasito Lento!",
+        "url": "https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
+      "url": "https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "LA FALTA QUE ME HACES (Bachata Version)",
-        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 171391,
-      "name": "LA FALTA QUE ME HACES - Bachata Version",
-      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Directo Al Corazon",
         "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 269493,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "LA FALTA QUE ME HACES (Bachata Version)",
+        "url": "https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "LA FALTA QUE ME HACES - Bachata Version",
+      "url": "https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+      },
+      "artists": [
+        {
+          "name": "ZABDIEL",
+          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 193059,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "No Es Casualidad",
         "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 200510,
       "name": "atravesao",
       "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
-      },
-      "artists": [
-        {
-          "name": "ZABDIEL",
-          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 193059,
-      "name": "AVENTURA",
-      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Llora Alma Mia",
-        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 261519,
-      "name": "Llora Alma M\u00eda",
-      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Canciones Inmortales Bachatas",
         "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 472546,
       "name": "Loco de Amor",
       "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Llora Alma Mia",
+        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 261519,
+      "name": "Llora Alma M\u00eda",
+      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Volvio el Dolor",
-        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Volvio el dolor",
-      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Sangre De Mis Venas",
         "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 208008,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Volvio el dolor",
+      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
     },
     {
       "added_at": "2023-09-01 04:00:00",

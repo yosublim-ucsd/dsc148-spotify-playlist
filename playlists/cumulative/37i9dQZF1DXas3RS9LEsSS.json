@@ -1180,7 +1180,7 @@
     {
       "album": {
         "name": "Pappo's Blues, Vol.8: Caso Cerrado",
-        "url": "https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5"
+        "url": "https://open.spotify.com/album/2nPZv089fAeuincr5IVV2k"
       },
       "artists": [
         {
@@ -1191,6 +1191,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Ruta 66",
+      "url": "https://open.spotify.com/track/2X9gEPPboRpGLLRv0Blc6Y"
+    },
+    {
+      "album": {
+        "name": "Pappo's Blues, Vol.8: Caso Cerrado",
+        "url": "https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
       "duration_ms": 186906,
       "name": "Ruta 66",
       "url": "https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ"

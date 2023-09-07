@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: A\. G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,182 likes - 111 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,251 likes - 111 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 4 | [I H8 FC](https://open.spotify.com/track/22edau8DZYqRNelfdlK1QY) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SPEED RUN \(The Remixes\)](https://open.spotify.com/album/1PMaaELbOksBVJwWRZ4hYD) | 2:45 |
 | 5 | [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 |
 | 6 | [REAL LIFE](https://open.spotify.com/track/5a95JHLJOjhKZAtSBsQOjP) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [REAL LIFE](https://open.spotify.com/album/74oUO9GPfa2GblKHojtLxi) | 1:57 |
-| 7 | [Shoplifting From Nike](https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Shoplifting From Nike](https://open.spotify.com/album/2qt1TfPRUFkI6qJzsZMOvC) | 2:21 |
+| 7 | [Shoplifting From Nike](https://open.spotify.com/track/5EeFXlnVF1b7y1n5HzpCQg) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 2:21 |
 | 8 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 9 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
 | 10 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 57 | [A Little Bit Closer](https://open.spotify.com/track/3sXq44iRMLAN93fgEZV3qv) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [First Love](https://open.spotify.com/album/7se0mKGwcGpGZfWTyNCzpO) | 3:12 |
 | 58 | [Let Me Fight](https://open.spotify.com/track/08tAIp0mVArkmIdUAnKMsb) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Let Me Fight](https://open.spotify.com/album/0tbp6MUMK5mIJd4GG8soi3) | 2:48 |
 | 59 | [Cowgirl](https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Cowgirl](https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ) | 3:11 |
-| 60 | [Good Things Take Time](https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Good Things Take Time](https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg) | 2:25 |
+| 60 | [Good Things Take Time](https://open.spotify.com/track/2osU4WkxDWd6ME9qdZ92S2) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 2:25 |
 | 61 | [darkage](https://open.spotify.com/track/2jAGD9wgFRad8RCrUi9dY5) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [darkage/innocence](https://open.spotify.com/album/0zwPSDxKufsPnzATFYneGW) | 3:17 |
 | 62 | [Coat I Would Buy](https://open.spotify.com/track/1dNpt3Aj5T7hpP54GJZaZS) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Coat I Would Buy](https://open.spotify.com/album/5RCYzsjDPZYnQEPtba9roy) | 1:24 |
 | 63 | [ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4PiQXqTTVf4PYb0na1NqMh) | 3:18 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 110 | [FUMD](https://open.spotify.com/track/3cXAJVliJ6H19KpHUvNCd4) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FUMD](https://open.spotify.com/album/1v5W6yDZc3rlmcXSzTZNhb) | 2:20 |
 | 111 | [My Brain is Lasers](https://open.spotify.com/track/6d4cXluehWd5F0OBqjTt8K) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [SPRINKLES!: A.M\. Block](https://open.spotify.com/album/3ky1eVuWvfAbx4s9pPPfcV) | 2:32 |
 
-Snapshot ID: `MCwyODYxNDQwODc5YzFlYTMyODZmYTc2OGM2ZTI3ZDgxNjdhZjEwM2Q5`
+Snapshot ID: `MCw5YmQ5ZTNlNzBhNTEzMTg4MjgzZTYyNWUzM2UwZjA5YmViNTFjNjdk`

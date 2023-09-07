@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Tele
 
-1,050 songs - 2 day 16 hr 31 min
+1,053 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [CHRISTMAS AFTERNOON](https://open.spotify.com/track/62o7GbKYuWcNnEE7rjtnzu) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [With Regard to Christmas](https://open.spotify.com/album/72Ch3T83gNhJV2NEhJ6dkP) | 4:42 | 2022-11-29 | 2023-01-13 |
 | [Cinderella](https://open.spotify.com/track/3X5C1Q3V5dIsIKq2Duj0PK) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Cinderella](https://open.spotify.com/album/5OSFxPHnLpbNav9WmFU9VK) | 4:35 | 2023-01-12 | 2023-04-05 |
 | [CINEMA](https://open.spotify.com/track/06oegyTaD09yOOy3kR0PFn) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [CINEMA](https://open.spotify.com/album/4mx7Oh2UAGhqSZB8s3gbHp) | 2:48 | 2023-07-11 |  |
-| [Cloud Watching](https://open.spotify.com/track/0cApcBHdycwHfHsorf0adA) | [Miyamoto](https://open.spotify.com/artist/3b0xrXMicUXOTmoV59Yx1F) | [Cloud Watching](https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu) | 5:35 | 2023-07-18 |  |
+| [Cloud Watching](https://open.spotify.com/track/0cApcBHdycwHfHsorf0adA) | [Miyamoto](https://open.spotify.com/artist/3b0xrXMicUXOTmoV59Yx1F) | [Cloud Watching](https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu) | 5:35 | 2023-07-18 | 2023-09-07 |
 | [Coin Laundry](https://open.spotify.com/track/1qvK4SiFWA2wKKyPF6RR32) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:42 | 2023-03-22 | 2023-04-19 |
 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 | 2022-10-11 | 2023-01-13 |
 | [comedy](https://open.spotify.com/track/3eLopqgxulNGjdgBVPCmvW) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:36 | 2022-05-31 | 2022-06-19 |
@@ -213,7 +213,8 @@
 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-14 | 2023-07-26 |
 | [Good luck ga kikoenai](https://open.spotify.com/track/55glgkUrI4v10ThfniBh0B) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Good luck ga kikoenai](https://open.spotify.com/album/73C2HGiOsmEmgnYeZLQwAT) | 2:31 | 2023-04-04 | 2023-05-10 |
 | [grape](https://open.spotify.com/track/6bTSDWIS079RHdEDyEJLu4) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [grape](https://open.spotify.com/album/3VMiI7wrgHC906WnFlsCmM) | 2:54 | 2022-11-29 | 2023-01-13 |
-| [Grapefruit Moon](https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y) | 3:16 | 2023-09-05 |  |
+| [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-06 |  |
+| [Grapefruit Moon](https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y) | 3:16 | 2023-09-05 | 2023-09-07 |
 | [Groovynight \- Remix](https://open.spotify.com/track/2lTKHmEIQDjg0QQubfqHsE) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Groovynight \(Remix\)](https://open.spotify.com/album/0KhPPuP0wK1UNATdoEP3OL) | 3:20 | 2023-04-25 | 2023-05-17 |
 | [Hallelujah](https://open.spotify.com/track/2uLw6i7dKRhGXwXlDNvFEc) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN) | [Hallelujah](https://open.spotify.com/album/2TcXSPvKL3QQg2wptUVf8h) | 3:16 | 2022-11-29 | 2022-12-28 |
 | [hanauta](https://open.spotify.com/track/4jup6UZ6V2MJ94Ji0AB7hk) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [23=](https://open.spotify.com/album/4ZD1VhC0IGaLac9meKgNii) | 2:54 | 2023-02-23 | 2023-03-29 |
@@ -581,6 +582,7 @@
 | [U](https://open.spotify.com/track/729FKEauTfVhvHOspPcJUX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/3XBZh0UYt02nctSy4tsKU3) | 2:57 | 2022-02-17 | 2022-03-23 |
 | [U\-MOON](https://open.spotify.com/track/059v50NTXGedmpeuzdcASD) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [U\-MOON](https://open.spotify.com/album/0IfWDO93sKFJEVKJedmFiD) | 3:09 | 2023-05-16 | 2023-05-31 |
 | [U\-MOON](https://open.spotify.com/track/1LX8QiHAc6QslLCNpuQhkB) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [U\-MOON](https://open.spotify.com/album/4q1GYQTdlSGDyQvsEipDeL) | 3:09 | 2023-05-16 | 2023-05-18 |
+| [Umaikotodekiteru \-That's How it Works\-](https://open.spotify.com/track/0GT2Reu9UJxF3EUiwaXphW) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Yume Ga Kanawanakattatokino Juno Taishohou](https://open.spotify.com/album/1tvYoPXLoVWLKDsFBKTqFu) | 3:26 | 2023-09-06 |  |
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-07-28 | 2022-10-26 |
 | [Unmellow](https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Unmellow](https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ) | 2:37 | 2023-08-24 |  |
 | [Up Up](https://open.spotify.com/track/6hzaVqi6CHS7StPe7LRQFB) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Up Up](https://open.spotify.com/album/6Y6b2S0ugs69ByuTNliQMI) | 4:17 | 2022-06-30 | 2022-07-27 |
@@ -650,7 +652,7 @@
 | [いつか \- SOMEDAY \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [いつか \- SOMEDAY \(feat\. tonun\)](https://open.spotify.com/album/2Bx1wsjWVTExc1pLgrvI7h) | 5:03 | 2022-03-31 | 2022-04-13 |
 | [いつかのいつも](https://open.spotify.com/track/60FktwaiSGm0Hp6aV9ljyE) | [KADOMACHI](https://open.spotify.com/artist/47sQEcoMUPAZyJlV2hOzvD) | [カド・マル・サンカク](https://open.spotify.com/album/1DSloI4V5v4gXhsmO1xryf) | 3:10 | 2022-11-15 | 2022-12-14 |
 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-25 | 2023-08-23 |
-| [うまいことできてる \-That’s How it Works\-](https://open.spotify.com/track/0V1jlIfCJHGM6C7ZPwiyyf) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [夢が叶わなかったときの10の対処法 \-10 ways to deal with a broken dream\-](https://open.spotify.com/album/3MAlf0n6vK7dbM8b0fOvBy) | 3:26 | 2023-09-05 |  |
+| [うまいことできてる \-That’s How it Works\-](https://open.spotify.com/track/0V1jlIfCJHGM6C7ZPwiyyf) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [夢が叶わなかったときの10の対処法 \-10 ways to deal with a broken dream\-](https://open.spotify.com/album/3MAlf0n6vK7dbM8b0fOvBy) | 3:26 | 2023-09-05 | 2023-09-07 |
 | [うららか](https://open.spotify.com/track/25O6vSzE2eM5JjL8Ey5vws) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [うららか](https://open.spotify.com/album/4NkXtgqO7mY65KCwGqP5OY) | 3:45 | 2022-04-21 | 2022-05-18 |
 | [おひとつどうぞ](https://open.spotify.com/track/2uskKy1iGWPva9PAHBPTEQ) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [おひとつどうぞ](https://open.spotify.com/album/2wp7YuVO3XI7ZpP1U0XrwV) | 4:45 | 2022-05-17 | 2022-06-08 |
 | [おぼえたて](https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ペンシルロケット](https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8) | 3:27 | 2022-10-25 | 2022-12-21 |
@@ -1005,6 +1007,7 @@
 | [私小説](https://open.spotify.com/track/5yrcqOxTWVLOnT00AXeiNu) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [私小説](https://open.spotify.com/album/7FlKBxbdbMM2xPBGY2MoxY) | 4:13 | 2022-02-17 | 2022-03-16 |
 | [空](https://open.spotify.com/track/1lwv5k50GkovuXJLFzm6lG) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [空](https://open.spotify.com/album/45BX1MKbn08yZfKpApLo0v) | 3:09 | 2023-03-07 | 2023-03-29 |
 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 | 2022-12-06 | 2023-02-02 |
+| [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 | 2023-09-06 |  |
 | [空前絶後のジェネレーション](https://open.spotify.com/track/2XD0Fyup1w3s3Hej7h7G6M) | [Dumyy Lou](https://open.spotify.com/artist/5YdM8sVMtYW9BpkYiVVNcN) | [The Dumyy Lou](https://open.spotify.com/album/34yCoPGaslilVLqQrnvepi) | 1:43 | 2023-03-28 | 2023-04-12 |
 | [突然変異](https://open.spotify.com/track/7zockz49Ux0fDbly9D94BS) | [ろくようび](https://open.spotify.com/artist/4fESCyyS071fh8GJnSYpks) | [Quiz](https://open.spotify.com/album/25kXmupN03KW06qkPRp0y0) | 5:26 | 2022-04-04 | 2022-05-11 |
 | [笑い話 \-A Funny Story\-](https://open.spotify.com/track/1WfJhEEp4aERI2LSwCNrHo) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [笑い話 \-A Funny Story\-](https://open.spotify.com/album/37tFQhmITvrC6c9m8KqIGY) | 3:47 | 2023-04-25 | 2023-04-27 |

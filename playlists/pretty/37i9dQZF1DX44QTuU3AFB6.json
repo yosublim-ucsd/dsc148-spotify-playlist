@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 254215,
+  "num_followers": 254580,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWE1MTNkNjIxNGNiN2ZlYWFlZDk4ZTliNDkzNDNiYThhNWY1Zjdm",
+  "snapshot_id": "MCwwMGE1YmIxMDA1ZWRkMmQ1NDliMGVhZjM2YWFkNGI0ODhiYzAyZDYz",
   "tracks": [
     {
       "added_at": "2023-05-15 21:37:27",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 163223,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -787,6 +787,22 @@
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Gu\u00e1rdame Esta Noche",
         "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 126498,
       "name": "Whiskey Con Agua",
       "url": "https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 205125,
       "name": "Chingas A Tu Madre",
       "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/6Jf2rqjSUSC6dYTwks1g9n"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 162832,
-      "name": "B\u00e1jale",
-      "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "La Chapiza",
         "url": "https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 152750,
       "name": "La Chapiza",
       "url": "https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 162832,
+      "name": "B\u00e1jale",
+      "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
+        "name": "Lo Mejor De Homenaje A Una Vida",
+        "url": "https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 155786,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/0UkIrDmZ19PFFi6SXx9RBd"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
         "name": "El Tiempo Que Me Quede",
         "url": "https://open.spotify.com/album/5un67SoPaoD1gsoMVyuzG4"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 216946,
       "name": "El Tiempo Que Me Quede",
       "url": "https://open.spotify.com/track/5pDkz9SvcPvFvC21EunbMQ"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
-        "name": "Lo Mejor De Homenaje A Una Vida",
-        "url": "https://open.spotify.com/album/4IMIycfVRmQVdtKYeoWqqr"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 155786,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/0UkIrDmZ19PFFi6SXx9RBd"
     },
     {
       "added_at": "2023-05-15 21:37:27",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2023-05-15 21:37:27",
       "album": {
-        "name": "Porque Te Quiero Amor",
-        "url": "https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alfa 7",
-          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "La Ara\u00f1a",
-      "url": "https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05"
-    },
-    {
-      "added_at": "2023-05-15 21:37:27",
-      "album": {
         "name": "Dinero F\u00e1cil",
         "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 217283,
       "name": "As\u00ed Quer\u00eda Mirarte",
       "url": "https://open.spotify.com/track/2NzprDAMQJGOxRpgmPk70G"
+    },
+    {
+      "added_at": "2023-05-15 21:37:27",
+      "album": {
+        "name": "Porque Te Quiero Amor",
+        "url": "https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alfa 7",
+          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "La Ara\u00f1a",
+      "url": "https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05"
     },
     {
       "added_at": "2023-05-15 21:37:27",

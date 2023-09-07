@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-433 songs - 1 day 6 hr 38 min
+434 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 | 2018-12-12 |  |
 | [Duel](https://open.spotify.com/track/3v7qgdQzpiNulr8eytLNXX) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish](https://open.spotify.com/album/20WvOLT4klgKqzYGJGFDMV) | 4:48 | 2018-12-12 | 2022-07-29 |
 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 | 2018-12-12 | 2023-03-02 |
+| [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 | 2023-05-03 |  |
 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 | 2019-08-01 | 2023-09-02 |
 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 | 2018-12-18 |  |
 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 | 2018-12-12 |  |
@@ -388,7 +389,7 @@
 | [Troy](https://open.spotify.com/track/6m3kJ6d7Ypd1eoBoGP2qZN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 6:31 | 2021-07-27 | 2022-07-20 |
 | [True Faith \- 2015 Remaster](https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:12 | 2019-08-02 |  |
 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 | 2018-12-12 | 2022-04-20 |
-| [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2018-12-12 |  |
+| [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2018-12-12 | 2023-09-07 |
 | [Turning Japanese \- Non Stop Edit](https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr) | [The Vapors](https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2) | [New Clear Days](https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA) | 3:44 | 2019-08-07 |  |
 | [Tv Treated](https://open.spotify.com/track/2ovclAhfM1T6ulu3CNDQ8J) | [The Neon Judgement](https://open.spotify.com/artist/6mB1JVYIIk1NuBNBXcwrbk) | [1981\-1984](https://open.spotify.com/album/1AD5iuEEGePZR4YQJ0Wf2t) | 6:31 | 2019-08-07 | 2022-04-21 |
 | [Twenty Four Hour Party People](https://open.spotify.com/track/5ay7lvuij2y4KFf3jThDsG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Squirrel And G\-Man Twenty Four Hour Party People Plastic Face Carnt Smile \(White Out\)](https://open.spotify.com/album/0HBTwVE0e8hhVKBYi6JlVT) | 4:40 | 2018-12-12 | 2022-11-13 |

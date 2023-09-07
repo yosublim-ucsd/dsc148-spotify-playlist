@@ -4,7 +4,7 @@
 
 > The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=XdZy\-xaoSuyZh6p4EsBj1Q">Nawal</a>
 
-334 songs - 20 hr 8 min
+335 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Call Me](https://open.spotify.com/track/5VYEBcFvG8bNqwpnbQv9eu) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/33osRJgOnEAOry3VmsKoAj) | 2:45 | 2021-12-12 | 2022-09-27 |
 | [Caramella](https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Caramella](https://open.spotify.com/album/2MX5RzKjcNs5sjQ87TrCNn) | 3:52 | 2023-05-14 | 2023-06-15 |
 | [Chokran la vie](https://open.spotify.com/track/2U8ErvM7WUELQ5rhXFQIUz) | [Lsan L7or](https://open.spotify.com/artist/3HyATnFu4reyWAEn5rZEog), [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Chokran la vie](https://open.spotify.com/album/593LqSldvuA4xnzpiaz3BP) | 3:59 | 2021-12-12 | 2022-07-21 |
-| [Come Baby Come](https://open.spotify.com/track/2FtwA6cVlrYeJzN8lCiwHS) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Come Baby Come](https://open.spotify.com/album/45VdyjjPc7u8g8UeOvowjI) | 2:25 | 2023-05-11 |  |
+| [Come Baby Come](https://open.spotify.com/track/2FtwA6cVlrYeJzN8lCiwHS) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Come Baby Come](https://open.spotify.com/album/45VdyjjPc7u8g8UeOvowjI) | 2:25 | 2023-05-11 | 2023-09-07 |
 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 | 2021-12-12 | 2022-09-19 |
 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 | 2023-03-07 | 2023-05-18 |
 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 | 2022-10-07 | 2023-05-15 |
@@ -302,6 +302,7 @@
 | [براڤو عليك](https://open.spotify.com/track/4QtFRUFS7BVi3OHUfmt2dP) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj), [Haneen Alkandari](https://open.spotify.com/artist/2Ta2wwXNha3yoxUuOQVMOF) | [براڤو عليك](https://open.spotify.com/album/4i1xPjQurMytzpR1mW3zIw) | 2:58 | 2021-12-12 | 2023-04-20 |
 | [بنت ابويا](https://open.spotify.com/track/5mHgUdUiaLYXyCLzbOfhfD) | [هناء يسري](https://open.spotify.com/artist/21mycRtvhUO077yAXgb9H3) | [بنت ابويا](https://open.spotify.com/album/7b3HsBstujKBNDT9tJQQRc) | 3:57 | 2023-02-17 | 2023-06-05 |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-02 | 2023-06-02 |
+| [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-09-06 |  |
 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-18 | 2022-11-02 |
 | [حس بيا](https://open.spotify.com/track/2YTco398182eSCcjCsq6JR) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [حس بيا](https://open.spotify.com/album/1a1CqlQaPhwDKgPMcBIWZj) | 4:04 | 2021-12-12 | 2022-09-19 |
 | [حكايتنا منهيه](https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حكايتنا منهيه](https://open.spotify.com/album/5XI16cGZpAQzd2Zv8Ztcyd) | 4:39 | 2023-08-14 |  |

@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Dance Party King",
+        "url": "https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03"
+      },
+      "artists": [
+        {
+          "name": "Sundar Popo",
+          "url": "https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Caroni Gyul",
+      "url": "https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM"
+    },
+    {
+      "album": {
         "name": "Sundar Popo Greatest Hits, Vol. 2",
         "url": "https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 264306,
       "name": "Dhobinya Kay Maar",
       "url": "https://open.spotify.com/track/2b8Rf3fWIDZJCpJ1bm67xz"
@@ -863,6 +881,46 @@
     },
     {
       "album": {
+        "name": "Ghunghat Gira Ke",
+        "url": "https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f"
+      },
+      "artists": [
+        {
+          "name": "Kem Chanlall",
+          "url": "https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354496,
+      "name": "Ghunghat Gira Ke",
+      "url": "https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm"
+    },
+    {
+      "album": {
+        "name": "Ghungroo (feat. Ravi B)",
+        "url": "https://open.spotify.com/album/1tWzdyvTgq5XXoN5KXJZxE"
+      },
+      "artists": [
+        {
+          "name": "Nisha B",
+          "url": "https://open.spotify.com/artist/6IajZXjeim787TECOi1vLR"
+        },
+        {
+          "name": "Ravi B",
+          "url": "https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256052,
+      "name": "Ghungroo (feat. Ravi B)",
+      "url": "https://open.spotify.com/track/5sn0V3nw7iS42hrj2mQ0Sl"
+    },
+    {
+      "album": {
         "name": "Gunga Ghana",
         "url": "https://open.spotify.com/album/5HHAYnNENqxTSYOnnx1Ilk"
       },
@@ -900,6 +958,24 @@
       "duration_ms": 296080,
       "name": "Ho More Raja",
       "url": "https://open.spotify.com/track/4du8jzQa9JHA2BB9IVprmc"
+    },
+    {
+      "album": {
+        "name": "License to Wine",
+        "url": "https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp"
+      },
+      "artists": [
+        {
+          "name": "Ravi B and Karma the Band",
+          "url": "https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177372,
+      "name": "Holi Kare",
+      "url": "https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C"
     },
     {
       "album": {
@@ -1088,7 +1164,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 247786,
       "name": "Kaha Ratiya",
       "url": "https://open.spotify.com/track/0JrJLBUf8lOJOjdU2pFgYo"
@@ -1276,7 +1352,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 221074,
       "name": "Lago Tore Paiya",
       "url": "https://open.spotify.com/track/4kIvWWW7DVn5dNE5dZsTGK"
@@ -1536,7 +1612,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 212146,
       "name": "Phoolan Kee Bahar",
       "url": "https://open.spotify.com/track/7nDjhlHgqmCK0WSym7E90m"
@@ -1612,6 +1688,24 @@
       "duration_ms": 265360,
       "name": "Puncheon",
       "url": "https://open.spotify.com/track/25AglYxsUwF2I1G506jOQZ"
+    },
+    {
+      "album": {
+        "name": "Elements of Chutney",
+        "url": "https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8"
+      },
+      "artists": [
+        {
+          "name": "Anand Yankaran",
+          "url": "https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343760,
+      "name": "Pussur Pussur",
+      "url": "https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG"
     },
     {
       "album": {

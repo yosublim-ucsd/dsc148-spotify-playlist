@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,896 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,489 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 20 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 |
 | 21 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 |
 | 22 | [Bloody Mary](https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Bloody Mary](https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9) | 2:32 |
-| 23 | [Paradise](https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme) | 3:14 |
-| 24 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
+| 23 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
+| 24 | [Paradise](https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2) | [Paradise](https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme) | 3:14 |
 | 25 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
 | 26 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |
 | 27 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
 | 70 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 
-Snapshot ID: `MCwzNDFkMDU2ZjgyZTQyMDZiNDdmY2RjNWQ1M2NiN2NkYTZlZjE1NmVk`
+Snapshot ID: `MCwxNTU0YWQ0ZWUyYjViNWMzZWQ1NjM3YTM2YjBhZDc4YjZjNjhmZjhl`

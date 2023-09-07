@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: MIKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,714 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,725 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 25 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 |
 | 26 | [Macabre](https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Macabre](https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us) | 3:28 |
 | 27 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 |
-| 28 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 |
-| 29 | [Au bord de la mer](https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Au bord de la mer](https://open.spotify.com/album/68QdmvGYzprjbODlaItocj) | 3:13 |
+| 28 | [Au bord de la mer](https://open.spotify.com/track/4JRzne9QPdoRTipanGEqh3) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Au bord de la mer](https://open.spotify.com/album/68QdmvGYzprjbODlaItocj) | 3:13 |
+| 29 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 |
 | 30 | [Cités de France](https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 |
 | 31 | [Femmes](https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Femmes](https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u) | 2:11 |
 | 32 | [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 |
 | 33 | [Molo \(feat\. Dadju\)](https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 2:56 |
 | 34 | [Cette vie](https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Cette vie](https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC) | 2:19 |
-| 35 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 |
-| 36 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
+| 35 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
+| 36 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 |
 | 37 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 |
 | 38 | [Eyes Contact](https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Eyes Contact](https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK) | 2:18 |
 | 39 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Algérien Fâché](https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Algérien Fâché](https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb) | 1:52 |
 | 50 | [R+V](https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [R+V](https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja) | 1:29 |
 
-Snapshot ID: `MCxlNDMwMTkzNzkwYjEwMGRmMDlmMjcwZDE4Y2FlZjk3NDdhZDJhMzlm`
+Snapshot ID: `MCwyZWZjMGNmNDA5YWEzNGFhNWRiMmQ4OGRlZTQzMDlhOWJjNmZkZTUz`

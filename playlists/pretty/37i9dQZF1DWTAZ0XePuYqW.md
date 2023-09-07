@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Ruger
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,539 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,096 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 8 | [DRAMA](https://open.spotify.com/track/5VK2OPvikCd6kHkZ7ejcOa) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [DRAMA](https://open.spotify.com/album/2NpemlT4sYpsFwaylWOPBp) | 2:23 |
 | 9 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 |
 | 10 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [German Engineering 1](https://open.spotify.com/album/04H4TNzWHYqXHczL5Px7pP) | 2:38 |
-| 11 | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
+| 11 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
 | 12 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 |
 | 13 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 14 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 88 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 | 89 | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0) | 3:22 |
 
-Snapshot ID: `MCw1NWIxZDE3MTVhZjlmODNhMjViZTM0NzQwMWQ4Y2Y2NjY2ZDlkMDRm`
+Snapshot ID: `MCwwZGUwNzY1NmU3ODBlZWMwNmI3MGM3ODhiMGNiNDI5NjlhNmYzNjI3`

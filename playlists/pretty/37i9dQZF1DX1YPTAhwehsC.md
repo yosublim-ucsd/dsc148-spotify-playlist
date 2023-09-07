@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,592 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,644 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 53 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 |
 | 54 | [HUSTLERS \(feat\. Tyga\)](https://open.spotify.com/track/5LNxpOCHQWtBFH0fAveAEY) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:58 |
 | 55 | [FROM THE JUMP](https://open.spotify.com/track/1nl1d6sSgpJnUbh0SGAywr) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [FROM THE JUMP](https://open.spotify.com/album/6ymJ8uS3BsnYLBysuKi1rG) | 1:36 |
-| 56 | [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 |
+| 56 | [This Is New York](https://open.spotify.com/track/1sn4GarhOWPEWaFRBMtaSt) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/3eugYbmPxCM1oGbDTXXkMX) | 2:17 |
 | 57 | [Bent](https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Bent](https://open.spotify.com/album/1lzWtPTZrL3ZE1oagDJgvL) | 2:50 |
 | 58 | [How Things Go](https://open.spotify.com/track/43eFhR58E5V6tykPRXjt56) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [How Things Go](https://open.spotify.com/album/0tgeWfDBAcA0Enbdzn3Erg) | 2:35 |
 | 59 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu) | 3:13 |
 | 100 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 
-Snapshot ID: `MCw3ZTQ3MjJhODM4YmQ1ODA5MTE3ZTMwMjk4YjFjZjRlOGE3MGE4YTI5`
+Snapshot ID: `MCw3Y2VhYTIzNWQyOWQxMjU3M2RlYzYyNzdiOWNmNDVhYWNhMDAwYTc3`

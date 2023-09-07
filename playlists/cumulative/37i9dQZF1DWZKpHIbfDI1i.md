@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Maná & Eden Muñoz en portada.
 
-668 songs - 1 day 12 hr 19 min
+669 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 | 2023-06-09 | 2023-09-02 |
 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 | 2022-10-14 | 2023-02-17 |
 | [365](https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf) | 3:08 | 2023-02-10 | 2023-03-18 |
-| [3x4](https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3x4](https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e) | 2:47 | 2023-09-01 |  |
+| [3x4](https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3x4](https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e) | 2:47 | 2023-09-01 | 2023-09-07 |
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2022-08-26 | 2023-02-25 |
 | [6 en Mi Rollie](https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [6 en Mi Rollie](https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz) | 5:25 | 2022-07-29 | 2022-08-19 |
 | [77](https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [77](https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq) | 3:35 | 2023-05-05 | 2023-06-23 |
@@ -567,6 +567,7 @@
 | [Soy](https://open.spotify.com/track/47o7j4LL3wM9mCOiAAKD65) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:09 | 2022-07-29 | 2022-09-17 |
 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 | 2022-01-31 | 2022-02-12 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-03-29 | 2022-07-16 |
+| [SQ LITO](https://open.spotify.com/track/6xGn94pu3u5xDpEDbrbDbn) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [SQ LITO](https://open.spotify.com/album/05e97jCxn4v6Ljq7uirzHk) | 3:19 | 2023-09-01 |  |
 | [Suburbios](https://open.spotify.com/track/1EwMmSJe5rk0Nd0DiD8v6w) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 4:19 | 2022-04-01 | 2022-05-07 |
 | [Supongo Que Lo Sabes](https://open.spotify.com/track/0poZ5t6JLsuxtUXfhPDLJI) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 3:46 | 2023-05-26 | 2023-06-23 |
 | [Símbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 | 2023-07-21 |  |

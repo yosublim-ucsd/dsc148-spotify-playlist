@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Cody Fry
 
-276 songs - 15 hr 4 min
+277 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Mawce](https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY) | [Everybody's Worried About Owen](https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx) | [Mawce](https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7) | 3:02 | 2022-06-07 | 2022-12-10 |
 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 | 2022-05-17 |  |
 | [Michael in the Bathroom](https://open.spotify.com/track/1L3wn1FJHmnv9OpjVbkMzY) | [George Salazar](https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB) | [Be More Chill \(Original Cast Recording\)](https://open.spotify.com/album/0758cp4h8LSZeLRzrKx2XM) | 4:57 | 2023-05-26 |  |
-| [Misery Meat](https://open.spotify.com/track/56sNhxLlrFYCbR0JFaK6w0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/1GuNa6xVjgJIPS0VNll8TR) | 1:04 | 2022-05-17 |  |
+| [Misery Meat](https://open.spotify.com/track/56sNhxLlrFYCbR0JFaK6w0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/1GuNa6xVjgJIPS0VNll8TR) | 1:04 | 2022-05-17 | 2023-09-07 |
+| [Misery Meat](https://open.spotify.com/track/7EZWdBiXeyqE0digwKa3k0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/7MVwT9ho5LaOBu5X4lk4De) | 1:04 | 2023-04-17 |  |
 | [Miss Rhode Island](https://open.spotify.com/track/3TuRAkB0OueGVYfUTbCaVN) | [Elizabeth Gerardi](https://open.spotify.com/artist/01VYmP8UHNPe52WfMgsb4n) | [Miss Rhode Island](https://open.spotify.com/album/5CGv2NNFJPOqrtzT73eRL1) | 2:48 | 2022-06-24 | 2022-08-06 |
 | [mold](https://open.spotify.com/track/5qH0wXpyaWpXl0bn9gUK81) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [mold](https://open.spotify.com/album/6WwFcQVjSQQE4QUFttiB8P) | 4:03 | 2022-07-22 | 2022-11-19 |
 | [Money Machine](https://open.spotify.com/track/1XklKTFOPBXFpObBUYJnWb) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Live](https://open.spotify.com/album/6jrhLfqaMqnlGtegIoqVF7) | 3:15 | 2023-03-16 | 2023-04-09 |

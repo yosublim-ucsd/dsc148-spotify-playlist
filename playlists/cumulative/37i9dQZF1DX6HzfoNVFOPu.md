@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-528 songs - 1 day 10 hr 11 min
+529 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Comfort Eagle](https://open.spotify.com/track/2qQCU22yQXKjhytKUBxa59) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:40 | 2022-01-05 | 2022-07-29 |
 | [Consoler Of The Lonely](https://open.spotify.com/track/1kQwf18gqYF1nFQicWJL5r) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/7pHR5BTXW3JfBPUBjtjRKX) | 3:25 | 2022-01-05 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 | 2022-01-05 |  |
+| [Crazy Bitch](https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l) | 3:24 | 2023-01-18 |  |
 | [Crazy Bitch](https://open.spotify.com/track/5XfQTbialQHn9PhDb0p85H) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV) | 3:24 | 2022-01-05 | 2023-08-31 |
 | [Creamer \(Radio Is Dead\)](https://open.spotify.com/track/7lOXNXztcb8CQ8UoroiNxW) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:30 | 2022-01-05 | 2022-07-26 |
 | [Creepin Up The Backstairs \- Composite Edit \(do not put on a/w\)](https://open.spotify.com/track/0jt6NEuzEY0OouXkwZHq5n) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6YYhMNDgi37WNGtCDis6PT) | 3:07 | 2022-01-05 | 2022-07-29 |
@@ -141,7 +142,7 @@
 | [For You](https://open.spotify.com/track/3gAZuCwnlRkAjcnP1Q4yzu) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 3:26 | 2022-01-05 | 2022-06-22 |
 | [For You](https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 3:26 | 2022-01-05 |  |
 | [Forever](https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 4:06 | 2022-01-05 | 2022-06-11 |
-| [Forever](https://open.spotify.com/track/7zQ5nqAKKfk0gtBgV70gyq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/2Aa1nPsSmQpQHjc9VdeGCl) | 4:06 | 2022-01-05 |  |
+| [Forever](https://open.spotify.com/track/7zQ5nqAKKfk0gtBgV70gyq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/2Aa1nPsSmQpQHjc9VdeGCl) | 4:06 | 2022-01-05 | 2023-09-07 |
 | [From The Inside](https://open.spotify.com/track/1aTWmHKzDKFfkTfbPaCY8y) | [Depswa](https://open.spotify.com/artist/0abGE6ExPPQzzPAZFROU3Y) | [Two Angels And A Dream](https://open.spotify.com/album/2jbVvKX7iuXOwumQH56bDt) | 3:12 | 2022-01-05 | 2022-07-24 |
 | [From the Inside](https://open.spotify.com/track/60IkVf7UfQXmt5CwkpcX8a) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:53 | 2022-01-05 |  |
 | [From the Inside](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:53 | 2022-01-05 | 2022-07-20 |
@@ -183,7 +184,7 @@
 | [Heaven](https://open.spotify.com/track/2MZ8MnTfejq0uEBCApD8tf) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Birds Of Pray](https://open.spotify.com/album/3L5Trg8OhCuCvu0T0brOi4) | 3:49 | 2022-01-05 | 2022-05-25 |
 | [Hell Yeah](https://open.spotify.com/track/2qABxQZhfAthNxszLiSsUw) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l) | [Light It Up](https://open.spotify.com/album/5EgFhEPaTv1PmbTd46uTPG) | 4:07 | 2022-01-05 |  |
 | [Henrietta](https://open.spotify.com/track/69h2mpzNUmdEg5egeNa1ki) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6YYhMNDgi37WNGtCDis6PT) | 3:32 | 2022-01-05 | 2022-07-29 |
-| [Here Is Gone](https://open.spotify.com/track/4KqTGPPmXowMPEoShSVOta) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 3:58 | 2022-01-05 |  |
+| [Here Is Gone](https://open.spotify.com/track/4KqTGPPmXowMPEoShSVOta) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 3:58 | 2022-01-05 | 2023-09-07 |
 | [Here to Stay](https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:30 | 2022-01-05 |  |
 | [Here To Stay](https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ) | 4:30 | 2022-01-05 | 2022-07-29 |
 | [Here's to the Night](https://open.spotify.com/track/4tgeQrPu5xkrnwErym2JsJ) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Horrorscope](https://open.spotify.com/album/2aO4ZbunEAG1iaw45Aiosv) | 4:09 | 2022-01-05 | 2022-05-25 |
@@ -503,7 +504,7 @@
 | [Walk Idiot Walk](https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 3:31 | 2022-01-05 | 2022-11-13 |
 | [Walk On](https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:56 | 2022-01-05 | 2022-07-29 |
 | [War Pigs](https://open.spotify.com/track/5Cg6S5BXG6lXqjijSK9zFh) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [b\-sides and rarities](https://open.spotify.com/album/69MkRYEzxiZ84QmgmPJqdY) | 3:54 | 2022-01-05 | 2022-07-29 |
-| [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 | 2022-01-05 | 2023-08-27 |
+| [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 | 2022-01-05 |  |
 | [Wasteland](https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp) | 3:49 | 2022-01-05 |  |
 | [Wasteland](https://open.spotify.com/track/0nTiC2fGkM4q8bGlBKGrGx) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/44IoacfwUkvviGnihTUv1X) | 3:49 | 2022-01-05 | 2022-05-25 |
 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 | 2022-01-05 | 2023-07-12 |

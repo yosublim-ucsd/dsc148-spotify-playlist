@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,676 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,681 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 |
 | 75 | [Soul Capturer \- Single Version](https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Soul Capturer](https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD) | 5:44 |
 
-Snapshot ID: `MCw0MDZkMjAxYTcyNDRkYjJhZDZjOTBiZGM5OWQyNzFiYWUwYWE4Mzdh`
+Snapshot ID: `MCwxNDA5NzkyOTczNjliMzE5MjdkZTg3Zjk2YmIyYzA3YTU1OTg2NDVk`

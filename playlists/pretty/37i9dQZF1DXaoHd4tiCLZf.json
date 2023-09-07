@@ -1,12 +1,12 @@
 {
   "description": "Music from and inspired by Emily in Paris, new episodes now streaming! ",
-  "num_followers": 147071,
+  "num_followers": 147175,
   "original_name": "Emily in Paris Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE4N2VlM2FkNTFiNWMyNzFmMDViOGY3Y2I5OGY2ZTkxOTNmZWRj",
+  "snapshot_id": "MCw0Njk3OTFiMTdjNWQ5ZjdmZjZiNjAwOTU0YjEzOTRhODcwMDdkYzY0",
   "tracks": [
     {
       "added_at": "2022-12-21 08:00:00",
@@ -1619,6 +1619,26 @@
       "duration_ms": 278000,
       "name": "Ananas",
       "url": "https://open.spotify.com/track/48Wa26EAi58eDeGIyBc3ws"
+    },
+    {
+      "added_at": "2022-12-21 08:00:00",
+      "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "added_at": "2022-12-21 08:00:00",

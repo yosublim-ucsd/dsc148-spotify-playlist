@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: JAMIE (\uc81c\uc774\ubbf8) ",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: HWASA (\ud654\uc0ac) ",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 180306,
       "name": "Dancing with you in the Rain",
       "url": "https://open.spotify.com/track/2KQpOKk59I54dbz0z3etMG"
@@ -2560,10 +2560,32 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 182299,
       "name": "Hongdae R&B",
       "url": "https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3"
+    },
+    {
+      "album": {
+        "name": "Street Woman Fighter2 (SWF2) Class Mission",
+        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176493,
+      "name": "How To Twerk (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo"
     },
     {
       "album": {
@@ -2690,6 +2712,24 @@
       "duration_ms": 190113,
       "name": "I DO",
       "url": "https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM"
+    },
+    {
+      "album": {
+        "name": "I Love My Body",
+        "url": "https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150176,
+      "name": "I Love My Body",
+      "url": "https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh"
     },
     {
       "album": {

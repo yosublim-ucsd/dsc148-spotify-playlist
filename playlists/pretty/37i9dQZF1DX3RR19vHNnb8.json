@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 14121,
+  "num_followers": 14150,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2FjZTljNzdjYjM3ZjI5ZWZlZDA5ZTNhMGRkNzBhZjZhZTY3MTc2",
+  "snapshot_id": "MCwyMmY4MDA1ZDM4YjdkNzRmM2M3M2QyNThmYWM1MjA0M2IxYWJmOTdh",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -83,18 +83,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "It's Crazy",
-        "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 200440,
-      "name": "It's Crazy - Single Version",
-      "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -267,22 +271,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "It's Crazy",
+        "url": "https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+      "duration_ms": 200440,
+      "name": "It's Crazy - Single Version",
+      "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
     },
     {
       "added_at": "2023-08-17 23:00:00",

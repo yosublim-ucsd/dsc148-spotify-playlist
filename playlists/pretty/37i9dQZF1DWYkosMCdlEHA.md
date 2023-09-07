@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,916 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,044 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 43 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 |
 | 44 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
 | 45 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 |
-| 46 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0ohZWsvWdcGlXDiuBqxDuV) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/7cz1MN4Q2jnd1UgI49U6kh) | 2:48 |
-| 47 | [Lunar \(acústico\)](https://open.spotify.com/track/0N9qQtxL7sNEqKbGO9qTTw) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(acústico\)](https://open.spotify.com/album/34wfLXnN1uN11x0be2uoRS) | 4:00 |
+| 46 | [Lunar \(acústico\)](https://open.spotify.com/track/0N9qQtxL7sNEqKbGO9qTTw) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(acústico\)](https://open.spotify.com/album/34wfLXnN1uN11x0be2uoRS) | 4:00 |
+| 47 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0ohZWsvWdcGlXDiuBqxDuV) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/7cz1MN4Q2jnd1UgI49U6kh) | 2:48 |
 | 48 | [Rosa Flor \- Acústica](https://open.spotify.com/track/5For9ZuNFUOpcDBq0dvWR6) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/5PbJJ1jOhlmZL1FZW2kMce) | 3:19 |
 | 49 | [Odisséia Na Babilônia \- Ao Vivo](https://open.spotify.com/track/0cUr7yd1UjtyPYwybL4fDi) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:12 |
 | 50 | [Nesses Olhos \- Ao Vivo](https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:44 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 60 | [Reggae Good Vibe](https://open.spotify.com/track/5OSWVxhBiidE6KVf3lvMno) | [Good Vibe](https://open.spotify.com/artist/3rpzzzuQFoqc1tNhQ3Xp6p) | [Tribo](https://open.spotify.com/album/384Jx7rHBTpn3Wt6e9CodH) | 4:23 |
 | 61 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |
 | 62 | [Sentimento Bom](https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O) | [Circuito Reggae](https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly), [Filosofia Reggae](https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD) | [Circuito Reggae, Vol\. 7](https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5) | 4:02 |
-| 63 | [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 |
-| 64 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
+| 63 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
+| 64 | [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 |
 | 65 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 66 | [Calor \- Acústico](https://open.spotify.com/track/31wCSoGTNRPXOOfsLpvxBR) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Acústico Helio Bentes, Vol\. 02](https://open.spotify.com/album/1mKc2nreQkWbuCKYNEyF4E) | 4:43 |
 | 67 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Corre Pro Meu Mar \- Acústico / Ao Vivo](https://open.spotify.com/track/6o1uuE7FrCUUN1zqB37nLR) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Corre Pro Meu Mar \(Acústico / Ao Vivo\)](https://open.spotify.com/album/6MYUGgADS5UKWNKwwdOyCw) | 3:23 |
 
-Snapshot ID: `MCwzYjE0ZGY1OTY0MTQxY2I3MWNhYmJhOWZhMjU4ZWM1NDE1YjE3MzQw`
+Snapshot ID: `MCwwYjgyYTY0NDFkYjZlZmI4YzJkZjRkODU1ZWJhNGYyNDcxYjgxY2Yx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,084 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,115 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 4 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 5 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
 | 6 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
-| 7 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
-| 8 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
+| 7 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
+| 8 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
 | 9 | [One More Chance / Stay with Me \- Remix; 2007 Remaster](https://open.spotify.com/track/7fXhkARAtS66kxexMIAx8O) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:28 |
 | 10 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
 | 11 | [Can't You See](https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [BAD BOY CELEBRATES DIDDY: The Executive](https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR) | 4:41 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 37 | [Mary Jane](https://open.spotify.com/track/0Rqcf7GwEOIFg5VFMNIzHF) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Untouchable](https://open.spotify.com/album/0yEbGVnKvWj4B85rzExJmF) | 4:41 |
 | 38 | [You'll Never Find \(a Better Woman\)](https://open.spotify.com/track/2aJzN2dhjqBrBzMuNYMkiG) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:12 |
 | 39 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
-| 40 | [Coconut](https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [At Home](https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32) | 4:39 |
-| 41 | [Depend on U](https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk) | [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [Holy Ghost Zone](https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x) | 1:47 |
+| 40 | [Depend on U](https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk) | [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [Holy Ghost Zone](https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x) | 1:47 |
+| 41 | [Coconut](https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [At Home](https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32) | 4:39 |
 | 42 | [My Life](https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life \(Deluxe / Commentary Edition\)](https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO) | 4:17 |
 | 43 | [Serve This Royalty](https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [The Headphone Masterpiece](https://open.spotify.com/album/4DO0EipTAYZYaUDSoEVK98) | 5:42 |
 | 44 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 49 | [Your Time](https://open.spotify.com/track/0FhQccfJxOwixsoqiJo2oz) | [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [Catching Dreams](https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu) | 0:48 |
 | 50 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v) | 3:35 |
 
-Snapshot ID: `MCw5YjY2MGY5MmY3NjIxNDFhMDNiNzBjYjcxODNhMjcyMzk2NmIxMjFm`
+Snapshot ID: `MCw1ZWE0MzBhZjVkMTI2ZDJjN2EyYTBjODVhZWMzMDBlZDBmNWVmMmYz`

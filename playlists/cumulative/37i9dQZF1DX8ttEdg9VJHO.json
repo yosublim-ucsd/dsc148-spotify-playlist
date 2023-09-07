@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "The Family Jewels",
+        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Are You Satisfied?",
+      "url": "https://open.spotify.com/track/411Hvulc0PrGQLOHljTYed"
+    },
+    {
+      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -659,6 +677,42 @@
     },
     {
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+    },
+    {
+      "album": {
+        "name": "Jim Carrey",
+        "url": "https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183195,
+      "name": "Jim Carrey",
+      "url": "https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN"
+    },
+    {
+      "album": {
         "name": "Keep It Low",
         "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
       },
@@ -764,7 +818,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 177733,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/52Z7SLcvX4b9tqiq2fiDzi"
@@ -1370,7 +1424,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 164200,
       "name": "Year of the Young",
       "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"

@@ -10036,7 +10036,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 205081,
       "name": "\u05d7\u05de\u05d9\u05e9\u05d9 \u05e9\u05d9\u05e9\u05d9",
       "url": "https://open.spotify.com/track/57BFhpG4Iq4Zgnoz2X6zbT"
@@ -10377,6 +10377,28 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287141,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1 & \u05de\u05d9\u05dd \u05e9\u05e7\u05d5\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag"
+    },
+    {
+      "album": {
         "name": "\u05d9\u05d4\u05d9\u05d4 \u05d9\u05d4\u05d9\u05d4",
         "url": "https://open.spotify.com/album/0XT3w3qdavbU1OpjPW5EFX"
       },
@@ -10514,7 +10536,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 196480,
       "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
@@ -14782,7 +14804,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,635 likes - 38 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,694 likes - 38 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 17 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
 | 18 | [Kellon Aanik Sa'alouni \(Live\)](https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 6:05 |
 | 19 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
-| 20 | [Allaylou ya Layla](https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Top Wadie Essafi \(The Voice of Lebanon\)](https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo) | 6:01 |
-| 21 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
+| 20 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
+| 21 | [Allaylou ya Layla](https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Top Wadie Essafi \(The Voice of Lebanon\)](https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo) | 6:01 |
 | 22 | [Ashka We Ghalbana](https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Tarab Hits](https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ) | 3:33 |
 | 23 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 | 24 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 37 | [Tair ya hawa \- Live](https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:53 |
 | 38 | [Mali \- Live](https://open.spotify.com/track/6jmz2f0MQGvQMbFoWejFtH) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 3:54 |
 
-Snapshot ID: `MCwyYjUwMDQ3NzUzYmQ5YThiMWM1OWQzMTRmOTVkNzBhM2MyNjFlZGI3`
+Snapshot ID: `MCwwYmQ0Mjg2OTQ4YTIxYWYyZTFmODUwNjBhNmI4YTEyZmY5YWNmMDlm`

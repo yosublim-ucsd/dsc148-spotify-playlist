@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Las Bandas M\u00e1s Matonas",
+        "url": "https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136453,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s"
+    },
+    {
+      "album": {
         "name": "Cuervo Sierra",
         "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
       },
@@ -1830,10 +1848,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 192000,
       "name": "No Se La Van A Acabar",
       "url": "https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1)",
+        "url": "https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "No Se La Van Acabar",
+      "url": "https://open.spotify.com/track/2axPsgKQouhRvodneN6K3Z"
     },
     {
       "album": {
@@ -1974,7 +2010,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 128733,
       "name": "Por una Mujer Casada",
       "url": "https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-1,522 songs - 3 day 12 hr 26 min
+1,523 songs - 3 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-09 | 2022-01-19 |
 | [Abecedario](https://open.spotify.com/track/6FJM755ucsEsB5MMTzMxR6) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Abecedario](https://open.spotify.com/album/764dtJDaxSNwH5bunCeGyD) | 3:12 | 2022-08-29 | 2022-08-31 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-10 | 2022-06-29 |
+| [Abrázame](https://open.spotify.com/track/6j0u5ErJPUbAzDURe99VWQ) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LlenO 2](https://open.spotify.com/album/6T7iv4QkNq0XkGyhCOhfEH) | 4:07 | 2023-09-06 |  |
 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 | 2022-12-16 | 2022-12-28 |
 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-06-06 | 2023-06-14 |
 | [AEROBICO REMIX](https://open.spotify.com/track/4I9WKQdCuHMzQSFpP1k6Tu) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AEROBICO REMIX](https://open.spotify.com/album/2kWJzDtmTnGeToG1IAtCXt) | 3:33 | 2023-08-29 | 2023-09-06 |
@@ -1465,7 +1466,7 @@
 | [we fell in love in october](https://open.spotify.com/track/6FYfhKknpt05Om6YPcEYAg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/1B7zkWS3Lty7uI7ajkBucu) | 3:04 | 2022-10-12 | 2022-10-20 |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2022-10-06 | 2022-10-08 |
 | [We Nuh Fear](https://open.spotify.com/track/1BObCgr7h9cYDfVsZ4T2ST) | [Ash](https://open.spotify.com/artist/2ipZPngqVxuqyJ38xm3NcY) | [Chico Malo](https://open.spotify.com/album/7kvvTcntY2zCtOv7vFSlYH) | 2:34 | 2022-03-26 | 2022-04-28 |
-| [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 | 2023-06-09 |  |
+| [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 | 2023-06-09 | 2023-09-07 |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-01-09 | 2022-09-11 |
 | [What Else Can I Do?](https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG) | [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:59 | 2022-01-21 | 2022-01-29 |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-05-27 | 2023-06-21 |

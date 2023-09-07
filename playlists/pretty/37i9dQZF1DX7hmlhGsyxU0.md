@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,700 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,854 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 13 | [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 |
 | 14 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
 | 15 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
-| 16 | [Procyon](https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw) | 3:06 |
-| 17 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 |
+| 16 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 |
+| 17 | [Procyon](https://open.spotify.com/track/1yzKGJupThHxhezhxAgkEy) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/2YQBt88g1dxueykouWGrUw) | 3:06 |
 | 18 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
 | 19 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 20 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
 | 21 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
-| 22 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
-| 23 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
-| 24 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
+| 22 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
+| 23 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
+| 24 | [New Dawn](https://open.spotify.com/track/7CGrQSHf6dqeTX1VhC0xU4) | [David Fedele](https://open.spotify.com/artist/0ALRbdawPvvBA3OSnXhMsk), [Antonina Car](https://open.spotify.com/artist/2ms1p6jgg7xaVg9s33a8nJ) | [New Dawn](https://open.spotify.com/album/3N7B5fFi6cEpFcBwF7IF5P) | 4:11 |
 | 25 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 26 | [Calm Water](https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/1qgjBW7ZMom06x4uXaqnvQ) | 4:20 |
 | 27 | [To the Moon and Back](https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [To the Moon and Back](https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P) | 4:30 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 45 | [Drifter](https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa) | 2:37 |
 | 46 | [Gravegarden](https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR) | [JustJosh](https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8) | [Serenity](https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh) | 4:18 |
 | 47 | [Rêverie](https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy) | [Jack Hopkins](https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV) | [Rêverie](https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK) | 3:52 |
-| 48 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
+| 48 | [The Sky Cracked](https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The Sky Cracked](https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG) | 1:52 |
 | 49 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
-| 50 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 |
-| 51 | [The Sky Cracked](https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The Sky Cracked](https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG) | 1:52 |
+| 50 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |
+| 51 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 |
 | 52 | [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 |
 | 53 | [Low Sun](https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/2rZV82DIS8DASudAIoBEHK) | 3:16 |
 | 54 | [Be Here Now](https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Be Here Now](https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH) | 2:16 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Things of the World \- Piano and Strings](https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj) | [Amelie Bernard](https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N), [Andy Muller](https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d) | [Things of the World \(Piano and Strings\)](https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI) | 1:40 |
 | 63 | [First Time Of Heaven \- Piano and Strings](https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT) | [Charlie Ward](https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2), [Kelly Lerner](https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO) | [First Time Of Heaven \(Piano and Strings\)](https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG) | 2:16 |
 
-Snapshot ID: `MCwwZWZiOGViM2UzNWRlYjhjZDMxYTkxMGY1ZjQzMTliMzFkMzdlMWVm`
+Snapshot ID: `MCw2OTI0NjVkMDY2YWJkOTU1OTc4Y2MzNmRkY2YxNWMwZTk2MGJiNTNh`

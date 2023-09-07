@@ -4,7 +4,7 @@
 
 > Siento que arranco la carretera...
 
-127 songs - 6 hr 28 min
+129 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 | 2023-06-19 |  |
 | [Corrido de Barrera](https://open.spotify.com/track/2aXnirGEQmipzDLcLdfNnw) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' los Amigos](https://open.spotify.com/album/0gxsCb9Pc923Oe0ADf3Aw9) | 2:57 | 2023-06-19 |  |
 | [Creo Estar Soñando](https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ) | [Jessie Morales El Original De La Sierra](https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW) | [Mis 20 Exitos Originales](https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL) | 2:43 | 2023-06-19 |  |
+| [Cuando Los Hombres Lloran](https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Las Bandas Más Matonas](https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W) | 2:16 | 2023-06-19 |  |
 | [Cuervo Sierra](https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj) | 2:55 | 2023-06-19 |  |
 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 | 2023-06-19 |  |
 | [Del Negociante](https://open.spotify.com/track/7kDBoiWN02IUeXqeXHfEKL) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Los Amos del Terror](https://open.spotify.com/album/4mMSrnCY36DJpb92fbEGpq) | 3:07 | 2023-06-19 |  |
@@ -105,7 +106,8 @@
 | [Nadie Es Eterno](https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 3:16 | 2023-06-19 |  |
 | [Necesito Decirte](https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Las Número 1...](https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl) | 3:45 | 2023-06-19 |  |
 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 | 2023-06-19 |  |
-| [No Se La Van A Acabar](https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB) | [La Mejores Bandas Del Mundo Vol 2](https://open.spotify.com/artist/69jBNhFKISDzO6IJPgKfsC) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2S8pPO6llQejOCpnkj3U9b) | 3:12 | 2023-06-19 |  |
+| [No Se La Van A Acabar](https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB) | [La Mejores Bandas Del Mundo Vol 2](https://open.spotify.com/artist/69jBNhFKISDzO6IJPgKfsC) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2S8pPO6llQejOCpnkj3U9b) | 3:12 | 2023-06-19 | 2023-09-07 |
+| [No Se La Van Acabar](https://open.spotify.com/track/2axPsgKQouhRvodneN6K3Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 1\)](https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54) | 3:12 | 2023-06-19 |  |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 | 2023-06-19 | 2023-09-01 |
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 | 2023-06-19 |  |
 | [Nomas Por Tu Culpa](https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:40 | 2023-06-19 |  |
@@ -113,7 +115,7 @@
 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 | 2023-06-19 |  |
 | [Playa Sola](https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:52 | 2023-06-19 |  |
 | [Por Las Calles De Chihuahua \- En Vivo](https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [En Vivo Para Ti](https://open.spotify.com/album/62WpT7OULJFmbpS9CAWD7b) | 2:35 | 2023-06-19 |  |
-| [Por una Mujer Casada](https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 1: Por una Mujer Casada y Otras Rancheras](https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ) | 2:08 | 2023-06-19 |  |
+| [Por una Mujer Casada](https://open.spotify.com/track/1xheTAuldO0KID60sAQkIo) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 1: Por una Mujer Casada y Otras Rancheras](https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ) | 2:08 | 2023-06-19 | 2023-09-07 |
 | [Que Me Lleve El Diablo](https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 3:30 | 2023-06-19 |  |
 | [Que No Se Apague La Lumbre](https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Exitos De Los Invasores De Nuevo Leon](https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C) | 2:46 | 2023-06-19 |  |
 | [Quién Se Anima](https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 1:37 | 2023-06-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3569,
+  "num_followers": 3578,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzZhOTY1NzhiMTliMTU5ZWNhMjI1ZjNjZDQ2NGFmOGU1YmJmY2Zl",
+  "snapshot_id": "MCw1YmE0M2QwZmFmNTQxZDRlMGU0NWYyMGQzMDE1ZmY3NzM3Zjg3NWE5",
   "tracks": [
     {
       "added_at": "2023-08-10 14:07:08",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-08-10 14:07:08",
       "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
+    },
+    {
+      "added_at": "2023-08-10 14:07:08",
+      "album": {
         "name": "Stargaze",
         "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 222232,
       "name": "Look What I Did (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
-    },
-    {
-      "added_at": "2023-08-10 14:07:08",
-      "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
     },
     {
       "added_at": "2023-08-10 14:07:08",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2023-08-10 14:07:08",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+    },
+    {
+      "added_at": "2023-08-10 14:07:08",
+      "album": {
         "name": "20/22",
         "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 254793,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
-    },
-    {
-      "added_at": "2023-08-10 14:07:08",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
     },
     {
       "added_at": "2023-08-10 14:07:08",
@@ -1767,30 +1767,6 @@
     {
       "added_at": "2023-08-10 14:07:08",
       "album": {
-        "name": "Show Me the Money 5 Episode 3",
-        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
-      },
-      "artists": [
-        {
-          "name": "Flowsik",
-          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "RAPSTAR - Remix",
-      "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
-    },
-    {
-      "added_at": "2023-08-10 14:07:08",
-      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1811,26 +1787,26 @@
     {
       "added_at": "2023-08-10 14:07:08",
       "album": {
-        "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+        "name": "Show Me the Money 5 Episode 3",
+        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "Flowsik",
+          "url": "https://open.spotify.com/artist/4N2CbwZ7ekytt9Oi5dh4Vq"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         },
         {
           "name": "Dok2",
           "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 273267,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+      "duration_ms": 218333,
+      "name": "RAPSTAR - Remix",
+      "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
     },
     {
       "added_at": "2023-08-10 14:07:08",
@@ -1859,6 +1835,30 @@
       "duration_ms": 258893,
       "name": "Career High (Feat. Paloalto, nafla, Chancellor)",
       "url": "https://open.spotify.com/track/3huX6IPP80pZmLAgiDtiqy"
+    },
+    {
+      "added_at": "2023-08-10 14:07:08",
+      "album": {
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
     },
     {
       "added_at": "2023-08-10 14:07:08",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-08-10 14:07:08",
       "album": {
-        "name": "THE STRANGER",
-        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 161631,
-      "name": "GOT TO KNOW",
-      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
-    },
-    {
-      "added_at": "2023-08-10 14:07:08",
-      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
+    },
+    {
+      "added_at": "2023-08-10 14:07:08",
+      "album": {
+        "name": "THE STRANGER",
+        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 161631,
+      "name": "GOT TO KNOW",
+      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
     },
     {
       "added_at": "2023-08-10 14:07:08",

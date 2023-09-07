@@ -4,13 +4,14 @@
 
 > Latin music bangers for your gaming session! Cover: Eladio Carrion
 
-533 songs - 1 day 6 hr 42 min
+534 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 MILLONES](https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [100 MILLONES](https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP) | 3:57 | 2021-12-16 | 2022-07-29 |
 | [12AM](https://open.spotify.com/track/7nGR03NF787dhrEPiEiG9r) | [Wise](https://open.spotify.com/artist/3z49d9eTIxwkK2QcmfPN3j), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [12AM](https://open.spotify.com/album/3iD58gmtEJWE2XnvV3oXf2) | 3:24 | 2023-05-26 | 2023-07-15 |
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2023-04-03 | 2023-07-22 |
+| [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 | 2023-09-01 |  |
 | [12x3](https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp) | 2:39 | 2023-07-21 | 2023-09-02 |
 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-10-28 | 2023-04-04 |
 | [2 Hielos](https://open.spotify.com/track/4za7UzHuKvr84o8h9CxqV1) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [2 Hielos](https://open.spotify.com/album/36cXeSQ4gqFwUIdoWFwmR9) | 3:14 | 2023-04-03 |  |
@@ -87,7 +88,7 @@
 | [Caramelo \- Remix](https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:53 | 2021-12-16 | 2023-04-04 |
 | [Caro](https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:49 | 2022-01-01 | 2022-07-28 |
 | [Carretera](https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Carretera](https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa) | 2:47 | 2023-04-03 |  |
-| [Cero \- Remix](https://open.spotify.com/track/1d2yY2RDleLOkYxEpMuy1Y) | [El Jhota](https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz), [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Cero \(Remix\)](https://open.spotify.com/album/79Usl5b5h3j61HtLWaiWd2) | 2:51 | 2023-05-26 |  |
+| [Cero \- Remix](https://open.spotify.com/track/1d2yY2RDleLOkYxEpMuy1Y) | [El Jhota](https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz), [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Cero \(Remix\)](https://open.spotify.com/album/79Usl5b5h3j61HtLWaiWd2) | 2:51 | 2023-05-26 | 2023-09-07 |
 | [Chantaje](https://open.spotify.com/track/63XiGZGxNIWXA5CDz1dZ2l) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Chantaje](https://open.spotify.com/album/0q8QW2ceM8XpkNRQRe5akg) | 3:58 | 2021-12-16 | 2022-11-15 |
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2021-12-16 | 2022-04-19 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2023-04-03 |  |

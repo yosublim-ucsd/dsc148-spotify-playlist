@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Ataitek",
+        "url": "https://open.spotify.com/album/1ZQu5ILQBkdsDNSNz0cfdM"
+      },
+      "artists": [
+        {
+          "name": "Ramii",
+          "url": "https://open.spotify.com/artist/085VeFqXoFk5oonsAD2H3M"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156937,
+      "name": "Ataitek",
+      "url": "https://open.spotify.com/track/5ryqKdwizfpw0v8HWnu6Cd"
+    },
+    {
+      "album": {
         "name": "Back to you",
         "url": "https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO"
       },
@@ -774,7 +792,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 177977,
       "name": "Dream Merchant",
       "url": "https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY"
@@ -848,6 +866,24 @@
       "duration_ms": 218252,
       "name": "Enti Wain",
       "url": "https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe"
+    },
+    {
+      "album": {
+        "name": "Es7a | \u0627\u0635\u062d\u0627",
+        "url": "https://open.spotify.com/album/0XbYxYecpOEjrei0M6Rb8O"
+      },
+      "artists": [
+        {
+          "name": "Zaid Kreshan",
+          "url": "https://open.spotify.com/artist/2KdGoV3A2KHybSREzAdY4O"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132900,
+      "name": "Es7a | \u0627\u0635\u062d\u0627",
+      "url": "https://open.spotify.com/track/01AgIf1EsewkMbYVB3HcZX"
     },
     {
       "album": {
@@ -950,7 +986,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 113867,
       "name": "FAR\u00c4GH",
       "url": "https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8"
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 252489,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5yf2fztisvgjZSoOQJVoZe"
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 157419,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h"
@@ -1768,6 +1804,24 @@
       "duration_ms": 210857,
       "name": "Labne",
       "url": "https://open.spotify.com/track/08cYvT2vMUYghriRJIkzsc"
+    },
+    {
+      "album": {
+        "name": "Last Time That I Saw You",
+        "url": "https://open.spotify.com/album/58RWGR3hxvhVELh5hOpFrn"
+      },
+      "artists": [
+        {
+          "name": "Abra Salem",
+          "url": "https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221146,
+      "name": "Last Time That I Saw You",
+      "url": "https://open.spotify.com/track/1hspuwdjIRtcmTi7QkC7fM"
     },
     {
       "album": {
@@ -2284,6 +2338,24 @@
       "duration_ms": 301519,
       "name": "Nar w Rosas",
       "url": "https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V"
+    },
+    {
+      "album": {
+        "name": "Needless",
+        "url": "https://open.spotify.com/album/2VwLQ9E20MkOMiPFY7DruA"
+      },
+      "artists": [
+        {
+          "name": "Ziad",
+          "url": "https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136153,
+      "name": "Needless",
+      "url": "https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri"
     },
     {
       "album": {
@@ -2880,7 +2952,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 114059,
       "name": "Report to me",
       "url": "https://open.spotify.com/track/4syYPLHQ9VwcEAu3BKIx2v"
@@ -2978,7 +3050,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 190588,
       "name": "Scorsese",
       "url": "https://open.spotify.com/track/750DwBev1112r16elo8Mom"
@@ -3620,7 +3692,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 219428,
       "name": "Wana",
       "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
@@ -3765,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "WORK",
+        "url": "https://open.spotify.com/album/7rFFhUon9lIWtvSSH5XYHy"
+      },
+      "artists": [
+        {
+          "name": "Zahraa",
+          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164722,
+      "name": "WORK",
+      "url": "https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF"
+    },
+    {
+      "album": {
         "name": "Ya Lel",
         "url": "https://open.spotify.com/album/48V722Zrn4nMGYWKrAFjk3"
       },
@@ -3776,7 +3866,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 175376,
       "name": "Ya Lel",
       "url": "https://open.spotify.com/track/1I1YpnPKkgtt01ETAy2Ku6"

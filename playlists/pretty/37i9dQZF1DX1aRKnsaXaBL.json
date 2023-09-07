@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 3372,
+  "num_followers": 3395,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmQ4ODEwNzlkOTgxOGMyMmUyYWFjN2MwODM0MTdjY2JjMGE2OTYw",
+  "snapshot_id": "MCwzMDRkNTUxYTkxNWYxMWNhNWYyNjI1ZmMzOGNkMGMwMDJjOGMyMzcz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 174303,
-      "name": "Billie Max",
-      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 174303,
+      "name": "Billie Max",
+      "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "BROOKLYN",
-        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
       },
       "artists": [
         {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
         }
       ],
-      "duration_ms": 215236,
-      "name": "BROOKLYN",
-      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+        "name": "BROOKLYN",
+        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
       },
       "artists": [
         {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
         }
       ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
+      "duration_ms": 215236,
+      "name": "BROOKLYN",
+      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
     }
   ],
   "unique_name": "canciones para ver atardeceres",

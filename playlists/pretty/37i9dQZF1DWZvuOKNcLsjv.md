@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Yo\-Sea
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,595 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,642 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 45 | [Sweet Wine](https://open.spotify.com/track/04GsYibBOoPxJEBL92AniN) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [Youth of Roots](https://open.spotify.com/artist/6Dvq7MDtnyy0Q2Xx8MH5gR) | [Sweet Wine](https://open.spotify.com/album/7f6xQvKgBsfnmXzixKDnvg) | 3:39 |
 | 46 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 |
 | 47 | [Ub\(You bet on it\)](https://open.spotify.com/track/58IZzlhuaxPKp50jdrxPnp) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Ub\(You bet on it\)](https://open.spotify.com/album/5tDFk6M0V0gW7tbqCamTsx) | 4:03 |
-| 48 | [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/3KYoEkpQ0P35PC3l2UYNdz) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [conversation \(Prod\. by DPR CREAM\)](https://open.spotify.com/album/7B9jkm5VB5RW3EF3qS0ngG) | 3:24 |
+| 48 | [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/5X07yV5IC4LYs9rnshOABJ) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [RUNWAY](https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj) | 3:24 |
 | 49 | [Whatever Comes](https://open.spotify.com/track/0fjDWBGZR65iXyvEnKVaOA) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [Whatever Comes](https://open.spotify.com/album/6n1hdXqcaQTJEVxwLxS0Gr) | 4:52 |
 | 50 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 | 51 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/3YWdfXQwfPh8qGhXdiXPHh) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/1PHt6K4kjdLUkrzA6QPJfg) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Stay Here](https://open.spotify.com/track/20jvmCAKAFKay1QLulG4hJ) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7846DZBi9nQC5yjpo1yh7Y) | 3:33 |
 | 100 | [SUNNY WAVES](https://open.spotify.com/track/34W3u0FE85DKi5CmHnpEK1) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [SUNNY WAVES](https://open.spotify.com/album/75PqNBTeA11HIqY23H0hkv) | 3:25 |
 
-Snapshot ID: `MCw5YzAzZDY4MjU3OTJiNWU5ZjZiM2NjMGQwOGIyMGM5MmM2ZTdjMTlh`
+Snapshot ID: `MCw4ODFiNTEyOTBmYzlhZDg1OThkNTliYWJkZjU2MjYxODM2OGE1ZDQ5`

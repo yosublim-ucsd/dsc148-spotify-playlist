@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 57445,
+  "num_followers": 57485,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjhmMWY5OTkzYmVkZGIxNjc4MTdjYzNmNDFlZGY4ODE5YmQxNDQy",
+  "snapshot_id": "MCxkMGZhZDc5ZTQ4MDU2NGViZmQ3NDNiYmJiYjIxZjE4ODFiYTczZTI4",
   "tracks": [
     {
       "added_at": "2023-09-04 04:00:00",
@@ -367,18 +367,22 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "The New Classic Trio",
-        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
+        "name": "The Essential Stan Getz: The Getz Songbook",
+        "url": "https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s"
       },
       "artists": [
         {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
-      "duration_ms": 408600,
-      "name": "I'll Let You Know",
-      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
+      "duration_ms": 147906,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -399,22 +403,18 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "The Essential Stan Getz: The Getz Songbook",
-        "url": "https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s"
+        "name": "The New Classic Trio",
+        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
         }
       ],
-      "duration_ms": 147906,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
+      "duration_ms": 408600,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm"
+    },
+    {
+      "added_at": "2023-09-04 04:00:00",
+      "album": {
         "name": "Straight Road",
         "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 285969,
       "name": "A Flower Is a Lovesome Thing",
       "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
-    },
-    {
-      "added_at": "2023-09-04 04:00:00",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 372786,
-      "name": "I'm A Fool To Want You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
-    },
-    {
-      "added_at": "2023-09-04 04:00:00",
-      "album": {
         "name": "Presenting Ray Bryant",
         "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 206053,
       "name": "A Hundred Dreams from Now",
       "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
+    },
+    {
+      "added_at": "2023-09-04 04:00:00",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 372786,
+      "name": "I'm A Fool To Want You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -1091,18 +1091,26 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "Another Standard",
-        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s"
       },
       "artists": [
         {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+          "name": "Steve Kuhn",
+          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+        },
+        {
+          "name": "Joey Baron",
+          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
         }
       ],
-      "duration_ms": 335333,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+      "duration_ms": 347146,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp"
     },
     {
       "added_at": "2023-09-04 04:00:00",
@@ -1131,26 +1139,18 @@
     {
       "added_at": "2023-09-04 04:00:00",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s"
+        "name": "Another Standard",
+        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
       "artists": [
         {
-          "name": "Steve Kuhn",
-          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
-        },
-        {
-          "name": "Joey Baron",
-          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
         }
       ],
-      "duration_ms": 347146,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp"
+      "duration_ms": 335333,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
     },
     {
       "added_at": "2023-09-04 04:00:00",

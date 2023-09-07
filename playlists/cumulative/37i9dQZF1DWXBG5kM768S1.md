@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-217 songs - 13 hr 50 min
+218 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Miriams sang](https://open.spotify.com/track/2dlxb5AyIThRLQwhh9tXml) | [Terje Formoe](https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP) | [Et sted under stjernene](https://open.spotify.com/album/4lkAF5a0B0xDbaTcbZY4NL) | 3:41 | 2021-12-16 | 2022-07-23 |
 | [Mitt Andre Hjem](https://open.spotify.com/track/1PERYAkdjl7H6sobYpuLvO) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM), [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K) | [Mitt Andre Hjem](https://open.spotify.com/album/4WChofZor5RuSged93ZT0c) | 3:32 | 2021-12-16 | 2022-07-23 |
 | [Mitt Hjerte Er Ditt](https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI) | [Maj Britt Andersen](https://open.spotify.com/artist/2bIqrsdC6t8Ps4AcBp2rAP) | [Hvis Jeg Kunne Fly](https://open.spotify.com/album/07QZyVv2dBqLijfzuye6NL) | 2:21 | 2021-12-16 | 2022-07-29 |
-| [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 | 2021-12-16 |  |
+| [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 | 2021-12-16 | 2023-09-07 |
 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 | 2022-02-17 |  |
 | [Måneskinnsmøyane](https://open.spotify.com/track/4nycvJuvgOsWihHd6S3815) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Elverhøy](https://open.spotify.com/album/3HguT8PpDjz4e8gEhS1zpy) | 4:06 | 2022-03-23 | 2022-04-21 |
 | [Nordlandsnetter](https://open.spotify.com/track/0Lli0anlVb2OgRMgrIEHpr) | [Kirsti Sparboe](https://open.spotify.com/artist/2sIuZYabYsCOevwupstDNr) | [Et Vennlig Ord](https://open.spotify.com/album/0vBJEktE1gYiq6LEZ13zxT) | 3:29 | 2022-01-06 | 2022-07-05 |
@@ -171,6 +171,7 @@
 | [Rosa](https://open.spotify.com/track/5TiMZq3QvG2fldTFmxy1S4) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Rosa](https://open.spotify.com/album/5e7B4Rq4GNGljS9urNEfpj) | 3:21 | 2021-12-16 | 2022-07-29 |
 | [Ryktet Forteller](https://open.spotify.com/track/4axzeEnJdc01LFopSSa686) | [Gitarkameratene](https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9) | [Typisk Norsk](https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb) | 3:42 | 2022-01-20 | 2022-07-28 |
 | [Sangen om de glemte](https://open.spotify.com/track/4UfaAnu4XTEA0ZOqtJD5is) | [Vegar Dahl](https://open.spotify.com/artist/1gFiOO92niZKa5qjuLEDBr), [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Sangen om de glemte](https://open.spotify.com/album/3akUg2kUHMihEIYsxS3tsG) | 3:38 | 2021-12-16 | 2022-07-28 |
+| [Sangen om Gleden](https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Sangen om Gleden](https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C) | 5:23 | 2023-08-31 |  |
 | [ser igjennom meg](https://open.spotify.com/track/5X2OYhTRceUGFfJAlNtFK1) | [Humle](https://open.spotify.com/artist/4Z8YvGSKlWwcKLm1Pem5X2) | [ser igjennom meg](https://open.spotify.com/album/5OpU2OlAlt5IIx2iGMZ9el) | 4:22 | 2022-03-23 | 2022-04-18 |
 | [Siste reis](https://open.spotify.com/track/3zEYZy5WKMCAiQ1A19KAm0) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Stemmer i gresset](https://open.spotify.com/album/4pShZqbj6GLGA1WOJN1z8p) | 5:00 | 2022-03-03 | 2022-11-01 |
 | [Siste sang](https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 3:30 | 2023-02-09 | 2023-08-31 |

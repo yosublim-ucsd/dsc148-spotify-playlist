@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Aimer
 
-465 songs - 1 day 7 hr 35 min
+466 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-11 | 2023-05-15 |
 | [JUST DO IT](https://open.spotify.com/track/0YkFZJCArseEHnqFcJEpp4) | [H\-el\-ical//](https://open.spotify.com/artist/4jfky9U27rUJYG9SnkIBJO) | [JUST DO IT](https://open.spotify.com/album/20srBrUtmI1mucWxIZmmNI) | 4:09 | 2022-06-24 | 2022-06-27 |
 | [Just do it](https://open.spotify.com/track/2hVmebNehDEYuYijsaNCbl) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(東方天乙統女\)](https://open.spotify.com/artist/06T6xGOE6y3vciqX3sHb08) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:24 | 2023-04-13 | 2023-06-09 |
-| [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/track/2MkKQluQXqkeC8dtU2QQpn) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/album/1rpQHVbbUu64PsLH7gQXmY) | 4:49 | 2023-09-05 |  |
+| [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/track/2MkKQluQXqkeC8dtU2QQpn) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [KABANERI OF THE IRON FORTRESS \- from CrosSing](https://open.spotify.com/album/1rpQHVbbUu64PsLH7gQXmY) | 4:49 | 2023-09-05 | 2023-09-07 |
+| [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 | 2023-09-05 |  |
 | [Kimi no Tonaride](https://open.spotify.com/track/38LULZ1VrM0u9p13WT7JlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/23CWIjCLZrE3FfZbCRQ90A) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-14 | 2022-07-14 |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 | 2023-08-16 |

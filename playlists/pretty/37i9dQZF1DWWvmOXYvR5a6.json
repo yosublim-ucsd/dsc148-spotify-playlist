@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: 0WAVE) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 200654,
+  "num_followers": 200732,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTRmNjBiNGZmNDM2ZDg4NmE2ZDRlY2JmMDIzOWI4NTU5NjE3YTMx",
+  "snapshot_id": "MCxiYjI3YmMxZTEwNTA5NmFjMWM0MmM0ZGNmNmY1NjJjMzAyNGRhYWQ3",
   "tracks": [
     {
       "added_at": "2023-08-25 09:06:39",
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
       },
       "artists": [
         {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 174040,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
+      "duration_ms": 189821,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -643,22 +647,18 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 189821,
-      "name": "No.5",
-      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
+      "duration_ms": 174040,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 327624,
       "name": "BREATHE (Feat. MINO) (Prod. GRAY)",
       "url": "https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1583,6 +1583,30 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
+        "name": "3-PAKTORY02",
+        "url": "https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Meego",
+          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 257986,
+      "name": "When I fall in love",
+      "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
         "name": "Dingo X Ambition Musik",
         "url": "https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF"
       },
@@ -1615,30 +1639,6 @@
       "duration_ms": 240717,
       "name": "Beer (Prod.Way Ched)",
       "url": "https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "3-PAKTORY02",
-        "url": "https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6"
-      },
-      "artists": [
-        {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Meego",
-          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
-        },
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 257986,
-      "name": "When I fall in love",
-      "url": "https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "NOWITZKI",
-        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "Lance Skiiiwalker",
-          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Trippy (Feat. Lance Skiiiwalker)",
-      "url": "https://open.spotify.com/track/6t34W4GkIQxh0RFDEj30jy"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -1803,22 +1783,26 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+        "name": "School Rapper4 Semi Final 1",
+        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
       "artists": [
         {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+          "name": "Vapo",
+          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
         },
         {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
+      "duration_ms": 197714,
+      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1843,26 +1827,42 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
       "artists": [
         {
-          "name": "Vapo",
-          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         },
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "BE'O (\ube44\uc624)",
+          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
         }
       ],
-      "duration_ms": 197714,
-      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Lance Skiiiwalker",
+          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Trippy (Feat. Lance Skiiiwalker)",
+      "url": "https://open.spotify.com/track/6t34W4GkIQxh0RFDEj30jy"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "Think",
         "url": "https://open.spotify.com/album/10YUSQwsDYah4Bi7E33jUA"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
     },
     {
       "added_at": "2023-08-25 09:06:39",

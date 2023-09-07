@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1255649,
+  "num_followers": 1256114,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWY0OGJhOGI1NTllOTdmZDRjNWQwYTQ3NTdlNjU0ODk5MmVjM2Zj",
+  "snapshot_id": "MCxkZWE2MjBjNjllZmNkYmNjNDVjMzNiZTQxNmY2NjExNmFjMTJjMGM3",
   "tracks": [
     {
       "added_at": "2023-02-06 10:03:23",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "War Is the Answer",
         "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
       },
@@ -571,22 +555,34 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 237346,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Disobey",
+        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 254805,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -623,18 +619,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
+      "duration_ms": 237346,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -651,6 +651,22 @@
       "duration_ms": 417226,
       "name": "Fade To Black (Remastered)",
       "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -683,22 +699,6 @@
       "duration_ms": 308906,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Disobey",
-        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 254805,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Empire - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
-      },
-      "artists": [
-        {
-          "name": "Queensr\u00ffche",
-          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
-        }
-      ],
-      "duration_ms": 347760,
-      "name": "Silent Lucidity - Remastered 2003",
-      "url": "https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Empire - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow"
+      },
+      "artists": [
+        {
+          "name": "Queensr\u00ffche",
+          "url": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+        }
+      ],
+      "duration_ms": 347760,
+      "name": "Silent Lucidity - Remastered 2003",
+      "url": "https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "Images and Words",
+        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Images and Words",
-        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+        "name": "A Decade of Destruction",
+        "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 263120,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA"
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1291,22 +1307,6 @@
       "duration_ms": 214373,
       "name": "I Won't Forget You - Remastered 2003",
       "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "A Decade of Destruction",
-        "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 275212,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
       },
       "artists": [
         {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
+      "duration_ms": 247466,
+      "name": "Can't Stop Lovin' You",
+      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1411,34 +1411,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
         }
       ],
-      "duration_ms": 247466,
-      "name": "Can't Stop Lovin' You",
-      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "Psycho Circus",
-        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
+      "duration_ms": 323360,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1455,6 +1439,22 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Deadwing",
         "url": "https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 258586,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Girls, Girls, Girls (2021 - Remaster)",
-        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "1916",
         "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 327546,
       "name": "Love Me Forever",
       "url": "https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Girls, Girls, Girls (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L"
     },
     {
       "added_at": "2023-02-06 10:03:23",

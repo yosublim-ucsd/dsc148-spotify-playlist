@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked just for you. \u2728 Cover: Cuco & Aleman",
-  "num_followers": 764257,
+  "num_followers": 764237,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTQwNjc2MDRhNjNhMjQ0Y2JhN2YzYWRmYmY3N2FiMDQ0ZGM1Yzgx",
+  "snapshot_id": "MCxlZWY4ZjhjN2M5NTZhZWZiYjc4Njg0YTQxMmJjZWVhZmYzYWQ1YzZi",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "rangerover",
+        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 186945,
+      "name": "rangerover",
+      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Climax",
         "url": "https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "rangerover",
-        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 186945,
-      "name": "rangerover",
-      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "UN A\u00d1O DE MIERDA",
         "url": "https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "El Rio",
-        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
+        "name": "NOS QUISIMOS",
+        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
         }
       ],
-      "duration_ms": 134884,
-      "name": "El Rio",
-      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+      "duration_ms": 151612,
+      "name": "NOS QUISIMOS",
+      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -571,18 +571,34 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "NOS QUISIMOS",
-        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
+        "name": "El Rio",
+        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
       },
       "artists": [
         {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 151612,
-      "name": "NOS QUISIMOS",
-      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
+      "duration_ms": 134884,
+      "name": "El Rio",
+      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "BITCH3",
+        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 144554,
+      "name": "BITCH3",
+      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 253747,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "BITCH3",
-        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 144554,
-      "name": "BITCH3",
-      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
     },
     {
       "added_at": "2023-09-01 04:00:00",

@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-135 songs - 7 hr 22 min
+136 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [IT'S ALRIGHT](https://open.spotify.com/track/4oy5p3PSyc3QGgBEUqdiXn) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 2:55 | 2023-01-12 |  |
 | [Jealousy](https://open.spotify.com/track/3TM7sUA8tMzndo6G8E526g) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CONNECT : DEJAVU](https://open.spotify.com/album/33jGMiM6HwvRfrW8bevNWo) | 3:27 | 2021-12-09 |  |
 | [Just love](https://open.spotify.com/track/1JYumffldxoPtGhe7HN8Mx) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:12 | 2021-12-09 |  |
-| [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-12-09 |  |
+| [KISS OR DEATH](https://open.spotify.com/track/31NoynLg4SrXK8Lcb9mLmL) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/7jvDaGCtBMlNNccPPUurqh) | 3:27 | 2023-06-21 |  |
+| [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-12-09 | 2023-09-07 |
 | [Last Carnival](https://open.spotify.com/track/2ToiAuPuVZGOUC96jOvmmW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 2:54 | 2021-12-09 |  |
 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 | 2022-08-09 |  |
 | [Livin' It Up \- Korean Version](https://open.spotify.com/track/7faNO2qAPfd8oFlMUQaxpn) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:44 | 2021-12-09 |  |

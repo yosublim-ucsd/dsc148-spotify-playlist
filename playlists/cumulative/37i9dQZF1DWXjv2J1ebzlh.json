@@ -36703,6 +36703,28 @@
     },
     {
       "album": {
+        "name": "Unconditional (feat. Rationale)",
+        "url": "https://open.spotify.com/album/14vupgjqKCmYJ0eqMUr9px"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195020,
+      "name": "Unconditional (feat. Rationale)",
+      "url": "https://open.spotify.com/track/3Lgb0uFGQ8SJVoqpq6bSif"
+    },
+    {
+      "album": {
         "name": "Face To Face With The Truth",
         "url": "https://open.spotify.com/album/4ZswFiADrD5jIg1Y5Eu7cc"
       },

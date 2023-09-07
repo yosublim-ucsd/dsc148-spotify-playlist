@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,747 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,791 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Hated You All Along](https://open.spotify.com/track/1MgnyE2M6l2dikyRoiqcTG) | [august brodie](https://open.spotify.com/artist/0aIzyzaRQYsWCtzfNKBiui) | [Hated You All Along](https://open.spotify.com/album/7IomHV35OObK4R3JU6Fh6T) | 3:03 |
 | 100 | [Better Than You](https://open.spotify.com/track/4edfOHdbGuPGyYrOu9KFSC) | [Maggie Andrew](https://open.spotify.com/artist/4PJuPTnsXBp1QY667NS0Oo) | [Better Than You](https://open.spotify.com/album/4xfH7HC2uMG2bpbawU4LHU) | 2:11 |
 
-Snapshot ID: `MCw2ZDg3ZjNiZTBkYjFhN2E4YmYzNWQ4MzdiOWVkYjc2YTQzNWI0OTRk`
+Snapshot ID: `MCxkYmUzMTkzODcxMjJiYjY3NDNmMjJlNjQxNWQ3NzYzZGQ4YTYzMzIw`

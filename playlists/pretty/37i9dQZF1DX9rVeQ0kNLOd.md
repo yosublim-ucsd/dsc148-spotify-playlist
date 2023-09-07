@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,917 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,001 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [Soranji](https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb) | 5:44 |
 | 50 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 |
 
-Snapshot ID: `MCxkZGQ3ZmQwOGIxMDgwZDlkYTU2MjZmMDQ5ZjJmN2RmNDA2OGFkOGZj`
+Snapshot ID: `MCw5YTU3NGVlMzU3ZTc5MDE0ZmNkYzM2ZDQzZjJjZjFiNjA3ZGNiZTll`

@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 666863,
+  "num_followers": 667094,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2U1MTk5ZDNlNWFlMzQ4YzRmOTFkZTEwMzEzZDc2NTcxZWU3MmYx",
+  "snapshot_id": "MCwzYTZhOGU1OTI4ZjYzY2ZkMGMyMjNiODY2NzUwZjVmOGZhZGUyODBh",
   "tracks": [
     {
       "added_at": "2023-09-01 05:50:44",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Miniatures de auto rhythm",
-        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 143617,
-      "name": "Faux savage",
-      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "Just Cool",
         "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 220243,
       "name": "Just Cool",
       "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Miniatures de auto rhythm",
+        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 143617,
+      "name": "Faux savage",
+      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -767,26 +767,22 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Xover",
-        "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/6oFyBwOwT0nh0hyOzr0Iht"
       },
       "artists": [
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+          "name": "The Frightnrs",
+          "url": "https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP"
         },
         {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
-        },
-        {
-          "name": "N\u00e9rija",
-          "url": "https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI"
+          "name": "Victor Axelrod",
+          "url": "https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
+      "duration_ms": 216546,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/6SN0zMxQ7PlgpmwuVcGMgE"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -807,6 +803,30 @@
       "duration_ms": 351708,
       "name": "OK Seke Bien",
       "url": "https://open.spotify.com/track/4faQZK914Arr6kersUJT07"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Xover",
+        "url": "https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "N\u00e9rija",
+          "url": "https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -843,26 +863,6 @@
       "duration_ms": 213749,
       "name": "Unathi",
       "url": "https://open.spotify.com/track/1dxYM3qSzXe2O2RJ3rK3KI"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/6oFyBwOwT0nh0hyOzr0Iht"
-      },
-      "artists": [
-        {
-          "name": "The Frightnrs",
-          "url": "https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP"
-        },
-        {
-          "name": "Victor Axelrod",
-          "url": "https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/6SN0zMxQ7PlgpmwuVcGMgE"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
+        "name": "Badala Zamana (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
+      },
+      "artists": [
+        {
+          "name": "Zohra",
+          "url": "https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI"
+        }
+      ],
+      "duration_ms": 190124,
+      "name": "Badala Zamana (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
         "name": "Chaos Theories",
         "url": "https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Badala Zamana (Habibi Funk 015)",
-        "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
       "artists": [
         {
-          "name": "Zohra",
-          "url": "https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 190124,
-      "name": "Badala Zamana (Habibi Funk 015)",
-      "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
+      "duration_ms": 340720,
+      "name": "Nineteen Hundred and Eighty Five",
+      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1031,22 +1047,6 @@
       "duration_ms": 219906,
       "name": "Gnawa (feat. The Atlas Collective)",
       "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Nineteen Hundred and Eighty Five",
-      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 284070,
-      "name": "Musa Paradisa",
-      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "Marvin",
         "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Je k'abere",
-        "url": "https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6"
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
       },
       "artists": [
         {
-          "name": "Surv",
-          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 261167,
-      "name": "Je k'abere",
-      "url": "https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL"
+      "duration_ms": 284070,
+      "name": "Musa Paradisa",
+      "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1459,6 +1443,22 @@
       "duration_ms": 226416,
       "name": "Terra Preta",
       "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Je k'abere",
+        "url": "https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6"
+      },
+      "artists": [
+        {
+          "name": "Surv",
+          "url": "https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ"
+        }
+      ],
+      "duration_ms": 261167,
+      "name": "Je k'abere",
+      "url": "https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Udoh",
+          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
+        }
+      ],
+      "duration_ms": 390121,
+      "name": "I Like It (Don't Stop)",
+      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
         "name": "Mount Pleasant Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Udoh",
-          "url": "https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9"
-        }
-      ],
-      "duration_ms": 390121,
-      "name": "I Like It (Don't Stop)",
-      "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1599,22 +1599,6 @@
       "duration_ms": 400000,
       "name": "I Can't Get Along Without You",
       "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
         }
       ],
-      "duration_ms": 195999,
-      "name": "Hey Boy",
-      "url": "https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI"
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1719,6 +1703,22 @@
       "duration_ms": 151948,
       "name": "Space",
       "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Mam Yinne Wa",
-        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
+        "name": "Education & Recreation",
+        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
       },
       "artists": [
         {
-          "name": "Alogte Oho & His Sounds of Joy",
-          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
         }
       ],
-      "duration_ms": 235250,
-      "name": "Mam Yinne Wa",
-      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
+      "duration_ms": 169319,
+      "name": "Money Music",
+      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
+        "name": "Mam Yinne Wa",
+        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
       },
       "artists": [
         {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+          "name": "Alogte Oho & His Sounds of Joy",
+          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
         }
       ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
+      "duration_ms": 235250,
+      "name": "Mam Yinne Wa",
+      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "RAS II",
-        "url": "https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw"
-      },
-      "artists": [
-        {
-          "name": "RAS",
-          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
-        }
-      ],
-      "duration_ms": 348292,
-      "name": "Boogie",
-      "url": "https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 351280,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "RAS II",
+        "url": "https://open.spotify.com/album/2c8tyrZcoohrBGmOAU8mjw"
+      },
+      "artists": [
+        {
+          "name": "RAS",
+          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
+        }
+      ],
+      "duration_ms": 348292,
+      "name": "Boogie",
+      "url": "https://open.spotify.com/track/1qRJWYZlXrycHQs3KkfCgu"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -2091,6 +2091,38 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
+        "name": "Telenova",
+        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
+      },
+      "artists": [
+        {
+          "name": "Zuco 103",
+          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Aruenda",
+      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 450240,
+      "name": "BC",
+      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
         "name": "Spirituals",
         "url": "https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo"
       },
@@ -2119,22 +2151,6 @@
       "duration_ms": 214750,
       "name": "Ya Aen Daly (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/27wExVJvVvg69dNNKflelY"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -2195,22 +2211,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Telenova",
-        "url": "https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn"
-      },
-      "artists": [
-        {
-          "name": "Zuco 103",
-          "url": "https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Aruenda",
-      "url": "https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "Mentallogenic",
         "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
       },
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Every Trick in the Book",
-        "url": "https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 190229,
-      "name": "Every Trick in the Book",
-      "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "In Between Thoughts...A New World",
         "url": "https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Every Trick in the Book",
+        "url": "https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 190229,
+      "name": "Every Trick in the Book",
+      "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
+        "name": "The Exciting Sounds of Menahan Street Band",
+        "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
         "name": "\u015eatellites",
         "url": "https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK"
       },
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "The Exciting Sounds of Menahan Street Band",
-        "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "Juicy",
         "url": "https://open.spotify.com/album/1l9h8V3bk4SUoGrAyviH2K"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 225000,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/37BcvlCPdEu1fQuuad7TZ1"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
+        "name": "Bijou voyou caillou",
+        "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
+      },
+      "artists": [
+        {
+          "name": "Florian Pellissier Quintet",
+          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Coup de foudre \u00e0 Thessalonique",
+      "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
         "name": "Judge Not (Ray Mang Mixes)",
         "url": "https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl"
       },
@@ -2479,18 +2495,22 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Bijou voyou caillou",
-        "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
+        "name": "Dekmantel 10 Years 10.2",
+        "url": "https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF"
       },
       "artists": [
         {
-          "name": "Florian Pellissier Quintet",
-          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Motor City Drum Ensemble",
+          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
         }
       ],
-      "duration_ms": 262453,
-      "name": "Coup de foudre \u00e0 Thessalonique",
-      "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
+      "duration_ms": 443989,
+      "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
+      "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
     },
     {
       "added_at": "2023-09-01 05:50:44",
@@ -2531,42 +2551,6 @@
     {
       "added_at": "2023-09-01 05:50:44",
       "album": {
-        "name": "Atlantic Oscillations",
-        "url": "https://open.spotify.com/album/0Xfv1090bD2UFe8i7R9MDy"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 351146,
-      "name": "Atlantic Oscillations",
-      "url": "https://open.spotify.com/track/6B48flYjBKnKObVOYlcTle"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
-        "name": "Dekmantel 10 Years 10.2",
-        "url": "https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF"
-      },
-      "artists": [
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        },
-        {
-          "name": "Motor City Drum Ensemble",
-          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
-        }
-      ],
-      "duration_ms": 443989,
-      "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
-      "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
-    },
-    {
-      "added_at": "2023-09-01 05:50:44",
-      "album": {
         "name": "Mira Bien",
         "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2023-09-01 05:50:44",
+      "album": {
+        "name": "Atlantic Oscillations",
+        "url": "https://open.spotify.com/album/0Xfv1090bD2UFe8i7R9MDy"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 351146,
+      "name": "Atlantic Oscillations",
+      "url": "https://open.spotify.com/track/6B48flYjBKnKObVOYlcTle"
     },
     {
       "added_at": "2023-09-01 05:50:44",

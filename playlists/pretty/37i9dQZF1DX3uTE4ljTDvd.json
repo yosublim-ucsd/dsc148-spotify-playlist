@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Vit\u00f3ria Souza",
-  "num_followers": 114006,
+  "num_followers": 114071,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjM0ZjQzNzE1YzMxNjkyYzRlNWRhMTBjNDQ5OGVmNzhlM2NhYjUx",
+  "snapshot_id": "MCxhODAzZDQ5ODgwZTY5NTQ4NzY1MDkwNmE0Y2QyYjE1ZjA2NjExYzUw",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:16",
@@ -391,22 +391,18 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "A Igreja Te Adora",
-        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
+        "name": "Ver Al\u00e9m",
+        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
       },
       "artists": [
         {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Elizeu Alves",
-          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
         }
       ],
-      "duration_ms": 269165,
-      "name": "A Igreja Te Adora",
-      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
+      "duration_ms": 289879,
+      "name": "Ver Al\u00e9m",
+      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -427,18 +423,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Ver Al\u00e9m",
-        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
+        "name": "A Igreja Te Adora",
+        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
         }
       ],
-      "duration_ms": 289879,
-      "name": "Ver Al\u00e9m",
-      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
+      "duration_ms": 269165,
+      "name": "A Igreja Te Adora",
+      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Sinal de Amor",
         "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 288857,
       "name": "Pra Que Eu Fosse Livre",
       "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -635,38 +635,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
-        }
-      ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Sou o Teu Altar",
         "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
       },
@@ -687,6 +655,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Tu \u00c9s Real",
         "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 302769,
       "name": "Tu \u00c9s Real",
       "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+        }
+      ],
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Eu Vou Mergulhar",
         "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 330000,
       "name": "Sua Vida Em Mim",
       "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Peda\u00e7os",
-      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Anotando Pensamentos",
         "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 271668,
       "name": "Anotando Pensamentos",
       "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "N\u00e3o Serei o Mesmo",
-        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
-      },
-      "artists": [
-        {
-          "name": "Renata Reis",
-          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
-        }
-      ],
-      "duration_ms": 397096,
-      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
-      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cansado de Partir",
         "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 291500,
       "name": "Cora\u00e7\u00e3o Cansado de Partir",
       "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "N\u00e3o Serei o Mesmo",
+        "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
+      },
+      "artists": [
+        {
+          "name": "Renata Reis",
+          "url": "https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS"
+        }
+      ],
+      "duration_ms": 397096,
+      "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
+      "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
     }
   ],
   "unique_name": "Revela\u00e7\u00e3o Gospel",

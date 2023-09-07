@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Sainte & Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,924 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,029 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 12 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 13 | [Unruly](https://open.spotify.com/track/2rwQLeDE1xRT39ORMHACjz) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [ReBourne](https://open.spotify.com/album/4Y2Cla7P9zqTppJ1Xq92At) | 4:13 |
 | 14 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
-| 15 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 |
-| 16 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
+| 15 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
+| 16 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 |
 | 17 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 |
 | 18 | [Need Me](https://open.spotify.com/track/7a636g0dl8a487foiAcoCM) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Need Me](https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm) | 2:18 |
 | 19 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
 | 60 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 
-Snapshot ID: `MCwzNGY5MjBjYWJiMGMzMGY5MzkxZWQwYjJhMjM1NjU4ZTdlNzdlMjNk`
+Snapshot ID: `MCw0OTEzZDdjM2M1YjM3M2UyYTdlYjRkOGZiOWVkOTEzNDE4YTY5NDA4`

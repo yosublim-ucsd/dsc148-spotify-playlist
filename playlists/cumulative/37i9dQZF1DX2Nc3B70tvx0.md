@@ -4,7 +4,7 @@
 
 > Newsworthy indie 2023: Sid Sriram's new album, Toro y Moi goes folk, Mitski remains ethereal.
 
-1,760 songs - 4 day 9 hr 34 min
+1,761 songs - 4 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -901,6 +901,7 @@
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-04-07 |  |
 | [Let's Make a Mistake Tonight](https://open.spotify.com/track/0zmt4wKN8304OeCcmtTd9s) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Let's Make a Mistake Tonight](https://open.spotify.com/album/5ZtqvxdR8JObx37QbifQS6) | 4:14 | 2023-01-20 | 2023-02-23 |
 | [Life Is Not The Same](https://open.spotify.com/track/53tKpMeDRvMq4xKvQzc6Ih) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Life Is Not The Same](https://open.spotify.com/album/79cXZ95WbLImty6k16rvhc) | 3:19 | 2021-09-02 | 2022-04-03 |
+| [Life Lesson \(feat\. Lana Del Rey\)](https://open.spotify.com/track/21B45csd0sMwX5VnAHc4BX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:49 | 2023-08-17 |  |
 | [Lifeline](https://open.spotify.com/track/78dm8zrEiJ1d0G6IBuiN7m) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Lifeline](https://open.spotify.com/album/0iAfdMQLxhqNyO2bZ7aTLL) | 3:22 | 2023-01-28 | 2023-02-01 |
 | [Lifetime](https://open.spotify.com/track/6UcQPAH459nMfAXAvV9Udc) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/4aymv3MZSQ5GEb1jS6NVSa) | 3:17 | 2020-10-13 | 2021-05-28 |
 | [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2019-05-26\* | 2019-06-15 |
@@ -1260,7 +1261,7 @@
 | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/7mcYosmfRFxXJN3hwwNXnL) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Redlight \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/7u7KN63awFeiDCfk9dq1xm) | 2:53 | 2023-05-11 | 2023-07-01 |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-08-07 | 2021-03-06 |
 | [Retina Show \- Unreleased Demo](https://open.spotify.com/track/5uDdyVU0jDST7xmuOqpnC3) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 5:22 | 2023-06-02 | 2023-07-01 |
-| [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 |  |
+| [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 | 2023-09-07 |
 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 | 2023-02-08 | 2023-02-14 |
 | [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-30 | 2022-10-15 |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-01-21 | 2022-04-01 |

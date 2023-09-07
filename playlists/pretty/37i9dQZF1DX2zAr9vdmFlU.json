@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 396929,
+  "num_followers": 396990,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDBlZTU0ZDhlNDA1ZTRjMDcwZTBlZjVhOTYzYTM1MTViNWE5NDRh",
+  "snapshot_id": "MCxiOGNkOTM0MGFlMzBkNjQxMDgwZWI3ZGFhN2MxYzYwMzI0MjEzYzk4",
   "tracks": [
     {
       "added_at": "2023-09-01 16:55:14",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Eureka",
         "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Bailables",
-        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
       "artists": [
         {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 224133,
-      "name": "Chocolat (Swing)",
-      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
+        "name": "Bailables",
+        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Chocolat (Swing)",
+      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
         "name": "Bolero Apocal\u00edptico",
         "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 232960,
       "name": "Vem Pra Mim",
       "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1035,6 +1035,26 @@
       "duration_ms": 238760,
       "name": "Electric Soul",
       "url": "https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1111,26 +1131,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "El Caudal",
-        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 237619,
-      "name": "El Caudal",
-      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Mariposas",
         "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 196440,
       "name": "Virgencita - Happy Colors Remix",
       "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Cobarde - Spotify Singles",
-      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "Parrilladas Vargas",
         "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 131897,
       "name": "Una Piedra en el Cielo",
       "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "President Alien",
+        "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
+      },
+      "artists": [
+        {
+          "name": "Yerba Buena",
+          "url": "https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "Electric Boogaloo",
+      "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "President Alien",
-        "url": "https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH"
-      },
-      "artists": [
-        {
-          "name": "Yerba Buena",
-          "url": "https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Electric Boogaloo",
-      "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 208320,
       "name": "El Chuchumb\u00e9",
       "url": "https://open.spotify.com/track/7lm82SH3x1PJGDeaNgpFc8"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Cobarde - Spotify Singles",
+      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
-        "url": "https://open.spotify.com/album/4JUwwqtbrYubzzARMb5j6C"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/6lWS8SoWjlAqX6Y21u8cny"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
         "name": "bossa nova",
         "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
       },
@@ -1407,26 +1387,6 @@
       "duration_ms": 188070,
       "name": "bossa nova",
       "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2023-09-01 16:55:14",
-      "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
-      },
-      "artists": [
-        {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
-        },
-        {
-          "name": "Louis Towers",
-          "url": "https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "El Liso (feat. Luis Towers)",
-      "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1447,6 +1407,46 @@
       "duration_ms": 210461,
       "name": "Guajira",
       "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
+        "url": "https://open.spotify.com/album/4JUwwqtbrYubzzARMb5j6C"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/6lWS8SoWjlAqX6Y21u8cny"
+    },
+    {
+      "added_at": "2023-09-01 16:55:14",
+      "album": {
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+      },
+      "artists": [
+        {
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
+        },
+        {
+          "name": "Louis Towers",
+          "url": "https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "El Liso (feat. Luis Towers)",
+      "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1579,22 +1579,18 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Libre y en Movimiento",
-        "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
+        "name": "Rosalie (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
       },
       "artists": [
         {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
         }
       ],
-      "duration_ms": 183734,
-      "name": "Libre y en Movimiento",
-      "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
+      "duration_ms": 258845,
+      "name": "Rosalie (Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
     },
     {
       "added_at": "2023-09-01 16:55:14",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2023-09-01 16:55:14",
       "album": {
-        "name": "Rosalie (Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk"
+        "name": "Libre y en Movimiento",
+        "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
       },
       "artists": [
         {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 258845,
-      "name": "Rosalie (Espa\u00f1ol)",
-      "url": "https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O"
+      "duration_ms": 183734,
+      "name": "Libre y en Movimiento",
+      "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
     },
     {
       "added_at": "2023-09-01 16:55:14",

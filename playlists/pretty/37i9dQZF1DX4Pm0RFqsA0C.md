@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,292 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,308 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 87 | [늑대와 함께 춤을](https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [늑대와 함께 춤을](https://open.spotify.com/album/6su9aNu18CtW7EWK9M0PUE) | 4:13 |
 | 88 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |
 | 89 | [Baekjeonmupae](https://open.spotify.com/track/6nM6KfiC9q2vZbyRqVeHQ5) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Suprise Party Collection](https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX) | 4:25 |
-| 90 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
-| 91 | [Hunch](https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:57 |
+| 90 | [Hunch](https://open.spotify.com/track/4LbF66hFr9e51PvFYcTLr1) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:57 |
+| 91 | [평생](https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [VOICE MAIL](https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz) | 3:37 |
 | 92 | [우리는](https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deuxism](https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM) | 3:33 |
 | 93 | [Show](https://open.spotify.com/track/2QFRLSOaX1jjV7nNoCQSKO) | [Kim Won Jun](https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8) | [Show](https://open.spotify.com/album/0vqRnu3TWGSCA5rmTu4pTw) | 3:47 |
 | 94 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 |
@@ -126,15 +126,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 116 | [A City Hunter](https://open.spotify.com/track/65FKjFdvrEOCJczzDEODAn) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [First Love](https://open.spotify.com/album/6QjtDh6Q7wf3oF7wpUvZTr) | 3:33 |
 | 117 | [Blue Night on Jeju Island](https://open.spotify.com/track/40AUD1aIbCPhlaf33ysT0W) | [ZOO](https://open.spotify.com/artist/2q3dMJmxOUPFts4UvK9LUh) | [A Tribute To Deulkukhwa, Pt\. 2](https://open.spotify.com/album/7IEiMCYWOQ0FqDKnG9Z2FC) | 4:42 |
 | 118 | [The Very Scent Of You](https://open.spotify.com/track/1U9A4akZLbTHbDRv16nVfc) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [1st](https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx) | 3:35 |
-| 119 | [길 Road](https://open.spotify.com/track/7yVjKxpZ0FtIr8shugrsv1) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 4](https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp) | 3:46 |
+| 119 | [어머님께 To Mother](https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 1](https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh) | 4:15 |
 | 120 | [Honey](https://open.spotify.com/track/07jKgIoj1GYsXSagjuLWiT) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [Coming of age ceremony](https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF) | 3:55 |
 | 121 | [애수 Sorrow](https://open.spotify.com/track/4n4ZVRf5L2AWU63RWt6bvt) | [g.o.d](https://open.spotify.com/artist/0Eowq0Fhr5KEZB6OlXUOxB) | [Chapter 2](https://open.spotify.com/album/2iOFwjFKYQE1bTLXLAnb38) | 4:08 |
 | 122 | [연인](https://open.spotify.com/track/2pYq0mQ6IBGctst62BkRE0) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Roo\`ra Best Album](https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm) | 4:05 |
 | 123 | [Confession](https://open.spotify.com/track/705uQTKwhztraXRflr1sl4) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [1st](https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx) | 4:16 |
 | 124 | [Same Old Story](https://open.spotify.com/track/66yv1ZsM9nqkOtt0LotgCN) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [1st](https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx) | 4:26 |
 | 125 | [The Day After](https://open.spotify.com/track/5mk916aCyM4P5tU4cpSYid) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [1st](https://open.spotify.com/album/25YtogEELrKsEJu21rFDxx) | 3:55 |
-| 126 | [촛불하나 One Candle](https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 3](https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY) | 3:31 |
-| 127 | [어머님께 To Mother](https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 1](https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh) | 4:15 |
+| 126 | [길 Road](https://open.spotify.com/track/7yVjKxpZ0FtIr8shugrsv1) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 4](https://open.spotify.com/album/0HxYruZGss8KfUWgZlisGp) | 3:46 |
+| 127 | [촛불하나 One Candle](https://open.spotify.com/track/6A1uiSNxlOU8sndZRh9oZB) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 3](https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY) | 3:31 |
 | 128 | [사랑해 그리고 기억해 Love You and Remember You](https://open.spotify.com/track/4ozA939dJl4dnAtwM8LObN) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:22 |
 | 129 | [거짓말 Lie](https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 3](https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY) | 4:02 |
 | 130 | [벌써 이렇게 \(feat\. Psy\)](https://open.spotify.com/track/7y24cTluWhcJct69ZOWKNC) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:17 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 149 | [맥주와 땅콩](https://open.spotify.com/track/2VoJPrLM3lxfE9DiDhE4yL) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:52 |
 | 150 | [Git it up!](https://open.spotify.com/track/5Dg2iJomKtU2MxHK8BUkzn) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [I Yah! \- The 4th Album](https://open.spotify.com/album/2hTRBrQt64fYVfZl9viZh3) | 4:16 |
 
-Snapshot ID: `MCw5ODg0YjRmMTE5NjRmM2FhYjE1YWNlNWY4NmQxZjc1Nzk2YjdmNGQ3`
+Snapshot ID: `MCw4OGM2NGVmN2Q4YjY3NDk5NTdlNGIyOGIyNjJkNTIxYWRjOGMyOTA1`

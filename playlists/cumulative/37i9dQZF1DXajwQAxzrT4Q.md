@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-276 songs - 11 hr 12 min
+277 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Got Back?](https://open.spotify.com/track/0pKuvCp3FIPhHykzwo98FA) | [Leemz](https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN), [Yungphnx](https://open.spotify.com/artist/2OAhLVbWM8ONC9JB4DMMIj) | [Got Back?](https://open.spotify.com/album/2Z6haOfHog3DbrXuldYjWX) | 2:15 | 2022-02-11 | 2022-08-17 |
 | [Hands on Ya Hips](https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5) | [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [Adolf Joker](https://open.spotify.com/artist/0t8kV72cpnLzrZ3BFSd8gX) | [King of BBM](https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd) | 2:31 | 2022-02-11 | 2022-12-31 |
 | [Hands Up!](https://open.spotify.com/track/5fr3HjB7aX529pw2CExfGl) | [Leemz](https://open.spotify.com/artist/5P1SmpifePa7JRQko1C9gN) | [Hands Up!](https://open.spotify.com/album/5GJ1vihMHJqMuaHqWoiJUB) | 2:08 | 2022-02-11 | 2022-07-29 |
-| [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 | 2022-07-22 |  |
+| [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 | 2022-07-22 | 2023-09-07 |
 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/7wwzzrCmvvtewHzdngxxDE) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/7h1SQh0vkprBubYC0ODa94) | 1:56 | 2022-02-11 | 2022-07-29 |
 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 | 2022-02-11 | 2022-11-09 |
 | [Her Favorite Song \- Jersey Club](https://open.spotify.com/track/0QKB5Qt9U0MfDtZeVqNVkD) | [DJ Get Bizzy](https://open.spotify.com/artist/5wiQ2svVeIsYb8cF82DLqh) | [Her Favorite Song \(Jersey Club\)](https://open.spotify.com/album/6to2jsbRDyBDOmjJLaNcNy) | 2:31 | 2022-07-22 | 2022-07-29 |
@@ -259,6 +259,7 @@
 | [Switch](https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Switch](https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC) | 2:46 | 2022-12-30 | 2023-01-06 |
 | [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 | 2022-09-16 | 2022-12-31 |
 | [Team Lilman Anthem](https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [Team Lilman Anthem](https://open.spotify.com/album/7keNPILEHzrizAaBpDTH2l) | 2:58 | 2022-02-11 |  |
+| [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 | 2023-09-01 |  |
 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 | 2023-05-26 |  |
 | [TON1GHT \- Jersey Club](https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m) | [KilSoSouth](https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N) | [TON1GHT](https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo) | 1:34 | 2022-12-30 |  |
 | [Touch Them Hips](https://open.spotify.com/track/19lGJuMdZlzaJWPZGCVkq1) | [MikeOnaBeat](https://open.spotify.com/artist/7E69M6L0stZyhtvGzz2nH3) | [Sounds From The 6, Vol\. 4](https://open.spotify.com/album/5REoMVLTZtSPLmfMAngyHv) | 1:24 | 2022-12-30 | 2023-01-06 |

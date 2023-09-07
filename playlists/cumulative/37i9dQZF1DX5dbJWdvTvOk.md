@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-584 songs - 1 day 0 hr 45 min
+586 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2023-04-21 | 2023-08-21 |
 | [Lavender Fields](https://open.spotify.com/track/3ExlWxzIV13ak6afl93XDq) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Lavender Fields](https://open.spotify.com/album/5ZWhg4hM263s5Mb21HicFg) | 3:29 | 2022-07-15 | 2022-10-07 |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-04-21 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2023-04-21 |  |
 | [Leaving La Habana](https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm), [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Leaving La Habana](https://open.spotify.com/album/4icca12AyQGQAqLzPTYs6E) | 3:38 | 2022-07-15 | 2023-04-22 |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-15 | 2023-04-22 |
@@ -326,7 +327,7 @@
 | [Lusen](https://open.spotify.com/track/5nPOD520fGVNUIUVAeOjbY) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Lusen](https://open.spotify.com/album/3lDUaFHShfQnRw5QuK1oZe) | 2:47 | 2022-07-15 | 2023-04-22 |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2023-04-21 | 2023-08-24 |
 | [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2023-04-21 | 2023-05-05 |
-| [Madeline](https://open.spotify.com/track/51c0wJWXcH4CLcRtmeghK9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2dC5WIOAtSstDRiNwjDOHi) | 2:10 | 2023-04-21 |  |
+| [Madeline](https://open.spotify.com/track/51c0wJWXcH4CLcRtmeghK9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2dC5WIOAtSstDRiNwjDOHi) | 2:10 | 2023-04-21 | 2023-09-07 |
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-19 | 2023-04-22 |
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 | 2023-04-22 |
 | [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2023-04-21 |  |
@@ -438,7 +439,7 @@
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-07-15 | 2023-04-22 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2022-07-15 | 2023-03-11 |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 | 2023-04-22 |
-| [Sancy](https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz) | [Oli Bloom](https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl) | [Sancy](https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z) | 2:23 | 2022-07-15 |  |
+| [Sancy](https://open.spotify.com/track/7mBtZnqdWLJQbd2vIc3Urz) | [Oli Bloom](https://open.spotify.com/artist/7vlpBGqjj0b2Vmrf1i4Bpl) | [Sancy](https://open.spotify.com/album/4b4azFjmeRxMA0un2h196Z) | 2:23 | 2022-07-15 | 2023-09-07 |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-04-21 |  |
 | [Santiago de Compostela](https://open.spotify.com/track/16kc1IAK0IYUvPoolUOOH6) | [Alex Van Hill](https://open.spotify.com/artist/0XGI6N0NlOJaDZqL96yJ1V) | [Burgundy](https://open.spotify.com/album/5nnD4FGclPCs3E3r1Kj2CH) | 2:40 | 2022-07-15 | 2023-04-22 |
 | [Sarita](https://open.spotify.com/track/6bT8FxJe2Bh27j9ZSt9HnP) | [Samuel Diz](https://open.spotify.com/artist/6I2XKIVhzU8o4RdwKIhMWN), [Tino Prados](https://open.spotify.com/artist/0xAFMHeKeXwNoxstUZsj0X) | [Músicas inéditas en casas literarias: Casa\-Museo Manuel María](https://open.spotify.com/album/2lnaksOr1ISSNvxPgR4qtb) | 2:07 | 2022-11-18 | 2023-04-22 |
@@ -560,6 +561,7 @@
 | [Via Venezia](https://open.spotify.com/track/2kjjHarIUiN5gKqk7RDUum) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [Via Venezia](https://open.spotify.com/album/1jJcIOY6MrChG5g8961SfH) | 2:07 | 2022-07-15 | 2022-10-29 |
 | [Viaggio privato](https://open.spotify.com/track/3wXRDwVyrN8C3xCmwoidua) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Viaggio privato](https://open.spotify.com/album/2GGXn2r1cszqWSkRENLMEq) | 1:59 | 2022-07-15 | 2023-08-26 |
 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 | 2022-07-15 | 2023-03-11 |
+| [Vigo](https://open.spotify.com/track/3y2a6TQ1cVmjiWu2ux8CBg) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Vigo](https://open.spotify.com/album/3tIQlmIRpCXwGqvxNgw0q3) | 2:19 | 2023-08-31 |  |
 | [Villa Traful](https://open.spotify.com/track/0tL8cNoUgDw6Yr9GKNO6SS) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Villa Traful](https://open.spotify.com/album/2I6UeYFsvJqhwmikAXJCLF) | 3:11 | 2023-04-21 |  |
 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 | 2023-04-21 |  |
 | [Vintervisa](https://open.spotify.com/track/6qFynggiuKEUNZrzjuuzWQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Vintervisa](https://open.spotify.com/album/4LVE0PGhIdMkOmfch01eKl) | 1:44 | 2023-04-21 | 2023-08-26 |

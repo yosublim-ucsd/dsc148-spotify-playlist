@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez & Espinoza Paz
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,045 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,079 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 65 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 66 | [Antes De Que Te Vayas](https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Antes De Que Te Vayas](https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD) | 4:31 |
 | 67 | [Renunciación](https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:06 |
-| 68 | [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 |
-| 69 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
+| 68 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
+| 69 | [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 |
 | 70 | [Peca de Bonita](https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Peca de Bonita](https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW) | 2:27 |
 | 71 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 72 | [Valiente](https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL) | [Rafael Kelly](https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY) | [Valiente](https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [Coincidir](https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Coincidencias](https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav) | 3:01 |
 | 100 | [No Me Queda Más](https://open.spotify.com/track/639NmACfrGWlwQ6mBZxtjp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [No Me Queda Más](https://open.spotify.com/album/1sNgMbz7THERzs2wCMpbFR) | 3:22 |
 
-Snapshot ID: `MCxmMzJmYWE5NmYyM2E3MGJkNzNkZjdlMTEyNDliY2NhZGNhODlmNmNk`
+Snapshot ID: `MCw2NzdhNjdkOTAzYWNkNjA2YjViOWE3ZTRjMmM5YTVlMjIyZmEyMGI3`

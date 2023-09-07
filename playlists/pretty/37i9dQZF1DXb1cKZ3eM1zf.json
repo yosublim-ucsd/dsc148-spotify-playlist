@@ -1,12 +1,12 @@
 {
   "description": "Het beste van Pinkpop en een greep uit de line-up van 2023",
-  "num_followers": 49450,
+  "num_followers": 49456,
   "original_name": "Pinkpop Best of - 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWM1MDA5YjczNjkxYWEyMTAyZTNkODZlYmFhNzllNDUwZDI0NTli",
+  "snapshot_id": "MCw1Y2I3ZDk1N2UxNzE5ZjlhZGE0ZjBmYTY1ZTA4ZWE2YmQ4ODE0OTgw",
   "tracks": [
     {
       "added_at": "2023-06-14 10:23:31",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "The Reason (15th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
       "artists": [
         {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 232800,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        "name": "The Reason (15th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
         }
       ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 222320,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Eye To The Telescope",
-        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
-      },
-      "artists": [
-        {
-          "name": "KT Tunstall",
-          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Suddenly I See",
-      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Ace of Spades (Expanded Edition)",
         "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 166360,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Eye To The Telescope",
+        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Suddenly I See",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Kinks (Deluxe)",
-        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 131573,
-      "name": "You Really Got Me",
-      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Kinks (Deluxe)",
+        "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 131573,
+      "name": "You Really Got Me",
+      "url": "https://open.spotify.com/track/29SyMC0plk6qw8NMF7lfRL"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 256240,
       "name": "Youth of the Nation",
       "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "I Kissed A Girl",
-      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "La Folie",
         "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 206760,
       "name": "Golden Brown",
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "I Kissed A Girl",
+      "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Thirteen Tales From Urban Bohemia",
-        "url": "https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Bohemian Like You",
-      "url": "https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj"
       },
@@ -2387,22 +2371,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "Metalingus",
-      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
@@ -2419,6 +2387,22 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 259959,
+      "name": "Metalingus",
+      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2467,6 +2451,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     }
   ],
   "unique_name": "Pinkpop Best of - 2023",

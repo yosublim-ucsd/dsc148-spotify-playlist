@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: 예빛\(Yebit\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,055 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,071 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 16 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
 | 17 | [pit\-a\-pet](https://open.spotify.com/track/5Pf0Kp6w1G9xh7ufoKcL5m) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:01 |
 | 18 | [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 |
-| 19 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 |
+| 19 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
 | 20 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 |
-| 21 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 |
+| 21 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 |
 | 22 | [SOS](https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [SOS](https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4) | 3:38 |
 | 23 | [On & On](https://open.spotify.com/track/7BIQiWbZorPJ02OXKWpyot) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Bittersweet](https://open.spotify.com/album/1iAuetaxhsYUgaoD7elfxx) | 2:43 |
 | 24 | [SPACE MULAN](https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [SPACE MULAN](https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a) | 2:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 45 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
 | 46 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
 | 47 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
-| 48 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
-| 49 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
+| 48 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
+| 49 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
 | 50 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 |
 
-Snapshot ID: `MCw0ZWVlZWViZmIzOWNlY2JiMGNkN2YzN2YyMmU2ODdlNzExYzQ0ODY5`
+Snapshot ID: `MCxmZGFmY2E1NjI1MzFiM2E1MGE4ZjM2OWZjZmQxOTVlYzliNTc5MGVl`

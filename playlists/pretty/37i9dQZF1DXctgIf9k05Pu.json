@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 240248,
+  "num_followers": 240368,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
+  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "unexpected",
+        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
+      },
+      "artists": [
+        {
+          "name": "eevee",
+          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+        }
+      ],
+      "duration_ms": 86571,
+      "name": "viola",
+      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "How Are You",
         "url": "https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 127137,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "unexpected",
-        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
-      },
-      "artists": [
-        {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
-        }
-      ],
-      "duration_ms": 86571,
-      "name": "viola",
-      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "osho",
+        "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
+      },
+      "artists": [
+        {
+          "name": "Nohidea",
+          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
+        }
+      ],
+      "duration_ms": 139684,
+      "name": "sincerely, yours",
+      "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "drinking under the streetlights",
         "url": "https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 182416,
       "name": "the way that you see me (feat. Ayleen Valentine)",
       "url": "https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "osho",
-        "url": "https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc"
-      },
-      "artists": [
-        {
-          "name": "Nohidea",
-          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
-        }
-      ],
-      "duration_ms": 139684,
-      "name": "sincerely, yours",
-      "url": "https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp"
     },
     {
       "added_at": "2022-02-02 00:21:48",

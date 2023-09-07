@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 225015,
+  "num_followers": 225254,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDdhYTAyOGE2NzE5N2VhNWNmZDQ0OWNmMTg3OTNlZjQzMTk1YTVi",
+  "snapshot_id": "MCw5NmE4Y2FmOWE4ZDBhY2E4YmU3OGU2N2U5NTcyYjYxYjQ2ZjcxZDcx",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Little Miss Dynamite",
-        "url": "https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Little Miss Dynamite",
-      "url": "https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 237368,
       "name": "EASE YOUR MIND",
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Little Miss Dynamite",
+        "url": "https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Little Miss Dynamite",
+      "url": "https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Missing You (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "King Of My Castle (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 199191,
+      "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
+      "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 198173,
       "name": "Money",
       "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "King Of My Castle (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 199191,
-      "name": "King of My Castle - (Purple Disco Machine Remix) [Edit]",
-      "url": "https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1195,22 +1195,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Call On Me & Lifetime (Remixes)",
-        "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
+        "name": "Fool For Love",
+        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
         },
         {
-          "name": "Dimitri From Paris",
-          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
-      "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
+      "duration_ms": 239220,
+      "name": "Fool For Love - Chris Lake Edit",
+      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1235,26 +1239,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Fool For Love",
-        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+        "name": "Call On Me & Lifetime (Remixes)",
+        "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
       "artists": [
         {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         },
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
         }
       ],
-      "duration_ms": 239220,
-      "name": "Fool For Love - Chris Lake Edit",
-      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
+      "duration_ms": 193106,
+      "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
+      "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Hot Summer Love",
         "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 254072,
       "name": "Hot Summer Love",
       "url": "https://open.spotify.com/track/4TQqoGyB4nYr79d6pYXNi9"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1431,30 +1431,6 @@
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) [Horse Meat Disco Remix]",
-        "url": "https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) - Horse Meat Disco Remix",
-      "url": "https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1483,6 +1459,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Colors (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Colors - The Knocks Remix",
+      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "You Bring Me Joy",
         "url": "https://open.spotify.com/album/7qC8j2gTsZJk38AsoGyWKI"
       },
@@ -1503,6 +1499,30 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) [Horse Meat Disco Remix]",
+        "url": "https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "Horse Meat Disco",
+          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) - Horse Meat Disco Remix",
+      "url": "https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Stimulate (Deluxe)",
         "url": "https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 154702,
       "name": "Mind Talking",
       "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Colors (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Colors - The Knocks Remix",
-      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Maintain (Jafunk Remix)",
-        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Maintain - Jafunk Remix",
-      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/6OQvq7hzK2BCj89A4wBAxh"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 180000,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/76CcHmpRJjb1y6RFnTh4nK"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Maintain (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Maintain - Jafunk Remix",
+      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
-        }
-      ],
-      "duration_ms": 240691,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -1887,6 +1867,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "duration_ms": 240691,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "If You Want It",
         "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
       },
@@ -1899,6 +1899,22 @@
       "duration_ms": 204210,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Boys Don't Sob",
+        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "Boys Don't Sob",
+      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1919,22 +1935,6 @@
       "duration_ms": 143946,
       "name": "Lost In Space (feat. SG Lewis)",
       "url": "https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Boys Don't Sob",
-        "url": "https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J"
-      },
-      "artists": [
-        {
-          "name": "The Free Label",
-          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
-        }
-      ],
-      "duration_ms": 176017,
-      "name": "Boys Don't Sob",
-      "url": "https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr"
     },
     {
       "added_at": "2023-09-01 06:00:00",

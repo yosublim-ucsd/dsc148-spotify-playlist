@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: ATARASHII GAKKO! \(新しい学校のリーダーズ\)
 
-169 songs - 9 hr 44 min
+170 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Shambles](https://open.spotify.com/track/02uymGtd5fO1zlWqY0RK1b) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/38xpJSGkXHCndHFDHlQxBB) | 3:22 | 2023-08-03 | 2023-08-05 |
 | [Shambles](https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Shambles](https://open.spotify.com/album/4hhkj6li1ULllYOZJHFt7w) | 3:22 | 2023-08-03 | 2023-08-08 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-05-09 |  |
+| [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-05 |  |
 | [six feet under](https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [six feet under](https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1) | 3:37 | 2023-07-25 | 2023-08-18 |
 | [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-08-29 |  |
 | [sober](https://open.spotify.com/track/3tPU87pYSXlN8e6NAvBhRn) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [HOLLOW](https://open.spotify.com/album/6xF8yXGdqXuvvbapWKLsea) | 2:52 | 2023-08-17 | 2023-09-01 |
@@ -148,7 +149,7 @@
 | [二十歳の恋](https://open.spotify.com/track/1EA40FX9aBaKIXwIp83WzL) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:13 | 2023-08-31 |  |
 | [冒険録](https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [冒険録](https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0) | 3:47 | 2023-08-10 | 2023-08-17 |
 | [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-06-08 | 2023-07-07 |
-| [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 |  |
+| [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 | 2023-09-07 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-08-03 |  |
 | [夜に駆ける](https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [夜に駆ける](https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23) | 4:21 | 2023-05-09 |  |
 | [巣食いのて](https://open.spotify.com/track/3zIAqsIUasAahJ5Z56sbch) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [巣食いのて](https://open.spotify.com/album/14XaMmLLFH2lzWri7DCUrV) | 3:40 | 2023-05-09 | 2023-05-31 |

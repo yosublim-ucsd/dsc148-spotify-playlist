@@ -4,7 +4,7 @@
 
 > 
 
-618 songs - 1 day 15 hr 44 min
+620 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
 | [Blue In Green](https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Blue In Green](https://open.spotify.com/album/34IGwJvrYQpDzuM43iUknK) | 4:02 | 2023-06-01 |  |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2021-12-16 | 2022-05-11 |
-| [Blue Light](https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:54 | 2023-08-10 |  |
+| [Blue Light](https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:54 | 2023-08-10 | 2023-09-07 |
 | [Blue Mist](https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 3:24 | 2023-02-02 |  |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-26 |  |
 | [Blue Moonshine](https://open.spotify.com/track/67Dn2vbyUSRJEMVJaOqOPu) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Blue Moonshine](https://open.spotify.com/album/1lqyspKRvmkch6mmsM4VEA) | 3:13 | 2023-08-10 |  |
@@ -312,7 +312,7 @@
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-11-11 |  |
 | [Lighter](https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Lighter](https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M) | 3:23 | 2023-06-01 |  |
 | [Like Naomi](https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Like Naomi](https://open.spotify.com/album/3HqJKYNSlszttPwKtghxFC) | 3:52 | 2023-06-01 |  |
-| [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-01-26 |  |
+| [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-01-26 | 2023-09-07 |
 | [Limerence](https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Limerence](https://open.spotify.com/album/4dfayCxblG2wzUIJUYQeXG) | 3:47 | 2023-06-01 |  |
 | [Linda´s Dream](https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Linda´s Dream](https://open.spotify.com/album/0q30Csvy0pQmqQ9plA1jLZ) | 2:49 | 2023-06-22 |  |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-23 |  |
@@ -544,6 +544,8 @@
 | [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-06-01 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/5m07y0cB4u7D5gzZOBU5sW) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:10 | 2021-12-16 |  |
 | [The View of Aurora](https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [The View of Aurora](https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T) | 2:48 | 2023-06-01 |  |
+| [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |
+| [Thea](https://open.spotify.com/track/6wyOFWdvUX8lKVVyzf2x5u) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Thea](https://open.spotify.com/album/1JWQZRwYtSDoW7P3Yy0uOq) | 3:46 | 2023-08-31 |  |
 | [Then I'll Be Tired Of You](https://open.spotify.com/track/6Spm4gF9hbIRiSBQVYJFYl) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Comin' Your Way](https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX) | 6:09 | 2022-01-26 | 2023-08-13 |
 | [Then I'll Be Tired Of You \- Instrumental](https://open.spotify.com/track/57ngHTYxMbRq17aPO2faFE) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [In A Mellow Tone](https://open.spotify.com/album/5Z3eZp41IkDzQT2L9KRuxT) | 5:08 | 2022-05-18 | 2023-08-14 |
 | [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 | 2023-06-01 |  |

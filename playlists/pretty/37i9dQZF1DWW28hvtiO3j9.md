@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,540 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,760 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 21 | [指切り](https://open.spotify.com/track/4cqT8OWWECOOKV4VZELuPs) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [大瀧詠一 乗合馬車\(Omnibus\) 50th Anniversary Edition](https://open.spotify.com/album/1uUVkfscVqO6dvHEmURoLp) | 3:36 |
 | 22 | [I'm in Love](https://open.spotify.com/track/5RSpR665UGsu1FFEq1pG8R) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:53 |
 | 23 | [WINDY SUMMER](https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:06 |
-| 24 | [Jazzy Night](https://open.spotify.com/track/2CzYHourfYD0fQBaBHgCNS) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Who Are You?](https://open.spotify.com/album/64RtMrgkknSMaWhA8J2mDD) | 3:51 |
-| 25 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 |
+| 24 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 |
+| 25 | [Jazzy Night](https://open.spotify.com/track/2CzYHourfYD0fQBaBHgCNS) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Who Are You?](https://open.spotify.com/album/64RtMrgkknSMaWhA8J2mDD) | 3:51 |
 | 26 | [Dear Breeze](https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx), [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Another Summer](https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB) | 4:01 |
 | 27 | [First Light \- 2018 Remaster](https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:33 |
 | 28 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
 | 50 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
 
-Snapshot ID: `MCw2NWQ4M2JjMWUxMzExYzA4NDE2ZGNmNzA1NWU4MzMzODdhOTJiMDA4`
+Snapshot ID: `MCxhZDIxNTEzYzM0MGIzYjFhNmZlYzFkM2JlMDhhOTNmZjljNDQ0MzVh`

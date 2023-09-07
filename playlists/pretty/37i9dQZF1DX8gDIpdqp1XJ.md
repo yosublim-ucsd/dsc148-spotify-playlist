@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,873 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,894 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 25 | [It's Ok \(it's Not Ok\)](https://open.spotify.com/track/4InJf4lGFizBLNnmAd2dzq) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:04 |
 | 26 | [a brief dream of sun](https://open.spotify.com/track/4NnhwPaaRAxYQNjf63jixW) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [a brief dream of sun](https://open.spotify.com/album/5m0OjAErvHNcREsNbY1SHG) | 3:26 |
 | 27 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 |
-| 28 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 |
+| 28 | [A Song About the Sun](https://open.spotify.com/track/3yVfX4uOLz0lVhHsXxFNTV) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Ricardo](https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK) | 3:30 |
 | 29 | [Kimosabè](https://open.spotify.com/track/06oSt0nOjewappkOBrsFME) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K) | 4:36 |
 | 30 | [Moonrise](https://open.spotify.com/track/29HXW4rqqYATHgg1DTH8yy) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Perfect Kindness](https://open.spotify.com/album/1896DU6uAAKYHYCMq6yoKi) | 4:18 |
 | 31 | [Famagusta Port](https://open.spotify.com/track/1iJuO3EHGlZO91i1Maz92b) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Famagusta Port](https://open.spotify.com/album/6jX03XyIsmm6oGk0K6OCuH) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 | 100 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 
-Snapshot ID: `MCw2NWU2ZGRjMGYzODI2MWNmMzdmODE2YWViNTU3MmJlMzRhOWI3ZWRm`
+Snapshot ID: `MCxjNDMyNzZjNDY0MTA4MmU0Zjg0MGQyZTAxM2IzYjQxNzk4YTU5ODU0`

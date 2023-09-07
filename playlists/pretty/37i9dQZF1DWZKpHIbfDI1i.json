@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Man\u00e1 & Eden Mu\u00f1oz en portada.",
-  "num_followers": 594371,
+  "num_followers": 594434,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQxMjQ0YWFkNDZhMTJhNzJhYTU4M2M5ODRkMjQ5ZmExYTQ2ZjEx",
+  "snapshot_id": "MCxlZTYzZWI3ZjJiNTViMzgwMTVhNzc5NzJlOTRkNmMzNGU3MjE5Nzk4",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "DE LUNES A LUNES",
         "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Julietota",
+        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 212151,
+      "name": "Julietota",
+      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Te Lo Agradezco",
         "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Julietota",
-        "url": "https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 212151,
-      "name": "Julietota",
-      "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "No Tengo Rival",
-        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 135127,
-      "name": "El Convoy de los Hermanos",
-      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 135127,
+      "name": "El Convoy de los Hermanos",
+      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote",
-        "url": "https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Amor Clandestino",
         "url": "https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote",
+        "url": "https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "3x4",
-        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
+        "name": "SQ LITO",
+        "url": "https://open.spotify.com/album/05e97jCxn4v6Ljq7uirzHk"
       },
       "artists": [
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         }
       ],
-      "duration_ms": 167224,
-      "name": "3x4",
-      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
+      "duration_ms": 199654,
+      "name": "SQ LITO",
+      "url": "https://open.spotify.com/track/6xGn94pu3u5xDpEDbrbDbn"
     }
   ],
   "unique_name": "Top M\u00e9xico",

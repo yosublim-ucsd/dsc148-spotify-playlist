@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,699 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,796 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 10 | [\[oops\]](https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [\[oops\]](https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy) | 2:22 |
 | 11 | [French Inhale](https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6) | [bsd.u](https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn) | [444](https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j) | 1:48 |
 | 12 | [FALLING DOWN](https://open.spotify.com/track/0LDiwy2wlju7HSVPgNwNQZ) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [FALLING DOWN](https://open.spotify.com/album/1G5TUWRlTTdycaPgZ8YNM9) | 1:36 |
-| 13 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
-| 14 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
+| 13 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
+| 14 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
 | 15 | [You're in My Head](https://open.spotify.com/track/6xLeyTBwtgC1hQWFJ1vlC2) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/7umRmLEaY837V0LRXaI7na) | 1:37 |
 | 16 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
 | 17 | [Think About U \(feat\. Joji\)](https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Elsewhere](https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS) | 2:48 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 42 | [Hold on, Pt\. 2](https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0) | [Ok2222](https://open.spotify.com/artist/032KwgTrwjRFmANQ7R0oKX) | [Lonely](https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3) | 1:24 |
 | 43 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
 | 44 | [Behind](https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6) | [Sensi Sye](https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ) | [Behind](https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD) | 2:53 |
-| 45 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
+| 45 | [Wretched](https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8) | 2:10 |
 | 46 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
-| 47 | [Wretched](https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Good Grief](https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8) | 2:10 |
-| 48 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
-| 49 | [MEMORIES OF YOU](https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [LIGHTER](https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4) | 1:36 |
+| 47 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 |
+| 48 | [MEMORIES OF YOU](https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [LIGHTER](https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4) | 1:36 |
+| 49 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 |
 | 50 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
 
-Snapshot ID: `MCxkNzZhZjlhNDE1NDE2NTgyZTE0YmZiOGFhYWUwYzRmMTliNzQ1Zjc4`
+Snapshot ID: `MCwwNzVkYWI0N2E2YmFkMjkzZjllZTI0NzJkY2U1MzdmNWVmMjZiNDI3`

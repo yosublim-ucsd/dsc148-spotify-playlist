@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Yo\-Sea
 
-1,855 songs - 4 day 12 hr 20 min
+1,856 songs - 4 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [COMPLEX BREAK OUT \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/5gd0lEJcnBFNzR5DjLyjnf) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [早見優 – Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/6Gfcu3hliVeg1BGfdrLOQo) | 2:58 | 2023-07-23 | 2023-07-31 |
 | [Concrete Jungle](https://open.spotify.com/track/3x7HRRiUkd3so6DdCuIsrY) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Concrete Jungle](https://open.spotify.com/album/148Ov9qRrdiVmW8ZFCkZKl) | 3:17 | 2023-08-13 | 2023-08-21 |
 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 | 2023-07-09 | 2023-07-31 |
-| [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/3KYoEkpQ0P35PC3l2UYNdz) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [conversation \(Prod\. by DPR CREAM\)](https://open.spotify.com/album/7B9jkm5VB5RW3EF3qS0ngG) | 3:24 | 2023-09-03 |  |
+| [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/3KYoEkpQ0P35PC3l2UYNdz) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [conversation \(Prod\. by DPR CREAM\)](https://open.spotify.com/album/7B9jkm5VB5RW3EF3qS0ngG) | 3:24 | 2023-09-03 | 2023-09-07 |
+| [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/5X07yV5IC4LYs9rnshOABJ) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [RUNWAY](https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj) | 3:24 | 2023-09-03 |  |
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-12 | 2023-03-27 |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-23 |  |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-02 | 2023-07-10 |

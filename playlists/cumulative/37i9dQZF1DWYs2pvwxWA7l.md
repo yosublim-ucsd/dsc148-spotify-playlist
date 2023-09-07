@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=6HOFr36UQmC9CyhWrHjPhw"> Teni</a>
 
-374 songs - 19 hr 23 min
+375 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-03-17 | 2022-04-08 |
 | [Fan](https://open.spotify.com/track/5IDvV5y6vl4Xcj6p4gAMfV) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:09 | 2023-03-10 | 2023-03-18 |
 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-05-18 |
-| [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2021-09-27 |  |
+| [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2021-09-27 | 2023-09-07 |
 | [Fear Love](https://open.spotify.com/track/19oxoR5S1ChfKRMd6qdRgx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fear Love](https://open.spotify.com/album/45pBZzzVyvcLUu3pjh8BVF) | 2:55 | 2023-08-17 |  |
 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 | 2023-08-26 |
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2021-09-27 | 2022-02-25 |
@@ -188,6 +188,7 @@
 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 | 2022-04-28 | 2022-12-19 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-06-16 |  |
 | [Kwenzekile](https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i) | [Kwenzekile](https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE) | 3:57 | 2021-10-08 | 2022-02-10 |
+| [Lanke](https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lanke](https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix) | 2:32 | 2023-08-31 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 | 2023-03-23 |
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2023-03-10 |  |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-16 | 2022-10-29 |

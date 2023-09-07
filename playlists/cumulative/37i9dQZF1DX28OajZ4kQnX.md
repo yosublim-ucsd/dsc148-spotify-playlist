@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256.<br/>Special takeover by Navio as he celebrates 20 years in the industry
 
-135 songs - 7 hr 47 min
+136 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Love Say](https://open.spotify.com/track/1XooJUOhghelEYTYS6Wp4z) | [Joshtheson](https://open.spotify.com/artist/3TnAeKpnEEsiXZ5wBazNiz) | [Love Say](https://open.spotify.com/album/3KpId1zKLJuRG43mql2U3H) | 3:16 | 2022-09-08 | 2023-09-02 |
 | [Luga Pandemic](https://open.spotify.com/track/0O2wVyNkepLJcEmcJbDTix) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Luga Pandemic](https://open.spotify.com/album/3J4Ej6runJXjT4iQxF8cSR) | 3:06 | 2023-01-20 | 2023-09-02 |
 | [Mad](https://open.spotify.com/track/4alNJqmxg60rtnOz4qUviH) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:01 | 2023-09-01 |  |
-| [Mafia](https://open.spotify.com/track/5egxQssXENjMvHtLtak999) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Kutama](https://open.spotify.com/album/6T2aU10v9IQlVEVf1TQGKM) | 3:27 | 2023-09-01 |  |
+| [Mafia](https://open.spotify.com/track/5egxQssXENjMvHtLtak999) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Kutama](https://open.spotify.com/album/6T2aU10v9IQlVEVf1TQGKM) | 3:27 | 2023-09-01 | 2023-09-07 |
+| [Mafia \- Remix](https://open.spotify.com/track/2vpZU8eaDjZe4Hu8mnd7pG) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Mafia Remix](https://open.spotify.com/album/3wi79X5P45HE42FdpBZ4VX) | 4:13 | 2023-09-06 |  |
 | [Magero](https://open.spotify.com/track/5rNTxEppHhdE3eW2FiUZxc) | [Wake](https://open.spotify.com/artist/5Ijs5N9PtVuzabbujWsttn), [Pyrate](https://open.spotify.com/artist/2EMTvvbgzYWEN6NIihMnr4) | [Mwana Weika on the Track, Yo! \(MWOTTY\)](https://open.spotify.com/album/3JzYMICgm13vm77SPGTKzt) | 3:05 | 2023-01-20 | 2023-09-02 |
 | [Make a milly/COI \(Freestyle\)](https://open.spotify.com/track/5Jh2CPPvoubRAvQ1aOi4Tx) | [Kingstarr](https://open.spotify.com/artist/1KV42JP9uZIRbBoGkkito5), [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa), [LegacyMusic](https://open.spotify.com/artist/4DkQkCnFYQRmTX7Iw1pyIe) | [Make a milly/COI \(Freestyle\)](https://open.spotify.com/album/6lN3iO1A2qVtafPVNjJVB4) | 5:04 | 2023-07-13 | 2023-09-02 |
 | [Make Dat Money](https://open.spotify.com/track/2FjGWI79TdNs9rJjfBsIWP) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX), [Blessed San](https://open.spotify.com/artist/6ZCmGsvdReqqz3Iz789x9n) | [Make Dat Money](https://open.spotify.com/album/7u7QCwz0TXUGafOMWB8OGe) | 3:42 | 2022-09-08 | 2023-09-02 |

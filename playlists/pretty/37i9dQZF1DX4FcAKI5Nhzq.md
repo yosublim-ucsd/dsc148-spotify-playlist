@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: BOYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,915 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,055 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [LOLO](https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LOLO](https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3) | 2:22 |
 | 51 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 |
 
-Snapshot ID: `MCxiNDI0ZGE4OGQ5YjU4M2JmY2I0MDFhMjFmYTM0MjkxN2FkYzU4Y2Ew`
+Snapshot ID: `MCw4OTNjZjk2Y2Q5ZDZhOWY5NDIyNWY0NDA3MGM2MTQxN2QzYTQ3OGQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,673 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,819 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Wicked Inna RaQ 2 \(with G Herbo\)](https://open.spotify.com/track/0C4cunXxLICqzrxhYWorP0) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Wicked Inna RaQ 2](https://open.spotify.com/album/5sDveIPYQRR3qMI6KNV54x) | 2:31 |
 | 100 | [Dropped The Lo](https://open.spotify.com/track/78JaKnC6wjdRlhxzN3tWSF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:41 |
 
-Snapshot ID: `MCw2YzUwMmE5Mzg4NDEzOTRjZWVhZDAyZTc5NjlmNmJlMmVjNmE1YTJl`
+Snapshot ID: `MCwzZjQxYzE3NTRjYWI2ZTUyOWQzYzcxYjJhNTczOGQ0NTIyZWQwZGE1`

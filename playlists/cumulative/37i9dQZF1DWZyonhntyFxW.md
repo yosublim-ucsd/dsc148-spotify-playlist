@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> <a href="https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W?si=vN43PRoaTiy3L5rWJb\-ytg"> Wingii </a> :اجمد أغاني الراب المصري\. غلاف
+> <a href="https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb?si=qnqr0FIPT7eEnmom3PfSCA"> Marwan Moussa </a> :اجمد أغاني الراب المصري\. غلاف
 
-234 songs - 11 hr 53 min
+237 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/album/57IuOz58Aic9351GUeol4V) | 2:47 | 2023-02-10 | 2023-07-18 |
 | [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 | 2023-06-23 |  |
 | [Adriana Lima](https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adriana Lima](https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS) | 3:01 | 2022-05-10 | 2022-07-07 |
-| [AFREQYA W AMREKA](https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:17 | 2023-05-11 |  |
+| [AFREQYA W AMREKA](https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:17 | 2023-05-11 | 2023-09-07 |
 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 | 2023-05-25 | 2023-07-27 |
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-08-23 |  |
 | [AHWAGY](https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:21 | 2022-08-08 | 2022-11-08 |
@@ -58,6 +58,7 @@
 | [Dawly](https://open.spotify.com/track/74utdoJDUGLIMlrSS6jHlU) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Dawly](https://open.spotify.com/album/0Zksp8Cnz9HnEuLvGDmzGy) | 3:16 | 2022-06-07 |  |
 | [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 | 2023-09-02 |  |
 | [Deep](https://open.spotify.com/track/58FNOZG0cfPdnnqTPdjirs) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Deep](https://open.spotify.com/album/7b9Om4YTB1qXMAzjcDtRbb) | 2:05 | 2022-05-10 | 2022-09-28 |
+| [DKHOOL\\\\KHROOG](https://open.spotify.com/track/7bHLhelEYKQPnRPFmyzOyH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 2:45 | 2023-09-06 |  |
 | [Double Face](https://open.spotify.com/track/0NvYDGanr7AUEmynCDhfIN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Double Face](https://open.spotify.com/album/2YbDf25DxNHXRnP5wm9G2i) | 3:00 | 2022-05-10 | 2022-06-21 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-05-12 |
 | [El 3asefa](https://open.spotify.com/track/6AunR7FkXRm1EEEdWYFLWg) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [El 3asefa](https://open.spotify.com/album/0pET0nC1WwLXIjlOXKW54v) | 2:29 | 2023-05-11 | 2023-06-04 |
@@ -94,6 +95,7 @@
 | [Intro](https://open.spotify.com/track/2oE69DSJhprjMLJfPWMrfR) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [Intro](https://open.spotify.com/album/6ip534OtB5OaZtDYmw0L6H) | 2:04 | 2022-12-22 | 2023-01-17 |
 | [Java](https://open.spotify.com/track/6deC9d7m91vkxwHnhMS3v6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Java](https://open.spotify.com/album/57ZEDWQQWUpKVrasCLRsRS) | 2:20 | 2022-09-27 | 2022-10-26 |
 | [Justin Bieber](https://open.spotify.com/track/6gf1hPyK9vn60kJQoTZw4c) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Justin Bieber](https://open.spotify.com/album/1v8ywufxiUSUBD2wB9Ib2f) | 3:13 | 2023-02-09 | 2023-05-17 |
+| [KALAM MANTEQY](https://open.spotify.com/track/7oKulWKm0k80hKAu1oHOoX) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:49 | 2023-09-06 |  |
 | [KAMASHA \- كماشه \(feat\. Wezza Montaser\)](https://open.spotify.com/track/0TRvIDRqRemga0vsrSaiwf) | [Mahdy Madness](https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [METHANOL 62](https://open.spotify.com/album/7fGb0W5kyonlNbdoI1aAfU) | 3:21 | 2023-08-24 |  |
 | [Kameen](https://open.spotify.com/track/52AFgbG5RAgtGu971gwEfx) | [VLI WEEZY](https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i), [Meno Zein](https://open.spotify.com/artist/0df230FJvyG1mWACyMcVTr) | [Kameen](https://open.spotify.com/album/4brM0gtGX5BeVAcW2v8dxC) | 3:12 | 2023-02-23 | 2023-05-05 |
 | [Kash7o \- كاشحه](https://open.spotify.com/track/1yIrBx4pYvh9Lqt4r1g2q8) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [Kash7o \- كاشحه](https://open.spotify.com/album/1pKPU6z2R7lIh6uoZTEZbx) | 3:12 | 2023-08-17 |  |
@@ -156,6 +158,7 @@
 | [OPPS](https://open.spotify.com/track/1UTRr55P3GJIk6A9V4p4Ad) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [OPPS](https://open.spotify.com/album/6zc7KGo3ghbc7Mn5WE8ght) | 2:12 | 2023-01-26 | 2023-05-12 |
 | [QESA HAZENA](https://open.spotify.com/track/2mBLOKrLsZbVfFKWjKadqe) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:07 | 2022-05-10 | 2022-08-24 |
 | [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 | 2022-05-16 |  |
+| [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 | 2023-09-06 |  |
 | [ROCKSTAR](https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:22 | 2023-05-11 | 2023-08-18 |
 | [Roo7](https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Cabina](https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp) | 3:09 | 2022-09-13 | 2022-12-19 |
 | [Saa'e3](https://open.spotify.com/track/0Fbl0jYUJkLzz5BIUJ2t7r) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [OV \(The Mixtape\)](https://open.spotify.com/album/4krw20D1j4humTzgD8l8GM) | 2:51 | 2022-10-10 | 2022-12-30 |

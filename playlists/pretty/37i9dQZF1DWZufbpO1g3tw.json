@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Picositos y con mucho sabor! ",
-  "num_followers": 43996,
+  "num_followers": 44030,
   "original_name": "Los Chilaquiles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGFjMDUyY2MwOGRiNDQ3YzhhYzU0Mzk1ZmE1OTk5YTEwZDdkNjdh",
+  "snapshot_id": "MCw0NTkyYTg3YzA3YjNlYmYyMjI0MmI0ZmE1NmEyZjVlNTI1NWRlMTQx",
   "tracks": [
     {
       "added_at": "2023-05-09 16:27:14",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Bandido de Amores",
-        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 182559,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
+        "name": "Bandido de Amores",
+        "url": "https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 252888,
-      "name": "Te Vez Buena",
-      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
+      "duration_ms": 182559,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -463,6 +447,22 @@
       "duration_ms": 202440,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252888,
+      "name": "Te Vez Buena",
+      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 254375,
       "name": "El Baile de San Juan",
       "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "A La Caza",
-        "url": "https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "La \u00c9tica",
-      "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "A La Caza",
+        "url": "https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "La \u00c9tica",
+      "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
-      },
-      "artists": [
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 281861,
-      "name": "Te Vas Con El O Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba"
+      },
+      "artists": [
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+        }
+      ],
+      "duration_ms": 281861,
+      "name": "Te Vas Con El O Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
-      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "No Mientas Mas",
         "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 240953,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "\u00bfD\u00f3nde estabas t\u00fa?",
+      "url": "https://open.spotify.com/track/3mNKgwNiyOkGPWCo3jV1Ap"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "El Mundo de los Pobres",
         "url": "https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 234010,
       "name": "El Aguajal",
       "url": "https://open.spotify.com/track/1RKFSzNHUjnsbVlM0r397p"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Chango",
-      "url": "https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Chango",
+      "url": "https://open.spotify.com/track/1hl3OmpIUl1EhOwMjtibCa"
     },
     {
       "added_at": "2023-05-09 16:27:14",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-05-09 16:27:14",
       "album": {
-        "name": "Ska Cubano",
-        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Babalu",
-      "url": "https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b"
-    },
-    {
-      "added_at": "2023-05-09 16:27:14",
-      "album": {
         "name": "Director Nestor Mili",
         "url": "https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 156853,
       "name": "La Luna en Tu Mirada",
       "url": "https://open.spotify.com/track/6Pn9xvGxfZdg0BvAiQsMmJ"
+    },
+    {
+      "added_at": "2023-05-09 16:27:14",
+      "album": {
+        "name": "Ska Cubano",
+        "url": "https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Babalu",
+      "url": "https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b"
     },
     {
       "added_at": "2023-05-09 16:27:14",

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: BETWEEN FRIENDS",
-  "num_followers": 1702393,
+  "num_followers": 1702390,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTA1MzM1Mzc4NGNjZmYxZWVkNjQzYmEzNjg4NDU2ZDIyYmRkNmM1",
+  "snapshot_id": "MCwzMDg0ODVkNGFlZTgzYTliOGZmMGI3NDEzN2ViMDBiMDc3ODM2OGQ5",
   "tracks": [
     {
       "added_at": "2023-08-25 04:56:29",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 233499,
       "name": "Best",
       "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Me & Me",
-        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 147596,
-      "name": "Me & Me",
-      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Stay",
@@ -727,6 +711,22 @@
       "duration_ms": 256945,
       "name": "Petals on the Moon",
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/0bor8Slyl8zfU40Y2uJeaV"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Daisy Chain",
@@ -795,6 +779,22 @@
       "duration_ms": 166600,
       "name": "Daisy Chain",
       "url": "https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
     },
     {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "enknee1",
+        "url": "https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "enknee1",
+      "url": "https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL"
+    },
+    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "There\u2019s no Other",
@@ -955,22 +971,6 @@
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
-    },
-    {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "enknee1",
-        "url": "https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "enknee1",
-      "url": "https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 136828,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
-    },
-    {
       "added_at": "2023-08-14 19:08:31",
       "album": {
         "name": "Happiest Girl",
@@ -1211,6 +1195,22 @@
       "duration_ms": 167812,
       "name": "Happiest Girl",
       "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-07-07 18:51:45",
       "album": {
-        "name": "SUNDAY",
-        "url": "https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "SUNDAY",
-      "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
-    },
-    {
-      "added_at": "2023-07-07 18:51:45",
-      "album": {
         "name": "Hello Hi / Un Deux Trois",
         "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
+    },
+    {
+      "added_at": "2023-07-07 18:51:45",
+      "album": {
+        "name": "SUNDAY",
+        "url": "https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "SUNDAY",
+      "url": "https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "heavun",
-        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 191632,
-      "name": "heavun",
-      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Horizons",
@@ -1419,6 +1403,22 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "heavun",
+        "url": "https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 191632,
+      "name": "heavun",
+      "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
+    },
+    {
       "added_at": "2023-06-30 04:21:00",
       "album": {
         "name": "Smiley",
@@ -1453,20 +1469,20 @@
       "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-04-28 05:05:19",
       "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
       },
       "artists": [
         {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
         }
       ],
-      "duration_ms": 176546,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1489,22 +1505,6 @@
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
-      "added_at": "2023-04-28 05:05:19",
-      "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Demise",
@@ -1519,22 +1519,6 @@
       "duration_ms": 192119,
       "name": "Demise",
       "url": "https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP"
-    },
-    {
-      "added_at": "2023-08-02 00:40:55",
-      "album": {
-        "name": "Euphoric",
-        "url": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "Some Things You\u2019ll Never Know",
-      "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1569,6 +1553,22 @@
       "url": "https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2"
     },
     {
+      "added_at": "2023-08-02 00:40:55",
+      "album": {
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "Some Things You\u2019ll Never Know",
+      "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
+    },
+    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Old Friends",
@@ -1583,6 +1583,22 @@
       "duration_ms": 172173,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-04-28 05:05:19",
@@ -1603,22 +1619,6 @@
       "duration_ms": 179080,
       "name": "moving on (feat. Khary)",
       "url": "https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-04-07 04:00:00",

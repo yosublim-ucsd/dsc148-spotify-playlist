@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
-  "num_followers": 216712,
+  "num_followers": 216823,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2E1YjVhMzA1OWFmNzA3ZmFjMWE5OTE5MjI4ZjM3MjM0NTdlY2Y0",
+  "snapshot_id": "MCxiODU0NTNkODRlMDAxMGVhZWEwMjU4ZmUyNzI3NzFlZGJjYWE5OWUx",
   "tracks": [
     {
       "added_at": "2019-06-21 00:09:37",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -239,22 +239,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "The Truth About Love",
         "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "SYML",
         "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 202000,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Sadnecessary (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 313626,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 290900,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
       },
       "artists": [
         {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1279,6 +1279,22 @@
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "St. Elsewhere",
+        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1327,22 +1343,6 @@
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 223078,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1939,6 +1939,26 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/1ciAVKFdlpLi2eGDlXv6Bo"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4zzzZ1UNfr75ASG1lUE9L1"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "America Town",
         "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/1ciAVKFdlpLi2eGDlXv6Bo"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Mikky Ekko",
-          "url": "https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4zzzZ1UNfr75ASG1lUE9L1"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 160453,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Foreword",
         "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
       },
@@ -2711,6 +2695,22 @@
       "duration_ms": 197846,
       "name": "Dear No One",
       "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 160453,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2779,22 +2779,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 252653,
-      "name": "You & I (Nobody in the World)",
-      "url": "https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -2807,6 +2791,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 252653,
+      "name": "You & I (Nobody in the World)",
+      "url": "https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Overexposed (Deluxe)",
-        "url": "https://open.spotify.com/album/7i1Ej2Ix9aIiLKqhNwAB2l"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/0HnaqUxvHP5LaWdmWwJpiS"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Overexposed (Deluxe)",
+        "url": "https://open.spotify.com/album/7i1Ej2Ix9aIiLKqhNwAB2l"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/0HnaqUxvHP5LaWdmWwJpiS"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Still Crazy After All These Years",
-      "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 200600,
       "name": "Where Were You In The Morning?",
       "url": "https://open.spotify.com/track/376Gg7Oxo5C5jUWDWpVXeI"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Still Crazy After All These Years",
+      "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
     },
     {
       "added_at": "2019-06-21 00:09:37",

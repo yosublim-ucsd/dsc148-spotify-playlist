@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,884 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,905 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 10 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
 | 11 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 |
 | 12 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
-| 13 | [Two Years Clear](https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Two Years Clear](https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD) | 3:23 |
+| 13 | [Love & Attention](https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Love & Attention](https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3) | 2:37 |
 | 14 | [Derby To Moston](https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Derby To Moston](https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO) | 3:02 |
-| 15 | [Love & Attention](https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Love & Attention](https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3) | 2:37 |
+| 15 | [Two Years Clear](https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Two Years Clear](https://open.spotify.com/album/5STWBf3rfPdW1Z759G5gqD) | 3:23 |
 | 16 | [Clearest of Signs](https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [Clearest of Signs](https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN) | 2:15 |
 | 17 | [4am](https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT) | 3:13 |
 | 18 | [High On Love](https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:01 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 43 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
 | 44 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
 | 45 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
-| 46 | [If I Die Young](https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4) | 3:09 |
+| 46 | [Broken Hearted Crook](https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [Broken Hearted Crook](https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH) | 2:48 |
 | 47 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
-| 48 | [Broken Hearted Crook](https://open.spotify.com/track/7d9H7S7eXhGq6idubYpbto) | [yknowdavibez](https://open.spotify.com/artist/5l6rN84ztH0XVlOs2IcQA9) | [Broken Hearted Crook](https://open.spotify.com/album/5GLX9V0bREOnv5E2zFrnhH) | 2:48 |
+| 48 | [If I Die Young](https://open.spotify.com/track/48oASW55itK9LQ5YFVSna4) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4) | 3:09 |
 | 49 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
 | 50 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
 | 51 | [Trust Issues](https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCwwMzQ1NjA2YTkxMWU5M2I1YWQ3NjEyY2VmYzdjNzljZGZiN2JiZjY1`
+Snapshot ID: `MCxmMDU3MzM0NjVmMmExZjhlM2VkOWJiMDNkN2UzODU3OWEzMDM4NTcy`

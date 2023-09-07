@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 15609,
+  "num_followers": 15628,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODY0YmRmOTkyZjI0NzMxY2RhZWNhZTI4YmU1MmZmYWMxNTU2ZmIy",
+  "snapshot_id": "MCxmYTg1N2UwODMxNDE3Yzc0OWRmNDAyNjVkZjg5OGRkN2U4YTIxN2M3",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones a la Manera del Campeon, Vol. 1",
-        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
+        "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
       },
       "artists": [
         {
-          "name": "Carlos Campos Y Orquesta",
-          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
+          "name": "Int. P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3"
         }
       ],
-      "duration_ms": 275879,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf"
+      "duration_ms": 158493,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Sal\u00f3n M\u00e9xico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU"
+        "name": "Danzones a la Manera del Campeon, Vol. 1",
+        "url": "https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM"
       },
       "artists": [
         {
-          "name": "Int. P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3"
+          "name": "Carlos Campos Y Orquesta",
+          "url": "https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU"
         }
       ],
-      "duration_ms": 158493,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
+      "duration_ms": 275879,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "55 A\u00f1os En El Danzon",
-        "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 341720,
-      "name": "Mi Consuelo Es Amarte",
-      "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "La Leyenda Viviente del Danz\u00f3n",
         "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 293040,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "55 A\u00f1os En El Danzon",
+        "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 341720,
+      "name": "Mi Consuelo Es Amarte",
+      "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Danzones Salon Mexico",
+        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones",
+          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
+        }
+      ],
+      "duration_ms": 273345,
+      "name": "Kid Azteca",
+      "url": "https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 256173,
       "name": "Josefina",
       "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones Salon Mexico",
-        "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
-      },
-      "artists": [
-        {
-          "name": "Los Mejores Danzones",
-          "url": "https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s"
-        }
-      ],
-      "duration_ms": 273345,
-      "name": "Kid Azteca",
-      "url": "https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq"
     },
     {
       "added_at": "2022-08-02 23:28:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,050 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,244 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 43 | [Over Under Sideways Down \- The Mono Album](https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 2:22 |
 | 44 | [Child in Time](https://open.spotify.com/track/5TrfusgKC1BYic5LaWCoKm) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 10:20 |
 | 45 | [Comin' Back to Me](https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 5:15 |
-| 46 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
-| 47 | [Shifting Sands](https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 3:54 |
+| 46 | [Shifting Sands](https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 3:54 |
+| 47 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
 | 48 | [The End](https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 6:30 |
 | 49 | [Hellbound Train](https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw) | [Kim Simmonds](https://open.spotify.com/artist/4sma2sfozeiZbmxSTWJBMz), [Andy Silvester](https://open.spotify.com/artist/0z57obGIOpLGJH9fuqJrsw), [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Hellbound Train](https://open.spotify.com/album/5BCxBr9e8orvd7h0BO7CFb) | 9:10 |
 | 50 | [Who Do You Love \- Pt\. 1](https://open.spotify.com/track/14hykKy6TC9y6chiptCtje) | [Quicksilver Messenger Service](https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL) | [Happy Trails](https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [Lazy Sunday \(Stereo Version\) \(2018 Remaster\)](https://open.spotify.com/track/6w78eLPBj0fTq6jp3wUIRy) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Ogdens' Nut Gone Flake \- 50th Anniversary Edition \(2018 Remaster\)](https://open.spotify.com/album/2pM93DS0vpM3wt6ooVx5LS) | 3:05 |
 | 75 | [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone](https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0), [The Mojo Men](https://open.spotify.com/artist/0RMmoLhiIGyaVI6icgcJU9) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 |
 
-Snapshot ID: `MCw1NmYwMTc4OTA2ZTdkYWU2N2ZjZGIyMmY5ZTA5M2M2OWE0MDU3MDFm`
+Snapshot ID: `MCxlMmU1YjI0NDRiMjUxZDE1NjM0ZGU4NGM3MWFiMmU2ZmI2NGY0YTgy`

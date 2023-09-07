@@ -2,7 +2,7 @@
 
 ### [Rock Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
 
-> The romantic side of classic rock and metal
+> El lado romántico del rock clásico y el metal.
 
 438 songs - 1 day 9 hr 17 min
 
@@ -14,7 +14,7 @@
 | [\(I Wanna Take\) Forever Tonight](https://open.spotify.com/track/1uybEGNH2GIvNdzGB7L2Qj) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [You're the Inspiration: A Collection](https://open.spotify.com/album/0lHNWtBk8qkFUaqCAobtNq) | 4:34 | 2021-12-20 | 2022-07-29 |
 | [\(Make Me Do\) Anything You Want](https://open.spotify.com/track/0fWTGqNoC0nsbhA0aRAkDf) | [Helix](https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG) | [Walkin' The Razor's Edge](https://open.spotify.com/album/6bLC4Ik5DP9E0nrPCNs4Sh) | 4:03 | 2022-03-30 | 2022-04-15 |
 | [10,000 Lovers \(In One\)](https://open.spotify.com/track/44hQ12efld4Q85ACRPgxmO) | [TNT](https://open.spotify.com/artist/363VbwpX9anvrThJ2qDwBy) | [The Big Bang](https://open.spotify.com/album/0fXwQ37ihR7t2QH0dENLth) | 2:56 | 2022-04-24 | 2022-05-11 |
-| [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 | 2022-03-30 |  |
+| [3AM](https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:45 | 2022-03-30 | 2023-09-07 |
 | [A Teenager in Love \- 2012 Remaster](https://open.spotify.com/track/5kuvOXaO2WiHwES81fSeu3) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Rock & Roll Hall of Fame Covers \- EP](https://open.spotify.com/album/2DKXYxXlATCLvg6SVcJsxB) | 3:00 | 2022-03-30 | 2022-04-19 |
 | [Accidentally In Love](https://open.spotify.com/track/4ccM2xBxicGigjLqt6A0YY) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Accidentally In Love](https://open.spotify.com/album/70NalxU5fQaMxOpe0T69Ob) | 3:08 | 2022-03-30 | 2022-04-21 |
 | [Ain't No Reason Why](https://open.spotify.com/track/0t9vPyiJ17Hxpa3xTT5ldQ) | [Tattoo Rodeo](https://open.spotify.com/artist/2NeGdrg1lSstK00dsWk6OP) | [Rode Hard \- Put Away Wet](https://open.spotify.com/album/6IVU5LNlSFyfmNZJzADQHe) | 4:45 | 2021-12-20 | 2022-05-11 |
@@ -293,7 +293,7 @@
 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 | 2022-03-30 | 2022-04-14 |
 | [Over My Shoulder](https://open.spotify.com/track/0U9TKK9GYryei6Vn45TEdH) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Beggar On a Beach of Gold](https://open.spotify.com/album/0acx9TzkLwyCWNntG6b64H) | 3:37 | 2022-03-30 | 2022-04-18 |
 | [Paradise](https://open.spotify.com/track/7yvhqx2bIMDdUS3LHXAX8C) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Time's Makin' Changes: The Best Of Tesla](https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl) | 5:09 | 2022-03-30 | 2022-04-14 |
-| [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2022-03-30 | 2023-08-01 |
+| [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2022-03-30 |  |
 | [Perdida](https://open.spotify.com/track/37AWxJfFokpKZhn6b0o483) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 3:29 | 2022-03-30 | 2023-06-28 |
 | [Phoenix Rising](https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Set The World On Fire](https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt) | 3:48 | 2022-03-30 | 2022-04-15 |
 | [Please Forgive Me](https://open.spotify.com/track/03EnOL1O9EKi9CFNmPyrCm) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/4vWdSsgQzazxS7ndj9VcnO) | 5:55 | 2021-12-20 | 2022-07-29 |

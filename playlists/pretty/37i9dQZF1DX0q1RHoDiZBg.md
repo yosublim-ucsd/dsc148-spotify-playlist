@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,995 likes - 103 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,053 likes - 103 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 99 | [Gotta Serve Somebody \- Live at Anaheim Stadium, Anaheim, CA \- July 1987](https://open.spotify.com/track/7BBg6ZpwfB1KVKEQehUbGl) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Dylan & The Dead \(Live\)](https://open.spotify.com/album/2H8oXIOkww0RuVckCa6Scw) | 5:50 |
 | 100 | [Sad Eyed Lady of the Lowlands \(Live\)](https://open.spotify.com/track/5voOTLOA7LPegmOdNJU7vV) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 9:27 |
 | 101 | [I Can't Get You Off Of My Mind](https://open.spotify.com/track/6O37wVoMQFeh7vZ9mJnoMH) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Hank Williams Timeless](https://open.spotify.com/album/6Wuq8Fn9q0QmTchA8xnR3L) | 2:55 |
-| 102 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [The ORIGINAL SEEKERS](https://open.spotify.com/artist/623Vv6ePcaHLE0g2c5a5nh) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
+| 102 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 103 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `MCw3ZWUzNmRiNmQzZDBmMjU5MzkwMTAxMjcxZjRmMWYxYjI0M2YwOGYx`
+Snapshot ID: `MCw3ODA5OTgzNTNjYzZiNzhkZWMwNmM3MWFhMDQ2OTMwYzQ0M2E4NmU2`

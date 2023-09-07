@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT"
+      },
+      "artists": [
+        {
+          "name": "Sunday Moon",
+          "url": "https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203374,
+      "name": "Eleven",
+      "url": "https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt"
+    },
+    {
+      "album": {
         "name": "Everything's Fine?",
         "url": "https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8"
       },
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 178299,
       "name": "Run Away Fade Away",
       "url": "https://open.spotify.com/track/30KmgCXlmMo7G02ddJpmzW"

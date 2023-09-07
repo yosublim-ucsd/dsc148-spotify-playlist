@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142053,
+  "num_followers": 142075,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx",
+  "snapshot_id": "MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
+        "name": "Kidnap for Romance (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ"
       },
       "artists": [
         {
-          "name": "Mari Kraimbrery",
-          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
         }
       ],
-      "duration_ms": 190285,
-      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
-      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1599,6 +1599,38 @@
       "duration_ms": 232083,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+        "url": "https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX"
+      },
+      "artists": [
+        {
+          "name": "Mari Kraimbrery",
+          "url": "https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "\u041f\u0440\u044f\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0432\u0430\u043d\u043d\u043e\u0439",
+      "url": "https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Kezbi Wara Kezbi",
+        "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 236697,
+      "name": "Wassellik Khabar",
+      "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1623,38 +1655,6 @@
       "duration_ms": 148085,
       "name": "Zina",
       "url": "https://open.spotify.com/track/7nPK9IbFaBZ698nz8oy5BV"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kezbi Wara Kezbi",
-        "url": "https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 236697,
-      "name": "Wassellik Khabar",
-      "url": "https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kidnap for Romance (Original Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "criminal",
-        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crying memories",
         "url": "https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 219913,
       "name": "\u672a\u958b\u5c01\u306e\u604b",
       "url": "https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Te quiero (Versi\u00f3n 2019)",
-        "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "Te Quiero - Versi\u00f3n 2019",
-      "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Benar Cinta",
         "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Te quiero (Versi\u00f3n 2019)",
+        "url": "https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "Te Quiero - Versi\u00f3n 2019",
+      "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2051,8 +2051,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
       "artists": [
         {
@@ -2060,17 +2060,13 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Red Farrow",
-          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
         }
       ],
-      "duration_ms": 230000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
+      "duration_ms": 195273,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2139,22 +2135,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
@@ -2167,6 +2147,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2223,8 +2219,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
+        "name": "111",
+        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
       "artists": [
         {
@@ -2232,13 +2228,17 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+          "name": "Red Farrow",
+          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
         }
       ],
-      "duration_ms": 195273,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
+      "duration_ms": 230000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Obscured star",
-        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sikasih",
         "url": "https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Obscured star",
+        "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2491,26 +2491,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
-        "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
-      },
-      "artists": [
-        {
-          "name": "Nyusha",
-          "url": "https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza"
-        },
-        {
-          "name": "Artem Kacher",
-          "url": "https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
-      "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -2527,6 +2507,26 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 (Ice Lyrical Version)",
+        "url": "https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y"
+      },
+      "artists": [
+        {
+          "name": "Nyusha",
+          "url": "https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza"
+        },
+        {
+          "name": "Artem Kacher",
+          "url": "https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438 - Ice Lyrical Version",
+      "url": "https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9"
     },
     {
       "added_at": "2022-10-17 15:00:00",

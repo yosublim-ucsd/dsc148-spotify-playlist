@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,722 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,075 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [No Escuro](https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [No Escuro](https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI) | 3:58 |
 | 50 | [Transforma\(dor\)](https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Transforma\(dor\)](https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc) | 2:23 |
 
-Snapshot ID: `MCwxYzU2YjNmN2UwZTE4YWIwNTVmYTU0YzQ5MjcwNzI5MDc1NTBhMzNj`
+Snapshot ID: `MCw1MWI1OTYxOTIxNTk3ZGI2NGEyMjM1ZWE0MWU2MGQyMGU0NTRmNjBm`

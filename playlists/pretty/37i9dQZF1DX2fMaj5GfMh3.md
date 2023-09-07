@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Duncan Laurence deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,026 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,051 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 |
 | 100 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 |
 
-Snapshot ID: `MCw2MmE4MmEyM2JjNTYwZGY5MWE0Nzg0NzdlNjZiMmVmM2FkMGI3MThi`
+Snapshot ID: `MCwzMmJiMGU0ZmE5N2IwOTkzMmUyYjJjZjcxM2Q3YzI3ZDEzNWE2YzRk`

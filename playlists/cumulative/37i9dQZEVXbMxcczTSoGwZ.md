@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,561 songs - 3 day 12 hr 15 min
+1,562 songs - 3 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,7 +833,7 @@
 | [Meille käy hyvin](https://open.spotify.com/track/16mkUOA1z4WuJthRwgfFAY) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Meille käy hyvin](https://open.spotify.com/album/34KV0GrvNeofNZM5t5KiZj) | 3:06 | 2021-05-23 | 2021-07-08 |
 | [Meine Tränen](https://open.spotify.com/track/0qGZkkxnyfGrUBLflKwBQG) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:57 | 2022-04-30 | 2022-05-02 |
 | [Meininkii mä metsästän](https://open.spotify.com/track/3IV2Pi5gQ1jxNiVmaRb8m4) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Meininkii mä metsästän](https://open.spotify.com/album/1VYh9dVMFdihX30sMIrjz8) | 2:46 | 2023-05-13 | 2023-05-15 |
-| [Meistä jää jälki](https://open.spotify.com/track/6JixlZ0ArxQjJ2bEUyT9tb) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Meistä jää jälki](https://open.spotify.com/album/24141qHrvAfIdIOmb40LJ5) | 3:54 | 2023-09-02 |  |
+| [Meistä jää jälki](https://open.spotify.com/track/6JixlZ0ArxQjJ2bEUyT9tb) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Meistä jää jälki](https://open.spotify.com/album/24141qHrvAfIdIOmb40LJ5) | 3:54 | 2023-09-02 | 2023-09-07 |
 | [Meit ei oo](https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Meit ei oo](https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL) | 2:54 | 2023-04-01 |  |
 | [MeitsiOn](https://open.spotify.com/track/6xQaikuArLcGoUbJXZBLHX) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:10 | 2022-03-05 | 2022-03-12 |
 | [Melankolia](https://open.spotify.com/track/0BffPiYcFL8DUgOfZSYEFh) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Melankolia](https://open.spotify.com/album/7kcb9GmwLdRzmTbzDWQFPC) | 2:29 | 2022-09-24 | 2022-10-02 |
@@ -1261,6 +1261,7 @@
 | [STILL TRE](https://open.spotify.com/track/5tWGU45R5BufYTDZ4irIPu) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [STILL TRE](https://open.spotify.com/album/2WL6b858JFoOVI90TWR7Yu) | 2:42 | 2022-03-12 | 2022-03-28 |
 | [Stop The Rain](https://open.spotify.com/track/0VuDtcT7H4CAljLZEH021x) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:23 | 2021-10-31 | 2021-10-31 |
 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 | 2022-01-16 | 2022-01-17 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-06 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-28 |
 | [Stratego](https://open.spotify.com/track/6zctLQjQkNI0agikPLbO9N) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Stratego](https://open.spotify.com/album/28iyzL4zTcWLhKVoKXMlR2) | 4:59 | 2021-08-22 | 2021-08-23 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-04-04 |

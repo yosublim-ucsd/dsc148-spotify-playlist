@@ -4,7 +4,7 @@
 
 > When you want to be alone and the Blues is your soundtrack.
 
-110 songs - 8 hr 6 min
+111 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,10 +103,11 @@
 | [The Memory of Our Love](https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Still Frame Replay](https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu) | 7:44 | 2022-05-13 |  |
 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 | 2022-05-13 |  |
 | [Too Many Dirty Dishes \- Remastered](https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 6:52 | 2022-05-13 |  |
-| [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 | 2023-04-21 |  |
+| [Trouble](https://open.spotify.com/track/7M5GPKEGz1xURn79mqyc34) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 4:11 | 2023-04-21 | 2023-09-07 |
 | [Trouble In Mind](https://open.spotify.com/track/4LGB1Oo4LYCH3pmdaE94ce) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 3:43 | 2022-05-13 | 2022-07-29 |
 | [Trouble In Mind](https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 3:43 | 2022-11-17 |  |
 | [Unfair Lovers](https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Rare Oldies Jazz: Eddy Boyd](https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6) | 3:03 | 2022-05-13 | 2023-07-02 |
+| [Use As Needed](https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 5:42 | 2023-08-18 |  |
 | [Waiting For The Dawn](https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Waiting For The Dawn](https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV) | 5:50 | 2022-06-29 | 2023-08-04 |
 | [Waiting For The Dawn](https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:50 | 2023-06-30 |  |
 | [Walkin' Blues](https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB) | [Fran McGillivray Band](https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ) | [Midnight Call](https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99) | 4:48 | 2023-02-24 |  |

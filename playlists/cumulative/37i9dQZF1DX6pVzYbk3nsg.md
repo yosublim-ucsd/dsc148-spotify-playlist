@@ -4,7 +4,7 @@
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-64 songs - 4 hr 35 min
+65 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [La Jibarita](https://open.spotify.com/track/1hxCzBe0npyFyHI2xjC4gO) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 6:17 | 2023-02-22 | 2023-06-14 |
 | [La Llevo en Mis Venas / Bambulé a Paré / Dios Mío Si Yo Pudiera / Consuélala](https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K) | [Tambuyé](https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8) | [Tambuyé](https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl) | 6:05 | 2023-02-22 |  |
 | [La Marejá de los Muertos](https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Opus IV](https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7) | 5:10 | 2023-02-22 |  |
+| [La Negra Pancha](https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 4:03 | 2023-06-13 |  |
 | [La Novia Nueva](https://open.spotify.com/track/7CE1mVhaUL86nLwkBFrIxy) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw) | 4:32 | 2023-02-22 |  |
 | [La Revolución \(A la Calle Plenero\)](https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA) | [Totin Agosto Arará y la Liga Rumbera](https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7) | [Orgánico y Medicinal](https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE) | 5:00 | 2023-02-22 |  |
 | [Lamento Borincano](https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 6:23 | 2023-02-22 | 2023-08-29 |
@@ -71,6 +72,6 @@
 | [Una Noche En Borinquen](https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs) | 3:47 | 2023-02-22 |  |
 | [Yerba Bruja](https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 4:17 | 2023-06-13 |  |
 | [Yerba Bruja](https://open.spotify.com/track/7qEv1SFUaDTJG6XC6DpShm) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:20 | 2023-02-22 | 2023-08-04 |
-| [Yuba La Marile](https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:30 | 2023-02-22 |  |
+| [Yuba La Marile](https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:30 | 2023-02-22 | 2023-09-07 |
 
 \*This playlist was first scraped on 2023-02-22. Prior content cannot be recovered.

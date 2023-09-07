@@ -3183,6 +3183,32 @@
     },
     {
       "album": {
+        "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
+        "url": "https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO"
+      },
+      "artists": [
+        {
+          "name": "Shameshan Mani Maran",
+          "url": "https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM"
+        },
+        {
+          "name": "Yuwaji",
+          "url": "https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224470,
+      "name": "Kadhal Fantasy (From \"Vinveli Devathai\")",
+      "url": "https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd"
+    },
+    {
+      "album": {
         "name": "Kadhal Kandraavi",
         "url": "https://open.spotify.com/album/4W12O1istsodXAi9WgbAno"
       },

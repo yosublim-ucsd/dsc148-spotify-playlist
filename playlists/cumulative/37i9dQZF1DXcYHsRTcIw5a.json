@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Mr Soul of Jamaica",
+        "url": "https://open.spotify.com/album/5MhTOmbSVidfCmVydvjRC1"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis & The Flames",
+          "url": "https://open.spotify.com/artist/4CFOCHawer4LEkxMJdPEGw"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/5y6ubJiQdnq5MNg4XjIX6R"
+    },
+    {
+      "album": {
         "name": "Classic Hits from Treasure Isle",
         "url": "https://open.spotify.com/album/46k9jmo15LinMiESHEWSl8"
       },
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 159026,
       "name": "Steady Rock",
       "url": "https://open.spotify.com/track/4qabPWXYmTgayl0IFZmIpQ"

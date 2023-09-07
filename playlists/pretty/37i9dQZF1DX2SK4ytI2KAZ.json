@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 702755,
+  "num_followers": 702878,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjVkMDQ1YWEyNmM3N2E5YWIwMWM2ZTY0MmU3ZTgzMmJjZDBmNWEy",
+  "snapshot_id": "MCwzMWUzZGY4NGRmNThkNzRlYWYwNjFkMmRmMGNiMWFjZmJmYjMzMGNl",
   "tracks": [
     {
       "added_at": "2023-08-21 15:13:10",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
         "name": "Could It Get Better Than This",
         "url": "https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 162608,
       "name": "Just A Little While",
       "url": "https://open.spotify.com/track/4ofr8ORQ9w1QuxGLBwRiQk"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
         "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
         "url": "https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
-        "name": "What Am I Missing?",
-        "url": "https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
         "name": "You Are Who You Hang Out With",
         "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 198226,
       "name": "Not Joking",
       "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
+        "name": "What Am I Missing?",
+        "url": "https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
         "name": "SELF TITLED",
         "url": "https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 160676,
       "name": "OUT OF MY MIND",
       "url": "https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
-        "name": "KEEP IT UP",
-        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
-      },
-      "artists": [
-        {
-          "name": "The Heydaze",
-          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
         "name": "beautiful waste",
         "url": "https://open.spotify.com/album/7ntBWu8hyC7hIPqMwi5mJQ"
       },
@@ -1327,6 +1295,22 @@
       "duration_ms": 149416,
       "name": "beautiful waste",
       "url": "https://open.spotify.com/track/6JfISacOvddHFsPkE8bE3Z"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
+        "name": "KEEP IT UP",
+        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
-        "name": "Lots of Nothing (feat. BENEE)",
-        "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/1TGwCuVPI0jQIOknItuTvc"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "The Heydaze",
+          "url": "https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP"
         }
       ],
-      "duration_ms": 193836,
-      "name": "Lots of Nothing (feat. BENEE)",
-      "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+      "duration_ms": 203586,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/4DZghpw50ZnO3ckfDuNkft"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -1399,6 +1379,26 @@
       "duration_ms": 169573,
       "name": "Live A Little",
       "url": "https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
+        "name": "Lots of Nothing (feat. BENEE)",
+        "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 193836,
+      "name": "Lots of Nothing (feat. BENEE)",
+      "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
       "added_at": "2023-08-21 15:13:10",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-08-21 15:13:10",
       "album": {
+        "name": "The Gutter",
+        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "6 Pack and Cigarettes",
+      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
+    },
+    {
+      "added_at": "2023-08-21 15:13:10",
+      "album": {
         "name": "Nobody (feat. dodie)",
         "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 206640,
       "name": "Nobody (feat. dodie)",
       "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
-    },
-    {
-      "added_at": "2023-08-21 15:13:10",
-      "album": {
-        "name": "The Gutter",
-        "url": "https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 174641,
-      "name": "6 Pack and Cigarettes",
-      "url": "https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ"
     }
   ],
   "unique_name": "it's alt good",

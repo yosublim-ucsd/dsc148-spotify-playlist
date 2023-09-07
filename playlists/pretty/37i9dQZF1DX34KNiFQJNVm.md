@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima e Ana Castela, Luísa Sonza, MC IG, Péricles e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,949 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,610 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 38 | [Pro País Chamado Amor](https://open.spotify.com/track/34XSNocfm74FOymacUSbrP) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Pro País Chamado Amor](https://open.spotify.com/album/7A8fegw4I1S0fFN92Qr7c3) | 3:08 |
 | 39 | [Beija Que Eu Paro de Falar \- Ao Vivo](https://open.spotify.com/track/4vbt2ZMxdVDerLgOUrMYoW) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd) | [Beija Que Eu Paro de Falar \(Ao Vivo\)](https://open.spotify.com/album/6hClh0VFvcaG04mAjzKBZa) | 2:08 |
 | 40 | [Falta \- Ao Vivo](https://open.spotify.com/track/24G2nsaaJw4rDXtK14SRW0) | [Desejo Maior](https://open.spotify.com/artist/4KNHa36CmeMKCL0Gwn2zse), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Falta \(Ao Vivo\)](https://open.spotify.com/album/6l2woPPyelenOL5mNAZQyG) | 3:18 |
-| 41 | [Dia de Não Fazer Nada \- Ao Vivo](https://open.spotify.com/track/5wgcBEgfpuDltdMoWkFwU0) | [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Dia De Não Fazer Nada \(Ao Vivo\)](https://open.spotify.com/album/4flmBNt8iOwYRKNusWP273) | 2:41 |
+| 41 | [Dia de Não Fazer Nada \- Ao Vivo](https://open.spotify.com/track/5wgcBEgfpuDltdMoWkFwU0) | [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Dia De Não Fazer Nada \(Ao Vivo\)](https://open.spotify.com/album/4flmBNt8iOwYRKNusWP273) | 2:41 |
 | 42 | [Ela é Rica](https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Ela é Rica](https://open.spotify.com/album/2NKLcKdxhEWpbRr1xpZaT9) | 3:19 |
 | 43 | [Promessas](https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Promessas](https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3) | 2:10 |
 | 44 | [O Que Você Quer De Mim?](https://open.spotify.com/track/716PQM0u5KAK2ZewFFvWNX) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Lil Gabi](https://open.spotify.com/artist/5mBUw2lTWpPs3bMddcvoLh), [JF](https://open.spotify.com/artist/4qPuG9huUJ72ZOtAmSfB7E) | [O Que Você Quer De Mim?](https://open.spotify.com/album/2AynRDQApq3gMqTV3RSa00) | 2:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Hey Baby](https://open.spotify.com/track/0ZX1bxYtFUenUaS1qDFdDP) | [LEO PICON](https://open.spotify.com/artist/45TcI7iDzGzBpe6YTQMEZ2), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Hey Baby](https://open.spotify.com/album/2wRwEduAaPPz34xIvXYG8y) | 2:49 |
 | 99 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 
-Snapshot ID: `MCwwNzk3ZmRjNDlmZDEyMWEwN2E0OTEzOWVlMDg1MDI4YzExNTk1OTVh`
+Snapshot ID: `MCwxZDFkMTc5ZWZkOWM2OTFjZGYyN2Y1NDA1ZjBmMGFhZTcyMzlhNTEx`

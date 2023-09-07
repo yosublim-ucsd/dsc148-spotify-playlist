@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,707 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,748 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 38 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 |
 | 39 | [Raggen måste gå](https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Raggen måste gå](https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF) | 2:11 |
 | 40 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 |
-| 41 | [Sjå sole](https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Staut](https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD) | 3:26 |
-| 42 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
-| 43 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
+| 41 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 |
+| 42 | [Sjå sole](https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ) | [Staut](https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P) | [Staut](https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD) | 3:26 |
+| 43 | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL) | 2:20 |
 | 44 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 |
 | 45 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
 | 46 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 48 | [Bøgda](https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda](https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu) | 2:44 |
 | 49 | [TOP GUN](https://open.spotify.com/track/4gobB2WY2C6HNFITwj5IPE) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [TOP GUN](https://open.spotify.com/album/3RgXPQL8B8CoOnXTXSQk8c) | 2:20 |
 | 50 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 |
-| 51 | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL) | 2:20 |
+| 51 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 |
 | 52 | [Aldri tilbake](https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Aldri tilbake](https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O) | 3:21 |
 | 53 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 |
 | 54 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 67 | [En Siste Gang](https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Helt Sykt VOL2](https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA) | 3:05 |
 | 68 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
 | 69 | [Jag Vill Vara Din Margareta](https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN) | [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi), [Henrik Sæter](https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl) | [Jag Vill Vara Din Margareta](https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm) | 2:47 |
-| 70 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 |
+| 70 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
 
-Snapshot ID: `MCxjMDg0MDYxYmVjZTE0YTYyZjI3YmQ4MjUxMDYyNDA2NTdiOGRkNmUy`
+Snapshot ID: `MCxlZTkzYTA3NWU2MGZkMzUzNDhhOGEzZWIxNTk3OWZjMDQzZGQ1M2Yy`

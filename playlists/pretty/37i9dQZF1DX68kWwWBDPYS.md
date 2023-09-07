@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidos haciendo música chida\. GRTSCH en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,752 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,757 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
 | 50 | [El Cuarto](https://open.spotify.com/track/7aS0Pnk0APU2ohbp65JWtD) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [El Cuarto](https://open.spotify.com/album/47Uo4JY8vjARJ3MulZuKe6) | 2:56 |
 
-Snapshot ID: `MCxmNjBmZWUwYjNjNWMwNzRlN2ZlYmUwODUzYmZjOWMyNDhhNmUxNTA5`
+Snapshot ID: `MCxlYzNhMmZlMGE2NTg3MTdiNjU5NTA1MTQ3NzViOTgxMTBkZDc1YTk5`

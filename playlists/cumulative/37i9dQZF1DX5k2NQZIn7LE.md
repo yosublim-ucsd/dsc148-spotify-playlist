@@ -4,7 +4,7 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-81 songs - 8 hr 53 min
+82 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dil Tarpe](https://open.spotify.com/track/63zwG1gDxuUbd8DRcVv8lO) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Dil Tarpe](https://open.spotify.com/album/0frqXSFP8gEXX5SF91Vnzd) | 6:33 | 2022-03-15 |  |
 | [Gaddiye](https://open.spotify.com/track/4JhWn8awBnebXXdsMHOHJM) | [Attaullah Khan](https://open.spotify.com/artist/7LlDD5q2kx8YkRItgqDiI0), [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:02 | 2022-03-15 |  |
 | [Ghoom Taana](https://open.spotify.com/track/3aXcKRkUtt6ZrXfxDs4rbW) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Irteassh](https://open.spotify.com/artist/3GMi8vD4BHAQ16Rg5Fzppc) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 7:39 | 2022-03-15 |  |
-| [Hina Ki Khushbu](https://open.spotify.com/track/1x7EQWtSK7mEnxVpl8Ezed) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Samra Khan](https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 7:16 | 2022-03-15 |  |
+| [Hina Ki Khushbu](https://open.spotify.com/track/1x7EQWtSK7mEnxVpl8Ezed) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Samra Khan](https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 7:16 | 2022-03-15 | 2023-09-07 |
+| [Hina Ki Khushbu](https://open.spotify.com/track/7Lnuzd3yjL157DIwvhTM6p) | [Samra Khan](https://open.spotify.com/artist/00iqSJrAQK98EecNCa4fd4), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio Season 8 Episode 5](https://open.spotify.com/album/00mLX0tIoZSWSms6EjlpkR) | 7:16 | 2022-10-12 |  |
 | [Hum Dekhenge](https://open.spotify.com/track/4rP97uZJ2DdqIGPIvVyeiO) | [Zohaib Kazi](https://open.spotify.com/artist/6KLLWcERsoHPN3Mu0Z20ci), [Ali Hamza](https://open.spotify.com/artist/0O7Iu0NZE2lU74tHPcel7c) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 2:38 | 2022-03-15 |  |
 | [Ishq Da Kukkar](https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi) | [Sehar Gul Khan](https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F) | [Ishq Da Kukkar](https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy) | 5:46 | 2022-03-15 |  |
 | [Jhalliya](https://open.spotify.com/track/3SLF8aHcEjcSWXhQ8UFkhO) | [Faakhir Mehmood](https://open.spotify.com/artist/1qQJwdn7ly96oIwBlIh678), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Masooma Anwar and Shahzad Nawaz](https://open.spotify.com/artist/6q3kns9q4DT6KbycguuPfw) | [Coke Studio Season 9 Episode 5](https://open.spotify.com/album/0TYZKlP336TX3VUL39uXR2) | 7:11 | 2022-10-12 |  |

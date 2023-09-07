@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,562 likes - 80 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,630 likes - 80 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 43 | [Mend \- Tim Green Remix](https://open.spotify.com/track/0uIMPt0HyX14me3wdavzs0) | [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE), [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Kind Heaven Orchestra](https://open.spotify.com/artist/6dkiSKpthy17kV9ULDrULp) | [Mend \(Tim Green Remix\)](https://open.spotify.com/album/288XUOYLg6bwAepmPq9Oju) | 9:08 |
 | 44 | [Come Inside](https://open.spotify.com/track/2a4iPuWMHpHAmkJr79ALui) | [Somersault](https://open.spotify.com/artist/3HuqCfwe0sSgpinXEhZGrS) | [Come Inside](https://open.spotify.com/album/4oYkkUDqunEDxc568njPFy) | 6:03 |
 | 45 | [La La Land \- Jaden Bojsen Remix](https://open.spotify.com/track/5369DxaYC1v2OiSQNijmrv) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg) | [LALALAND Miami 2023](https://open.spotify.com/album/20Rtpy2qVNnac1nrC4eUlv) | 3:42 |
-| 46 | [Memories \- Original Mix](https://open.spotify.com/track/16W1pX4XrDrJzeyVYV8Qe8) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX) | [Memories](https://open.spotify.com/album/11jNkhpC7go26jsd1K9mZU) | 10:16 |
+| 46 | [Memories](https://open.spotify.com/track/16W1pX4XrDrJzeyVYV8Qe8) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX) | [Memories](https://open.spotify.com/album/11jNkhpC7go26jsd1K9mZU) | 10:16 |
 | 47 | [They Will](https://open.spotify.com/track/4zA4JIlPXfmvDa7mOnvaxa) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [They Will EP](https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ) | 7:12 |
 | 48 | [Could Heaven Ever Be Like This \- Walker & Royce and Chris Lorenzo Remix](https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Could Heaven Ever Be Like This \(Walker & Royce and Chris Lorenzo Remix\)](https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ) | 3:41 |
 | 49 | [DEEPFAKE](https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [DEEPFAKE](https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 79 | [Give Me Every Little Thing \- Cajmere Mix](https://open.spotify.com/track/1US8bGeclUcs21XOVbH4ac) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Give Me Every Little Thing](https://open.spotify.com/album/3OKc556xr2Tzbn9p5EOxgj) | 5:20 |
 | 80 | [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 |
 
-Snapshot ID: `MCwwZjA5NDBkOGNkZGMxNDhlM2RmZTgzMTRkOTc0YWNhZWNlMGRhMjhj`
+Snapshot ID: `MCw4MDMxYzlmYjQzZDRlYmIwNjdkZjAwODlkNzBmODk4ODJlODYyODRm`

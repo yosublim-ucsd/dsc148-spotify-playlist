@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-320 songs - 18 hr 39 min
+321 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Here With You \- Acoustic](https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Y O U](https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr) | 3:41 | 2023-04-25 |  |
 | [Hi\-Lo](https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [SKYVIEW](https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv) | 2:57 | 2023-02-23 |  |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 |  |
-| [High Places \- Radio Edit](https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only \(Deluxe Edition\)](https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6) | 3:44 | 2023-02-23 |  |
+| [High Places \- Radio Edit](https://open.spotify.com/track/2LNgXgVzyqeIUTWX1gqJpg) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only \(Deluxe Edition\)](https://open.spotify.com/album/1CU246tMIaAhMfAfmtR2h6) | 3:44 | 2023-02-23 | 2023-09-07 |
+| [High Places \- Radio Edit](https://open.spotify.com/track/61astKgCviWvZBzarzoLj3) | [Kane](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Singles Only](https://open.spotify.com/album/3Il322SNo1g3L05JO22BvR) | 3:44 | 2023-08-29 |  |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2023-02-23 | 2023-06-07 |
 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2023-02-23 | 2023-05-02 |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2023-02-23 | 2023-06-07 |
@@ -263,7 +264,7 @@
 | [Table Of Fools](https://open.spotify.com/track/0QSJddfRGIfStqy0DZ9pvw) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Table Of Fools](https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk) | 3:24 | 2023-02-23 |  |
 | [Take A Chance \- Acoustic](https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Take A Chance \(Acoustic\)](https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf) | 2:46 | 2023-02-23 |  |
 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 | 2023-02-23 |  |
-| [Take Your Time](https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:03 | 2023-02-23 |  |
+| [Take Your Time](https://open.spotify.com/track/6DEaND0SHv3sC11xobZLiy) | [Sam Hunt](https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:03 | 2023-02-23 |  |
 | [Taken by Surprise](https://open.spotify.com/track/45zYIzXIPQtmXMfi9t5bZw) | [D'ORANGE](https://open.spotify.com/artist/0abQD9ni2Kya5l2PuIClfX) | [Taken by Surprise](https://open.spotify.com/album/0XCDf4QYg0U8l8fnbu36WF) | 3:01 | 2023-04-25 |  |
 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 | 2023-02-23 | 2023-04-26 |
 | [Talk To Me](https://open.spotify.com/track/2kqAlHqzn3vURg8kOGvXS3) | [Josephien](https://open.spotify.com/artist/43baNkimEScblxgIPkyroW) | [Talk To Me](https://open.spotify.com/album/0sNisQsHNxOQ4P1DL14hCI) | 3:01 | 2023-02-23 |  |

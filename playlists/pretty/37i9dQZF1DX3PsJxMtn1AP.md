@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,634 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,693 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Barley](https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 3:29 |
 | 50 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
 
-Snapshot ID: `MCxmNDVjN2IwZGNiNmIzZWQwOTc0NzU5YTRkNTRlOWJlMzA4MzJjNzE2`
+Snapshot ID: `MCxjNDNhMDczN2I5NTdlNzg4OWQxZGFlOWU2Y2MzODE2YWUzODNiOWI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > Best of Hip\-Hop from India\. Cover\- MC Square
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,305 likes - 53 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,433 likes - 53 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 4 | [Nusta Paisa](https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nusta Paisa](https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO) | 3:40 |
 | 5 | [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 |
 | 6 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
-| 7 | [Indian Hip Hop Cypher](https://open.spotify.com/track/0xwPtXvVX3JWs508EUfe5t) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu), [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o), [Flowbo](https://open.spotify.com/artist/1zZAfmD9oBMBxA8RhSukbf), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH), [Minta](https://open.spotify.com/artist/7tda05HSCJgxnQLLqzfSNL), [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Tony James](https://open.spotify.com/artist/71RrfwS2c8N12HclIkLeBn), [Refix](https://open.spotify.com/artist/4mTGAKzDRPxo6eer6DjDb3) | [Indian Hip Hop Cypher](https://open.spotify.com/album/3iJBtqwxuTy8FOeIb3vu3f) | 8:38 |
+| 7 | [Indian Hip Hop Cypher](https://open.spotify.com/track/0xwPtXvVX3JWs508EUfe5t) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Indian Hip Hop Cypher](https://open.spotify.com/album/3iJBtqwxuTy8FOeIb3vu3f) | 8:38 |
 | 8 | [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 |
 | 9 | [CROWN](https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [CROWN](https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr) | 3:17 |
 | 10 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 52 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 |
 | 53 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 |
 
-Snapshot ID: `MCwwY2U0OGJiZjJhNjdlMTI1MWQ3NDBiNGViZDVlNjc5MGY2MmY3YmNk`
+Snapshot ID: `MCwyOGM4ODE2ZmMxMjg5NWY1ZmRiZDhhNzMxODA0MjAwNTdmOTgyZmZk`

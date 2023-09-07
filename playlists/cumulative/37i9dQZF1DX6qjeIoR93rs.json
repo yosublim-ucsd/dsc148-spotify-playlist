@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Killing The Game",
+        "url": "https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141055,
+      "name": "Killing The Game",
+      "url": "https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv"
+    },
+    {
+      "album": {
         "name": "Kounili El Musica",
         "url": "https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"

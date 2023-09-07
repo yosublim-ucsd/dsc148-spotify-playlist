@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a generation of party starters. Cover: FISHER & Kita Alexander\n",
-  "num_followers": 28150,
+  "num_followers": 28213,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWIyZWE1OGRjNWFjM2JkNDZjYzU1Y2E3YzRlZDJmNjE1ZWIwMjZj",
+  "snapshot_id": "MCw2MjQwZGIwYzQ5NDhmOTUzZjIwNGNiNzZiZjk5YmNkNzcyYjI2ZDIw",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
         }
       ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 147401,
       "name": "Jam Inside Your Love (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -895,18 +891,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
+      },
+      "artists": [
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 123488,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
         "name": "Living My Life (Golden)",
         "url": "https://open.spotify.com/album/6IW0oyAHzdQbWsBlU5HBzQ"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 203471,
       "name": "Living My Life (Golden)",
       "url": "https://open.spotify.com/track/76NUmCZmMu1BODL1aL8Nz0"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq"
-      },
-      "artists": [
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 123488,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
     },
     {
       "added_at": "2023-08-10 23:00:00",

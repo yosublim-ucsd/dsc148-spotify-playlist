@@ -4,13 +4,13 @@
 
 > Dale play, y que la cumbia no pare.
 
-148 songs - 9 hr 2 min
+149 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alcen las Manos](https://open.spotify.com/track/0kV8yUTj65F1i2hQfBIlpT) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:14 | 2022-04-15 | 2022-07-28 |
 | [Alza las manos](https://open.spotify.com/track/5x5p0KnLpo4risHjqRjD1o) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:35 | 2022-04-15 | 2022-07-13 |
-| [Amigos en la Distancia](https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 2:47 | 2022-04-15 |  |
+| [Amigos en la Distancia](https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 2:47 | 2022-04-15 | 2023-09-07 |
 | [Amores Como el Nuestro](https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [corazon de papel](https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4) | 3:16 | 2022-04-15 | 2022-07-29 |
 | [Amores como el nuestro](https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazón de Papel](https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq) | 3:18 | 2022-07-22 |  |
 | [Andrea](https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 4:09 | 2022-04-15 |  |
@@ -90,7 +90,7 @@
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2022-04-15 | 2022-07-28 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 | 2022-07-22 |  |
 | [Olvídala](https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló La Paloma/Un Toque Diferente](https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK) | 4:50 | 2022-04-15 | 2023-03-12 |
-| [Olvídala](https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Voló la Paloma](https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03) | 4:50 | 2023-03-10 |  |
+| [Olvídala](https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Voló la Paloma](https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03) | 4:50 | 2023-03-10 |  |
 | [Otra Como Tú](https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 4:18 | 2022-04-15 | 2023-05-23 |
 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 | 2022-04-15 |  |
 | [Pibe Cantina](https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:38 | 2023-03-10 |  |
@@ -136,6 +136,7 @@
 | [Un Beso y una Flor](https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 4:08 | 2022-04-15 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2022-04-15 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2022-04-15 |  |
+| [Una Ráfaga De Amor](https://open.spotify.com/track/3JxK3b6YvsTQpoDEcOa0Bp) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo Mejor de Ráfaga](https://open.spotify.com/album/328Ys1TcAr9CNAHcy9jf9N) | 3:02 | 2023-08-18 |  |
 | [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 | 2023-03-10 | 2023-09-02 |
 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 | 2022-04-15 | 2023-03-12 |
 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 | 2022-07-22 |  |

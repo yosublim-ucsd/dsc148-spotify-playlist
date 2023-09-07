@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,509 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,654 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 13 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 |
 | 14 | [BÉNÉF](https://open.spotify.com/track/2p3hMCV4KnpS5w19gaeOR5) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [BÉNÉF](https://open.spotify.com/album/56XtuYPUNEnKikBj9TPJaO) | 2:55 |
 | 15 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 |
-| 16 | [MGHAMER](https://open.spotify.com/track/0KSNoWPksTnUbKivbxpVhc) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
-| 17 | [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 |
-| 18 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 |
-| 19 | [Plainte](https://open.spotify.com/track/7yh3z0Ly5uTIrnLQvbg59X) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Plainte](https://open.spotify.com/album/5NxEKY0xegcPpCduoPiOf1) | 3:07 |
-| 20 | [Lyam](https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Metamorphose](https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6) | 3:36 |
-| 21 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 |
-| 22 | [Chno Raytra](https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Caprice](https://open.spotify.com/artist/2lNwwXvAzZbmhmXReW27Sr) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 4:03 |
-| 23 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 |
-| 24 | [Oui Mr](https://open.spotify.com/track/4o49sZiYtgf89SzQ1MzpEB) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Oui Mr](https://open.spotify.com/album/0XZbt2PWXdvGNIfezWU3rM) | 2:25 |
+| 16 | [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 |
+| 17 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 |
+| 18 | [Plainte](https://open.spotify.com/track/7yh3z0Ly5uTIrnLQvbg59X) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Plainte](https://open.spotify.com/album/5NxEKY0xegcPpCduoPiOf1) | 3:07 |
+| 19 | [Lyam](https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Metamorphose](https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6) | 3:36 |
+| 20 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 |
+| 21 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 |
+| 22 | [Oui Mr](https://open.spotify.com/track/4o49sZiYtgf89SzQ1MzpEB) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Oui Mr](https://open.spotify.com/album/0XZbt2PWXdvGNIfezWU3rM) | 2:25 |
+| 23 | [Chno Raytra](https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Caprice](https://open.spotify.com/artist/2lNwwXvAzZbmhmXReW27Sr) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 4:03 |
+| 24 | [MGHAMER](https://open.spotify.com/track/0KSNoWPksTnUbKivbxpVhc) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
 | 25 | [7bss Tmout](https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [7bss Tmout](https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2) | 3:10 |
 | 26 | [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 |
 | 27 | [Plainte Alliées](https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 |
 | 50 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 |
 
-Snapshot ID: `MCw3MmNiYzU0NTc5ODE1NWJkZWJmZWIxZGRjNDkyZGMxZjcwYmFmYTlj`
+Snapshot ID: `MCwxMjI2ZDM4ZGYwY2Y4MTlkNTFiZTMzYTM0OGNkOGRjNWU0NGZmOTBk`

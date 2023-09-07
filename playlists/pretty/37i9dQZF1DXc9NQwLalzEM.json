@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 186951,
+  "num_followers": 186989,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzgyOTY3MTI0ZDgxOGMwZDcwZDQ5MzNmNGQxMThiODY0OTYzYjA1",
+  "snapshot_id": "MCw1ZGVjNTQ1OWRhNWQ3MjgzODhiNjMyMTY5NTJmMGY1YTllZTNlMmZi",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Detroit City Grooves Featuring \"Soul Suite\"",
-        "url": "https://open.spotify.com/album/1zIE9HT38m8YWUPFB51Cfc"
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
       },
       "artists": [
         {
-          "name": "Dave Hamilton",
-          "url": "https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 144996,
-      "name": "Pisces Pace",
-      "url": "https://open.spotify.com/track/2YU1rMaVCBm6UMSiCh23Vl"
+      "duration_ms": 135693,
+      "name": "It's Easy To Fall In Love (With A Guy Like You)",
+      "url": "https://open.spotify.com/track/22FxgInENXnbBjjARZ1nIv"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -475,38 +475,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+        "name": "Detroit City Grooves Featuring \"Soul Suite\"",
+        "url": "https://open.spotify.com/album/1zIE9HT38m8YWUPFB51Cfc"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Dave Hamilton",
+          "url": "https://open.spotify.com/artist/7jOKLSyFFNekffU4kCIBeA"
         }
       ],
-      "duration_ms": 135693,
-      "name": "It's Easy To Fall In Love (With A Guy Like You)",
-      "url": "https://open.spotify.com/track/22FxgInENXnbBjjARZ1nIv"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Playlist: The ATCO Singles",
-        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
-      },
-      "artists": [
-        {
-          "name": "Al Hudson",
-          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
-        },
-        {
-          "name": "Soul Partners",
-          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "I'm About Loving You",
-      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
+      "duration_ms": 144996,
+      "name": "Pisces Pace",
+      "url": "https://open.spotify.com/track/2YU1rMaVCBm6UMSiCh23Vl"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -527,6 +507,26 @@
       "duration_ms": 396293,
       "name": "Love Is the Message (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7jPcmkRtO3BPBEAA9Q58AN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Playlist: The ATCO Singles",
+        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
+      },
+      "artists": [
+        {
+          "name": "Al Hudson",
+          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
+        },
+        {
+          "name": "Soul Partners",
+          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "I'm About Loving You",
+      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Try It (You'll Like It) / Master Plan Intro",
-        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
-      },
-      "artists": [
-        {
-          "name": "Master Plan Inc",
-          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
-        }
-      ],
-      "duration_ms": 143612,
-      "name": "Try It (You'll Like It)",
-      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Essential MFSB",
         "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 250773,
       "name": "My Mood",
       "url": "https://open.spotify.com/track/6MdCS3louSciZtWoE9tfVI"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Try It (You'll Like It) / Master Plan Intro",
+        "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
+      },
+      "artists": [
+        {
+          "name": "Master Plan Inc",
+          "url": "https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp"
+        }
+      ],
+      "duration_ms": 143612,
+      "name": "Try It (You'll Like It)",
+      "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Southside Chicago",
-        "url": "https://open.spotify.com/album/19FdxlbSShGA86U6y7noRm"
-      },
-      "artists": [
-        {
-          "name": "Otis Brown",
-          "url": "https://open.spotify.com/artist/0zwPBH9v7TUk4xfrZbS4nC"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "I'm Ready for Love",
-      "url": "https://open.spotify.com/track/6VQAjEdoa6XL2CaDUFEioS"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Shirelles (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "There'll Come A Time",
-        "url": "https://open.spotify.com/album/4FWN4oxMk7t536R96mS6rp"
+        "name": "Southside Chicago",
+        "url": "https://open.spotify.com/album/19FdxlbSShGA86U6y7noRm"
       },
       "artists": [
         {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+          "name": "Otis Brown",
+          "url": "https://open.spotify.com/artist/0zwPBH9v7TUk4xfrZbS4nC"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Better Tomorrow Than Today",
-      "url": "https://open.spotify.com/track/1F9EDKGRTOTZwQ3xje2n55"
+      "duration_ms": 163306,
+      "name": "I'm Ready for Love",
+      "url": "https://open.spotify.com/track/6VQAjEdoa6XL2CaDUFEioS"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1647,6 +1631,22 @@
       "duration_ms": 166133,
       "name": "Fire - Mono Single",
       "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "There'll Come A Time",
+        "url": "https://open.spotify.com/album/4FWN4oxMk7t536R96mS6rp"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Better Tomorrow Than Today",
+      "url": "https://open.spotify.com/track/1F9EDKGRTOTZwQ3xje2n55"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1967",
-        "url": "https://open.spotify.com/album/2r7vDzVoDH2Q8U5UKc0mZb"
-      },
-      "artists": [
-        {
-          "name": "Shorty Long",
-          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Hi-Lili - Hi-Lo",
-      "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Please Love Me",
         "url": "https://open.spotify.com/album/3rh2c9Vu2u7AJ5PJwKI75U"
       },
@@ -1763,22 +1747,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Dave Hamilton's Detroit Dancers, Vol. 2",
-        "url": "https://open.spotify.com/album/0JamFpUGYBZ9dULYrdQtEZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Coombs",
-          "url": "https://open.spotify.com/artist/722P3lSrJ7ziSTEozuqb10"
-        }
-      ],
-      "duration_ms": 159186,
-      "name": "Tammie",
-      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Best of Ace: Soul Harmony",
         "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
       },
@@ -1791,6 +1759,38 @@
       "duration_ms": 161373,
       "name": "That Day When She Needed Me",
       "url": "https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1967",
+        "url": "https://open.spotify.com/album/2r7vDzVoDH2Q8U5UKc0mZb"
+      },
+      "artists": [
+        {
+          "name": "Shorty Long",
+          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Hi-Lili - Hi-Lo",
+      "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Dave Hamilton's Detroit Dancers, Vol. 2",
+        "url": "https://open.spotify.com/album/0JamFpUGYBZ9dULYrdQtEZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Coombs",
+          "url": "https://open.spotify.com/artist/722P3lSrJ7ziSTEozuqb10"
+        }
+      ],
+      "duration_ms": 159186,
+      "name": "Tammie",
+      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr"
     },
     {
       "added_at": "2022-05-11 12:29:38",

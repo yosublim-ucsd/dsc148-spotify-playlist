@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-292 songs - 20 hr 42 min
+294 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-10-20 | 2022-12-03 |
 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2022-11-29 |  |
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-10-20 |  |
+| [Shin Takara Jima \(hf remix\)](https://open.spotify.com/track/0cJEseMqUZcRsEJpceH5Zb) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Tsuki no Maboroshi \~ Remix works \~](https://open.spotify.com/album/677gGniYchInGseMSycVKe) | 4:08 | 2023-09-05 |  |
 | [Skiffle Song](https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [けものたちの名前](https://open.spotify.com/album/1wbLdEmioNHnFkV9Q7muxt) | 5:16 | 2022-10-20 | 2023-01-13 |
 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 | 2022-11-01 |  |
 | [Soil](https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [Soil](https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X) | 5:57 | 2023-03-21 |  |
@@ -241,6 +242,7 @@
 | [孤島](https://open.spotify.com/track/2S7RQfyJF9mfAyZJ4t2lfk) | [大越佑華](https://open.spotify.com/artist/1YGA27xhDqDh8KghimOdEe), [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [孤島](https://open.spotify.com/album/6b1UI8afXUhYTKwbNJkInl) | 4:43 | 2022-10-25 | 2023-01-11 |
 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 | 2023-06-13 | 2023-06-21 |
 | [希望のうた](https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [沈黙の恋人](https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo) | 4:05 | 2022-10-20 |  |
+| [広い世界を見な、寝るのはまだ早いさ](https://open.spotify.com/track/3aow3mcHv9GOqzI9ghHCF4) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [How To Live](https://open.spotify.com/album/44XoDv7runauinyZvY92VD) | 1:34 | 2023-09-05 |  |
 | [微熱 \(秋\)](https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱 \(秋\) / Honesty \(Session 1\)](https://open.spotify.com/album/45vKG9pi5lln4SsNdHTqSQ) | 4:58 | 2022-11-15 | 2022-11-17 |
 | [心のそばに](https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 5:03 | 2022-10-20 |  |
 | [悲しい歌がある理由 \- From THE FIRST TAKE](https://open.spotify.com/track/3eGkegHNB5lDuenaXHDdvz) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悲しい歌がある理由 \- From THE FIRST TAKE](https://open.spotify.com/album/2E3gokvqN8VExNoPR6H30A) | 5:57 | 2023-01-03 | 2023-01-05 |
@@ -251,7 +253,7 @@
 | [手紙](https://open.spotify.com/track/7jptw3DENO2pWmrfzE1TZs) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [MONSTER](https://open.spotify.com/album/0yWVWwqwms3GuJTfnWWIhO) | 7:15 | 2022-10-20 |  |
 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 | 2022-10-20 |  |
 | [新しい人](https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [新しい人](https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8) | 4:38 | 2022-10-20 |  |
-| [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 | 2023-09-05 |  |
+| [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 | 2023-09-05 | 2023-09-07 |
 | [旅立つ秋](https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:07 | 2022-11-01 | 2023-01-19 |
 | [明日への手紙](https://open.spotify.com/track/2dUYxBbmtmNfanhSLbRcry) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Ren'dez\-vous](https://open.spotify.com/album/51M0Y7HBSSD6SggyRqGMFH) | 4:51 | 2022-10-20 |  |
 | [星の生まれる日](https://open.spotify.com/track/6StKzYvWvt5A3ikyfs8dd2) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ブーゲンビリア](https://open.spotify.com/album/0HOWtosBU69PMyuIJs3gRZ) | 5:02 | 2023-07-18 | 2023-08-09 |
@@ -294,7 +296,7 @@
 | [蔀越しにあなたに](https://open.spotify.com/track/7loQBJa97ymrHbC6tBsM50) | [夜夏](https://open.spotify.com/artist/3bt1m2awRItFgZrA5rdOnT), [安藤百花](https://open.spotify.com/artist/5dNFAyB2k689dRMDSxQhsk), [ゆうさり](https://open.spotify.com/artist/5maAP01A7kSizjklOLYNa8) | [蔀越しにあなたに](https://open.spotify.com/album/1YnLQdEfDJSGQxGX64q9Kc) | 5:23 | 2023-02-07 | 2023-02-09 |
 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 | 2022-10-20 |  |
 | [街路樹](https://open.spotify.com/track/1LvQW7xwIYdH2eCH028AGn) | [Tsuyoshi Nariyama](https://open.spotify.com/artist/2n0myr3J8YDZCPCfzoSE7Y) | [novelette](https://open.spotify.com/album/4azWqKZBnj24esWCVacaqk) | 5:01 | 2022-10-20 |  |
-| [角を探す人](https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [角を探す人](https://open.spotify.com/album/7iMAmNtdF8KZZiyupPHhzo) | 5:56 | 2023-07-06 |  |
+| [角を探す人](https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [角を探す人](https://open.spotify.com/album/7iMAmNtdF8KZZiyupPHhzo) | 5:56 | 2023-07-06 | 2023-09-07 |
 | [誰も知らない](https://open.spotify.com/track/7CimRPvAQ7bCNfBrrRQ4NU) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [AyaneYamazaki Cover EP](https://open.spotify.com/album/4lvkL8tH9U9iFhsBrXHQgx) | 5:59 | 2023-08-31 | 2023-09-06 |
 | [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 | 2023-06-20 | 2023-06-22 |
 | [銀ちゃん](https://open.spotify.com/track/29mDhjw6oBooOY6h5sXLpX) | [みぃなとルーチ](https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ) | [銀ちゃん/Sea song\-324P REMIX\-](https://open.spotify.com/album/4AyAtrelhhuZ9IK5AItB9n) | 4:21 | 2023-01-17 | 2023-02-01 |

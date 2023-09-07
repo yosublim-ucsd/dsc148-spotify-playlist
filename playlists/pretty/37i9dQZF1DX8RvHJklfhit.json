@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 168561,
+  "num_followers": 168662,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTA4N2Y0YzcyMDdiNmJjNDdkYzVjZjNlNjg5ODgyMDI3MTRkNDc3",
+  "snapshot_id": "MCw5OTM4NmZiZjk2ZGZiYzY1MTI2ZDcyYTA0YTBmNTUxYTEzNWIxODJi",
   "tracks": [
     {
       "added_at": "2023-08-03 16:50:17",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
@@ -415,22 +399,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -443,6 +411,22 @@
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -463,22 +447,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Chachach\u00e1",
-      "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
       },
@@ -491,6 +459,22 @@
       "duration_ms": 220887,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Chachach\u00e1",
+      "url": "https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -591,22 +575,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 124954,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Black Lipstick",
         "url": "https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs"
       },
@@ -651,6 +619,22 @@
       "duration_ms": 223186,
       "name": "Lo Mejor, Lo Peor",
       "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 124954,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209403,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
         "name": "Gratitud",
         "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 272187,
       "name": "La Crecida",
       "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Reflexi\u00f3n del Pasto",
         "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 106921,
       "name": "Reflexi\u00f3n del Pasto",
       "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
         "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 225920,
       "name": "Bailar Bien, Bailar Mal",
       "url": "https://open.spotify.com/track/669xNVrjraLRBLrVBf7sUU"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 266925,
       "name": "Espero",
       "url": "https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2023-08-03 16:50:17",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-08-03 16:50:17",
       "album": {
-        "name": "NTE",
-        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
-    },
-    {
-      "added_at": "2023-08-03 16:50:17",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4gULoExlmk3JJFZgijqHNk"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 189176,
       "name": "Gala",
       "url": "https://open.spotify.com/track/0ykuiiJRJD5OasJuMH0DTV"
+    },
+    {
+      "added_at": "2023-08-03 16:50:17",
+      "album": {
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
     },
     {
       "added_at": "2023-08-03 16:50:17",

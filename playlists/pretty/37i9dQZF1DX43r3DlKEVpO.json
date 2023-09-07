@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 64275,
+  "num_followers": 64294,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI3NTdhMDllNmQxYjNmYjEyOTU4MWU0MDg2ZTJiNTljZTAyNjE5",
+  "snapshot_id": "MCw3ZDNlN2RiYWM1ZTk3YWNkNWZkZGUxNDAyMDI2MzFkMDU5Njc1YzEw",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -159,6 +159,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 125666,
+      "name": "Yesterday - Remastered 2009",
+      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 125666,
-      "name": "Yesterday - Remastered 2009",
-      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 254173,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -403,18 +403,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Little Girl Blue (2013 Remastered Version)",
-        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
-      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+      "duration_ms": 188960,
+      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
+      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -435,18 +435,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
-      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec"
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 256362,
+      "name": "Gostava Tanto De Voc\u00ea",
+      "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Yellow Submarine Songtrack",
         "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
       },
@@ -793,20 +809,20 @@
       "url": "https://open.spotify.com/track/1tdltVUBkiBCW1C3yB4zyD"
     },
     {
-      "added_at": "2021-08-18 22:14:03",
+      "added_at": "2022-06-07 14:45:28",
       "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 256362,
-      "name": "Gostava Tanto De Voc\u00ea",
-      "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -827,22 +843,6 @@
       "duration_ms": 233544,
       "name": "S\u00f3 Tinha De Ser Com Voc\u00ea",
       "url": "https://open.spotify.com/track/209ucYTS6vWEV5iydrHiOt"
-    },
-    {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
-      "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Uns",
         "url": "https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 292306,
       "name": "Voce E Linda - Remixed Original Album",
       "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+        "url": "https://open.spotify.com/album/0mTRjtWGKiGmfEDmzcpII6"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "As Can\u00e7\u00f5es Que Voc\u00ea Fez Pra Mim",
+      "url": "https://open.spotify.com/track/52V2BPdhlhFrUZF7AOrQP9"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Coisinha do Pai",
-      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 270690,
       "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Coisinha do Pai",
+      "url": "https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Meus Momentos",
-        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Bicho",
         "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 184906,
       "name": "O Le\u00e3ozinho - Remixed Original Album",
       "url": "https://open.spotify.com/track/0by19mYM0du6rkzugAogN9"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
+        "name": "Bicho",
+        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 436720,
+      "name": "Odara - Remix",
+      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
         "name": "Retratos",
         "url": "https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 256626,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 436720,
-      "name": "Odara - Remix",
-      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     }
   ],
   "unique_name": "Pais e Filhos",

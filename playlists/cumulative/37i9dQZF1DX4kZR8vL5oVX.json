@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "8h sonne",
+        "url": "https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188880,
+      "name": "8h sonne",
+      "url": "https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF"
+    },
+    {
+      "album": {
         "name": "A l'envers",
         "url": "https://open.spotify.com/album/1KRzO5D5wViSagqcQxVmx2"
       },
@@ -528,6 +546,24 @@
       "duration_ms": 210240,
       "name": "Animal Animal",
       "url": "https://open.spotify.com/track/35aiySOToOhZbO3mf9jdbn"
+    },
+    {
+      "album": {
+        "name": "Another Victim",
+        "url": "https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232307,
+      "name": "Another Victim",
+      "url": "https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA"
     },
     {
       "album": {
@@ -1216,6 +1252,24 @@
       "duration_ms": 223642,
       "name": "Baecation",
       "url": "https://open.spotify.com/track/2FKflinOMTdvXGBQAp9O7W"
+    },
+    {
+      "album": {
+        "name": "Baiser Amer",
+        "url": "https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK"
+      },
+      "artists": [
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157192,
+      "name": "Baiser Amer",
+      "url": "https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ"
     },
     {
       "album": {

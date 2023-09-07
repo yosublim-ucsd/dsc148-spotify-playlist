@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,704 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,881 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Man On Fire](https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/7n5oHXSwnbGWrFTg9xLhhN) | 4:19 |
 | 60 | [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 |
 
-Snapshot ID: `MCxkNzZlNDAyZjhmOWViNDdjN2NkMTEyYmIxNzQ5NzczMDJiYjc1ZmNj`
+Snapshot ID: `MCwzZmQ5MzU4ZThjMzFlYzY4ZmQ1YTM2MTk1ZjJkNGVlZmRlMDI1MDk3`

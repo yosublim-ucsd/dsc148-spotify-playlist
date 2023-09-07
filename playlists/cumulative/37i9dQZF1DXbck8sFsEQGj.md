@@ -4,7 +4,7 @@
 
 > Hottest tracks from Coke Studio Pakistan\. Cover: Talal Qureshi
 
-48 songs - 4 hr 58 min
+49 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 | 2022-03-15 |  |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2022-03-15 |  |
 | [School Di Kitaab](https://open.spotify.com/track/0UNm31fHupWTaG5OACUyEV) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:01 | 2022-03-15 |  |
-| [Tajdar\-E\-Haram](https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 10:16 | 2022-03-15 |  |
+| [Tajdar\-E\-Haram](https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 10:16 | 2022-03-15 | 2023-09-07 |
+| [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 | 2022-10-12 |  |
 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/2RV4QunRX0CTs2JR1uUbMj) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:05 | 2022-03-15 |  |
 | [Tera Woh Pyar \(Nawazishein Karam\)](https://open.spotify.com/track/35XOutkHJChtKfO4kG6CED) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:05 | 2022-03-15 | 2022-07-29 |
 | [Thagyan](https://open.spotify.com/track/6KdTA6s7zmqLyB5ZNvVta0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Thagyan](https://open.spotify.com/album/0tcyDiVe5YVzXXocO1nk1m) | 5:07 | 2022-03-15 |  |

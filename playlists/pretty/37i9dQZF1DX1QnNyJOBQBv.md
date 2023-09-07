@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop tracks right now\. Cover: Nicky Jam & Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,886,902 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886,967 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [CAEN LAS ESTRELLAS](https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:25 |
 | 50 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 |
 
-Snapshot ID: `MCwwNWJlMjkwMWVhNjNkNjAyYWJlMzMyMTJkNjM5MmZmYjljZjk4ZjUz`
+Snapshot ID: `MCxlZjU1M2NkZGU5ODg0OWU4MDEwMjJmNGRjNTBmY2FlMTMxYTc3ZTE4`

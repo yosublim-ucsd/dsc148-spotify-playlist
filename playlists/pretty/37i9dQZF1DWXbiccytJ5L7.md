@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,014 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,223 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 24 | [Big Yeah](https://open.spotify.com/track/4oI6htwIqt3S7RgzGluAhk) | [HoodBillies](https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Big Yeah](https://open.spotify.com/album/23sXgNRgVIst2eBQbrbFre) | 2:13 |
 | 25 | [Hill Billy](https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Jcrews](https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb) | [Hill Billy](https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC) | 3:35 |
 | 26 | [Ride \(feat\. CRUCIFIX\)](https://open.spotify.com/track/0nyA6JFmmF1d1WBb5OHolX) | [Wade B](https://open.spotify.com/artist/6SRngj3jZv4ZH2HDHWMrdQ), [CRUCIFIX](https://open.spotify.com/artist/3TZlqrpMAxc0nR7jKggeyh) | [When It's Real](https://open.spotify.com/album/2Bit7fuwbKJr2BG4b8nPUy) | 3:54 |
-| 27 | [Ice Cold Beer](https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Ice Cold Beer](https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx) | 2:40 |
+| 27 | [Ice Cold Beer](https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o) | [Ice Cold Beer](https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx) | 2:40 |
 | 28 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
 | 29 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 |
 | 30 | [Bury Me With Bourbon](https://open.spotify.com/track/0wBLVgwVRCRUr4YKf126Ou) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Bury Me With Bourbon](https://open.spotify.com/album/0C3r7rvvipfjt7wS29BTvk) | 2:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 84 | [Ride 4 Me](https://open.spotify.com/track/6zx3qdGDRyogH9WlM7lGGH) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/2hkUv5Lqfj0pVgTYanPNw2) | 3:12 |
 | 85 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `MCwxNzE2NjhiNWEwZDZmODQxMGVmYTZkZGM4MWJiNWI0MTZjNDhiNWI3`
+Snapshot ID: `MCw5ZGMzYWEwNzFiMmEzMWFhYzc2OWI5OGEyOTRjNTdlOWEwODM2YTAx`

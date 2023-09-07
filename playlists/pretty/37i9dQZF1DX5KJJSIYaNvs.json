@@ -1,48 +1,32 @@
 {
-  "description": "Listen to Indian women, at full volume. Cover - Sunanda Sharma",
-  "num_followers": 61109,
+  "description": "Listen to Indian women, at full volume. Cover - Anusha Mani",
+  "num_followers": 61148,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDRkM2Q4ZTVmOGYwNDc5Yzk5MGMzNGJlMjg3MWU0MjZmNDQyYTUz",
+  "snapshot_id": "MCwzYzhmOGY0OTAzODMzOWY3NjYzOThjM2YyODQwOTcyNGI5MjNjMGFl",
   "tracks": [
     {
       "added_at": "2023-08-27 06:52:16",
       "album": {
-        "name": "Udh Di Phiran",
-        "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
+        "name": "Carmonies - Thumri",
+        "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
       },
       "artists": [
         {
-          "name": "Sunanda Sharma",
-          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
         },
         {
-          "name": "Bilal Saeed",
-          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+          "name": "Sangeet Haldipur",
+          "url": "https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Udh Di Phiran",
-      "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
-    },
-    {
-      "added_at": "2023-08-27 06:52:16",
-      "album": {
-        "name": "Barkha",
-        "url": "https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP"
-      },
-      "artists": [
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        }
-      ],
-      "duration_ms": 261631,
-      "name": "Barkha",
-      "url": "https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv"
+      "duration_ms": 219692,
+      "name": "Aeri Sakhi",
+      "url": "https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP"
     },
     {
       "added_at": "2023-08-27 06:52:16",
@@ -119,6 +103,22 @@
     {
       "added_at": "2023-08-27 06:52:16",
       "album": {
+        "name": "Barkha",
+        "url": "https://open.spotify.com/album/0t8oQvb7XfGFYWX0Biu8eP"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "duration_ms": 261631,
+      "name": "Barkha",
+      "url": "https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv"
+    },
+    {
+      "added_at": "2023-08-27 06:52:16",
+      "album": {
         "name": "Qala (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/3yVX4sKtPoqFjBKOVyJenW"
       },
@@ -143,54 +143,18 @@
     {
       "added_at": "2023-08-27 06:52:16",
       "album": {
-        "name": "Manwa Bhaagey",
-        "url": "https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6"
+        "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM"
       },
       "artists": [
         {
-          "name": "Vasuda Sharma",
-          "url": "https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL"
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
         }
       ],
-      "duration_ms": 257200,
-      "name": "Manwa Bhaagey",
-      "url": "https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ"
-    },
-    {
-      "added_at": "2023-08-27 06:52:16",
-      "album": {
-        "name": "Carmonies - Thumri",
-        "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
-      },
-      "artists": [
-        {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
-        },
-        {
-          "name": "Sangeet Haldipur",
-          "url": "https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Aeri Sakhi",
-      "url": "https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP"
-    },
-    {
-      "added_at": "2023-08-27 06:52:16",
-      "album": {
-        "name": "Rasiya",
-        "url": "https://open.spotify.com/album/7a5jf2Rhak081lCBY0dPD9"
-      },
-      "artists": [
-        {
-          "name": "Srushti Tawade",
-          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Rasiya",
-      "url": "https://open.spotify.com/track/7cjgBIq8uvAz9uKv27mMCQ"
+      "duration_ms": 238103,
+      "name": "Meri Jaan",
+      "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
     },
     {
       "added_at": "2023-08-27 06:52:16",
@@ -283,6 +247,78 @@
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
+    },
+    {
+      "added_at": "2023-08-27 06:52:16",
+      "album": {
+        "name": "Rasiya",
+        "url": "https://open.spotify.com/album/7a5jf2Rhak081lCBY0dPD9"
+      },
+      "artists": [
+        {
+          "name": "Srushti Tawade",
+          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/7cjgBIq8uvAz9uKv27mMCQ"
+    },
+    {
+      "added_at": "2023-09-06 14:47:57",
+      "album": {
+        "name": "Soneya Ve",
+        "url": "https://open.spotify.com/album/6qlgF2fpHaGu2qrMXE9fXe"
+      },
+      "artists": [
+        {
+          "name": "Mazza On The Track",
+          "url": "https://open.spotify.com/artist/2D2By5KwoX54lymEiruvJu"
+        },
+        {
+          "name": "Shreya Sharma",
+          "url": "https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Soneya Ve",
+      "url": "https://open.spotify.com/track/4akTHm2aoFHbAr1ulm9eui"
+    },
+    {
+      "added_at": "2023-08-27 06:52:16",
+      "album": {
+        "name": "Manwa Bhaagey",
+        "url": "https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6"
+      },
+      "artists": [
+        {
+          "name": "Vasuda Sharma",
+          "url": "https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Manwa Bhaagey",
+      "url": "https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ"
+    },
+    {
+      "added_at": "2023-08-27 06:52:16",
+      "album": {
+        "name": "Udh Di Phiran",
+        "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Udh Di Phiran",
+      "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
     },
     {
       "added_at": "2023-08-27 06:52:16",
@@ -447,22 +483,6 @@
       "duration_ms": 175534,
       "name": "Woh Adhure Khwaab - From \"Do Gubbare\"",
       "url": "https://open.spotify.com/track/4BsEc8aHRdcsYTnbgVjfk6"
-    },
-    {
-      "added_at": "2023-08-27 06:52:16",
-      "album": {
-        "name": "Gangubai Kathiawadi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM"
-      },
-      "artists": [
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 238103,
-      "name": "Meri Jaan",
-      "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
     },
     {
       "added_at": "2023-08-27 06:52:16",
@@ -879,22 +899,6 @@
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
-    },
-    {
-      "added_at": "2023-08-27 06:52:16",
-      "album": {
-        "name": "Parindey",
-        "url": "https://open.spotify.com/album/2gMzRhTnjzT8VD5Qy5Ao0q"
-      },
-      "artists": [
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        }
-      ],
-      "duration_ms": 181895,
-      "name": "Parindey",
-      "url": "https://open.spotify.com/track/1hB2v1jDsLe9ApvDYJ0twe"
     },
     {
       "added_at": "2023-08-27 06:52:16",

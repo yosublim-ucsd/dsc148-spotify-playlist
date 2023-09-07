@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 52526,
+  "num_followers": 52571,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDkxYWE3OGQwYmYyOTE0NmRkY2E3MzA3NzM1Mjg0MzM5NGM5NWNm",
+  "snapshot_id": "MCxlNDU4YTYyM2JiMzJjNDM2MDc0NTM4YWQ0Yjk2NDFkZWMwNTA2OWJh",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
-      },
-      "artists": [
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Midnight In Memphis",
-      "url": "https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Crossroads (Original Sountrack)",
         "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 264200,
       "name": "Crossroads - 2008 Remaster",
       "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
+      },
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Midnight In Memphis",
+      "url": "https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "One Way Out - Mono Version",
-      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Hail To The Kings!",
         "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187893,
       "name": "Ain't No Fun (When The Rabbit Got The Gun)",
       "url": "https://open.spotify.com/track/4KhsLpDlV1TeeIbwBTTrc3"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "One Way Out - Mono Version",
+      "url": "https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 295026,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 334493,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 187826,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 334493,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/3mrrWFfuesBi5fswdz1Xxf"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 151919,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Georgia Women",
         "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
       },
@@ -1591,42 +1611,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "You Move Me So",
-      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
-      },
-      "artists": [
-        {
-          "name": "Bob Corritore",
-          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
-        },
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 151919,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "No Sleep Blues",
         "url": "https://open.spotify.com/album/7JP7FEGR6XE6mYUTMsoYqQ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 209368,
       "name": "No Sleep Blues",
       "url": "https://open.spotify.com/track/4ttmYxuXXcJR4aFzpEzXOB"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "You Move Me So",
+      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Juke Joint Chapel",
-        "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 460640,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Home Sweet Home",
         "url": "https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 217213,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Juke Joint Chapel",
+        "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 460640,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+        "name": "Who Is He?",
+        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Dylan Triplett",
+          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
         }
       ],
-      "duration_ms": 293106,
-      "name": "It's My Fault, Darling - Remastered",
-      "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
+      "duration_ms": 210946,
+      "name": "Feels Good Doin' Bad",
+      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1775,34 +1775,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Who Is He?",
-        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
       },
       "artists": [
         {
-          "name": "Dylan Triplett",
-          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 210946,
-      "name": "Feels Good Doin' Bad",
-      "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Proud Man's Blues (Radio Mix)",
-        "url": "https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK"
-      },
-      "artists": [
-        {
-          "name": "L.A. Big Daddy's",
-          "url": "https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE"
-        }
-      ],
-      "duration_ms": 207255,
-      "name": "Proud Man's Blues (Radio Mix)",
-      "url": "https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH"
+      "duration_ms": 293106,
+      "name": "It's My Fault, Darling - Remastered",
+      "url": "https://open.spotify.com/track/1sgJMQ4xz3GmWDulQuCvwS"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1823,6 +1807,22 @@
       "duration_ms": 184044,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/7cdbDqQrPLs6rwIgvs8wtA"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Proud Man's Blues (Radio Mix)",
+        "url": "https://open.spotify.com/album/7h1acEI8URAH1RNchZ8CNK"
+      },
+      "artists": [
+        {
+          "name": "L.A. Big Daddy's",
+          "url": "https://open.spotify.com/artist/52F4si8QmpdcHrwAIOU5qE"
+        }
+      ],
+      "duration_ms": 207255,
+      "name": "Proud Man's Blues (Radio Mix)",
+      "url": "https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Tyler",
-          "url": "https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU"
-        }
-      ],
-      "duration_ms": 227498,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 150616,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Tyler",
+          "url": "https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU"
+        }
+      ],
+      "duration_ms": 227498,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
-        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 161226,
-      "name": "Two Headed Woman",
-      "url": "https://open.spotify.com/track/1EHqKdXyX3tGEZl1eHvECc"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "RED DRESS",
         "url": "https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 196754,
       "name": "RED DRESS",
       "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
+        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "Two Headed Woman",
+      "url": "https://open.spotify.com/track/1EHqKdXyX3tGEZl1eHvECc"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Trouble in Mind",
-        "url": "https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 130866,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "The Original Lost Elektra Sessions",
         "url": "https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 274693,
       "name": "Hate to See You Go",
       "url": "https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Trouble in Mind",
+        "url": "https://open.spotify.com/album/6qTzLaPhAN34FgEaaqEber"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 130866,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Bankman",
-        "url": "https://open.spotify.com/album/5EsF28LYzzvj7babiQ9ewP"
-      },
-      "artists": [
-        {
-          "name": "Andrea and Mud",
-          "url": "https://open.spotify.com/artist/2IW4MLR7TBzqVSl8LBrmws"
-        }
-      ],
-      "duration_ms": 255285,
-      "name": "Bankman",
-      "url": "https://open.spotify.com/track/2Pnmd8q9aMbByETxKPHQHq"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "All For Business",
         "url": "https://open.spotify.com/album/57Iat2JrCisYjDyFsW9qhK"
       },
@@ -2479,18 +2463,38 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/396pJAs7awQ2WPVDHZLPRh"
+        "name": "Every Day Is Sunshine",
+        "url": "https://open.spotify.com/album/0eH3QJ17XrwxARxoJ5ELbo"
       },
       "artists": [
         {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+          "name": "Jim Byrne",
+          "url": "https://open.spotify.com/artist/03KcaOeaZcf494ziGkK4QS"
         }
       ],
-      "duration_ms": 266640,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e"
+      "duration_ms": 195253,
+      "name": "Black Sky Blues",
+      "url": "https://open.spotify.com/track/7LMnIq7uTvwq6jW5dB49kp"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "I'm Just Getting Started!",
+        "url": "https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr"
+      },
+      "artists": [
+        {
+          "name": "Mick Kolassa",
+          "url": "https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG"
+        },
+        {
+          "name": "Brandon Santini",
+          "url": "https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "Leavin Trunk",
+      "url": "https://open.spotify.com/track/78dp9ik3tgXCVmbOoqo0YS"
     }
   ],
   "unique_name": "Upbeat Blues",

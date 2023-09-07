@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 90941,
+  "num_followers": 90976,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjFiNzMwOWExZTE2NTdjODNhMGVjMTczOWEwOGVlMTQyNGRkYmYw",
+  "snapshot_id": "MCw1YTYzY2MxMGI1NzA2MmQ5NDVlYzc1YjkwNjJhODE0MjliYmVmMTU4",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -359,26 +359,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Be Alright (Remix)",
-        "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
+        "name": "Take It To Jesus",
+        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
       },
       "artists": [
         {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 222854,
-      "name": "Be Alright - Remix",
-      "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
+      "duration_ms": 268288,
+      "name": "Take It To Jesus",
+      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -411,18 +403,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
+        "name": "Be Alright (Remix)",
+        "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
       },
       "artists": [
         {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
         }
       ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
+      "duration_ms": 222854,
+      "name": "Be Alright - Remix",
+      "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "I Cry Jesus",
+        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 218765,
+      "name": "I Cry Jesus",
+      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "I Cry Jesus",
-        "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 218765,
-      "name": "I Cry Jesus",
-      "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "You Got Me",
         "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 172327,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Fight On My Knees",
-        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Fight On My Knees",
-      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -559,6 +543,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Fight On My Knees",
+        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Fight On My Knees",
+      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Healer (Deluxe)",
         "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 229213,
       "name": "Jesus at a Distance",
       "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 201268,
+      "name": "Arms of Jesus",
+      "url": "https://open.spotify.com/track/5y75YUXAJ1lHc3bUDKen3e"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -591,22 +607,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 201268,
-      "name": "Arms of Jesus",
-      "url": "https://open.spotify.com/track/5y75YUXAJ1lHc3bUDKen3e"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -915,18 +915,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
         }
       ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+      "duration_ms": 186626,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -947,6 +951,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Show Up Choose Love",
         "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 212253,
       "name": "Show Up Choose Love (feat. Jon Reddick)",
       "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Never Too Far",
-        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
       "artists": [
         {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 184901,
-      "name": "Never Too Far",
-      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+        "name": "Never Too Far",
+        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
         }
       ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+      "duration_ms": 184901,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 254099,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "What He Didn't Do",
         "url": "https://open.spotify.com/album/4CthwmxxcC3VpJVPAqxrFL"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 236117,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/2F38S7efPnrF8l69N04ofv"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 254099,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
     },
     {
       "added_at": "2022-10-29 07:17:38",

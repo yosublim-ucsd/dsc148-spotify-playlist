@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today\. Cover: Beirut
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,869,453 likes - 99 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,870,010 likes - 99 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 98 | [Stayed Up Late](https://open.spotify.com/track/4VOAlrwgejmgWgOVmK5I4m) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Stayed Up Late](https://open.spotify.com/album/4YQtPmv4ld6ip7TIc4iK5L) | 4:10 |
 | 99 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 |
 
-Snapshot ID: `MCxhZjVmMTliMzAwMzg4MzMwNjg5MDgzZThkNWU3ZDJhMDY1OTdlNmVh`
+Snapshot ID: `MCwxMTdjNDk5MjU2NzBlOGQxNjFhZTRlNjdmOTRjMWM3ODc4YzAwMWY2`

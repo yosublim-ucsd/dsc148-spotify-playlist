@@ -4,12 +4,13 @@
 
 > Enjoy the ATEEZ world tour concert LIVE SET including the voices of members on stage! \(에이티즈 멤버들의 무대의 목소리가 포함된 월드 투어 콘서트 LIVE SET을 즐겨보세요!\)
 
-30 songs - 1 hr 32 min
+31 songs - 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Answer](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:39 | 2023-07-03 |  |
 | [Aurora](https://open.spotify.com/track/2J8tamzlBEX2DWLx9ASTvS) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:24 | 2023-07-03 |  |
+| [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 | 2023-09-06 |  |
 | [Celebrate](https://open.spotify.com/track/1ptZH0pgnIjSG2mUYvMUjB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:16 | 2023-07-03 |  |
 | [Closing Ment](https://open.spotify.com/track/5eKS5uLMvRsqPRQIFLSML9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 5:28 | 2023-07-03 |  |
 | [Cyberpunk](https://open.spotify.com/track/2Ax4rdLenBhULX7nRbhful) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:44 | 2023-07-03 |  |

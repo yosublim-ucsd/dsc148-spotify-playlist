@@ -1,12 +1,12 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: LE SSERAFIM) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1179652,
+  "num_followers": 1180557,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWMyNDQ5MWE1NDk4NzkwMTgzZGZhNjY4YWIwODM1NTZmY2ZjOWVm",
+  "snapshot_id": "MCw5OGRhZjEzMjA4ZGZkYjRmYTMyNTgwZjdhMzA0YjdiOTE0MjAyZTVj",
   "tracks": [
     {
       "added_at": "2023-08-25 05:08:17",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-08-25 05:08:17",
       "album": {
+        "name": "We play",
+        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "After School",
+      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
+    },
+    {
+      "added_at": "2023-08-25 05:08:17",
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 170626,
       "name": "Talkin\u2019 About It (Feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R"
-    },
-    {
-      "added_at": "2023-08-25 05:08:17",
-      "album": {
-        "name": "We play",
-        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "After School",
-      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
     },
     {
       "added_at": "2023-08-25 05:08:17",

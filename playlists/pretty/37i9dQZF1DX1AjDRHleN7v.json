@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 278296,
+  "num_followers": 278415,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGI1MTgxMGVkZDc2NmY2MzcwZjgyYWQ2ZjM4NTA5OWUzZjExNDE0",
+  "snapshot_id": "MCxhNzcwOWYwOGVkNjEyNmY0ZmVlYWZiN2RiZDI2YTc1YTBjYmE5ZTIw",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "T\u00f4 Falando S\u00e9rio",
-        "url": "https://open.spotify.com/album/3K8vP1P69XZSzHRnqRhdLG"
-      },
-      "artists": [
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        }
-      ],
-      "duration_ms": 146431,
-      "name": "T\u00f4 Falando S\u00e9rio",
-      "url": "https://open.spotify.com/track/6z2uY9gMkM0L5tLhUqRf9K"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "V\u00e1rias Ondas",
         "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 195118,
       "name": "Rindo \u00c0 Toa - Ao Vivo",
       "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "T\u00f4 Falando S\u00e9rio",
+        "url": "https://open.spotify.com/album/3K8vP1P69XZSzHRnqRhdLG"
+      },
+      "artists": [
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        }
+      ],
+      "duration_ms": 146431,
+      "name": "T\u00f4 Falando S\u00e9rio",
+      "url": "https://open.spotify.com/track/6z2uY9gMkM0L5tLhUqRf9K"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Um banda um",
-        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
-      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Fica um Pouco Mais",
         "url": "https://open.spotify.com/album/2nAtRgvDgHMnDGn2DVEtra"
       },
@@ -727,8 +711,24 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+        "name": "Um banda um",
+        "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
+      "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -855,8 +855,8 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "sei l\u00e1",
-        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
-      },
-      "artists": [
-        {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
-        }
-      ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "sei l\u00e1",
+        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
       "artists": [
         {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
         }
       ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
     }
   ],
   "unique_name": "Praiana",

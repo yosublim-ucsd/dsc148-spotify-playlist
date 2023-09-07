@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Skaai
 
-816 songs - 2 day 2 hr 51 min
+818 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 |  |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 | 2023-09-06 |
 | [BOSSA TIME](https://open.spotify.com/track/006WrHfwZ3cgSthmExQDZu) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [BOSSA TIME](https://open.spotify.com/album/3QXgU2OMgl7zjFTgd0gi3b) | 3:26 | 2023-08-29 |  |
-| [Bow!Kiss!Begin!](https://open.spotify.com/track/4UY9IhvtTaiWRkg5DxLOSE) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day](https://open.spotify.com/album/34hn5rRDVjXTYOF1gookeX) | 2:38 | 2023-09-05 |  |
+| [Bow!Kiss!Begin!](https://open.spotify.com/track/2pBp8CZYnee9wwTIJhLmK0) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day](https://open.spotify.com/album/02GGoIF7iW3bLTi6f9G2qF) | 2:38 | 2023-09-05 |  |
+| [Bow!Kiss!Begin!](https://open.spotify.com/track/4UY9IhvtTaiWRkg5DxLOSE) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day](https://open.spotify.com/album/34hn5rRDVjXTYOF1gookeX) | 2:38 | 2023-09-05 | 2023-09-07 |
 | [Boys](https://open.spotify.com/track/2JFnPK8zBNEQ1c7Z1XOk9P) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Boys](https://open.spotify.com/album/0qLkcCZm48PFDPLU4ZzGAX) | 3:54 | 2023-03-14 | 2023-03-29 |
 | [Brainstop](https://open.spotify.com/track/5EkY5awFL3ketwiDsWkJmS) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Brainstop](https://open.spotify.com/album/0TeQdYW2qGkM9yLNRmeGxs) | 2:30 | 2023-04-11 | 2023-05-10 |
 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 | 2023-07-19 |
@@ -215,7 +216,7 @@
 | [Hot Gimmick](https://open.spotify.com/track/6I7PdCUX6AdQi3twS3U2YF) | [letniy](https://open.spotify.com/artist/7h8q9EMQmWuU6Ma2My4PPr) | [Hot Gimmick](https://open.spotify.com/album/1x1DfVPxo1CP5P2g4oNcmb) | 3:27 | 2023-03-16 | 2023-03-29 |
 | [Hotaru No Sen](https://open.spotify.com/track/6Oc6mETshqnFn2clxDi6Ya) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [Hotaru No Sen](https://open.spotify.com/album/1EwG6rfg5cuSoKTxt5sKbk) | 3:31 | 2023-08-15 | 2023-08-23 |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2023-01-12 | 2023-01-27 |
-| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-08-02 |
+| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 |  |
 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 | 2023-04-21 |
 | [HURRY UP!!!](https://open.spotify.com/track/6aO0KMUSHdlz5wnq7qgXlW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/65GDZ705N3kG0ZFSosu8W1) | 2:06 | 2023-03-14 | 2023-03-29 |
 | [Hyoui](https://open.spotify.com/track/3yV7DWdUDubdBv340T3fJz) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Hyoui](https://open.spotify.com/album/5edXVTZASGctt9WqDG3aL6) | 3:27 | 2023-08-15 | 2023-08-23 |
@@ -485,6 +486,7 @@
 | [Time Capsule](https://open.spotify.com/track/45gbM4zsiz7ekoIaqD2hKZ) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Time Capsule](https://open.spotify.com/album/1RgUSMkPgxdbKG6cy9R9Tv) | 5:21 | 2023-01-12 | 2023-02-15 |
 | [Time To Go](https://open.spotify.com/track/3NXhxhKuqrCIs0JiSZha4U) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Time To Go](https://open.spotify.com/album/2yOWEiiNDFbdYG7MjjPKYZ) | 2:50 | 2023-05-23 | 2023-06-14 |
 | [Timeless Melody \- Album Ver.](https://open.spotify.com/track/6ZL95Gf3zyUx0PZrxbwZfX) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 2:09 | 2023-01-17 | 2023-03-29 |
+| [Tips of your fingers](https://open.spotify.com/track/513wJtR0YDxJUIl0T3LcsI) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 4:43 | 2023-09-05 |  |
 | [TOKYO FOREVER](https://open.spotify.com/track/24yYkb7SAuEk69Exafbopw) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [TOKYO FOREVER](https://open.spotify.com/album/06WIzovZvfsowDhcdEjNZd) | 2:55 | 2023-02-21 | 2023-03-04 |
 | [TOKYO FOREVER](https://open.spotify.com/track/7zC8YiNELAd6LOAJxNFgSo) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [TOKYO FOREVER](https://open.spotify.com/album/773oXMjqT3Mr6ivO3PwO8M) | 2:55 | 2023-02-21 | 2023-02-23 |
 | [tokyo insomnia.](https://open.spotify.com/track/1aFgCBNmrURg7r4QdfUc1l) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [CHAPTER II: TOKYO INSOMNIA](https://open.spotify.com/album/0HKChpTLtiYactwS5T7PAb) | 3:39 | 2023-01-12 | 2023-01-25 |
@@ -513,7 +515,7 @@
 | [Wake up soon](https://open.spotify.com/track/0siU3JMlnOYfANLVyYXX0D) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Wake up soon](https://open.spotify.com/album/1GRLAC0RJNALOdCRj8pugK) | 3:00 | 2023-03-07 | 2023-03-15 |
 | [Wandering Spirit](https://open.spotify.com/track/6E30fAWCLP4LFusJMZKgq0) | [MADE IN HEPBURN](https://open.spotify.com/artist/5Kb7tK7462ltHK5KtX2tAq) | [Wandering Spirit](https://open.spotify.com/album/7M8RbyJXruRleU2wScVMkI) | 3:38 | 2023-03-07 | 2023-03-29 |
 | [wash](https://open.spotify.com/track/58kwvlBZpNLYHaUIAQBhWB) | [salsa](https://open.spotify.com/artist/4qNSSJFYO5GHhCfYUbo11s) | [wash](https://open.spotify.com/album/03bvBSWXCTAHkBEixnPqUG) | 3:43 | 2023-08-01 | 2023-08-09 |
-| [WASH IT](https://open.spotify.com/track/0dw3UuqDZBRCFtN3r4ASOQ) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [WASH IT](https://open.spotify.com/album/2lhR8KI4TzL3EURFcsaTBj) | 4:21 | 2023-08-15 |  |
+| [WASH IT](https://open.spotify.com/track/0dw3UuqDZBRCFtN3r4ASOQ) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [WASH IT](https://open.spotify.com/album/2lhR8KI4TzL3EURFcsaTBj) | 4:21 | 2023-08-15 | 2023-09-07 |
 | [We are dinosaurs](https://open.spotify.com/track/1kys6sF3wV7QZ0PdPzi5Xe) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [We are dinosaurs](https://open.spotify.com/album/4retmETUIlMT5aRYeG0gli) | 4:44 | 2023-05-30 | 2023-06-28 |
 | [We The Female!](https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [We The Female!](https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU) | 3:04 | 2023-04-04 | 2023-05-28 |
 | [Wedding, March, Flower](https://open.spotify.com/track/334L6uYB10kULCYLFtydrO) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Wedding, March, Flower](https://open.spotify.com/album/1BO2CNXbDGw4w7AYFTRHv6) | 3:10 | 2023-03-30 | 2023-04-05 |
@@ -724,7 +726,7 @@
 | [愛想のないブレイク \- with FORDTRIO](https://open.spotify.com/track/2KQ2ha9Bb0IXiOX2rHlnBX) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [ヘルシンキラムダクラブへようこそ](https://open.spotify.com/album/4fSoeCxtgOC96ooARXkJJE) | 4:06 | 2023-08-08 |  |
 | [憑依](https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [憑依](https://open.spotify.com/album/32CphF51dvTVpKxnVhRxIc) | 3:27 | 2023-08-15 | 2023-08-17 |
 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 | 2023-03-28 | 2023-09-06 |
-| [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 |  |
+| [指先ひとつで](https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Steppin' Out](https://open.spotify.com/album/1HQmNQ7LovrKEvInfoMDrV) | 4:43 | 2023-09-05 | 2023-09-07 |
 | [日曜前夜](https://open.spotify.com/track/2JLH9fAXsIK3APJMs9Nizh) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [日曜前夜](https://open.spotify.com/album/4aVcSbbEmsjUlDeCAD8y5N) | 4:24 | 2023-06-13 | 2023-06-15 |
 | [春の匂いに誘われて](https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [春の匂いに誘われて](https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft) | 1:37 | 2023-04-20 | 2023-05-14 |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-08 |

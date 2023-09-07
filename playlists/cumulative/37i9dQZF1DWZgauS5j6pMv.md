@@ -2,7 +2,7 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: Jafunk
+> The best of today's funk\. Cover: Nic Hanson
 
 346 songs - 20 hr 24 min
 

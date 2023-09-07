@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,609 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,797 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 65 | [Tiger Mountain Peasant Song](https://open.spotify.com/track/74TdnqQ0JlIcHBwdSAATiw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 3:28 |
 | 66 | [Clementine](https://open.spotify.com/track/1pTwsLvnN8xPULDGzRjnfd) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:46 |
 | 67 | [Every Single Night](https://open.spotify.com/track/6HPZo9krwjbhMGKbqVkkDQ) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do \(Expanded Edition\)](https://open.spotify.com/album/6B5favhKTShFTjRLsKIUfa) | 3:29 |
-| 68 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
-| 69 | [Cut Your Bangs](https://open.spotify.com/track/3ziv4Uszw9iRjUpZt1la0L) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:06 |
+| 68 | [Cut Your Bangs](https://open.spotify.com/track/3ziv4Uszw9iRjUpZt1la0L) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:06 |
+| 69 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 70 | [Portions for Foxes](https://open.spotify.com/track/4yY8JqTOQyi7K4O1QcQtBG) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:44 |
 | 71 | [That Green Gentleman \(Things Have Changed\)](https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:15 |
 | 72 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 84 | [Oh to Be in Love](https://open.spotify.com/track/7FcnFSwGquIEDhJ18tHWd4) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/6LPR2A12So7G9V2WoZgTwd) | 3:18 |
 | 85 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw) | 4:16 |
 | 86 | [Lived In Bars](https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:44 |
-| 87 | [Hideaway](https://open.spotify.com/track/3SCtycBwTTM49VNNuXwp4Z) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [The Kids](https://open.spotify.com/artist/5ITDRCbxYSx3gd19M8DFVx) | [Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids](https://open.spotify.com/album/58lyF4XIJENuFrTI0W2wXf) | 5:10 |
-| 88 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
+| 87 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
+| 88 | [Hideaway](https://open.spotify.com/track/3SCtycBwTTM49VNNuXwp4Z) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [The Kids](https://open.spotify.com/artist/5ITDRCbxYSx3gd19M8DFVx) | [Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids](https://open.spotify.com/album/58lyF4XIJENuFrTI0W2wXf) | 5:10 |
 | 89 | [Nothing to Be Done](https://open.spotify.com/track/4iNVdv8dp78FqTR6Wn8WHf) | [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP) | [Truckload of Trouble](https://open.spotify.com/album/7DwNWxtAIKRuMEbR9TYwRd) | 3:52 |
 | 90 | [You Should All Be Murdered](https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 4:38 |
 | 91 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [A Teenager in Love](https://open.spotify.com/track/5JMur5IZCCWUdFFRt7ekbf) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 3:19 |
 | 100 | [I'm In Love With A Girl Who Doesn't Know I Exist](https://open.spotify.com/track/5Z65BlLozYrVXTleLuvWuW) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 1:38 |
 
-Snapshot ID: `MCw3MGYzZjBlOTk4MWFmYjEyMDliODc3MjhmN2RkMDU3ZjVkMjY5ZGQ3`
+Snapshot ID: `MCwxYTdkOWYzYWZjYjJmMGQxMzUwNWMzMTNlZjJiMGY3YTdhY2QzNmI2`

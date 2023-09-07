@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 64389,
+  "num_followers": 64424,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDU5OGI5YmJhMjg3MjgwYThjNjQ3NDZjMjljZmEyOTFmNzQxMzkz",
+  "snapshot_id": "MCwwMWE2NTQ1MWQ4YjAyZGI5ZDBkMmEzMGM4YWNlOTcyMWViNjU3NWQ1",
   "tracks": [
     {
       "added_at": "2023-08-23 04:47:00",
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
     },
     {
-      "added_at": "2023-08-24 12:49:56",
+      "added_at": "2023-08-24 12:47:10",
       "album": {
         "name": "Goldfish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
@@ -244,13 +244,13 @@
           "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
         },
         {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Piya Padh Lena",
-      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
+      "duration_ms": 394285,
+      "name": "Bachpan Ki Galiyan",
+      "url": "https://open.spotify.com/track/4a4r7j3ZUCEup1EwgT7rm2"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/0UaDj2d7v1a1CzyMeigKiX"
     },
     {
-      "added_at": "2023-08-24 12:47:10",
+      "added_at": "2023-08-24 12:49:56",
       "album": {
         "name": "Goldfish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
@@ -400,13 +400,13 @@
           "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
         },
         {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
         }
       ],
-      "duration_ms": 394285,
-      "name": "Bachpan Ki Galiyan",
-      "url": "https://open.spotify.com/track/4a4r7j3ZUCEup1EwgT7rm2"
+      "duration_ms": 201230,
+      "name": "Piya Padh Lena",
+      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
         "name": "Naina Morey (Redefined)",
         "url": "https://open.spotify.com/album/0uli1eOLGrt76V11eFtity"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 202838,
       "name": "Naina Morey - Redefined",
       "url": "https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -579,30 +579,22 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Sargam Surge",
-        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
+        "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
+        "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
       },
       "artists": [
         {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
         },
         {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Yogesh Samsi",
-          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
-        },
-        {
-          "name": "V. Selvaganesh",
-          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+          "name": "Shafqat Ali Khan",
+          "url": "https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU"
         }
       ],
-      "duration_ms": 141224,
-      "name": "Sargam Surge",
-      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
+      "duration_ms": 440999,
+      "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
+      "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -627,22 +619,30 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
-        "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
+        "name": "Sargam Surge",
+        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
       },
       "artists": [
         {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
         },
         {
-          "name": "Shafqat Ali Khan",
-          "url": "https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU"
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Yogesh Samsi",
+          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
         }
       ],
-      "duration_ms": 440999,
-      "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
-      "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
+      "duration_ms": 141224,
+      "name": "Sargam Surge",
+      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
     },
     {
       "added_at": "2023-08-03 08:29:31",

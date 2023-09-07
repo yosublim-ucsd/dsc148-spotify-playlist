@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 
 > Rock that's served neat and goes down smooth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,205 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,305 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 | 84 | [Pearl Cadillac](https://open.spotify.com/track/5O6cfjyWsteTs6Mnaz9VGE) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 5:05 |
 | 85 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 |
 | 86 | [Get Hurt](https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Get Hurt](https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj) | 3:43 |
-| 87 | [The Man Who Sold The World](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 |
+| 87 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 |
 | 88 | [Thank You \- Recorded Live At Esplanade Arts & Heritage Centre, Medicine Hat, Alberta, Canada on April 27, 2011](https://open.spotify.com/track/36QwvXHlo8kqob3AmH1Z3I) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Songbook](https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc) | 4:48 |
 | 89 | [Elderly Woman Behind the Counter in a Small Town \- Acoustic Version](https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [go](https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5) | 3:18 |
 | 90 | [Spaceboy \- 2011 Remaster](https://open.spotify.com/track/0KQbsC4lUfm0qmRW68g6BF) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V6C5Nr1MvC.md) - [plain]
 | 99 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 100 | [Say Hello 2 Heaven](https://open.spotify.com/track/4L2S9GbwEgwfSbHjTCvNQX) | [Temple Of The Dog](https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd) | [Temple Of The Dog](https://open.spotify.com/album/63HdXCn0Xz1pRZc2GzMw7k) | 6:24 |
 
-Snapshot ID: `MCxhNjQyNjBjZDMzODUxNWZkZmU3NDBjMzUyNzQzM2EwYTQyMzdjOTBm`
+Snapshot ID: `MCxhYTgxYTUxZmEyYzM4NWI3MjQ1OTE2NmM4MGIyNTBkZTllOTBjMDk0`

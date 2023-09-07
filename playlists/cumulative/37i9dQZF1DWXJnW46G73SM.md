@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7?si=e7YRD7PuTeyd0SlOGDq5\-Q"> راغب علامة </a>
 
-626 songs - 1 day 11 hr 36 min
+628 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Magash Mennek](https://open.spotify.com/track/7jTV5xzP8f252w6xS6isRv) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Magash Mennek](https://open.spotify.com/album/5ut1qAv97kxgJcnR1XbnMN) | 3:26 | 2022-11-24 | 2023-02-03 |
 | [Mahabetnesh](https://open.spotify.com/track/0sR9AD2YHTaEwvnGnEdRpA) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mahabetnesh](https://open.spotify.com/album/274Vi3mUnwTgC1iC0MJFIX) | 4:19 | 2023-07-19 | 2023-08-16 |
 | [Makhnou'](https://open.spotify.com/track/5v0c54YIy1sEGpAPAilaj3) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Makhnou'](https://open.spotify.com/album/2H50AlmXBg5c0dSRYl3aJH) | 3:34 | 2023-02-09 | 2023-03-22 |
+| [Maktoob Aleina](https://open.spotify.com/track/2XILChOM6XTI6LbDqruTxy) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Red Bull Sika](https://open.spotify.com/album/5uOuyFi305DgteFNpO5dDV) | 2:10 | 2023-09-06 |  |
 | [Malak](https://open.spotify.com/track/6Ghgn3JIGwJq3H9SuTCikZ) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:00 | 2022-01-20 | 2022-04-08 |
 | [Malamhe](https://open.spotify.com/track/4xb4C74lJKFSr0UaD3z4K7) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [Malamhe](https://open.spotify.com/album/2HABaYD6SD8pe3E8KAqTX0) | 3:46 | 2023-02-16 | 2023-04-15 |
 | [Malek Elsahar](https://open.spotify.com/track/35VD9PmXoX7nJyZVEu9C0o) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Malek Elsahar](https://open.spotify.com/album/3jBkDbiVGtA7nd2kGp9pBo) | 1:39 | 2023-07-20 | 2023-08-17 |
@@ -448,12 +449,13 @@
 | [Ya Dayra](https://open.spotify.com/track/1zeJfLgJYRjCSQGl6mxdke) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ya Dayra](https://open.spotify.com/album/12YT8SErqyPtdaoc6XMEqu) | 3:26 | 2022-12-26 | 2023-02-17 |
 | [Ya Dayra \- Message Song Version](https://open.spotify.com/track/0WYrqy3tAKpKlOShwpWfoO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ya Dayra \(Message Song Version\)](https://open.spotify.com/album/769F7hOS4J3PDMufEAKg8d) | 1:02 | 2022-12-23 | 2023-02-17 |
 | [Ya Donia](https://open.spotify.com/track/34gnow61KB7TVrIwK6bZY5) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Ya Donia](https://open.spotify.com/album/4sxPY1nT8OH7g8XwfHFx8T) | 3:09 | 2023-07-13 | 2023-08-09 |
-| [Ya Gamalak \- Acoustic Version](https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak \(Acoustic Version\)](https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT) | 2:04 | 2023-07-28 |  |
+| [Ya Gamalak \- Acoustic Version](https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak \(Acoustic Version\)](https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT) | 2:04 | 2023-07-28 | 2023-09-07 |
 | [Ya Ghazal](https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [Twyxx](https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG) | [Ya Ghazal](https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a) | 4:01 | 2023-08-18 |  |
 | [Ya Khabar](https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Khabar](https://open.spotify.com/album/3vUNaafLFHeKUOdDzM73O9) | 2:52 | 2023-05-11 | 2023-06-28 |
 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 | 2023-07-18 | 2023-08-21 |
 | [Ya Leil Ya Ein](https://open.spotify.com/track/2SXXbIKHfFL4WcmzLkDrMn) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Leil Ya Ein](https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL) | 3:31 | 2023-03-03 | 2023-05-05 |
 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 | 2022-12-20 | 2023-02-15 |
+| [Ya Safeena](https://open.spotify.com/track/4ticYbFy3RxBbw94pMvHWj) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ya Safeena](https://open.spotify.com/album/0l4tnmYwdmygeTEeNnDF5N) | 4:09 | 2023-09-06 |  |
 | [Ya Tayar](https://open.spotify.com/track/3lxUL4F9yaYupuTu3g9Byg) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Ya Tayar](https://open.spotify.com/album/4TgabhACfeYjXuaefflF5f) | 3:15 | 2023-08-01 | 2023-08-25 |
 | [Yaba](https://open.spotify.com/track/79pLcKb0uJOaROzStukq0f) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:00 | 2023-02-16 | 2023-04-21 |
 | [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 | 2023-08-24 |  |

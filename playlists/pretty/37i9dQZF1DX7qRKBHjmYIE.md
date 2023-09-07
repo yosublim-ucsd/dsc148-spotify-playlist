@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo\. Freshly picked just for you\. ✨ Cover: Cuco & Aleman
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,257 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,237 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 25 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 |
 | 26 | [Vajkoczy \- Edit](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 2:52 |
 | 27 | [vulnerable](https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [FDA](https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn) | 2:39 |
-| 28 | [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 |
-| 29 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
+| 28 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
+| 29 | [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 |
 | 30 | [UN AÑO DE MIERDA](https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [UN AÑO DE MIERDA](https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O) | 2:50 |
-| 31 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
+| 31 | [NOS QUISIMOS](https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [NOS QUISIMOS](https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd) | 2:31 |
 | 32 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
-| 33 | [NOS QUISIMOS](https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [NOS QUISIMOS](https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd) | 2:31 |
-| 34 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
-| 35 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
-| 36 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
-| 37 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
+| 33 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
+| 34 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
+| 35 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
+| 36 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
+| 37 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
 | 38 | [Luna](https://open.spotify.com/track/6npK9NwM38YEoFeHvB6m5W) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Luna](https://open.spotify.com/album/0dr8b2KU2k223uuOq5qGK1) | 4:38 |
 | 39 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 |
 | 40 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 49 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 |
 | 50 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
 
-Snapshot ID: `MCw5YTQwNjc2MDRhNjNhMjQ0Y2JhN2YzYWRmYmY3N2FiMDQ0ZGM1Yzgx`
+Snapshot ID: `MCxlZWY4ZjhjN2M5NTZhZWZiYjc4Njg0YTQxMmJjZWVhZmYzYWQ1YzZi`

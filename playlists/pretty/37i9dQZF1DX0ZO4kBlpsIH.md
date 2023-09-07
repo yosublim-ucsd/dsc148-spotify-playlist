@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,259 likes - 89 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,561 likes - 89 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 14 | [Aux Champs\-Elyseés](https://open.spotify.com/track/7i4BGa7PRBJeXqhZMJxeFG) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Aux Champs\-Elyseés](https://open.spotify.com/album/63UeIk6OkauXHONXtVhFU9) | 2:12 |
 | 15 | [Les Yeux Noirs](https://open.spotify.com/track/6bwaxaqDX81qCJbYzbb3rX) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 2:06 |
 | 16 | [Reine De Musette](https://open.spotify.com/track/1i41OjKkEKVL0VHHNMDJUD) | [Max Marino Et Son Accordéon](https://open.spotify.com/artist/1cnJh2kOWm2O6TGzJOOcTY) | [French Musette Accordion](https://open.spotify.com/album/0GZdyMvkWYIxVE9SrfbbhL) | 2:28 |
-| 17 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 |
-| 18 | [La Mer](https://open.spotify.com/track/1oUv4nTiR8Fq0eS4KiAIyE) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 2:00 |
-| 19 | [Rue Jouvenet](https://open.spotify.com/track/5t43VxQuoRuJDJAJnxcCvg) | [Jo Courtin](https://open.spotify.com/artist/0u2nKLEi5PUDYJ3EOWGz6o) | [Accordion Vol\. 2: The Most Beautiful Songs \(Accordéon Vol\. 2: les Plus Belles Mélodies\)](https://open.spotify.com/album/67ZpNxpEBq9qnHjz9lbfKk) | 3:07 |
-| 20 | [Mon Tournesol](https://open.spotify.com/track/3xWy7j5HeruNwzEACKLEav) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 2:15 |
+| 17 | [La Mer](https://open.spotify.com/track/1oUv4nTiR8Fq0eS4KiAIyE) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 2:00 |
+| 18 | [Rue Jouvenet](https://open.spotify.com/track/5t43VxQuoRuJDJAJnxcCvg) | [Jo Courtin](https://open.spotify.com/artist/0u2nKLEi5PUDYJ3EOWGz6o) | [Accordion Vol\. 2: The Most Beautiful Songs \(Accordéon Vol\. 2: les Plus Belles Mélodies\)](https://open.spotify.com/album/67ZpNxpEBq9qnHjz9lbfKk) | 3:07 |
+| 19 | [Mon Tournesol](https://open.spotify.com/track/3xWy7j5HeruNwzEACKLEav) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 2:15 |
+| 20 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 |
 | 21 | [Enchante](https://open.spotify.com/track/1CT6igucC99c7lFx3mrI8K) | [The Paris Musette](https://open.spotify.com/artist/1hoGDUIieScxaFnv587nv0) | [Café Francaise](https://open.spotify.com/album/0F60JZbxQ3gBazKp1Z8OPh) | 2:53 |
 | 22 | [Black and White](https://open.spotify.com/track/2EQpfex5XjYR1ctXdtjJ9I) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 3:01 |
 | 23 | [Corinne](https://open.spotify.com/track/1CEjw6vteEMITpEl15WseM) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 4:02 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 83 | [Nivram](https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m) | [Alma Sinti](https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK) | [Nuits de Paris](https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq) | 3:13 |
 | 84 | [Memories of Paris](https://open.spotify.com/track/7rPh14GzS3khcedkGjqAax) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 2:32 |
 | 85 | [Harry Lime's Theme](https://open.spotify.com/track/3uKUBSVaBeIasROH4eYSGZ) | [Cafe Accordion Orcherstra](https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc) | [Cinema](https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V) | 2:55 |
-| 86 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
-| 87 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 |
-| 88 | [El choclo](https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 4:04 |
+| 86 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 |
+| 87 | [El choclo](https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 4:04 |
+| 88 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
 | 89 | [Valse Des Niglos](https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8) | [Jo Privat](https://open.spotify.com/artist/7wWbbQYVV7AVROYT3sMVoA) | [Minor Swing](https://open.spotify.com/album/5hdK38PRwYdBhdBuyGyZDF) | 2:22 |
 
-Snapshot ID: `MCw2YmFlNTdjNDMxY2M3NzdkYjY5MjQ0MWU4MWRlNTFmNTc0Y2Q3NDdk`
+Snapshot ID: `MCwzZDE0M2Q2Y2FhNTNkMjBlZjM4OTlmYWI1ZjNkZmY5NDM0NjdkZDY1`

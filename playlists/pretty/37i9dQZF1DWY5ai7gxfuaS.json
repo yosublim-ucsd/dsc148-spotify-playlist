@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 260354,
+  "num_followers": 260492,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3",
+  "snapshot_id": "MCw1ZjY0NzMzMDA3YjE3MWUxZDY3NDU0YmNkYThmNTc0MjZkYjg2MjUy",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "The Gereg",
+        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Yuve Yuve Yu",
+      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 183900,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "The Gereg",
-        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Yuve Yuve Yu",
-      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Blood Year",
-        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
-      },
-      "artists": [
-        {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
-        }
-      ],
-      "duration_ms": 393026,
-      "name": "Arluck",
-      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "overstimulation brain porridge",
         "url": "https://open.spotify.com/album/6O4apo5JpFLzhCDwS844Tn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 261206,
       "name": "be no one",
       "url": "https://open.spotify.com/track/79sLgm42dVXtLAModGd7CJ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Blood Year",
+        "url": "https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb"
+      },
+      "artists": [
+        {
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        }
+      ],
+      "duration_ms": 393026,
+      "name": "Arluck",
+      "url": "https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "WHATS UP?",
-        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
-      },
-      "artists": [
-        {
-          "name": "BVDLVD",
-          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "WHATS UP?",
-      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 212530,
       "name": "Envy",
       "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "WHATS UP?",
+        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "WHATS UP?",
+      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 78531,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Going Under",
@@ -1183,6 +1167,22 @@
       "duration_ms": 193281,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 78531,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Synopsis",
-        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
-      },
-      "artists": [
-        {
-          "name": "Mountain Eye",
-          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Synopsis",
-      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 656933,
       "name": "Frost (C)",
       "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Synopsis",
+        "url": "https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG"
+      },
+      "artists": [
+        {
+          "name": "Mountain Eye",
+          "url": "https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Synopsis",
+      "url": "https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "\u00c1mr",
-        "url": "https://open.spotify.com/album/3fi6uKI0YHsgnnn9YezPYh"
+        "name": "DIVINE DISINTEGRATION",
+        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
       },
       "artists": [
         {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+          "name": "ghostofblu",
+          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
         }
       ],
-      "duration_ms": 293173,
-      "name": "Arcana Imperii",
-      "url": "https://open.spotify.com/track/2OI2gIOnRe7TnErAoH2dUd"
+      "duration_ms": 128571,
+      "name": "DIVINE DISINTEGRATION",
+      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
     }
   ],
   "unique_name": "Alternative Metal",

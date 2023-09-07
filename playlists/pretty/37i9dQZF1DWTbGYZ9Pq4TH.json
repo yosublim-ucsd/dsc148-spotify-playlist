@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 170804,
+  "num_followers": 170851,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1",
+  "snapshot_id": "MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
-      },
-      "artists": [
-        {
-          "name": "Umberto Tozzi",
-          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Buoni O Cattivi (Remastered 2017)",
         "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 209093,
       "name": "E...",
       "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C"
+      },
+      "artists": [
+        {
+          "name": "Umberto Tozzi",
+          "url": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Supereroe",
         "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
         }
       ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2023-02-20 09:56:57",

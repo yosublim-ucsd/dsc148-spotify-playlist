@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Bringt dir good vibes + Sonne 😎😎😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,434 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,503 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 79 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 80 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 |
 
-Snapshot ID: `MCxlODgxMGMzOThkY2NiNTIyNGUwYjkwNGYyODdmNTZhZjZmYmE5OWJh`
+Snapshot ID: `MCw2NmU0NDhlNzNiMjlkOTMxOGM1MGMzMjk5YWMyMTkzZjU1NGM0MzVj`

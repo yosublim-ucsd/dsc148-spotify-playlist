@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 172615,
       "name": "Babalik Ba",
       "url": "https://open.spotify.com/track/2PUnWvAzUpIpIgQtOCRavW"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 193478,
       "name": "bb girl",
       "url": "https://open.spotify.com/track/4JkPVqYsg83oHC4VhSW37n"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 162244,
       "name": "BURN",
       "url": "https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 175399,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/2KKyzmlAJFq3WvOHvuTMt1"
@@ -521,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Di Na Babalik",
+        "url": "https://open.spotify.com/album/5RAmV5jGpAZTz99u1sVIJM"
+      },
+      "artists": [
+        {
+          "name": "yshy",
+          "url": "https://open.spotify.com/artist/5DKxABYbjG07LuQ929VRST"
+        },
+        {
+          "name": "Limpo",
+          "url": "https://open.spotify.com/artist/5pRXGrEPlgwQLEKeO2NQhp"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231864,
+      "name": "Di Na Babalik",
+      "url": "https://open.spotify.com/track/0Gt84LW4Ec1ptxIQiIJY3N"
+    },
+    {
+      "album": {
         "name": "Did You Find It?",
         "url": "https://open.spotify.com/album/53drB90hiqveZhAeUsRah5"
       },
@@ -550,7 +572,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 174267,
       "name": "Diggin On You",
       "url": "https://open.spotify.com/track/1U3eywESMeRvn6OSdh5HzU"
@@ -1603,6 +1625,68 @@
     },
     {
       "album": {
+        "name": "LUV DRUG",
+        "url": "https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE"
+      },
+      "artists": [
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        },
+        {
+          "name": "Eros Tongco",
+          "url": "https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198888,
+      "name": "LUV DRUG",
+      "url": "https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm"
+    },
+    {
+      "album": {
+        "name": "LUV DRUNK II",
+        "url": "https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza"
+      },
+      "artists": [
+        {
+          "name": "KLLY",
+          "url": "https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF"
+        },
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "LUV DRUNK II",
+      "url": "https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws"
+    },
+    {
+      "album": {
+        "name": "Magdamag",
+        "url": "https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh"
+      },
+      "artists": [
+        {
+          "name": "KV",
+          "url": "https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119937,
+      "name": "Magdamag",
+      "url": "https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y"
+    },
+    {
+      "album": {
         "name": "Maikee's Letters",
         "url": "https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ"
       },
@@ -1788,6 +1872,32 @@
       "duration_ms": 233001,
       "name": "Need It",
       "url": "https://open.spotify.com/track/3H1rKz5VQjsxHB8xUXAuDi"
+    },
+    {
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
     },
     {
       "album": {
@@ -2242,7 +2352,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 208125,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/1i1qzqAEak05032RuwcrTY"
@@ -2512,6 +2622,36 @@
       "duration_ms": 155479,
       "name": "so fire",
       "url": "https://open.spotify.com/track/48laemm4yRLl6OAAUoAPiJ"
+    },
+    {
+      "album": {
+        "name": "SONG 4 U",
+        "url": "https://open.spotify.com/album/6f5sqRBMgqYNZVdjl0wDQE"
+      },
+      "artists": [
+        {
+          "name": "Clien",
+          "url": "https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK"
+        },
+        {
+          "name": "Jom",
+          "url": "https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q"
+        },
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        },
+        {
+          "name": "ivan G.",
+          "url": "https://open.spotify.com/artist/0S1iKltXNxlw9vCv4bCUY9"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241700,
+      "name": "SONG 4 U",
+      "url": "https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG"
     },
     {
       "album": {

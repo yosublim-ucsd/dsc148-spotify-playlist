@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,176 likes - 150 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,283 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 |
 | 150 | [your love](https://open.spotify.com/track/3mzI3kjKPZJOch3SuMcsEn) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [your love](https://open.spotify.com/album/0pzzOxt5TDV3AZEwMRbcwU) | 2:36 |
 
-Snapshot ID: `MCwzMWU0NGI1MWJlOWUxMDU0YzBjMTFhMDM4ZWYwNDg5NWU1ZGMzNTA3`
+Snapshot ID: `MCwwZmRiYmYyMGMyOWIzZWJlZGQ3ZjZlNjM5ODZjNzY0NjU1ODFhYWYy`

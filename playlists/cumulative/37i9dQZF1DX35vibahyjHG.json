@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD?si=a88783211a78482b\"> Teni </a>",
+  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=Gz-gf_2HRjuD4YXGUfij1Q\"> Makhadzi </a>",
   "name": "EQUAL Africa ",
   "tracks": [
     {
@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Attends",
+        "url": "https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB"
+      },
+      "artists": [
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145657,
+      "name": "Attends",
+      "url": "https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt"
+    },
+    {
+      "album": {
         "name": "B.D.E",
         "url": "https://open.spotify.com/album/3wZHmMYZfRuGrp41PBrTW5"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 165600,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/5AM21uaiIxLO8UG6VhMTbe"
@@ -500,7 +518,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 187275,
       "name": "Been Thinking",
       "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
@@ -522,6 +540,24 @@
       "duration_ms": 181894,
       "name": "Bird",
       "url": "https://open.spotify.com/track/014HTC0i178dC8vOoYuUqA"
+    },
+    {
+      "album": {
+        "name": "DNK (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
     },
     {
       "album": {
@@ -684,7 +720,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 139459,
       "name": "Boytoy",
       "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
@@ -1010,6 +1046,28 @@
       "duration_ms": 288000,
       "name": "Dig Dig",
       "url": "https://open.spotify.com/track/7ilCVsvni3DcYP7V1K4amh"
+    },
+    {
+      "album": {
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
     },
     {
       "album": {
@@ -1340,6 +1398,24 @@
       "duration_ms": 184334,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
+    },
+    {
+      "album": {
+        "name": "Fear Love",
+        "url": "https://open.spotify.com/album/45pBZzzVyvcLUu3pjh8BVF"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175897,
+      "name": "Fear Love",
+      "url": "https://open.spotify.com/track/19oxoR5S1ChfKRMd6qdRgx"
     },
     {
       "album": {
@@ -1936,7 +2012,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 156631,
       "name": "How I Do",
       "url": "https://open.spotify.com/track/2aYT3G5pZ0lMDBngs5WLM0"
@@ -1958,6 +2034,24 @@
       "duration_ms": 174590,
       "name": "How To Kill A Man",
       "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
+    },
+    {
+      "album": {
+        "name": "Lifesize Teddy",
+        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
+      },
+      "artists": [
+        {
+          "name": "Lifesize Teddy",
+          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187606,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4"
     },
     {
       "album": {
@@ -2020,7 +2114,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 450304,
       "name": "Isoka (feat. Nkosazana Daughter & Murumba Pitch)",
       "url": "https://open.spotify.com/track/39sSsu4g7vjVOax8DU98NX"
@@ -2042,7 +2136,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 225884,
       "name": "It Ain't Right",
       "url": "https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5"
@@ -2064,6 +2158,24 @@
       "duration_ms": 128793,
       "name": "Izz Going (Skalala)",
       "url": "https://open.spotify.com/track/3vMmQpcBJdphaG4M34B0p5"
+    },
+    {
+      "album": {
+        "name": "Jah",
+        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147641,
+      "name": "Jah",
+      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
     },
     {
       "album": {
@@ -2304,6 +2416,24 @@
       "duration_ms": 162462,
       "name": "Lane",
       "url": "https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG"
+    },
+    {
+      "album": {
+        "name": "Lanke",
+        "url": "https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152913,
+      "name": "Lanke",
+      "url": "https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy"
     },
     {
       "album": {
@@ -2566,6 +2696,24 @@
       "duration_ms": 206077,
       "name": "Love, Today",
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
+    },
+    {
+      "album": {
+        "name": "LOVE / HATE Pt. 1",
+        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163014,
+      "name": "Love/Hate",
+      "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
     },
     {
       "album": {
@@ -2882,7 +3030,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 150612,
       "name": "Mr Hater",
       "url": "https://open.spotify.com/track/72CCAiOkJzTsnFZinOScU8"
@@ -3042,7 +3190,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 109757,
       "name": "NEW ID",
       "url": "https://open.spotify.com/track/5mH7eZfw6JegSV0Cr4yTlC"
@@ -3104,7 +3252,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 195668,
       "name": "No Days Off",
       "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
@@ -3245,6 +3393,32 @@
     },
     {
       "album": {
+        "name": "Oe'Phihlile",
+        "url": "https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ"
+      },
+      "artists": [
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Lioness Ratang",
+          "url": "https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402179,
+      "name": "Oe'Phihlile",
+      "url": "https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF"
+    },
+    {
+      "album": {
         "name": "Old Flame",
         "url": "https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw"
       },
@@ -3274,7 +3448,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 151932,
       "name": "OLE",
       "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
@@ -3437,6 +3611,32 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Ice Beats Slide",
+          "url": "https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326048,
+      "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
+      "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
+    },
+    {
+      "album": {
         "name": "Pen & Paper",
         "url": "https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl"
       },
@@ -3554,7 +3754,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 365365,
       "name": "Percy Tau",
       "url": "https://open.spotify.com/track/1xspOMs469p7NKQJVHlj24"
@@ -3618,6 +3818,24 @@
       "duration_ms": 410066,
       "name": "Possible",
       "url": "https://open.spotify.com/track/6ARmMd93cqRGYDP0XC6JH7"
+    },
+    {
+      "album": {
+        "name": "Prayed Up",
+        "url": "https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB"
+      },
+      "artists": [
+        {
+          "name": "Essilfie",
+          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168179,
+      "name": "Prayed Up",
+      "url": "https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q"
     },
     {
       "album": {
@@ -5079,6 +5297,32 @@
     },
     {
       "album": {
+        "name": "Tsini Tsini",
+        "url": "https://open.spotify.com/album/4sB8eBXQqaOaev9WdDz2VV"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Fortunator",
+          "url": "https://open.spotify.com/artist/6StnELGS6xp40SAbMotvwk"
+        },
+        {
+          "name": "Mash K",
+          "url": "https://open.spotify.com/artist/2C2OAUQIUAMDm4mdfpQo0X"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288235,
+      "name": "Tsini Tsini",
+      "url": "https://open.spotify.com/track/3inJEriFZwbiyQLLmG2Ai3"
+    },
+    {
+      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -5314,7 +5558,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 291428,
       "name": "Waga Bietjie",
       "url": "https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr"

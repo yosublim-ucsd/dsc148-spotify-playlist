@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 3557888,
+  "num_followers": 3559246,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjk5ODk3ZmU3NmFmMGYxYWQ1ZGY1YjJkZTE5NjhlZWU4Mjc0MTU0",
+  "snapshot_id": "MCxhYTI0NzdmZWI1MzhhNGNmMDE4MzNlMWMxNzVjOTgyY2NlYTJkNWY2",
   "tracks": [
+    {
+      "added_at": "2023-09-05 15:02:50",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
     {
       "added_at": "2023-08-01 15:57:07",
       "album": {
@@ -31,6 +47,22 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "added_at": "2023-09-06 15:22:16",
+      "album": {
+        "name": "Talk to Me (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "duration_ms": 134853,
+      "name": "Le Monde",
+      "url": "https://open.spotify.com/track/424DkevE18QJazwlljiTD4"
     },
     {
       "added_at": "2023-08-11 19:13:14",
@@ -95,22 +127,6 @@
       "duration_ms": 186723,
       "name": "Can You Remember the Rain - Sequence Remix",
       "url": "https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB"
-    },
-    {
-      "added_at": "2023-09-05 15:02:50",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "added_at": "2023-08-16 18:05:26",
@@ -397,62 +413,6 @@
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
-      "added_at": "2023-08-25 14:35:19",
-      "album": {
-        "name": "Memory Reboot",
-        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Narvent",
-          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
-        }
-      ],
-      "duration_ms": 209416,
-      "name": "Memory Reboot",
-      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
-    },
-    {
-      "added_at": "2023-06-21 12:46:16",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
       "added_at": "2023-08-14 17:48:03",
       "album": {
         "name": "Everything I Know About Love",
@@ -485,6 +445,26 @@
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
+      "added_at": "2023-08-25 14:35:19",
+      "album": {
+        "name": "Memory Reboot",
+        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Narvent",
+          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+        }
+      ],
+      "duration_ms": 209416,
+      "name": "Memory Reboot",
+      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
+    },
+    {
       "added_at": "2023-06-09 16:12:25",
       "album": {
         "name": "Hell N Back",
@@ -499,6 +479,42 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2023-06-09 16:12:25",
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-06-21 12:46:16",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -519,6 +535,26 @@
       "duration_ms": 245959,
       "name": "Rodeo (Remix)",
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
+      "added_at": "2023-09-06 15:22:16",
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2023-08-11 15:07:04",
@@ -559,6 +595,22 @@
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
+      "added_at": "2023-08-14 17:51:39",
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Nun id change",
+      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
     },
     {
       "added_at": "2023-07-17 16:11:21",
@@ -683,22 +735,6 @@
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "added_at": "2023-08-14 17:51:39",
-      "album": {
-        "name": "Aft\u00ebrLyfe",
-        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Nun id change",
-      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1027,22 +1063,6 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
-    },
-    {
-      "added_at": "2023-08-24 15:59:17",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 134087,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ"
     },
     {
       "added_at": "2023-07-24 14:53:37",

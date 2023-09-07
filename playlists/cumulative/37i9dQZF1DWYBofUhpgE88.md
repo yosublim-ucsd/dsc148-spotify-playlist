@@ -4,7 +4,7 @@
 
 > La carica giusta per i tuoi allenamenti.
 
-172 songs - 9 hr 35 min
+173 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 | 2022-07-04 |  |
 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 | 2022-07-04 |  |
 | [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-08-09 |  |
+| [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-09-06 |  |
 | [If I Can't](https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:16 | 2023-03-23 | 2023-08-10 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-07-04 |  |
 | [Jungle](https://open.spotify.com/track/5KlQHwczFD9jrAGKxLaG4A) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Jungle](https://open.spotify.com/album/3QRv9ksvfXX8S2XrfXCuRU) | 3:04 | 2022-05-03 | 2022-07-29 |
@@ -134,7 +135,7 @@
 | [SEVEN 7oo \(feat\. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko\)](https://open.spotify.com/track/2KYLg9El0wzvX4S13CDoZf) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo \(feat\. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko\)](https://open.spotify.com/album/5UVfybchlA2ZhymqAXr9KS) | 3:29 | 2022-05-03 | 2022-07-29 |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-05-03 |  |
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2022-07-04 |  |
-| [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2022-07-04 |  |
+| [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2022-07-04 | 2023-09-07 |
 | [Simba](https://open.spotify.com/track/69d3X2Nv5AWHUeTktfOqpV) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68](https://open.spotify.com/album/6GO4KkMREfAw1gMjPdNy9u) | 3:19 | 2022-05-03 | 2022-07-29 |
 | [Soldi in Nero \- feat\. Sfera Ebbasta](https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Soldi in Nero \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH) | 3:03 | 2022-05-03 | 2023-05-04 |
 | [Sparami \- feat\. Salmo, Fabri Fibra](https://open.spotify.com/track/2goEcSJEnmaHyKgmBJJzNm) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [17](https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7) | 3:08 | 2022-05-03 | 2022-07-20 |

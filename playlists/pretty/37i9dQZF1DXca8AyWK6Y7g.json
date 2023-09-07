@@ -1,12 +1,12 @@
 {
   "description": "livin' life in your 250 sq ft apt cover: Aidan Bissett",
-  "num_followers": 1494971,
+  "num_followers": 1495126,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzE2MWIzNzIwMTE0OTk4MGI3MDJmMjM2YzZjMmI5OWZmNDJlNjcz",
+  "snapshot_id": "MCw4OThhY2ViMzczNGI4ZDNiZjE5YmFhNGE0ZjI4YzdmZjBmOGRhNDY5",
   "tracks": [
     {
       "added_at": "2023-09-01 04:38:05",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "the rainbow cassette",
-        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "dumb dumb",
-      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "killer queen",
         "url": "https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 178888,
       "name": "killer queen",
       "url": "https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1041,6 +1041,22 @@
       "url": "https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN"
     },
     {
+      "added_at": "2023-08-29 16:59:38",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 191451,
+      "name": "Poison Poison",
+      "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "Worms",
@@ -1073,20 +1089,20 @@
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
-      "added_at": "2023-08-29 16:59:38",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+        "name": "All My Exes' Moms",
+        "url": "https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Brooke Alexx",
+          "url": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7"
         }
       ],
-      "duration_ms": 191451,
-      "name": "Poison Poison",
-      "url": "https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk"
+      "duration_ms": 125407,
+      "name": "All My Exes' Moms",
+      "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 174183,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "All My Exes' Moms",
-        "url": "https://open.spotify.com/album/7D78EyeNCsv7f8fAlYLrvx"
-      },
-      "artists": [
-        {
-          "name": "Brooke Alexx",
-          "url": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7"
-        }
-      ],
-      "duration_ms": 125407,
-      "name": "All My Exes' Moms",
-      "url": "https://open.spotify.com/track/3ikuDKc66w7CH9hRgc2KfX"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Not Another Rockstar",
         "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
       },
@@ -1215,22 +1199,6 @@
       "duration_ms": 149053,
       "name": "Not Another Rockstar",
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "stacy's brother",
-        "url": "https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "stacy's brother",
-      "url": "https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1251,26 +1219,34 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Fantasy (with GAYLE & Em Beihold)",
-        "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
       },
       "artists": [
         {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        },
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 175090,
-      "name": "Fantasy (with GAYLE & Em Beihold)",
-      "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "stacy's brother",
+        "url": "https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "stacy's brother",
+      "url": "https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1303,6 +1279,46 @@
       "duration_ms": 192720,
       "name": "Red Wine Supernova",
       "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Fantasy (with GAYLE & Em Beihold)",
+        "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "Fantasy (with GAYLE & Em Beihold)",
+      "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G"
+      "duration_ms": 184649,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/7MX0wxRiKE9c7dmiLV3NrX"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 184649,
-      "name": "Confetti",
-      "url": "https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "to love in the 21st century",
-        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "the alternative",
-      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
-    },
-    {
       "added_at": "2023-09-05 22:25:03",
       "album": {
         "name": "Just a Friend",
@@ -1483,6 +1467,22 @@
       "duration_ms": 141147,
       "name": "Just a Friend",
       "url": "https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "the alternative",
+      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Antichrist / Room Service",
-        "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 200911,
-      "name": "Antichrist",
-      "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 263986,
       "name": "OK",
       "url": "https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Antichrist / Room Service",
+        "url": "https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 200911,
+      "name": "Antichrist",
+      "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "do u really?",
-        "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "do u really? (with Ruth B.)",
-      "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "NOTED...EP",
         "url": "https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 158104,
       "name": "Worst Thing",
       "url": "https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "do u really?",
+        "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "do u really? (with Ruth B.)",
+      "url": "https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/6kUjTPhLlAiW3obq3zdPS1"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 133428,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/0q4M1iTAmKYY0CcfEx6FOv"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Eightball Girl",
         "url": "https://open.spotify.com/album/6IJarp7jqTQ8u7tus5bYBu"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 191813,
       "name": "Eightball Girl",
       "url": "https://open.spotify.com/track/1TBTrssuZFzXXpK3OJk5m3"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/6kUjTPhLlAiW3obq3zdPS1"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "duration_ms": 133428,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/0q4M1iTAmKYY0CcfEx6FOv"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "missin u",
-        "url": "https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "missin u",
-      "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7qOX8bMACIwT1T2wGRNj08"
       },
@@ -1943,18 +1927,34 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
+        "name": "missin u",
+        "url": "https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk"
       },
       "artists": [
         {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 165461,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
+      "duration_ms": 177524,
+      "name": "missin u",
+      "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "I Love My Girl, She's My Boy",
+        "url": "https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Self destruct",
+      "url": "https://open.spotify.com/track/4B03LwLa4nuiktvLCN3KHN"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1991,18 +1991,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "I Love My Girl, She's My Boy",
-        "url": "https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h"
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
         }
       ],
-      "duration_ms": 173800,
-      "name": "Self destruct",
-      "url": "https://open.spotify.com/track/4B03LwLa4nuiktvLCN3KHN"
+      "duration_ms": 165461,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Drink Me",
-        "url": "https://open.spotify.com/album/5UlTq1mAwoKZkSMmixCkou"
-      },
-      "artists": [
-        {
-          "name": "Elli Moore",
-          "url": "https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Blueberry Mojito",
-      "url": "https://open.spotify.com/track/0ajLglsDN2MJlf4pX6EpaP"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "SOMEONE ELSE'S PROBLEM",
         "url": "https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb"
       },
@@ -2219,6 +2203,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "Drink Me",
+        "url": "https://open.spotify.com/album/5UlTq1mAwoKZkSMmixCkou"
+      },
+      "artists": [
+        {
+          "name": "Elli Moore",
+          "url": "https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Blueberry Mojito",
+      "url": "https://open.spotify.com/track/0ajLglsDN2MJlf4pX6EpaP"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "tired of california",
         "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
       },
@@ -2231,6 +2231,22 @@
       "duration_ms": 190800,
       "name": "tired of california",
       "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Forever Drunk",
+        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 190107,
+      "name": "Forever Drunk",
+      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2255,18 +2271,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Forever Drunk",
-        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+        "name": "Texts Go Green",
+        "url": "https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3"
       },
       "artists": [
         {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
         }
       ],
-      "duration_ms": 190107,
-      "name": "Forever Drunk",
-      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
+      "duration_ms": 145600,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2283,22 +2299,6 @@
       "duration_ms": 136828,
       "name": "Sick",
       "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Texts Go Green",
-        "url": "https://open.spotify.com/album/3OrU1Vo2kgpEING1SWD4e3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Cantrall",
-          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Texts Go Green",
-      "url": "https://open.spotify.com/track/1GPliC2cz8d5rTVDASQ633"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "bandages",
+        "url": "https://open.spotify.com/album/7dvCrHSe7fsq3Y6TzTeHtQ"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 154431,
+      "name": "bandages",
+      "url": "https://open.spotify.com/track/2g5LoRqCf0dDycdXbT8Pfi"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "I Blame The World",
         "url": "https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F"
       },
@@ -2419,22 +2435,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "bandages",
-        "url": "https://open.spotify.com/album/7dvCrHSe7fsq3Y6TzTeHtQ"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 154431,
-      "name": "bandages",
-      "url": "https://open.spotify.com/track/2g5LoRqCf0dDycdXbT8Pfi"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "liar",
         "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "barcelona",
-        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 175222,
-      "name": "barcelona",
-      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Skeleton",
         "url": "https://open.spotify.com/album/756awsKsAClM5mfkZzPcco"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 169123,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/0wdnfaD8CN0Yq97p63Ph4T"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "barcelona",
+        "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 175222,
+      "name": "barcelona",
+      "url": "https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk"
     }
   ],
   "unique_name": "young & free",

@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-58 songs - 4 hr 48 min
+59 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2021-09-08 |  |
 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 | 2023-07-18 |  |
 | [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-05-09 |  |
-| [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-12 |  |
+| [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-01 |  |
+| [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-12 | 2023-09-07 |
 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2023-02-03 |  |
 | [Ojo Nangis](https://open.spotify.com/track/4Iz7wW7kYwGOtGhv9bnO06) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis](https://open.spotify.com/album/7yXCV83nLn5d9BKwsolEEE) | 5:23 | 2021-09-08 |  |
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2023-08-09 |  |

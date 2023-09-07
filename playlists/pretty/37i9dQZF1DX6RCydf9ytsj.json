@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 574086,
+  "num_followers": 574342,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTg1ZTliZTY5MTNmY2IwZDUxMzdkNmUwMGE2ZmY4NTI0ZTNlZDY2",
+  "snapshot_id": "MCw0MTcwYmRjZWFlMGNlNWQ4ZWViNjZhMmQ4ZDFmZDQwMDhhNTMyMzk4",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Coal Miner's Daughter",
-        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Coal Miner's Daughter - Single Version",
-      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
       },
       "artists": [
         {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+      "duration_ms": 217826,
+      "name": "I Wouldn't Have Missed It For The World",
+      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
       "artists": [
         {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
         }
       ],
-      "duration_ms": 217826,
-      "name": "I Wouldn't Have Missed It For The World",
-      "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "There's No Gettin' Over Me",
+        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "(There's) No Gettin' Over Me",
+      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Friendship",
         "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "There's No Gettin' Over Me",
-        "url": "https://open.spotify.com/album/4rfNPJR54mFLPz6FzV2TI8"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Milsap",
-          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "(There's) No Gettin' Over Me",
-      "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Me And The Boys",
         "url": "https://open.spotify.com/album/3JqqXqQBFwdWb9MHfCf0SP"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Forrest Gump - The Soundtrack",
-        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 148106,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+      "duration_ms": 253293,
+      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
+      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
-      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
+      "duration_ms": 148106,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1143,6 +1143,38 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "The Family's Fine, But This One's All Mine!",
+        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
+      },
+      "artists": [
+        {
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
+      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Crystal Gayle: The Hits",
+        "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "You Never Gave Up On Me",
+      "url": "https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1167,38 +1199,6 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Crystal Gayle: The Hits",
-        "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "You Never Gave Up On Me",
-      "url": "https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "The Family's Fine, But This One's All Mine!",
-        "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
-      },
-      "artists": [
-        {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "I'm Gonna Hire A Wino To Decorate Our Home",
-      "url": "https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1275,18 +1275,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+        "name": "The Very Best Of David Frizzell & Shelly West",
+        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
       },
       "artists": [
         {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+        },
+        {
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
         }
       ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+      "duration_ms": 204386,
+      "name": "You're The Reason God Made Oklahoma",
+      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1307,6 +1311,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+      },
+      "artists": [
+        {
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
       },
@@ -1319,22 +1339,6 @@
       "duration_ms": 195133,
       "name": "Who's Gonna Fill Their Shoes",
       "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "West By West",
-        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
-      },
-      "artists": [
-        {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Jose Cuervo",
-      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1355,22 +1359,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Very Best Of David Frizzell & Shelly West",
-        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
+        "name": "West By West",
+        "url": "https://open.spotify.com/album/5TxtoLv0Y7uvgjb14Bculc"
       },
       "artists": [
-        {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        },
         {
           "name": "Shelly West",
           "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
         }
       ],
-      "duration_ms": 204386,
-      "name": "You're The Reason God Made Oklahoma",
-      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
+      "duration_ms": 160533,
+      "name": "Jose Cuervo",
+      "url": "https://open.spotify.com/track/3lrlZLY4RL816J0ersG63f"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "I Am What I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
-      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 240373,
       "name": "All My Rowdy Friends (Have Settled Down)",
       "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
+      "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+        "name": "What Am I Gonna Do About You",
+        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 194853,
-      "name": "Seven Year Ache",
-      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
+      "duration_ms": 205866,
+      "name": "One Promise Too Late",
+      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "What Am I Gonna Do About You",
-        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 205866,
-      "name": "One Promise Too Late",
-      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
+      "duration_ms": 194853,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Little Rock",
+      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 164653,
       "name": "Born To Boogie",
       "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Little Rock",
-      "url": "https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk"
     },
     {
       "added_at": "2023-08-21 19:29:52",

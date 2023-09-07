@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,420 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,458 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 33 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 34 | [Soy Feliz](https://open.spotify.com/track/6kzdmSs9Kmx4p3CXO5ydCE) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:31 |
 | 35 | [Diana](https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:24 |
-| 36 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
-| 37 | [El Boogie de la Guitarra](https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 3:01 |
+| 36 | [El Boogie de la Guitarra](https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 3:01 |
+| 37 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
 | 38 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
 | 39 | [Como Antes](https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Los 5 Latinos \(Singles Collection\)](https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6) | 1:56 |
 | 40 | [Espinita](https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Presentando a Ana María González](https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw) | 2:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 45 | [Mambo en Sax](https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Best Of Perez Prado: The Original Mambo \#5](https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m) | 2:30 |
 | 46 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
 | 47 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
-| 48 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
-| 49 | [Tu Castigo](https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:11 |
-| 50 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
+| 48 | [Tu Castigo](https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:11 |
+| 49 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
+| 50 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
 
-Snapshot ID: `MCxiZDc5NGNlMGI4NjQxOTBhNDMwZjI3MGRkYmI3MTVkZTI2MTg5MGQx`
+Snapshot ID: `MCw3MjY4MzY1NDE5YmRkZWE5Y2JmZGRkMDE1ODYwNjkyMjlkNjU0MjA3`

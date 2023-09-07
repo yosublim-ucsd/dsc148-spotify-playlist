@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Knuckle Puck
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,449 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,503 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 76 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 |
 | 77 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 |
 | 78 | [Degenerate Inanimate](https://open.spotify.com/track/0w4fvtPleDXgz1Fdx5r7ss) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Degenerate Inanimate](https://open.spotify.com/album/2H78Vi5y81P8Su7vZqilpH) | 2:53 |
-| 79 | [Stay Up All Night](https://open.spotify.com/track/3DoUIWxLgJXAlvrlMmtlZO) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Stay Up All Night](https://open.spotify.com/album/3uRMevrGC00yUbjq19okHx) | 2:58 |
+| 79 | [Stay Up All Night](https://open.spotify.com/track/55r7ZPhEQfhHW0erJ3wurb) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Find A Way Home](https://open.spotify.com/album/58iPMpEF2hFTr5rBqFZOBP) | 2:58 |
 | 80 | [Give It Up](https://open.spotify.com/track/21fSMdEQpQaJlqPkTPkH3t) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Give It Up](https://open.spotify.com/album/2SHm3jnAHPZJwU1kLa5HfF) | 2:56 |
 | 81 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 |
 | 82 | [Open Hands](https://open.spotify.com/track/2EXZA68sDtapsKBZm06e82) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [Open Hands](https://open.spotify.com/album/2d9Fu23fhS57nLj1ZBlpts) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [LIES](https://open.spotify.com/track/2QrUWzndXheW05HL6boFny) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [LIES](https://open.spotify.com/album/0ZknFIPfCdZgKAAvzSVgaQ) | 3:32 |
 | 100 | [Lovely Murk](https://open.spotify.com/track/2BYJiIQwds17fOiTtecQbt) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/1l2DnEVEFSC5NcDzLurPg2) | 5:15 |
 
-Snapshot ID: `MCxlZDI0OWE4ZTdhNWQ3MGRhZWY1ZGU4M2ViZTk3ZDVmMDQ3NDY3YjA2`
+Snapshot ID: `MCw0YWJkZjRlNjg3NTVkYTAxZWIwZWQ3ZmQ2NGQ4MDY1MTUwZjdhYTBl`

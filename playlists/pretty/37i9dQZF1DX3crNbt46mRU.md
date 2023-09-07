@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Timbaland, Nelly Furtado, Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,831 likes - 93 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,845 likes - 93 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 62 | [Einzelkämpfer](https://open.spotify.com/track/6i5jws2qkJqoevUrj1kAOR) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Einzelkämpfer](https://open.spotify.com/album/2KBXm02K9uavu8Fz7tL9oP) | 2:22 |
 | 63 | [Loser!](https://open.spotify.com/track/0aAidqSvnUC6LX7D88l93j) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Loser!](https://open.spotify.com/album/1Tl0l42fKSNIGQvSvSyCX9) | 2:39 |
 | 64 | [Vatta Morgana](https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Vatta Morgana](https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l) | 3:12 |
-| 65 | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
+| 65 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
 | 66 | [Flowers \(We Have Grown\)](https://open.spotify.com/track/6QJPFeIz6EBx852kY2WZJe) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Flowers \(We Have Grown\)](https://open.spotify.com/album/10CvwyC6IKbhX9MydD6DwM) | 3:03 |
 | 67 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 68 | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/track/2NqpZD00BADhsvldFVdO0j) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/album/732QIKM3qkHhwZgxaZsBLZ) | 2:40 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [Wonderful & Great](https://open.spotify.com/track/3Ua9ii7k19DUUaqxDo2ivr) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Wonderful & Great](https://open.spotify.com/album/5iTRTDFuXfvZO6Uv9hMlm5) | 2:24 |
 | 93 | [29 YEARS](https://open.spotify.com/track/1YJagR60EwtmiQkqW7nLpy) | [TJ\_beastboy](https://open.spotify.com/artist/7l8dcABCTyZKrkskt53Z2u) | [29 YEARS](https://open.spotify.com/album/68jGl9AsJv9BWeE19gbI1V) | 2:25 |
 
-Snapshot ID: `MCwyN2JhZmM5MTA0YmZjMmUzOWU5OWNjMGI5ZWQyNWI5YmE3ZDQ4YzBm`
+Snapshot ID: `MCw2OTdlZTM5MDk1OGFlMzM3Mjc3YmU5YWJhOWRlODcwMjhkZDc0NDRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,313 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,542 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [on the stoop](https://open.spotify.com/track/2FT8LphaA9b9xHW3h1XxTd) | [Vertigeux](https://open.spotify.com/artist/5IxQNpPGtK9EXaak32n1qo) | [on the stoop](https://open.spotify.com/album/2yrjE7efmk2wK9Z0n47p6Q) | 6:14 |
 | 100 | [Space Jazzy](https://open.spotify.com/track/4BLMViT8xaTTa2syan74vK) | [Marco Lazovic](https://open.spotify.com/artist/0CdCqhMPs2jxnerSe30XAa) | [Come To London EP](https://open.spotify.com/album/5iWAUHe5b0uCWsjGcdswph) | 5:38 |
 
-Snapshot ID: `MCwxZjFiYjM0NjE1NDc4ODIzNjc4ZTI2YWY4ZGFhMjVkMDk0ZjAzYWNm`
+Snapshot ID: `MCxmMjdhYmRiOGE1OGQxNzI4NzExZjNlMjlhMjdlYWJkM2E5NzU5NDAy`

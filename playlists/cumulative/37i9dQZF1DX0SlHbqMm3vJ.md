@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Tay Iwar
 
-420 songs - 21 hr 12 min
+421 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Reason You](https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 3:26 | 2023-02-20 | 2023-05-01 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-16 |  |
 | [Red Wine](https://open.spotify.com/track/3apid5UMNNRrjjtmVW1zFA) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Red Wine](https://open.spotify.com/album/10HjmKJgNyzSuJ8SzRLjJ7) | 3:15 | 2022-02-10 | 2022-03-12 |
-| [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 |  |
+| [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2023-09-07 |
 | [Rice & Peas](https://open.spotify.com/track/05M4QRmytVTEO58puxL6Tp) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [At The End of The Night](https://open.spotify.com/album/4lPZ6lK0i2QVdSCXlPpoBu) | 3:23 | 2022-05-12 | 2022-06-10 |
 | [Right Here](https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Right Here](https://open.spotify.com/album/1DQOERqHos96P7hL1a2sCx) | 3:32 | 2021-11-11 | 2023-05-21 |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-27 | 2023-02-17 |
@@ -407,6 +407,7 @@
 | [Whine for Your Life](https://open.spotify.com/track/1zgiwJc3BUVKscDkMexe6C) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Miles Away](https://open.spotify.com/album/33l7tBdwY7wEnVPG2kyekw) | 2:48 | 2022-02-03 | 2022-02-10 |
 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 | 2023-03-16 | 2023-04-15 |
 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2022-11-18 | 2023-01-20 |
+| [Why?](https://open.spotify.com/track/0znm2JL9roSYKV6e4CUo87) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Why?](https://open.spotify.com/album/0fgWT4cXG1JsVF9suHlU0M) | 3:04 | 2023-08-31 |  |
 | [Wicked Somebody](https://open.spotify.com/track/7C4B2HESrQL1qXYouNs3qh) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Imperfect](https://open.spotify.com/album/3hqB59kl4O50ywV4jbqggt) | 3:33 | 2021-10-14 | 2022-07-27 |
 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/4BDCfO09NqfpGM9cbFi9Ef) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/6aVTmJn2zZCjRnTX50aV65) | 3:15 | 2022-07-22 | 2022-09-24 |
 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-03-24 | 2023-05-08 |

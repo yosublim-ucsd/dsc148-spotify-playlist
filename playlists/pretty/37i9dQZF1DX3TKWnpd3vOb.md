@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,682 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,696 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 18 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
 | 19 | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 3:56 |
 | 20 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
-| 21 | [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 |
-| 22 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |
+| 21 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |
+| 22 | [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 |
 | 23 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
 | 24 | [Ser a Ti](https://open.spotify.com/track/75xfUquJZnzJXwgLfocOv2) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Ser a Ti](https://open.spotify.com/album/3re95KwxEhVGfrRPk9LiZo) | 4:21 |
 | 25 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 45 | [Como te amo \- Radio Edit](https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Como te amo \(Radio Edit\)](https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV) | 2:56 |
 | 46 | [Dual](https://open.spotify.com/track/0RFhbOwk4IWANsiZGeedTr) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:24 |
 | 47 | [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 |
-| 48 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
-| 49 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |
-| 50 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 |
+| 48 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 |
+| 49 | [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 |
+| 50 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |
 
-Snapshot ID: `MCxkOGNhOGEwMGU1ZTVhNzA2N2NkNjA2MTIxZGIyZjA1YTNlMjBhNDBm`
+Snapshot ID: `MCxmOThkYTE1ZGQ3ZDcxMDAzYjIwZjgyNWZmOWU2MWY1MWZiZGJjMmRm`

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 210280,
+  "num_followers": 210865,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2Y3ZmJmZjM4NmQ2ODEzMjAwZTMwMjE0Y2UzZjllYzVkMGFhYjgy",
+  "snapshot_id": "MCwzNzZiOWUyMTcwYmY1N2MwY2Q2YTk4M2NhMzhmMzJlZjkzNGIzMzc4",
   "tracks": [
     {
       "added_at": "2023-08-25 16:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-08-25 16:00:00",
       "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
-        }
-      ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
-    },
-    {
-      "added_at": "2023-08-25 16:00:00",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 268235,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "added_at": "2023-08-25 16:00:00",
+      "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
     },
     {
       "added_at": "2023-08-25 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Brothers Osborne",
-  "num_followers": 511500,
+  "num_followers": 511561,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTA5MjdhNDAwNWYzZTAzNDljYjA0MTNmMjcyN2UwMjBkODA5MzI1",
+  "snapshot_id": "MCxlYWIyYWE1ZDgxNmUzNTBhOWFlNDE5MGQ0NWY1MWE3OWQ3NjE1ZmY0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 224213,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 174992,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "Creek Will Rise",
+        "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 169293,
+      "name": "Creek Will Rise",
+      "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Creek Will Rise",
-        "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
       "artists": [
         {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 169293,
-      "name": "Creek Will Rise",
-      "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -803,22 +803,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "You, Me, And Whiskey",
-        "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
+        "name": "Standing Room Only",
+        "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
       },
       "artists": [
         {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        },
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 187941,
-      "name": "You, Me, And Whiskey",
-      "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
+      "duration_ms": 226090,
+      "name": "Standing Room Only",
+      "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -839,22 +835,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Standing Room Only",
-        "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226090,
-      "name": "Standing Room Only",
-      "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 167680,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "You, Me, And Whiskey",
+        "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        },
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "You, Me, And Whiskey",
+      "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
         }
       ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
+      "duration_ms": 157906,
+      "name": "Take My Name",
+      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
       },
       "artists": [
         {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Take My Name",
-      "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "One Day Tonight",
-        "url": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
-      },
-      "artists": [
-        {
-          "name": "Noah Thompson",
-          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
-        }
-      ],
-      "duration_ms": 165508,
-      "name": "One Day Tonight",
-      "url": "https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "This Is the Heavy",
         "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "One Day Tonight",
+        "url": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
+      },
+      "artists": [
+        {
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+        }
+      ],
+      "duration_ms": 165508,
+      "name": "One Day Tonight",
+      "url": "https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Over Now",
-      "url": "https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Brown Eyes Baby",
         "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 224333,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/2JxBHISFV4ISAE8VMngqWS"
     },
     {
       "added_at": "2023-09-01 04:00:00",

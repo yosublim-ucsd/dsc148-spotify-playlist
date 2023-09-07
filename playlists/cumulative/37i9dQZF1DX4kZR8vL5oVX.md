@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Louane
 
-961 songs - 2 day 1 hr 54 min
+964 songs - 2 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [48h](https://open.spotify.com/track/4OQhDNCLwT4mdVXPR1SPpX) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [48h](https://open.spotify.com/album/7acWyuPspnrOAo7w84HvZf) | 2:58 | 2022-08-02 | 2022-09-07 |
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-07 | 2022-05-04 |
 | [4X](https://open.spotify.com/track/6iHOulbi3AwYe9Wgy8eCMf) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [4X](https://open.spotify.com/album/5KbxXq1LFsXuLG8zisC6Fj) | 3:34 | 2023-07-04 | 2023-09-06 |
+| [8h sonne](https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [8h sonne](https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU) | 3:08 | 2023-09-05 |  |
 | [A l'envers](https://open.spotify.com/track/3XigyV5rY8uYa6PkONvQgJ) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [A l'envers](https://open.spotify.com/album/1KRzO5D5wViSagqcQxVmx2) | 3:05 | 2022-01-05 | 2022-02-02 |
 | [A l'unité](https://open.spotify.com/track/4TbK8MOtzPj1SdWerHdkGO) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Grande](https://open.spotify.com/album/4qz9mg45ugo0PxWSBxSdR7) | 3:06 | 2023-04-04 | 2023-05-03 |
 | [A Place Where I Belong](https://open.spotify.com/track/7ai5SN91E6X2ps4VeZaVMu) | [Norma](https://open.spotify.com/artist/64W7eG9PeOeb07AsgllbZV) | [A Place Where I Belong](https://open.spotify.com/album/0Eu6w71fErIA4zNcNBztrX) | 2:16 | 2022-05-03 | 2022-06-01 |
@@ -37,6 +38,7 @@
 | [Amoureuse](https://open.spotify.com/track/3OfpwR1gdxutEtmylaf425) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Karaoké Vie](https://open.spotify.com/album/3r9KJgOT0lDeaJfr1wQVvP) | 3:10 | 2023-07-04 | 2023-09-06 |
 | [AMOURS IMAGINAIRES](https://open.spotify.com/track/5Ongr105v1nln0v8KRubZi) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [AMOURS IMAGINAIRES](https://open.spotify.com/album/0FvzB4BIIkKqBCwrRRFrYS) | 3:35 | 2022-02-01 | 2023-01-04 |
 | [Animal Animal](https://open.spotify.com/track/35aiySOToOhZbO3mf9jdbn) | [Jil Caplan](https://open.spotify.com/artist/0w8MI4otAzgRlwQ5hDeCEt) | [Animal Animal](https://open.spotify.com/album/0iK93dQFxfLgdQDm7PIzqz) | 3:30 | 2023-06-06 | 2023-07-05 |
+| [Another Victim](https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Another Victim](https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT) | 3:52 | 2023-09-05 |  |
 | [Antalya](https://open.spotify.com/track/6GdW5t2rVym9e5Y4QmCQ5G) | [Victoria Sio](https://open.spotify.com/artist/1J7lHgGg73LSlEOGZL7XAl) | [Antalya](https://open.spotify.com/album/6V9Xibswh9PCKw8voxrhvH) | 2:53 | 2022-06-01 | 2022-07-06 |
 | [Antidote](https://open.spotify.com/track/6hfyg01cT0psERGwblYKs0) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [By Your Side](https://open.spotify.com/album/4lfxrZaJHbw7kbE6yZ2arb) | 3:54 | 2022-10-04 | 2022-11-09 |
 | [Apollo](https://open.spotify.com/track/3hibBalGX9x7KWeuf5NfeE) | [Koline](https://open.spotify.com/artist/5rD5SSVbX4lbhwGd2tfqkD) | [KO](https://open.spotify.com/album/4oISEb3MNaSYIMlfWt7Amu) | 3:15 | 2022-07-05 | 2022-08-03 |
@@ -75,6 +77,7 @@
 | [bad days](https://open.spotify.com/track/6Zasn2U1p72BVpgkPo1rz3) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [bad days](https://open.spotify.com/album/6WN2yMHZBjcmepRcKcVSkC) | 2:41 | 2023-09-05 |  |
 | [Bad Picking](https://open.spotify.com/track/0arxEggemV91FWN4c2bkGA) | [Siloh](https://open.spotify.com/artist/2a1fEAgfQm8HkLzUSxHosS) | [Bad Picking](https://open.spotify.com/album/3xLLO5ni2Fb4NZh9WZqSnK) | 2:37 | 2022-02-01 | 2022-03-08 |
 | [Baecation](https://open.spotify.com/track/2FKflinOMTdvXGBQAp9O7W) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [Baecation](https://open.spotify.com/album/3Rmb2Mr4LPCYXza4TEvjgN) | 3:43 | 2022-08-02 | 2022-09-07 |
+| [Baiser Amer](https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Baiser Amer](https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK) | 2:37 | 2023-09-05 |  |
 | [Baisse pas les bras \- Radio Edit](https://open.spotify.com/track/0jKncr1vkB6x0T0l6Zj1MJ) | [Elodie Costa](https://open.spotify.com/artist/2CnLRd65XqFFS48R8nZ0gT) | [Baisse pas les bras](https://open.spotify.com/album/1xmuv5z9ycUbrHvx4DdyZ1) | 3:26 | 2022-03-07 | 2022-04-06 |
 | [Balader dans les roses](https://open.spotify.com/track/2gt6ThVmujhH06ZYgNP4DA) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Hors saison](https://open.spotify.com/album/0Bhlam0jOhd9Sk1Up1l2yB) | 3:10 | 2022-02-01 | 2022-03-08 |
 | [Bali](https://open.spotify.com/track/5MZeeySHvuMx4DoPtI6sgy) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Happiness](https://open.spotify.com/album/7tKhCsssgWuP7QVuOJw3Hd) | 2:35 | 2022-01-05 | 2022-02-02 |

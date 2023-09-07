@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19886,
+  "num_followers": 19907,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4",
+  "snapshot_id": "MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -435,8 +435,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Headway",
-        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 178037,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
+      "duration_ms": 250253,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -543,8 +543,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6"
+        "name": "Headway",
+        "url": "https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
         }
       ],
-      "duration_ms": 250253,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV"
+      "duration_ms": 178037,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
       "added_at": "2020-10-21 17:37:12",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 172294,
+  "num_followers": 172453,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY2OTg3NDJmZTczZjgwYWNmNGE4ODFmNGVlNjAxZDhjNTFmN2Ew",
+  "snapshot_id": "MCxjMDQwNzU2MjVkYjE4MjI1Nzg5NTJiODQwNjY2NTcwMTdhOTQ5Zjg1",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:21",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 191295,
+      "name": "Empty Room",
+      "url": "https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "I Met Jesus In Miami",
         "url": "https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 166666,
       "name": "RELATE (R3HAB Remix)",
       "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 191295,
-      "name": "Empty Room",
-      "url": "https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 193685,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 186000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193685,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "This Is Freedom (Ain't No Rock) [Live]",
         "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 344125,
       "name": "This Is Freedom (Ain't No Rock) - Live",
       "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Never Too Far",
-        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
       "artists": [
         {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 184901,
-      "name": "Never Too Far",
-      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1071,18 +1067,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+        "name": "Never Too Far",
+        "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
         }
       ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+      "duration_ms": 184901,
+      "name": "Never Too Far",
+      "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 178587,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 226281,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 178587,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Jireh (Reyer Remix)",
-        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "Esther Lisette",
-          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Jireh - Reyer Remix",
-      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Covered",
         "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Jireh (Reyer Remix)",
+        "url": "https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "Esther Lisette",
+          "url": "https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Jireh - Reyer Remix",
+      "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
@@ -1439,34 +1455,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Equippers Revolution",
+          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
         }
       ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "I Will Follow You (Live)",
-        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 231123,
-      "name": "I Will Follow You - Live",
-      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
+      "duration_ms": 204613,
+      "name": "Nothing But The Truth",
+      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh"
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
       },
       "artists": [
         {
-          "name": "Equippers Revolution",
-          "url": "https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY"
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
         }
       ],
-      "duration_ms": 204613,
-      "name": "Nothing But The Truth",
-      "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-02-07 17:43:21",

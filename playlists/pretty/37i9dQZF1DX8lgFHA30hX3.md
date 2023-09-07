@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lgFHA30hX3.md) - [plain]
 
 > Enjoy the ATEEZ world tour concert LIVE SET including the voices of members on stage! \(에이티즈 멤버들의 무대의 목소리가 포함된 월드 투어 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,735 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,836 likes - 31 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lgFHA30hX3.md) - [plain]
 | 28 | [Closing Ment](https://open.spotify.com/track/5eKS5uLMvRsqPRQIFLSML9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 5:28 |
 | 29 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 |
 | 30 | [Farewell](https://open.spotify.com/track/7pjkkGfyooslqdMtXdq5Lm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ATEEZ WORLD TOUR \[THE FELLOWSHIP : BREAK THE WALL\]](https://open.spotify.com/album/0uVS8lXDfmv57euKIlwXnl) | 0:22 |
+| 31 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 
-Snapshot ID: `MCw2NTU4YWE4ZmNiNmUwNzRlMDliYTNhZmM2MTA2OWNjOTBmZDBjMGFh`
+Snapshot ID: `MCxkOTUwYTY5MzFkYzlkNTExMTk4NTczOGYxZGY1NGEyNDllNzAzZTQy`

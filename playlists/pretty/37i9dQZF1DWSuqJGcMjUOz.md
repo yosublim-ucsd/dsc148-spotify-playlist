@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,944 likes - 132 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,943 likes - 132 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 72 | [+1 \(feat\. Meggie Lennon & Virginie B\)](https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt) | 2:18 |
 | 73 | [Penses\-tu rester encore?](https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Il faut partir maintenant](https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm) | 2:58 |
 | 74 | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Quoi\-ce tu fais ça pour?](https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7) | 3:12 |
-| 75 | [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 |
-| 76 | [Parler](https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol) | 3:38 |
+| 75 | [Parler](https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol) | 3:38 |
+| 76 | [Tous les corps](https://open.spotify.com/track/6DJHBWHgjQrCmDK41k6aNQ) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Soif](https://open.spotify.com/album/1JMutIbqGGBgwDWDLr41SC) | 3:23 |
 | 77 | [Le matin](https://open.spotify.com/track/1vNQPck3HugkKRZrmRrRp6) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le soleil et la mer](https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s) | 2:48 |
 | 78 | [Danser](https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Danser](https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55) | 2:56 |
 | 79 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 |
@@ -101,14 +101,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 91 | [Dans l'sang](https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Rap Queb Monuments](https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2) | 4:13 |
 | 92 | [Soleil](https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl) | [Peanut Butter Sunday](https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB) | [Soleil](https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T) | 2:27 |
 | 93 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 |
-| 94 | [Pas le temps de jouer](https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Naomi](https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi) | 2:58 |
+| 94 | [Le temps des morts](https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Exposition individuelle](https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X) | 3:26 |
 | 95 | [Grand Bleu](https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH) | [Baie](https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW) | [Grand Bleu](https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz) | 2:55 |
-| 96 | [Le temps des morts](https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Exposition individuelle](https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X) | 3:26 |
+| 96 | [Pas le temps de jouer](https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Naomi](https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi) | 2:58 |
 | 97 | [Je t'ai manqué](https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Les chevaux du plaisir \(Boulay chante Bashung\)](https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV) | 3:55 |
 | 98 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 |
 | 99 | [Aéroplane](https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Métastases](https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO) | 5:12 |
-| 100 | [Toune 9](https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Alexandre Martel](https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH) | 4:18 |
-| 101 | [Rock Band](https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [GLAM](https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM) | 3:56 |
+| 100 | [Rock Band](https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [GLAM](https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM) | 3:56 |
+| 101 | [Toune 9](https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Alexandre Martel](https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH) | 4:18 |
 | 102 | [Nimueshtaten nete](https://open.spotify.com/track/5X9LT75w5F75O2XmsAn2Pp) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 4:00 |
 | 103 | [Ensemble](https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Le pouvoir de l'esprit est infini](https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm) | 4:37 |
 | 104 | [creusercreuser](https://open.spotify.com/track/6Z9RMVyBJkWnF6GlemwMIk) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [normal](https://open.spotify.com/album/6oCINsAkkdM3RguhaI8IOI) | 4:17 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 114 | [Le temps d'avance](https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF) | [Hauterive](https://open.spotify.com/artist/1FjP1PNg8eZOJ5uuRe6UWj) | [Hauterive](https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn) | 4:29 |
 | 115 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 |
 | 116 | [Or](https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Or](https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e) | 3:27 |
-| 117 | [Glace noire](https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat) | [Original Gros Bonnet](https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX) | [Tous les jours printemps](https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA) | 4:09 |
-| 118 | [Fais\-moi tien](https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le) | [Le Winston Band](https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG) | [Winston Express](https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT) | 3:40 |
+| 117 | [Fais\-moi tien](https://open.spotify.com/track/4vj6a6z7R1kBa4W9RTS4Le) | [Le Winston Band](https://open.spotify.com/artist/7wJPp0dMiA9SxxjryGyOqG) | [Winston Express](https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT) | 3:40 |
+| 118 | [Glace noire](https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat) | [Original Gros Bonnet](https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX) | [Tous les jours printemps](https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA) | 4:09 |
 | 119 | [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 |
 | 120 | [T'es la reine](https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23), [Liamliamliam](https://open.spotify.com/artist/5cNw5xb7EVrmuoPSFOy3Xw) | [Petite fille devient grande](https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf) | 2:32 |
 | 121 | [Inconfortable](https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT) | [Les Hôtesses D' Hilaire](https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx) | [Pas l'temps d'niaiser](https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz) | 3:09 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 131 | [Pénélope](https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf) | [Narcisse](https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN) | [la fin n’arrive jamais](https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d) | 4:15 |
 | 132 | [Moshpit à St\-Dilon](https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe) | [Margaret Tracteur](https://open.spotify.com/artist/6yXQF0UCrQ1Fqk2unBiqyz) | [L'heure du thé avec Margaret Tracteur](https://open.spotify.com/album/1xyNaSRENv9pcZx3n8wVOP) | 3:48 |
 
-Snapshot ID: `MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk`
+Snapshot ID: `MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4`

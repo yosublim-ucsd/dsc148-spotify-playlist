@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19036,
+  "num_followers": 19032,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw",
+  "snapshot_id": "MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -393,24 +393,20 @@
       "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
     },
     {
-      "added_at": "2021-11-12 19:00:50",
+      "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Music For Psychedelic Therapy",
-        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
       },
       "artists": [
         {
           "name": "Jon Hopkins",
           "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "7RAYS",
-          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
         }
       ],
-      "duration_ms": 382773,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -509,20 +505,24 @@
       "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
+      "added_at": "2021-11-12 19:00:50",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+        "name": "Music For Psychedelic Therapy",
+        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
       },
       "artists": [
         {
           "name": "Jon Hopkins",
           "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "7RAYS",
+          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
         }
       ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+      "duration_ms": 382773,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
     },
     {
       "added_at": "2022-04-23 02:33:42",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39"
     },
     {
-      "added_at": "2022-02-18 05:44:17",
-      "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
-    },
-    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
@@ -723,6 +707,22 @@
       "duration_ms": 299472,
       "name": "Cigarra",
       "url": "https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q"
+    },
+    {
+      "added_at": "2022-02-18 05:44:17",
+      "album": {
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
     },
     {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
+    },
+    {
       "added_at": "2022-05-18 01:33:16",
       "album": {
         "name": "Point Zero",
@@ -811,22 +827,6 @@
       "duration_ms": 592013,
       "name": "Morning Dancing",
       "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "The Pillow Sisters",
-        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "The Pillow Sisters",
-      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2021-09-10 04:35:25",

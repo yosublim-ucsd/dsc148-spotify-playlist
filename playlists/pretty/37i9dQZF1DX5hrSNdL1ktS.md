@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Alex Hoyer y Mario Bautista en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,984 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,057 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 99 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
 | 100 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 |
 
-Snapshot ID: `MCw3MDZmNDFhYzc5MzZiZWZjNTAzOTA1NDAwOWQyZmYxMDkxZGY5ODdl`
+Snapshot ID: `MCw0OTE4MjM1Y2I5OGY0ODJiOGEwMThlMGExMDIyZWI2YTk1N2Q0ZDc3`

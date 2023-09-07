@@ -4,7 +4,7 @@
 
 > Cover: A\. G\. Cook
 
-1,820 songs - 3 day 10 hr 46 min
+1,822 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,7 +672,8 @@
 | [GOLDFiiSH](https://open.spotify.com/track/7MvHXUWvAaBOsFWoDLcN4R) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVSS](https://open.spotify.com/album/5A2VPzbzuv1EpSoie07kFe) | 2:00 | 2020-10-30 | 2021-01-08 |
 | [gone](https://open.spotify.com/track/6rRgZPx71jR3C9HuMHboje) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [gone](https://open.spotify.com/album/69fQ99VuqUX8HYDKaxONvu) | 2:40 | 2022-10-07 | 2023-02-11 |
 | [Good Ones](https://open.spotify.com/track/6PZpNMstpIiRenGK5UyG5D) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Good Ones](https://open.spotify.com/album/6Z0w6c5y1hX7dYbdBe4XKt) | 2:16 | 2021-09-03 | 2022-01-13 |
-| [Good Things Take Time](https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Good Things Take Time](https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg) | 2:25 | 2023-07-10 |  |
+| [Good Things Take Time](https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Good Things Take Time](https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg) | 2:25 | 2023-07-10 | 2023-09-07 |
+| [Good Things Take Time](https://open.spotify.com/track/2osU4WkxDWd6ME9qdZ92S2) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 2:25 | 2023-07-10 |  |
 | [goodbye](https://open.spotify.com/track/3uei6XAS8fOqtHtW86RXl5) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [goodbye](https://open.spotify.com/album/5MRO1Vq0qmRhBI22OROFdh) | 2:14 | 2021-01-23 | 2021-02-26 |
 | [goodbye](https://open.spotify.com/track/0wBJKM6BUwb1mawb9GHR8h) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [goodbye](https://open.spotify.com/album/7HFVnisso5dIPbsYeQoP1y) | 2:36 | 2021-01-08 | 2021-02-10 |
 | [Goofies](https://open.spotify.com/track/6Svm4519iwSrzORtCNgG0Q) | [Lux Vimdor](https://open.spotify.com/artist/5MSARlILztDOl23Gc3mqI8) | [Goofies](https://open.spotify.com/album/1n5yhuZuiwF0PNVf5p2dCr) | 2:57 | 2021-11-12 | 2022-02-24 |
@@ -1428,7 +1429,8 @@
 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2022-09-30 | 2023-07-01 |
 | [SHOCK](https://open.spotify.com/track/1nP8cnWQw8z3nQQRGTTlu5) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [SHOCK](https://open.spotify.com/album/3vus0hVyWElDDqZAkrCrGT) | 2:17 | 2023-05-31 | 2023-07-22 |
 | [shooting star](https://open.spotify.com/track/6cutZu2pvxF6yTfB9zhuV6) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [shooting star](https://open.spotify.com/album/3hIW6mxTBNcuejh80gkqhI) | 2:18 | 2022-09-03 | 2022-11-26 |
-| [Shoplifting From Nike](https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Shoplifting From Nike](https://open.spotify.com/album/2qt1TfPRUFkI6qJzsZMOvC) | 2:21 | 2023-08-25 |  |
+| [Shoplifting From Nike](https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Shoplifting From Nike](https://open.spotify.com/album/2qt1TfPRUFkI6qJzsZMOvC) | 2:21 | 2023-08-25 | 2023-09-07 |
+| [Shoplifting From Nike](https://open.spotify.com/track/5EeFXlnVF1b7y1n5HzpCQg) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 2:21 | 2023-08-25 |  |
 | [short + sweet.。oO](https://open.spotify.com/track/6Md0EvbTJd4EHBncTHWCDw) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [short + sweet.。oO](https://open.spotify.com/album/30GP4icYN3yefbYo3Phl2e) | 3:01 | 2022-11-25 | 2023-06-03 |
 | [SHOW ME](https://open.spotify.com/track/13TmrYGHFRTbF6aMGahtSN) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [SHOW ME](https://open.spotify.com/album/2CBrPRPpEEdwxCeIjfMywh) | 1:05 | 2022-10-28 | 2023-01-25 |
 | [Show Me What](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:49 | 2022-08-02 | 2023-07-29 |

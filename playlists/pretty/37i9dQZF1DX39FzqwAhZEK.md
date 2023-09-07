@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,565 likes - 190 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,603 likes - 190 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39FzqwAhZEK.md) - [plain]
 | 189 | [Silk And Honey](https://open.spotify.com/track/1SPPEq7HfS9W1wwGOptNdD) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Silk And Honey](https://open.spotify.com/album/09wtqj1m6Wc3VDkUurll52) | 3:20 |
 | 190 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
 
-Snapshot ID: `MCxhNGJhNzc3YWVmMDg3N2JhNjc2ZDhkMmU1OGY2MTJlMjExMzhmOTUw`
+Snapshot ID: `MCwxYzcyZjcyYWY3MzMzNTAzMWJkNjFmMDA2YWE0OTExYmE0NzhkZDJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: BM & Hernan y La Champion's Liga
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,076 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,104 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 17 | [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 |
 | 18 | [COBARDE](https://open.spotify.com/track/62jt9UjeHh5e1QM33id7qR) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [COBARDE](https://open.spotify.com/album/2ZfJT8Zq6Rz1PJNiMMUE5Q) | 3:15 |
 | 19 | [Juguete de Amor](https://open.spotify.com/track/7bTpT9qJdU379QpJgRNtP3) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Juguete de Amor](https://open.spotify.com/album/0WRUHICXCLCqW3XRu3YAFi) | 3:31 |
-| 20 | [La Duda](https://open.spotify.com/track/4pC4OS8mZzs0qRSQtAcLon) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [Daniel Torres](https://open.spotify.com/artist/5t2EcA6jYfjovECi69B9Ha) | [La Duda](https://open.spotify.com/album/4tysDWa2dyWJ7fGxJsLAT7) | 3:59 |
+| 20 | [La Duda](https://open.spotify.com/track/4pC4OS8mZzs0qRSQtAcLon) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [Daniel Torres](https://open.spotify.com/artist/4wyIFIVhVfkc6EnoGGuU9w) | [La Duda](https://open.spotify.com/album/4tysDWa2dyWJ7fGxJsLAT7) | 3:59 |
 | 21 | [Si Te Agarran Las Ganas \- Eres \- Deseo](https://open.spotify.com/track/4h7K2pWk99jGiYQhMfZSCG) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Si Te Agarran Las Ganas \- Eres \- Deseo](https://open.spotify.com/album/0ZgtOrcbRjtohbxj82LBxq) | 10:47 |
 | 22 | [Te Juro Que Te Amo](https://open.spotify.com/track/5Y3n9BcwwtJPPilw4GMaII) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Te Juro Que Te Amo](https://open.spotify.com/album/57uOjRBETAv53834da99GP) | 4:03 |
 | 23 | [La Culebritica](https://open.spotify.com/track/19rfC3K4IFLVNRU6XDLUZL) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [La Culebritica](https://open.spotify.com/album/43GOXO9irUtCFfuuFBFyxu) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Diganle](https://open.spotify.com/track/4tvxEdNhLHdhYkplr2YVot) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Diganle](https://open.spotify.com/album/12f3s7wfWqaxmulXQLRcIc) | 2:13 |
 | 50 | [Dirección Equivocada](https://open.spotify.com/track/4ilqzZvzZi3gRgkohedPbS) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Dirección Equivocada](https://open.spotify.com/album/5z3PKaHFBiZXLVcHJKX4Ol) | 3:48 |
 
-Snapshot ID: `MCw4ZDdkNWE2ZWFjZGM1YjI4Y2RiODM1YzhjY2I5NmZiN2JlNmFmZTM5`
+Snapshot ID: `MCw0MWQyYjIyNDFlODY1YTA4ZGZlODExYTEwNDk3ZDU4MDAwMTU1MmRk`

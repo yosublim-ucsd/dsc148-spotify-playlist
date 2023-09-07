@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,281 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,452 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 104 | [Boondein Ye Barse \- Lofi](https://open.spotify.com/track/1pelGFBc8UiG8FKVHkYjsx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Boondein Ye Barse \- Lofi](https://open.spotify.com/album/4qYzHtTjU0S3rRXkasO1jS) | 4:02 |
 | 105 | [Honthon Pe Bas \(Lofi Mix\)](https://open.spotify.com/track/3MYT1dJNcvs7Bjy6j810Gx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Dilip Sen](https://open.spotify.com/artist/6lxW8OiV38ppL3Bm2Pdl9U), [Sameer Sen](https://open.spotify.com/artist/0YWT5217iNiSY436brmqXo), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Honthon Pe Bas \(Lofi Mix\)](https://open.spotify.com/album/3rrJOylcNTJlReJZuuRpIV) | 3:27 |
 
-Snapshot ID: `MCxhMWJkMjAyODU4MjUyNGFiMDMzYmNiMjg3MmI2ZjhmYmNjMTUwM2Uy`
+Snapshot ID: `MCw0YzI4MTM4ZmI4NDJhMzIyNTNmZTZlOTU2MDkxZDI5MmJlMWU2OWEy`

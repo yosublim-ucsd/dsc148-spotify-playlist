@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Soham, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Kaustav Mahapatra, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "City of Heartache",
+        "url": "https://open.spotify.com/album/3kZloP3pE3Pu4eVGfHn7DK"
+      },
+      "artists": [
+        {
+          "name": "Perfect Strangers",
+          "url": "https://open.spotify.com/artist/1y4wjdfM3kbBe7zWjormz9"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "City of Heartache",
+      "url": "https://open.spotify.com/track/3APbO1WZBUA0jzD5mvbAbL"
+    },
+    {
+      "album": {
         "name": "Cloud Burst",
         "url": "https://open.spotify.com/album/6DYd6ep2qaIAuDsAUAaLQh"
       },
@@ -4039,6 +4057,28 @@
     },
     {
       "album": {
+        "name": "Easy Come Easy Go",
+        "url": "https://open.spotify.com/album/2szHOcdUqLcL3OJzT0tBZE"
+      },
+      "artists": [
+        {
+          "name": "Perp",
+          "url": "https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu"
+        },
+        {
+          "name": "Varun Agnihotri",
+          "url": "https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134512,
+      "name": "Easy Come Easy Go",
+      "url": "https://open.spotify.com/track/7iKNlKU1BJtNpm0iaCRbgs"
+    },
+    {
+      "album": {
         "name": "ecstasy",
         "url": "https://open.spotify.com/album/1ovG3bOQvtbjNl9UC3dNcf"
       },
@@ -4614,7 +4654,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 169874,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3I07KeMy2a8t3R2z6Xob10"
@@ -8413,6 +8453,24 @@
     },
     {
       "album": {
+        "name": "Khwahishein",
+        "url": "https://open.spotify.com/album/3cuHHWJe7gIMmuY9P4xXmN"
+      },
+      "artists": [
+        {
+          "name": "Unnati Shah",
+          "url": "https://open.spotify.com/artist/7k5V4wLBAPJAKgCbLNM1gP"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Khwahishein",
+      "url": "https://open.spotify.com/track/50PTrJEsldMboAZe8p8hI9"
+    },
+    {
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/6BV9SDxODAF0q64EziaJ6T"
       },
@@ -9608,7 +9666,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 220000,
       "name": "Making A Move",
       "url": "https://open.spotify.com/track/2vrRRUlq07RwyU6s0xtngL"
@@ -10788,7 +10846,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 311029,
       "name": "Naina",
       "url": "https://open.spotify.com/track/7sNuQrU1sPEAagkMCaretx"
@@ -10902,7 +10960,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 143961,
       "name": "Naya Jahaan",
       "url": "https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx"
@@ -13199,6 +13257,24 @@
     },
     {
       "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/550GsoOszuZZyuSJNw4xOS"
+      },
+      "artists": [
+        {
+          "name": "Ekansh Mamgai",
+          "url": "https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/4d3TElnih8QT0Y9E2dRAQW"
+    },
+    {
+      "album": {
         "name": "safar",
         "url": "https://open.spotify.com/album/00WAvRhT6bEnCizDPXyc57"
       },
@@ -13458,6 +13534,24 @@
       "duration_ms": 140000,
       "name": "Sapna Ya Haqeeqat?",
       "url": "https://open.spotify.com/track/5aA7Ue200SJ2P7OTQZF1xd"
+    },
+    {
+      "album": {
+        "name": "Sarfira",
+        "url": "https://open.spotify.com/album/2HG9Q3MXLiZyRefh2680Ie"
+      },
+      "artists": [
+        {
+          "name": "Kaustav Mahapatra",
+          "url": "https://open.spotify.com/artist/00p7GHRob77P2mA30WGAMY"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177209,
+      "name": "Sarfira",
+      "url": "https://open.spotify.com/track/1ZSDzB23e4K7Xg9WIKIymh"
     },
     {
       "album": {
@@ -16383,6 +16477,24 @@
     },
     {
       "album": {
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/62KHCarUjDkrBvicDH2RXI"
+      },
+      "artists": [
+        {
+          "name": "TaManna",
+          "url": "https://open.spotify.com/artist/5pc2pMOWifZfclK4WcZTJC"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219404,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/6kEsAq9CqM2Y6jVfyMxZUJ"
+    },
+    {
+      "album": {
         "name": "Umeed",
         "url": "https://open.spotify.com/album/10Y8kBYTs2bnWFnCTD1XQv"
       },
@@ -17282,7 +17394,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 196360,
       "name": "Wonderlands In Alice",
       "url": "https://open.spotify.com/track/5QCcXJBCqF8kSCd5ulaf4h"
@@ -17518,7 +17630,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 262456,
       "name": "Yeh Aawaaz",
       "url": "https://open.spotify.com/track/6drnBPgMZws9STY3QdFzmP"

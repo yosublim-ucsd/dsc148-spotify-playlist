@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,369 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,447 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 21 | [Let's Break It Down](https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Let's Break It Down](https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL) | 3:10 |
 | 22 | [Stand Up](https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Stand Up](https://open.spotify.com/album/2830antyeEz07AIkDQpWhP) | 4:01 |
 | 23 | [Peace Now \- Folamour Remix](https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Peace Now \(Folamour Remix\)](https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR) | 3:14 |
-| 24 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
-| 25 | [You Goin' Miss Your Candyman](https://open.spotify.com/track/3teQ8pkzhuw4JILPFUADIu) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [What Color Is Love](https://open.spotify.com/album/61YKu9dRRskWOAT3ijKTr2) | 7:19 |
+| 24 | [You Goin' Miss Your Candyman](https://open.spotify.com/track/3teQ8pkzhuw4JILPFUADIu) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [What Color Is Love](https://open.spotify.com/album/61YKu9dRRskWOAT3ijKTr2) | 7:19 |
+| 25 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
 | 26 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 |
 | 27 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 |
 | 28 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 37 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 |
 | 38 | [Rap\-O Clap\-O \- 2013 \- Remaster](https://open.spotify.com/track/3zjPJnExupCwiukKM27m9q) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Anthology](https://open.spotify.com/album/0RHvIL5YrBdDp5RmSbAwZg) | 3:51 |
 | 39 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
-| 40 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |
-| 41 | [Chantal](https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Mandar All Day 001](https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk) | 4:38 |
+| 40 | [Chantal](https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Mandar All Day 001](https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk) | 4:38 |
+| 41 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 |
 | 42 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 |
 | 43 | [Raw Cuts \#3](https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Raw Cuts \#3](https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe) | 6:54 |
 | 44 | [Morning Shift](https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Scented Trip](https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha) | 6:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Most Precious Love](https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [RE//CHOIRED](https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka) | 3:54 |
 | 50 | [Easy](https://open.spotify.com/track/4uMEqidP5ndYrsaS1HxuBk) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Ally McMahon](https://open.spotify.com/artist/5w7j2molEa1LERPdgAGxE8) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 4:12 |
 
-Snapshot ID: `MCxiMmFlOTJiMjQ4MzJjOWQ1ZmY2Nzk3MGYzZjQwMmZmZDFjYTJkMDk0`
+Snapshot ID: `MCwzNmFlYzg2M2M3YWU1NDZjYzMxYTFlYjEzN2JiZDYzMGNhYTk3ZmUz`

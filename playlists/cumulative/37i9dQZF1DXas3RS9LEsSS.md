@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-78 songs - 5 hr 18 min
+79 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 | 2022-10-14 | 2023-01-13 |
 | [Que Pena](https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora Es Cuando](https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq) | 2:52 | 2022-10-14 | 2023-07-24 |
 | [Que Pena](https://open.spotify.com/track/6VKj8RsvScqfn5k8ol8qih) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora es Cuando](https://open.spotify.com/album/2wY6Aw7iQXHA5aXzvzjEOk) | 2:52 | 2022-10-14 |  |
-| [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 | 2020-12-01 |  |
+| [Ruta 66](https://open.spotify.com/track/2X9gEPPboRpGLLRv0Blc6Y) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/2nPZv089fAeuincr5IVV2k) | 3:06 | 2020-12-01 |  |
+| [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 | 2020-12-01 | 2023-09-07 |
 | [Ruta 66](https://open.spotify.com/track/3nl6qTl9qmaWYgNkvxt9v7) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 3:06 | 2020-12-01 | 2022-07-29 |
 | [Sucio y Desprolijo](https://open.spotify.com/track/0T6gj3F46FYqRUGKPyYpSj) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [Sucio y Desprolijo](https://open.spotify.com/album/1b2aq9eJwiPZPlUOJz8bgU) | 6:32 | 2023-02-17 |  |
 | [The King of The Latin Blues \(feat\. Steve Hunter & Bobby Alexander\)](https://open.spotify.com/track/29ovCP4ChViCwSYWYO9TuD) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Bobby Alexander](https://open.spotify.com/artist/4ZmSudkqArrYnDIrQmWi4l) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 4:31 | 2020-12-01 |  |

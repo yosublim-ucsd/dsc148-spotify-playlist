@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: ATARASHII GAKKO! \(新しい学校のリーダーズ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,185 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,902 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 4 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 5 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 |
 | 6 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
-| 7 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
+| 7 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |
 | 8 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 9 | [MANINGEN](https://open.spotify.com/track/1nXJ9tQgg3f3NzxHiQLooI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/36HmV8Uc2UVPTSlJ88uVpN) | 2:51 |
 | 10 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 |
 | 75 | [混ぜるな危険](https://open.spotify.com/track/3WWslYheowgYhLk1wrW0T0) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [真っ黒](https://open.spotify.com/album/5doNaJuxzyiybQV0YswLBv) | 1:33 |
 
-Snapshot ID: `MCwzNmQwN2RhMTk0NjdiOTk2ZjQ4OWE2OTc2YTYzYTUyNWFmNjE5ZDM1`
+Snapshot ID: `MCwyNDhlOWVlYWY4ZDczZjkyN2Q3OGFkNTk2ZjRhNzU1YmViYTgyZGY2`

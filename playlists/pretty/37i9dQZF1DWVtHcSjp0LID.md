@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,038 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,106 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Nights](https://open.spotify.com/track/0orHzZngrWCwQQb71wSpHb) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/4dMstCvm1yGTowsiiKE3ec) | 5:44 |
 | 50 | [Years On Years](https://open.spotify.com/track/7jp4qGkFD3kSMekSTC8pTL) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Years On Years \(Remixes\)](https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy) | 2:03 |
 
-Snapshot ID: `MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy`
+Snapshot ID: `MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2`

@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: JAMIE \(제이미\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: HWASA \(화사\)
 
-380 songs - 20 hr 20 min
+382 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Curiosity](https://open.spotify.com/track/6Kke9MonigeJKLSmlmRnWD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:09 | 2021-02-27 | 2021-03-18 |
 | [DADADA](https://open.spotify.com/track/7M3uNP8R8pedoK11D2K1iI) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : rise](https://open.spotify.com/album/45gnAAEGm2lmq8DPhoZfum) | 3:01 | 2021-04-24 | 2022-05-31 |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2021-04-22 | 2022-04-20 |
-| [Dancing with you in the Rain](https://open.spotify.com/track/2KQpOKk59I54dbz0z3etMG) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Dancing with you in the Rain](https://open.spotify.com/album/2tzJU8JjqZyBOEiYRopqJv) | 3:00 | 2023-09-01 |  |
+| [Dancing with you in the Rain](https://open.spotify.com/track/2KQpOKk59I54dbz0z3etMG) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Dancing with you in the Rain](https://open.spotify.com/album/2tzJU8JjqZyBOEiYRopqJv) | 3:00 | 2023-09-01 | 2023-09-07 |
 | [Danger](https://open.spotify.com/track/4UHUzgsVA31r4yUq5dvfb1) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [JOY](https://open.spotify.com/album/4DqTvL7XSzatTOXo0wuQ29) | 3:42 | 2022-06-09 | 2022-06-16 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:29 | 2020-10-20 | 2022-04-19 |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/4lQsB3ERTWSNaAN1IkuNRl) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:31 | 2022-07-25 |  |
@@ -146,7 +146,8 @@
 | [HOME](https://open.spotify.com/track/7KrThgzyyulBjY9vEbqceh) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [HOME](https://open.spotify.com/album/3npgimYVYM64IDAiLytb2l) | 3:16 | 2021-01-16 | 2022-05-07 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-16 | 2022-07-28 |
 | [Honey Drop \(Feat\. Lil Cherry\)](https://open.spotify.com/track/6oDLaTN3k2g8n74Cyup2FO) | [Honey J](https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Honey Drop](https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5) | 2:38 | 2022-08-29 | 2022-09-17 |
-| [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-09-01 |  |
+| [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-09-01 | 2023-09-07 |
+| [How To Twerk \(Prod\. Czaer\)](https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:56 | 2023-09-06 |  |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13\* | 2022-05-21 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-25 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-18 | 2022-07-29 |
@@ -154,6 +155,7 @@
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-20 |  |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-11-09 |  |
 | [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-14 |  |
+| [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-06 |  |
 | [I Love You](https://open.spotify.com/track/7n2HVHWqFsyAOs5HqmE1Dl) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [I Love You](https://open.spotify.com/album/0BePiDVdS09GVoBe30WMAd) | 3:14 | 2021-02-28 | 2022-07-15 |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 | 2023-03-05 |
 | [I'm Not Cool](https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 2:54 | 2021-02-28 | 2021-03-02 |

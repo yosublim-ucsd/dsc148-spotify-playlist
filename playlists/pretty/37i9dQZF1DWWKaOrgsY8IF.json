@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 128989,
+  "num_followers": 129005,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjQ2ZjNmMWFlYjliNDMxOWQzZWI2OTk4MWJhY2M1MWFkMTcyYTQ3",
+  "snapshot_id": "MCw5MmJmYWVmYWJmMmY1OTg5YjIwZWMyNzlmMzBmMTE1Mzg2N2M4ZWM3",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -395,18 +395,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
       "artists": [
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+      "duration_ms": 182708,
+      "name": "Por Primera Vez",
+      "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -519,22 +523,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
       "artists": [
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 182708,
-      "name": "Por Primera Vez",
-      "url": "https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D"
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2020-12-01 05:03:00",

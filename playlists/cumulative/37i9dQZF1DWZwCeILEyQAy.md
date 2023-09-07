@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Sexyy Red
 
-431 songs - 18 hr 20 min
+432 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,8 @@
 | [Thicc](https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 2:16 | 2023-08-11 | 2023-09-02 |
 | [Thick and Heavy](https://open.spotify.com/track/2XhODxnDAaEY8qiij4kWkf) | [Narissa](https://open.spotify.com/artist/5bOCbA2WfZgcFQyT64V76q) | [BOSSbae \(Boss Side\)](https://open.spotify.com/album/66WbpYWWQxmodFmj2JJv5e) | 2:32 | 2022-09-30 | 2022-12-10 |
 | [Thief In The Night \(with G Herbo\)](https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:46 | 2022-04-08 | 2022-09-06 |
-| [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 | 2023-05-05 |  |
+| [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 | 2023-05-05 | 2023-09-07 |
+| [This Is New York](https://open.spotify.com/track/1sn4GarhOWPEWaFRBMtaSt) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/3eugYbmPxCM1oGbDTXXkMX) | 2:17 | 2023-08-18 |  |
 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 | 2023-05-26 |  |
 | [TMU](https://open.spotify.com/track/633sZMHj2tlc6oKbTVPEPz) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [TMU](https://open.spotify.com/album/14pVzTX0DTUFJ85z5soNFU) | 2:08 | 2021-11-05 | 2022-03-08 |
 | [Tomorrow](https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 1:53 | 2022-07-15 | 2022-09-24 |

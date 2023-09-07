@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/taylorrooks/\">Taylor Rooks</a> ",
-  "num_followers": 91,
+  "num_followers": 95,
   "original_name": "Taylor Rook's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2NjNTAyMTgyNzJhMmQ2ZWU1MzcyNzc3OTM0YTliZDlkNmM3MTkw",
+  "snapshot_id": "MCw2NDQzZDkwODFjMWUwZjE3Y2Y0MmM3ZTUxNDcxMzdlNmY4N2FkZTE4",
   "tracks": [
     {
       "added_at": "2023-08-01 18:49:51",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Sittin' On Top Of The World (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF"
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
         }
       ],
-      "duration_ms": 188290,
-      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
+      "duration_ms": 260666,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
     },
     {
       "added_at": "2023-08-01 18:49:51",
@@ -271,18 +267,22 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+        "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF"
       },
       "artists": [
         {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 260666,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
+      "duration_ms": 188290,
+      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
     },
     {
       "added_at": "2023-08-01 18:49:51",

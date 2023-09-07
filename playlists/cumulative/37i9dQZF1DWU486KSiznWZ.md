@@ -4,7 +4,7 @@
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: بلقيس
 
-137 songs - 9 hr 42 min
+138 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-26 | 2023-05-07 |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-04-07 | 2022-07-09 |
 | [Kebryaa Wa Shmookh](https://open.spotify.com/track/1RO1yZjUMItbF3Vq60XtDh) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Kebryaa Wa Shmookh](https://open.spotify.com/album/3yRAizctgFimatuWrU7x68) | 4:00 | 2022-04-07 | 2023-04-21 |
+| [Kellahe El Shouq](https://open.spotify.com/track/6E3UOyIIeRzeycTVY84CLZ) | [Khaled Abdul Rahman](https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX) | [Kellahe El Shouq](https://open.spotify.com/album/6RBuponLlbtQMbtKh5uJ53) | 5:51 | 2023-09-06 |  |
 | [Kent Ahebik](https://open.spotify.com/track/7M4naaZsceXAjDUZ7XNZ8g) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Kent Ahebik](https://open.spotify.com/album/1XO27ea0qJbAW3ntk0Plz4) | 2:57 | 2022-04-07 | 2022-06-09 |
 | [Khaloony](https://open.spotify.com/track/09jkfb9ry4b1EANWKN33eY) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Khaloony](https://open.spotify.com/album/769Ve8jTV2eKv85Cjh9bdy) | 4:16 | 2022-04-07 | 2023-02-28 |
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-06-08 | 2022-07-16 |
@@ -88,7 +89,7 @@
 | [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2022-04-07 | 2022-12-09 |
 | [Yalghair](https://open.spotify.com/track/0euUlVRj9fSXSFkpmTM50j) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 2:49 | 2023-01-27 | 2023-02-15 |
 | [Yeheb Al Bard](https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeheb Al Bard](https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m) | 3:53 | 2023-01-09 | 2023-08-11 |
-| [Yeshhad Allah](https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Yeshhad Allah](https://open.spotify.com/album/0OCMuAmmg390azxdmWycvx) | 4:07 | 2022-06-08 |  |
+| [Yeshhad Allah](https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Yeshhad Allah](https://open.spotify.com/album/0OCMuAmmg390azxdmWycvx) | 4:07 | 2022-06-08 | 2023-09-07 |
 | [أحتريك](https://open.spotify.com/track/2yySRO48XMTdz3E38JDxtP) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [أحتريك](https://open.spotify.com/album/4uXKhkwWCUkzuZ3bJMLrPV) | 3:57 | 2022-04-07 | 2022-09-09 |
 | [أدعج عيون](https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [أدعج عيون](https://open.spotify.com/album/4uEyRHNa7Zbms17CZYWulO) | 3:34 | 2022-04-07 | 2022-10-05 |
 | [أدعج عيون](https://open.spotify.com/track/3L0rLqS7wCn0qi7D5kgEQ0) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [أدعج عيون](https://open.spotify.com/album/5cOcNb7qAXUcskBBe2tk6i) | 3:34 | 2022-09-07 | 2022-09-30 |

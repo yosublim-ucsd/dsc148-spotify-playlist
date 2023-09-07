@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,981 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,000 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 8 | [I Cast My Bread Upon the Water](https://open.spotify.com/track/33MymV61MWpNGsjDUv69s5) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Moment of Truth](https://open.spotify.com/album/2Z9lZaIJuZMe0AMrgSKU3n) | 3:53 |
 | 9 | [Sometimes It Takes A Mountain](https://open.spotify.com/track/0LpbCChXvttSqSi51Wnfo7) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Sometimes It Takes A Mountain](https://open.spotify.com/album/2P8MZs8uaeT4t9uo6MxGL4) | 5:40 |
 | 10 | [He Took the Nails](https://open.spotify.com/track/5LDnTZwZvZV0OlsYvbCG3x) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 4:42 |
-| 11 | [God's Great](https://open.spotify.com/track/5tQUIqejsQcWPaRnqPB3nE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:51 |
+| 11 | [God's Great](https://open.spotify.com/track/5tQUIqejsQcWPaRnqPB3nE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:51 |
 | 12 | [Victory Shout](https://open.spotify.com/track/7leuQbcKBZL4EG7TIDYqmD) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [Victory Shout](https://open.spotify.com/album/1IrD0m8sIrV3NPyY6FMQMk) | 4:01 |
 | 13 | [I Want to Be That Man](https://open.spotify.com/track/5oPdxfCzdBfASHQk2RRVlX) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0), [Assurance](https://open.spotify.com/artist/0zFdl3BbxeSiBfD8SvvxFv) | [Nothing but Love](https://open.spotify.com/album/0uMrQA4PLWRV6Lh2JkfpHK) | 4:09 |
 | 14 | [Unspoken Request](https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX) | [The McKameys](https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF) | [Precious Seed](https://open.spotify.com/album/2kjRMGXR9PsTasb7zKvkXV) | 3:16 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 57 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 |
 | 58 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 |
 
-Snapshot ID: `MCw1YjhlODY4ZTc4ODI3ZWUwZmEzOTVkMzUxMjJmMmM5ZGE0N2U1YmJh`
+Snapshot ID: `MCxkZjczMmE1NTNjYWFiYTY4NTNlOWFmMTExY2E4MmMzZjZiOGU1OGFl`

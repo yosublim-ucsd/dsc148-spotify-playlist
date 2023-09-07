@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Griff
 
-3,824 songs - 7 day 22 hr 11 min
+3,825 songs - 7 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1879,6 +1879,7 @@
 | [July](https://open.spotify.com/track/182uGchKGo895i2gKMuxTu) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 1](https://open.spotify.com/album/3lNfx7ftaV1O1OOQbmhYOZ) | 3:00 | 2023-07-28 | 2023-08-12 |
 | [July \(Later On\)](https://open.spotify.com/track/4aOn1poQUctDNYifxmgK61) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [July \(Later On\)](https://open.spotify.com/album/67pdoqq7ID77qBa26APJ2m) | 2:19 | 2022-07-15 | 2022-08-06 |
 | [JUMPSHOT!](https://open.spotify.com/track/1hWIeur5Q8BJ9hUrDyTI8W) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [JUMPSHOT!](https://open.spotify.com/album/0jUh0PoLQtLry0B3JXyDiW) | 2:59 | 2022-04-29 | 2022-05-14 |
+| [Just a Friend](https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Just a Friend](https://open.spotify.com/album/2t3ca5ZOkCVzNQDyFOVFPz) | 2:21 | 2023-09-06 |  |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2022-11-05 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-05 | 2023-05-20 |
 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 | 2022-11-18 | 2022-12-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Brian Kelley, Billy Currington, Kylie Morgan and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,937 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,079 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 65 | [Cradock](https://open.spotify.com/track/44KXa0HsnGOrQd9rjFldzl) | [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Cradock](https://open.spotify.com/album/24dT8sQzByI9uYtJ5DIumX) | 4:30 |
 | 66 | [Still Country Though](https://open.spotify.com/track/3apfrYGZX5pBQnmiofoghr) | [Austin Merrill](https://open.spotify.com/artist/2MzvCcclZQGuKtvyLnl5aF) | [Still Country Though](https://open.spotify.com/album/6iOKCHaNHiwquE6LgwRnpI) | 3:21 |
 
-Snapshot ID: `MCxlZjgxYWY1Zjk2ODFmYThhYTJjYzkyY2QzZmViZjA1N2YzMmE5Njdh`
+Snapshot ID: `MCxjMThlMDBlMGFlNjIyNzcxN2IyMWFkZDlmZDNhZWQ5ZTFmYTIxMDE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity \(LIFE\)\. Cover: Burna boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,347 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,466 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 39 | [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 |
 | 40 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
 
-Snapshot ID: `MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj`
+Snapshot ID: `MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4`

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the UK + Ireland. Cover: Nectar Woode",
-  "num_followers": 20064,
+  "num_followers": 20100,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzliYWFkYzVmZGMwNWJlM2ExM2I1M2ZmZGI0NThmYTY0NWZhNzhh",
+  "snapshot_id": "MCxmYzE2OTU1MTU1NzBiYzZjYjUxZDE0MzY4MWZjMWExYzk2ZjQ4OGE1",
   "tracks": [
     {
       "added_at": "2023-09-05 23:00:00",
@@ -211,6 +211,22 @@
       "duration_ms": 167096,
       "name": "Roses",
       "url": "https://open.spotify.com/track/71oRSKgBjTisrhLwu9VHmv"
+    },
+    {
+      "added_at": "2023-09-06 14:45:51",
+      "album": {
+        "name": "The Prophet & I",
+        "url": "https://open.spotify.com/album/0UdlT14jyqKqXAPpl8qShn"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "duration_ms": 237884,
+      "name": "The Prophet & I",
+      "url": "https://open.spotify.com/track/3z2fIQXmB9kgY1R3w4yUk2"
     },
     {
       "added_at": "2023-09-05 23:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 165663,
       "name": "Butterscotch",
       "url": "https://open.spotify.com/track/5qvMsEaeSwEGbe1CRaKjwR"
-    },
-    {
-      "added_at": "2023-09-05 23:00:00",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/65SPmT7S5C8ALqecxog8qn"
-      },
-      "artists": [
-        {
-          "name": "Tequisha",
-          "url": "https://open.spotify.com/artist/6PSpzSjpLVGOrX45Snh3ir"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6QubwExsLg5yvnrPGAG3Qp"
     }
   ],
   "unique_name": "Fresh Finds UK & IE",

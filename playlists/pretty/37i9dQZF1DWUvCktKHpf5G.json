@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 214266,
+  "num_followers": 214372,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzcwN2U4YjE4NmJlZWMzYmMyOGUyZjA5ZWMzNjkwZWIzNzQ4NjUx",
+  "snapshot_id": "MCw4ZTQ0NjNkMjAxNzRjMDkzMjQ1MzVhMzZjZWIyZTkyYWYxODEzYTU0",
   "tracks": [
     {
       "added_at": "2023-09-04 19:44:38",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-09-04 19:44:38",
       "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2023-09-04 19:44:38",
-      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2023-09-04 19:44:38",
+      "album": {
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2023-09-04 19:44:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-09-04 19:44:38",
       "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
+    },
+    {
+      "added_at": "2023-09-04 19:44:38",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
-    },
-    {
-      "added_at": "2023-09-04 19:44:38",
-      "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2023-09-04 19:44:38",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-09-04 19:44:38",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2023-09-04 19:44:38",
-      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
+    },
+    {
+      "added_at": "2023-09-04 19:44:38",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2023-09-04 19:44:38",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-04 19:44:38",
       "album": {
+        "name": "La \u00daltima Promesa",
+        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 194989,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2023-09-04 19:44:38",
+      "album": {
         "name": "Piedritas En Los Dientes",
         "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
-    },
-    {
-      "added_at": "2023-09-04 19:44:38",
-      "album": {
-        "name": "La \u00daltima Promesa",
-        "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 194989,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
     },
     {
       "added_at": "2023-09-04 19:44:38",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2023-09-04 19:44:38",
       "album": {
+        "name": "LEAN",
+        "url": "https://open.spotify.com/album/6pP5yKWovqmjxtlNop4o9p"
+      },
+      "artists": [
+        {
+          "name": "RaiderXD",
+          "url": "https://open.spotify.com/artist/5yO9Fbc34OQ5SjxTzjeUEJ"
+        },
+        {
+          "name": "Lanceas",
+          "url": "https://open.spotify.com/artist/2pVVQpwsN9hJn6ey9Xk15M"
+        }
+      ],
+      "duration_ms": 260562,
+      "name": "LEAN",
+      "url": "https://open.spotify.com/track/6RH8wRydMZ8pJIZ1Ib3gW8"
+    },
+    {
+      "added_at": "2023-09-04 19:44:38",
+      "album": {
         "name": "Ghetto Star",
         "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 163680,
       "name": "REMIX",
       "url": "https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW"
-    },
-    {
-      "added_at": "2023-09-04 19:44:38",
-      "album": {
-        "name": "LEAN",
-        "url": "https://open.spotify.com/album/6pP5yKWovqmjxtlNop4o9p"
-      },
-      "artists": [
-        {
-          "name": "RaiderXD",
-          "url": "https://open.spotify.com/artist/5yO9Fbc34OQ5SjxTzjeUEJ"
-        },
-        {
-          "name": "Lanceas",
-          "url": "https://open.spotify.com/artist/2pVVQpwsN9hJn6ey9Xk15M"
-        }
-      ],
-      "duration_ms": 260562,
-      "name": "LEAN",
-      "url": "https://open.spotify.com/track/6RH8wRydMZ8pJIZ1Ib3gW8"
     },
     {
       "added_at": "2023-09-04 19:44:38",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-09-04 19:44:38",
       "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
+    },
+    {
+      "added_at": "2023-09-04 19:44:38",
+      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
-    },
-    {
-      "added_at": "2023-09-04 19:44:38",
-      "album": {
-        "name": "Pol\u00e9mica",
-        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 151718,
-      "name": "Pol\u00e9mica",
-      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
     },
     {
       "added_at": "2023-09-04 19:44:38",

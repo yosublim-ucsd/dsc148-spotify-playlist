@@ -616,7 +616,7 @@
     {
       "album": {
         "name": "P.T.",
-        "url": "https://open.spotify.com/album/55j95OpOUQbuf4X4Ryljuw"
+        "url": "https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx"
       },
       "artists": [
         {
@@ -627,6 +627,24 @@
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Clarice",
+      "url": "https://open.spotify.com/track/7DrMC04xJQHabCzMcjWTI1"
+    },
+    {
+      "album": {
+        "name": "P.T.",
+        "url": "https://open.spotify.com/album/55j95OpOUQbuf4X4Ryljuw"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
       "duration_ms": 226666,
       "name": "Clarice",
       "url": "https://open.spotify.com/track/7hIIwJTGz7s7vpMaFtdvlU"

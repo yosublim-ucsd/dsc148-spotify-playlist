@@ -1,12 +1,12 @@
 {
   "description": "Les femmes montent le son. Photo : Louane",
-  "num_followers": 195079,
+  "num_followers": 195089,
   "original_name": "EQUAL France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMWQ1MWEwYzgxMWJmNDkxMWE4MDdmNGY2NGQ4NTBmNzJiMjhlZTM4",
+  "snapshot_id": "MCw2ZWNmNDcyZWJkMmU4M2Q0YzEyNDU2MWM4MGQ0MDdhZGM3ZGU1Njhj",
   "tracks": [
     {
       "added_at": "2023-09-05 22:00:00",
@@ -239,6 +239,38 @@
     {
       "added_at": "2023-09-05 22:00:00",
       "album": {
+        "name": "8h sonne",
+        "url": "https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "8h sonne",
+      "url": "https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF"
+    },
+    {
+      "added_at": "2023-09-05 22:00:00",
+      "album": {
+        "name": "Baiser Amer",
+        "url": "https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK"
+      },
+      "artists": [
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        }
+      ],
+      "duration_ms": 157192,
+      "name": "Baiser Amer",
+      "url": "https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ"
+    },
+    {
+      "added_at": "2023-09-05 22:00:00",
+      "album": {
         "name": "L'olivier",
         "url": "https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o"
       },
@@ -379,6 +411,22 @@
       "duration_ms": 209025,
       "name": "Mourir sur sc\u00e8ne",
       "url": "https://open.spotify.com/track/2bOZ0Yv5J2CXTSMS03U3kS"
+    },
+    {
+      "added_at": "2023-09-05 22:00:00",
+      "album": {
+        "name": "Another Victim",
+        "url": "https://open.spotify.com/album/6fdeB3pBnXfZrLimBZGpBT"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "duration_ms": 232307,
+      "name": "Another Victim",
+      "url": "https://open.spotify.com/track/2QxdR5kas7UBRzKDjNz3zA"
     },
     {
       "added_at": "2023-09-05 22:00:00",

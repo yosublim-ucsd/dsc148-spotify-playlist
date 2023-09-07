@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,267 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,302 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 38 | [The Cat Walk \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 6:40 |
 | 39 | [The Joker \- Remastered](https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 5:04 |
 | 40 | [Decision \- Remastered 1999](https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Rollins](https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO) | 7:58 |
-| 41 | [Camouflage \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
-| 42 | [Soulville \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:16 |
+| 41 | [Soulville \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:16 |
+| 42 | [Camouflage \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 4:25 |
 | 43 | [Soul Sister \- Rudy Van Gelder Edition/2004 Remaster](https://open.spotify.com/track/5haDMziNpWpocusp2aLR82) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Calling \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P) | 7:45 |
 | 44 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
 | 45 | [Johnny's Blue](https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 9:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 75 | [Minor On Top \- Remastered 1997](https://open.spotify.com/track/5SQuscOp1pmVmd2TlYADpH) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Motor City Scene](https://open.spotify.com/album/6LQkQG9nSDBZmRRDEdxKms) | 8:43 |
 
-Snapshot ID: `MCwzNDliZTM4NGVkODZhMGM0NGFhZWQxMDNhMTFhNGJmNTlmYzczNGY2`
+Snapshot ID: `MCxjODk1N2IzNDExMzYxYWI1ZWM1YmU2YWY0NmE5NjMwZjc2YzVkYTg5`

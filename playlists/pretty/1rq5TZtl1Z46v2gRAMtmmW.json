@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28352,
+  "num_followers": 28359,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQ2Niw0OGYzNWMyM2E4ZDRhNjI4YmJhZThjNTQ3OWU4ZWMwNDBlNDViOTk2",
+  "snapshot_id": "MzQ2OSxmNWQxZDk2MzU4ZmM0NDU3MWRlYzFkNWE2N2ExNzU1MGY0NWMwNzM1",
   "tracks": [
+    {
+      "added_at": "2023-09-06 10:45:28",
+      "album": {
+        "name": "The Low",
+        "url": "https://open.spotify.com/album/1fdz9eOqE4fcayb5wIqErG"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 218464,
+      "name": "The Low",
+      "url": "https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB"
+    },
     {
       "added_at": "2023-09-05 19:43:29",
       "album": {
@@ -679,26 +695,6 @@
       "duration_ms": 187872,
       "name": "Loso Na Madesu",
       "url": "https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw"
-    },
-    {
-      "added_at": "2023-03-17 17:54:10",
-      "album": {
-        "name": "To Be Yours",
-        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 211782,
-      "name": "To Be Yours",
-      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
       "added_at": "2023-02-21 18:13:13",

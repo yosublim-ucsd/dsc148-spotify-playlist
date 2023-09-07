@@ -2,7 +2,7 @@
 
 ### [Fashion Forward](https://open.spotify.com/playlist/37i9dQZF1DWWvGEj20FfCp)
 
-> Two world’s kneel side by side on the runway with Luar’s SS24 Collection for NYFW, Soundtrack by Founder and Designer, Raul Lopez
+> Two worlds walk side by side on the runway with Luar’s SS24 Collection for NYFW, Soundtrack by Raul Lopez
 
 585 songs - 1 day 15 hr 8 min
 

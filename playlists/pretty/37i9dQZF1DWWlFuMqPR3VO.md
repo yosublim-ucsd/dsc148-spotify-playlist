@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,669 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,678 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 11 | [Baby Scratch My Back \- Single Version](https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:53 |
 | 12 | [Creole Moon](https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Creole Moon](https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU) | 8:34 |
 | 13 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
-| 14 | [Tipitina \- Mono](https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:38 |
-| 15 | [I Got a Woman](https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:13 |
+| 14 | [I Got a Woman](https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:13 |
+| 15 | [Tipitina \- Mono](https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:38 |
 | 16 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 |
 | 17 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 18 | [Well I Done Got Over It](https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 2:27 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [Walking On A Tightrope](https://open.spotify.com/track/3lAejrcq32dCRxFRKU963x) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Walking On A Tightrope \- The Songs Of Percy Mayfield](https://open.spotify.com/album/0y8DC0UY7ebAOeYh8RlOV2) | 5:46 |
 | 40 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 
-Snapshot ID: `MCw0NTc2MjQzNTJhZDNkY2RjZWM2YzI2NzNmNGE1NDNlZjdlYWI5MDNj`
+Snapshot ID: `MCwwNTdjYTMwYTU5ZWM2MjNiODZlOWJkODZmYzE1Y2JmMjAyY2YwZjNj`

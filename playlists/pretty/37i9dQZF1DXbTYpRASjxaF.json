@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Bivolt, Veigh",
-  "num_followers": 121516,
+  "num_followers": 121595,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTU1YjcxNWJkMTM4M2UyZTU5ZmUwNDM3MDQxNDU3NWU3OWFlYjg3",
+  "snapshot_id": "MCxlNjhhODQzNjc1NzEyNGUwYWY1NjM5MTJmNTY4NDhjMGYzNmUxOGFj",
   "tracks": [
     {
       "added_at": "2023-09-04 13:54:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2023-09-04 13:54:00",
       "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "added_at": "2023-09-04 13:54:00",
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
-    },
-    {
-      "added_at": "2023-09-04 13:54:00",
-      "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
     },
     {
       "added_at": "2023-09-04 13:54:00",
@@ -507,62 +507,6 @@
     {
       "added_at": "2023-09-04 13:54:00",
       "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico Online",
-        "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        }
-      ],
-      "duration_ms": 230886,
-      "name": "O \u00daltimo Rom\u00e2ntico Online (feat. Pedro Lotto & Wey)",
-      "url": "https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W"
-    },
-    {
-      "added_at": "2023-09-04 13:54:00",
-      "album": {
-        "name": "Licor 43",
-        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 142470,
-      "name": "Licor 43",
-      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
-    },
-    {
-      "added_at": "2023-09-04 13:54:00",
-      "album": {
         "name": "Nota D\u00f3",
         "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
       },
@@ -591,6 +535,62 @@
       "duration_ms": 202550,
       "name": "Nota D\u00f3",
       "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+    },
+    {
+      "added_at": "2023-09-04 13:54:00",
+      "album": {
+        "name": "Licor 43",
+        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 142470,
+      "name": "Licor 43",
+      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2023-09-04 13:54:00",
+      "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico Online",
+        "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "duration_ms": 230886,
+      "name": "O \u00daltimo Rom\u00e2ntico Online (feat. Pedro Lotto & Wey)",
+      "url": "https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W"
     },
     {
       "added_at": "2023-09-04 13:54:00",
@@ -887,38 +887,6 @@
     {
       "added_at": "2023-09-04 13:54:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Droga e Festa",
-      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
-    },
-    {
-      "added_at": "2023-09-04 13:54:00",
-      "album": {
         "name": "Meu Nome N\u00e3o \u00e9 Igor %",
         "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 262000,
       "name": "Vinho Escoc\u00eas",
       "url": "https://open.spotify.com/track/6nH3inGA5qawCi8pIoHAzA"
+    },
+    {
+      "added_at": "2023-09-04 13:54:00",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Droga e Festa",
+      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
     },
     {
       "added_at": "2023-09-04 13:54:00",
@@ -987,6 +987,30 @@
     {
       "added_at": "2023-09-04 13:54:00",
       "album": {
+        "name": "RIP POP",
+        "url": "https://open.spotify.com/album/5kzI4lBo6gfVqsBlkGk2jl"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "RIP POP",
+      "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
+    },
+    {
+      "added_at": "2023-09-04 13:54:00",
+      "album": {
         "name": "ERREJOTACULTDRILL, Vol. 2 - Esquema Novo",
         "url": "https://open.spotify.com/album/0PwwCnbPX0A6AiiRolXUJm"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 175652,
       "name": "Perigo e Adrenalina",
       "url": "https://open.spotify.com/track/0SjJA0HfTrNLu2qWQfHbbM"
-    },
-    {
-      "added_at": "2023-09-04 13:54:00",
-      "album": {
-        "name": "RIP POP",
-        "url": "https://open.spotify.com/album/5kzI4lBo6gfVqsBlkGk2jl"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "RIP POP",
-      "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
     },
     {
       "added_at": "2023-09-04 13:54:00",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2023-09-04 13:54:00",
       "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Renc Renc",
-      "url": "https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B"
-    },
-    {
-      "added_at": "2023-09-04 13:54:00",
-      "album": {
         "name": "Novinha do Peito Bicudo",
         "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
       },
@@ -1279,6 +1255,30 @@
     {
       "added_at": "2023-09-04 13:54:00",
       "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Renc Renc",
+      "url": "https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B"
+    },
+    {
+      "added_at": "2023-09-04 13:54:00",
+      "album": {
         "name": "KEN ELAS QUER",
         "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 121234,
       "name": "KEN ELAS QUER",
       "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
-    },
-    {
-      "added_at": "2023-09-04 13:54:00",
-      "album": {
-        "name": "Nova Wave, Pt. 2",
-        "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
-      },
-      "artists": [
-        {
-          "name": "Shaodree",
-          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "MAXA MAXA",
-      "url": "https://open.spotify.com/track/3pKny7qtqnd4huJr1talSy"
     },
     {
       "added_at": "2023-09-04 13:54:00",
@@ -1339,6 +1323,22 @@
       "duration_ms": 193564,
       "name": "De Cop\u00e3o Na M\u00e3o",
       "url": "https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG"
+    },
+    {
+      "added_at": "2023-09-04 13:54:00",
+      "album": {
+        "name": "Nova Wave, Pt. 2",
+        "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "MAXA MAXA",
+      "url": "https://open.spotify.com/track/3pKny7qtqnd4huJr1talSy"
     },
     {
       "added_at": "2023-09-04 13:54:00",

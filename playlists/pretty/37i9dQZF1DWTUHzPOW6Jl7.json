@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 509106,
+  "num_followers": 509440,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjNkZmExZTRkNDdmYjQ1NThmNGRlMzcxMzdiMzJhNDFhMzQ1Y2Qw",
+  "snapshot_id": "MCw1Mjg0YzYyYjQyMWY3OWEzYjk4MDIwMGMzODI1YTMyNjk1OWZkMmQ1",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
     },
     {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Slime & B",
@@ -351,22 +367,6 @@
       "duration_ms": 176960,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -435,26 +435,6 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Run It! (feat. Juelz Santana)",
-      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
       "added_at": "2023-07-14 04:17:24",
@@ -527,22 +507,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -559,50 +523,38 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
-        {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
+      "duration_ms": 229866,
+      "name": "Run It! (feat. Juelz Santana)",
+      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "X (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 264946,
-      "name": "Loyal (feat. Lil Wayne & Tyga)",
-      "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -627,6 +579,30 @@
       "duration_ms": 203122,
       "name": "Skate",
       "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
+      },
+      "artists": [
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -663,18 +639,26 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 219120,
-      "name": "You Make Me Wanna...",
-      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
+      "duration_ms": 264946,
+      "name": "Loyal (feat. Lil Wayne & Tyga)",
+      "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -695,22 +679,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 225226,
-      "name": "Ayo",
-      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
+      "duration_ms": 219120,
+      "name": "You Make Me Wanna...",
+      "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
     },
     {
       "added_at": "2022-08-25 12:17:17",
@@ -779,6 +759,42 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -817,38 +833,6 @@
       "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
     },
     {
-      "added_at": "2023-07-14 04:17:24",
-      "album": {
-        "name": "Summer Too Hot",
-        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 188504,
-      "name": "Summer Too Hot",
-      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Fly Girl (feat. Missy Elliott)",
@@ -871,26 +855,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Don't Cha",
-      "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Nina Sky",
         "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
@@ -907,6 +871,26 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Don't Cha",
+      "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -941,20 +925,20 @@
       "url": "https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
+      "added_at": "2023-07-14 04:17:24",
       "album": {
-        "name": "J.Lo",
-        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+        "name": "Summer Too Hot",
+        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 221226,
-      "name": "Love Don't Cost a Thing",
-      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+      "duration_ms": 188504,
+      "name": "Summer Too Hot",
+      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -971,6 +955,22 @@
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 221226,
+      "name": "Love Don't Cost a Thing",
+      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1049,6 +1049,22 @@
       "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
     },
     {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 226740,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
+    },
+    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Somebody",
@@ -1067,22 +1083,6 @@
       "duration_ms": 189906,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 226740,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
         }
       ],
-      "duration_ms": 299826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
       "artists": [
         {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
     },
     {
+      "added_at": "2023-07-14 04:17:24",
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+    },
+    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Jennifer Hudson",
@@ -1459,22 +1475,6 @@
       "duration_ms": 167186,
       "name": "Simmer (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
-    },
-    {
-      "added_at": "2023-07-14 04:17:24",
-      "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
       "added_at": "2022-08-02 10:25:51",

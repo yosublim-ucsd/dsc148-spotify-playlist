@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,654 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,704 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Feel Good](https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7) | [Nature Trip](https://open.spotify.com/artist/6pgJjdomiwN8ryoe9Ukqgg) | [Feel Good](https://open.spotify.com/album/14lddxFbU85X0qQCReRlW5) | 3:42 |
 | 50 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 |
 
-Snapshot ID: `MCxjZTk2NjhjOTMxMWEwOGYyYWFhN2QxZjk1N2M5NzA1ZjhiZjVmZDI3`
+Snapshot ID: `MCw5YjE5OTQ1ODY0MjJkMThiYjhiZjVjODc5ODgzMDVhOTJiNDk5ZWEx`

@@ -1,12 +1,12 @@
 {
   "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 215092,
+  "num_followers": 215160,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWExNWM3ZTkyZjg1NTA5Y2JhZjFhMGMyZTBjNzlmZmE2ZDgwMWUz",
+  "snapshot_id": "MCxjYTg4NTlhYzVjMTA3ZWNmNTg1NjJhMTYwMzA4Nzc3ZTY3NDE0MTZi",
   "tracks": [
     {
       "added_at": "2023-09-04 13:55:54",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 144686,
+      "name": "Que Se V\u00e1",
+      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
         "name": "Feir\u00e3o dos 23",
         "url": "https://open.spotify.com/album/0ZYNF7WWXHIzVj7iVri3st"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 157608,
       "name": "Feir\u00e3o dos 23",
       "url": "https://open.spotify.com/track/4V1MOX0xhbRroh6YBmAVZg"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 144686,
-      "name": "Que Se V\u00e1",
-      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
     },
     {
       "added_at": "2023-09-04 13:55:54",
@@ -615,30 +615,6 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
         "name": "Zero Chances (Ao Vivo)",
         "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 138240,
       "name": "Choices",
       "url": "https://open.spotify.com/track/6R2kAOhzSAQekI8Z5PL6Yq"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
       "added_at": "2023-09-04 13:55:54",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
-        "name": "OCF",
-        "url": "https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL"
-      },
-      "artists": [
-        {
-          "name": "Jovem Sam",
-          "url": "https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq"
-        },
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "shots!",
-          "url": "https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49"
-        }
-      ],
-      "duration_ms": 132767,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
         "name": "Novinha do Peito Bicudo",
         "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
       },
@@ -1143,6 +1119,30 @@
     {
       "added_at": "2023-09-04 13:55:54",
       "album": {
+        "name": "OCF",
+        "url": "https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL"
+      },
+      "artists": [
+        {
+          "name": "Jovem Sam",
+          "url": "https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq"
+        },
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "shots!",
+          "url": "https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49"
+        }
+      ],
+      "duration_ms": 132767,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
         "name": "Nova Wave, Pt. 2",
         "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
       },
@@ -1155,26 +1155,6 @@
       "duration_ms": 162767,
       "name": "1 Minuto",
       "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
-    },
-    {
-      "added_at": "2023-09-04 13:55:54",
-      "album": {
-        "name": "A noite toda",
-        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
-      },
-      "artists": [
-        {
-          "name": "Lionel",
-          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "A noite toda",
-      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
     },
     {
       "added_at": "2023-09-04 13:55:54",
@@ -1195,6 +1175,26 @@
       "duration_ms": 121234,
       "name": "KEN ELAS QUER",
       "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
+    },
+    {
+      "added_at": "2023-09-04 13:55:54",
+      "album": {
+        "name": "A noite toda",
+        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
+      },
+      "artists": [
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "A noite toda",
+      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
     },
     {
       "added_at": "2023-09-04 13:55:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,185 likes - 66 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,195 likes - 66 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 24 | [Washmallay](https://open.spotify.com/track/7MnG9O1elO5CgovlcPFDha) | [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Akhtar Chanal Zahri](https://open.spotify.com/artist/3ksxqQoPGgPNJOgUgJbYGm), [Momin Durrani](https://open.spotify.com/artist/0kEMc7jg4WgXyI0WleNP2i) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:14 |
 | 25 | [Kadi Aao Ni](https://open.spotify.com/track/1ig1Su1Pqdxh3Zx1KAY0Mz) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Mai Dhai](https://open.spotify.com/artist/2bhqzypxtk5TJRHZLZMJ4u) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 7:40 |
 | 26 | [Ve Baneya](https://open.spotify.com/track/64nhyznrBoZyOWVc6XRVoH) | [Fizza Javed](https://open.spotify.com/artist/4KCet1OcRcgSIEmiN0ZRQQ), [Mulazim](https://open.spotify.com/artist/6OeFYfYFV400uUJvFdJLFN) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 7:44 |
-| 27 | [Hina Ki Khushbu](https://open.spotify.com/track/1x7EQWtSK7mEnxVpl8Ezed) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Samra Khan](https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 7:16 |
+| 27 | [Hina Ki Khushbu](https://open.spotify.com/track/7Lnuzd3yjL157DIwvhTM6p) | [Samra Khan](https://open.spotify.com/artist/00iqSJrAQK98EecNCa4fd4), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Coke Studio Season 8 Episode 5](https://open.spotify.com/album/00mLX0tIoZSWSms6EjlpkR) | 7:16 |
 | 28 | [Piya Dehkan Ko](https://open.spotify.com/track/1frGW887ZzFysJHMdq2Mmj) | [Nafees Ahmed Khan](https://open.spotify.com/artist/6wa7LgT2horYsbx5pmbOa9), [Hamid Ali Khan](https://open.spotify.com/artist/4PA27e3ypP9ssjueNFy6PA) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:31 |
 | 29 | [Rung Jindri](https://open.spotify.com/track/714jbRo5GFOuQJW7fRBmtb) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:00 |
 | 30 | [Neun La Leya](https://open.spotify.com/track/5D40N8eVvzlzZE19FikJ2A) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 7:16 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 65 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 |
 | 66 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 |
 
-Snapshot ID: `MCw0MmM0Mjc1M2ZiMTM0MjNmYzAzZGM2OWM2YThjMDc1ODRiZDNiYTIy`
+Snapshot ID: `MCwxOWQ1Yzc4MWQ4ZDc3NDEwNzFhODkwMGFjYWUxZTEzZDNhNDBiMjUw`

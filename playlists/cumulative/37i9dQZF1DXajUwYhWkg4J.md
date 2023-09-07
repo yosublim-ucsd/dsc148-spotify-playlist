@@ -4,7 +4,7 @@
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-58 songs - 7 hr 55 min
+59 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/track/0oUnOn5CpCXi08LPK4UpkW) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/album/6fOcQ6APpoYvwKwrZ08Tob) | 7:02 | 2022-01-16 |  |
 | [Shikwa Jawab\-e\-Shikwa](https://open.spotify.com/track/1oLixlY12lnkLPReWCEeBU) | [Fareed Ayaz Abu Muhammad Qawwal & Brothers](https://open.spotify.com/artist/7koP6nz3zSkVbi2TQfZfV8), [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 13:05 | 2022-01-16 |  |
 | [Soz\-e\-Ishq](https://open.spotify.com/track/1xsoG21N5qgJ7IUoCYXtbx) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 9:57 | 2022-01-16 |  |
-| [Tajdar\-E\-Haram](https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 10:16 | 2022-01-16 |  |
+| [Tajdar\-E\-Haram](https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 10:16 | 2022-01-16 | 2023-09-07 |
+| [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Tajdar\-E\-Haram Coke Studio Season 8](https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t) | 10:16 | 2022-10-12 |  |
 | [Tu Jhoom](https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a) | [Tu Jhoom](https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi) | 6:37 | 2022-01-16 | 2022-07-29 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-01-16 |  |
 | [Tu Kuja Man Kuja](https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 8:42 | 2022-01-16 |  |

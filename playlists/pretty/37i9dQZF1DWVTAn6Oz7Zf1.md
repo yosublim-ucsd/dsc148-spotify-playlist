@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > In cerca di energie? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,356 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,368 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 65 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
 | 66 | [I Will Survive](https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA) | [Belters Only](https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD) | 2:30 |
 | 67 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
-| 68 | [You're Free](https://open.spotify.com/track/0KF938333oCvIXDxe72K44) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [You're Free](https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM) | 2:47 |
-| 69 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
-| 70 | [Real Love](https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:15 |
+| 68 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
+| 69 | [Real Love](https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:15 |
+| 70 | [You're Free](https://open.spotify.com/track/0KF938333oCvIXDxe72K44) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [You're Free](https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM) | 2:47 |
 | 71 | [Floating Through Space](https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:57 |
 | 72 | [Crazy Love](https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh) | 3:06 |
 | 73 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 |
 | 80 | [Never Love You Again](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 |
 
-Snapshot ID: `MCxjOTlkMzdkZjdlMWRiNDgxODNmYTUwYzMxMTFhYmI5OWE4YmZhMTE2`
+Snapshot ID: `MCw1ZDZkOTAwZWU1MmRiNDVkZjMzMTBkOWI0OGQ5ODM1MDAyMmZkZmU1`

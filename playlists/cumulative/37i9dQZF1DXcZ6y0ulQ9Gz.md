@@ -4,7 +4,7 @@
 
 > An eclectic mix of past & current Indie favourites\. Cover: Lana Del Rey
 
-682 songs - 1 day 17 hr 34 min
+683 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Jimmy Jimmy \(feat\. AJ Tracey\)](https://open.spotify.com/track/4Iv2jOCKQakC3YWhijrRKK) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Meanwhile EP](https://open.spotify.com/album/0q19TmDISPRbmRIZJyrEz6) | 3:03 | 2022-03-25 | 2022-04-16 |
 | [Juliette](https://open.spotify.com/track/0YJOBRvAkRpgi4CIyYss2U) | [Hollerado](https://open.spotify.com/artist/4eNWAiPUXRaPmyWSc9glM3) | [Record In A Bag](https://open.spotify.com/album/5QxAu24Q5ayot44WWfw2Hr) | 3:06 | 2020-10-29\* | 2022-04-09 |
 | [Jungle \(Radio Edit\)](https://open.spotify.com/track/5GI8QlM6RlyZjegB9CFk7U) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/2peYRO0S43aoxn8N3E4qAU) | 3:57 | 2021-02-22 | 2022-04-15 |
-| [Just for Me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2022-08-23 |  |
+| [Just for Me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2022-08-23 | 2023-09-07 |
 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2022-08-23 | 2023-02-11 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-08-23 | 2023-02-11 |
 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2022-09-23 |  |
@@ -673,6 +673,7 @@
 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 | 2021-01-15 | 2021-03-17 |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2022-08-23 |  |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2022-08-23 | 2023-02-11 |
+| [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2023-06-30 |  |
 | [Woman \- Single Version](https://open.spotify.com/track/1HG8xfsFVtu415WNChKcoa) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Woman](https://open.spotify.com/album/5pBcDtTiPzadrV8p4uJ9Jh) | 4:05 | 2021-02-25 | 2022-04-16 |
 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 | 2023-02-10 |  |
 | [Working for the Knife](https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Working for the Knife](https://open.spotify.com/album/5z1bA7zhlWlyBgBA2rN4uE) | 2:38 | 2022-08-23 | 2023-02-11 |

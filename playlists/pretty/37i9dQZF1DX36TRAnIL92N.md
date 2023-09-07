@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,280 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,865 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 26 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 |
 | 27 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
 | 28 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 |
-| 29 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
-| 30 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 |
+| 29 | [Sakura](https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs), [Prinz \(DE\)](https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK) | [Sakura](https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6) | 4:28 |
+| 30 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
 | 31 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
 | 32 | [Veritas](https://open.spotify.com/track/6KVUpPL8NJSDHt6OYAi2A8) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Veritas](https://open.spotify.com/album/7fKwFEf1MWzZN6kpuCBPGj) | 7:06 |
 | 33 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 50 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 |
 
-Snapshot ID: `MCwyM2Y3ZmJmZjM4NmQ2ODEzMjAwZTMwMjE0Y2UzZjllYzVkMGFhYjgy`
+Snapshot ID: `MCwzNzZiOWUyMTcwYmY1N2MwY2Q2YTk4M2NhMzhmMzJlZjkzNGIzMzc4`

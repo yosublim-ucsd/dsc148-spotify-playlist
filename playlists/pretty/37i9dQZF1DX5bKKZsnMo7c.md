@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Cody Fry
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,379 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,484 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 54 | [Flower](https://open.spotify.com/track/665GayQvSikGzkwQl32TVy) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Flower](https://open.spotify.com/album/121svdnIrfyYHaJoc62KB2) | 3:10 |
 | 55 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 |
 | 56 | [Saint Bernard](https://open.spotify.com/track/4YTFAawmOFyRjJdT6H95oE) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167) | 1:43 |
-| 57 | [Misery Meat](https://open.spotify.com/track/56sNhxLlrFYCbR0JFaK6w0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/1GuNa6xVjgJIPS0VNll8TR) | 1:04 |
+| 57 | [Misery Meat](https://open.spotify.com/track/7EZWdBiXeyqE0digwKa3k0) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [Misery Meat](https://open.spotify.com/album/7MVwT9ho5LaOBu5X4lk4De) | 1:04 |
 | 58 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 |
 | 59 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
 | 60 | [In The Morning](https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [In The Morning](https://open.spotify.com/album/75NiNeiZxUtPBIg5qORqnA) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 79 | [feral canadian scaredy cat](https://open.spotify.com/track/1ew1R0vY1hqwYQQTHXCiQX) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [feral canadian scaredy cat](https://open.spotify.com/album/5sMayuz5wi235vdum4wpj1) | 3:04 |
 | 80 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
 
-Snapshot ID: `MCxjMTFjMzk4ZmUxNWY3YTA0OGEzYjQ0MjIyNmRiOWRhNGJlOTcyOWM0`
+Snapshot ID: `MCw2YmU4Mzk1YzBiMGJlNWNhOWQ0ZThiOGZjZDEzMjQzYTJkNmQxNmJi`

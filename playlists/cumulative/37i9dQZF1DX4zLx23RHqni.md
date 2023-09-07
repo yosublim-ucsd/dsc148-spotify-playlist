@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie
 
-57 songs - 3 hr 49 min
+58 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Hey Singari](https://open.spotify.com/track/0uQoEdoRff5G6tY64bdDH3) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/79LcnpTBgWcooeqouIf8We) | 3:51 | 2021-12-01 |  |
 | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/track/1Af3YD9ZL83s9hYMk3s8HX) | [Rajasekar\. P](https://open.spotify.com/artist/4luU9WsXlFSO6cEjJ2VHi1) | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/album/7mRoK0kbC9SKdaqXiYE5Wa) | 3:10 | 2021-12-01 |  |
 | [Kaatru Veliyidai Kannamma](https://open.spotify.com/track/1UPGCtNw7TAxHKrSgyW7Jy) | [B Prasanna](https://open.spotify.com/artist/52PpuOby7bl7I1s3UiO5Qu), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Harish Venkat](https://open.spotify.com/artist/5m8LjXS3VaOGVm1dT9yvhP), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC), [Sharanya Shrinivas](https://open.spotify.com/artist/6ATp6oChAB0Uzz4YmJw3ZR) | [Kaatru Veliyidai Kannamma](https://open.spotify.com/album/6UQbVmBoNCMMdCatoofiVo) | 5:13 | 2021-12-01 | 2023-06-24 |
+| [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/track/3NPTh47MYRAQuX6ydBgEBd) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Kadhal Fantasy \(From "Vinveli Devathai"\)](https://open.spotify.com/album/1eVn8feu0kQOjOLA7x20gO) | 3:44 | 2023-09-06 |  |
 | [Kadhal Vandhu](https://open.spotify.com/track/0dQbBeFwLWebWL1GtEurFr) | [Soundarya Bala Nandakumar](https://open.spotify.com/artist/1O6cydr7vk4hJk2OkLECd0), [Ramkumar Ramji](https://open.spotify.com/artist/4FyD3buxwVDilOy1vtupro) | [Kadhal Vandhu](https://open.spotify.com/album/6zi5AqYPtonbBZo9dqhPrY) | 4:03 | 2021-12-01 |  |
 | [Kanave Kalayathe](https://open.spotify.com/track/0AgDGpvT9dtM2ZfAMejHC8) | [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK) | [Kanave Kalayathe](https://open.spotify.com/album/2sQIdNNlcMNyG5Ml6Xch6v) | 5:08 | 2021-12-01 |  |
 | [Kanavellam](https://open.spotify.com/track/3YxK4m96nKH7Vw3vX1B04p) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2) | [Kanavellam](https://open.spotify.com/album/1PA3JsfwH3N8TRnuSwWIlw) | 4:36 | 2021-12-01 |  |

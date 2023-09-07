@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 233737,
+  "num_followers": 233776,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
+  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Chrysaline",
         "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Kyrie Eleison (It's Mercy We Need)",
+        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
+      },
+      "artists": [
+        {
+          "name": "Elias Dummer",
+          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 261239,
+      "name": "Kyrie Eleison (It's Mercy We Need)",
+      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 100240,
       "name": "Pilot",
       "url": "https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Kyrie Eleison (It's Mercy We Need)",
-        "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
-      },
-      "artists": [
-        {
-          "name": "Elias Dummer",
-          "url": "https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi"
-        },
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 261239,
-      "name": "Kyrie Eleison (It's Mercy We Need)",
-      "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
       "artists": [
         {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Leaving The 99 (Remix)",
         "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 235153,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Feel Holy",
         "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 331800,
       "name": "Feel Holy",
       "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
+      },
+      "artists": [
+        {
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Natural Killer",
-        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
-      },
-      "artists": [
-        {
-          "name": "Truslow",
-          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
-        }
-      ],
-      "duration_ms": 224181,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/4OxKwDgLuX1kuIqJh7AF7Q"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 283707,
       "name": "Stream",
       "url": "https://open.spotify.com/track/4KOP4xmCdhMu6trazcOdy6"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Natural Killer",
+        "url": "https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV"
+      },
+      "artists": [
+        {
+          "name": "Truslow",
+          "url": "https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv"
+        }
+      ],
+      "duration_ms": 224181,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Treehouse",
-        "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
-      },
-      "artists": [
-        {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Keep Hopin'",
         "url": "https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 167076,
       "name": "Keep Hopin'",
       "url": "https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "W O U N D E D H E A R T",
-        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "W O U N D E D H E A R T",
-      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 269353,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "W O U N D E D H E A R T",
+        "url": "https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        }
+      ],
+      "duration_ms": 166186,
+      "name": "W O U N D E D H E A R T",
+      "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"
     },
     {
       "added_at": "2022-12-16 05:02:00",

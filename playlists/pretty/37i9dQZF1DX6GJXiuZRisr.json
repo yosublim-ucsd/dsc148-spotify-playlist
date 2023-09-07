@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1522686,
+  "num_followers": 1523001,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWVjN2MwY2Q3Y2IyZmM3YjYzNGZiZmMyYzdjM2Q5YTkzMzlkNGY2",
+  "snapshot_id": "MCwyZWQyMGM3NzhlMTRiNWEyN2ZiZDAyNzFlNWFiYjFjZjgxYjE3Yzcw",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "The Maker",
-        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 156795,
-      "name": "The Maker",
-      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Further Away",
         "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 194285,
       "name": "Further Away",
       "url": "https://open.spotify.com/track/5w6NzsoExb9pPhoEN9aWRc"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "The Maker",
+        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 156795,
+      "name": "The Maker",
+      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Age of Love (ARTBAT Rave Mix)",
-        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Pete Tong",
-          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
-        }
-      ],
-      "duration_ms": 445440,
-      "name": "Age of Love - ARTBAT Rave Mix",
-      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "About Us (feat. EMME)",
         "url": "https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Age of Love (ARTBAT Rave Mix)",
+        "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        }
+      ],
+      "duration_ms": 445440,
+      "name": "Age of Love - ARTBAT Rave Mix",
+      "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Little Darling (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "Little Darling - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 207334,
       "name": "Greece 2000",
       "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Little Darling (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "Little Darling - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1535,26 +1535,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Need To Feel Loved (Cristoph Remix)",
-        "url": "https://open.spotify.com/album/68VTCayg2z4pmDf9XjtExN"
+        "name": "Coming Home (feat. John Martin)",
+        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
       },
       "artists": [
         {
-          "name": "Reflekt",
-          "url": "https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "delline bass",
-          "url": "https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
         }
       ],
-      "duration_ms": 466560,
-      "name": "Need To Feel Loved - Cristoph Remix",
-      "url": "https://open.spotify.com/track/6jJmzpQaOJmcay1UG4CYm0"
+      "duration_ms": 212812,
+      "name": "Coming Home (feat. John Martin)",
+      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1583,6 +1579,46 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Need To Feel Loved (Cristoph Remix)",
+        "url": "https://open.spotify.com/album/68VTCayg2z4pmDf9XjtExN"
+      },
+      "artists": [
+        {
+          "name": "Reflekt",
+          "url": "https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno"
+        },
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "delline bass",
+          "url": "https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk"
+        }
+      ],
+      "duration_ms": 466560,
+      "name": "Need To Feel Loved - Cristoph Remix",
+      "url": "https://open.spotify.com/track/6jJmzpQaOJmcay1UG4CYm0"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1607,38 +1643,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Out Of Reach",
         "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
@@ -1659,6 +1663,22 @@
       "duration_ms": 255991,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1703,26 +1723,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Coming Home (feat. John Martin)",
-        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Coming Home (feat. John Martin)",
-      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1743,58 +1743,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Hide and Seek (Le Youth Remix)",
-        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        },
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        }
-      ],
-      "duration_ms": 231288,
-      "name": "Hide and Seek - Le Youth Remix",
-      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh"
       },
@@ -1807,70 +1755,6 @@
       "duration_ms": 147360,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "You Take My Hand",
-        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Jamie Irrepressible",
-          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
-        }
-      ],
-      "duration_ms": 315861,
-      "name": "You Take My Hand",
-      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Hard To Breathe (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/7vGQzOXzYfLoEIkiZ26QXQ"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 230497,
-      "name": "Hard To Breathe (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/4aBLX1KrJim9OnvnTNfD2t"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1895,6 +1779,138 @@
       "duration_ms": 460780,
       "name": "Origin",
       "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Hide and Seek (Le Youth Remix)",
+        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        },
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        }
+      ],
+      "duration_ms": 231288,
+      "name": "Hide and Seek - Le Youth Remix",
+      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Hard To Breathe (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/7vGQzOXzYfLoEIkiZ26QXQ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 230497,
+      "name": "Hard To Breathe (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/4aBLX1KrJim9OnvnTNfD2t"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Discopolis 2.0 (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/69RPZXcg3PGWRsWWiP4Mds"
       },
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Deep Space",
         "url": "https://open.spotify.com/album/4LBZQ53rwA424Ej7YFQc9F"
       },
@@ -2027,26 +2043,6 @@
       "duration_ms": 181209,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "All I Want (feat. Goatchy)",
-        "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
-      },
-      "artists": [
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Goatchy",
-          "url": "https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh"
-        }
-      ],
-      "duration_ms": 224978,
-      "name": "All I Want (feat. Goatchy)",
-      "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
     }
   ],
   "unique_name": "Night Rider",

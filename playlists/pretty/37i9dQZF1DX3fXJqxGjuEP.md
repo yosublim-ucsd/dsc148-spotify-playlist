@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,251 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,361 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 43 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
 | 44 | [Aloha](https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aloha](https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi) | 3:07 |
 | 45 | [Black Catbird](https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc) | 2:45 |
-| 46 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 |
-| 47 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
+| 46 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
+| 47 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 |
 | 48 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
 | 49 | [Caramelo](https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:23 |
 | 50 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 83 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 84 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 85 | [Sonreír](https://open.spotify.com/track/748Vnqa1Rpwteiarxartiz) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Sonreír](https://open.spotify.com/album/3LHWZe8qOBLft1AQNdiuIk) | 3:31 |
-| 86 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
-| 87 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
+| 86 | [Te Queria](https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:02 |
+| 87 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
 | 88 | [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 |
 | 89 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 90 | [Cumbia Reggae](https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Easy and Tropical Machine](https://open.spotify.com/album/2xuXKaxaZ613NFmMZA6m26) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
 | 100 | [Espiritual](https://open.spotify.com/track/5XU7fx5eLBb8C3uFYqikrQ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Espiritual](https://open.spotify.com/album/0pzR57yGM9wOsRzmVU64lP) | 3:51 |
 
-Snapshot ID: `MCxiY2Q5MWQzNzFmMzdlZGQ5ZmU1MDlhNDhjNzgxN2ZjZTQ2Mjk2N2Y3`
+Snapshot ID: `MCwxYjQ3MzA3NGNlYmZjNzdhZWRlMGM4ZWIyNjVjNWUyYTEzYWVhNzg3`

@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 70412,
+  "num_followers": 70432,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTIzMjc3MDc1MjY5ZjYwMjI2ZjZkMjgwZmM1YWYyOTFhNGYwODVk",
+  "snapshot_id": "MCw5ZjJhYmY5OGY3ODE4MTNlY2I4MjJlYjk3OGY1N2U5YTRjMTg4OTRk",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Ein farfar i livet",
-      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2023",
         "url": "https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 156189,
       "name": "For v\u00e5r jord",
       "url": "https://open.spotify.com/track/7ERi1NHykO7dt8f1lmyCTn"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Ein farfar i livet",
+      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Bestevenn",
+      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Varme Ut Av Is",
         "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Bestevenn",
-      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 219088,
       "name": "Kj\u00e6rlighetsvisa",
       "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Spindelvevriff",
+        "url": "https://open.spotify.com/album/0yjOYxaM1JEuI8hT2N1d4S"
+      },
+      "artists": [
+        {
+          "name": "Janove",
+          "url": "https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI"
+        }
+      ],
+      "duration_ms": 274124,
+      "name": "Bak En Sky Heim",
+      "url": "https://open.spotify.com/track/5FZQMbggBnCwKMo1UBIU6Z"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -371,22 +387,6 @@
       "duration_ms": 265400,
       "name": "Ka e du redd for",
       "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Spindelvevriff",
-        "url": "https://open.spotify.com/album/0yjOYxaM1JEuI8hT2N1d4S"
-      },
-      "artists": [
-        {
-          "name": "Janove",
-          "url": "https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI"
-        }
-      ],
-      "duration_ms": 274124,
-      "name": "Bak En Sky Heim",
-      "url": "https://open.spotify.com/track/5FZQMbggBnCwKMo1UBIU6Z"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Sangen om Gleden",
+        "url": "https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C"
+      },
+      "artists": [
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+        }
+      ],
+      "duration_ms": 323880,
+      "name": "Sangen om Gleden",
+      "url": "https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -799,22 +819,6 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260778,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -839,18 +843,18 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
       "artists": [
         {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+      "duration_ms": 260778,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     },
     {
       "added_at": "2023-08-31 22:00:00",

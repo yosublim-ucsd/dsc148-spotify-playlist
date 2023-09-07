@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,172 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,231 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 |
 | 50 | [Moon](https://open.spotify.com/track/77WrUAbySLHjGwd5n9B7WN) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Moon](https://open.spotify.com/album/751vSwVvqQCaz8biSgNGHK) | 3:01 |
 
-Snapshot ID: `MCw1NGViMjA3MTgyZDU0ZThmZjgyZjIzY2Y5MmI0NTlkZWQ3NGVhMDhl`
+Snapshot ID: `MCwzNjExMGExN2M0ODliMjIwMmNiZWQ0ZmY1MTI4MzM3YTRmZWE5NWFl`

@@ -1,12 +1,12 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before. Cover: Lennon Stella. ",
-  "num_followers": 438505,
+  "num_followers": 438601,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWViMWFjNjBkYWZlMWU1ZWNhZjE4YTA5MTc1YzM3YmE3NWRhNzU5",
+  "snapshot_id": "MCxjMzkwMjcxNWUyMGY4NmQ3NDI3MmQ3MzkwOTRjZGZlNTVkZTMzMzMy",
   "tracks": [
     {
       "added_at": "2023-08-31 18:57:57",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-08-31 18:57:57",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
       },
@@ -543,22 +563,18 @@
     {
       "added_at": "2023-08-31 18:57:57",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "Calpurnia",
+          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
         }
       ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+      "duration_ms": 243053,
+      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -575,22 +591,6 @@
       "duration_ms": 157025,
       "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo"
-      },
-      "artists": [
-        {
-          "name": "Calpurnia",
-          "url": "https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Say It Ain't So - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -676,22 +676,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 173889,
-      "name": "Solar Power - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
       "artists": [
@@ -708,17 +692,17 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+        "url": "https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+      "duration_ms": 173889,
+      "name": "Solar Power - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -735,6 +719,22 @@
       "duration_ms": 189725,
       "name": "Don't Matter - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3yyWyHmynAWWCPASifJ7Ev"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -872,22 +872,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "U Remind Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC"
       },
       "artists": [
@@ -899,6 +883,22 @@
       "duration_ms": 147427,
       "name": "7 Years (Acoustic) - Recorded at Spotify Studios Nyc",
       "url": "https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "U Remind Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -1068,22 +1068,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
       },
       "artists": [
@@ -1095,6 +1079,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -1132,6 +1132,22 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8"
       },
       "artists": [
@@ -1147,22 +1163,6 @@
       "duration_ms": 233414,
       "name": "Girl from the North Country - (Hot Country Artists to Watch) - Spotify Singles",
       "url": "https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -1440,22 +1440,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 152377,
-      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
-      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP"
       },
       "artists": [
@@ -1467,6 +1451,22 @@
       "duration_ms": 157499,
       "name": "D\u00c1KITI \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 152377,
+      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
+      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -1576,26 +1576,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 269382,
-      "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
       "artists": [
@@ -1623,6 +1603,26 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 269382,
+      "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -1760,22 +1760,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 255126,
-      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
       },
       "artists": [
@@ -1787,6 +1771,22 @@
       "duration_ms": 221361,
       "name": "Let Me Love You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -1948,22 +1948,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
       },
       "artists": [
@@ -1975,6 +1959,22 @@
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -1996,22 +1996,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
       "artists": [
@@ -2023,6 +2007,22 @@
       "duration_ms": 189248,
       "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -2268,22 +2268,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD"
       },
       "artists": [
@@ -2295,6 +2279,22 @@
       "duration_ms": 198629,
       "name": "lovely - Spotify Singles",
       "url": "https://open.spotify.com/track/7FHDb1W6EtQq7WnoX73Rpy"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2023-08-31 18:57:57",
       "album": {
-        "name": "Strawberry Wine - Spotify Singles",
-        "url": "https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy"
-      },
-      "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 260368,
-      "name": "Strawberry Wine - Spotify Singles",
-      "url": "https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 308756,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Strawberry Wine - Spotify Singles",
+        "url": "https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 260368,
+      "name": "Strawberry Wine - Spotify Singles",
+      "url": "https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2"
     },
     {
       "added_at": "2023-08-31 18:57:57",
@@ -2400,22 +2400,6 @@
       "added_at": "2023-08-31 18:57:57",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 152533,
-      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
-    },
-    {
-      "added_at": "2023-08-31 18:57:57",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
       "artists": [
@@ -2427,6 +2411,22 @@
       "duration_ms": 205583,
       "name": "For You - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
+    },
+    {
+      "added_at": "2023-08-31 18:57:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
     },
     {
       "added_at": "2023-08-31 18:57:57",

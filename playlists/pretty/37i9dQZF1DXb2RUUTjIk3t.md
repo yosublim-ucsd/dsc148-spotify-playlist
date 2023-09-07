@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,236 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,254 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 57 | [Turn the Lights Down Low](https://open.spotify.com/track/1SNhcEKK6m83oLxLWQJcqk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Pink Room](https://open.spotify.com/album/1Hu2L5nA5Rg48bKOtIkmJB) | 3:12 |
 | 58 | [Vanilla Ice Cream](https://open.spotify.com/track/5nK8YwcjEblpT8RCYgGq0o) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Vanilla Ice Cream](https://open.spotify.com/album/0xv3zhCfQjHLlWnTeU0Cm6) | 3:25 |
 | 59 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 |
-| 60 | [Ceras rosas](https://open.spotify.com/track/7nfY4G4nryfLd0G5iDTa11) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [Ceras rosas](https://open.spotify.com/album/6RAhScfYKkFRzmUvvsn2NC) | 3:10 |
+| 60 | [Ceras rosas](https://open.spotify.com/track/7nfY4G4nryfLd0G5iDTa11) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Ceras rosas](https://open.spotify.com/album/6RAhScfYKkFRzmUvvsn2NC) | 3:10 |
 | 61 | [Enjoy The Night](https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo) | [Enjoy The Night](https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn) | 3:13 |
 | 62 | [frown](https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:19 |
 | 63 | [Guilty Pleasure](https://open.spotify.com/track/7kwejfjT6uVl3KxDBKC2b6) | [Francesco De Leo](https://open.spotify.com/artist/3PpiZ8N2SEIctxgh7iDuiU), [Lucia Manca](https://open.spotify.com/artist/5DHfordpyNL7yXbVTLeed4) | [Swarovski](https://open.spotify.com/album/1jnNba0j3Is9I0bEqAPfRF) | 3:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 74 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 |
 | 75 | [Dusty Issues](https://open.spotify.com/track/27Kcb2Hslz0lSplnxVmmQk) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Dusty Issues](https://open.spotify.com/album/1kBh2A0rSYYbNVoCaNsjdQ) | 2:04 |
 
-Snapshot ID: `MCw5YWYzNjUzYjNjNDg1ZmJjODViMThhNTIxYzQ3NWVjMTliNjYzZjk1`
+Snapshot ID: `MCw3NmEwZGFkYjk5OWU1ZDBiMTUwOWM2NmRkNzNiNjhlNmFmOWMyZDU4`

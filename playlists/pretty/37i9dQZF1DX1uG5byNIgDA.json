@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 223298,
+  "num_followers": 223309,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODY0N2YwZDUwYWM5ZTM1ZDNiYWZlMTkwNDFjNDQ0YjMzMDA4Njgy",
+  "snapshot_id": "MCxiMmJmMmU3Y2EwNTkwNzFjZDNiYzJiNTVjOGIwYjQzYzlmYTY2ZTlh",
   "tracks": [
     {
       "added_at": "2023-08-24 02:20:42",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
+      "duration_ms": 196170,
+      "name": "Tamed-Dashed",
+      "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "DIMENSION : DILEMMA",
-        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 196170,
-      "name": "Tamed-Dashed",
-      "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "Unlock My World",
-        "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 169906,
-      "name": "#menow",
-      "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
-    },
-    {
-      "added_at": "2023-08-24 02:20:42",
-      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 181196,
       "name": "Not For Sale",
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
+    },
+    {
+      "added_at": "2023-08-24 02:20:42",
+      "album": {
+        "name": "Unlock My World",
+        "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 169906,
+      "name": "#menow",
+      "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
     },
     {
       "added_at": "2023-08-24 02:20:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-24 02:20:42",
       "album": {
-        "name": "Midnight Guest",
-        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "DM",
-      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
-    },
-    {
-      "added_at": "2023-08-24 02:20:42",
-      "album": {
         "name": "SQUARE UP",
         "url": "https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 198866,
       "name": "See U Later",
       "url": "https://open.spotify.com/track/2REoTZjaB3jyAt5dgkV5GK"
+    },
+    {
+      "added_at": "2023-08-24 02:20:42",
+      "album": {
+        "name": "Midnight Guest",
+        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
     },
     {
       "added_at": "2023-08-24 02:20:42",

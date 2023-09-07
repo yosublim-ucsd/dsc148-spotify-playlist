@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 279068,
+  "num_followers": 279221,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzVjZWE0OTM4MDBjMTNmMzU4OTU4NTYzZDJjZTIyZjgyNGRmZjZh",
+  "snapshot_id": "MCxmODI0NmQwMTZiODI1ODA0MTQ2ZGI5YWRmMGI4NDYzNDlhZmE4Nzdi",
   "tracks": [
     {
       "added_at": "2023-08-29 06:11:23",
@@ -147,26 +147,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Indoor Voyager EP",
-        "url": "https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 545813,
-      "name": "Tarlabasi - Be Svendsen Remix",
-      "url": "https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "In Control (feat. Selin)",
         "url": "https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 179232,
       "name": "In Control (feat. Selin)",
       "url": "https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Indoor Voyager EP",
+        "url": "https://open.spotify.com/album/29wjqxriGDiYH1kFs4njxY"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 545813,
+      "name": "Tarlabasi - Be Svendsen Remix",
+      "url": "https://open.spotify.com/track/4cIDajUp2dMjKiDmDvFDg8"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Nu Vreau",
+        "url": "https://open.spotify.com/album/0ee7ZElrlFTTPATQV9OUJZ"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Nu Vreau",
+      "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Nu Vreau",
-        "url": "https://open.spotify.com/album/0ee7ZElrlFTTPATQV9OUJZ"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 193149,
-      "name": "Nu Vreau",
-      "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -783,18 +783,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
       },
       "artists": [
         {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
         }
       ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -815,22 +819,18 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
       "artists": [
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
         }
       ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Talk About Us",
-        "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
-      },
-      "artists": [
-        {
-          "name": "Ata Oztuna",
-          "url": "https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP"
-        },
-        {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
-        }
-      ],
-      "duration_ms": 196909,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Talk About Us",
+        "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
+      },
+      "artists": [
+        {
+          "name": "Ata Oztuna",
+          "url": "https://open.spotify.com/artist/2uhas3Xg5Hy0O5lWb0m2nP"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 196909,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 430769,
       "name": "Anlar",
       "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1123,26 +1143,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Prophecies of the Ancient Future",
         "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Dahlia Girl",
         "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 197052,
       "name": "Dahlia Girl",
       "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+        "name": "Watra",
+        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+      "duration_ms": 141754,
+      "name": "Watra",
+      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
     },
     {
       "added_at": "2023-08-29 06:11:23",

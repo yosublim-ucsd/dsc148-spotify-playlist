@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Silvina Moreno",
-  "num_followers": 176987,
+  "num_followers": 177021,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTFhNTgzMTIxN2RlODMzMjQ5MmIwZjA1MTU4MTg0MjAwNGE3OGVi",
+  "snapshot_id": "MCw5N2U2MmQyNWQ4ZmUyZTVkMjJjNzliNTUwODU3ZDU3YTM2Mjk5YzIw",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 302280,
-      "name": "Sigo Caminando",
-      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Caminos Br\u00edos",
         "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 337538,
       "name": "DOCTORA II",
       "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Tanta Magia (En Vivo En El Gran Rex / 2015)",
         "url": "https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 214986,
       "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
       "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "No S\u00e9 Si Es Baires O Madrid",
-        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 237946,
-      "name": "11 y 6",
-      "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "No S\u00e9 Si Es Baires O Madrid",
+        "url": "https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 237946,
+      "name": "11 y 6",
+      "url": "https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/2NuOfxucLkgP5MsLRkU6Ej"
-      },
-      "artists": [
-        {
-          "name": "Purahei Soul",
-          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
-        }
-      ],
-      "duration_ms": 218781,
-      "name": "Desapego",
-      "url": "https://open.spotify.com/track/7ByPSNnUNiphi4BD9ZkrHO"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 265080,
       "name": "M\u00edrenla (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Desapego",
+        "url": "https://open.spotify.com/album/2NuOfxucLkgP5MsLRkU6Ej"
+      },
+      "artists": [
+        {
+          "name": "Purahei Soul",
+          "url": "https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p"
+        }
+      ],
+      "duration_ms": 218781,
+      "name": "Desapego",
+      "url": "https://open.spotify.com/track/7ByPSNnUNiphi4BD9ZkrHO"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Oma",
-        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Oma",
-      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "sin miedo // acoustic",
         "url": "https://open.spotify.com/album/1E7wN2lvLdZmoAmIXmPtRd"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 189283,
       "name": "fue mejor // acoustic",
       "url": "https://open.spotify.com/track/2RjrsjKraJjQUYdCYQ30ap"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Oma",
+        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198405,
+      "name": "Oma",
+      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 180778,
+      "name": "Un D\u00eda Lo Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "M\u00e1gica",
         "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 278964,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Un D\u00eda Lo Encontr\u00e9",
-      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-09-01 03:00:00",

@@ -336,7 +336,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 355561,
       "name": "Ae Dil Kisi Ki Yaad Mein",
       "url": "https://open.spotify.com/track/335kskxwq8xBigEXYBQ61e"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 523456,
       "name": "Ambwa Talay",
       "url": "https://open.spotify.com/track/0IZxq1EpEmgIbqa2TGo7Yl"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 436542,
       "name": "Hina Ki Khushbu",
       "url": "https://open.spotify.com/track/1x7EQWtSK7mEnxVpl8Ezed"
@@ -6544,7 +6544,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 331270,
       "name": "Saiyaan",
       "url": "https://open.spotify.com/track/5UbT96KL7MEQLoVK3oC4fM"
@@ -7108,10 +7108,28 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 616509,
       "name": "Tajdar-E-Haram",
       "url": "https://open.spotify.com/track/5euB7CZQXxjqe2s2Bb8KWl"
+    },
+    {
+      "album": {
+        "name": "Tajdar-E-Haram Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/7aRy86clBdnxlPi1Mo6t3t"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/2TuNVD5u5iAslHp0moLlTn"
     },
     {
       "album": {

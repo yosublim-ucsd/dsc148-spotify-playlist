@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11003,
+  "num_followers": 11059,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWMyNjk1MWYyN2IzM2Q4ZWU5OTNiYWFkYTljZGIzZWM1ZWUyZjRl",
+  "snapshot_id": "MCw1OTVlY2YwMDYxZTY4MTk3ZmViNjFhNzFmMjM4MDAxYTQ0YjNlZWFh",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Sunset Glow",
-      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/4mVaOQu6qOjGpSlNjwf0n4"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
       "artists": [
         {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Hot Issue",
-      "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
+      "duration_ms": 204920,
+      "name": "Sunset Glow",
+      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -303,6 +287,22 @@
       "duration_ms": 222171,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Hot Issue",
+      "url": "https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -499,6 +499,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Wonder World",
+        "url": "https://open.spotify.com/album/318RAh1OyVhnegQ7oZ8Fib"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 211811,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/5GCixDdpW0HcfR8ewmOOcI"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 224373,
       "name": "Atlantis Princess",
       "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Wonder World",
-        "url": "https://open.spotify.com/album/318RAh1OyVhnegQ7oZ8Fib"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 211811,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/5GCixDdpW0HcfR8ewmOOcI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -659,22 +659,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Ames Room",
         "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 263079,
       "name": "Then Then Then",
       "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Master`s sun OST",
         "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 244126,
       "name": "Touch love",
       "url": "https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Virginalness Bloom",
-        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
-      },
-      "artists": [
-        {
-          "name": "\ucc44\uc5f0",
-          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "It's Different",
         "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 271893,
       "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
       "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Virginalness Bloom",
+        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+      },
+      "artists": [
+        {
+          "name": "\ucc44\uc5f0",
+          "url": "https://open.spotify.com/artist/5YdRA9BjzC3Xd36SBsK06D"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "F.Scott Fitzgerald's Way Of Love",
         "url": "https://open.spotify.com/album/1CZPjxxCPflMkO5c1brcPb"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 228453,
       "name": "I Wonder If You Hurt Like Me",
       "url": "https://open.spotify.com/track/4F8uRvGWed562OyAB2tBja"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
     },
     {
       "added_at": "2021-03-11 16:26:11",

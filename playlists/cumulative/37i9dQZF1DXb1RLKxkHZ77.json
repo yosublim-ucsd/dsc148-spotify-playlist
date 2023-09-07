@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 251265,
       "name": "Aku Milik Orang",
       "url": "https://open.spotify.com/track/4fXQXpijXjc6Xpkr1VgNzO"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 211714,
       "name": "Arah Cinta",
       "url": "https://open.spotify.com/track/1d6wOH1pl6d3XzHngjQgdg"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 238426,
       "name": "Ayuh - From Polis Evo 3 Original Soundtrack",
       "url": "https://open.spotify.com/track/5It5ikDacxfwZXLSKsMEvS"
@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Gerimis Mengundang",
+        "url": "https://open.spotify.com/album/6daxVY9Z9PULei728X9xVG"
+      },
+      "artists": [
+        {
+          "name": "Jaclyn Victor",
+          "url": "https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237167,
+      "name": "Gerimis Mengundang",
+      "url": "https://open.spotify.com/track/3D9N3k4civFOuEsXXoUlq6"
+    },
+    {
+      "album": {
         "name": "Gimme That Crown",
         "url": "https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w"
       },
@@ -1622,6 +1640,24 @@
       "duration_ms": 207882,
       "name": "Hilang",
       "url": "https://open.spotify.com/track/5YJPHN7xlauOtmDqN5YRtX"
+    },
+    {
+      "album": {
+        "name": "Hilang Kendali",
+        "url": "https://open.spotify.com/album/3EMT08L67J3GL2XiI0LhqO"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238995,
+      "name": "Hilang Kendali",
+      "url": "https://open.spotify.com/track/6g731vMn1AKOPkVS4V3Wx7"
     },
     {
       "album": {
@@ -3327,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Orang Yang Salah",
+        "url": "https://open.spotify.com/album/1RBbHtYeLqhXOxFJ0BJdRa"
+      },
+      "artists": [
+        {
+          "name": "Luvia band",
+          "url": "https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278800,
+      "name": "Orang Yang Salah",
+      "url": "https://open.spotify.com/track/6KRm2So5GG89uilaTpv4rL"
+    },
+    {
+      "album": {
         "name": "OVERTHINK",
         "url": "https://open.spotify.com/album/3NnEBOcm5N0fyYq3c1H328"
       },
@@ -3448,6 +3502,28 @@
       "duration_ms": 238906,
       "name": "Pencarianku",
       "url": "https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x"
+    },
+    {
+      "album": {
+        "name": "when it all ends HERE",
+        "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
+      },
+      "artists": [
+        {
+          "name": "Umay Shahab",
+          "url": "https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa"
+        },
+        {
+          "name": "Natania Karin",
+          "url": "https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285810,
+      "name": "perayaan mati rasa",
+      "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
     },
     {
       "album": {
@@ -4193,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "Mengudara",
+        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285071,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
+    },
+    {
+      "album": {
         "name": "Sayang, do you love me?",
         "url": "https://open.spotify.com/album/40jsLRh5vc2PfWUV0IQWeF"
       },
@@ -4570,7 +4664,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 254863,
       "name": "Sisa Rasa",
       "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
@@ -5004,7 +5098,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 213895,
       "name": "Terhempas",
       "url": "https://open.spotify.com/track/29kbeQykesYWAtvZyPXAXM"

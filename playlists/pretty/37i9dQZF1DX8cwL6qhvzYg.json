@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 384800,
+  "num_followers": 384933,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDVkMmM2ZDk2MGRmMTIyMTZkYTcwNWIzMTVhZmY2MmQ2YjQxNmUx",
+  "snapshot_id": "MCw5M2U5NWFjYmRlM2FiMGRlNDllMjRhNDgyMzJmOGY2M2E1MDZjODY3",
   "tracks": [
     {
       "added_at": "2023-02-23 23:48:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 216106,
       "name": "El List\u00f3n De Tu Pelo",
       "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 300773,
       "name": "Eres Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "De Parranda Lives Vol. 5",
-        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 252888,
-      "name": "Te Vez Buena",
-      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 202440,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "De Parranda Lives Vol. 5",
+        "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 252888,
+      "name": "Te Vez Buena",
+      "url": "https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 213791,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
-        "name": "Latino",
-        "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
-      },
-      "artists": [
-        {
-          "name": "Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "La Cumbia de los Monjes",
-      "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
+        "name": "Latino",
+        "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "La Cumbia de los Monjes",
+      "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
     },
     {
       "added_at": "2023-02-23 23:48:38",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-02-23 23:48:38",
       "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
+    },
+    {
+      "added_at": "2023-02-23 23:48:38",
+      "album": {
         "name": "Inv\u00e9ntame Un Amor",
         "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 227288,
       "name": "Pero La Recuerdo (Cumbia Santa Mar\u00eda)",
       "url": "https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d"
-    },
-    {
-      "added_at": "2023-02-23 23:48:38",
-      "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2023-02-23 23:48:38",

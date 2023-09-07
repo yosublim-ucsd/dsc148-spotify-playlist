@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,224 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,270 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 29 | [Lone Poet \(Aeri Aali\)](https://open.spotify.com/track/7vm4uByBujMi734s6LO3hm) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Liyaqat Ali Khan](https://open.spotify.com/artist/2wk2JsBXpShxG2IfSBmNC7) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:01 |
 | 30 | [Karam \(Equals Sessions\)](https://open.spotify.com/track/5zWA0flBrTC3VmhjcJ2MZG) | [Rangle Sardar](https://open.spotify.com/artist/3nD9WdGngkUd6WEk1zsZy8), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Karam \(Equals Sessions\) \- Single](https://open.spotify.com/album/6ZeOlXxvWRq3h0inux1YPQ) | 4:19 |
 | 31 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
-| 32 | [Rebirth](https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Tu Hai](https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6) | 9:12 |
-| 33 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 |
+| 32 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 |
+| 33 | [Rebirth](https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Tu Hai](https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6) | 9:12 |
 | 34 | [Kaash](https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Raah\-e\-Fakira](https://open.spotify.com/album/3cq365TibcTJkm9ck4SH3v) | 3:53 |
 | 35 | [Hukus Bukus](https://open.spotify.com/track/50A0o1uOb6TW2bdbJFrp8F) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Hukus Bukus](https://open.spotify.com/album/5ORGx0mjAyoPn2LSDRzbku) | 4:06 |
 | 36 | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/track/5Ahp1Ru3jrl1pDTyFmFVFa) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1) | [Mooch \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/album/063gO0cVwsM9Yq0agVVHLj) | 3:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 47 | [Chekele](https://open.spotify.com/track/48onZ4ZEQnfzaH0yAofSsA) | [Ashic Arun](https://open.spotify.com/artist/3tarLlwi7lpfUrIGZjgigA) | [Chekele](https://open.spotify.com/album/0rPIpdxZnQKdP6iEeI05n2) | 2:22 |
 | 48 | [Peele Amiras \- Sabr](https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Peele Amiras \(Sabr\)](https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg) | 5:15 |
 | 49 | [Rain Dance \(Barsan Laagi\)](https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Haritha Raj](https://open.spotify.com/artist/2dVodnLDTczyG2msjEqrqA) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:16 |
-| 50 | [Banna](https://open.spotify.com/track/5jg83QUqVDtu5qeVXk8AhB) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Banna](https://open.spotify.com/album/2sxtyPtwyblck3hU9lZuuu) | 5:36 |
+| 50 | [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 |
 
-Snapshot ID: `MCwzMGI3MmEzZjgyYTMwMjljY2Y4NWI0OTA5NWU3MTA4NzAzNjI5NDcw`
+Snapshot ID: `MCw5M2RjZWU3N2MzMzk4MTA4ZWE1Nzg3MzRiZjk4YTg5NDE1MTQwZjI4`

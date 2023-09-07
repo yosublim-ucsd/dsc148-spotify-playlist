@@ -88,10 +88,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 210000,
       "name": "A Song About the Sun",
       "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
+    },
+    {
+      "album": {
+        "name": "Ricardo",
+        "url": "https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "A Song About the Sun",
+      "url": "https://open.spotify.com/track/3yVfX4uOLz0lVhHsXxFNTV"
     },
     {
       "album": {

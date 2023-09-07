@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Jungle",
-  "num_followers": 865070,
+  "num_followers": 865137,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjNiN2RjNGI5ZWFhZjBhOWQ3Mzg3ODZlMjc5N2U1NDlkZTUxNWY4",
+  "snapshot_id": "MCxjYjIwM2ViOGRjZWNmMzY0MjA2YzY5OTQxYjM4NTMxN2VmMDk2ODk3",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -767,30 +767,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310340,
-      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-      "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Waiting Forever",
         "url": "https://open.spotify.com/album/56aLlCwfr5e53TVYK0LOc5"
       },
@@ -815,6 +791,30 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/2TfHuXx68GAVR71kUQttvJ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Not Worthy (feat. Nonso Amadi)",
         "url": "https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 192208,
       "name": "Not Worthy (feat. Nonso Amadi)",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "How To Fly On The Ground",
-        "url": "https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "This Way",
-      "url": "https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -883,22 +867,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "All the Good Times Never Die",
-        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
+        "name": "How To Fly On The Ground",
+        "url": "https://open.spotify.com/album/57UvRKHtmVsruKLf9MN1S2"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        },
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 188800,
-      "name": "All the Good Times Never Die",
-      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
+      "duration_ms": 168426,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/4ZJXvZJ4W6L6Xm9uscpALi"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -915,6 +895,26 @@
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "All the Good Times Never Die",
+        "url": "https://open.spotify.com/album/4rGaiJ09OCioTTfcMFvdPL"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "All the Good Times Never Die",
+      "url": "https://open.spotify.com/track/0c8lmplaH3NgXWus2sVnpM"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Time To Run",
-        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Time To Run",
-      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 206250,
       "name": "Touch",
       "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Time To Run",
+        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Time To Run",
+      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Float",
         "url": "https://open.spotify.com/album/5slmjDmkuBgIkl3HPc3GHw"
       },
@@ -1363,30 +1363,6 @@
       "duration_ms": 177626,
       "name": "Float",
       "url": "https://open.spotify.com/track/2vHCoBojKudmRjFUnPsKys"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Palaces : The Remixes, Pt. 3",
-        "url": "https://open.spotify.com/album/3lGjGtDlA1E1fo7q4VeJng"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 277865,
-      "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
-      "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1423,6 +1399,30 @@
       "duration_ms": 220500,
       "name": "LLTB",
       "url": "https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Palaces : The Remixes, Pt. 3",
+        "url": "https://open.spotify.com/album/3lGjGtDlA1E1fo7q4VeJng"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 277865,
+      "name": "Sirens (feat. Caroline Polachek) [Tourist Remix]",
+      "url": "https://open.spotify.com/track/6OoLVkHNPsKuPdOBAkhg4r"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "I Been Young",
-        "url": "https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh"
-      },
-      "artists": [
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 299687,
-      "name": "I Been Young",
-      "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "CRYSTAL BALL",
         "url": "https://open.spotify.com/album/7ELlYESO3bDuxoaL7IWk50"
       },
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Ghost On The Mend (veggi remix)",
-        "url": "https://open.spotify.com/album/6UlbyAtzBx0AXaYedDTp9d"
+        "name": "I Been Young",
+        "url": "https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh"
       },
       "artists": [
         {
-          "name": "Magic City Hippies",
-          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
-        },
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Ghost On The Mend - veggi remix",
-      "url": "https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR"
+      "duration_ms": 299687,
+      "name": "I Been Young",
+      "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1607,6 +1587,26 @@
       "duration_ms": 216278,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Ghost On The Mend (veggi remix)",
+        "url": "https://open.spotify.com/album/6UlbyAtzBx0AXaYedDTp9d"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Ghost On The Mend - veggi remix",
+      "url": "https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR"
     },
     {
       "added_at": "2023-08-25 04:00:00",

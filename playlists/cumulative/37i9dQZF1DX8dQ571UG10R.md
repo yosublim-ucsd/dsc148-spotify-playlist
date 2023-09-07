@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-75 songs - 5 hr 9 min
+77 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Os Titãs Primordiais](https://open.spotify.com/track/3aZ0jBsXRFbiXIFDLZR6wa) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4k3S6NHWgwhVv16HAG2190) | 7:26 | 2022-05-27 |  |
 | [Os Titãs Primordiais](https://open.spotify.com/track/5NHs07BtDcca8fOB8v9wNF) | [anirap](https://open.spotify.com/artist/0rVzRhHB7PRsiNlRn2wc4B) | [Os Titãs Primordiais](https://open.spotify.com/album/4wD4408RcHK6fkx4UVUyi6) | 7:26 | 2022-02-22 | 2022-12-11 |
 | [Outro Planeta](https://open.spotify.com/track/4N6yQOXdqzkadCofN9z1GV) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Outro Planeta](https://open.spotify.com/album/1jede7bKc66D4u2xgkSrJJ) | 3:55 | 2022-02-22 | 2022-05-28 |
-| [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r) | 3:37 | 2022-02-22 |  |
+| [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/1By63MALvoiyxWv21qlX5r) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6aVdnN4n6d3g8py8alrKkm) | 3:37 | 2023-07-07 |  |
+| [Pai da Humanidade \(Adão\)](https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Pai da Humanidade \(Adão\)](https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r) | 3:37 | 2022-02-22 | 2023-09-07 |
 | [Pique Minato](https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Minato](https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2) | 2:58 | 2022-02-22 |  |
 | [Pique Narutão](https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Narutão](https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL) | 3:01 | 2022-02-22 |  |
 | [Punição Divina](https://open.spotify.com/track/5zYv54TK6OKcEfM74HWkkY) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Punição Divina](https://open.spotify.com/album/05fzl1PzT4xtsxJok87zfV) | 4:01 | 2022-02-22 | 2023-07-08 |
@@ -44,7 +45,8 @@
 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/2iNZMMFEii4fU827NTyQ1J) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4VazcwScVO1t0fXDXXqQVr) | 9:51 | 2022-02-22 | 2023-01-28 |
 | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/3YWdolIwRLOeLbmj5Q9lIO) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/22mM3uheuOoCmlbe2079WE) | 9:51 | 2022-05-27 |  |
 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 | 2022-02-22 |  |
-| [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/3EqMHlH0AMgUmx7xgf73aI) | 4:36 | 2022-02-22 |  |
+| [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/3EqMHlH0AMgUmx7xgf73aI) | 4:36 | 2022-02-22 | 2023-09-07 |
+| [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/58oDtx7UCVl3TiKjjcGm92) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/2zzvk4nbKZT3sA7flUuTGu) | 4:36 | 2023-07-07 |  |
 | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/track/1w20E6WZTvi5HsKua0NG7M) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/album/6ydM4MMf11n5nlX4AApjVl) | 3:03 | 2022-02-22 | 2023-01-27 |
 | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/track/6JxtFNFJUV9rC75lc4knS0) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/album/2WRMKQP4RqmmCNktiP6lQS) | 3:03 | 2022-05-27 |  |
 | [Rap do Hidan: Vai Começar o Ritual \(Nerd Hits\)](https://open.spotify.com/track/4RQfj4QMNXCLdheNn8yVD6) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Hidan: Vai Começar o Ritual \(Nerd Hits\)](https://open.spotify.com/album/0crukJhJaU4xCCamzJFTNN) | 4:07 | 2022-05-27 |  |

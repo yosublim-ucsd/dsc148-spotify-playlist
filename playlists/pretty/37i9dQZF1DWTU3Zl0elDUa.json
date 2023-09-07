@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 300774,
+  "num_followers": 301067,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjk0NmNiYmNjYzc3NDBlMjFkMGRkYmIwMjI4M2NlMmQyOTBmZDlk",
+  "snapshot_id": "MCxhNDBmNWZlOWVjZTQzODg5NWUyMDZkNjMyYmRlMDQ1ZjViZWJmZWFh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
-      },
-      "artists": [
-        {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Follow Me - Club Mix",
-      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "F.L.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 214866,
       "name": "Showing Out (Get Fresh At the Weekend) - 7\" Version",
       "url": "https://open.spotify.com/track/5hVUbtzEMl8BLwZCG0ZMtD"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Follow Me - Club Mix",
+      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
     },
     {
       "added_at": "2023-08-18 04:00:00",

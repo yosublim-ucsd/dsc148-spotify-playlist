@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 182160,
+  "num_followers": 182261,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTkwOGRkN2YzOGIxMDNjNzQwMjc3N2FjZmE2YTg2MDVkYzYxZjc2",
+  "snapshot_id": "MCw4YzBlNGE0NWQ0MTFjNzdhY2JjMzE4OGZhOWRlOTAxYmNmN2YxOWI4",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/373PVFL4mryTDGQSRZwf0D"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6XM1bizWRQjDmrlDn4RRSy"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Dream in Colour",
         "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/373PVFL4mryTDGQSRZwf0D"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6XM1bizWRQjDmrlDn4RRSy"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Duo",
-        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 126700,
-      "name": "Duo",
-      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Berhana",
         "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 204000,
       "name": "Janet",
       "url": "https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Duo",
+        "url": "https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 126700,
+      "name": "Duo",
+      "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "GEEKIN",
+        "url": "https://open.spotify.com/album/57MWVBl4RoYDLte8WwXA3R"
+      },
+      "artists": [
+        {
+          "name": "MIA GLADSTONE",
+          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
+        },
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        }
+      ],
+      "duration_ms": 157921,
+      "name": "GEEKIN",
+      "url": "https://open.spotify.com/track/4HiWfodoaCudNmx2AJCgq6"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Andromeda (feat. D.R.A.M.) [Purple Disco Machine Remix]",
         "url": "https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 363091,
       "name": "Andromeda (feat. DRAM) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2LczIiNTOfbD4yxohajgjB"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "GEEKIN",
-        "url": "https://open.spotify.com/album/57MWVBl4RoYDLte8WwXA3R"
-      },
-      "artists": [
-        {
-          "name": "MIA GLADSTONE",
-          "url": "https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF"
-        },
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        }
-      ],
-      "duration_ms": 157921,
-      "name": "GEEKIN",
-      "url": "https://open.spotify.com/track/4HiWfodoaCudNmx2AJCgq6"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "I'm Thru",
-        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
-      },
-      "artists": [
-        {
-          "name": "Luke Gomm",
-          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
-        }
-      ],
-      "duration_ms": 191335,
-      "name": "I'm Thru",
-      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "JUNE",
         "url": "https://open.spotify.com/album/6S06K8Q4tHG3FGzfx0qQbJ"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "I'm Thru",
+        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        }
+      ],
+      "duration_ms": 191335,
+      "name": "I'm Thru",
+      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Hot Crush Lover",
         "url": "https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 193731,
       "name": "Hot Crush Lover",
       "url": "https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/3mjjWk8njHR1KqYmWnRUUU"
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/01OtjntAAs5CH0j9De639T"
       },
       "artists": [
         {
-          "name": "Worry Club",
-          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+          "name": "Butter Bath",
+          "url": "https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/3Iid1bzzTHFY9bXoVs7SiJ"
+      "duration_ms": 199060,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/3hv0c9crZAmWBqGxhDkuYF"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/01OtjntAAs5CH0j9De639T"
-      },
-      "artists": [
-        {
-          "name": "Butter Bath",
-          "url": "https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg"
-        }
-      ],
-      "duration_ms": 199060,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/3hv0c9crZAmWBqGxhDkuYF"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Tennis Courts",
         "url": "https://open.spotify.com/album/0RW5vXBF1fAe5W11bDstR7"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 180570,
       "name": "Tennis Courts",
       "url": "https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Too Sensitive",
+        "url": "https://open.spotify.com/album/69mfyem8nlCqn02JURApPo"
+      },
+      "artists": [
+        {
+          "name": "Sean Kennedy",
+          "url": "https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK"
+        }
+      ],
+      "duration_ms": 161176,
+      "name": "Too Sensitive",
+      "url": "https://open.spotify.com/track/4uqcGAE67v9zW5X1QBKtxz"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1207,22 +1223,6 @@
       "duration_ms": 162667,
       "name": "Funny (feat. Childish Major)",
       "url": "https://open.spotify.com/track/58nLMb5qqqwvfechq107Oh"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Too Sensitive",
-        "url": "https://open.spotify.com/album/69mfyem8nlCqn02JURApPo"
-      },
-      "artists": [
-        {
-          "name": "Sean Kennedy",
-          "url": "https://open.spotify.com/artist/6kY7DKDwm2bt996rMF4CLK"
-        }
-      ],
-      "duration_ms": 161176,
-      "name": "Too Sensitive",
-      "url": "https://open.spotify.com/track/4uqcGAE67v9zW5X1QBKtxz"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Love Your Neighbors",
+        "url": "https://open.spotify.com/album/2LcHvU3Yzrd7SMMHhZcdfe"
+      },
+      "artists": [
+        {
+          "name": "Your Neighbors",
+          "url": "https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP"
+        }
+      ],
+      "duration_ms": 279311,
+      "name": "Hallmarks",
+      "url": "https://open.spotify.com/track/1AsVHwEm3TfjPV68DZvswr"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "BOYFRIEND KILLER",
+        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "BOYFRIEND KILLER",
+      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "frenemy",
         "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
       },
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Love Your Neighbors",
-        "url": "https://open.spotify.com/album/2LcHvU3Yzrd7SMMHhZcdfe"
-      },
-      "artists": [
-        {
-          "name": "Your Neighbors",
-          "url": "https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP"
-        }
-      ],
-      "duration_ms": 279311,
-      "name": "Hallmarks",
-      "url": "https://open.spotify.com/track/1AsVHwEm3TfjPV68DZvswr"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Through Tha Night",
         "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "BOYFRIEND KILLER",
-        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
       },
       "artists": [
         {
-          "name": "Palmer",
-          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
         }
       ],
-      "duration_ms": 194526,
-      "name": "BOYFRIEND KILLER",
-      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
+      "duration_ms": 190346,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1359,22 +1375,6 @@
       "duration_ms": 274026,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
-      },
-      "artists": [
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "PIE",
         "url": "https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Cashmere",
-        "url": "https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "Cashmere",
-      "url": "https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Can U Meet Me There",
-        "url": "https://open.spotify.com/album/3MAhsnUPCTX3LTsaR04x5u"
-      },
-      "artists": [
-        {
-          "name": "Issadora Ava",
-          "url": "https://open.spotify.com/artist/4c4l8i28GGXPheP0HnRORl"
-        }
-      ],
-      "duration_ms": 212584,
-      "name": "Can U Meet Me There",
-      "url": "https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Pigeons & Planes presents: See You Next Year",
         "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Can U Meet Me There",
+        "url": "https://open.spotify.com/album/3MAhsnUPCTX3LTsaR04x5u"
+      },
+      "artists": [
+        {
+          "name": "Issadora Ava",
+          "url": "https://open.spotify.com/artist/4c4l8i28GGXPheP0HnRORl"
+        }
+      ],
+      "duration_ms": 212584,
+      "name": "Can U Meet Me There",
+      "url": "https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "love deluxe",
         "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "long way home",
-        "url": "https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG"
-      },
-      "artists": [
-        {
-          "name": "Fantasy Camp",
-          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "bug bite",
-      "url": "https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "He Seems Upset",
         "url": "https://open.spotify.com/album/3St5xyx3phzZ6eRReZaQQQ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 200021,
       "name": "Sippin' on the Daylight",
       "url": "https://open.spotify.com/track/4VzSsGiU16ph3mUiQzBKD3"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "long way home",
+        "url": "https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG"
+      },
+      "artists": [
+        {
+          "name": "Fantasy Camp",
+          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "bug bite",
+      "url": "https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb"
     },
     {
       "added_at": "2023-08-09 21:18:22",

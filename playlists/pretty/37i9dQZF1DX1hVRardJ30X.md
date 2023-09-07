@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mora
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,407 likes - 53 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,487 likes - 53 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 52 | [Después de la Tormenta](https://open.spotify.com/track/19WhJGyQ5xvkq4MLrEyu73) | [Nayo](https://open.spotify.com/artist/36tGT7JriSlo9gmzYQviEb), [Most Wanted La Familia](https://open.spotify.com/artist/57yFqDKqy5QnBIBAjy2qz6) | [Después de la Tormenta](https://open.spotify.com/album/1NpjB5GPVBawEUlsVmVVHi) | 2:31 |
 | 53 | [Déjate Llevar](https://open.spotify.com/track/5B2qLWsjcOL68pJfyixcMO) | [Camelo](https://open.spotify.com/artist/5xI0dlSNzUNuZhGDcGf2vW) | [Déjate Llevar](https://open.spotify.com/album/1ymjqpLcxPse6GMGaYIB8X) | 3:39 |
 
-Snapshot ID: `MCwzYTY3M2NjN2M4NmE1YTgwYWNlMGEyYjAzMmZjZWEyMmZhMGYwZDJi`
+Snapshot ID: `MCxmMzFmYWQxN2JjM2JkNDc4Zjc4NjNiZGJlYTRmODk2MWI1YzRiODhi`

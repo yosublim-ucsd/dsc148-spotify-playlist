@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-704 songs - 1 day 18 hr 19 min
+705 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alcohol\-Free](https://open.spotify.com/track/3iPbmpKBMflYd7UjdYftoj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE) | 3:30 | 2021-06-12 | 2021-07-16 |
 | [Alcohol\-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-06-11 | 2021-06-12 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:02 | 2022-04-13 | 2022-04-26 |
-| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/7I5WT7DtpwSAhEeDLpZEfm) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 3:03 | 2023-09-01 |  |
+| [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/7I5WT7DtpwSAhEeDLpZEfm) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 3:03 | 2023-09-01 | 2023-09-07 |
 | [All Eyes On Me](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:43 | 2023-04-01 | 2023-05-04 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-22 | 2022-12-29 |
 | [All Night](https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:26 | 2023-05-17 | 2023-05-19 |
@@ -325,7 +325,7 @@
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-20 |
 | [Some Nights](https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:27 | 2022-02-16 | 2022-02-18 |
 | [Somebody Else](https://open.spotify.com/track/2DwsuwDtMtZykInr8cFo1j) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Somebody Else](https://open.spotify.com/album/2ea2BnHMjIMAEupSlrYoLq) | 2:49 | 2022-08-04 | 2022-09-17 |
-| [Somebody Else](https://open.spotify.com/track/6gOZzuHIApHtAPTelkOMUc) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#OSNRAPII\-JOURNEY](https://open.spotify.com/album/4uXBZ6B6obczO1Jf8eZFcw) | 2:49 | 2023-01-18 | 2023-09-05 |
+| [Somebody Else](https://open.spotify.com/track/6gOZzuHIApHtAPTelkOMUc) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#OSNRAPII\-JOURNEY](https://open.spotify.com/album/4uXBZ6B6obczO1Jf8eZFcw) | 2:49 | 2023-01-18 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2021-04-20 |
 | [Something I Don't Need](https://open.spotify.com/track/3yWMv4KSXoh1l61cAqykl1) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Outta Body靈魂出竅](https://open.spotify.com/album/5qiMTeDKaY3cfqZeBG0xUY) | 2:54 | 2021-03-27\* | 2021-04-10 |
 | [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-07-09 | 2023-08-11 |
@@ -449,6 +449,7 @@
 | [你不知道的事](https://open.spotify.com/track/1QcaGSikGJLo09xN19BZdc) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [十八般武藝](https://open.spotify.com/album/2c2US10YDd76wr25ctgejQ) | 4:39 | 2021-12-19 | 2021-12-26 |
 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 | 2022-04-21 | 2022-05-05 |
 | [你是我的歌 \- 《不二兄弟》電影主題曲](https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [你是我的歌 \(《不二兄弟》電影主題曲\)](https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW) | 3:37 | 2023-03-02 | 2023-03-04 |
+| [你是我這輩子最想愛的呀](https://open.spotify.com/track/4NF4arILnIdBOZu2FkRV8P) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [你是我這輩子最想愛的呀](https://open.spotify.com/album/30pjHo1kj2exb6bIUfCvVv) | 4:24 | 2023-09-06 |  |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-24 | 2022-04-08 |
 | [你的答案](https://open.spotify.com/track/4QWSICaQ6LGmcS8qX9lNVh) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [你的答案](https://open.spotify.com/album/05nfv9HHHKkKWoNDGQSNNb) | 3:39 | 2021-11-05 | 2021-12-16 |
 | [倒影](https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:54 | 2022-07-15 | 2022-07-28 |
@@ -701,7 +702,7 @@
 | [離別總是那麼突然](https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [離別總是那麼突然](https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj) | 4:02 | 2023-03-25 | 2023-04-11 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2021-05-30 | 2022-01-08 |
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2021-11-04 | 2021-11-21 |
-| [雪 Distance](https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba), [罗言](https://open.spotify.com/artist/34j9L1hyeq9JDSwUTgBhoE) | [Uniconfication](https://open.spotify.com/album/7xlWrNZ5NHxhQz9hHFqgbv) | 2:45 | 2023-03-29 |  |
+| [雪 Distance](https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba), [罗言](https://open.spotify.com/artist/34j9L1hyeq9JDSwUTgBhoE) | [Uniconfication](https://open.spotify.com/album/7xlWrNZ5NHxhQz9hHFqgbv) | 2:45 | 2023-03-29 | 2023-09-07 |
 | [零距離](https://open.spotify.com/track/6h1RP9yK4p8xAw1Mdjyj4I) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [零距離](https://open.spotify.com/album/3OTDp64MLrt8TKvHxKkYzf) | 3:52 | 2021-09-25 | 2021-09-26 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-25 |  |
 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 | 2021-08-05 | 2021-08-28 |

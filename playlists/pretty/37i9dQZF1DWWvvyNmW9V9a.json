@@ -1,12 +1,12 @@
 {
   "description": "Yours truly (\u00b4\uff61\u2022 \u25e1 \u2022\uff61`) \u2661",
-  "num_followers": 2121043,
+  "num_followers": 2121727,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWJiNzYyM2ZlOGMwYTI4MzhjZjlkMDc0MTMxMTczNzhjZTM4MWYz",
+  "snapshot_id": "MCw1NmY3YzM1NTNlY2E0ZjRjNmYyMzYyZjJkMjM4OTBhOWY2ODU2ZmZh",
   "tracks": [
     {
       "added_at": "2023-08-29 19:47:47",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c"
     },
     {
+      "added_at": "2023-09-01 03:59:23",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "girls like me don't cry (sped up)",
@@ -935,22 +951,6 @@
       "duration_ms": 233626,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW"
-    },
-    {
-      "added_at": "2023-09-01 03:59:23",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2023-05-23 09:02:24",

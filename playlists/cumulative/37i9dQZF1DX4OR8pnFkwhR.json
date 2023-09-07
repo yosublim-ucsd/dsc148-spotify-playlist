@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 335866,
       "name": "Cloud Watching",
       "url": "https://open.spotify.com/track/0cApcBHdycwHfHsorf0adA"
@@ -3856,6 +3856,24 @@
     {
       "album": {
         "name": "Grapefruit Moon",
+        "url": "https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "Grapefruit Moon",
+      "url": "https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9"
+    },
+    {
+      "album": {
+        "name": "Grapefruit Moon",
         "url": "https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y"
       },
       "artists": [
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 196795,
       "name": "Grapefruit Moon",
       "url": "https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw"
@@ -10723,6 +10741,24 @@
     },
     {
       "album": {
+        "name": "Yume Ga Kanawanakattatokino Juno Taishohou",
+        "url": "https://open.spotify.com/album/1tvYoPXLoVWLKDsFBKTqFu"
+      },
+      "artists": [
+        {
+          "name": "Sean Oshima",
+          "url": "https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206035,
+      "name": "Umaikotodekiteru -That's How it Works-",
+      "url": "https://open.spotify.com/track/0GT2Reu9UJxF3EUiwaXphW"
+    },
+    {
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C"
       },
@@ -12004,7 +12040,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 206035,
       "name": "\u3046\u307e\u3044\u3053\u3068\u3067\u304d\u3066\u308b -That\u2019s How it Works-",
       "url": "https://open.spotify.com/track/0V1jlIfCJHGM6C7ZPwiyyf"
@@ -18448,6 +18484,24 @@
       "duration_ms": 293479,
       "name": "\u7a7a\u3063\u307d",
       "url": "https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK"
+    },
+    {
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192462,
+      "name": "\u7a7a\u3068\u3076\u6771\u4eac",
+      "url": "https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S"
     },
     {
       "album": {

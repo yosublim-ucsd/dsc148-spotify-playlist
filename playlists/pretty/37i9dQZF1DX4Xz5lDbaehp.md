@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,079 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,080 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 12 | [FMRN](https://open.spotify.com/track/6k6egroLMoShmt63RwaK4S) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/1n9zpxunDB1ZTHdBIMgpRK) | 2:02 |
 | 13 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
 | 14 | [MY STORY \(DLOG\)](https://open.spotify.com/track/458QnarswOrqqJB84qVdOw) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [DLOG](https://open.spotify.com/album/4tnNsvUsbJAoI9FESgvkOJ) | 2:44 |
-| 15 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 |
+| 15 | [A Song About the Sun](https://open.spotify.com/track/3yVfX4uOLz0lVhHsXxFNTV) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Ricardo](https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK) | 3:30 |
 | 16 | [Color Palette](https://open.spotify.com/track/3Gj0qNysd84rZZDvFsLMdU) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Atlas](https://open.spotify.com/album/79HmfsTuc7I10E8hOhR3ZZ) | 3:33 |
 | 17 | [Like the Movies](https://open.spotify.com/track/1hUXDEqjNIIbfjTcaz3jzb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z) | 2:42 |
 | 18 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCw2OWQ3YTQxYzc1MzczM2VhZjZkZmQwMmMxNzg5OGQwYWQ0OTk3MGRm`
+Snapshot ID: `MCxhOTIwNDQzMWY5OGQxMmViM2I4ZWUyNzNmYzNhMDUyMjRiM2E2MTA2`

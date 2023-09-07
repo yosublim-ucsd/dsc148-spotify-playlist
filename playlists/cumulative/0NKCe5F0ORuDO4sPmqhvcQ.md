@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-498 songs - 1 day 3 hr 57 min
+500 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-15 | 2022-03-31 |
 | [I'm With The DJ](https://open.spotify.com/track/6glWuI8u4DdoIkNIwhyk2N) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [I'm With The DJ](https://open.spotify.com/album/4QjPl6fliUZnwvGsWuMnXb) | 3:32 | 2022-07-28 | 2022-11-12 |
 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 | 2022-01-31 | 2022-03-31 |
+| [If The DJ Let Me](https://open.spotify.com/track/0WOr4IFzO5PX2KQoU4hslu) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [If The DJ Let Me](https://open.spotify.com/album/4kNlUWofwgf6KjUF6vB9pS) | 3:51 | 2023-09-06 |  |
 | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [In My Room \(feat\. SHELLS\)](https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM) | 2:25 | 2023-03-15 | 2023-07-20 |
 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 | 2022-06-25 | 2022-07-16 |
 | [IN YOUR EYES 「瞳の中で」](https://open.spotify.com/track/1VviocEvd6zv4xudscXgcj) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [CAGE SCRIPT](https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx) | 4:15 | 2022-12-10 | 2023-01-30 |
@@ -292,6 +293,7 @@
 | [minnesota is a place that exists](https://open.spotify.com/track/6uiaiopJ4h8jqmDZySnMmE) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [minnesota is a place that exists](https://open.spotify.com/album/5NnsC01LT1Z79Sw0QQf46Q) | 2:18 | 2022-06-24 | 2022-11-23 |
 | [MONEY ON THE DASH](https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 2:25 | 2023-01-26 |  |
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-08-18 |
+| [Motion](https://open.spotify.com/track/09Gw3c0YxUGPVCrj2GXbSF) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Motion](https://open.spotify.com/album/3RnXk2590lJ1zz4l2otNOZ) | 3:02 | 2023-09-06 |  |
 | [Move Up](https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Move Up](https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK) | 2:59 | 2022-02-11 | 2022-03-10 |
 | [Movin' On](https://open.spotify.com/track/5gVS85OUfWUX2kaORjc5J3) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j), [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Movin' On](https://open.spotify.com/album/4KXrOxYRj4OsVIgixVU30l) | 3:24 | 2022-06-24 | 2023-07-20 |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-01-21 | 2022-02-16 |

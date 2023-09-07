@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 
 > Seré la gata bajo la lluvia..\. 😿
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,058 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,235 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 61 | [By My Own](https://open.spotify.com/track/1XiptdPHH8raaPDU3gdrWW) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [By My Own](https://open.spotify.com/album/45A5aSPBspEdUdYgWDW0B4) | 3:40 |
 | 62 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 |
 | 63 | [Kilómetros](https://open.spotify.com/track/1AfAFpHJ7s4unBIhe3NM5j) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 3:41 |
-| 64 | [Batismo](https://open.spotify.com/track/6UDWsYMH2MwgOxOS9sbnwC) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:11 |
-| 65 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 |
+| 64 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 |
+| 65 | [Batismo](https://open.spotify.com/track/6UDWsYMH2MwgOxOS9sbnwC) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:11 |
 | 66 | [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 |
 | 67 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 |
 | 68 | [Por Tu Olor](https://open.spotify.com/track/69gBnFLDtc2lub6xL0sfi9) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Arte de Saltar](https://open.spotify.com/album/6ZCnNpmcsTnDbQ8FcXqVGj) | 3:41 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzlMz4hwU9T.md) - [plain]
 | 96 | [Lágrimas y Lluvia](https://open.spotify.com/track/1C0Na3mjjb5gX3VRjXDgHf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Lágrimas y Lluvia](https://open.spotify.com/album/6g3KpaqhOLhPQ1jWvjm7zc) | 3:36 |
 | 97 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 |
 | 98 | [Malas Amistades](https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:10 |
-| 99 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
-| 100 | [Past Lives](https://open.spotify.com/track/3niAKlruycaPFNVSSBwCdT) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 2:21 |
+| 99 | [Past Lives](https://open.spotify.com/track/3niAKlruycaPFNVSSBwCdT) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 2:21 |
+| 100 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 |
 
-Snapshot ID: `MCw1NzBhOGNiM2M0ZTU5YTQzOTE2NWVlNDNkNDQxN2FmOGNkNDkzNzlh`
+Snapshot ID: `MCxlYzQwYTkzNmM2MjA2NDFiYjVjZDViODA0ZWQ1ZTIzM2EwYWJjYzcz`

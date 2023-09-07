@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Black Pumas
 
-844 songs - 2 day 3 hr 40 min
+845 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 | 2023-02-17 | 2023-06-03 |
 | [Kid](https://open.spotify.com/track/6jGNpnnlBkUF6xROJNqhSV) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 3:28 | 2023-06-02 | 2023-08-15 |
 | [Kids Who Stole The World](https://open.spotify.com/track/5Sv2qboXJ3GZUuLMVaZtie) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole The World](https://open.spotify.com/album/0KZeVw4TNjB6UMStp5B7tT) | 3:20 | 2021-12-10 | 2022-02-12 |
+| [Killer Bee](https://open.spotify.com/track/1iK5fVde5LlBhKZHQMFkaX) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Killer Bee](https://open.spotify.com/album/6hKMgzDTb4HuSluQs2vwQP) | 2:49 | 2023-09-06 |  |
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-02-25 | 2022-04-02 |
 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 | 2022-02-18 | 2022-07-02 |
 | [Kingdom For A Fool](https://open.spotify.com/track/2tKyv5qRq8PTp0sGJ0vu06) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/0HLAkdOg4mPRmdVaIdTK11) | 3:28 | 2022-11-11 | 2023-04-09 |

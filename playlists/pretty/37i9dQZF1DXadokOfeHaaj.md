@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,594 likes - 66 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,615 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 65 | [Turn It Into Love](https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [Turn It Into Love](https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v) | 3:56 |
 | 66 | [Lights Out](https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp) | [GRAEY](https://open.spotify.com/artist/7IWvzeznlyMEE1APQe9iFL) | [Lights Out](https://open.spotify.com/album/42vVIc93UsSgQKFrtsnoet) | 3:12 |
 
-Snapshot ID: `MCwwMDFlZTdkYzFlY2E0YWUwMzNhMmY4MTk0YzczYmMwZDgyM2M4NjI2`
+Snapshot ID: `MCxjZGFkNTM2ZDFjNDIzMjgxMTFlNTJmMjI3NzMwYjQ0ZjNiM2MxZTYx`

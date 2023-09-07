@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,132 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,145 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 18 | [Voy A Morir](https://open.spotify.com/track/1sjkOVsHWLFX6g0OwmKJYk) | [Real De Catorce](https://open.spotify.com/artist/0ds6VsUgSpysVJeAUyLzYz) | [Voy A Morir](https://open.spotify.com/album/7cP1r43ljMFbvdBDgyap1P) | 4:53 |
 | 19 | [Mano Cruel](https://open.spotify.com/track/4LrMDBmqXokJvRpTRgRLUj) | [Chevy Rockets](https://open.spotify.com/artist/4r3fkXdFQYhTRmzz0pwQuV) | [Rubi](https://open.spotify.com/album/0Xw1suYx74f4dQdZhVar7V) | 2:35 |
 | 20 | [The King of The Latin Blues \(feat\. Steve Hunter & Bobby Alexander\)](https://open.spotify.com/track/29ovCP4ChViCwSYWYO9TuD) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Bobby Alexander](https://open.spotify.com/artist/4ZmSudkqArrYnDIrQmWi4l) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 4:31 |
-| 21 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 |
+| 21 | [Ruta 66](https://open.spotify.com/track/2X9gEPPboRpGLLRv0Blc6Y) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/2nPZv089fAeuincr5IVV2k) | 3:06 |
 | 22 | [Chains Of Love](https://open.spotify.com/track/6eGh4BakrXoS62at0oWELo) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [The Ride](https://open.spotify.com/album/6TdScLaszg12kzn9YdMauE) | 5:13 |
 | 23 | [Café Madrid](https://open.spotify.com/track/1HUX0GSZQoc4hqZJ76vokM) | [Mississippi Blues Band](https://open.spotify.com/artist/2LHhyQMZpyAKja3217IhWD) | [Mbugi](https://open.spotify.com/album/5hK2UcaTlooBysUwJjSMhY) | 3:26 |
 | 24 | [Libre](https://open.spotify.com/track/5680bDZ194zUc41nSA10V2) | [The Medina Lopez Project](https://open.spotify.com/artist/1mal4kvjCOYdMhy54u1lbr), [Miguel Vilanova Botafogo](https://open.spotify.com/artist/4JvIylcUq039PpkcmpR86u) | [Rutero](https://open.spotify.com/album/4qlUVuR8BE2GocHNBe67Pk) | 4:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 59 | [Témpano de Hielo](https://open.spotify.com/track/101jHksIr05Ir0cKcpyKpw) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Magnolia](https://open.spotify.com/album/165s9omOoI3IYG7SX7osuq) | 3:13 |
 | 60 | [Avellaneda Blues](https://open.spotify.com/track/15YA2WKbpA7Jd7y7X74naF) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Obras Cumbres](https://open.spotify.com/album/0n3NEHj4PMTmlM6hXXapbm) | 5:33 |
 
-Snapshot ID: `MCxkZmQzZDdiZjg3MTM5NWYzZGE0M2JjNGQ2YTFhZDNkM2MxODA3ZmVh`
+Snapshot ID: `MCxkMzliNTNmNjFjM2QwYmJjNmI3N2MzNWVjYjdlMzE4MTIwZWMwYWU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 
 > Let your stress melt away while you work up a sweat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,805 likes - 115 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,838 likes - 115 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 | 114 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
 | 115 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 
-Snapshot ID: `MCw4MjBiMDRhMDA5NTBkNTJjNmVlYjBhMmM5NWY4Yzg5Mjc5MWViOTk3`
+Snapshot ID: `MCxhOTQ0MTFiMTIyOTVkZjRmNjllNjhjM2ZkMDFkODMyMjFiNDlhMDg1`

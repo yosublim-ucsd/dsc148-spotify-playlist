@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: Ålborg
 
-1,117 songs - 2 day 22 hr 32 min
+1,121 songs - 2 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 | 2023-06-20 | 2023-08-25 |
 | [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 | 2022-11-01 | 2022-12-16 |
 | [Gandhara](https://open.spotify.com/track/6h09yhrRik8ihuoDyaYjWy) | [Pirokalpin](https://open.spotify.com/artist/1ftpYph651Il5aufimlG9v) | [Gandhara](https://open.spotify.com/album/5SOlT2SB2SU62T1HcWxWSZ) | 3:56 | 2023-04-04 | 2023-04-12 |
-| [Gatsby](https://open.spotify.com/track/6oMAlkEP9u96hfAMoZfTwo) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [器器回回](https://open.spotify.com/album/1yrsuxaSlA0QvvF7hfNRzN) | 3:42 | 2023-09-05 |  |
+| [Gatsby](https://open.spotify.com/track/0fY2kx2T3v1XIsyL1fWNQP) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [KikiKaikai](https://open.spotify.com/album/4wkbntjtGIVTsORR7qH1XD) | 3:42 | 2023-09-05 |  |
+| [Gatsby](https://open.spotify.com/track/6oMAlkEP9u96hfAMoZfTwo) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [器器回回](https://open.spotify.com/album/1yrsuxaSlA0QvvF7hfNRzN) | 3:42 | 2023-09-05 | 2023-09-07 |
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-21 | 2023-02-24 |
 | [Genyo](https://open.spotify.com/track/2YVjGPH1suANfQWCtFn4Ts) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [Genyo](https://open.spotify.com/album/210mwuTXBm8LWt5lH1KuR7) | 3:57 | 2023-08-08 | 2023-08-23 |
 | [GIRIGIRI GIRL](https://open.spotify.com/track/5rdmr4IyRZwudS44rQdxma) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [GIRIGIRI GIRL](https://open.spotify.com/album/6a2mJptpyDgHXF6OdaNWgt) | 3:25 | 2023-06-20 | 2023-07-05 |
@@ -163,7 +164,8 @@
 | [Give Me](https://open.spotify.com/track/7KMMwN6c0gOnPcXPhhAcAi) | [LilyClone](https://open.spotify.com/artist/7b9iPPDSz0VFOHu3xmbDDE) | [Give Me](https://open.spotify.com/album/4riCVcsuZNLGs0iqF6kM7T) | 3:10 | 2022-06-02 | 2022-06-07 |
 | [GO](https://open.spotify.com/track/0vk7STMAkAoJW9TksOrYV2) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [GO](https://open.spotify.com/album/4PrNZxvasWytfc6p1VPm8D) | 3:20 | 2022-05-31 | 2022-06-16 |
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
-| [GO STRAIGHT feat.こぴ](https://open.spotify.com/track/6FXLer6D6xXJvK0xErLlvn) | [kobasolo](https://open.spotify.com/artist/4n2W84plMrq8WttT18Npwi), [こぴ](https://open.spotify.com/artist/7o5Zl6NC3E8gO3sDoEjyqU) | [GO STRAIGHT feat.こぴ](https://open.spotify.com/album/6naodXZPKLKBBYd0Hbdv3u) | 3:26 | 2023-09-05 |  |
+| [GO STRAIGHT feat.KOPI](https://open.spotify.com/track/3EaUfuF5JpTGuBUUo4f1pi) | [kobasolo](https://open.spotify.com/artist/4n2W84plMrq8WttT18Npwi), [KOPI](https://open.spotify.com/artist/2AmXHyB9qc6FlnOuy9loLE) | [GO STRAIGHT feat.KOPI](https://open.spotify.com/album/5B2ujC57Dcjt2PNZoyy7SE) | 3:26 | 2023-09-05 |  |
+| [GO STRAIGHT feat.こぴ](https://open.spotify.com/track/6FXLer6D6xXJvK0xErLlvn) | [kobasolo](https://open.spotify.com/artist/4n2W84plMrq8WttT18Npwi), [こぴ](https://open.spotify.com/artist/7o5Zl6NC3E8gO3sDoEjyqU) | [GO STRAIGHT feat.こぴ](https://open.spotify.com/album/6naodXZPKLKBBYd0Hbdv3u) | 3:26 | 2023-09-05 | 2023-09-07 |
 | [Go to the Future \(feat.UCARY & THE VALENTINE\)](https://open.spotify.com/track/14O1wDFY8hPdPnXVWZzzvX) | [BimBamBoom feat.UCARY & THE VALENTINE](https://open.spotify.com/artist/76HqS0SKrhxTZVHyoOTboT), [UCARY & THE VALENTINE](https://open.spotify.com/artist/70q8vmCvToQ88nMwSX0MI7) | [Go to the Future](https://open.spotify.com/album/5YgfP3oOWSmxDGF1YDTqxp) | 5:08 | 2022-06-07 | 2022-06-12 |
 | [God Willing](https://open.spotify.com/track/6aQy9KENQWKlhqcHUax5ln) | [アルバ・セラ](https://open.spotify.com/artist/1fYq3V8T7IStSwwMth3chB) | [God Willing](https://open.spotify.com/album/7gSLS0JtHCihkRxEuZ2TOf) | 2:43 | 2023-06-22 | 2023-09-06 |
 | [GOKKO](https://open.spotify.com/track/1rhpSPzVqNW1m3FPwA1b2s) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [GOKKO](https://open.spotify.com/album/1lVJ1LWjQfnthPH3gbUZwJ) | 3:06 | 2023-04-18 | 2023-05-27 |
@@ -322,7 +324,8 @@
 | [Natural](https://open.spotify.com/track/6jORyuT0NO71bNeQgwcdAi) | [AQMO](https://open.spotify.com/artist/6fQQ8G7xptjlxYPLY7Lvuy) | [Natural / Sabotage](https://open.spotify.com/album/2qqTrHWRm4zSEWNQW39d2E) | 2:06 | 2023-01-05 | 2023-01-11 |
 | [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 | 2023-08-01 |  |
 | [NEO KAWAII, K?](https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP) | 2:34 | 2023-08-01 | 2023-08-03 |
-| [never](https://open.spotify.com/track/6qMhk6Xj8nR3BZk1OdBEyx) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [never](https://open.spotify.com/album/2LQaHH45sZDy0p3GudOjgU) | 4:21 | 2023-09-05 |  |
+| [never](https://open.spotify.com/track/1B2Lt7VQ5aNkbTLuViieCf) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [あの子の居場所](https://open.spotify.com/album/1SPApkvSiWPYoR9RtsEbdW) | 4:21 | 2023-09-05 |  |
+| [never](https://open.spotify.com/track/6qMhk6Xj8nR3BZk1OdBEyx) | [レトロマイガール!!](https://open.spotify.com/artist/3dtVOi7B41MT6TKllYhfuT) | [never](https://open.spotify.com/album/2LQaHH45sZDy0p3GudOjgU) | 4:21 | 2023-09-05 | 2023-09-07 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-12 | 2023-06-21 |
 | [New Day Rising](https://open.spotify.com/track/3e0gxqtZgfYccVBaKvNR4i) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [New Day Rising](https://open.spotify.com/album/1MgkIYvkpA9DmBdN17DPQu) | 2:52 | 2023-05-23 | 2023-07-12 |
 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-15 | 2023-04-25 |
@@ -561,7 +564,8 @@
 | [あの笑み \(feat\. ano\)](https://open.spotify.com/track/3ZV2Ikfk9eGJbPZLqLjgQy) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [あの笑み \(feat\. ano\)](https://open.spotify.com/album/1QuHCYOQRcHOfCROj1FrkV) | 4:50 | 2022-06-21 | 2022-06-29 |
 | [あばよ、](https://open.spotify.com/track/2EmNn0bH0C8YN0e6Hei0nT) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [日日爛漫](https://open.spotify.com/album/45sqLJokVzE6iKntXyfHxM) | 4:23 | 2022-06-02 | 2022-06-19 |
 | [あふれる](https://open.spotify.com/track/02f1DFPiEj3FGwv1YgAPSF) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [あふれる](https://open.spotify.com/album/1dSOQeJTUPMvqXhM3jNvAG) | 5:15 | 2022-06-30 | 2022-07-03 |
-| [ある夏の記録](https://open.spotify.com/track/5s5uO2dBoYA8MiFAYmNtJJ) | [kittone](https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js) | [ある夏の記録](https://open.spotify.com/album/4qINgkQDfjk1a9SNffeh7M) | 3:03 | 2023-09-05 |  |
+| [ある夏の記録](https://open.spotify.com/track/2cRAbQKSmwpDBWk1k6iCzU) | [kittone](https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js) | [ある夏の記録](https://open.spotify.com/album/2flAmkwxY2hg2mZ6elCFhE) | 3:03 | 2023-09-05 |  |
+| [ある夏の記録](https://open.spotify.com/track/5s5uO2dBoYA8MiFAYmNtJJ) | [kittone](https://open.spotify.com/artist/39TN8EVF4BTFRW6tSN38js) | [ある夏の記録](https://open.spotify.com/album/4qINgkQDfjk1a9SNffeh7M) | 3:03 | 2023-09-05 | 2023-09-07 |
 | [いつもの](https://open.spotify.com/track/5C0iUJLwDy46icXAW1a1Yn) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [突き動かされてく僕たちは、](https://open.spotify.com/album/0Gb29j2OvkVp9mIqfXwnvO) | 2:46 | 2022-06-02 | 2022-06-08 |
 | [いない](https://open.spotify.com/track/6cdidMywmLuwCIEfsyQjCu) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [いない](https://open.spotify.com/album/56HbxEIjImFxbiVbg3MfOS) | 3:26 | 2022-06-02 | 2022-06-06 |
 | [いなくなったもの](https://open.spotify.com/track/6jUHx2SGaAtxNWyT6kqAIO) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [ないちゃった、](https://open.spotify.com/album/62scCEXozPOw1OmCGf3Vkl) | 5:04 | 2022-08-30 | 2022-09-07 |

@@ -1508,6 +1508,24 @@
     {
       "album": {
         "name": "15",
+        "url": "https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "Crazy Bitch",
+      "url": "https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8"
+    },
+    {
+      "album": {
+        "name": "15",
         "url": "https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV"
       },
       "artists": [
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 246333,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7zQ5nqAKKfk0gtBgV70gyq"
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 238173,
       "name": "Here Is Gone",
       "url": "https://open.spotify.com/track/4KqTGPPmXowMPEoShSVOta"
@@ -8970,7 +8988,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "Warning",
       "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"

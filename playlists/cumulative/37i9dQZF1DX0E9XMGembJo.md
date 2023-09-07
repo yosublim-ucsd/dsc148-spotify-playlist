@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-19 | 2023-09-06 |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-19 |  |
 | [16](https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:36 | 2022-03-25 | 2023-04-22 |
 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-01-13 | 2022-10-21 |
 | [3 outfits](https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [3 outfits](https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1) | 3:30 | 2022-03-28 | 2022-07-29 |
@@ -430,7 +430,7 @@
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-12-29 | 2022-07-29 |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 | 2022-04-14 | 2022-07-29 |
 | [Sold out of Love](https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Sold out of Love](https://open.spotify.com/album/6IScP3wFdmrD6dmlbQaN1F) | 4:19 | 2023-03-03 | 2023-04-01 |
-| [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 | 2022-03-25 |  |
+| [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 | 2022-03-25 | 2023-09-07 |
 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 | 2022-03-25 | 2022-03-28 |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2022-04-01 | 2022-04-19 |
 | [Song From Hell](https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Song From Hell](https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL) | 3:03 | 2021-12-29 | 2022-07-29 |

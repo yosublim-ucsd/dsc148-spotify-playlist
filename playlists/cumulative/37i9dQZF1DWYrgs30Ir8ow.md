@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Burna Boy
+> Altijd fris in Fresh Hits\. Cover: Kenya Grace
 
 284 songs - 13 hr 35 min
 

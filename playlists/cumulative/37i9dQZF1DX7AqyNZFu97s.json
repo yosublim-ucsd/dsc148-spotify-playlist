@@ -12384,7 +12384,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 142440,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/6QubwExsLg5yvnrPGAG3Qp"
@@ -20406,6 +20406,24 @@
       "duration_ms": 212083,
       "name": "THE PITS",
       "url": "https://open.spotify.com/track/46cZxkXopRouI09385uHCS"
+    },
+    {
+      "album": {
+        "name": "The Prophet & I",
+        "url": "https://open.spotify.com/album/0UdlT14jyqKqXAPpl8qShn"
+      },
+      "artists": [
+        {
+          "name": "Whitelands",
+          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237884,
+      "name": "The Prophet & I",
+      "url": "https://open.spotify.com/track/3z2fIQXmB9kgY1R3w4yUk2"
     },
     {
       "album": {

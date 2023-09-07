@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: STRAIGHTENER\(ストレイテナー\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,066 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,149 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 6 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
 | 7 | [6or9](https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [6or9](https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW) | 3:35 |
 | 8 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
-| 9 | [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 |
+| 9 | [Shin Takara Jima \(hf remix\)](https://open.spotify.com/track/0cJEseMqUZcRsEJpceH5Zb) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Tsuki no Maboroshi \~ Remix works \~](https://open.spotify.com/album/677gGniYchInGseMSycVKe) | 4:08 |
 | 10 | [Ub\(You bet on it\)](https://open.spotify.com/track/58IZzlhuaxPKp50jdrxPnp) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Ub\(You bet on it\)](https://open.spotify.com/album/5tDFk6M0V0gW7tbqCamTsx) | 4:03 |
 | 11 | [ghosted](https://open.spotify.com/track/0X53TLIHdotP2JeUYq4NbW) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/4jqo33DQb1mHK7ynzNmKa9) | 2:54 |
 | 12 | [California coconuts](https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [California coconuts](https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9) | 3:55 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 69 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
 | 70 | [TAKE OFF～赤いポルシェ～ \- 2023 Version](https://open.spotify.com/track/59O7pXJ61lzi4J8tJFAE6h) | [The Good\-Bye](https://open.spotify.com/artist/2tZR9hVz2yoMNAAvS1QwZ3) | [Oldies But Good Buy! Vol\. III](https://open.spotify.com/album/0XNtM27DPAOYcuPiReDtER) | 4:51 |
 | 71 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
-| 72 | [さらば世界](https://open.spotify.com/track/5moXWdc1WSGamWwlD5YL4Z) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [色即是空](https://open.spotify.com/album/0rpJ5FMeYS2i5099FiUcsA) | 8:15 |
+| 72 | [さらば世界](https://open.spotify.com/track/4O2R1FWAdrF7HBrUBCiPsL) | [Ningen Isu](https://open.spotify.com/artist/4rd6QvHo3CdZNmZrPJs8yz) | [色即是空](https://open.spotify.com/album/34HCqTjxeot4jQme5gTsJu) | 8:15 |
 | 73 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
 | 74 | [敗れざる者](https://open.spotify.com/track/0gYW9W9HyF76360oQof3Ty) | [SA](https://open.spotify.com/artist/6ltrzJoPt65XBEylX3a8xr) | [敗れざる者](https://open.spotify.com/album/1VpXefTs5g3JvJLNKq20Hw) | 6:22 |
 | 75 | [群青日和](https://open.spotify.com/track/1oWlUSljPUqKwbvEl0C3zE) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [教育](https://open.spotify.com/album/0WhNxc2V5kYKaPevYHVT5v) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 |
 | 80 | [キラーチューン](https://open.spotify.com/track/7bDgXhmpzHjvWx4qrtFaDS) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [娯楽\(バラエティ\)](https://open.spotify.com/album/3lppsAthiV8VkNYwTPJBRp) | 3:42 |
 
-Snapshot ID: `MCw5NDRmYzliYjdjN2ZlNmVkMDE1NThkNDE5OTk2NDY0ZDk3YTgxZjQ1`
+Snapshot ID: `MCxmZmZhODRmOGRjOWIzNTRiMTI4ODAxMWJhMjExZWVkMTMyZjRkNjA0`

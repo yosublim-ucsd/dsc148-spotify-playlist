@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 56290,
+  "num_followers": 56499,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2VhYzAwMTIwYTExNDA0ODdjMTI2OTNmMGY5NWFjNTAwM2UxOTY5",
+  "snapshot_id": "MCwyZDM1MDNiZjBmYWI4YzZlOGQ3NmIxN2Y3Mzk0MmU0NGY1ODNmNGJm",
   "tracks": [
     {
       "added_at": "2023-09-01 00:01:00",
@@ -899,6 +899,30 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Voice of Truth",
+        "url": "https://open.spotify.com/album/5g3V6zzN6xNcdPzJOaak14"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 263470,
+      "name": "Oh My Soul",
+      "url": "https://open.spotify.com/track/0uQfatIe71HRJHJrBdtlNc"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "The Lord's Prayer (It's Yours) [Acoustic]",
         "url": "https://open.spotify.com/album/6smqQyvINcOFg13yRysvx6"
       },
@@ -935,26 +959,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Jehovah 'Meliwo (Live)",
-        "url": "https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "121 Selah",
-          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "Jehovah 'Meliwo - Live",
-      "url": "https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
       },
@@ -975,18 +979,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Jehovah 'Meliwo (Live)",
+        "url": "https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 299160,
+      "name": "Jehovah 'Meliwo - Live",
+      "url": "https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1007,6 +1015,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Wind of Revival",
         "url": "https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY"
       },
@@ -1023,26 +1047,38 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Voice of Truth",
-        "url": "https://open.spotify.com/album/5g3V6zzN6xNcdPzJOaak14"
+        "name": "Bina Moya Waka (Live)",
+        "url": "https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
         },
         {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
         }
       ],
-      "duration_ms": 263470,
-      "name": "Oh My Soul",
-      "url": "https://open.spotify.com/track/0uQfatIe71HRJHJrBdtlNc"
+      "duration_ms": 397850,
+      "name": "Bina Moya Waka (Live)",
+      "url": "https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 481462,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1067,38 +1103,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B"
+        "name": "My Beautiful Reality",
+        "url": "https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1"
       },
       "artists": [
         {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 481462,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "The Lord's Prayer (It's Yours)",
-        "url": "https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "The Lord's Prayer (It's Yours)",
-      "url": "https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe"
+      "duration_ms": 247068,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/5XmBjBjVxyhZGK7tR4u7GH"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1119,38 +1135,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "My Beautiful Reality",
-        "url": "https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1"
+        "name": "The Lord's Prayer (It's Yours)",
+        "url": "https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 247068,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/5XmBjBjVxyhZGK7tR4u7GH"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Bina Moya Waka (Live)",
-        "url": "https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         },
         {
-          "name": "Mmatema",
-          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 397850,
-      "name": "Bina Moya Waka (Live)",
-      "url": "https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ"
+      "duration_ms": 225866,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Alagbara (feat. Lyrical HI) [Live]",
+        "url": "https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 734122,
+      "name": "Alagbara (feat. Lyrical HI) - Live",
+      "url": "https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "I Will Sing (Refreshed)",
         "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
       },
@@ -1251,6 +1271,26 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "B'ola (Live)",
+        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Sola Allyson",
+          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
+        }
+      ],
+      "duration_ms": 650499,
+      "name": "B'ola (Live)",
+      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1295,26 +1335,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "B'ola (Live)",
-        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Sola Allyson",
-          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
-        }
-      ],
-      "duration_ms": 650499,
-      "name": "B'ola (Live)",
-      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Ife Wami",
         "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 137739,
       "name": "Ife Wami",
       "url": "https://open.spotify.com/track/1UECz0x5gEGn8ZqNVWwdFV"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Alagbara (feat. Lyrical HI) [Live]",
-        "url": "https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk"
-      },
-      "artists": [
-        {
-          "name": "Onos",
-          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 734122,
-      "name": "Alagbara (feat. Lyrical HI) - Live",
-      "url": "https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "We Worship You",
-        "url": "https://open.spotify.com/album/1nQfQaeAcEudQFq4OdvezF"
-      },
-      "artists": [
-        {
-          "name": "Steve Williz",
-          "url": "https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K"
-        },
-        {
-          "name": "Ruby Steph",
-          "url": "https://open.spotify.com/artist/7d96r4QJVhTeZFHnDZDOG2"
-        }
-      ],
-      "duration_ms": 396383,
-      "name": "We Worship You",
-      "url": "https://open.spotify.com/track/1x2XWjn4AAeFTLZLfhbQf0"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 233128,
       "name": "I No Send",
       "url": "https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "We Worship You",
+        "url": "https://open.spotify.com/album/1nQfQaeAcEudQFq4OdvezF"
+      },
+      "artists": [
+        {
+          "name": "Steve Williz",
+          "url": "https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K"
+        },
+        {
+          "name": "Ruby Steph",
+          "url": "https://open.spotify.com/artist/7d96r4QJVhTeZFHnDZDOG2"
+        }
+      ],
+      "duration_ms": 396383,
+      "name": "We Worship You",
+      "url": "https://open.spotify.com/track/1x2XWjn4AAeFTLZLfhbQf0"
     },
     {
       "added_at": "2023-09-01 00:01:00",

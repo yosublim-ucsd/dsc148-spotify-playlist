@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 22453,
+  "num_followers": 22489,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBmNjU3Y2UyMDQxMjI3MWFiNjJiNmQ1NGI2NzM4MDM4YmJjNzY2",
+  "snapshot_id": "MCxhZWI4MDZmOWY0NjJjYzQzNTQ4OThmODU4YTM4NTU0MjkzZTQ5MGVi",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
+      "duration_ms": 265546,
+      "name": "Z\u00fambalo",
+      "url": "https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 265546,
-      "name": "Z\u00fambalo",
-      "url": "https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE"
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
+        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
+      },
+      "artists": [
+        {
+          "name": "Rossy",
+          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
+        }
+      ],
+      "duration_ms": 174278,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Nosotros",
         "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 212640,
       "name": "Dime Que Pas\u00f3",
       "url": "https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
-        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
-      },
-      "artists": [
-        {
-          "name": "Rossy",
-          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
-        }
-      ],
-      "duration_ms": 174278,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
     },
     {
       "added_at": "2021-12-16 22:41:17",

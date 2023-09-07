@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,579 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,607 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fuga de Ausencias](https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Cabeza Negra](https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5) | 2:34 |
 | 2 | [Se Dice De Mi](https://open.spotify.com/track/7rb5qQHrnnwUwS4udW6J8H) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:28 |
 | 3 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
-| 4 | [Pasos](https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Viajera](https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6) | 5:23 |
+| 4 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
 | 5 | [Vida Mia](https://open.spotify.com/track/1P77zNEkaHp4h3onP8eeMY) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vida Mía](https://open.spotify.com/album/6Zt7hlarp5sKgg01d3taj8) | 3:58 |
-| 6 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
+| 6 | [Pasos](https://open.spotify.com/track/3R8j435shaOqqAIihPo2Mb) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Viajera](https://open.spotify.com/album/1pMNh3OgDHDxu8HnHZhxS6) | 5:23 |
 | 7 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 |
 | 8 | [Siempre Se Vuelve a Buenos Aires](https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 3:18 |
 | 9 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Tal vez será su voz](https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Orquesta El Arranque](https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV) | [Tal Vez Será Su Voz](https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW) | 4:25 |
 | 55 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
 
-Snapshot ID: `MCwxM2ZhMDI2ZWIxMmE5MDQ2MjMwZDBiNTUyMzQxMGQyNDhmNmFmYzhl`
+Snapshot ID: `MCxjMTAxMDQ5NjRiNGFiOWE5ZTQ2YzlhNDc4MWRlYjQxNTY3Zjc2ODE2`

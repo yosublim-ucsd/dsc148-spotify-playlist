@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 381177,
+  "num_followers": 381210,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjcwOTJlNjEwOTU5Y2VmZmFkZjE4YzQwYWMxZjk3ZWM5NDY1ZDQx",
+  "snapshot_id": "MCxiOGM0MjkzNjgzMmQ0YTcxMjBmYzlmODI3ODMzMDRkN2YxOTI1ZjMz",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "No Ordinary",
+        "url": "https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 184795,
+      "name": "No Ordinary",
+      "url": "https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "No Ordinary",
-        "url": "https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184795,
-      "name": "No Ordinary",
-      "url": "https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Superdream",
-        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 218940,
-      "name": "Purple Sand (My Home)",
-      "url": "https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Superdream",
+        "url": "https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 218940,
+      "name": "Purple Sand (My Home)",
+      "url": "https://open.spotify.com/track/4knUlOyIeFGKH1ObRzfRcl"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199996,
-      "name": "Lose Your Head",
-      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 202247,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Boy in Jeans",
+        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 216003,
+      "name": "Haircut",
+      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Awaken (Feel Alive)",
         "url": "https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 180204,
       "name": "Awaken (Feel Alive)",
       "url": "https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Boy in Jeans",
-        "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 216003,
-      "name": "Haircut",
-      "url": "https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "LP (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
-      },
-      "artists": [
-        {
-          "name": "Discovery",
-          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Swing Tree",
-      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "ACT ONE (The Complete Collection)",
         "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 212773,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "LP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
+      },
+      "artists": [
+        {
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Swing Tree",
+      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
     },
     {
       "added_at": "2023-01-11 21:01:15",

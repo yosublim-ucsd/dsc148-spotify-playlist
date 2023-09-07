@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 32029,
+  "num_followers": 32041,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmE2ZWNjNmMyOTBkOWE0OGRmNmM0MDNhMjNjNDY0M2MzNDM3NGY5",
+  "snapshot_id": "MCxkMDc4MzViNGJmMzYyNzlmYTk1NmY2NjFiNWRlNWFmNzgyNThmNDdm",
   "tracks": [
     {
       "added_at": "2023-08-24 08:58:51",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-24 08:58:51",
       "album": {
-        "name": "Karuna's Sleep Clinic",
-        "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
-      },
-      "artists": [
-        {
-          "name": "Karuna Satori ASMR",
-          "url": "https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5"
-        }
-      ],
-      "duration_ms": 232571,
-      "name": "Sleep Clinic Part 2",
-      "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
-    },
-    {
-      "added_at": "2023-08-24 08:58:51",
-      "album": {
         "name": "Showering You In Compliments",
         "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 211128,
       "name": "Showering You In Compliments Pt.2",
       "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
+    },
+    {
+      "added_at": "2023-08-24 08:58:51",
+      "album": {
+        "name": "Karuna's Sleep Clinic",
+        "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
+      },
+      "artists": [
+        {
+          "name": "Karuna Satori ASMR",
+          "url": "https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "Sleep Clinic Part 2",
+      "url": "https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo"
     },
     {
       "added_at": "2023-08-24 08:58:51",
@@ -644,9 +644,25 @@
           "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
         }
       ],
-      "duration_ms": 294500,
-      "name": "Removing Negative Energy",
-      "url": "https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh"
+      "duration_ms": 187382,
+      "name": "Everything is Okay",
+      "url": "https://open.spotify.com/track/0EuUoivsrB7lBHZDffnvxc"
+    },
+    {
+      "added_at": "2023-08-24 08:58:51",
+      "album": {
+        "name": "10 Triggers To Help Relax Your Brain At Night",
+        "url": "https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "duration_ms": 584000,
+      "name": "Whispers and Dry Ear Massage",
+      "url": "https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T"
     },
     {
       "added_at": "2023-08-24 08:58:51",
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-08-24 08:58:51",
       "album": {
-        "name": "10 Triggers To Help Relax Your Brain At Night",
-        "url": "https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb"
+        "name": "Let's Fall Asleep Together",
+        "url": "https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2"
       },
       "artists": [
         {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+          "name": "ASMR Cherry Crush",
+          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
         }
       ],
-      "duration_ms": 584000,
-      "name": "Whispers and Dry Ear Massage",
-      "url": "https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T"
+      "duration_ms": 218000,
+      "name": "It's Just You and Me",
+      "url": "https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D"
     },
     {
       "added_at": "2023-08-24 08:58:51",
@@ -711,22 +727,6 @@
       "duration_ms": 302000,
       "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
       "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
-    },
-    {
-      "added_at": "2023-08-24 08:58:51",
-      "album": {
-        "name": "Let's Fall Asleep Together",
-        "url": "https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2"
-      },
-      "artists": [
-        {
-          "name": "ASMR Cherry Crush",
-          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "It's Just You and Me",
-      "url": "https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D"
     },
     {
       "added_at": "2023-08-24 08:58:51",
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
         }
       ],
-      "duration_ms": 187382,
-      "name": "Everything is Okay",
-      "url": "https://open.spotify.com/track/0EuUoivsrB7lBHZDffnvxc"
+      "duration_ms": 294500,
+      "name": "Removing Negative Energy",
+      "url": "https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh"
     }
   ],
   "unique_name": "ASMR Sleep Whispers",

@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Carin Leon & Camilo",
-  "num_followers": 25512,
+  "num_followers": 25550,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjM4YzkxYWRiOWEyMWFiMjRjNWUxMmU3M2MzNWM0ZTUzYmYzYjUz",
+  "snapshot_id": "MCxjY2QzZmM4NjE5NjlmZjc1ZTUwMzAyYzEzMTMxMmEzNjMzMjE4YzQ4",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Tatuajes - Deluxe",
-      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 193816,
       "name": "NO SE VA - EN VIVO",
       "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Tatuajes - Deluxe",
+      "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Alguien Me Gusta",
         "url": "https://open.spotify.com/album/79WB96tQV9vPJ920cbneZ9"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 168533,
       "name": "Alguien Me Gusta",
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -807,22 +807,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 157040,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -847,18 +843,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+      "duration_ms": 157040,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Est\u00e1 Da\u00f1ada (Remix)",
-        "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 239840,
-      "name": "Est\u00e1 Da\u00f1ada - Remix",
-      "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Kilos de Amor",
         "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 236267,
       "name": "Kilos de Amor",
       "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Est\u00e1 Da\u00f1ada (Remix)",
+        "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "Est\u00e1 Da\u00f1ada - Remix",
+      "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
     },
     {
       "added_at": "2023-05-26 04:00:00",

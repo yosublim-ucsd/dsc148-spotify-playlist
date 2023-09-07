@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Wandra Restusiyan
 
-207 songs - 16 hr 59 min
+208 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 | 2023-07-13 |  |
 | [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-04-27 |  |
 | [Nemen](https://open.spotify.com/track/0Syc1MureY9jSdoaZRRS7o) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z) | [Nemen](https://open.spotify.com/album/4Do4u9R2HslN3jdu37rPR3) | 5:07 | 2023-08-03 |  |
-| [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-01 |  |
+| [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-08-31 |  |
+| [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-01 | 2023-09-07 |
 | [Nemu](https://open.spotify.com/track/2FvlyBkBPJe1HfScQih3VN) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Nemu](https://open.spotify.com/album/2vKO0ginxICI305ekx233U) | 4:42 | 2023-08-31 |  |
 | [Nemu](https://open.spotify.com/track/1IDDrCfk1MedTTX3SIJrX6) | [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Nemu](https://open.spotify.com/album/1TQCT0n7uZa2JFzxP0xGv1) | 4:26 | 2023-07-24 |  |
 | [Nemu](https://open.spotify.com/track/5ECbbMpv6wWLyR7bOirKML) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nemu](https://open.spotify.com/album/3tR9cN50IM6rKmKSFEAWQy) | 4:30 | 2023-08-11 |  |

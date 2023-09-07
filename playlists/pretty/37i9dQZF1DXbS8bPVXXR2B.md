@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,032 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,094 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 45 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 46 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
 | 47 | [It Looks Like Love](https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY) | [Goody Goody](https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3) | [Goody Goody](https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC) | 6:23 |
-| 48 | [Pull Up To The Bumper \- Edit](https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Island Life](https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI) | 3:38 |
-| 49 | [You Are in My System](https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Sweat](https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe) | 5:57 |
-| 50 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 |
+| 48 | [You Are in My System](https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Sweat](https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe) | 5:57 |
+| 49 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 |
+| 50 | [Pull Up To The Bumper \- Edit](https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Island Life](https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI) | 3:38 |
 | 51 | [Crushed Ice](https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat EP](https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0) | 4:40 |
 | 52 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
 | 53 | [Exotica Dance Club](https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [World](https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80) | 5:27 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 96 | [Do It Do It Disco \(Tom Noble Remix\)](https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt) | [Myron & E](https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj), [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF) | [Do It Do It Disco](https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q) | 5:50 |
 | 97 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2) | 3:49 |
 | 98 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
-| 99 | [All This Love That I'm Givin'](https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Gwen McCrae: Cat & Atlantic Years](https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt) | 3:53 |
-| 100 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
+| 99 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
+| 100 | [All This Love That I'm Givin'](https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Gwen McCrae: Cat & Atlantic Years](https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt) | 3:53 |
 
-Snapshot ID: `MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw`
+Snapshot ID: `MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1`

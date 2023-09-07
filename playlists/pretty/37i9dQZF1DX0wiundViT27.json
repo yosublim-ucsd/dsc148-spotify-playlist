@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 615666,
+  "num_followers": 615707,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzdiNzZjNmNjMmVkOGYwNDg5Nzc2OGM0NDQyNWQ5YTMwYWM1ZjRm",
+  "snapshot_id": "MCw1Zjc4MzY1NWVjZjUzOTEyOGY2ZTZlNTdmMTUwM2NjNWY2YTQ1MWJj",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -155,22 +155,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 170133,
-      "name": "maybe (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
+      "duration_ms": 193106,
+      "name": "1901",
+      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -191,18 +187,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 193106,
-      "name": "1901",
-      "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+      "duration_ms": 170133,
+      "name": "maybe (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",

@@ -1,13 +1,33 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 101979,
+  "num_followers": 102021,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjQwZGQ5MjE5MzdjNzJmZGE1MzRkYmI5N2M2ZjBkN2FmNTgxMGU1",
+  "snapshot_id": "MCxjZWE3NmM2Mzc1ZmY4M2FlMWIxYjA2MjFkNGQ5ODk4YzZlMzE4NTRm",
   "tracks": [
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Unconditional (feat. Rationale)",
+        "url": "https://open.spotify.com/album/14vupgjqKCmYJ0eqMUr9px"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        }
+      ],
+      "duration_ms": 195020,
+      "name": "Unconditional (feat. Rationale)",
+      "url": "https://open.spotify.com/track/3Lgb0uFGQ8SJVoqpq6bSif"
+    },
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {

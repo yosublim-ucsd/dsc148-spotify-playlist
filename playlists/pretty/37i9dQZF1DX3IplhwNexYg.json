@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Nieve Ella",
-  "num_followers": 112697,
+  "num_followers": 112708,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWI2MWFjMzQxN2NlNDQwOTE4Y2RlZmVjODc2M2UxNTEzNzVkYjRm",
+  "snapshot_id": "MCxjYjk3Njk4NjFkNzJlZjMzZjkxMWMwMDRjM2Y3ZjNkOTQ1ZjdlOThl",
   "tracks": [
     {
       "added_at": "2023-08-31 23:22:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 185070,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Better (Edit)",
-        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Better - Edit",
-      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Soft Like a Flower",
-        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
+        "name": "Better (Edit)",
+        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
       "artists": [
         {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Soft Like a Flower",
-      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
+      "duration_ms": 211800,
+      "name": "Better - Edit",
+      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Soft Like a Flower",
+        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Soft Like a Flower",
+      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
     },
     {
       "added_at": "2023-08-17 23:00:00",

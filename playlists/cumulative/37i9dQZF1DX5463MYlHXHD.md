@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: BM & La Champions Liga.
 
-146 songs - 7 hr 55 min
+147 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi) | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr) | 2:08 | 2023-07-25 |  |
 | [Acercate Bandida](https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb) | [El Retutu](https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG) | [El Retutu](https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e) | 3:22 | 2023-05-26 |  |
 | [Adentro del Party](https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Adentro del Party](https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5) | 3:00 | 2023-05-26 |  |
+| [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 | 2023-09-06 |  |
 | [AL RITMO \| E2](https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [AL RITMO \| E2](https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7) | 2:56 | 2023-05-26 |  |
 | [Anoche Yo Me Fui](https://open.spotify.com/track/6Zk6ORgEAzGMfIyBBuCA2E) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Anoche Yo Me Fui](https://open.spotify.com/album/1MYLcG9u7IRQqYfs4oUhcn) | 3:02 | 2023-05-29 | 2023-06-20 |
 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 | 2023-05-26 |  |
@@ -117,7 +118,7 @@
 | [ROCAMORA](https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Juan FLP](https://open.spotify.com/artist/2p0ZRhfSrgGcOHWJ2aExzW) | [ROCAMORA](https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP) | 2:38 | 2023-05-26 |  |
 | [ROMPE](https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [ROMPE](https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh) | 3:13 | 2023-06-16 |  |
 | [Rompe el Party \(Remix\)](https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP) | [Rompe el Party \(Remix\)](https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV) | 3:27 | 2023-05-26 |  |
-| [Sabado Picado](https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Markito Navaja](https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0), [Joaco Lopez](https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR) | [Sabado Picado](https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl) | 2:17 | 2023-05-26 |  |
+| [Sabado Picado](https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Markito Navaja](https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0), [Joaco Lopez](https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR) | [Sabado Picado](https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl) | 2:17 | 2023-05-26 | 2023-09-07 |
 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 | 2023-05-26 |  |
 | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [SANTA FE KLAN \| DJ TAO Turreo Sessions \#473](https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY) | 2:51 | 2023-05-26 |  |
 | [Saveiro](https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Saveiro](https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR) | 3:32 | 2023-05-26 |  |

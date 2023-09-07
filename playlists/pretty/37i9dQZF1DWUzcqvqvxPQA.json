@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25941,
+  "num_followers": 25940,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm",
+  "snapshot_id": "MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 204897,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 177200,
       "name": "Glorify (feat. Toby Mac & Terrian)",
       "url": "https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/1ArqSTfoWMgeVRmDzCa8bq"
+      },
+      "artists": [
+        {
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 204897,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/7iMhd9oIQEM4REnLM0GSwu"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Perspectives",
-        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Perspectives",
-      "url": "https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 193978,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Perspectives",
+      "url": "https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Easy Never Needed You",
-        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Songs for Every Soul",
         "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 257399,
       "name": "Mercy's Tree",
       "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Easy Never Needed You",
+        "url": "https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
     },
     {
       "added_at": "2020-08-13 14:39:00",

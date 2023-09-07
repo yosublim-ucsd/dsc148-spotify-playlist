@@ -2588,6 +2588,24 @@
     {
       "album": {
         "name": "Welcome To The Monkey House",
+        "url": "https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "We Used To Be Friends",
+      "url": "https://open.spotify.com/track/7hPO1N8dk3vH8kCYqHhJZX"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Monkey House",
         "url": "https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx"
       },
       "artists": [
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 199960,
       "name": "We Used To Be Friends",
       "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"

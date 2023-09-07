@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-690 songs - 1 day 16 hr 0 min
+691 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-21 | 2021-07-23 |
 | [Dis\-ease](https://open.spotify.com/track/54DmTIv86D3sYdiawjULQ0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:59 | 2021-05-30 | 2021-05-31 |
 | [Diva](https://open.spotify.com/track/45IUYdyKVvCpS7qKykpUpL) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/21gO4m2HfPPZgWiGYPlB69) | 2:52 | 2023-06-17 |  |
+| [DKHOOL\\\\KHROOG](https://open.spotify.com/track/7bHLhelEYKQPnRPFmyzOyH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 2:45 | 2023-09-06 |  |
 | [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-29 | 2022-09-25 |
 | [Don](https://open.spotify.com/track/4bjdKuJEtkr8IEwBiqyxAq) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:08 | 2021-03-31 | 2021-06-26 |
 | [Don’t Break My Heart](https://open.spotify.com/track/0iZ7MgaUedNHqlqg9PMqsY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 3:25 | 2022-01-08 | 2022-01-10 |
@@ -191,7 +192,7 @@
 | [Fokak](https://open.spotify.com/track/3VLykmyUx8XKraa9SWQgKO) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Fokak](https://open.spotify.com/album/7GBa5aHSXE6ngfAme8oTkD) | 3:32 | 2021-03-27\* | 2021-07-25 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-13 |
 | [Free](https://open.spotify.com/track/6vRHVF61iN8TnMdoFBoE8f) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Free](https://open.spotify.com/album/285ImEOPFTpPC7W4U8CAsP) | 3:38 | 2021-03-27\* | 2022-06-11 |
-| [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-04 |  |
+| [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-04 | 2023-09-07 |
 | [Gamalha Estethnaey](https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Gamalha Estethnaey](https://open.spotify.com/album/77LRIbp593ruGyVw5uQRBZ) | 3:07 | 2022-05-20 | 2022-05-22 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-15 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-10-22 | 2021-11-30 |

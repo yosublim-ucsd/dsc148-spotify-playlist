@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "album": {
         "name": "Prolog I",
         "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
       },
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 248093,
       "name": "palmtreedays_1644.wav",
       "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"

@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 23143,
+  "num_followers": 23177,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGMxYjYxYzQxZmEzNjYxYzZiZmFmNTg1OWFjZjNhMjg2NzI1Mzg3",
+  "snapshot_id": "MCwwYjA4MzY3NDI2NTM4YmIxZjQwZDU2ZTM3ZjMzYWNiODk4MzEzYWNk",
   "tracks": [
     {
       "added_at": "2023-08-28 15:13:51",
@@ -235,18 +235,22 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
-        "name": "En Otro Lugar",
-        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 178326,
-      "name": "En Otro Lugar",
-      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -291,22 +295,18 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
+        "name": "En Otro Lugar",
+        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+      "duration_ms": 178326,
+      "name": "En Otro Lugar",
+      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
-        "name": "Alto Cielo",
-        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 291873,
-      "name": "Con Miedo a Ti",
-      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
         "name": "Solo me gustas cuando yo te gusto a ti",
         "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
       },
@@ -451,22 +435,6 @@
       "duration_ms": 192500,
       "name": "Solo me gustas cuando yo te gusto a ti",
       "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
-        "name": "PROGRESO",
-        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "PROGRESO",
-      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -491,6 +459,54 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
         "name": "favorita",
         "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 127634,
       "name": "favorita",
       "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
-        "name": "Pensando mucho y mal",
-        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Ca\u00edmos las dos",
-      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
         "name": "Novia del A\u00f1o",
         "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
       },
@@ -579,18 +563,50 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+        "name": "Pensando mucho y mal",
+        "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+      "duration_ms": 165882,
+      "name": "Ca\u00edmos las dos",
+      "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
+        "name": "CHINO CADA MARTES",
+        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "chino cada martes",
+      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -611,22 +627,6 @@
       "duration_ms": 179055,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
-        "name": "CHINO CADA MARTES",
-        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "chino cada martes",
-      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
+        "name": "quien me quiere (no me quiere contigo)",
+        "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
+      },
+      "artists": [
+        {
+          "name": "INNMIR",
+          "url": "https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn"
+        },
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        }
+      ],
+      "duration_ms": 167722,
+      "name": "quien me quiere (no me quiere contigo)",
+      "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 199148,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
-        "name": "quien me quiere (no me quiere contigo)",
-        "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
-      },
-      "artists": [
-        {
-          "name": "INNMIR",
-          "url": "https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn"
-        },
-        {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        }
-      ],
-      "duration_ms": 167722,
-      "name": "quien me quiere (no me quiere contigo)",
-      "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
+        "name": "Entre T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        },
+        {
+          "name": "Delgao",
+          "url": "https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN"
+        }
+      ],
+      "duration_ms": 199967,
+      "name": "Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
         "name": "Muchas gracias por venir",
         "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
       },
@@ -867,22 +887,6 @@
       "duration_ms": 131871,
       "name": "friki",
       "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
-        "name": "Cuchillos",
-        "url": "https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 162719,
-      "name": "Cuchillos",
-      "url": "https://open.spotify.com/track/4vEutziRAYewCT97ziq48J"
     }
   ],
   "unique_name": "Radar Espa\u00f1a",

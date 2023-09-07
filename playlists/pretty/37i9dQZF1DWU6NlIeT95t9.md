@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Unearthing up\-and\-coming Pakistani acts\.  Cover: Hassan & Roshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,647 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,716 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 | 49 | [DESIRE](https://open.spotify.com/track/2eSukmpblBGGf5Iyq7cM4e) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [DESIRE / DAYLIGHT](https://open.spotify.com/album/3kcB8jkIK8WtXaOR08wwP3) | 2:10 |
 | 50 | [OUIJA](https://open.spotify.com/track/6cXGq3VUhLg0CQArHnzV1K) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [OUIJA](https://open.spotify.com/album/4nQCfJKGANKKHOIbUEMZLB) | 2:13 |
 
-Snapshot ID: `MCxiNzdkZGE5ZDg1MzY5Y2RlY2IyNzJhYmY5YjY3YWJkYWE2NDIxOTcz`
+Snapshot ID: `MCw4NzljMmFlNDNiYTc0MmUwZjJhMTk4MzgwYWQ2ODEwMDQ5ZDM0NzM4`

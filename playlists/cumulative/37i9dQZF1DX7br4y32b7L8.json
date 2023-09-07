@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "\ud83c\udf6a\ud83c\udf6a\ud83c\udf6a de koekjes blijven smaken naar meer \ud83c\udf6a\ud83c\udf6a\ud83c\udf6a",
+  "description": "songs voor je playlist! #voorjou #prada #vraagtekens #koekje #joost",
   "name": "Viral Hits NL",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 243624,
       "name": "Een Aperolletje",
       "url": "https://open.spotify.com/track/3c8k4sF4W6Sm7EGuMlnPFM"
@@ -1783,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "album": {
         "name": "If We Ever Broke Up",
         "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 186565,
       "name": "Jouw Liefste Wens",
       "url": "https://open.spotify.com/track/75KLtwkL3536HI37ko5A1c"
@@ -3568,7 +3586,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 157605,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
@@ -3586,7 +3604,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 156194,
       "name": "Rocketship",
       "url": "https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa"
@@ -4368,10 +4386,28 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 194827,
       "name": "Volg Je Niet",
       "url": "https://open.spotify.com/track/4gfHKRWnz0TJUNodIOv1tw"
+    },
+    {
+      "album": {
+        "name": "Vraagtekens",
+        "url": "https://open.spotify.com/album/5LiHaTVav0xAbZRAWUwqGH"
+      },
+      "artists": [
+        {
+          "name": "Vxlious",
+          "url": "https://open.spotify.com/artist/0Bzf7UfWcqZ7ATMQ1Mx6sf"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Vraagtekens",
+      "url": "https://open.spotify.com/track/1HMV4HV1r7icaylIaadle6"
     },
     {
       "album": {
@@ -4478,6 +4514,24 @@
       "duration_ms": 188411,
       "name": "Watching You (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

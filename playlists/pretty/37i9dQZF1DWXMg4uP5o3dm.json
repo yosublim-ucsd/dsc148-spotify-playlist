@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 459775,
+  "num_followers": 459876,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmU5OWI2ZWViYjNkZTY1ZWVlNDMwMGViYzE3ZGRjZjUwMjBlNjRi",
+  "snapshot_id": "MCwwNzEyMDRiZDdmZjU3NmExMGVmY2M1NDg0YTAxOTIwYWQ4NWE2MGJm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "RUN THRU ME",
-        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "RUN THRU ME",
-      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 131440,
       "name": "Bang",
       "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "RUN THRU ME",
+        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "RUN THRU ME",
+      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1463,26 +1463,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "COMPLICATED (feat. aldn & 8485)",
-        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
         },
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
         },
         {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
         }
       ],
-      "duration_ms": 180923,
-      "name": "COMPLICATED (feat. aldn & 8485)",
-      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1547,26 +1547,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
+        "name": "COMPLICATED (feat. aldn & 8485)",
+        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
       "artists": [
         {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         },
         {
-          "name": "Brassie",
-          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
         },
         {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
+      "duration_ms": 180923,
+      "name": "COMPLICATED (feat. aldn & 8485)",
+      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "HeatDeath",
+        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
+      },
+      "artists": [
+        {
+          "name": "Suave Punk",
+          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
+        }
+      ],
+      "duration_ms": 317837,
+      "name": "HeatDeath",
+      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Freefall (feat. Oliver Tree)",
         "url": "https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 155498,
       "name": "Freefall (feat. Oliver Tree)",
       "url": "https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "HeatDeath",
-        "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
-      },
-      "artists": [
-        {
-          "name": "Suave Punk",
-          "url": "https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt"
-        }
-      ],
-      "duration_ms": 317837,
-      "name": "HeatDeath",
-      "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
     },
     {
       "added_at": "2023-08-18 04:00:00",

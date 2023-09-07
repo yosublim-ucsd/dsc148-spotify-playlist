@@ -10848,7 +10848,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 176172,
       "name": "Eu disse Adeus querendo ficar",
       "url": "https://open.spotify.com/track/0Jj4aFfMCL4i5aWblDudIQ"
@@ -12032,7 +12032,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 302931,
       "name": "Fefa",
       "url": "https://open.spotify.com/track/0znpD4bZOzpRjG6UuC0OE1"
@@ -20173,6 +20173,24 @@
     },
     {
       "album": {
+        "name": "MTG BCT NO CABE\u00c7\u00c3O x QUERIA MORDER ESSA BOQUINHA",
+        "url": "https://open.spotify.com/album/4Wqx5zHsDgRRYo9Ip9yi4y"
+      },
+      "artists": [
+        {
+          "name": "DJ BETIM ATL",
+          "url": "https://open.spotify.com/artist/1MSe9dn8Q5rGo2vJxkuw9J"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212545,
+      "name": "MTG BCT NO CABE\u00c7\u00c3O x QUERIA MORDER ESSA BOQUINHA",
+      "url": "https://open.spotify.com/track/307XeDy2HCpVtl5IJgkOfk"
+    },
+    {
+      "album": {
         "name": "Mtg Beat Fino Dan\u00e7a do Pombo",
         "url": "https://open.spotify.com/album/3kddxToI1XUeGv8mUEyVK6"
       },
@@ -22316,7 +22334,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 191817,
       "name": "O Pipoqueiro - Agressivo Reliquia",
       "url": "https://open.spotify.com/track/2GdKSEQw5vgWwGh5kqEsd8"
@@ -22744,6 +22762,24 @@
       "duration_ms": 89118,
       "name": "Olhei Pra Ela Deu Match",
       "url": "https://open.spotify.com/track/0GESebPufL91nmnOYTGzWQ"
+    },
+    {
+      "album": {
+        "name": "Olho Encharcado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Jwx9YKfrU3RV4Yya8bEmg"
+      },
+      "artists": [
+        {
+          "name": "Heitor e Murilo",
+          "url": "https://open.spotify.com/artist/28nq89OjJTepzEqPnziinT"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209139,
+      "name": "Olho Encharcado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GXrKLzDyWYJnD2TbgvKiN"
     },
     {
       "album": {
@@ -25644,7 +25680,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 198000,
       "name": "P\u00e9talas",
       "url": "https://open.spotify.com/track/2kwHhz44tvQNedKd0G0ZW6"
@@ -27364,7 +27400,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 137844,
       "name": "Se eu Tivesse que ter Duas",
       "url": "https://open.spotify.com/track/37ht2jJBTBLL899vUIf3jJ"
@@ -30064,6 +30100,28 @@
       "duration_ms": 102812,
       "name": "Ta Tudo Bem Speedplug - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/6ciM89MmIJCgyJ3NKXm9Us"
+    },
+    {
+      "album": {
+        "name": "Take Me to the River (I Will Swim)",
+        "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
+      },
+      "artists": [
+        {
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176104,
+      "name": "Take Me to the River (I Will Swim)",
+      "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
     },
     {
       "album": {

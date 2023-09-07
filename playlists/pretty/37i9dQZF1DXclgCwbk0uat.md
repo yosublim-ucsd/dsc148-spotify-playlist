@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Jere Klein & Nicki Nicole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,858,722 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859,102 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 25 | [Ese Corte \- Remix](https://open.spotify.com/track/7vuo2dgIMzZWejlFk9avrl) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Alexio](https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj) | [Ese Corte \(Remix\)](https://open.spotify.com/album/1uMmDZYSh4YBI8nk1uw5ZR) | 6:51 |
 | 26 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 | 27 | [MADRID](https://open.spotify.com/track/2fXKhkTskJr2zi7iZJmDOq) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [MADRID](https://open.spotify.com/album/4uv3gpD1EVnI2NtDsCIL0D) | 3:15 |
-| 28 | [Los del Espacio](https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/4k5tokcNyKY0XLeEQGyJeT), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Los del Espacio](https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU) | 5:38 |
+| 28 | [Los del Espacio](https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Los del Espacio](https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU) | 5:38 |
 | 29 | [SHERATON](https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [SHERATON](https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI) | 2:22 |
 | 30 | [pa la europa](https://open.spotify.com/track/7f6PquSCnTPMb1AbBu92oI) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [pa la europa](https://open.spotify.com/album/3bUDTQ89TXoOcP4JTCBpeo) | 3:39 |
 | 31 | [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 | 50 | [ANDA SOLITA](https://open.spotify.com/track/3BjIQyc3DOAdrn7QVNh4yx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [ANDA SOLITA](https://open.spotify.com/album/7vY06mGae6JK615cQSvD5F) | 3:22 |
 
-Snapshot ID: `MCw4YWEwZDE2YTNjMDA0ODEyNDQ5ZDE4M2ZmZGYxMWZlNzI4NTFkNzgy`
+Snapshot ID: `MCxlY2UxNWZjNTIwZjM1ZTkwMWQ3OGMxZGNhNTVkYWZmZTVkMjhjYjcw`

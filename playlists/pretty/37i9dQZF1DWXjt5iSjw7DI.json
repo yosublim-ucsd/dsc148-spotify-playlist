@@ -1,12 +1,12 @@
 {
   "description": "Country Music legends recorded live. Just like being there. Cover: Willie Nelson",
-  "num_followers": 72744,
+  "num_followers": 72818,
   "original_name": "Legendary Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjlkYWRkNDhiZjM3YjcyYWRkZjk5NzVkNDNlZjdkNGQ3NTNhODJl",
+  "snapshot_id": "MCw2NTVhZGUzMDQ0NTg5Mjg5ZmM0ZTFjMTA0ZDljYjZmZmQ1MjllOGUz",
   "tracks": [
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live at Church Street Station",
-        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Till I Can Make It on My Own",
-      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "A Man and His Guitar (Live from the Franklin Theatre)",
         "url": "https://open.spotify.com/album/3vmiwcXJZH8LO0h7ttHBBH"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 249023,
       "name": "Country Club - Live",
       "url": "https://open.spotify.com/track/3ghaKch85cqDYht0nQPXYe"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live at Church Street Station",
+        "url": "https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Till I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "A Concert Behind Prison Walls (Live)",
-        "url": "https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk"
+        "name": "Reunion Live",
+        "url": "https://open.spotify.com/album/1aDOVzD0iVmq2qTGqaTUbV"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
         }
       ],
-      "duration_ms": 182080,
-      "name": "You're No Good - Live",
-      "url": "https://open.spotify.com/track/69SNq82yY79pzItVFVBE2a"
+      "duration_ms": 190293,
+      "name": "Rockin' With The Rhythm Of The Rain - Live",
+      "url": "https://open.spotify.com/track/74X536u3RCM3fK5DFKuq86"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
+        "name": "A Concert Behind Prison Walls (Live)",
+        "url": "https://open.spotify.com/album/60hdsEnPsTzSoCd3jwYaUk"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "You're No Good - Live",
+      "url": "https://open.spotify.com/track/69SNq82yY79pzItVFVBE2a"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
         "name": "Hope on the Rocks",
         "url": "https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 257106,
       "name": "Whiskey Girl - Live",
       "url": "https://open.spotify.com/track/3eV5JB75Wu3sC7bHWyzMmL"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Reunion Live",
-        "url": "https://open.spotify.com/album/1aDOVzD0iVmq2qTGqaTUbV"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "Rockin' With The Rhythm Of The Rain - Live",
-      "url": "https://open.spotify.com/track/74X536u3RCM3fK5DFKuq86"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/17PZ8GJrcpZmjA7pbbhsov"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Gentle On My Mind - Live At Garden State Arts Center, 1969",
-      "url": "https://open.spotify.com/track/63UPEFQtDNhs5QDBfAPquR"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "Mickey Gilley",
         "url": "https://open.spotify.com/album/3mrArYIsNdASsv8aZrDIH7"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 181026,
       "name": "Don't the Girls All Get Prettier at Closing Time - Live",
       "url": "https://open.spotify.com/track/1jWiL9aw5eUu3LGOxPRfo7"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/17PZ8GJrcpZmjA7pbbhsov"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Gentle On My Mind - Live At Garden State Arts Center, 1969",
+      "url": "https://open.spotify.com/track/63UPEFQtDNhs5QDBfAPquR"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni"
       },
       "artists": [
         {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 164026,
-      "name": "The Whiskey Ain't Working Anymore",
-      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
+      "duration_ms": 233080,
+      "name": "Drinkin' My Baby Goodbye",
+      "url": "https://open.spotify.com/track/7rKGE2pcmaI7jqzdhTle5x"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2239,18 +2239,18 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/0T4kDCbygbQRDWcMd6bzni"
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/1ye7noRBfTS6r3oHzmdVPo"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 233080,
-      "name": "Drinkin' My Baby Goodbye",
-      "url": "https://open.spotify.com/track/7rKGE2pcmaI7jqzdhTle5x"
+      "duration_ms": 164026,
+      "name": "The Whiskey Ain't Working Anymore",
+      "url": "https://open.spotify.com/track/6xHGmHkExLicFlsTaPx7Sm"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2435,38 +2435,6 @@
     {
       "added_at": "2023-07-24 14:46:54",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
-      },
-      "artists": [
-        {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
-        }
-      ],
-      "duration_ms": 246247,
-      "name": "Cherokee Fiddle",
-      "url": "https://open.spotify.com/track/0StVxDLK1hbA6VRc27dp6e"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/3u7zzDePAxMkttN2cREyvv"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 273792,
-      "name": "Sticks and Stones - Live",
-      "url": "https://open.spotify.com/track/24WfJXpVPfLuT2BfJmkRow"
-    },
-    {
-      "added_at": "2023-07-24 14:46:54",
-      "album": {
         "name": "The Life & Songs Of Kris Kristofferson (Live)",
         "url": "https://open.spotify.com/album/3KWlDqwe4K89vJgLVslZV7"
       },
@@ -2479,6 +2447,22 @@
       "duration_ms": 188875,
       "name": "If You Don't Like Hank Williams - Live",
       "url": "https://open.spotify.com/track/2iU9mnsU9G74ebqwbzbhZh"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 246247,
+      "name": "Cherokee Fiddle",
+      "url": "https://open.spotify.com/track/0StVxDLK1hbA6VRc27dp6e"
     },
     {
       "added_at": "2023-07-24 14:46:54",
@@ -2511,6 +2495,22 @@
       "duration_ms": 155120,
       "name": "Workin' Man Blues - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/78ABaDjslOBXsUJZ27AJsr"
+    },
+    {
+      "added_at": "2023-07-24 14:46:54",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/3u7zzDePAxMkttN2cREyvv"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "duration_ms": 273792,
+      "name": "Sticks and Stones - Live",
+      "url": "https://open.spotify.com/track/24WfJXpVPfLuT2BfJmkRow"
     },
     {
       "added_at": "2023-07-24 14:46:54",

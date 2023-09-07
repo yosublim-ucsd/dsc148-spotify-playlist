@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,760 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,781 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 17 | [Mantra \(feat\. Emicida\)](https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Casas](https://open.spotify.com/album/37svAARdwTp6vApCWBwoec) | 4:54 |
 | 18 | [+ 1 Minuto](https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Amanhã](https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq) | 2:52 |
 | 19 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
-| 20 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
-| 21 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
+| 20 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
+| 21 | [EITA MENINA](https://open.spotify.com/track/2ItOwqddXxLZnOmQmlEbda) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [EITA MENINA](https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE) | 3:07 |
 | 22 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 23 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
 | 24 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 40 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
 | 41 | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6) | 3:36 |
 | 42 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
-| 43 | [Concrete Jungle](https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 3:32 |
-| 44 | [Quando Eu Te Vi / Sorriso \- Ao Vivo](https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Ecoando](https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu) | [Quando Eu Te Vi / Sorriso \(Ao Vivo\)](https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2) | 5:29 |
+| 43 | [Quando Eu Te Vi / Sorriso \(Ao Vivo\)](https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Ecoando](https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu) | [Quando Eu Te Vi / Sorriso \(Ao Vivo\)](https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2) | 5:29 |
+| 44 | [Concrete Jungle](https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 3:32 |
 | 45 | [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 |
 | 46 | [Terrorista Del Amor](https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [TU](https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla) | 3:12 |
 | 47 | [Maris](https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E) | [JORGE](https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP) | [Maris](https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 | 60 | [Rio de Janeiro](https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt) | [josefe](https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX) | [Rio de Janeiro](https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu) | 2:23 |
 
-Snapshot ID: `MCxmZjQzYzJiMjk0MzhmM2Q5MWU4MTA2ZjllNTY2Y2ZlZDk3YTY0Mjli`
+Snapshot ID: `MCw3N2U1ZjU4NmRlNWRmOThmNmE3ZGExYThhYzk2YWRkYzJiNTUzMTll`

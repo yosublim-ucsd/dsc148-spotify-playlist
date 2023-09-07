@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 165162,
+  "num_followers": 165242,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTY1NTRiMTAxN2I2ZTRmNzgwMmYzOGIxZThlYmRhNmQxMTRiNTQz",
+  "snapshot_id": "MCxjODVhYTdiNzdjN2MyYzQ3MzRmMTYwMDk5NWM2NTA3ZWNhYWZjNjcx",
   "tracks": [
     {
       "added_at": "2023-07-21 15:16:33",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+    },
+    {
+      "added_at": "2023-07-21 15:16:33",
+      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "I Don't Want This Night To End",
-      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
-    },
-    {
-      "added_at": "2023-07-21 15:16:33",
-      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "I Don't Want This Night To End",
+      "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
+    },
+    {
+      "added_at": "2023-07-21 15:16:33",
+      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
-    },
-    {
-      "added_at": "2023-07-21 15:16:33",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
       "added_at": "2023-07-21 15:16:33",
@@ -467,18 +467,22 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "Doin' My Thing",
-        "url": "https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF"
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Rain Is A Good Thing",
-      "url": "https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN"
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2023-07-21 15:16:33",
@@ -515,22 +519,18 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+        "name": "Doin' My Thing",
+        "url": "https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+      "duration_ms": 176160,
+      "name": "Rain Is A Good Thing",
+      "url": "https://open.spotify.com/track/1YhFtqwcN138S6ng3MT1nN"
     },
     {
       "added_at": "2023-07-21 15:16:33",
@@ -555,22 +555,22 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         },
         {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
     },
     {
       "added_at": "2023-07-21 15:16:33",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Red Solo Cup",
-      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
-    },
-    {
-      "added_at": "2023-07-21 15:16:33",
-      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Red Solo Cup",
+      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
+    },
+    {
+      "added_at": "2023-07-21 15:16:33",
+      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "One Margarita",
-        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
-    },
-    {
-      "added_at": "2023-07-21 15:16:33",
-      "album": {
         "name": "Heartache Medication",
         "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 207161,
       "name": "Tequila Little Time",
       "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
+    },
+    {
+      "added_at": "2023-07-21 15:16:33",
+      "album": {
+        "name": "One Margarita",
+        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
     },
     {
       "added_at": "2023-07-21 15:16:33",
@@ -789,7 +789,7 @@
       "artists": [
         {
           "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "url": "https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D"
         }
       ],
       "duration_ms": 192160,

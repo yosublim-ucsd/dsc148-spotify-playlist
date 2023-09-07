@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: ITZY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,071 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,073 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 8 | [Diary \(feat\. woojun, YOSO & RYUKIE\)](https://open.spotify.com/track/587tLeBEgwJOM6ZZQet4OM) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [woojun](https://open.spotify.com/artist/1SSvMW5qtrd3RwNIz1wnAN), [YOSO](https://open.spotify.com/artist/3kpEeI6Y782jry8oZznhBR), [RYUKIE](https://open.spotify.com/artist/0FLz2wSeTue5lYUnLtTrj6) | [I wanna be your deepest heart](https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T) | 3:13 |
 | 9 | [Tree ring love](https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0) | [김나희](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tree ring love](https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w) | 3:04 |
 | 10 | [오빠야](https://open.spotify.com/track/7jB0SdrRIHVGzD3jYxaYB7) | [김나희](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [오빠야](https://open.spotify.com/album/11t2XjZbIt8QTZoGgFDfiq) | 3:09 |
-| 11 | [Moon](https://open.spotify.com/track/0fpa3DvcMeXinQvnzuLyP5) | [YEIN](https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY) | [Moon \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/4qLkwZlSFAduDJkJq2fdV7) | 2:34 |
+| 11 | [Moon](https://open.spotify.com/track/0fpa3DvcMeXinQvnzuLyP5) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Moon \(Original Television Soundtrack From "The Witch Store Reopening"\)](https://open.spotify.com/album/4qLkwZlSFAduDJkJq2fdV7) | 2:34 |
 | 12 | [Cry](https://open.spotify.com/track/5VpmWdxkV89STalQ37LwZ2) | [YEIN](https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY) | [Cry](https://open.spotify.com/album/4z5Sdz7hxjPzqdimU8yn8J) | 3:49 |
 | 13 | [Tell me to stay](https://open.spotify.com/track/3pflaLMn6dKSWSAYsUkFDP) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [The First Responders2 \(Original Soundtrack\) Part.5](https://open.spotify.com/album/1FWZHCLObdarD8dmxEP0tl) | 3:53 |
 | 14 | [Zzz](https://open.spotify.com/track/5nkZdkNASdmqLCYQX6pUcL) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [20](https://open.spotify.com/album/3bKG0PTv61QT1NxY65qmLM) | 4:03 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 19 | [We Disappear](https://open.spotify.com/track/07Jp78AgohesnVw8yG70Od) | [JEMMA](https://open.spotify.com/artist/3keZ1fbgJDFYLaY9rwxTW5) | [Behind you touch OST Part 4](https://open.spotify.com/album/5gspr3TUkkF0ZrNu4x47VV) | 3:32 |
 | 20 | [Writer′s Block](https://open.spotify.com/track/3YRQSxSShn0n5R9SFVBhwf) | [JEMMA](https://open.spotify.com/artist/3keZ1fbgJDFYLaY9rwxTW5) | [Writer′s Block](https://open.spotify.com/album/1LPUEWmPqm8QBIW0vjtfTX) | 3:29 |
 
-Snapshot ID: `MCwwODMwNDE4NTRmZmVkN2RkNWMyM2I3ZGU1YThmMzViYzU5NzY4YjEw`
+Snapshot ID: `MCwyMGJiY2Y4NmUyMTllOWQ0NGJiZGY1MDA5YjhjZjY4OTQ3MGE2Yjc3`

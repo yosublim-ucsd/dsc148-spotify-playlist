@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69961,
+  "num_followers": 69968,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3",
+  "snapshot_id": "MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Dejanos Pasar",
+        "url": "https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 175567,
+      "name": "Dejanos Pasar",
+      "url": "https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Baby Schai (Remix)",
         "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
       },
@@ -687,26 +707,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Dejanos Pasar",
-        "url": "https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 175567,
-      "name": "Dejanos Pasar",
-      "url": "https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Porche Carrera",
         "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
@@ -727,22 +727,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "M\u00e1s de Ti",
-        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
+        "name": "Mi Secreto",
+        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
         }
       ],
-      "duration_ms": 266835,
-      "name": "M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
+      "duration_ms": 179834,
+      "name": "Mi Secreto",
+      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -763,18 +759,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Mi Secreto",
-        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
+        "name": "M\u00e1s de Ti",
+        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
       },
       "artists": [
         {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
         }
       ],
-      "duration_ms": 179834,
-      "name": "Mi Secreto",
-      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
+      "duration_ms": 266835,
+      "name": "M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Otra",
-        "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
-      },
-      "artists": [
-        {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Otra",
-      "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Gucci Prada",
         "url": "https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 183352,
       "name": "Gucci Prada",
       "url": "https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "EL FAVORITO DE LAS NENAS",
-        "url": "https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S"
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
       "artists": [
         {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
         }
       ],
-      "duration_ms": 150887,
-      "name": "CANDY \"4:00 PG\"",
-      "url": "https://open.spotify.com/track/0Ot8SkmztkeOosIW96GtWC"
+      "duration_ms": 216576,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
+        "name": "EL FAVORITO DE LAS NENAS",
+        "url": "https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S"
       },
       "artists": [
         {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
-        {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         }
       ],
-      "duration_ms": 216576,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+      "duration_ms": 150887,
+      "name": "CANDY \"4:00 PG\"",
+      "url": "https://open.spotify.com/track/0Ot8SkmztkeOosIW96GtWC"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "La Esquina",
+        "url": "https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 245506,
+      "name": "La Esquina",
+      "url": "https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "19 Crema",
         "url": "https://open.spotify.com/album/69lwdO2wfRE7UICTvC2nC6"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 246408,
       "name": "19 Crema",
       "url": "https://open.spotify.com/track/3Toeb72Jvw4o5duxvPwYJP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "La Esquina",
-        "url": "https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB"
-      },
-      "artists": [
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 245506,
-      "name": "La Esquina",
-      "url": "https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Piky",
-        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
-      },
-      "artists": [
-        {
-          "name": "Producto Sin Corte",
-          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
-        }
-      ],
-      "duration_ms": 161775,
-      "name": "Piky",
-      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 197480,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Piky",
+        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
+      },
+      "artists": [
+        {
+          "name": "Producto Sin Corte",
+          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
+        }
+      ],
+      "duration_ms": 161775,
+      "name": "Piky",
+      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Traficando",
-        "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
-      },
-      "artists": [
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        }
-      ],
-      "duration_ms": 267633,
-      "name": "Traficando",
-      "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Si Si",
         "url": "https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 200362,
       "name": "Si Si",
       "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Traficando",
+        "url": "https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "duration_ms": 267633,
+      "name": "Traficando",
+      "url": "https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ"
     },
     {
       "added_at": "2023-06-09 02:27:24",

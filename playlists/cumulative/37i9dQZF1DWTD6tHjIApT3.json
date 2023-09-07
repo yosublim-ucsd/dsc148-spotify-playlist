@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Camera Roll",
+        "url": "https://open.spotify.com/album/2zYTSSjnmK9CUcjtH394t0"
+      },
+      "artists": [
+        {
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263066,
+      "name": "Camera Roll",
+      "url": "https://open.spotify.com/track/3fH8cIQ8tFxTcES101sUBu"
+    },
+    {
+      "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
       },
@@ -5854,7 +5872,7 @@
     {
       "album": {
         "name": "Grapefruit Moon",
-        "url": "https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y"
+        "url": "https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l"
       },
       "artists": [
         {
@@ -5865,6 +5883,24 @@
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196795,
+      "name": "Grapefruit Moon",
+      "url": "https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9"
+    },
+    {
+      "album": {
+        "name": "Grapefruit Moon",
+        "url": "https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
       "duration_ms": 196795,
       "name": "Grapefruit Moon",
       "url": "https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw"
@@ -7880,6 +7916,24 @@
       "duration_ms": 245535,
       "name": "Jam",
       "url": "https://open.spotify.com/track/5xt9N7xhDqEpp6NIdMCUux"
+    },
+    {
+      "album": {
+        "name": "Jasmine High",
+        "url": "https://open.spotify.com/album/55p2NKsX3uYTLLArpTns5j"
+      },
+      "artists": [
+        {
+          "name": "\u3084\u307e\u3057\u305f\u308a\u306a",
+          "url": "https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279586,
+      "name": "Jasmine High",
+      "url": "https://open.spotify.com/track/3zEt8NRn2TIVX9dsRWqBXR"
     },
     {
       "album": {
@@ -11186,10 +11240,32 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 165000,
       "name": "Ninna Nanna (feat. Miho Nakayama)",
       "url": "https://open.spotify.com/track/4VaH7sQeYL9UcA7TVvbCKx"
+    },
+    {
+      "album": {
+        "name": "Ninna Nanna (feat. Miho Nakayama)",
+        "url": "https://open.spotify.com/album/4R0X8HikVaF6xrHlqoOWsL"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "\u4e2d\u5c71\u7f8e\u7a42",
+          "url": "https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ninna Nanna (feat. Miho Nakayama)",
+      "url": "https://open.spotify.com/track/6xBKx82lrogb8TDCjghTq0"
     },
     {
       "album": {
@@ -21680,7 +21756,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 263066,
       "name": "\u30ab\u30e1\u30e9\u30ed\u30fc\u30eb",
       "url": "https://open.spotify.com/track/32AlCxv4atmuaJ5J73f4b7"
@@ -22264,7 +22340,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 279586,
       "name": "\u30b8\u30e3\u30b9\u30df\u30f3\u30cf\u30a4",
       "url": "https://open.spotify.com/track/25vVh5dtvJghG4MdxX3jEc"

@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-121 songs - 8 hr 8 min
+122 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Clavel de mi pecho](https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Enlazando Cantos II](https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81) | 4:09 | 2022-02-04 | 2022-07-21 |
 | [Como Me Duele Saber](https://open.spotify.com/track/4m93vYRlOax2Vbbl2fXJnW) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:20 | 2022-02-04 |  |
 | [Convoycito de Huancayo](https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX) | [Estudiantina Perú](https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:57 | 2022-02-04 | 2022-07-27 |
-| [Cuanto Tiempo Sin Verte](https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 3:40 | 2022-02-04 |  |
+| [Cuanto Tiempo Sin Verte](https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 3:40 | 2022-02-04 | 2023-09-07 |
 | [Cuerpo Soltero](https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:44 | 2022-02-04 |  |
 | [Dejame Asi](https://open.spotify.com/track/5xa252VDy3F7yeulREj06Z) | [Luis Mendoza](https://open.spotify.com/artist/4MmslUYXQXsZjNAXrgyYA2) | [Calaveras Serranas](https://open.spotify.com/album/4BpC4Ap05hVHTqZf91YwY2) | 2:51 | 2022-02-04 |  |
 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 | 2022-02-04 |  |
@@ -120,6 +120,7 @@
 | [Tu Recuerdo](https://open.spotify.com/track/0zyojpH4GWVShFTsOMMLJt) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1xHFN4KS4cJVXRsLKxICgM) | 4:24 | 2022-02-04 | 2023-08-20 |
 | [Tu recuerdo](https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N) | 4:24 | 2022-02-04 | 2022-07-29 |
 | [Tu Recuerdo](https://open.spotify.com/track/1xF8kpo2MmbMT7cEBWGUMB) | [Los Hermanos Curi](https://open.spotify.com/artist/6IevV2x2hafFJUf9xU6y78) | [Ocobambamantapacha](https://open.spotify.com/album/1nKYkopIMUO1ElmDHY7eaK) | 4:26 | 2022-02-04 | 2023-01-28 |
+| [Tu Recuerdo](https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/4OmbN40zd86thCciHF3PR9) | 4:26 | 2022-02-04 |  |
 | [Un Pasajero en Tú Camino](https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8) | [La Nueva Expresión del Folklore de Bolivia](https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU) | 4:00 | 2022-02-04 | 2023-09-03 |
 | [Urpay Linda Cuculí](https://open.spotify.com/track/5RF8MoKhDHsNyRIyg1cmlo) | [Estrellita de Pomabamba](https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX) | [el Cofre del Recuerdo](https://open.spotify.com/album/6z0ILslVFO1nSjLijU2xhQ) | 2:45 | 2022-02-04 | 2022-07-09 |
 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 | 2022-02-04 |  |

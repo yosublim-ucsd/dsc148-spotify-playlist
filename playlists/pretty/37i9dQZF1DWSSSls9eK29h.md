@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,551 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,651 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 25 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
 | 26 | [Do You Feel What I'm Feeling?](https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [Truth](https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT) | 5:14 |
 | 27 | [Aruban Nights](https://open.spotify.com/track/022odEBLFu7Ryy7H3A6tkF) | [Bobby Lyle](https://open.spotify.com/artist/05uCfJ1rcdJWwsVUKDg9On) | [The Power Of Touch](https://open.spotify.com/album/1mBknqXixbFJaIlMzUD1N9) | 5:10 |
-| 28 | [Just Between Us](https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Backbone](https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo) | 4:49 |
-| 29 | [Burma Road](https://open.spotify.com/track/4E01hW7den04JgdXH2LkOz) | [Greg Adams](https://open.spotify.com/artist/5JLlu8IDh3Aj1nT3cUJUUY) | [Hidden Agenda](https://open.spotify.com/album/4EpH6ucX2QlCa9xlqIHdHA) | 4:48 |
+| 28 | [Burma Road](https://open.spotify.com/track/4E01hW7den04JgdXH2LkOz) | [Greg Adams](https://open.spotify.com/artist/5JLlu8IDh3Aj1nT3cUJUUY) | [Hidden Agenda](https://open.spotify.com/album/4EpH6ucX2QlCa9xlqIHdHA) | 4:48 |
+| 29 | [Just Between Us](https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Backbone](https://open.spotify.com/album/0bRUGoovysFMw0rxBE9mCo) | 4:49 |
 | 30 | [Touchdown](https://open.spotify.com/track/01liKzGQmuq4BRFR19YaeI) | [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Touchdown](https://open.spotify.com/album/5ooWmAVLqcWvDDOid6hCC6) | 5:44 |
 | 31 | [Hearts Of Longing](https://open.spotify.com/track/22O3mkv6sEe3jpXRWXYFhY) | [Urban Knights](https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5) | [Urban Knights](https://open.spotify.com/album/42IeRTNs12HRW0ql1jApJW) | 7:17 |
 | 32 | [So Far From Home](https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Dave Koz](https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU) | 6:10 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 55 | [Treasure Hunt](https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [The Getaway](https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU) | 5:08 |
 | 56 | [There's Only You](https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW) | [Art Porter](https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu) | [Undercover](https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp) | 5:09 |
 | 57 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
-| 58 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
-| 59 | [Castine](https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Saxtress](https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj) | 5:02 |
+| 58 | [Castine](https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Saxtress](https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj) | 5:02 |
+| 59 | [Affair In San Miguel](https://open.spotify.com/track/5LdbDkRMKDEYKYZxj3TpW9) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Steve Reid](https://open.spotify.com/artist/4jQrVUOMWHpcwAj9CJB1f0), [Brandon Fields](https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5) | [The Best Of The Rippingtons](https://open.spotify.com/album/0nq9ESVd0F7vZTREx8GLHD) | 5:08 |
 | 60 | [Smooth](https://open.spotify.com/track/3ZDDCrqWqDDQT1M3TCI3dO) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For the Love of You](https://open.spotify.com/album/0ZnVjuFuNGngUDzQrP2JH9) | 4:34 |
 
-Snapshot ID: `MCxkYmNkMjlhY2ZiZWE4N2UzMWRiNWY2ZDkwOGZmNmMyMDJjYzQ3NDMx`
+Snapshot ID: `MCw5MDc5OGExNGQzODAwYjkwMDE4ZDM5ODgwZmNlYmRiNjlhMzc5ZDBm`

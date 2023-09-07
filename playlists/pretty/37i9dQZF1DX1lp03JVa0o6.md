@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,001 likes - 87 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,058 likes - 87 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 86 | [Love Type](https://open.spotify.com/track/1e9T91CPoRcdX9oiGRYjmi) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL) | [Love Type](https://open.spotify.com/album/67Uko1GwOThHjiLWdY0fZ2) | 3:35 |
 | 87 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 |
 
-Snapshot ID: `MCwxNjYyYTliZTg0NTFmMDgyZjY2ZDNhODI3ZjNhMTkxMmIyMWQwNTI1`
+Snapshot ID: `MCxlZTVjNTkyYTgyMDYzYzBhODI1NWMyZjZhZjUyOGJlNjA0NzAxMjY5`

@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Marc Segu\u00ed & Pablo Albor\u00e1n.",
-  "num_followers": 7133,
+  "num_followers": 7157,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjY3YzY4Mjk4ZDg2MmY3MzVhMjcwZmUyZWY5NWFjMjM2OWJjMzll",
+  "snapshot_id": "MCxhODIzN2NhYTYzNzg3YjM4ODViODg5MzIzZmNhMDhhZDdlYjZiYmE5",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "No Se Acaba Hasta Que Acabe",
-        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 186832,
-      "name": "No Se Acaba Hasta Que Acabe",
-      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Junio",
         "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
@@ -535,6 +515,22 @@
       "duration_ms": 168601,
       "name": "Junio",
       "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -555,22 +551,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "5 Estrellas",
-        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
+        "name": "No Se Acaba Hasta Que Acabe",
+        "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 191094,
-      "name": "5 Estrellas",
-      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
+      "duration_ms": 186832,
+      "name": "No Se Acaba Hasta Que Acabe",
+      "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -595,18 +591,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+      "duration_ms": 191094,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
-        "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 186045,
-      "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
-      "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Nochentera - Remix",
         "url": "https://open.spotify.com/album/0qnysHbtmZhGS2aZiPJwk5"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 233051,
       "name": "Nochentera - Remix",
       "url": "https://open.spotify.com/track/2NXqU1inHfNFvbKompOlB3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
+        "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 186045,
+      "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
+      "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Tengo Roto El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 193326,
+      "name": "Tengo Roto El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "P.M.",
         "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 174600,
       "name": "7 Veces",
       "url": "https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Tengo Roto El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 193326,
-      "name": "Tengo Roto El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Dementes",
-        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
-      },
-      "artists": [
-        {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
-        }
-      ],
-      "duration_ms": 176207,
-      "name": "Dementes",
-      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "D\u00e9jame Llorarte",
         "url": "https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 189506,
       "name": "D\u00e9jame Llorarte",
       "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Dementes",
+        "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        }
+      ],
+      "duration_ms": 176207,
+      "name": "Dementes",
+      "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
     },
     {
       "added_at": "2023-09-01 04:00:00",

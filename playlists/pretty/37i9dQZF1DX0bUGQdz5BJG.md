@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Alex Hall
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,907 likes - 200 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,968 likes - 200 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 183 | [Better Than Nothing At All](https://open.spotify.com/track/0DTRCJUbEIeGjzrxISl4vP) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM), [Carolyn Dawn Johnson](https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 3:42 |
 | 184 | [Still Picks Up](https://open.spotify.com/track/1Sd6RLSrHcZ1NYEBhOotCB) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Still Picks Up](https://open.spotify.com/album/2cykFTWC8mGDgYsCiYFudE) | 3:09 |
 | 185 | [Million Little Bandaids \(feat\. Zac Brown Band\)](https://open.spotify.com/track/2HjVYqDNCtSzaeZVeRmOqu) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Million Little Bandaids \(feat\. Zac Brown Band\)](https://open.spotify.com/album/1jYMEpxUQ0DBMc3gBfufXQ) | 3:14 |
-| 186 | [This Side of the Dirt](https://open.spotify.com/track/22LVem8Gdqh4bsTVFzViOY) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [This Side of the Dirt](https://open.spotify.com/album/6r4KN48PptEHXRdfcMlsJr) | 3:21 |
+| 186 | [This Side of the Dirt](https://open.spotify.com/track/22LVem8Gdqh4bsTVFzViOY) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [This Side of the Dirt](https://open.spotify.com/album/6r4KN48PptEHXRdfcMlsJr) | 3:14 |
 | 187 | [Heart Ain't Gonna Break Itself](https://open.spotify.com/track/7eEgQXDglOtRow46n0bcbh) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Heart Ain't Gonna Break Itself](https://open.spotify.com/album/2ermdyMMGsZEvXe4tmMZBq) | 2:38 |
 | 188 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 |
 | 189 | [Rock Bottom](https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Rock Bottom](https://open.spotify.com/album/43IDZXdU9lmnblSuAm1PXb) | 3:22 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [No Can Do](https://open.spotify.com/track/77b70swv6ONiPN2gZJ0D3M) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [No Can Do](https://open.spotify.com/album/5vMlCwWcxWKttxCSRMjpyJ) | 3:02 |
 | 200 | [Send You The Bill](https://open.spotify.com/track/5K4G63NgwJ63jbqlL5uePh) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Send You The Bill](https://open.spotify.com/album/5yHFQ5nd1smHjkibUvKzp6) | 3:18 |
 
-Snapshot ID: `MCxmZjQzZjhmZDY0YmMyZTY0ODY5NjNlNmNmNDA0NDU4NjIxNGI1ZjFm`
+Snapshot ID: `MCwyZDhiMDRkN2MxN2VhOThiN2IwYzg5ODQwZThkMDk3YzNiZGVmM2Zi`

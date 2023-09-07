@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421354,
+  "num_followers": 421345,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
+  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "VideoChamada (Facetime)",
-        "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "VideoChamada (Facetime)",
-      "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Droga Pesada (feat. Nairo)",
         "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 184615,
       "name": "Droga Pesada (feat. Nairo)",
       "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "VideoChamada (Facetime)",
+        "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "VideoChamada (Facetime)",
+      "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Vai Com Calma",
+        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
+      },
+      "artists": [
+        {
+          "name": "SH1FT",
+          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
+        },
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        }
+      ],
+      "duration_ms": 136289,
+      "name": "Vai Com Calma",
+      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Santana Amarelo",
         "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 183673,
       "name": "Santana Amarelo",
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Vai Com Calma",
-        "url": "https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ"
-      },
-      "artists": [
-        {
-          "name": "SH1FT",
-          "url": "https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD"
-        },
-        {
-          "name": "Bruxo 021",
-          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
-        }
-      ],
-      "duration_ms": 136289,
-      "name": "Vai Com Calma",
-      "url": "https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7"
     },
     {
       "added_at": "2023-07-12 21:00:00",

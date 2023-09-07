@@ -4,13 +4,14 @@
 
 > Estamos listas para un festival único\. <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-799 songs - 1 day 19 hr 0 min
+801 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:11](https://open.spotify.com/track/2yh6IJ6dr3PKR4llYUqZaF) | [Chloe Edgecombe](https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr) | [11:11](https://open.spotify.com/album/4bnQbUVuWGbrIXM3gvsxfN) | 3:23 | 2022-08-03 | 2022-09-09 |
 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/1kGTOTvzDICyz3BiTNQEq5) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 3:38 | 2022-11-30 | 2023-02-02 |
 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 | 2022-01-05 | 2022-09-09 |
+| [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-07 |  |
 | [2 Son 3](https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [2 Son 3](https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G) | 2:45 | 2022-10-06 | 2022-11-08 |
 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2023-05-03 |  |
 | [325](https://open.spotify.com/track/3uQWgSJt3iy1F4BhFTb9as) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [325](https://open.spotify.com/album/7Gauz2VdHBrLczzW7rSRcn) | 2:41 | 2022-10-06 | 2023-03-02 |
@@ -519,6 +520,7 @@
 | [NO ESTÁ EN EL SISTEMA](https://open.spotify.com/track/2ofro0kd49m5OkKDAkxWCP) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:12 | 2023-04-05 | 2023-06-06 |
 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 | 2023-05-03 | 2023-06-06 |
 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 | 2022-02-02 | 2022-03-09 |
+| [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 | 2023-09-07 |  |
 | [No Lo Soporto](https://open.spotify.com/track/1kDWv1pp3R62P9CGNe5GFW) | [No Lo Soporto](https://open.spotify.com/artist/44CVweAvsyk98oKSSDa9IQ) | [Práctica y Teoría](https://open.spotify.com/album/60ymP6TVVAge8waJfcdw8s) | 2:55 | 2022-07-06 | 2022-08-04 |
 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 | 2022-11-07 | 2023-01-05 |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [No Me Arrepiento De Este Amor](https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17) | 3:47 | 2022-11-07 | 2022-12-01 |
@@ -537,7 +539,7 @@
 | [No Tiene Sentido](https://open.spotify.com/track/79C0RSNURD1IoWONaJrVM7) | [CORI](https://open.spotify.com/artist/6FMpGkY0mH4eCFSwAgQesf) | [No Tiene Sentido](https://open.spotify.com/album/6PwmZVsTxJ7VIXb2CCxjgN) | 2:59 | 2023-02-01 | 2023-03-02 |
 | [No Va Mas](https://open.spotify.com/track/4YF2pSGwib3FL2e9WgpVXh) | [Dani La Chepi](https://open.spotify.com/artist/1pLLfmio0DjpkwVZT91tXZ), [Rocío Quiroz](https://open.spotify.com/artist/1k6NZ9P78E78k78S9BDw6m) | [No Va Mas](https://open.spotify.com/album/1GEQlN1pNvTSi9U4cNi2Fr) | 2:17 | 2022-11-07 | 2022-12-01 |
 | [No Ves](https://open.spotify.com/track/5y38M7sJvnfZPguQBYO7qx) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Ves](https://open.spotify.com/album/0noxqh5mBtyCT5N741oUKC) | 3:19 | 2022-06-01 | 2022-11-08 |
-| [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-07-27 |  |
+| [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-07-27 | 2023-09-07 |
 | [Nobody Like Yo](https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nobody Like Yo](https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ) | 2:34 | 2022-10-06 | 2023-01-05 |
 | [Nollie](https://open.spotify.com/track/6ArokDS7IVFs05T2GfSCHz) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:53 | 2023-04-05 | 2023-05-04 |
 | [Nubosidad Variable](https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Ruta Hotel](https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi) | 2:28 | 2022-02-02 | 2022-03-09 |
@@ -618,7 +620,7 @@
 | [Quieto](https://open.spotify.com/track/47rSF9GA84zIB5Kn9SCfDC) | [Cumbia Nena](https://open.spotify.com/artist/5BNVbfGIjyuFgjnZbnUJrx) | [Quieto](https://open.spotify.com/album/5sC1aAiKcRC1skXRrpJCbt) | 2:33 | 2022-11-07 | 2022-12-01 |
 | [Quisiera](https://open.spotify.com/track/16zcfw5eT1fyYJ246Mt7Qk) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:52 | 2022-08-03 | 2022-09-09 |
 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 | 2022-09-07 | 2022-10-06 |
-| [Quiénes Son?](https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:42 | 2023-07-27 |  |
+| [Quiénes Son?](https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:42 | 2023-07-27 | 2023-09-07 |
 | [Qué Bello](https://open.spotify.com/track/3YFRoa2x2LK64OB0fY9FPA) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [La Movidita](https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP) | 4:15 | 2022-11-07 | 2022-12-01 |
 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2023-07-27 |  |
 | [qué mal que me hiciste](https://open.spotify.com/track/322PbBjLJ4hLEorcfIqOwN) | [Angie Cadenas](https://open.spotify.com/artist/5dCM3LJZcUHR9tD9cQFrKG) | [qué mal que me hiciste](https://open.spotify.com/album/1NcI916JiO27M6yqhWtcan) | 2:49 | 2022-10-06 | 2023-03-02 |
@@ -657,7 +659,7 @@
 | [Secretos](https://open.spotify.com/track/4tQzhgtJQavorNg6lJx2ah) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Secretos](https://open.spotify.com/album/07RmkrXUnFNGoGIeuJ6APP) | 3:21 | 2022-08-03 | 2022-09-09 |
 | [Secretos](https://open.spotify.com/track/6xV2QrHmIS0yHe1wkPeXZR) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 3:21 | 2023-02-01 | 2023-03-02 |
 | [Secuencia](https://open.spotify.com/track/3ZxuSorn7fyuiZhGKouVHI) | [La Propia](https://open.spotify.com/artist/2EqQOCt3WLFplspArshnNh) | [Secuencia](https://open.spotify.com/album/3vQPYEDLHBNaCVhIWX5kdY) | 3:16 | 2021-12-17 | 2022-02-03 |
-| [SED](https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [SED](https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx) | 2:54 | 2022-03-08 |  |
+| [SED](https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [SED](https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx) | 2:54 | 2022-03-08 | 2023-09-07 |
 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 | 2022-10-06 | 2023-05-04 |
 | [Ser Guitarra](https://open.spotify.com/track/2XT6A3FbmkkMhWeB0tdiCA) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Detox](https://open.spotify.com/album/2G9ADFNXJROkdiV8faSYQb) | 2:59 | 2022-06-01 | 2022-07-07 |
 | [Serenidad](https://open.spotify.com/track/1ZVI0MOeSErPZcGmeTCA7C) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/0lqj2DO9dGyRG4QQ5AQdci) | 3:28 | 2022-06-01 | 2022-07-07 |

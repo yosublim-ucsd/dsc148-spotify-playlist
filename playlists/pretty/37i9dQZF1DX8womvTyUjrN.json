@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Sebastian Llosa",
-  "num_followers": 284204,
+  "num_followers": 284252,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjE4ZWM2NmE1ZDQ0NTg4N2QxNmY3MmExZGE2NzAzNTBmYjhhNThl",
+  "snapshot_id": "MCw5MjA0NmI3NjYxNjExN2VhZTM2YTkxMGExMmQ0NTc0YTFjOWUxOWVi",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "traici\u00f3n",
         "url": "https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz"
       },
@@ -255,18 +271,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+        "name": "Palpita",
+        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+      "duration_ms": 151666,
+      "name": "Palpita",
+      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -327,26 +347,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Palpita",
-        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Palpita",
-      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "tqum (feat. Kim Petras) [Remix]",
         "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 180329,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
         "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
         }
       ],
-      "duration_ms": 181901,
-      "name": "\u00bfC\u00d3MO TE LO EXPLICO?",
-      "url": "https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW"
+      "duration_ms": 180329,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -435,6 +419,22 @@
       "duration_ms": 170600,
       "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
       "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 181901,
+      "name": "\u00bfC\u00d3MO TE LO EXPLICO?",
+      "url": "https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "5 estrellas",
+        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "solo x ti (Remix)",
         "url": "https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W"
       },
@@ -563,38 +579,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "5 estrellas",
-        "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "5 Estrellas",
-      "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "DEKKOLETERA 3",
-        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 132788,
-      "name": "La Que Yo Amo",
-      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "MUCHO TXT",
         "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 170250,
       "name": "Demasiado",
       "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "DEKKOLETERA 3",
+        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Qui\u00e9n Me Dir\u00eda",
-        "url": "https://open.spotify.com/album/277vgCWZiW0ZdWkGX7dH9Y"
-      },
-      "artists": [
-        {
-          "name": "Polo Nandez",
-          "url": "https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM"
-        },
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        }
-      ],
-      "duration_ms": 192231,
-      "name": "Qui\u00e9n Me Dir\u00eda",
-      "url": "https://open.spotify.com/track/6350jXu89L6Ul7OyuGkOnY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Besos Ricos",
         "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 187715,
       "name": "Besos Ricos",
       "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Qui\u00e9n Me Dir\u00eda",
+        "url": "https://open.spotify.com/album/277vgCWZiW0ZdWkGX7dH9Y"
+      },
+      "artists": [
+        {
+          "name": "Polo Nandez",
+          "url": "https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM"
+        },
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "duration_ms": 192231,
+      "name": "Qui\u00e9n Me Dir\u00eda",
+      "url": "https://open.spotify.com/track/6350jXu89L6Ul7OyuGkOnY"
     }
   ],
   "unique_name": "el nuevo pop",

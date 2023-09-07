@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 25 years of The Miseducation of Lauryn Hill. Cover: Ms. Lauryn Hill",
-  "num_followers": 3380535,
+  "num_followers": 3381744,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTA5MWI5OGFhZmI3NTc1ZTk5NmI0NGIxZmIxNjc2NzZiMDk4NWNh",
+  "snapshot_id": "MCwwZTE1YTQzYmQzMzNkZWNkYWJmYmU4MGFmYjZjMGM5NWFhMjZmY2U3",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -149,24 +149,20 @@
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
+      "added_at": "2022-10-27 04:00:00",
       "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
       "artists": [
         {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 294786,
-      "name": "The Boy Is Mine",
-      "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -185,20 +181,24 @@
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
-      "added_at": "2022-10-27 04:00:00",
+      "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Like a Tattoo",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+      "duration_ms": 294786,
+      "name": "The Boy Is Mine",
+      "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
     },
     {
       "added_at": "2021-08-20 04:02:00",

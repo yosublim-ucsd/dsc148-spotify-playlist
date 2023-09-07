@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC?si=fdc7297d77cf49c3">Blessing Offor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577,172 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,400 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [All About Jesus \- Radio Version](https://open.spotify.com/track/2TNFTYtVcsOJOskxbGKw2v) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [TAYA](https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF) | 2:42 |
 | 100 | [Something Better](https://open.spotify.com/track/2oMV6710ZfkU1ZTtZrhyHL) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Something Better](https://open.spotify.com/album/2WM90lCeuhwcW30awCgFtN) | 3:01 |
 
-Snapshot ID: `MCwyYjgyNzQxYTAxOGE3M2M2ZGVhN2QxY2IzNzUwZDc4OWU3MDRhM2Rm`
+Snapshot ID: `MCwzZTE3ZWM2YzBmNzRhNWU0NTVjMzNiZDk3OTVmYjEzYzVmMzA1MzUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,752 likes - 128 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,829 likes - 128 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 127 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 |
 | 128 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 |
 
-Snapshot ID: `MCxhYTY5ZDI3NDJlN2IzNTk4ZmE4ZmNiYjc5ZmE2YWRjMTYxNWIxZDlj`
+Snapshot ID: `MCw4NmZkYzBhYjk5OWFkNGM2OTIwMDI0NTQ2N2I3ZjJjYjgxOTUyYjc1`

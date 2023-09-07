@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 360349,
+  "num_followers": 360445,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODhiMjgxN2Y1OTIzZTljOWZhNzI4MDJhYjA0YmJmNzQ5ZDBlYTE0",
+  "snapshot_id": "MCxlZTA3NjUzZmQyYzVhZGQ1NmFiN2FlNjlhNGU1MjQ1ODM1NjJkOWE1",
   "tracks": [
     {
       "added_at": "2023-04-28 21:32:28",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 233786,
       "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "Kings Of Crunk",
         "url": "https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 334066,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
-      },
-      "artists": [
-        {
-          "name": "House Of Pain",
-          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
-        }
-      ],
-      "duration_ms": 218546,
-      "name": "Jump Around - 30 Years Remaster",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Still Striving",
         "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 173600,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "duration_ms": 218546,
+      "name": "Jump Around - 30 Years Remaster",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 295386,
-      "name": "Black Dog - Remaster",
-      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Black Dog - Remaster",
+      "url": "https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
         "name": "The Definition Of X: Pick Of The Litter",
         "url": "https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1"
       },
@@ -1139,26 +1139,6 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -1179,6 +1159,26 @@
       "duration_ms": 230493,
       "name": "Remember the Name (feat. Styles of Beyond)",
       "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
     },
     {
       "added_at": "2023-04-28 21:32:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-04-28 21:32:28",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": "2023-04-28 21:32:28",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2023-04-28 21:32:28",
+      "album": {
+        "name": "Indestructible (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 278026,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf"
     }
   ],
   "unique_name": "Jock Jams",

@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-678 songs - 1 day 4 hr 30 min
+680 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Fjærland](https://open.spotify.com/track/3nFJ85TXhIoNVZTVVlGNn9) | [Erica Statværd](https://open.spotify.com/artist/5s1olurhMGBz2Qfh3p2kcv) | [Fjærland](https://open.spotify.com/album/0QTUZYk4rNk5pkcFOBZLK1) | 2:24 | 2023-01-31 | 2023-03-28 |
 | [Fleeting Glance](https://open.spotify.com/track/6mGpPGoeT3WnR6od1vAw0H) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Fleeting Glance](https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5) | 2:39 | 2022-05-27 | 2022-09-24 |
 | [Flourish](https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Flourish](https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp) | 2:31 | 2023-07-18 |  |
+| [Flowers](https://open.spotify.com/track/1wawCywSOC0uHeauIiCibd) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Flowers](https://open.spotify.com/album/0vXwvweYixVXGGlhfqHqw0) | 2:17 | 2023-09-04 |  |
 | [Flying](https://open.spotify.com/track/77EW76b4eVgOQfwviDehVH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Flying](https://open.spotify.com/album/0mgGkc6kmIhNfPa8skiBEt) | 1:58 | 2023-05-19 | 2023-07-25 |
 | [For Ruby](https://open.spotify.com/track/2LEDOIkhBTy39iu4OPE1Qk) | [Dominic Walton](https://open.spotify.com/artist/5yYhE8v7LRvK1dIBCbS4JA) | [The Loop](https://open.spotify.com/album/1RyGxuY2zYWsCtyQ5MATra) | 2:47 | 2022-05-27 | 2022-09-24 |
 | [Foreigners](https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Foreigners](https://open.spotify.com/album/3eVdNFfpQKGj1btqfQGoa4) | 2:59 | 2022-05-27 | 2023-03-28 |
@@ -241,7 +242,7 @@
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-05-27 | 2022-07-21 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2022-05-27 | 2022-09-24 |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2022-05-27 | 2022-09-24 |
-| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 |  |
+| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 | 2023-09-07 |
 | [Hinoki](https://open.spotify.com/track/2IeuNWrM2UvBPsxPgzcW3l) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Hinoki](https://open.spotify.com/album/7JSNOlYLvEIgJp7WoJIRei) | 2:14 | 2022-05-27 | 2022-09-24 |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-05-27 |  |
@@ -596,6 +597,7 @@
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-02-20 |  |
 | [The Stars And The Sea](https://open.spotify.com/track/3qKxRzPbXwEG3AFnpOFCVq) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [The Stars And The Sea](https://open.spotify.com/album/0cqCFH41n3f5RllKGazO8u) | 2:24 | 2023-06-19 |  |
 | [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 | 2023-03-20 |  |
+| [Thirsty Conversation](https://open.spotify.com/track/16fE7hNcwAY1jLN8eJJ22a) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Thirsty Conversation](https://open.spotify.com/album/7EEPkMNW7fV2EODmZB0Kuz) | 2:14 | 2023-09-04 |  |
 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2022-05-27 | 2023-03-18 |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-05-27 | 2023-03-05 |
 | [Through The Years](https://open.spotify.com/track/66ZgkGert8jeTCEtUq7KcQ) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Through The Years](https://open.spotify.com/album/2tmZIjSWjBloHaE77q4RJN) | 3:01 | 2023-08-21 |  |
@@ -631,7 +633,7 @@
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-05-27 |  |
 | [Unbroken](https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4) | [William Heller](https://open.spotify.com/artist/0bblIjmXpe2k574egtCQnr) | [Unbroken](https://open.spotify.com/album/3Mxgp3hM0MrIQN8iIoDPJG) | 2:34 | 2022-05-27 | 2022-07-21 |
 | [Under the Willow Tree](https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [Summer Breeze](https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa) | 2:06 | 2022-05-27 |  |
-| [Undulations](https://open.spotify.com/track/53FjteGUXpjef8J3SD7HoP) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Undulations](https://open.spotify.com/album/1Ua1JPkMvE0Quzllx33hyi) | 3:05 | 2022-05-27 |  |
+| [Undulations](https://open.spotify.com/track/53FjteGUXpjef8J3SD7HoP) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Undulations](https://open.spotify.com/album/1Ua1JPkMvE0Quzllx33hyi) | 3:05 | 2022-05-27 | 2023-09-07 |
 | [Une main tendue](https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Une main tendue](https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw) | 2:01 | 2023-01-20 |  |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-05-27 |  |
 | [Unyielding Faith](https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Unyielding Faith](https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp) | 2:38 | 2022-08-09 | 2023-01-21 |

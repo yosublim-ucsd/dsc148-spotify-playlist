@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 181034,
+  "num_followers": 181175,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzE2NmEwNDg5ZTgxMWY1ZjA1NGY2ZmEwOWM1YWQxYTkxYTQ1MDc1",
+  "snapshot_id": "MCxkYmFjMTk5Yjg5OTdlOGViOWVkYTAyNjI0MzMwNDdhMDQ2Y2JmYzA0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "More Like Jesus (Live)",
-        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 338694,
-      "name": "More Like Jesus - Live",
-      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "I Don't Have Much",
         "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 314800,
       "name": "I Don't Have Much",
       "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "More Like Jesus (Live)",
+        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 338694,
+      "name": "More Like Jesus - Live",
+      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1307,6 +1307,38 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Heal Our Land",
+      "url": "https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "God, You're So Good (Live)",
         "url": "https://open.spotify.com/album/60oSR3Ij3WnoVvZGPqD12G"
       },
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "At the Foot of the Cross - Acoustic",
-      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Heal Our Land",
-      "url": "https://open.spotify.com/track/51RuKnh1Fec9pZtKOVbO28"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 297320,
+      "name": "The Cause Of Christ",
+      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 547251,
       "name": "Rain Your Glory Down - Live",
       "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
         }
       ],
-      "duration_ms": 297320,
-      "name": "The Cause Of Christ",
-      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
+      "duration_ms": 265573,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+        "name": "For This Purpose (Live)",
+        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
       },
       "artists": [
         {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         }
       ],
-      "duration_ms": 330266,
-      "name": "Abba (Arms Of A Father)",
-      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
+      "duration_ms": 379093,
+      "name": "Altar (Live)",
+      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1603,22 +1603,6 @@
       "duration_ms": 281520,
       "name": "I Am No Victim",
       "url": "https://open.spotify.com/track/2XkTROEhPw2Abzri1F20iL"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "For This Purpose (Live)",
-        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 379093,
-      "name": "Altar (Live)",
-      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 238478,
       "name": "When My Heart Became Aware",
       "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "Abba (Arms Of A Father)",
+      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "After All These Years",
         "url": "https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 293986,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Heart Wide Open",
-      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Where His Light Was",
         "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 42373,
       "name": "Doxology",
       "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Heart Wide Open",
+      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
     },
     {
       "added_at": "2020-09-04 04:02:00",

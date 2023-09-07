@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Burna Boy
+> Altijd fris in Fresh Hits\. Cover: Kenya Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,621 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,655 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
-| 2 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
+| 1 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
+| 2 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 3 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 4 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 |
 | 5 | [Lights Out \- Official song Formula 1 Heineken Dutch Grand Prix](https://open.spotify.com/track/6myxuB1q6TNsQS2vqNlbZh) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Lights Out \(Official song Formula 1 Heineken Dutch Grand Prix\)](https://open.spotify.com/album/7mIgjFSb0eTlimS6qIjNn5) | 3:10 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Baguettes](https://open.spotify.com/track/5A1pmiQSDetw2cFs4lcbgd) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Baguettes](https://open.spotify.com/album/6pml3VGJafDKQOVu3Y1wT4) | 2:16 |
 | 40 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 |
 
-Snapshot ID: `MCw4YTdjMDVlNTcyZDcyNzM1NjAyODAxZDlkMmFiN2VlZGNkZWVlZDI3`
+Snapshot ID: `MCxmYWE0NWY0YjdjNzNlNDc2ZDBkYzg4ZGU5OTEzNmZjYjUyYzE3MGRj`

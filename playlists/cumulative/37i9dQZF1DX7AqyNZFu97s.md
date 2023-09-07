@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Nectar Woode
 
-1,237 songs - 2 day 18 hr 10 min
+1,238 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,7 @@
 | [lose yourself.](https://open.spotify.com/track/6Y02Lvx6q0vqxMZ6qJMOJo) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [lose yourself.](https://open.spotify.com/album/1uCQjmgeRjzvmUM8C9UEdE) | 2:56 | 2022-01-05 | 2022-02-17 |
 | [Loser](https://open.spotify.com/track/3Owt7XwR5mvtLbfFdMdbj9) | [Light Grey](https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ) | [Loser](https://open.spotify.com/album/3fl1PTS9pEXnTMTDWI8k50) | 3:02 | 2022-10-26 | 2022-11-24 |
 | [LOSIN U](https://open.spotify.com/track/3Yev5ppYhApRb0qiaN3N1J) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [LOSIN U](https://open.spotify.com/album/21oZxwIF29zWOUxQ4iNTEB) | 3:39 | 2023-07-11 | 2023-08-23 |
-| [Losing It](https://open.spotify.com/track/6QubwExsLg5yvnrPGAG3Qp) | [Tequisha](https://open.spotify.com/artist/6PSpzSjpLVGOrX45Snh3ir) | [Losing It](https://open.spotify.com/album/65SPmT7S5C8ALqecxog8qn) | 2:22 | 2023-08-01 |  |
+| [Losing It](https://open.spotify.com/track/6QubwExsLg5yvnrPGAG3Qp) | [Tequisha](https://open.spotify.com/artist/6PSpzSjpLVGOrX45Snh3ir) | [Losing It](https://open.spotify.com/album/65SPmT7S5C8ALqecxog8qn) | 2:22 | 2023-08-01 | 2023-09-07 |
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-05-10 | 2023-06-08 |
 | [Lost and Found](https://open.spotify.com/track/7JMAwZ5zhRJVXoX5gzdEs2) | [Pud](https://open.spotify.com/artist/19OjCSpqozFnPepvZGtXz0) | [Lost and Found](https://open.spotify.com/album/2IKRFqLBrC7crvx4eDjIrY) | 2:59 | 2022-04-20 | 2022-06-15 |
 | [Lost Your Laugh](https://open.spotify.com/track/25xzAQyNJlhMTynHV8KqzV) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [All Our Ceiling Sees](https://open.spotify.com/album/7dSE4DyqCxVW95ALh5ORna) | 3:36 | 2023-01-04 | 2023-03-08 |
@@ -1110,6 +1110,7 @@
 | [The Only Way](https://open.spotify.com/track/6JRvFphzc5Vn6aX6Pralfb) | [Tommy Evans](https://open.spotify.com/artist/4CcYOJCtBvHYTZH3MxnKVI), [Ishy](https://open.spotify.com/artist/1MyyqAStRmviRB8jzhwl91), [Beat Finder General](https://open.spotify.com/artist/431DIe544IQCqRiqCivLVG) | [Falling Upwards](https://open.spotify.com/album/1P9P51xFZfwDkdzKF2jyu6) | 2:50 | 2022-01-05 | 2022-01-29 |
 | [The Picture](https://open.spotify.com/track/6PdfpEG7F2Pq8l1celZM3A) | [Greta Jaime](https://open.spotify.com/artist/2L5LSUhkLo20iqPTNA5aC5) | [The Picture](https://open.spotify.com/album/6hYOZjxrkfXbaFVSLBuVvN) | 2:30 | 2023-07-04 | 2023-08-09 |
 | [THE PITS](https://open.spotify.com/track/46cZxkXopRouI09385uHCS) | [Isaac Jones](https://open.spotify.com/artist/07Otr2GoEFP3sRUUXpYMQN) | [THE PITS](https://open.spotify.com/album/342Vd2NEngwKdSp5Vn0qEX) | 3:32 | 2023-07-25 | 2023-08-30 |
+| [The Prophet & I](https://open.spotify.com/track/3z2fIQXmB9kgY1R3w4yUk2) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [The Prophet & I](https://open.spotify.com/album/0UdlT14jyqKqXAPpl8qShn) | 3:57 | 2023-09-06 |  |
 | [The Thrill](https://open.spotify.com/track/4T0mdWNrTfMoGaiXXpeGWr) | [Louu](https://open.spotify.com/artist/5DbQ8y4k7sF3KRwaP6oUE3) | [The Thrill](https://open.spotify.com/album/1LCHNHvtHwQODjaZtp5oZa) | 2:00 | 2023-08-08 |  |
 | [The Way You Are](https://open.spotify.com/track/5PutKSBKAVHWCxVhEthgIW) | [Lois](https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1) | [The Way You Are](https://open.spotify.com/album/3TDaAwKPfsQYLqZPbbrwYH) | 2:55 | 2023-05-31 | 2023-06-22 |
 | [The Wetlands](https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ) | [Aoife Wolf](https://open.spotify.com/artist/0UjP3boKokgDROjh9HzfYg) | [The Wetlands](https://open.spotify.com/album/2jWDh6LjGtIVyzCqqzGkVU) | 3:57 | 2022-10-19 | 2022-11-03 |

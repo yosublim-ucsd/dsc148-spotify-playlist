@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-1,265 songs - 2 day 9 hr 17 min
+1,267 songs - 2 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,8 @@
 | [GOAT](https://open.spotify.com/track/3Plq7UM7UUSRdezJrova6z) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [GOAT](https://open.spotify.com/album/5YSyNEQ4CtD1vZj8oBu3aB) | 2:48 | 2022-05-20 | 2022-06-11 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 | 2023-04-22 |
 | [God Forbid](https://open.spotify.com/track/4YphKexoCrhNOfMlY4lJX2) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Icewear Vezzo](https://open.spotify.com/artist/6BQwKKrDkrEwvTKtTRSsSc) | [God Forbid](https://open.spotify.com/album/69BgUjwhTRuJi8Y8XaB5dM) | 3:06 | 2022-02-11 | 2022-04-09 |
-| [GOMD](https://open.spotify.com/track/6Fsz3e2FD08hr15PHvCsgI) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:51 | 2023-06-30 |  |
+| [GOMD](https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 2:51 | 2023-09-01 |  |
+| [GOMD](https://open.spotify.com/track/6Fsz3e2FD08hr15PHvCsgI) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:51 | 2023-06-30 | 2023-09-07 |
 | [GOMD](https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [GOMD](https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS) | 2:51 | 2023-03-17 | 2023-05-13 |
 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s) | 4:36 | 2023-05-12 | 2023-07-01 |
 | [Good Day](https://open.spotify.com/track/28oUuNBe1YxigxUTSDolo5) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Junkie Mode](https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03) | 3:18 | 2023-05-05 | 2023-07-29 |
@@ -771,7 +772,8 @@
 | [Nobody \(feat\. Dreezy\)](https://open.spotify.com/track/64vzqTSgl7xs1U5zi2dPHK) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Time is Muney](https://open.spotify.com/album/7zPTyUnv8U9hrlGWeeuwnt) | 3:15 | 2022-02-11 | 2022-04-09 |
 | [NOSTYLIST](https://open.spotify.com/track/2L6snXmirafxCJY3sBzuKD) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 3:00 | 2023-01-10 | 2023-02-18 |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-19 | 2022-10-29 |
-| [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 | 2023-07-28 |  |
+| [Not a Drill](https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 3:44 | 2023-09-01 |  |
+| [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 | 2023-07-28 | 2023-09-07 |
 | [Not My N\*gga](https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Not My N\*gga](https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z) | 2:07 | 2022-10-14 | 2022-12-10 |
 | [Not One of Dem](https://open.spotify.com/track/6YaqOWXEVjjsGmT00UEb2y) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Not One of Dem](https://open.spotify.com/album/2lXLpWHnaECoCGM4PrpZck) | 2:09 | 2022-01-21 | 2022-03-18 |
 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 | 2022-07-08 | 2022-09-10 |

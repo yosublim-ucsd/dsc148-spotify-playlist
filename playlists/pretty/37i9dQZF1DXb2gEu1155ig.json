@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 70120,
+  "num_followers": 70197,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl",
+  "snapshot_id": "MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Amor Vendido, Vol. 4",
-        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 199807,
-      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
-      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Tu Principe Azul",
         "url": "https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176346,
       "name": "Pr\u00edncipe Azul",
       "url": "https://open.spotify.com/track/5WdQyJKSSw7591St3jSKS2"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Amor Vendido, Vol. 4",
+        "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 199807,
+      "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "21 A\u00f1os 21 \u00c9xitos",
-        "url": "https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Chilito Piqu\u00edn",
-      "url": "https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 171746,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "21 A\u00f1os 21 \u00c9xitos",
+        "url": "https://open.spotify.com/album/29uOa1MdlrwUt3yA0vECcd"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Chilito Piqu\u00edn",
+      "url": "https://open.spotify.com/track/3I91CJg3J9pA8POpm9pv9i"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
       "artists": [
         {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Se Le Ve",
-      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+      "duration_ms": 163921,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
       "artists": [
         {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
         }
       ],
-      "duration_ms": 163921,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
+      "duration_ms": 190426,
+      "name": "Se Le Ve",
+      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "50 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
-      },
-      "artists": [
-        {
-          "name": "Mario y sus Diamantes",
-          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "El Cable",
-      "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "La Coloreteada",
         "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 196066,
       "name": "D\u00e9jala Que Se Divierta",
       "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "50 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
+      },
+      "artists": [
+        {
+          "name": "Mario y sus Diamantes",
+          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "12 Super Exitos",
-        "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
-      },
-      "artists": [
-        {
-          "name": "Renacimiento 74",
-          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
-        }
-      ],
-      "duration_ms": 173388,
-      "name": "Ramita De Matimba",
-      "url": "https://open.spotify.com/track/5qvCM5esMYaMs8nW4NN1j7"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -1439,22 +1423,6 @@
       "duration_ms": 172920,
       "name": "La feria de Cali",
       "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Sabor A Cumbia",
-        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "La Velludita",
-      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1475,6 +1443,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "12 Super Exitos",
+        "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
+      },
+      "artists": [
+        {
+          "name": "Renacimiento 74",
+          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
+        }
+      ],
+      "duration_ms": 173388,
+      "name": "Ramita De Matimba",
+      "url": "https://open.spotify.com/track/5qvCM5esMYaMs8nW4NN1j7"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Lo Maximo De Los Sonideros, Vol. 1",
         "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 221622,
       "name": "Cumbia De Los Patos",
       "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Sabor A Cumbia",
+        "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "La Velludita",
+      "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
     },
     {
       "added_at": "2023-06-16 16:50:57",

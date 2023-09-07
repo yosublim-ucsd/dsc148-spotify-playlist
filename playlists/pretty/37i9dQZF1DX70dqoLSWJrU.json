@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 64234,
+  "num_followers": 64299,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjQ5NzI2ZDI2ZDEyY2NlZTA3Yzc0MTFiNmRjNjY3NDk2OWNkOTUw",
+  "snapshot_id": "MCxiZTY5OTIxMjc0NzMxNDJjNTM4MDcxZDgyZGI3NTA5MGExYzEwMmM4",
   "tracks": [
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+        "name": "Helen Merill",
+        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
       "artists": [
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
         }
       ],
-      "duration_ms": 214645,
-      "name": "I See Your Face Before Me",
-      "url": "https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK"
+      "duration_ms": 301306,
+      "name": "What's New",
+      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Blues, Soul & Ballads",
-        "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 127626,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -1159,18 +1143,34 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Helen Merill",
-        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+        "name": "Blues, Soul & Ballads",
+        "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
       },
       "artists": [
         {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 301306,
-      "name": "What's New",
-      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
+      "duration_ms": 127626,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 214645,
+      "name": "I See Your Face Before Me",
+      "url": "https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "The Voice That Is!",
-        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "I Just Couldn't Stand It No More",
-      "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -1299,6 +1267,38 @@
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "The Voice That Is!",
+        "url": "https://open.spotify.com/album/0RkrY8dapTpIRls7tOw1Cw"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2SSK6RiaaoQDCdXbfI5gcc"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "I Just Couldn't Stand It No More",
+      "url": "https://open.spotify.com/track/0IIiV2EHJ2tmpVmuf1Wjsp"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
+        "name": "Somewhere over the Rainbow",
+        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Say It Isn't So",
+      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
         "name": "When Your Heart's On Fire",
         "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 205066,
       "name": "I Won't Cry Anymore",
       "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
-        "name": "Somewhere over the Rainbow",
-        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Say It Isn't So",
-      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
     },
     {
       "added_at": "2023-08-31 11:42:11",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-31 11:42:11",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 204479,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC"
-    },
-    {
-      "added_at": "2023-08-31 11:42:11",
-      "album": {
         "name": "Roulette Sessions In Love",
         "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 145840,
       "name": "Somebody Else Is Taking My Place",
       "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
+    },
+    {
+      "added_at": "2023-08-31 11:42:11",
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 204479,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC"
     },
     {
       "added_at": "2023-08-31 11:42:11",

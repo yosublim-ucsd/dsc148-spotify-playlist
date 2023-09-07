@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 355397,
+  "num_followers": 355669,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGE2NTNlZTE4ODE5MThjMGFhOTMyNDBjMmI1MDU2YWY1Yzg2ZmJh",
+  "snapshot_id": "MCw4OGU2NzBmZjE0OWViZjA4NzhmMjhjZjBmYjg0MDllZDEwY2U3OTk2",
   "tracks": [
     {
       "added_at": "2023-08-31 22:01:00",
@@ -187,26 +187,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
-      },
-      "artists": [
-        {
-          "name": "Die Zipfelbuben",
-          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
-        },
-        {
-          "name": "DJ Cashi",
-          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+      },
+      "artists": [
+        {
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        },
+        {
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Mama Laudaaa",
         "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 215976,
       "name": "Mama Laudaaa",
       "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Arielle",
-        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
         },
         {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 205217,
-      "name": "Arielle",
-      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -779,22 +779,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+        "name": "Arielle",
+        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
         },
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
         }
       ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+      "duration_ms": 205217,
+      "name": "Arielle",
+      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-        "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
-      },
-      "artists": [
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 223671,
-      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
-      "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Hurra die Gams",
         "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 204444,
       "name": "Hurra die Gams",
       "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+        "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Schei\u00dfegal, ich feier (Radio Edit)",
         "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 164103,
       "name": "Schei\u00dfegal, ich feier - Radio Edit",
       "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1119,6 +1119,22 @@
       "duration_ms": 164078,
       "name": "Nimm mich mit ins Paradies",
       "url": "https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Auf dem Besen an den Tresen",
+        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
+      },
+      "artists": [
+        {
+          "name": "Milla Pink",
+          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Auf dem Besen an den Tresen",
+      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1167,30 +1183,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Blockfl\u00f6tenunterricht",
-        "url": "https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "Pottsau",
-          "url": "https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6"
-        }
-      ],
-      "duration_ms": 155139,
-      "name": "Blockfl\u00f6tenunterricht",
-      "url": "https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Mannschaftsfahrt",
         "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
       },
@@ -1215,18 +1207,26 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Auf dem Besen an den Tresen",
-        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
+        "name": "Blockfl\u00f6tenunterricht",
+        "url": "https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8"
       },
       "artists": [
         {
-          "name": "Milla Pink",
-          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Pottsau",
+          "url": "https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Auf dem Besen an den Tresen",
-      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
+      "duration_ms": 155139,
+      "name": "Blockfl\u00f6tenunterricht",
+      "url": "https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Hoch die H\u00e4nde Wochenende",
-        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 174719,
-      "name": "Hoch die H\u00e4nde Wochenende",
-      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Freitag, Samstag",
         "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Hoch die H\u00e4nde Wochenende",
+        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 174719,
+      "name": "Hoch die H\u00e4nde Wochenende",
+      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
     },
     {
       "added_at": "2023-08-31 22:01:00",

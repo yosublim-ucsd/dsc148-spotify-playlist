@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: cignature(\uc2dc\uadf8\ub2c8\ucc98) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: LEE CHAE YEON(\uc774\ucc44\uc5f0) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 177840,
       "name": "A-MOONO-KE (I\u2019m OK)",
       "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Flip That",
       "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
@@ -2742,6 +2742,24 @@
       "duration_ms": 191866,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/4KJ8wgT7D6ZsSmVlXjEptF"
+    },
+    {
+      "album": {
+        "name": "The Move : Street",
+        "url": "https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK"
+      },
+      "artists": [
+        {
+          "name": "LEE CHAE YEON",
+          "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "LET\u2032S DANCE",
+      "url": "https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8"
     },
     {
       "album": {
@@ -4706,7 +4724,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 216013,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0"

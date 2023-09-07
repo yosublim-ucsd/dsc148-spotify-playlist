@@ -1058,7 +1058,7 @@
     {
       "album": {
         "name": "The Market on One Intense Sunny Day",
-        "url": "https://open.spotify.com/album/34hn5rRDVjXTYOF1gookeX"
+        "url": "https://open.spotify.com/album/02GGoIF7iW3bLTi6f9G2qF"
       },
       "artists": [
         {
@@ -1069,6 +1069,24 @@
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158999,
+      "name": "Bow!Kiss!Begin!",
+      "url": "https://open.spotify.com/track/2pBp8CZYnee9wwTIJhLmK0"
+    },
+    {
+      "album": {
+        "name": "The Market on One Intense Sunny Day",
+        "url": "https://open.spotify.com/album/34hn5rRDVjXTYOF1gookeX"
+      },
+      "artists": [
+        {
+          "name": "NEST",
+          "url": "https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
       "duration_ms": 158999,
       "name": "Bow!Kiss!Begin!",
       "url": "https://open.spotify.com/track/4UY9IhvtTaiWRkg5DxLOSE"
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 220236,
       "name": "Hozue",
       "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
@@ -9031,6 +9049,24 @@
     },
     {
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283142,
+      "name": "Tips of your fingers",
+      "url": "https://open.spotify.com/track/513wJtR0YDxJUIl0T3LcsI"
+    },
+    {
+      "album": {
         "name": "TOKYO FOREVER",
         "url": "https://open.spotify.com/album/06WIzovZvfsowDhcdEjNZd"
       },
@@ -9598,7 +9634,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 261818,
       "name": "WASH IT",
       "url": "https://open.spotify.com/track/0dw3UuqDZBRCFtN3r4ASOQ"
@@ -13476,7 +13512,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 283142,
       "name": "\u6307\u5148\u3072\u3068\u3064\u3067",
       "url": "https://open.spotify.com/track/0BXEoE6unKgw9xEuYjiMUe"

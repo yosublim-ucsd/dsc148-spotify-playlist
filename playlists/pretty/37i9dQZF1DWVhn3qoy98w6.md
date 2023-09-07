@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Las Sexpeares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,603 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,619 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Marea](https://open.spotify.com/track/3w4pPbiGLmfL1HdT8ppOFZ) | [NASAN](https://open.spotify.com/artist/4JkEZLy3RHekGPdrEQqC0q), [Julio Benavente](https://open.spotify.com/artist/3QfsFYUOQfTKQaIeOEKJai) | [Marea](https://open.spotify.com/album/3YQwMl7WLQXhDKZCepGyAj) | 3:03 |
 | 50 | [in\_feliz](https://open.spotify.com/track/0eFmoRtES7KFkLySsH1kwB) | [Marito](https://open.spotify.com/artist/4ceCJzNmVOTsXKwtU3Vypb) | [in\_feliz](https://open.spotify.com/album/0bJFq34qBXrz6CDJ2kDE3R) | 2:56 |
 
-Snapshot ID: `MCxlYWYwM2NlMTg4MWQ3ZTEwNWVmNDMxOTI0ZmViYWUwNTIyYmI0YjIy`
+Snapshot ID: `MCw2YTYxMTgwOTMxNjUxNTMxYWUyYWJhMzAyMmY5ZGM1NmI4OWY3NDMx`

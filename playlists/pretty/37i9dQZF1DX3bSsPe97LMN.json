@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. ERRE en portada.",
-  "num_followers": 56348,
+  "num_followers": 56381,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjExNjUwYThlMzAwNTdmNDQ1ZWQzMTI4NWE0NDU5Zjg2YzNjOTRk",
+  "snapshot_id": "MCxiODkzNGE0ODdlYWJmMGQ5ZDdkZjZiYmViMDgyZmYyMTI4N2I2MmZj",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Mil Amores",
+        "url": "https://open.spotify.com/album/1yNYaCIrzyFjCoCeeMDCwK"
+      },
+      "artists": [
+        {
+          "name": "Domenica",
+          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+        }
+      ],
+      "duration_ms": 162318,
+      "name": "Mil Amores",
+      "url": "https://open.spotify.com/track/2eeTM1WSUz8ge39RZVpiQd"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Mil Amores",
-        "url": "https://open.spotify.com/album/1yNYaCIrzyFjCoCeeMDCwK"
-      },
-      "artists": [
-        {
-          "name": "Domenica",
-          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
-        }
-      ],
-      "duration_ms": 162318,
-      "name": "Mil Amores",
-      "url": "https://open.spotify.com/track/2eeTM1WSUz8ge39RZVpiQd"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Te Cre\u00ed",
         "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 183600,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 207463,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -575,26 +559,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Siempre manda a su manera",
         "url": "https://open.spotify.com/album/6c9E5JgP8N9cagJoAXvCkv"
       },
@@ -611,6 +575,42 @@
       "duration_ms": 178449,
       "name": "Siempre manda a su manera",
       "url": "https://open.spotify.com/track/570RQeGmSJvsfVIAo1gsLp"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 207463,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Respaldo y Apoyo",
-        "url": "https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS"
+        "name": "Los Comienzos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q3Z3Jw6XI5w0ki6hceiS7"
       },
       "artists": [
         {
-          "name": "TipoSierraBros",
-          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+          "name": "Javier Olguin",
+          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
         }
       ],
-      "duration_ms": 118980,
-      "name": "Respaldo y Apoyo",
-      "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
+      "duration_ms": 264802,
+      "name": "La Ultima Sombra (En Vivo)",
+      "url": "https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -967,6 +967,22 @@
       "duration_ms": 175454,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4ffEwH5xuTvAjqDRkdCYdp"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Respaldo y Apoyo",
+        "url": "https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS"
+      },
+      "artists": [
+        {
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+        }
+      ],
+      "duration_ms": 118980,
+      "name": "Respaldo y Apoyo",
+      "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Los Comienzos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q3Z3Jw6XI5w0ki6hceiS7"
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
       },
       "artists": [
         {
-          "name": "Javier Olguin",
-          "url": "https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt"
+          "name": "Jessica Ballesteros",
+          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
         }
       ],
-      "duration_ms": 264802,
-      "name": "La Ultima Sombra (En Vivo)",
-      "url": "https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7"
+      "duration_ms": 168711,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
-      },
-      "artists": [
-        {
-          "name": "Jessica Ballesteros",
-          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
-        }
-      ],
-      "duration_ms": 168711,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -1067,26 +1067,6 @@
       "duration_ms": 129132,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Mi Peor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        },
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Mi Peor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1123,6 +1103,26 @@
       "duration_ms": 177044,
       "name": "Sencillito Y Serenito",
       "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Mi Peor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Mi Peor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Qui\u00e9n Quiere Otro Bote?",
+        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Qui\u00e9n Quiere Otro Bote?",
+      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Poses",
         "url": "https://open.spotify.com/album/5UFwdxH1VcIg3DW7pvj8Ps"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Quiere Otro Bote?",
-        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Qui\u00e9n Quiere Otro Bote?",
-      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "M\u00fasica Y Vino",
         "url": "https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "En La Lumbre (En Vivo, Sonora, M\u00e9xico, 2023)",
-        "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
-      },
-      "artists": [
-        {
-          "name": "Jessy Castillo",
-          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "En La Lumbre - En Vivo, Sonora, M\u00e9xico, 2023",
-      "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Traigo Un Equip\u00f3n",
         "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 163824,
       "name": "Traigo Un Equip\u00f3n",
       "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "En La Lumbre (En Vivo, Sonora, M\u00e9xico, 2023)",
+        "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
+      },
+      "artists": [
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "En La Lumbre - En Vivo, Sonora, M\u00e9xico, 2023",
+      "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1331,6 +1331,50 @@
       "duration_ms": 175588,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Como Me Miran",
+        "url": "https://open.spotify.com/album/6WcReiZ2XZJzZZ3qr9z6cc"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        },
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+        }
+      ],
+      "duration_ms": 180206,
+      "name": "Como Me Miran",
+      "url": "https://open.spotify.com/track/0NhSH49kQ62rN5BKCoCx6s"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1367,22 +1411,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        }
-      ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "EBS",
         "url": "https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt"
       },
@@ -1395,34 +1423,6 @@
       "duration_ms": 167344,
       "name": "EBS",
       "url": "https://open.spotify.com/track/6vFJgA2tFdu2wg3aryAxOS"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Como Me Miran",
-        "url": "https://open.spotify.com/album/6WcReiZ2XZJzZZ3qr9z6cc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        },
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Chiken Lira",
-          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
-        }
-      ],
-      "duration_ms": 180206,
-      "name": "Como Me Miran",
-      "url": "https://open.spotify.com/track/0NhSH49kQ62rN5BKCoCx6s"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "VIDA LOK4",
-        "url": "https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78"
-      },
-      "artists": [
-        {
-          "name": "Dazoner",
-          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "VIDA LOK4",
-      "url": "https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "No Llega El Olvido (En Vivo)",
         "url": "https://open.spotify.com/album/1LW3Trn9wtBrtMi4rveSVY"
       },
@@ -1535,6 +1519,38 @@
       "duration_ms": 228720,
       "name": "No Llega El Olvido - En Vivo",
       "url": "https://open.spotify.com/track/6G5qABmBsCynrpdqlWWgK3"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "VIDA LOK4",
+        "url": "https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "VIDA LOK4",
+      "url": "https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Que Bonito Es Tomar",
+        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 165512,
+      "name": "Que Bonito Es Tomar",
+      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 187263,
       "name": "Tranquilo Y Sencillo",
       "url": "https://open.spotify.com/track/0ON5YTUgh0gMtSzIThCsR2"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Que Bonito Es Tomar",
-        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 165512,
-      "name": "Que Bonito Es Tomar",
-      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/14m3LBc5VPxkbdUiK8TewF"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 184028,
+      "name": "Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4gITyhCjJzAnoMk06bXodN"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Te Digo Adi\u00f3s",
         "url": "https://open.spotify.com/album/5of75JzXXBQIGskSlBvmsf"
       },
@@ -1763,22 +1783,6 @@
       "duration_ms": 129029,
       "name": "Te Digo Adi\u00f3s",
       "url": "https://open.spotify.com/track/6pbyaOvQE0XEmv8c5fYTKo"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Toro Relajo",
-        "url": "https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Toro Relajo",
-      "url": "https://open.spotify.com/track/1N6XCVkEpYzLbKsO2BZt7P"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

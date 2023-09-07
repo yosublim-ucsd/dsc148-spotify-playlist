@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. jungle bobby on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,845 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,852 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 16 | [Left, Right, GO!](https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bet That](https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf) | 3:46 |
 | 17 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 |
 | 18 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 |
-| 19 | [Choose Summer \(Gold Teeth and Bamboo$\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 |
+| 19 | [Choose Summer \(Gold Teeth and Bamboos\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 |
 | 20 | [All Your Pleasure](https://open.spotify.com/track/1KEe79rNqLaKZeJsOx2pS0) | [Satellite and the Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [All Your Pleasure](https://open.spotify.com/album/2gzKxvy7RUNa6AjFVPkz60) | 2:48 |
 | 21 | [Old money bitch](https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Old money bitch](https://open.spotify.com/album/7lQ4aPxo9J75gfmHeFuS38) | 4:05 |
 | 22 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [X\-8](https://open.spotify.com/track/6svSVekX57s5RFxt4qDWg3) | [sineila](https://open.spotify.com/artist/0RWXZoAIcqlzCwMc9Tv4lh) | [X\-8](https://open.spotify.com/album/4X77dbBWhmyNOU5O1ramMb) | 1:51 |
 | 100 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 |
 
-Snapshot ID: `MCw4NTlmNGMxM2M3ZGU5NWM3MGQ4ZWM1MWM4MDI3MzU3YTVjYmExNzI5`
+Snapshot ID: `MCxkYzVhY2RhMzg5ZWE0NWZhYzY2ZDA5ZWQ0YzQwNGY1ZTg0ZDdhNDlj`

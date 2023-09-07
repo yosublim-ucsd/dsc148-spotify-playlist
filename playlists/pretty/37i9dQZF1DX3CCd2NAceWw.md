@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/taylorrooks/">Taylor Rooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 10 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
 | 11 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 12 | [Ex\-Factor](https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:26 |
-| 13 | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF) | 3:08 |
+| 13 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
 | 14 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 |
-| 15 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
+| 15 | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Sittin' On Top Of The World \(feat\. 21 Savage\)](https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF) | 3:08 |
 | 16 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 |
 | 17 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 18 | [Far Away \(feat\. A$AP Rocky\)](https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CCd2NAceWw.md) - [plain]
 | 39 | [Liability](https://open.spotify.com/track/2vy9Ry1TNjCD85TiCbTz0r) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:57 |
 | 40 | [Girls Love Beyoncé \(feat\. James Fauntleroy\)](https://open.spotify.com/track/56NDFbD0tCUawnqeU2wcvv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 3:45 |
 
-Snapshot ID: `MCw1N2NjNTAyMTgyNzJhMmQ2ZWU1MzcyNzc3OTM0YTliZDlkNmM3MTkw`
+Snapshot ID: `MCw2NDQzZDkwODFjMWUwZjE3Y2Y0MmM3ZTUxNDcxMzdlNmY4N2FkZTE4`

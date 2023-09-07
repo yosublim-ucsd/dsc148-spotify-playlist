@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-205 songs - 12 hr 13 min
+206 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Regrè](https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj) | [Wood Terrib](https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr) | [Regrè](https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7) | 3:49 | 2023-09-01 |  |
 | [Rendez\-vous](https://open.spotify.com/track/4j3OzPbYMbuvnom1icPidC) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz), [Mr\. Lèggo](https://open.spotify.com/artist/6HHmfNEugk4iGOcDEXEOo3) | [Rendez\-vous](https://open.spotify.com/album/1trYtI3u68BrigB85Lvzkw) | 4:23 | 2022-03-04 | 2022-04-15 |
 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 | 2021-12-06 |  |
+| [Rosé](https://open.spotify.com/track/6xGagAOYdYmSZrBRIDoREc) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Rosé](https://open.spotify.com/album/2US1trwBIEqtNCzH7myt6u) | 2:36 | 2023-09-01 |  |
 | [Sa Pa Lov](https://open.spotify.com/track/6wPUmocLiBReFF8alCWSDG) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn) | [Sa Pa Lov](https://open.spotify.com/album/2wN2ENx1nxPVW2iAPDR3IK) | 4:54 | 2023-02-17 |  |
 | [Sak Pase \(with Saint Levant & Lolo Zouaï\)](https://open.spotify.com/track/69d6auSK5QCTd70YrkYKMb) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Sak Pase \(with Saint Levant & Lolo Zouaï\)](https://open.spotify.com/album/0iV9zepYN2Ky5Rok36pbjp) | 2:18 | 2023-06-09 |  |
 | [Sal vle](https://open.spotify.com/track/6EPdBY4aUC22eZ9t8SAQ4D) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1PVjIKd3Ez4RKBBQ300nB3) | [Sal vle](https://open.spotify.com/album/51a1D5B4HDjykKs2FyrE0u) | 4:30 | 2021-12-06 | 2022-07-29 |
@@ -179,7 +180,7 @@
 | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/track/2cS5AMXcUxR508fCt47jYP) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB) | [Sil Pa Nou Li Pa Bon](https://open.spotify.com/album/0AZTNwOGb4dKzz5ztcIxPq) | 3:50 | 2021-12-06 | 2023-02-18 |
 | [Siw Ta Wem Grog](https://open.spotify.com/track/4mWnF6x4ZJYCZtG7xbO3SY) | [VAC](https://open.spotify.com/artist/0iSG9EqSunUMaGQKIDVrtg), [Mr Deng](https://open.spotify.com/artist/6cD9o4yKIjRqAI6Q4U6k5E), [Colmix](https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF) | [Siw Ta Wem Grog](https://open.spotify.com/album/4WFwZVUg5Xrp33q0zWI5t2) | 3:54 | 2021-12-06 | 2022-07-29 |
 | [Siw Ta Wem Grog](https://open.spotify.com/track/7HszwH62rCq3olTTkbbbY7) | [VAC For Real](https://open.spotify.com/artist/4HIg6IBada7lUE84JDPRxK), [TEAM MADADA](https://open.spotify.com/artist/0ZP8QaePOnmADPNa6Cu89N), [Mr Deng](https://open.spotify.com/artist/6cD9o4yKIjRqAI6Q4U6k5E), [Colmix](https://open.spotify.com/artist/5zOdnsLH2GgQBJwQ22Q6TF) | [Siw Ta Wem Grog](https://open.spotify.com/album/1hjgREdbJAR3KeLVHk2N93) | 3:55 | 2022-07-14 | 2023-02-18 |
-| [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 | 2021-12-06 |  |
+| [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 | 2021-12-06 | 2023-09-07 |
 | [Sos](https://open.spotify.com/track/0NvwdECwRxe8avnKphwO5o) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Sos](https://open.spotify.com/album/7bgThdCTdoXHAIGsOgbmHq) | 3:10 | 2023-02-17 |  |
 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 | 2021-12-06 |  |
 | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda\]](https://open.spotify.com/track/5OcKFs8X1MDhK6IT3mMIbo) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [Strangers \(Do You Remember\) \[feat\. Yas Cepeda\]](https://open.spotify.com/album/07q9L0C9VnsMoiS4V0TZxc) | 3:11 | 2023-07-21 |  |

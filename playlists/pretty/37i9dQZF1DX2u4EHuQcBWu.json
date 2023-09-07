@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 177726,
+  "num_followers": 177817,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDBkN2ZkOWJkYjk0ZWQ0ZTZiMTYzODk3MDRhZjMxYzg1Njk2ZThi",
+  "snapshot_id": "MCxjM2I0YmNhYmU5MjlkYmU3ZWVjNTM4NjgyYTJiZjZkOWQzMDZkM2Q3",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Mexico: Days of Struggle",
+        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
+      },
+      "artists": [
+        {
+          "name": "Judith Reyes",
+          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
+        }
+      ],
+      "duration_ms": 330946,
+      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
+      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "M\u00fasica Libre",
         "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 348840,
       "name": "Derecho de Nacimiento (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Mexico: Days of Struggle",
-        "url": "https://open.spotify.com/album/6yoETsLDj9sIsVT8eLxQoi"
-      },
-      "artists": [
-        {
-          "name": "Judith Reyes",
-          "url": "https://open.spotify.com/artist/1krCDSISPTMSQiJmIAXQUV"
-        }
-      ],
-      "duration_ms": 330946,
-      "name": "Tragedia de la Plaza de las Tres Culturas (Tragedy of Plaza of the Three Cultures)",
-      "url": "https://open.spotify.com/track/1El3NtUxsm0jc429xajs3I"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
     },
     {
-      "added_at": "2022-04-01 20:17:41",
-      "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
-    },
-    {
       "added_at": "2021-09-24 14:38:22",
       "album": {
         "name": "Aerolineas Makiza",
@@ -1115,6 +1099,22 @@
       "duration_ms": 272800,
       "name": "En Paro",
       "url": "https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU"
+    },
+    {
+      "added_at": "2022-04-01 20:17:41",
+      "album": {
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Yo Vivo en Esta Ciudad",
-        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
-      },
-      "artists": [
-        {
-          "name": "Pedro Y Pablo",
-          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "La Marcha De La Bronca",
-      "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La chusma inconsciente",
         "url": "https://open.spotify.com/album/4TZwxkMgDuNohfTIOQoqpj"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 354973,
       "name": "La chusma inconsciente",
       "url": "https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Yo Vivo en Esta Ciudad",
+        "url": "https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i"
+      },
+      "artists": [
+        {
+          "name": "Pedro Y Pablo",
+          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "La Marcha De La Bronca",
+      "url": "https://open.spotify.com/track/4sUEtsaCvQVIkzMksupERW"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Buscando America",
-        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 483360,
-      "name": "El Padre Antonio - Y El Monaguillo Andres",
-      "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Mostros",
         "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 266386,
       "name": "El Barz\u00f3n",
       "url": "https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Buscando America",
+        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 483360,
+      "name": "El Padre Antonio - Y El Monaguillo Andres",
+      "url": "https://open.spotify.com/track/2iyffU4KcLybIIn7MvkiuH"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1401,6 +1401,22 @@
       "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
+    },
+    {
       "added_at": "2022-03-18 03:36:26",
       "album": {
         "name": "S\u00edganme los Buenos",
@@ -1419,22 +1435,6 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/2DkMyi2F1bhA15rX0Ul2kN"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/2sKurE9yCmgFfdP4vW0rgy"
     },
     {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Antolog\u00eda 1968-1992",
-        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
-    },
-    {
       "added_at": "2022-07-15 04:43:21",
       "album": {
         "name": "M\u00fasica Guerrera",
@@ -1527,6 +1511,22 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Antolog\u00eda 1968-1992",
+        "url": "https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
     },
     {
       "added_at": "2022-04-28 15:30:51",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Circular Colectivo",
-        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "El Pa\u00eds de No Pasa Nada",
-      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Paco Vampiro",
         "url": "https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 201284,
       "name": "Paco Vampiro",
       "url": "https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Circular Colectivo",
+        "url": "https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "El Pa\u00eds de No Pasa Nada",
+      "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
     },
     {
       "added_at": "2022-01-13 03:30:36",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Un Le\u00f3n D-Mente",
-        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        },
-        {
-          "name": "D-Mente",
-          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
+          "name": "Rolando Alarcon",
+          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
         }
       ],
-      "duration_ms": 346946,
-      "name": "La Memoria",
-      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
+      "duration_ms": 123333,
+      "name": "Si Somos Americanos",
+      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1831,18 +1827,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+        "name": "Un Le\u00f3n D-Mente",
+        "url": "https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz"
       },
       "artists": [
         {
-          "name": "Rolando Alarcon",
-          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        },
+        {
+          "name": "D-Mente",
+          "url": "https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Si Somos Americanos",
-      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
+      "duration_ms": 346946,
+      "name": "La Memoria",
+      "url": "https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ"
     },
     {
       "added_at": "2021-09-24 14:38:22",

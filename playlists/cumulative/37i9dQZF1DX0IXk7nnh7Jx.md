@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-383 songs - 23 hr 4 min
+384 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [First Love \(Subjects\)](https://open.spotify.com/track/05KhcxTuxGXyE2yVFj1Cjp) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Subjects in Motion](https://open.spotify.com/album/76LnUGsdFTOgOCmtP1JQaZ) | 4:29 | 2023-02-19 |  |
 | [FLOP!](https://open.spotify.com/track/45bQt10OJP58zvfFHam5JK) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [FLOP!](https://open.spotify.com/album/7vJFWUQKjwvaibOAcoM6lm) | 3:17 | 2023-02-24 | 2023-04-05 |
 | [Follow Me](https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O) | [Angelique Marketon](https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA) | [Follow Me](https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ) | 5:12 | 2020-12-18 | 2023-02-19 |
+| [For Ages](https://open.spotify.com/track/0c667RnCXNbdq5FQwew6Kr) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Inertia](https://open.spotify.com/album/3O8zUdlSxtVDHyJKxTnHkH) | 3:00 | 2023-08-11 |  |
 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2023-02-24 |  |
 | [For Your Glory](https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Comes and Goes](https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP) | 3:37 | 2020-12-18 | 2023-02-19 |
 | [Forever Again](https://open.spotify.com/track/3sdvYc3I8hqIPBls6CiMXT) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Forever Again](https://open.spotify.com/album/0TrxM9Ala67Dq3vEAlwhvZ) | 2:04 | 2023-02-19 | 2023-08-05 |
@@ -243,7 +244,7 @@
 | [Our Salvation is Bound Up Together](https://open.spotify.com/track/2aaBlsDmROA9D2BW7YdWRd) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Our Salvation is Bound Up Together](https://open.spotify.com/album/54KPD58pTk4raKt7RwXlNk) | 2:46 | 2023-02-19 |  |
 | [OVER](https://open.spotify.com/track/5vrl5DchHxFCkXWNRTZeRF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [OVER](https://open.spotify.com/album/7lhvGgOvFyFnVkEkIlsBTk) | 2:42 | 2023-04-21 |  |
 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2023-02-19 |  |
-| [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 | 2023-02-19 |  |
+| [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 | 2023-02-19 | 2023-09-07 |
 | [parking lot](https://open.spotify.com/track/7BWEmTJPDTcfPtsj3Sz9Ma) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [parking lot](https://open.spotify.com/album/2RL54zjsD5ohPhY7i2vz4i) | 3:14 | 2023-02-19 | 2023-04-09 |
 | [Patience](https://open.spotify.com/track/5PpSZdf23I1YK3qmmQgDjq) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Patience](https://open.spotify.com/album/0hwkfiwySqJlvVs45QXt8b) | 3:38 | 2023-04-07 | 2023-08-05 |
 | [PAWA](https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul) | [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [PAWA](https://open.spotify.com/album/5JJfQHS7B70SvHPPdAWaqW) | 2:36 | 2023-08-04 |  |

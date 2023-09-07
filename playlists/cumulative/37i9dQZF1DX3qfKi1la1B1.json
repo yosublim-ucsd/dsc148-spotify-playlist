@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 279133,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
@@ -1282,7 +1282,7 @@
     {
       "album": {
         "name": "CURVE",
-        "url": "https://open.spotify.com/album/7dBHG1kILrsxT1XO38HcxA"
+        "url": "https://open.spotify.com/album/2B1Cak3GKIk4PlMVjd9IEe"
       },
       "artists": [
         {
@@ -1297,6 +1297,28 @@
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231624,
+      "name": "First Song (dead to me)",
+      "url": "https://open.spotify.com/track/1glz0cjxfeuRfURnox3fnF"
+    },
+    {
+      "album": {
+        "name": "CURVE",
+        "url": "https://open.spotify.com/album/7dBHG1kILrsxT1XO38HcxA"
+      },
+      "artists": [
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "TiMT",
+          "url": "https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-07",
       "duration_ms": 231624,
       "name": "First Song (dead to me)",
       "url": "https://open.spotify.com/track/3DhmWV65xIHy6Rz3DZBkBU"
@@ -3647,6 +3669,28 @@
     },
     {
       "album": {
+        "name": "Tsuki no Maboroshi ~ Remix works ~",
+        "url": "https://open.spotify.com/album/677gGniYchInGseMSycVKe"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        },
+        {
+          "name": "Hiroshi Fujiwara",
+          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Shin Takara Jima (hf remix)",
+      "url": "https://open.spotify.com/track/0cJEseMqUZcRsEJpceH5Zb"
+    },
+    {
+      "album": {
         "name": "Poly-Time Soundscapes / Forest Of The Shrine",
         "url": "https://open.spotify.com/album/6IVsTpAlGUlKccS5GWqsP0"
       },
@@ -3844,7 +3888,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
@@ -5134,7 +5178,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 248600,
       "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
       "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"

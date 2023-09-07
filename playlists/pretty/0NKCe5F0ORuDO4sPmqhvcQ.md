@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,955 likes - 117 songs - 6 hr 35 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,952 likes - 119 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 115 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
 | 116 | [Westside](https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5) | 2:56 |
 | 117 | [skydrivin](https://open.spotify.com/track/1o8ldMCYDBQ1fFsOBPXfpB) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [skydrivin](https://open.spotify.com/album/70pPkKEzYL70r95sCzvdqe) | 4:31 |
+| 118 | [If The DJ Let Me](https://open.spotify.com/track/0WOr4IFzO5PX2KQoU4hslu) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [If The DJ Let Me](https://open.spotify.com/album/4kNlUWofwgf6KjUF6vB9pS) | 3:51 |
+| 119 | [Motion](https://open.spotify.com/track/09Gw3c0YxUGPVCrj2GXbSF) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Motion](https://open.spotify.com/album/3RnXk2590lJ1zz4l2otNOZ) | 3:02 |
 
-Snapshot ID: `MTA0NTgsZTEwNzAwODlkNWFjNDc5NTkwZjc4YWI0NTIwMTQ0ZGUzMzFjOTI0MQ==`
+Snapshot ID: `MTA0NjAsNjk5ODdiODg5MzdhZDk0NDVkODExZjk0MmIxY2FkMjFhYmRlNmY2OQ==`

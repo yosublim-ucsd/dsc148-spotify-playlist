@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Peces Raros.",
-  "num_followers": 16364,
+  "num_followers": 16367,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzFkZDkxMzE0ZmFjNzc0ZDY0OTFjMmRiOWM1YzNkYTk4NjE3YWFl",
+  "snapshot_id": "MCxlNzhkYzJjMmE0MTUzM2I2NWE1M2E5NzlkZjM1OWVlYzYzMTA2M2Fk",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -88,8 +88,8 @@
           "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
         },
         {
-          "name": "Fermin",
-          "url": "https://open.spotify.com/artist/3oRuqr9lRa7eIJCeUU3jYg"
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         }
       ],
       "duration_ms": 242238,
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "M\u00fasica Para Adultos",
         "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 166246,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "CONSTITUCI\u00d3N",
+        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 161977,
+      "name": "CONSTITUCI\u00d3N",
+      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Nunca Estuvo en Ti el Litoral",
         "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
@@ -779,26 +795,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "M\u00cdO",
-        "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "M\u00cdO",
-      "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "aquiles </3",
         "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
       },
@@ -815,6 +811,26 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "M\u00cdO",
+        "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "M\u00cdO",
+      "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -855,42 +871,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "CONSTITUCI\u00d3N",
-        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 161977,
-      "name": "CONSTITUCI\u00d3N",
-      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Luz de perla",
         "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
@@ -927,6 +907,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "KRAUT!",
         "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "\u00faltimo y primero",
         "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 179377,
       "name": "\u00faltimo y primero",
       "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
+      },
+      "artists": [
+        {
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Cicuta",
         "url": "https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7"
       },
@@ -1131,18 +1147,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
+        "name": "como antes :(",
+        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
       "artists": [
         {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
+          "name": "Yaima Cat",
+          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 232173,
-      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
+      "duration_ms": 237888,
+      "name": "como antes :(",
+      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1179,26 +1199,6 @@
       "duration_ms": 163676,
       "name": "Azar",
       "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "como antes :(",
-        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
-      },
-      "artists": [
-        {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 237888,
-      "name": "como antes :(",
-      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Aviones De Papel",
-        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 193336,
-      "name": "Aviones De Papel",
-      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
@@ -1299,26 +1283,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Tu Demente",
-        "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
+        "name": "Aviones De Papel",
+        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
       },
       "artists": [
         {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        },
-        {
-          "name": "Franz Mesko",
-          "url": "https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 183845,
-      "name": "Tu Demente",
-      "url": "https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V"
+      "duration_ms": 193336,
+      "name": "Aviones De Papel",
+      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1339,6 +1315,30 @@
       "duration_ms": 246136,
       "name": "Ave",
       "url": "https://open.spotify.com/track/5N2R03ZsiQhq1fFgXC03Hs"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Tu Demente",
+        "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Franz Mesko",
+          "url": "https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS"
+        }
+      ],
+      "duration_ms": 183845,
+      "name": "Tu Demente",
+      "url": "https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Bum (Chocamos un Auto)",
+        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Bum (Chocamos un Auto)",
+      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Estrellas, Piernas y Serpientes",
         "url": "https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl"
       },
@@ -1475,18 +1491,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Bum (Chocamos un Auto)",
-        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
+        "name": "CHORO",
+        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Bum (Chocamos un Auto)",
-      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
+      "duration_ms": 197076,
+      "name": "CHORO",
+      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1511,26 +1531,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "CHORO",
-        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
-      },
-      "artists": [
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 197076,
-      "name": "CHORO",
-      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
       },
@@ -1551,18 +1551,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "es mejor",
-        "url": "https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ"
+        "name": "7 canciones antes de que nos corten la luz",
+        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 176453,
-      "name": "es mejor",
-      "url": "https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY"
+      "duration_ms": 223278,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1583,6 +1587,22 @@
       "duration_ms": 183500,
       "name": "Trampa",
       "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "es mejor",
+        "url": "https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "es mejor",
+      "url": "https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1659,26 +1679,6 @@
       "duration_ms": 246144,
       "name": "En la Torre - AV Remix",
       "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "7 canciones antes de que nos corten la luz",
-        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
-      },
-      "artists": [
-        {
-          "name": "DEFENSA",
-          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
     },
     {
       "added_at": "2023-09-01 03:00:00",

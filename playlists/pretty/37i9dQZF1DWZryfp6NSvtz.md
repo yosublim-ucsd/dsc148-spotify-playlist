@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,273 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,468 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Axolotl](https://open.spotify.com/track/3UerR0AnFQmTfNb4vBBvH1) | [Duck Teeth](https://open.spotify.com/artist/1KXOSjn2hwqTNSHf6qNV4Y) | [Jump The Shark](https://open.spotify.com/album/66EzIP1WCbhbtPt3x1W2YI) | 3:13 |
 | 50 | [What's Wrong With Me](https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc) | [Spin Twice](https://open.spotify.com/artist/4EIIaGs9qalNWfNNt1lo8d) | [Gravity](https://open.spotify.com/album/1uSQX0L4eOveqyskx0Sxf1) | 3:43 |
 
-Snapshot ID: `MCxmZDFmNGYwNDE2MGMzNmMzNDY1OTVhODVjN2Q1NGI5YjRhMTQ5NzQ1`
+Snapshot ID: `MCwwODc2MzIxMjQwNDZkNmY2YzQ2ZTI2MzQzNjFjMmU4NWVhYjBmNTg3`

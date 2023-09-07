@@ -3057,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "The Low",
+        "url": "https://open.spotify.com/album/1fdz9eOqE4fcayb5wIqErG"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218464,
+      "name": "The Low",
+      "url": "https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB"
+    },
+    {
+      "album": {
         "name": "The Universe",
         "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
       },
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"

@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-222 songs - 9 hr 45 min
+223 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [COWBELL WARRIOR!](https://open.spotify.com/track/4eDE92gbf1iKImxBIKS64V) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/5XyrJDyXLimURWjVboM1tC) | 2:29 | 2023-07-13 |  |
 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 | 2022-12-14 |  |
 | [DANCE!](https://open.spotify.com/track/7sYfWTa2GD1KCaLgGFmFM5) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW), [Wassup Rocker](https://open.spotify.com/artist/6wDDxmc6DCL53dpL6uMjqM) | [DANCE!](https://open.spotify.com/album/3dlb9Ln4sYzsJEppql4uy4) | 2:43 | 2023-01-12 | 2023-03-23 |
-| [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 | 2022-07-08 |  |
+| [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 | 2022-07-08 | 2023-09-07 |
 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 | 2023-08-18 |  |
 | [Demon to a GhxsT \(Inspired by "Demon Slayer"\)](https://open.spotify.com/track/74d7fdc3IibAz8WZuwz2x3) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9), [Cam Steady](https://open.spotify.com/artist/0v2ThByhPk4mutkJNv6mue) | [Demon to a GhxsT \(Inspired by "Demon Slayer"\)](https://open.spotify.com/album/6n3RkZF4lEM2kKe7rApucg) | 3:12 | 2022-05-25 | 2022-07-29 |
 | [Devil Lady](https://open.spotify.com/track/0jIkTAUqrloJ2ycKU0hBcL) | [REV](https://open.spotify.com/artist/6LPhim0qQ8EHh55uw06umD), [LOAT!](https://open.spotify.com/artist/6o1ntTG3W1wFDYhqWnNAlx) | [Devil Lady](https://open.spotify.com/album/6k28uRJsyPnys2bG1Q704Q) | 3:10 | 2022-05-25 | 2022-07-29 |
@@ -106,6 +106,7 @@
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2022-05-25 | 2023-08-23 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-14 | 2023-08-19 |
 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 | 2022-06-01 |  |
+| [King Kai](https://open.spotify.com/track/04tAzmldYGn6DAZrpny2WG) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [King Kai](https://open.spotify.com/album/5pxT6OgFygrOCvCqaUVnxe) | 1:43 | 2023-09-06 |  |
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2022-05-25 | 2022-07-27 |
 | [Kujo Freestyle](https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx) | 1:55 | 2023-07-13 |  |
 | [Kusakabe](https://open.spotify.com/track/6uExHIneReZOje7uvWAPmm) | [Aerial Ace](https://open.spotify.com/artist/0MQEUY64e086Zu5Yp85gj2), [Ham Sandwich](https://open.spotify.com/artist/10IrmnIj8FmleJotGxwTRX) | [Kusakabe](https://open.spotify.com/album/5PiLVdRmpaVAMcYgezB7JB) | 2:28 | 2022-05-25 | 2022-06-26 |

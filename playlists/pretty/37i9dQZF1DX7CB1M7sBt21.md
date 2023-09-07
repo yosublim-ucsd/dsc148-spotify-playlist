@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,690 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,719 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 39 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 |
 | 40 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
 | 41 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
-| 42 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
-| 43 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
-| 44 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 |
+| 42 | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Emelie Cyréus](https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O) | [Weekend \(feat\. Emelie Cyréus\)](https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm) | 2:12 |
+| 43 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 |
+| 44 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 |
 | 45 | [Freedom](https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Freedom](https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4) | 3:18 |
 | 46 | [Shotgun \(The Wild Remix\)](https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [Staying at Tamara's \(Remixes\)](https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs) | 3:13 |
 | 47 | [Sad \(feat\. Afrojack\)](https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Sad \(feat\. Afrojack\)](https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [I Miss Myself \(with HRVY\)](https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Miss Myself \(with HRVY\)](https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd) | 3:11 |
 | 80 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 |
 
-Snapshot ID: `MCxhNjZmMmVjZWVlODRhNThhOTBkZmIyZjgzMzZlN2ZmZTliN2ZjMGRk`
+Snapshot ID: `MCw1OTUxODY4ZGQxZDc0MDQ2YTAxYTUyMWE5MzJjMDZkYmFmNGY5NGQw`

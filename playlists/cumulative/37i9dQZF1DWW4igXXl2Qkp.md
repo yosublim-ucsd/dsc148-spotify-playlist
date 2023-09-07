@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:6UIpxj5ggLdOebFVCOxVax">Loe Shimmy</a>
 
-890 songs - 1 day 14 hr 58 min
+893 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Bleeda Story](https://open.spotify.com/track/2MybTFEA2hpIpPwvOQZgeg) | [Realbleeda](https://open.spotify.com/artist/0DNZpdaIrwHQAknPciWiU7) | [Bleeda Story](https://open.spotify.com/album/3coKnhp9KOQ4YL9mE075iN) | 3:28 | 2023-03-08 | 2023-04-13 |
 | [blessings & curses](https://open.spotify.com/track/31G6ToFLmLA9J8ws9wx8Ul) | [Marques Martin](https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq) | [blessings & curses](https://open.spotify.com/album/0muRadh3yV9mTLXOqKNEZO) | 2:06 | 2023-01-11 | 2023-02-16 |
 | [Blind Spots](https://open.spotify.com/track/0qkvm3CobVarPSvJX93cjA) | [440 Smitty](https://open.spotify.com/artist/6bZx82FJqBkiTZ2SfbSnwE) | [Blind Spots](https://open.spotify.com/album/7yfXpObFL4I6SUIJYRxqqY) | 2:55 | 2022-03-09 | 2022-04-07 |
+| [Bliss](https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Bliss](https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl) | 2:31 | 2023-09-06 |  |
 | [Blood Bath](https://open.spotify.com/track/5ha1smmGfz7sttHdxFcrbY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside II](https://open.spotify.com/album/79qFRdOPllZ9t0uhJsqHwi) | 2:46 | 2022-03-09 | 2022-04-14 |
 | [Blood Boy](https://open.spotify.com/track/3Mk9L0W0T3ubitZjaYOC8w) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Blood Boy](https://open.spotify.com/album/0hnSyql4qfnASDuxO58g2p) | 2:26 | 2022-08-03 | 2022-09-15 |
 | [Blood Boy](https://open.spotify.com/track/5aqeqiO73dCUNfrOX6NxD3) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legendary](https://open.spotify.com/album/7pDUpSYX9059HWV94jJbqQ) | 2:29 | 2022-11-30 | 2023-01-12 |
@@ -140,7 +141,7 @@
 | [BMIG](https://open.spotify.com/track/6PuUz6u3OnBPB74ov3EjSR) | [Adrian Dey](https://open.spotify.com/artist/41TTSjdfiIV7sFPCgWwCzA) | [I Can't Make This Up](https://open.spotify.com/album/6GJhINEAW6TV8UdmHYzrdz) | 2:06 | 2021-12-01 | 2022-01-14 |
 | [Body Feeling \(Intro\)](https://open.spotify.com/track/6sHwtS9nHhkDvF2A6knENL) | [AKAI SOLO](https://open.spotify.com/artist/4BqOTaVacNL8CyDxxgiMjB) | [Body Feeling](https://open.spotify.com/album/6MeXW4orJ48GSLY5loyhH3) | 3:46 | 2022-09-14 | 2022-11-10 |
 | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/track/1YF9HlEpL0cXLIewgQHdZt) | [Kyle Banks](https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Bogus \(feat\. BlueBucksClan\)](https://open.spotify.com/album/6WwSmNmwiq8f1VKEor6hUz) | 3:19 | 2021-12-01 | 2022-01-14 |
-| [Boner](https://open.spotify.com/track/3rALLrKGsYRLXBYceGnZXB) | [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [Stop Playing](https://open.spotify.com/album/4NTOhajbvWZBuzdC0Rjfh3) | 2:04 | 2023-07-19 |  |
+| [Boner](https://open.spotify.com/track/3rALLrKGsYRLXBYceGnZXB) | [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [Stop Playing](https://open.spotify.com/album/4NTOhajbvWZBuzdC0Rjfh3) | 2:04 | 2023-07-19 | 2023-09-07 |
 | [Boondocks](https://open.spotify.com/track/0HdhL3wJyFM7W6XwNYIMxn) | [Jugg Harden](https://open.spotify.com/artist/2kEHAcfuuNvBYwo4LleLBd) | [Boondocks](https://open.spotify.com/album/4VUhVSDn8ZjHWbDdL6qjsw) | 1:35 | 2023-01-11 | 2023-02-23 |
 | [Boujee](https://open.spotify.com/track/3VOENHVKLv5mXlwWv73JoI) | [Keemo](https://open.spotify.com/artist/2yxA6jChokpO4Vi1VF6Lf6) | [Boujee](https://open.spotify.com/album/006BIFfWhCSaQxRVGT0GUn) | 4:17 | 2021-12-01 | 2022-01-14 |
 | [Boujee](https://open.spotify.com/track/7t4fr67LcEARDelEQMAVQr) | [Zsupreme](https://open.spotify.com/artist/5yQf6Q220GRWVyOoLEsUvK) | [Boujee](https://open.spotify.com/album/6XTJ3WEqyFz1TMVCS3Cqml) | 2:13 | 2022-04-13 | 2022-04-28 |
@@ -168,7 +169,7 @@
 | [Call You Back](https://open.spotify.com/track/5szHpSNNHyCWm1QAXSXNAI) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Call You Back](https://open.spotify.com/album/402rHWZJdaBEwHbq4whmJc) | 2:40 | 2023-08-23 |  |
 | [Can't Be Famous](https://open.spotify.com/track/2nJI3knNuCEeOgXThoWV9d) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Can't Be Famous](https://open.spotify.com/album/0rw0aKbyqJyxfIjM0WQYaX) | 2:38 | 2022-01-13 | 2022-02-24 |
 | [Can't Blame Em](https://open.spotify.com/track/2O7Nl0SHRRcV0rR2NDS6BM) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Can't Blame Em](https://open.spotify.com/album/2R3oMQcBBjhgsUl843bxnE) | 2:34 | 2023-08-23 |  |
-| [Can't Forget](https://open.spotify.com/track/5q4PzEPtexRWiTh68Z67EB) | [TYK](https://open.spotify.com/artist/59e1xBpxB7CmdSl0wre3nT) | [Can't Forget](https://open.spotify.com/album/2nVqJ5q1XPxi3x0lbUdM9a) | 2:11 | 2023-08-23 |  |
+| [Can't Forget](https://open.spotify.com/track/5q4PzEPtexRWiTh68Z67EB) | [TYK](https://open.spotify.com/artist/59e1xBpxB7CmdSl0wre3nT) | [Can't Forget](https://open.spotify.com/album/2nVqJ5q1XPxi3x0lbUdM9a) | 2:11 | 2023-08-23 | 2023-09-07 |
 | [Carolina Girls \(feat\. TiaCorine\)](https://open.spotify.com/track/2dSjk7noXUAAAgzf9QkGyg) | [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Carolina Girls \(feat\. TiaCorine\)](https://open.spotify.com/album/2jM3JnPPgKvh55Wjd7KHU6) | 2:10 | 2021-12-01 | 2022-01-14 |
 | [Cartier](https://open.spotify.com/track/0uM9CyhRRCoe10HlOTYoHF) | [Osibih](https://open.spotify.com/artist/3vJy4Wg4r5yN5HJKRL8ucR) | [Cartier](https://open.spotify.com/album/12Rqa9R09X2jUKYADjzCxc) | 2:28 | 2021-12-01 | 2022-01-14 |
 | [Casamigos](https://open.spotify.com/track/3T3sbWTQHi4UW94RLd5Woo) | [Noah](https://open.spotify.com/artist/5yx3y811Re6brWMGIxo0Qe), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Mirrors In A Mausoleum](https://open.spotify.com/album/2gTkZrjyFquglk0gFcUJnu) | 2:21 | 2022-04-27 | 2022-07-01 |
@@ -389,6 +390,7 @@
 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 | 2023-02-22 | 2023-04-13 |
 | [I CANNOT BELIEVE](https://open.spotify.com/track/1My0DDVaAkOfe82HcOKtj7) | [Malik Baptiste](https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW) | [I CANNOT BELIEVE](https://open.spotify.com/album/2nc1Yy8Iiu6HMtntnL1Tqd) | 2:48 | 2023-06-28 | 2023-08-25 |
 | [I Don't Wanna Hang](https://open.spotify.com/track/6sSMdueWm4eICidC9W6ujU) | [Cola H.](https://open.spotify.com/artist/4bUIemhzXV37xcUk9lGh5T) | [I Don't Wanna Hang](https://open.spotify.com/album/0pBNs5Hd0d5WmGc1axEIRT) | 3:44 | 2022-01-13 | 2022-02-10 |
+| [I Like](https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [I Like](https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38) | 2:06 | 2023-09-06 |  |
 | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/track/7lwyaNYc0IU5XVr8LxRzAX) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [I'm Bach \(Feelin' like yak\)](https://open.spotify.com/album/1Kn4A42jYU9a2cs0XIOhPP) | 2:29 | 2023-08-23 |  |
 | [I'M GOOD](https://open.spotify.com/track/1o4TXR8pDa6LQHBPhfg9zs) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I'M GOOD](https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd) | 3:15 | 2022-10-13 | 2022-12-01 |
 | [I'm Him](https://open.spotify.com/track/2cAqVc1Hrry0OpnyOLmsEv) | [Joe West](https://open.spotify.com/artist/4ep4KPv7HsOHDILejOScCK) | [HIM](https://open.spotify.com/album/2aSexfVzRxiaHa2mPeSZD0) | 2:43 | 2023-04-05 | 2023-06-08 |
@@ -405,7 +407,7 @@
 | [intres\-ting](https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [intres\-ting](https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1) | 2:17 | 2021-12-01 | 2022-01-14 |
 | [IronMan](https://open.spotify.com/track/1VztOdqFSTBEjBJMTbmfNW) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [IronMan](https://open.spotify.com/album/2woBXzBABHDsVvb6ZbZg8t) | 2:45 | 2022-08-10 | 2022-09-22 |
 | [Irregular](https://open.spotify.com/track/0HhEvFxhhrbg9ddKSgkNKC) | [Prophet the Artist](https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU) | [Irregular](https://open.spotify.com/album/2B65I9ji5qADXohWMNxCQB) | 3:01 | 2022-02-09 | 2022-02-17 |
-| [it is what it is](https://open.spotify.com/track/6utwQVdK6GvgDSS5mzjkkq) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.1](https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu) | 3:36 | 2023-07-19 |  |
+| [it is what it is](https://open.spotify.com/track/6utwQVdK6GvgDSS5mzjkkq) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.1](https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu) | 3:36 | 2023-07-19 | 2023-09-07 |
 | [ITS STRAIGHT](https://open.spotify.com/track/2qVR8fPHIAcK0lKbF8A950) | [Luh Cheetoh](https://open.spotify.com/artist/560BZJhvtTnwVdzUCxtcN4) | [ITS STRAIGHT](https://open.spotify.com/album/59VX9oPXeUFX9rFQ5g8fVU) | 2:47 | 2022-03-02 | 2022-03-31 |
 | [iwannaknow](https://open.spotify.com/track/1cFtl5Anb4WK4OkTVJwMrh) | [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E) | [ASB2](https://open.spotify.com/album/6fvOLyk3E5slggn3a0R7YW) | 3:37 | 2023-07-26 |  |
 | [Iyum](https://open.spotify.com/track/138vvaXg2wnEi7KHfs6rFO) | [Nezi Momodu](https://open.spotify.com/artist/38N4mjrrjyqXksEoMFrPWm) | [The Pound](https://open.spotify.com/album/2heRKh4uxtALf3oxqOOXZv) | 3:24 | 2022-08-10 | 2022-10-06 |
@@ -853,6 +855,7 @@
 | [walkin'](https://open.spotify.com/track/1MFaK9LHLoh7zKaW5D1zYg) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [walkin'](https://open.spotify.com/album/5dWRgcv6C12uB8iuNE1UsS) | 2:53 | 2022-10-26 | 2022-12-01 |
 | [War Cries](https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL) | [War Cries](https://open.spotify.com/album/30slXEZQTucfmq8bWQaWk6) | 2:29 | 2022-06-08 | 2023-01-12 |
 | [Wash Your Hands](https://open.spotify.com/track/2Oaudlk5vOSnukZW49D7Fk) | [Energe](https://open.spotify.com/artist/0IQrZT2jXUUp6ltVRi08jm) | [Wash Your Hands](https://open.spotify.com/album/69nmLkwhgiHDkAvbfxtgSX) | 2:29 | 2021-12-01 | 2022-01-14 |
+| [Wassup Gwayy](https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV) | [FamousSally & YB](https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85) | [Wassup Gwayy](https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax) | 2:24 | 2023-09-06 |  |
 | [Waste My Time](https://open.spotify.com/track/2EAWI4rpdfx6xSESkBevGB) | [Kansh](https://open.spotify.com/artist/5NhfYdxgkSTb0OIStFPR1Z) | [Waste My Time](https://open.spotify.com/album/1o0BBYB1LKAj6IFpuoxEK3) | 2:58 | 2022-09-07 | 2022-10-20 |
 | [WASTE NO TIME](https://open.spotify.com/track/0jF9AZAaMv49jsy3InMUjQ) | [AJRadico](https://open.spotify.com/artist/6n7llPn2HLKS375ZyJQ2VR) | [WASTE NO TIME](https://open.spotify.com/album/6e5f6M6FQLhi8pSgxazQ1a) | 3:00 | 2022-09-02 | 2022-10-14 |
 | [Water](https://open.spotify.com/track/3xBwgrDop99r4pRMNnwDz0) | [Tizzy Stackz](https://open.spotify.com/artist/3oBYsMKXO4E5j6j3hzFygR), [Lil Berete](https://open.spotify.com/artist/6FXCc0FAXCsG2WFR1plJjx) | [Water](https://open.spotify.com/album/7q8egUmkTzz2Nh2EtRP1n9) | 3:05 | 2022-03-30 | 2022-05-19 |

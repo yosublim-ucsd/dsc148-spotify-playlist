@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 202000,
       "name": "Mitt lille land",
       "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
@@ -3084,6 +3084,28 @@
       "duration_ms": 218640,
       "name": "Sangen om de glemte",
       "url": "https://open.spotify.com/track/4UfaAnu4XTEA0ZOqtJD5is"
+    },
+    {
+      "album": {
+        "name": "Sangen om Gleden",
+        "url": "https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C"
+      },
+      "artists": [
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323880,
+      "name": "Sangen om Gleden",
+      "url": "https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx"
     },
     {
       "album": {

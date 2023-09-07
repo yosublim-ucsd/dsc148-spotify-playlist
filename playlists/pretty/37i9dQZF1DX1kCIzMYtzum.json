@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 183140,
+  "num_followers": 183435,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjUzN2IxMjA0OTUzZDA0MjA1OGMxZTM5ZmU0OGMyMTA1OTlmMDE2",
+  "snapshot_id": "MCxiMmJkYzVjYWMwNzIwOWYxYzM5MGU1NjkyYTRiM2Y3NmYzMDZhZWNk",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
-      },
-      "artists": [
-        {
-          "name": "Theresa Rex",
-          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 183495,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Starlight (Keep Me Afloat)",
         "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
+      },
+      "artists": [
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 183495,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1475,6 +1475,26 @@
       "duration_ms": 155409,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1523,26 +1543,6 @@
       "duration_ms": 160887,
       "name": "The Race",
       "url": "https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "I Knew It Was You",
+        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 175928,
+      "name": "I Knew It Was You",
+      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/1Gjfloocho6vjWqkxhW6L4"
       },
@@ -1875,22 +1895,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "I Knew It Was You",
-        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
+        "name": "It Burns - EP",
+        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
       },
       "artists": [
         {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         }
       ],
-      "duration_ms": 175928,
-      "name": "I Knew It Was You",
-      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+      "duration_ms": 192619,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1911,22 +1927,6 @@
       "duration_ms": 182068,
       "name": "Atlantis (Robin Schulz Presents KOPPY)",
       "url": "https://open.spotify.com/track/5TdnT5EfvkF6K3jHDe7toT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "It Burns - EP",
-        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 192619,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Save Me (From Myself) (feat. Kyle Hume)",
+        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Save Me (From Myself) (feat. Kyle Hume)",
+      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/1I5VgwayPR20EfIw8Hxemg"
       },
@@ -2071,66 +2091,46 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Save Me (From Myself) (feat. Kyle Hume)",
-        "url": "https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3iwNd4M1ghGUUb86BUq6qo"
       },
       "artists": [
         {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Save Me (From Myself) (feat. Kyle Hume)",
-      "url": "https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD"
+      "duration_ms": 198095,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5Y4L2jaSYxvPlhz6T8HRAl"
     },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Party PPL",
-        "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         },
         {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
         }
       ],
-      "duration_ms": 148412,
-      "name": "Party PPL",
-      "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Mirror Mirror",
-        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 247272,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
+      "duration_ms": 146285,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx"
     }
   ],
   "unique_name": "EDM 2023",

@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"https://www.thestellarawards.com/index.html\">Stellar Award</a> winning artist <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e\">Pastor Mike Jr.</a>.",
-  "num_followers": 59109,
+  "num_followers": 59192,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGI4ZTg2YTc2OWQyM2MyYzRhM2QyNmMwYzljNTc3NGY1YTAxNGZl",
+  "snapshot_id": "MCw0YTAzMTM1NjZiMmYxNWQ0OGJiNjE0NDk1NDQ2MzhlZmUxOGJhNzM1",
   "tracks": [
     {
       "added_at": "2023-07-13 07:29:04",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "More On The Way (feat. nobigdyl.)",
         "url": "https://open.spotify.com/album/6sbOyBtYzDFuhFLfunI85F"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 194565,
       "name": "More On The Way (feat. nobigdyl.)",
       "url": "https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Glory Hour",
+        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 421320,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
@@ -651,18 +667,26 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Glory Hour",
-        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
       },
       "artists": [
         {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Thi'sl",
+          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 421320,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
+      "duration_ms": 193234,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -735,26 +759,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Thi'sl",
-          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 193234,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
+      "duration_ms": 187458,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -791,22 +807,6 @@
       "duration_ms": 201938,
       "name": "My Worship",
       "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Blues and Roses",
-        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 145725,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "High Noon",
         "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 130679,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Blues and Roses",
+        "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 145725,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/0QvZBcImFtSlNrWgUQeChr"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg"
       },
@@ -1319,18 +1335,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
       },
       "artists": [
         {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        },
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+      "duration_ms": 251490,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1395,26 +1415,6 @@
       "duration_ms": 195541,
       "name": "Won't Be Long Now",
       "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        },
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 251490,
-      "name": "Mansion",
-      "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "NO WORRIES",
         "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 212615,
       "name": "NO WORRIES",
       "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 180375,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Be My Everything (Reimagined)",
         "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 475198,
       "name": "We Agree With Heaven (with Todd Dulaney) - Live",
       "url": "https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
-      },
-      "artists": [
-        {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 157706,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
+      },
+      "artists": [
+        {
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
+        }
+      ],
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-07-13 07:29:04",

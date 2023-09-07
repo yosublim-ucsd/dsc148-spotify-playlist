@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Rap. Cover:  Wazir Patar",
+  "description": "Fresh Punjabi Rap. Cover:  Prem Dhillon & Straight Bank",
   "name": "Burrh Rap",
   "tracks": [
     {
@@ -1148,6 +1148,28 @@
       "duration_ms": 185869,
       "name": "P.O.V (Point of View)",
       "url": "https://open.spotify.com/track/6h5cT4n75VWK95VDW07EFw"
+    },
+    {
+      "album": {
+        "name": "PO",
+        "url": "https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Straight Bank",
+          "url": "https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215217,
+      "name": "PO",
+      "url": "https://open.spotify.com/track/1W6r5thD9Tadno47turNR0"
     },
     {
       "album": {

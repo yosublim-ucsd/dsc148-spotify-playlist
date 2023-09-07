@@ -4,7 +4,7 @@
 
 > Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
-247 songs - 14 hr 40 min
+248 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Believe](https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Sun And The Moon](https://open.spotify.com/album/1jg4hDHRD1CpYZkWKuLX2Z) | 3:46 | 2022-07-21 |  |
 | [Black And White](https://open.spotify.com/track/2EwgY7yklqTPLinIIEF6Es) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Sunbathing Animal](https://open.spotify.com/album/3ngz9FbWGxHscqvwoGOL0u) | 3:02 | 2022-07-21 | 2022-07-29 |
 | [Blood Red Youth](https://open.spotify.com/track/4XbdW7abvoRF1uKPj368LC) | [California Wives](https://open.spotify.com/artist/5aBQVxOq5pkoXaasI2VtOo) | [Art History](https://open.spotify.com/album/4FfBd3DCga7D6sdYjqSzlG) | 4:18 | 2022-07-21 | 2022-07-29 |
-| [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2021-12-03 |  |
+| [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2021-12-03 | 2023-09-07 |
+| [Bohemian Like You](https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak) | 3:31 | 2023-08-24 |  |
 | [Books From Boxes](https://open.spotify.com/track/7aB9V1AfdHhdONxii7njJ9) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:28 | 2022-07-21 | 2022-09-21 |
 | [Bros](https://open.spotify.com/track/1EsHTu5Eyr6MoEiRNFwrTu) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool \(Deluxe Edition\)](https://open.spotify.com/album/5Uqtbi6LDSKDNNzfVU58PM) | 3:44 | 2022-09-20 | 2022-11-13 |
 | [Bros](https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h) | 3:44 | 2022-09-20 |  |

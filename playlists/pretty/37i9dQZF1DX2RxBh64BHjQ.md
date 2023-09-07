@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0gg11prPP6OqtUvBcKnPpq">Rylo Rodriguez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,787,262 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,787,386 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 66 | [I <3 My Nigga](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My Nigga](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 |
 | 67 | [2021 Vibes](https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:04 |
 | 68 | [Feelings](https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Feelings](https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ) | 2:38 |
-| 69 | [Not a Drill](https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:44 |
+| 69 | [Not a Drill](https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 3:44 |
 | 70 | [Wife](https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Some Like It Hot](https://open.spotify.com/album/3i47bG7gXG3OurOD0fpIVX) | 3:31 |
 | 71 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
 | 72 | [Roller Coaster](https://open.spotify.com/track/0OjRGpdugcfIUyhooQOekr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Roller Coaster](https://open.spotify.com/album/5WedNs0Uo3gAltQqhGSTGv) | 3:38 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 80 | [Keep Going](https://open.spotify.com/track/3XSK1XTq9e6WgG4Sfhw4fL) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:03 |
 | 81 | [Butterfly Ku](https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 1:51 |
 | 82 | [Wig Splitter](https://open.spotify.com/track/2VUZU4RAaSdIjnpKaWOVCW) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Where The Flowers Don't Die](https://open.spotify.com/album/0oKgiQKCek2KARB2vjo7Tf) | 2:17 |
-| 83 | [GOMD](https://open.spotify.com/track/6Fsz3e2FD08hr15PHvCsgI) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 2:51 |
+| 83 | [GOMD](https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 2:51 |
 | 84 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 | 85 | [Luh Tyler Flow \(feat\. Los & Nutty\)](https://open.spotify.com/track/78eZhtsGvlCpilrfSt3lBT) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Los and Nutty](https://open.spotify.com/artist/1jWzClO5EIz8fpvtl3bno5) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 5:08 |
 | 86 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Real Rap B\*\*\*\* \(Poppin It\)](https://open.spotify.com/track/3OxWD1a4W2d5FEiT8hgzur) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Real Rap B\*\*\*\* \(Poppin It\)](https://open.spotify.com/album/7C8rTzfTRLswbWsf2oJoqN) | 2:14 |
 | 100 | [First Show](https://open.spotify.com/track/5nGITHcYH3Tt5WolBVEcrJ) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [First Show](https://open.spotify.com/album/1sngfICVppLNMrDKHlBsxC) | 2:01 |
 
-Snapshot ID: `MCwzZjk1ZGE1OTZhMmJhN2M5MDE1ODNiNTQ5OGI0NjM4YTllNmVlODhm`
+Snapshot ID: `MCw3OTY0OTM0YmI2MGFkNzEzN2M5YTVlMGNiOGZlMzM1YzFhNTg4Zjcy`

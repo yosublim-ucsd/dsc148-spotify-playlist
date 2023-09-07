@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 曽根麻央
 
-204 songs - 16 hr 47 min
+205 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Caught Up \- grooveman Spot Remix](https://open.spotify.com/track/4E31kWZbuig1EQozBK4j5b) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Caught Up \(grooveman Spot Remix\)](https://open.spotify.com/album/3KqRiPSde1pa2WVEtBSu3b) | 4:06 | 2023-04-04 | 2023-04-22 |
 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 | 2022-09-27 | 2022-10-21 |
 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 | 2023-03-02 |
-| [Clarice](https://open.spotify.com/track/7hIIwJTGz7s7vpMaFtdvlU) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/55j95OpOUQbuf4X4Ryljuw) | 3:46 | 2023-09-05 |  |
+| [Clarice](https://open.spotify.com/track/7DrMC04xJQHabCzMcjWTI1) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/1quyn6g2gIrwLJ2VmgI8Jx) | 3:46 | 2023-09-05 |  |
+| [Clarice](https://open.spotify.com/track/7hIIwJTGz7s7vpMaFtdvlU) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/55j95OpOUQbuf4X4Ryljuw) | 3:46 | 2023-09-05 | 2023-09-07 |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-09-06 | 2023-03-13 |
 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 | 2023-09-05 |  |
 | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/album/1DRsv2J8yzJqte4iM47vP7) | 4:10 | 2022-09-06 | 2022-09-21 |

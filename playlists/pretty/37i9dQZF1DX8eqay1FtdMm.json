@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bPaul Blanco(\ud3f4\ube14\ub791\ucf54)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 324398,
+  "num_followers": 324407,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGRiN2UyNGEyYWIzMmRlODViMzU1MGE2YzQyNjllZTg2OWI4MmJm",
+  "snapshot_id": "MCxmMDA2Mjk3NGI2ZDIyY2JjM2I4NzQxY2ZiZjBkNGFkNmIwOTJlYmIy",
   "tracks": [
     {
       "added_at": "2023-08-31 09:46:03",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
-        "name": "HANGANG",
-        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
         }
       ],
-      "duration_ms": 199133,
-      "name": "HANGANG (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -655,6 +651,26 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "HANGANG (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2023-08-31 09:46:03",
+      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
-    },
-    {
-      "added_at": "2023-08-31 09:46:03",
-      "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
-      },
-      "artists": [
-        {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2023-08-31 09:46:03",
+      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 206240,
       "name": "Love Me Love Me",
       "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
-    },
-    {
-      "added_at": "2023-08-31 09:46:03",
-      "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
-    },
-    {
-      "added_at": "2023-08-31 09:46:03",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 236000,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2023-08-31 09:46:03",
+      "album": {
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
-        "name": "Back In Time (The Moon during the Day X K.will)",
-        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "Back In Time (The Moon during the Day X K.will)",
-      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
-    },
-    {
-      "added_at": "2023-08-31 09:46:03",
-      "album": {
         "name": "love",
         "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 213275,
       "name": "comedy",
       "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
+    },
+    {
+      "added_at": "2023-08-31 09:46:03",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
-    },
-    {
-      "added_at": "2023-08-31 09:46:03",
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 221333,
       "name": "You&I",
       "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
+    },
+    {
+      "added_at": "2023-08-31 09:46:03",
+      "album": {
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
-        "name": "My Liberation Notes OST Part 1",
-        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
       },
       "artists": [
         {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         }
       ],
-      "duration_ms": 218621,
-      "name": "Deeply",
-      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+      "duration_ms": 179253,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
-        "name": "Love Playlist3 Part.1",
-        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 237224,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
-    },
-    {
-      "added_at": "2023-08-31 09:46:03",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2023-08-31 09:46:03",
+      "album": {
+        "name": "Love Playlist3 Part.1",
+        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 237224,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
     },
     {
       "added_at": "2023-08-31 09:46:03",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-08-31 09:46:03",
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
+    },
+    {
+      "added_at": "2023-08-31 09:46:03",
+      "album": {
         "name": "If You Wish Upon Me OST Part.3",
         "url": "https://open.spotify.com/album/3RWQFf7JlTLZZWG21CsJr9"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
-    },
-    {
-      "added_at": "2023-08-31 09:46:03",
-      "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/7pH1aRaBcogrfEOrAKsUZF"
-      },
-      "artists": [
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 208649,
-      "name": "come as you are",
-      "url": "https://open.spotify.com/track/1B8rGBG1v6y6hdvJmw4z0O"
     },
     {
       "added_at": "2023-08-31 09:46:03",

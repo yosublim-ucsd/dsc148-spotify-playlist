@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-198 songs - 8 hr 57 min
+199 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [VVS](https://open.spotify.com/track/6222XJYoLxi9EQ2KnmSJCX) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [VVS](https://open.spotify.com/album/1ANnj2y4Bznw82pSkIxtYM) | 1:59 | 2021-11-11 |  |
 | [Was Never Ready](https://open.spotify.com/track/14S8qlLVRAvmpaol55lIzH) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:44 | 2022-04-08 |  |
 | [Wealth](https://open.spotify.com/track/0zXE9IyuN8b5Ha2WI2HD7n) | [Nesyu Beats](https://open.spotify.com/artist/13jVsjl8pYgoBgRXfBDtw8) | [Heatwave](https://open.spotify.com/album/0l3ZkYVi8GAgc1XJZMoGPv) | 3:21 | 2022-04-22 | 2023-04-01 |
-| [Wealth](https://open.spotify.com/track/19SzpcvdTLUoc7jevU730f) | [Nesyu Beats](https://open.spotify.com/artist/13jVsjl8pYgoBgRXfBDtw8) | [Heatwave](https://open.spotify.com/album/4B70gOu4H54a3vSEj03UgA) | 3:21 | 2023-03-13 |  |
+| [Wealth](https://open.spotify.com/track/19SzpcvdTLUoc7jevU730f) | [Nesyu Beats](https://open.spotify.com/artist/13jVsjl8pYgoBgRXfBDtw8) | [Heatwave](https://open.spotify.com/album/4B70gOu4H54a3vSEj03UgA) | 3:21 | 2023-03-13 | 2023-09-07 |
+| [Wealth](https://open.spotify.com/track/7IKDfOt2zBPmN8MuUsdnEY) | [Nesyu Beats](https://open.spotify.com/artist/13jVsjl8pYgoBgRXfBDtw8) | [Heatwave](https://open.spotify.com/album/1CJUWXSpXZcMyZicwa1JFz) | 3:21 | 2023-09-04 |  |
 | [Wesley](https://open.spotify.com/track/5yACaHvqRm1tCL5RsaIs9w) | [Velli Roze](https://open.spotify.com/artist/1tRALjpw3fKgtjhzkcjqLm) | [Upscencion](https://open.spotify.com/album/0glQ55ZkBXkyJIUxqx38a5) | 4:23 | 2021-11-11 |  |
 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 | 2021-11-11 |  |
 | [wide perspective](https://open.spotify.com/track/4OLLtYRdoRlJ1DpYYFQUyn) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [wide perspective](https://open.spotify.com/album/5iEtLDPE4nnufUUBEn56HY) | 2:20 | 2021-11-11 |  |

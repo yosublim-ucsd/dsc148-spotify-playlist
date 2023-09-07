@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 
 > It's a Saturday night in the country, all the time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,703 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,772 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 62 | [That Kinda Night](https://open.spotify.com/track/2ALDZH8bUO84jspKLBvNqA) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Nothin' but Trouble](https://open.spotify.com/album/6x0Ii6bxYJONhprG5YjkRp) | 3:02 |
 | 63 | [You Brought the Party](https://open.spotify.com/track/3yY6s065hgNhzorFn3UMlc) | [Christie Lamb](https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F), [Drew Baldridge](https://open.spotify.com/artist/3VpwD2HKVlyDW6pxgUaBLg) | [Broken Lines](https://open.spotify.com/album/1IlwXF0W69Am2wVpy7x88l) | 2:39 |
 | 64 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 |
-| 65 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
+| 65 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/1VDtS5LoZysZOzeXWw3s0D) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 66 | [Neon Soul](https://open.spotify.com/track/25Gxi8mBqLUMuEAGTzUSQc) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Neon Soul](https://open.spotify.com/album/4ysEjN3nv2ZeGYuSntqcMa) | 3:12 |
 | 67 | [Give Me Tonight](https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [My Mind's Projection](https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP) | 3:41 |
 | 68 | [My Wave](https://open.spotify.com/track/6wEWlttx3wUooRC7ydITFL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 | 74 | [Singles You Up \- Ryan Riback Remix](https://open.spotify.com/track/3clfDJ1mvmbSTg9jw40wan) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Singles You Up \(Ryan Riback Remix\)](https://open.spotify.com/album/6BdsIEdziglvxn10fmjsVf) | 3:18 |
 | 75 | [Footloose](https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Footloose](https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN) | 3:38 |
 
-Snapshot ID: `MCwxMTdiOTgzNTFiZTcyY2YyNjAzY2M4NmNmNmE4ODk1NTcxYmY1NmEx`
+Snapshot ID: `MCwxY2UyODE0OTYxZjBiN2FkNDFiM2M2MGYzMzVmNjI2MTQ2NDc2M2I3`

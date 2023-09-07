@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 15 | [El Benson](https://open.spotify.com/track/0W16rC9z9YGHFe9ZULahO7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 4:29 |
 | 16 | [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 |
 | 17 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
-| 18 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
+| 18 | [Veneno](https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno](https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp) | 2:32 |
 | 19 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
 | 20 | [Déjame Decirte \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 5:23 |
-| 21 | [Veneno](https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno](https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp) | 2:32 |
+| 21 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:08 |
 | 22 | [Oigo voces](https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El Pozo](https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3) | 4:36 |
 | 23 | [Bajito a selva](https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 4:59 |
 | 24 | [Babylon Will Fall](https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [At 333 House](https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh) | 3:06 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 28 | [Yo Sé Que Tú Me Conoces](https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 4:18 |
 | 29 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 |
 | 30 | [El arca de Mima](https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El arca de Mima](https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n) | 4:22 |
-| 31 | [Pasame a buca](https://open.spotify.com/track/60EESpZTd9pRPhXfRIo2h6) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 5:45 |
-| 32 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
+| 31 | [Crónico](https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Crónico](https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae) | 3:01 |
+| 32 | [Pasame a buca](https://open.spotify.com/track/60EESpZTd9pRPhXfRIo2h6) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 5:45 |
 | 33 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
 | 34 | [No Es Importante](https://open.spotify.com/track/07H0vnntj9PXpuntUFjrMB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [No Es Importante](https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe) | 3:29 |
 | 35 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 49 | [Naturaleza Humana \(feat\. Raquel Berríos\)](https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu) | [Turista](https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F), [Raquel Berríos](https://open.spotify.com/artist/389m1TNMBlLANojDHI4qj9) | [Turista](https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK) | 4:54 |
 | 50 | [Fake Blood](https://open.spotify.com/track/6Yww6YfgWVZiLE4oP7NS3Y) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF), [Robby The Lord](https://open.spotify.com/artist/2PJpVNQhGk5OpKU82okjgO) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:17 |
 
-Snapshot ID: `MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi`
+Snapshot ID: `MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm`

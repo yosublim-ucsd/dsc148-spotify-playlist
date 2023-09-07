@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 366396,
+  "num_followers": 366536,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTkzODQxMzk2MjU2YzU5YWIwYjNhN2FiOWQ3M2MxYmRlYTI3Nzk2",
+  "snapshot_id": "MCxhNTQwMTQwMjFkZjc5ODk4MjFmYTA1OGQyMzk0ZmI5OGMyM2E0NDlj",
   "tracks": [
     {
       "added_at": "2023-08-31 16:12:31",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-31 16:12:31",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Used to Know Me",
-      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
-    },
-    {
-      "added_at": "2023-08-31 16:12:31",
-      "album": {
         "name": "Let Me Hold You (Turn Me On)",
         "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 162425,
       "name": "Let Me Hold You (Turn Me On)",
       "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
+    },
+    {
+      "added_at": "2023-08-31 16:12:31",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Used to Know Me",
+      "url": "https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd"
     },
     {
       "added_at": "2023-08-31 16:12:31",
@@ -899,30 +899,6 @@
     {
       "added_at": "2023-08-31 16:12:31",
       "album": {
-        "name": "Party Shaker",
-        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
-      },
-      "artists": [
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "Nicco",
-          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
-        }
-      ],
-      "duration_ms": 159052,
-      "name": "Party Shaker",
-      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
-    },
-    {
-      "added_at": "2023-08-31 16:12:31",
-      "album": {
         "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
       },
@@ -947,6 +923,30 @@
     {
       "added_at": "2023-08-31 16:12:31",
       "album": {
+        "name": "Party Shaker",
+        "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
+      },
+      "artists": [
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "Nicco",
+          "url": "https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq"
+        }
+      ],
+      "duration_ms": 159052,
+      "name": "Party Shaker",
+      "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
+    },
+    {
+      "added_at": "2023-08-31 16:12:31",
+      "album": {
         "name": "Time to Groove (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk"
       },
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-08-31 16:12:31",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
-    },
-    {
-      "added_at": "2023-08-31 16:12:31",
-      "album": {
         "name": "Weekend (feat. Emelie Cyr\u00e9us)",
         "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 132775,
       "name": "Weekend (feat. Emelie Cyr\u00e9us)",
       "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
+    },
+    {
+      "added_at": "2023-08-31 16:12:31",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
     },
     {
       "added_at": "2023-08-31 16:12:31",

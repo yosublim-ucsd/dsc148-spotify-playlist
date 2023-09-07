@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 421459,
+  "num_followers": 421519,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2FkZjE2NWQwY2JkYzIzODE1NWUzMWVhNDhkYjc1Y2ZjNWNmZTBl",
+  "snapshot_id": "MCwzYmRjMmViYWE2NjkyZmFmM2VkMzdkZTk2ZDExOTY0NzIzZGNiYzRl",
   "tracks": [
     {
       "added_at": "2023-09-05 14:32:58",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -495,6 +495,22 @@
       "duration_ms": 158259,
       "name": "live more & love more",
       "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
+    },
+    {
+      "added_at": "2023-09-05 14:32:58",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -527,22 +543,6 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-09-05 14:32:58",
-      "album": {
-        "name": "Last Time I Saw You",
-        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 216347,
-      "name": "Last Time I Saw You",
-      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2023-09-05 14:32:58",
+      "album": {
         "name": "- (Deluxe)",
         "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 220120,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69"
-    },
-    {
-      "added_at": "2023-09-05 14:32:58",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "I Burned LA Down",
-      "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
-    },
-    {
-      "added_at": "2023-09-05 14:32:58",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 294189,
       "name": "House Song",
       "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "added_at": "2023-09-05 14:32:58",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "I Burned LA Down",
+      "url": "https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2023-09-05 14:32:58",
+      "album": {
         "name": "you don't love me anymore",
         "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
       },
@@ -1119,38 +1135,6 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
-    },
-    {
-      "added_at": "2023-09-05 14:32:58",
-      "album": {
-        "name": "Dancing In The Courthouse",
-        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 157563,
-      "name": "Dancing In The Courthouse",
-      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
-    },
-    {
-      "added_at": "2023-09-05 14:32:58",
-      "album": {
         "name": "Fall In Love With A Girl (feat. Orla Gartland)",
         "url": "https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 168974,
       "name": "Fall In Love With A Girl (feat. Orla Gartland)",
       "url": "https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ"
+    },
+    {
+      "added_at": "2023-09-05 14:32:58",
+      "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/0j1wU0GZ4LbqqXxiYQN2Jn"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/2DCTvd3tTAfyg0a1to4STY"
-    },
-    {
-      "added_at": "2023-09-05 14:32:58",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 179453,
       "name": "Two Weeks Ago",
       "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
+    },
+    {
+      "added_at": "2023-09-05 14:32:58",
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/0j1wU0GZ4LbqqXxiYQN2Jn"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/2DCTvd3tTAfyg0a1to4STY"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
+    },
+    {
+      "added_at": "2023-09-05 14:32:58",
+      "album": {
         "name": "If You Ever Change Your Mind",
         "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2023-09-05 14:32:58",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+        "name": "Happiest Girl",
+        "url": "https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 156963,
-      "name": "Shade of Yellow",
-      "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
+      "duration_ms": 167812,
+      "name": "Happiest Girl",
+      "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
     },
     {
       "added_at": "2023-09-05 14:32:58",
@@ -1527,22 +1543,6 @@
       "duration_ms": 164469,
       "name": "PICK YOUR POISON (feat. Stormzy)",
       "url": "https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y"
-    },
-    {
-      "added_at": "2023-09-05 14:32:58",
-      "album": {
-        "name": "Happiest Girl",
-        "url": "https://open.spotify.com/album/4pKxL29XtwK9qXxh0Zsq9c"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Happiest Girl",
-      "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
     },
     {
       "added_at": "2023-09-05 14:32:58",

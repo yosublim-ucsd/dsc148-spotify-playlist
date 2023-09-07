@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203216,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl"
+    },
+    {
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -384,7 +402,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 235562,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
@@ -840,7 +858,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
@@ -1485,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Love Lee",
+        "url": "https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179683,
+      "name": "Love Lee",
+      "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
+    },
+    {
+      "album": {
         "name": "LOVE me",
         "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
       },
@@ -1608,6 +1644,24 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "album": {
@@ -1944,7 +1998,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
@@ -2234,7 +2288,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 195480,
       "name": "Rose Blossom",
       "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
@@ -2274,7 +2328,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 177302,
       "name": "Rush Hour (Feat. j-hope of BTS)",
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
@@ -2684,6 +2738,24 @@
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "album": {
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "Sugarcoat (NATTY Solo)",
+      "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
     },
     {
       "album": {

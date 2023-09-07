@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-616 songs - 1 day 2 hr 42 min
+617 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [June](https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [June](https://open.spotify.com/album/73xsz6Gc6VotpfbmHDEi7j) | 2:36 | 2021-12-07 | 2023-05-10 |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2022-02-01 |  |
 | [Kaschmir \- Solitaer Edit](https://open.spotify.com/track/1OxTi7rRGglL7DUzvcFIaS) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Kaschmir \(Solitaer Edit\)](https://open.spotify.com/album/6Mux8k7o6aaqIveZhssLiD) | 3:47 | 2021-12-07 | 2022-09-24 |
-| [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 | 2023-08-30 |
+| [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 |  |
 | [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 | 2023-05-19 | 2023-07-25 |
 | [Keep You Safe](https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Keep You Safe](https://open.spotify.com/album/7llQfYCqtcg0uXYQu2ZQOx) | 2:04 | 2022-01-18 | 2022-02-16 |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2021-12-07 | 2023-01-12 |
@@ -475,6 +475,7 @@
 | [Serendipity](https://open.spotify.com/track/1V4B9Kcn17i4rIVXvlEXco) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Serendipity](https://open.spotify.com/album/657C1MhFaEqiG8RPyEkHcJ) | 2:21 | 2021-12-07 | 2022-04-22 |
 | [Serenity](https://open.spotify.com/track/4q4zxAnTRUd34vObY0vIPA) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [Serenity](https://open.spotify.com/album/5yhtouclPj0gnwOWkcrPdA) | 2:33 | 2021-12-07 | 2022-09-24 |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 | 2022-12-24 |
+| [Shadows On The Lawn](https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Shadows On The Lawn](https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN) | 2:13 | 2023-09-05 |  |
 | [Shinsetsu](https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH) | [Ida Aoi](https://open.spotify.com/artist/02jiWzihJtpS94vvCnlDUK) | [Shinsetsu](https://open.spotify.com/album/4KqwgOHEsdXnYtrCgGJp0A) | 2:59 | 2022-03-01 |  |
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-03-16 | 2022-06-08 |
 | [silbermond](https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD) | [Flavia Cortez](https://open.spotify.com/artist/4wMoov0OVG8UOIR6tPnvnV) | [Sunflower Field](https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo) | 2:49 | 2021-12-07 | 2022-05-21 |
@@ -515,7 +516,7 @@
 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-02-01 |  |
 | [Sunshine memories](https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Sunshine memories](https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb) | 1:45 | 2023-07-04 | 2023-07-25 |
 | [Supine](https://open.spotify.com/track/4ldRxzeHrTWwBXyWTII5Hu) | [15.](https://open.spotify.com/artist/1D41XVo659DXvNYktKnn6e) | [Supine](https://open.spotify.com/album/55WONvD6G2WMrurYYtR9Wb) | 2:04 | 2022-03-16 | 2022-12-24 |
-| [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 | 2021-12-07 |  |
+| [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 | 2021-12-07 | 2023-09-07 |
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2021-12-07 | 2023-07-25 |
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-02-15 | 2022-06-08 |
 | [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 | 2022-04-13 | 2022-06-08 |
@@ -600,7 +601,7 @@
 | [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-13 | 2022-05-05 |
 | [Weaving](https://open.spotify.com/track/2HZqH4rqLWKZDZheQK0EUz) | [Moy Finneas](https://open.spotify.com/artist/1SlY8qPtaWfHek8pWieEkw) | [Weaving](https://open.spotify.com/album/389iBNdZJJo5xUYdDWjW3i) | 2:13 | 2021-12-07 |  |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-12-07 |  |
-| [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 |  |
+| [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2023-09-07 |
 | [When I Am With Her](https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG) | [Hattie Sanford](https://open.spotify.com/artist/5Y9w5YkP5VxVumV37PL7tU) | [When I Am With Her](https://open.spotify.com/album/1gHtrb53NvHOPooEuQls2e) | 2:40 | 2021-12-07 | 2022-09-24 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 |  |
 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-06-07 | 2023-07-05 |

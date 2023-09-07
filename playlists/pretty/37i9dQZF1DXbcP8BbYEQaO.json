@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 204135,
+  "num_followers": 204275,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmQ2NTk0NmNiYWVkOTZhNWFhNDExYzlhYTEzYWM3MWE3YTAwZjA1",
+  "snapshot_id": "MCw0M2NjYmQ1YTIyMWY0MGNiOTY3OWM3MjJmODZlMDhkMGU2NDVmYmI1",
   "tracks": [
     {
       "added_at": "2023-09-04 19:19:48",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-04 19:19:48",
       "album": {
-        "name": "Home To Another One",
-        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 149108,
-      "name": "Home To Another One",
-      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
-    },
-    {
-      "added_at": "2023-09-04 19:19:48",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2023-09-04 19:19:48",
+      "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
     },
     {
       "added_at": "2023-09-04 19:19:48",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-04 19:19:48",
       "album": {
-        "name": "Exscape",
-        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Exscape",
-      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
-    },
-    {
-      "added_at": "2023-09-04 19:19:48",
-      "album": {
         "name": "VAN GOGH",
         "url": "https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 197080,
       "name": "VAN GOGH",
       "url": "https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx"
+    },
+    {
+      "added_at": "2023-09-04 19:19:48",
+      "album": {
+        "name": "Exscape",
+        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
     },
     {
       "added_at": "2023-09-04 19:19:48",

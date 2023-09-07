@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 1667,
+  "num_followers": 1695,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh",
+  "snapshot_id": "MCxmNWI1M2JiNWU3YzlkNjUwNjY0OGQxYmYzMjk3OTVlYWQ0YTUwM2Iy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -255,6 +255,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
+      },
+      "artists": [
+        {
+          "name": "Un Titico",
+          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
+        },
+        {
+          "name": "El Dany MG",
+          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "NO ES LO QUE PARECE",
         "url": "https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 124589,
       "name": "NO ES LO QUE PARECE",
       "url": "https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Que Rico",
-        "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
-      },
-      "artists": [
-        {
-          "name": "Un Titico",
-          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
-        },
-        {
-          "name": "El Dany MG",
-          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Que Rico",
-      "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
+        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
+      },
+      "artists": [
+        {
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
+        }
+      ],
+      "duration_ms": 263263,
+      "name": "Eso Es Bola",
+      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Un Beso",
         "url": "https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 193526,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
-        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
-      },
-      "artists": [
-        {
-          "name": "Los Desiguales",
-          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
-        }
-      ],
-      "duration_ms": 263263,
-      "name": "Eso Es Bola",
-      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1007,6 +1007,38 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Tu & Yo (Remix)",
+        "url": "https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk"
+      },
+      "artists": [
+        {
+          "name": "El Kamel",
+          "url": "https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34"
+        },
+        {
+          "name": "Bryan Omega",
+          "url": "https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq"
+        },
+        {
+          "name": "Dekano Kano y Efowa Owa",
+          "url": "https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "Tu & Yo - Remix",
+      "url": "https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Descaradita",
         "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
       },
@@ -1055,22 +1087,6 @@
       "duration_ms": 168000,
       "name": "El Campe\u00f3n",
       "url": "https://open.spotify.com/track/4vUcoqQTwNQkkzb73UYh3L"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Secuestro",
-        "url": "https://open.spotify.com/album/14f6CGPw4pb4r5Las2cPM7"
-      },
-      "artists": [
-        {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
-        }
-      ],
-      "duration_ms": 173685,
-      "name": "Secuestro",
-      "url": "https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Haven, Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,380 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,404 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 |
 | 50 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 |
 
-Snapshot ID: `MCwxYjIxYjg4Y2VkYTc5MjVhYzMwOTdkZjEzZWVmMDkyM2Y0NDg5M2M1`
+Snapshot ID: `MCw0Y2M4MTE5OTQ1YzJlZjc1NjE2OWE4ODM4OGU5NmZkZGNlZmUwNDli`

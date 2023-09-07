@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 38439,
+  "num_followers": 38545,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzk0ZDc1ZWZiOGZlYzk2MThiYmFmYmJiMmJmNzYwMTFlODAwMGZj",
+  "snapshot_id": "MCxhNzIzMTA5YjViZGFiZWI4NzZlMGU2Njk4MWZlZTBkMmMyYTRjZTRl",
   "tracks": [
     {
       "added_at": "2022-08-02 22:53:13",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Fabricando Fantas\u00edas",
-        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "Fabricando Fantas\u00edas - Salsa Version",
-      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 326478,
       "name": "Si Me Ves Llorar",
       "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "Fabricando Fantas\u00edas - Salsa Version",
+      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
     },
     {
       "added_at": "2022-08-02 22:53:13",

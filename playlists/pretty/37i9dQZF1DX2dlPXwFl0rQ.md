@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Michele BI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,042 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,110 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 42 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 |
 | 43 | [El Barco](https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:46 |
 | 44 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
-| 45 | [Solita Solita](https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Solita Solita](https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM) | 3:07 |
-| 46 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
+| 45 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
+| 46 | [Solita Solita](https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Solita Solita](https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM) | 3:07 |
 | 47 | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf) | [Ana Emilia](https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Vivir Sin Ti \( Version Acustica \)](https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq) | 2:52 |
 | 48 | [Mucha Mujer](https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2) | [Herly RG](https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt) | [Mucha Mujer](https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz) | 2:36 |
 | 49 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 50 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |
-| 51 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 |
-| 52 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
+| 51 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
+| 52 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 |
 | 53 | [Yo No Creo En Los Hombres](https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Yo No Creo En Los Hombres](https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9) | 3:35 |
 | 54 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 |
 | 55 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 93 | [Vida Prestada](https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Vida Prestada](https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK) | 3:14 |
 | 94 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
 | 95 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
-| 96 | [Con La Mirada](https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Con La Mirada](https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE) | 3:52 |
-| 97 | [Tus Desprecios](https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv) | [Kimberly Pleitez](https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr) | [Tus Desprecios](https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv) | 3:01 |
+| 96 | [Tus Desprecios](https://open.spotify.com/track/1JPjkRwFPi7NJy8YEDBxlv) | [Kimberly Pleitez](https://open.spotify.com/artist/1oTBX1FlyRBYNxAqkKwpqr) | [Tus Desprecios](https://open.spotify.com/album/5aH48JYL2Ep2EYnXldMXrv) | 3:01 |
+| 97 | [Con La Mirada](https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Con La Mirada](https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE) | 3:52 |
 | 98 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
 | 99 | [Cerrada Al Amor](https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Cerrada Al Amor](https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx) | 3:24 |
 | 100 | [Sin Valor \- En Vivo](https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI) | 3:43 |
 
-Snapshot ID: `MCxiY2Q0MjI3ZDA2MDQ4OTFhNzNmNzVjMTQwN2IyNTYyNDBhMDQzOGY1`
+Snapshot ID: `MCxlNTM4MWRmYTFlNDI4NGY4ZDlkZTQ5ZWExMDcyMGE0MTg0YjI0Yzdm`

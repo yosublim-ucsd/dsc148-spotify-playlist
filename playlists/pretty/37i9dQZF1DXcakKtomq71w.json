@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3UlAQex8nw3vquHcmY8fpb\">Sinego's</a> favorite tracks. Updated regularly. Curated by Sinego. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 25218,
+  "num_followers": 25238,
   "original_name": "Sinego's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWM5ZGYwYjdkMGMyYmZjNWQwOTE3OWYxZGNkOTMyNDNkNjEzMTcy",
+  "snapshot_id": "MCwxNDkxNDc4OGMzZTYzNGJiY2VhNmZmOWY4YjcyY2U0NzA0NGNhZTlj",
   "tracks": [
     {
       "added_at": "2023-08-18 18:09:13",
@@ -271,6 +271,26 @@
       "duration_ms": 304144,
       "name": "Nao Force",
       "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
+    },
+    {
+      "added_at": "2023-08-18 18:09:13",
+      "album": {
+        "name": "Scandalosa",
+        "url": "https://open.spotify.com/album/3mdWkfqmhJ6rpmcIP6dEEj"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        },
+        {
+          "name": "LeCloarec",
+          "url": "https://open.spotify.com/artist/0Aa8SAfVNznvAyAFmfgu1x"
+        }
+      ],
+      "duration_ms": 441177,
+      "name": "Scandalosa",
+      "url": "https://open.spotify.com/track/7tcyt0AGkCSYwiO9nkzCW7"
     },
     {
       "added_at": "2023-08-18 18:09:13",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2VmZDZhMzA0MDE4OTg1ZTUyZWMyZDQwMmEzNWI1MzgwZDE0MTQ2",
+  "snapshot_id": "MCwwYjkxM2FhM2UyOWQzY2ZjM2NmOGVjMTNlYjA2M2VhNTQwNTRkYWNj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -63,26 +63,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Trafic",
-        "url": "https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
-        },
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Tu me manques (pourtant tu es l\u00e0)",
-      "url": "https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Sun Leads Me On",
         "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 54293,
       "name": "Throes",
       "url": "https://open.spotify.com/track/1gHFlTISmwfVsmGLt9fzcj"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Trafic",
+        "url": "https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        },
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "Tu me manques (pourtant tu es l\u00e0)",
+      "url": "https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le cours des jours",
-        "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
-      },
-      "artists": [
-        {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
-        }
-      ],
-      "duration_ms": 317586,
-      "name": "Linol\u00e9um",
-      "url": "https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "4488 de l'amour",
         "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 165693,
       "name": "Pri\u00e8re",
       "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le cours des jours",
+        "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "duration_ms": 317586,
+      "name": "Linol\u00e9um",
+      "url": "https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le treizi\u00e8me \u00e9tage",
-        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 389320,
-      "name": "Un monstre",
-      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Dire combien je t'aime",
         "url": "https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 247692,
       "name": "Le c\u0153ur de l'oc\u00e9an",
       "url": "https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le treizi\u00e8me \u00e9tage",
+        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 389320,
+      "name": "Un monstre",
+      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "La vraie nature - Chansons par Pilou",
+        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
+      },
+      "artists": [
+        {
+          "name": "Pilou",
+          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "J'irai l\u00e0",
+      "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Vingt",
         "url": "https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 289280,
       "name": "Le loup - Version Vingt",
       "url": "https://open.spotify.com/track/7FZkU5hT76JMpnIlztIrTX"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "La vraie nature - Chansons par Pilou",
-        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
-      },
-      "artists": [
-        {
-          "name": "Pilou",
-          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "J'irai l\u00e0",
-      "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le plein de r\u00e9confort",
-        "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
-      },
-      "artists": [
-        {
-          "name": "Marie-Ange",
-          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
-        }
-      ],
-      "duration_ms": 215295,
-      "name": "Le plein de r\u00e9confort",
-      "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
         "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186215,
       "name": "Rien ne se perd, rien ne se cr\u00e9e",
       "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le plein de r\u00e9confort",
+        "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
+      },
+      "artists": [
+        {
+          "name": "Marie-Ange",
+          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Le plein de r\u00e9confort",
+      "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
-      },
-      "artists": [
-        {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "Pour Le Reste De Ma Vie",
-      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "EP de malade",
         "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 206693,
       "name": "Madame (Version douce)",
       "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
+      },
+      "artists": [
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "Pour Le Reste De Ma Vie",
+      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Et toi, tu fais quoi?",
-        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00eblle Saint-Pierre",
-          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Jamais seule",
-      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Alexe",
         "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bleu Soleil",
-        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
+        "name": "Et toi, tu fais quoi?",
+        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
       },
       "artists": [
         {
-          "name": "Charles-Antoine Gosselin",
-          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
+          "name": "Jo\u00eblle Saint-Pierre",
+          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
         }
       ],
-      "duration_ms": 247733,
-      "name": "Il m'en aura fallu du temps",
-      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
+      "duration_ms": 189586,
+      "name": "Jamais seule",
+      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1559,6 +1543,22 @@
       "duration_ms": 194042,
       "name": "Le courant",
       "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bleu Soleil",
+        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
+      },
+      "artists": [
+        {
+          "name": "Charles-Antoine Gosselin",
+          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Il m'en aura fallu du temps",
+      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
     },
     {
       "added_at": "2021-02-06 03:12:40",

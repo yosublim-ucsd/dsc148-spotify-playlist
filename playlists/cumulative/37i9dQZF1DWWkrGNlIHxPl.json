@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 144000,
       "name": "Believing In Me (feat. King Los)",
       "url": "https://open.spotify.com/track/7JwWZEXsbB1Fb7cmrmpoOo"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 177977,
       "name": "Dream Merchant",
       "url": "https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY"
@@ -2847,6 +2847,32 @@
     },
     {
       "album": {
+        "name": "Land Of The Heroes (Arabic Version)",
+        "url": "https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sophie Stray",
+          "url": "https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X"
+        },
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "Land Of The Heroes (Arabic Version)",
+      "url": "https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn"
+    },
+    {
+      "album": {
         "name": "Learning To Live Without You",
         "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
       },
@@ -3424,6 +3450,24 @@
       "duration_ms": 168062,
       "name": "Neighborhood",
       "url": "https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l"
+    },
+    {
+      "album": {
+        "name": "Never Last",
+        "url": "https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Never Last",
+      "url": "https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4"
     },
     {
       "album": {

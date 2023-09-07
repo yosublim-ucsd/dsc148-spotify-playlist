@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,770 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,804 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Memories \- Remastered](https://open.spotify.com/track/4zHq7tEb1aU14yBI3h48Dn) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Illuminate](https://open.spotify.com/album/3gv6D5I0UO9vDypT3H9UbX) | 4:07 |
 | 50 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
 
-Snapshot ID: `MCxhMjE0MGYxZGRlODg5NjYxNWVhNTlkZDBmZDNhOTlkZjg5NzUyZWJk`
+Snapshot ID: `MCw0YWM5ZTAxNThmYzAwMWE5ZjA2NzhhYTMzZWNmZDEzZjg0NDZhMjIw`

@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-455 songs - 1 day 4 hr 37 min
+456 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Enter Sandman](https://open.spotify.com/track/5wTtMsguqbZ1T2wPx0Yx34) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Enter Sandman](https://open.spotify.com/album/6G11fV7vuHS1WAhOs1eVNG) | 5:34 | 2022-05-06 | 2022-05-27 |
 | [Epiphany](https://open.spotify.com/track/0emdRqRyhNmIVyHiTeEt7w) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/1mjQTSatmR9q3FW2q7yNmw) | 4:28 | 2022-05-06 | 2022-07-29 |
 | [Epiphany](https://open.spotify.com/track/37EMTlg8KIQRED2lsxuNhj) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/5c9M1pUeEKoPMYLG9nry1a) | 4:28 | 2022-07-07 | 2022-08-19 |
-| [EVERGREEN](https://open.spotify.com/track/3qweD5uYsRyM7lJolHgeNZ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/21cbqbQqSBR42sriETNX8a) | 3:13 | 2023-06-22 |  |
+| [EVERGREEN](https://open.spotify.com/track/3qweD5uYsRyM7lJolHgeNZ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/21cbqbQqSBR42sriETNX8a) | 3:13 | 2023-06-22 | 2023-09-07 |
+| [EVERGREEN](https://open.spotify.com/track/3ysde9POwiOXuf00DEHQXM) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:13 | 2023-08-31 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2022-05-06 | 2022-06-24 |
 | [Evil](https://open.spotify.com/track/2huOPxihus7AAslKHs3mGc) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Evil](https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb) | 2:43 | 2023-03-03 | 2023-03-25 |
 | [Eyes](https://open.spotify.com/track/416L17hcREztXb0qE0lvIe) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Eyes](https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE) | 3:32 | 2023-06-22 | 2023-07-28 |

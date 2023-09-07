@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. MPH
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,136 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,171 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Hot Flush](https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn) | 5:17 |
 | 70 | [Amazon Prime](https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA) | 2:40 |
 
-Snapshot ID: `MCwyMDUyM2Q1OWE1YjE0Mjk0MGYwYjEwMjZjMmUzMjdkY2JmMTU0MGJj`
+Snapshot ID: `MCw3MDkxMGIwZDdjN2M3MTY5MTk5NTU3ODIyYTZiMmVlNGFlNjg5NjM5`

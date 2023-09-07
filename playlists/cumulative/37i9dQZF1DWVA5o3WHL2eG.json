@@ -4721,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "Dynamit",
+        "url": "https://open.spotify.com/album/1KYZ9H3uumgyBsSkzl8CRF"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Tears",
+          "url": "https://open.spotify.com/artist/59pdIy4nTA2X9oRaA17vk7"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149370,
+      "name": "Dynamit",
+      "url": "https://open.spotify.com/track/61gLecFYRRatHP8D0JPYRK"
+    },
+    {
+      "album": {
         "name": "Easy Out",
         "url": "https://open.spotify.com/album/0s3KsymHAAPrJsZ6c7KJUY"
       },
@@ -9062,7 +9080,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 159753,
       "name": "KINDER DER SONNE",
       "url": "https://open.spotify.com/track/1kp9lhT6LljlyWveiLz8ev"

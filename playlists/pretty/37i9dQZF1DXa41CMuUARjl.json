@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Icona Pop.",
-  "num_followers": 451107,
+  "num_followers": 451136,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWIxNDIyYWE1YTZhZTU1ZjFiMTEwYjM5YTE2Y2FjMGE5YTU2MzNj",
+  "snapshot_id": "MCwzNWRmNDMzNTI3NDNiNmM5ZjYwNzI2N2NhYTRhY2MyZjBjMjhhOTMx",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -455,7 +455,7 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Toddla T x Aitch - Hide N Seek (feat. TAET)",
+        "name": "Hide N Seek (feat. TAET)",
         "url": "https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ"
       },
       "artists": [
@@ -473,7 +473,7 @@
         }
       ],
       "duration_ms": 168015,
-      "name": "Toddla T x Aitch - Hide N Seek (feat. TAET)",
+      "name": "Hide N Seek (feat. TAET)",
       "url": "https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP"
     },
     {
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Never B Mine",
-        "url": "https://open.spotify.com/album/090uN4F14IQk0IRqzmnDAg"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        },
-        {
-          "name": "Kioto Bug",
-          "url": "https://open.spotify.com/artist/0i99tSK0Uhaagw5Y85epY3"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "Never B Mine",
-      "url": "https://open.spotify.com/track/17NH8SZGxFPpfEEAoeo7eY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Dark Water",
         "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 206733,
       "name": "Dark Water",
       "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Never B Mine",
+        "url": "https://open.spotify.com/album/090uN4F14IQk0IRqzmnDAg"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Kioto Bug",
+          "url": "https://open.spotify.com/artist/0i99tSK0Uhaagw5Y85epY3"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Never B Mine",
+      "url": "https://open.spotify.com/track/17NH8SZGxFPpfEEAoeo7eY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Together As One",
-        "url": "https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "September Nights",
-      "url": "https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Komodo",
         "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 155836,
       "name": "Komodo",
       "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "September Nights",
+      "url": "https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "9910",
-        "url": "https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1"
-      },
-      "artists": [
-        {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        }
-      ],
-      "duration_ms": 205425,
-      "name": "9910",
-      "url": "https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
         "url": "https://open.spotify.com/album/6SL1Xp1uM3kHmKxfEWzPh2"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "9910",
+        "url": "https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "duration_ms": 205425,
+      "name": "9910",
+      "url": "https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Weightless Feeling",
         "url": "https://open.spotify.com/album/58ccjEHNsTV6laJe30KGD5"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 226285,
       "name": "Weightless Feeling",
       "url": "https://open.spotify.com/track/0Ivhw3XCIjKKIq4clyKXwR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "D\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1211,6 +1195,38 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "D\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "The Ghost",
+        "url": "https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 325660,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Bassface",
         "url": "https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy"
       },
@@ -1227,6 +1243,22 @@
       "duration_ms": 186206,
       "name": "Bassface",
       "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Mixed Feelings",
+        "url": "https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92"
+      },
+      "artists": [
+        {
+          "name": "Bae Blade",
+          "url": "https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA"
+        }
+      ],
+      "duration_ms": 283936,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1251,34 +1283,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "The Ghost",
-        "url": "https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd"
+        "name": "Lightyears",
+        "url": "https://open.spotify.com/album/3pXxHNDM7dvMbK8BGCl1E9"
       },
       "artists": [
         {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 325660,
-      "name": "The Ghost",
-      "url": "https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Block Rockin",
-        "url": "https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf"
-      },
-      "artists": [
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
+        },
         {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+          "name": "BCBC",
+          "url": "https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN"
         }
       ],
-      "duration_ms": 298574,
-      "name": "Block Rockin",
-      "url": "https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd"
+      "duration_ms": 192982,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/0e6QVNw0Lm6J6utdl0hL9p"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1307,54 +1327,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Mixed Feelings",
-        "url": "https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92"
+        "name": "Block Rockin",
+        "url": "https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf"
       },
       "artists": [
         {
-          "name": "Bae Blade",
-          "url": "https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA"
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
         }
       ],
-      "duration_ms": 283936,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Lightyears",
-        "url": "https://open.spotify.com/album/3pXxHNDM7dvMbK8BGCl1E9"
-      },
-      "artists": [
-        {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
-        },
-        {
-          "name": "BCBC",
-          "url": "https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN"
-        }
-      ],
-      "duration_ms": 192982,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/0e6QVNw0Lm6J6utdl0hL9p"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Pilgrim",
-        "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
-      },
-      "artists": [
-        {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
+      "duration_ms": 298574,
+      "name": "Block Rockin",
+      "url": "https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 219212,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Leaving Me",
         "url": "https://open.spotify.com/album/1rIhyDY2W0S3CHq9y64g1p"
       },
@@ -1395,54 +1395,6 @@
       "duration_ms": 200250,
       "name": "Leaving Me",
       "url": "https://open.spotify.com/track/2cWThQIhPFGJNNXdXZsL6N"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/3o0t2uEOoBrVLcyyKIE8tA"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 215615,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/6g76NQy1MbKKWoCSPLU49A"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/1wu3p6XgeSjkgrlLOBDAsW"
-      },
-      "artists": [
-        {
-          "name": "LARI LUKE",
-          "url": "https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/5wGqVM6OtsljOqk1eIXcmU"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Vaccine",
-        "url": "https://open.spotify.com/album/2idGVcG6U1GugiOVt3FkVN"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        }
-      ],
-      "duration_ms": 176793,
-      "name": "Vaccine",
-      "url": "https://open.spotify.com/track/0e5AgsGVlJo64vPsWpfYx6"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1471,6 +1423,54 @@
       "duration_ms": 256500,
       "name": "Again And Again",
       "url": "https://open.spotify.com/track/6x7R7NFpStoExYmIGnvpbN"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/1wu3p6XgeSjkgrlLOBDAsW"
+      },
+      "artists": [
+        {
+          "name": "LARI LUKE",
+          "url": "https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/5wGqVM6OtsljOqk1eIXcmU"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/3o0t2uEOoBrVLcyyKIE8tA"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 215615,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/6g76NQy1MbKKWoCSPLU49A"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Vaccine",
+        "url": "https://open.spotify.com/album/2idGVcG6U1GugiOVt3FkVN"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 176793,
+      "name": "Vaccine",
+      "url": "https://open.spotify.com/track/0e5AgsGVlJo64vPsWpfYx6"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1511,6 +1511,22 @@
       "duration_ms": 258659,
       "name": "Amanhecer",
       "url": "https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Ava",
+        "url": "https://open.spotify.com/album/1U7o5sCGTgKiP7ONFxbVnK"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 340025,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/0O6LrSoD4OPDvxhPoe2Z0u"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ava",
-        "url": "https://open.spotify.com/album/1U7o5sCGTgKiP7ONFxbVnK"
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/2FJTzU2PXldFaRC8UtU355"
       },
       "artists": [
         {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
         }
       ],
-      "duration_ms": 340025,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/0O6LrSoD4OPDvxhPoe2Z0u"
+      "duration_ms": 242822,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/1cn5pv4piEsW871xQj43Ur"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 280328,
       "name": "DJ Friendly",
       "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/2FJTzU2PXldFaRC8UtU355"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 242822,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/1cn5pv4piEsW871xQj43Ur"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "We All Fall Down",
-        "url": "https://open.spotify.com/album/5diHOhr2IQQmk2ELr2VixN"
-      },
-      "artists": [
-        {
-          "name": "Tobtok",
-          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
-        },
-        {
-          "name": "farfetch'd",
-          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
-        }
-      ],
-      "duration_ms": 150723,
-      "name": "We All Fall Down",
-      "url": "https://open.spotify.com/track/2YfAHXcBU0RkhHcqxsYsjv"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Rebirth Of The Drum",
         "url": "https://open.spotify.com/album/7fyL5hklp9dqJEAiIsl1iZ"
       },
@@ -1695,22 +1675,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "HIGHER",
-        "url": "https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT"
+        "name": "We All Fall Down",
+        "url": "https://open.spotify.com/album/5diHOhr2IQQmk2ELr2VixN"
       },
       "artists": [
         {
-          "name": "Kink",
-          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
         },
         {
-          "name": "Raredub",
-          "url": "https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4"
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
         }
       ],
-      "duration_ms": 341917,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V"
+      "duration_ms": 150723,
+      "name": "We All Fall Down",
+      "url": "https://open.spotify.com/track/2YfAHXcBU0RkhHcqxsYsjv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1731,6 +1711,26 @@
       "duration_ms": 188976,
       "name": "Kuneh - Edit",
       "url": "https://open.spotify.com/track/3NdCkGGx6tlWlQamjRjq3o"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "HIGHER",
+        "url": "https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        },
+        {
+          "name": "Raredub",
+          "url": "https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4"
+        }
+      ],
+      "duration_ms": 341917,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "A WOMAN COMES INTO THE ROOM",
-        "url": "https://open.spotify.com/album/6lrPAUNQDk3gteeS7Z5P1L"
-      },
-      "artists": [
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A WOMAN COMES INTO THE ROOM",
-      "url": "https://open.spotify.com/track/3TMpKwjs0m1siJLOWSueE3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Disco Baby",
         "url": "https://open.spotify.com/album/3D9SwDHB4MjhFMMZnCIikm"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/49vNUcCGEksLpId69x9fyf"
+        "name": "A WOMAN COMES INTO THE ROOM",
+        "url": "https://open.spotify.com/album/6lrPAUNQDk3gteeS7Z5P1L"
       },
       "artists": [
         {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
         }
       ],
-      "duration_ms": 378164,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/17DdxVbfZ3Likkadhjgt4H"
+      "duration_ms": 255000,
+      "name": "A WOMAN COMES INTO THE ROOM",
+      "url": "https://open.spotify.com/track/3TMpKwjs0m1siJLOWSueE3"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1879,6 +1863,22 @@
       "duration_ms": 389312,
       "name": "Teka",
       "url": "https://open.spotify.com/track/3fozwvVLuCgs99c6qgNJBr"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/49vNUcCGEksLpId69x9fyf"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 378164,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/17DdxVbfZ3Likkadhjgt4H"
     },
     {
       "added_at": "2023-09-01 04:00:00",

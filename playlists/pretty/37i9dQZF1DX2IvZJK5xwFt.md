@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,149 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,228 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 71 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
 | 72 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 |
 | 73 | [Run All Night](https://open.spotify.com/track/3NpnBHI6qEyauHYfrQqg1w) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Run All Night](https://open.spotify.com/album/047z4hEbghpi0VImdQ8JgS) | 4:50 |
-| 74 | [EVERGREEN](https://open.spotify.com/track/3qweD5uYsRyM7lJolHgeNZ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/21cbqbQqSBR42sriETNX8a) | 3:13 |
+| 74 | [EVERGREEN](https://open.spotify.com/track/3ysde9POwiOXuf00DEHQXM) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:13 |
 | 75 | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Bygones \(feat\. Rob Halford\)](https://open.spotify.com/album/4ZasC1470HVVPBN3GM2Z2f) | 3:59 |
 
-Snapshot ID: `MCw0YTU3MDg4OWI4ODVmYWVjZWU4Yzc2N2VjNTQ1YmY4YzY2ZmZmNTQx`
+Snapshot ID: `MCxhNTJhOTk2ZGY1ODdmNjE2ZDgyNGM1MzlhOWNhNjgyYTJlYjM4ZjY1`

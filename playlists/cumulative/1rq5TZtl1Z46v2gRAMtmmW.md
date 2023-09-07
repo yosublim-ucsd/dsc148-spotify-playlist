@@ -4,7 +4,7 @@
 
 > 
 
-190 songs - 13 hr 12 min
+191 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-08 | 2022-08-11 |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-09-20 | 2023-02-22 |
 | [The Last Goodbye \(feat\. Bettye LaVette\) \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 | 2023-01-11 | 2023-03-18 |
+| [The Low](https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [The Low](https://open.spotify.com/album/1fdz9eOqE4fcayb5wIqErG) | 3:38 | 2023-09-06 |  |
 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-05-18 | 2023-09-06 |
 | [Thinkin Of U](https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Thinkin Of U](https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS) | 2:01 | 2023-07-18 |  |
 | [This Version Of You \(feat\. Julianna Barwick\)](https://open.spotify.com/track/2h4IoIeRasKE7moH6zhHUO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 2:51 | 2022-07-22 | 2022-11-10 |
@@ -174,7 +175,7 @@
 | [Time Glide](https://open.spotify.com/track/0NlzQhUzaV2jaswePcQp0s) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/53VgkRoJgtIKjXTFqpc8gR) | 2:54 | 2022-08-01 | 2022-11-15 |
 | [Time I Leave](https://open.spotify.com/track/3EiSDHIgsCc6BAW8WLLiN5) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Time I Leave](https://open.spotify.com/album/0ChcBQIXKoQe3e2VifHZqB) | 3:35 | 2023-03-01 | 2023-04-05 |
 | [Time To Run](https://open.spotify.com/track/6XeCSv9nzMDc5t3acbleYE) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Time To Run](https://open.spotify.com/album/0LE5rOqzQKsyodOvKqf5KX) | 4:13 | 2023-07-10 |  |
-| [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-17 |  |
+| [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-17 | 2023-09-07 |
 | [TO FIND LOVE IS TO SEEK THE END \- Ivy Lab Remix](https://open.spotify.com/track/0c2NAdPReN7SUNR809lkVR) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [TO FIND LOVE IS TO SEEK THE END \(Ivy Lab Remix\)](https://open.spotify.com/album/6G9cHPZ03iG8q1749C4PJt) | 3:42 | 2022-04-13 | 2022-08-03 |
 | [To Tell How I Adore You](https://open.spotify.com/track/3GifKPu6oZZ4v343tqe2x0) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [To Tell How I Adore You](https://open.spotify.com/album/5Zc4pfRszEBd0oOPq5XZWM) | 2:01 | 2023-03-03 | 2023-03-18 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-13 | 2022-09-30 |

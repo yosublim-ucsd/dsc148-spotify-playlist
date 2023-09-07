@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,440 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,527 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 15 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 |
 | 16 | [All My Life](https://open.spotify.com/track/60ICDcC995UF0nu85r75qV) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Long Time, No Sea \(Expanded Edition\)](https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7) | 3:04 |
 | 17 | [They Don't Want What We Want \(And They Don't Care\)](https://open.spotify.com/track/2uzfmwy3syDgMVW1HEkS1i) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:15 |
-| 18 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
+| 18 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 |
 | 19 | [Never Know](https://open.spotify.com/track/2K1ENoIs1y6M5nFdJhLpvU) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Finding God Before God Finds Me \(Deluxe\)](https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b) | 3:33 |
 | 20 | [Platypus Boys](https://open.spotify.com/track/6Xbx1cLT978tRRvf2wvkWb) | [Combos](https://open.spotify.com/artist/6VacY9mK4BuWyHjKB49QcP) | [Platypus Boys](https://open.spotify.com/album/4vG5sf2rPzHzwPeaelbMTe) | 2:42 |
-| 21 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 |
+| 21 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
 | 22 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
 | 23 | [BLURRY \(out of place\)](https://open.spotify.com/track/14uAFiZ94iMTeEpXq1cLCi) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 3:20 |
 | 24 | [Antisocialist](https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:36 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 59 | [Talking to Myself](https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:10 |
 | 60 | [Monochrome](https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:38 |
 | 61 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 |
-| 62 | [myfeelingshavefeelings](https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [wet milk](https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI) | 2:16 |
-| 63 | [Overthinking](https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Anon.](https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo) | 2:53 |
-| 64 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T) | 4:34 |
+| 62 | [Overthinking](https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Anon.](https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo) | 2:53 |
+| 63 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T) | 4:34 |
+| 64 | [myfeelingshavefeelings](https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [wet milk](https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI) | 2:16 |
 | 65 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
 | 66 | [Pick Me Up](https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 4](https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE) | 3:23 |
 | 67 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
 | 100 | [Bankrupt](https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:21 |
 
-Snapshot ID: `MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5`
+Snapshot ID: `MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm`

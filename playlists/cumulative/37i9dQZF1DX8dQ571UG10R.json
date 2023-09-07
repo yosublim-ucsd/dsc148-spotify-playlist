@@ -614,6 +614,24 @@
     {
       "album": {
         "name": "Pai da Humanidade (Ad\u00e3o)",
+        "url": "https://open.spotify.com/album/6aVdnN4n6d3g8py8alrKkm"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217435,
+      "name": "Pai da Humanidade (Ad\u00e3o)",
+      "url": "https://open.spotify.com/track/1By63MALvoiyxWv21qlX5r"
+    },
+    {
+      "album": {
+        "name": "Pai da Humanidade (Ad\u00e3o)",
         "url": "https://open.spotify.com/album/6V7KPJGqmpgWKarpIogA7r"
       },
       "artists": [
@@ -624,7 +642,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 217435,
       "name": "Pai da Humanidade (Ad\u00e3o)",
       "url": "https://open.spotify.com/track/389oniwXlh3UjZNsXARb9B"
@@ -768,10 +786,28 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 276951,
       "name": "Rap Do Chopper: Flores de Cerejeira",
       "url": "https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq"
+    },
+    {
+      "album": {
+        "name": "Rap Do Chopper: Flores de Cerejeira",
+        "url": "https://open.spotify.com/album/2zzvk4nbKZT3sA7flUuTGu"
+      },
+      "artists": [
+        {
+          "name": "Enygma Rapper",
+          "url": "https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276951,
+      "name": "Rap Do Chopper: Flores de Cerejeira",
+      "url": "https://open.spotify.com/track/58oDtx7UCVl3TiKjjcGm92"
     },
     {
       "album": {

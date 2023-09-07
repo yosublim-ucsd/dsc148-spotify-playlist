@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,026 songs - 22 hr 57 min
+1,031 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Full Of Grace](https://open.spotify.com/track/5jO45rhYE2VpJVZg9BM6b7) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:25 | 2022-01-12 |  |
 | [Full Of Gratitude](https://open.spotify.com/track/0jSvx4IVSzOWcTjY7JlXE4) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Sublime](https://open.spotify.com/album/3Z6v9gv7xJmJlouBNIXMGm) | 1:15 | 2022-01-12 |  |
 | [Fullness, Gratitude And Love](https://open.spotify.com/track/1f8g6mb7dkAQtT0RPOehnZ) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:00 | 2022-02-11 |  |
+| [Fur Elise Piano Lullaby](https://open.spotify.com/track/5GlqrfnQK72tAlChq7GnhZ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Fur Elise Piano Lullaby](https://open.spotify.com/album/6RAUjoVw5vPNsUYHqRFEuG) | 1:02 | 2023-09-06 |  |
 | [Galaxies](https://open.spotify.com/track/7k2AXi70RO2IeUoBOyjXSv) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Spaces To See](https://open.spotify.com/album/5amtYQ4oVN6PKjBpf67bYI) | 1:02 | 2022-02-06 |  |
 | [Galaxy Dreams](https://open.spotify.com/track/6QrtTo0arUpPugmTVKRzxs) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:02 | 2022-03-18 |  |
 | [Game Of Thrones Main Theme \(Cello and Piano\)](https://open.spotify.com/track/4pQF4AJNBFiCfYsse3jD69) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Game Of Thrones Main Theme \(Cello and Piano\)](https://open.spotify.com/album/0KwGfM6TMc8p4dNVGZAn6T) | 1:45 | 2022-01-12 |  |
@@ -457,6 +458,7 @@
 | [Hope And Peace](https://open.spotify.com/track/4X34K91bhS4fHYogBQq70K) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hope And Peace](https://open.spotify.com/album/1TKSEHhPYQYlgfUITrnoq0) | 1:02 | 2022-08-31 |  |
 | [Hope Is True](https://open.spotify.com/track/2YiNveOYT0UOl5wRzYPSsQ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:06 | 2022-03-03 |  |
 | [Hope Together](https://open.spotify.com/track/15mcPR1p3hWTcjKTxHdXEy) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Hope Together](https://open.spotify.com/album/6rkocIimpyqAeyHVj2Du8t) | 1:01 | 2023-04-08 |  |
+| [Hope Together \- Cello Version](https://open.spotify.com/track/3hzF7FLgkjpPjLxDlPLANM) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Together](https://open.spotify.com/album/30S1OLCemh9TXRv1Z2sghX) | 1:01 | 2023-09-06 |  |
 | [Hopeful Moment](https://open.spotify.com/track/773R4yXjSiFMcuXSGa4pwo) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Loving State](https://open.spotify.com/album/1n19RPtityGMv4cjOOOXLl) | 1:00 | 2023-07-05 |  |
 | [Hoping Once Again](https://open.spotify.com/track/0H6gTW4pXekohMH881nYHt) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:05 | 2022-01-21 |  |
 | [Horizon](https://open.spotify.com/track/0oeMXEnsH1nfxUfJwnynPc) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD) | [Acoustic Dreaming](https://open.spotify.com/album/1qAEg7hOM7ha7KDhmD2HjA) | 3:34 | 2022-01-12 |  |
@@ -696,6 +698,7 @@
 | [Quietly Gazing](https://open.spotify.com/track/2TtlGU2KObl7Wj31btsniH) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Hillside Reflections](https://open.spotify.com/album/3uRHm02elkBXbWQ06eOGnQ) | 1:05 | 2022-01-12 |  |
 | [Quietude](https://open.spotify.com/track/1IWvJ4eSzu9hEE6Rlirqu8) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Spring Beauty](https://open.spotify.com/album/35D2cTFatHekDeHjEKMcaF) | 1:02 | 2022-03-17 |  |
 | [Raining In The Evening](https://open.spotify.com/track/2GXAXmLmpMEJnLbbOtGPge) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Raining In The Evening](https://open.spotify.com/album/54sBbLjB3MG9lKsYPCnazP) | 1:00 | 2023-07-31 |  |
+| [Reaching Arr\. For Piano](https://open.spotify.com/track/0dljigG0BgCnG1jXyT4MMi) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Soft Piano Lullabies](https://open.spotify.com/album/1L1EO9QolDutpzDKVRK3t8) | 1:01 | 2023-09-06 |  |
 | [Reaching Reimagined](https://open.spotify.com/track/7LU14DQyXruYc1YqmzBkVl) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Reimagination](https://open.spotify.com/album/508wIPed3LB2Kx3jhx8cJX) | 1:01 | 2023-07-06 |  |
 | [Reading The Clouds](https://open.spotify.com/track/6SvWKLeu59Vys0mYhYZ2cA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Reading The Clouds](https://open.spotify.com/album/6gymokvnt7nE0apSh1KyKN) | 2:47 | 2022-01-12 | 2023-04-09 |
 | [Recreating](https://open.spotify.com/track/0k2eVvdDcy385P0RHRPtSS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:26 | 2022-01-20 |  |
@@ -873,9 +876,11 @@
 | [Sundown](https://open.spotify.com/track/291X0cX0jmtyN2KZyYMrwe) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sundown](https://open.spotify.com/album/4D44AkPkITjOkHI6VpORm5) | 1:02 | 2023-04-25 |  |
 | [Sunlight In My Heart](https://open.spotify.com/track/3KoMMk8VEcCBFrHdD83nbd) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Sunlight In My Heart](https://open.spotify.com/album/1PzU1ay4YOvVLbPPvAkWLn) | 1:01 | 2023-01-25 |  |
 | [Sunlight Through The Stained Glass](https://open.spotify.com/track/2OQBLwsQ8O0WaHpyMlg6ON) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge](https://open.spotify.com/album/5u3hkO1dmz33867mOmSvmH) | 1:15 | 2022-01-12 |  |
+| [Sunrise Arr\. For Strings](https://open.spotify.com/track/2MEKKi2A8oFpJzFcweAaEu) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Sunrise Arr\. For Strings](https://open.spotify.com/album/5IZPyu2IgMSTxMi1wnRla7) | 1:00 | 2023-09-06 |  |
 | [Sunrise By The Water](https://open.spotify.com/track/34QnvSgohY0IvlSfCZCq28) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Solitary](https://open.spotify.com/album/53vuiIjcuNuZ8NwIQiLUHk) | 1:14 | 2022-01-12 |  |
 | [Sunrise In September](https://open.spotify.com/track/1pDUNx2KXICw0wB7xn5MTD) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Sunrise In September](https://open.spotify.com/album/613YuslFwWfHV4KRHfDcP0) | 1:01 | 2022-09-19 |  |
 | [Sunrise Melody Arr\. For Violin And Harp](https://open.spotify.com/track/6DgYh9aZesCnQLE6vKAWFp) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Sunrise Melody Arr\. For Violin And Harp](https://open.spotify.com/album/3CToQolCbKZdfgl9Xrraey) | 1:02 | 2023-05-14 |  |
+| [Sunset Arr\. For Strings](https://open.spotify.com/track/4X3E89eQ76ZCzo7BC5Cm7K) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Sunset Arr\. For Strings](https://open.spotify.com/album/4xtBUBmGEBY1EJDdezGfk3) | 1:00 | 2023-09-06 |  |
 | [Sunset Coast](https://open.spotify.com/track/036O02p8zxbfRBgZHHe2KX) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [In Silence](https://open.spotify.com/album/1k8oBz5yBunH2xK8SwRL3V) | 1:19 | 2022-01-12 |  |
 | [Sunset Drift](https://open.spotify.com/track/24BAZWOMZJeV9epBGinHYt) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Shelter](https://open.spotify.com/album/1xNPiShgzOCghx3R7odXmL) | 1:39 | 2022-01-27 |  |
 | [Sunset Yellow Coast](https://open.spotify.com/track/5nGUKTzCPUZ9xXscrSTYTV) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tenderness](https://open.spotify.com/album/5cqsHPHamgtgv6JUuuKW8j) | 1:02 | 2022-02-11 |  |

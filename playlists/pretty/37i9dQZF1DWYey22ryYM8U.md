@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Carlos Vives & Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,310 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,361 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 39 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
 | 40 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 |
 | 41 | [Soy Yo](https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:38 |
-| 42 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
-| 43 | [Amigos \(con Maria Becerra\) \- Bachata](https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\) \[Bachata\]](https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7) | 3:22 |
+| 42 | [Amigos \(con Maria Becerra\) \- Bachata](https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\) \[Bachata\]](https://open.spotify.com/album/4W5QL0gMUk8wAG6cp5HGm7) | 3:22 |
+| 43 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
 | 44 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 |
 | 45 | [Canalla](https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:45 |
 | 46 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [¿ Y Ahora Qué Hacemos?](https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ) | 4:58 |
 | 100 | [Nubes Negras](https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Nubes Negras](https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl) | 4:06 |
 
-Snapshot ID: `MCwwMzVlMDY1ZjgwNjQyNGEzYzBhZTc2NjJiMzUwMmYwMGE2MGZlZmRk`
+Snapshot ID: `MCxkYjMxYjQ5MjU5YTc1YTFmNWQ5YTI0ZmY5Njc0YWJlMWI0OWQ0ZWE0`

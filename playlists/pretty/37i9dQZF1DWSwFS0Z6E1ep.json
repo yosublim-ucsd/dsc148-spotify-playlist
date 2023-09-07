@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 222971,
+  "num_followers": 223123,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjI3Yjk4NzgyZjY4YmNiYzA0NzJiYmI4NWQxMWI1NDc2ZDcxMWM4",
+  "snapshot_id": "MCwyYjExNGM1MDE2NTJkMGE0YzMzZjNkMTkwODFhMWJiYTQ2NzllZWIx",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
-      },
-      "artists": [
-        {
-          "name": "Danny & The Juniors",
-          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Best Of The Clovers (Love Potion No. 9)",
         "url": "https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 113200,
       "name": "Love Potion No. 9 - Remastered / Single Version",
       "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Best Of Frankie Lymon & The Teenagers",
         "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "I'm Walkin'",
-      "url": "https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Hey Doll Baby",
         "url": "https://open.spotify.com/album/4N7dJ93N6qsCQaMhVtZ8UO"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 144533,
       "name": "('Til) I Kissed You",
       "url": "https://open.spotify.com/track/4BMhwvrqMUSm65RRB0RAEa"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "I'm Walkin'",
+      "url": "https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Buddy Knox",
-        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Knox",
-          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "Party Doll",
-      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 131973,
       "name": "Lotta Lovin'",
       "url": "https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "I Need a Man / No Matter Who's to Blame",
-        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pittman",
-          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "I Need a Man",
-      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
         "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 168280,
       "name": "Drinkin' Wine Spodee-O-Dee",
       "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Bear Cat / Walkin' in the Rain",
-        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Bear Cat",
-      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "If You Love Me / Alone and Blue",
         "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 150307,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Bear Cat / Walkin' in the Rain",
+        "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Bear Cat",
+      "url": "https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - The Rhythm and The Blues",
-        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 188673,
-      "name": "The Hucklebuck",
-      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Memories Never Grow Old / Good Lovin'",
         "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 172568,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Sun Records - The Rhythm and The Blues",
+        "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 188673,
+      "name": "The Hucklebuck",
+      "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "My Bucket's Got a Hole in It / Sweet Misery",
-        "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
-      },
-      "artists": [
-        {
-          "name": "Sonny Burgess",
-          "url": "https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT"
-        }
-      ],
-      "duration_ms": 138520,
-      "name": "My Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Cliff: Cliff Sings",
         "url": "https://open.spotify.com/album/0M87jlMkzGaQ4St3QPZ5er"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 138133,
       "name": "Move It - Live; 1998 Remaster",
       "url": "https://open.spotify.com/track/0u5sJJNGHZUvckdMe96TkA"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "My Bucket's Got a Hole in It / Sweet Misery",
+        "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
+      },
+      "artists": [
+        {
+          "name": "Sonny Burgess",
+          "url": "https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT"
+        }
+      ],
+      "duration_ms": 138520,
+      "name": "My Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
     },
     {
       "added_at": "2022-06-07 05:25:13",

@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 336582,
+  "num_followers": 336892,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY2M2MzOWRhMjUzNzU3YmJiYTAzZTRkMjdiMzQ2ODcyNjhhYzE5",
+  "snapshot_id": "MCwwNDMzNWFjZjM3YTViYzEzNzY1ZmE3Zjg5MGQyNDgxNzc4YWQ1NGVl",
   "tracks": [
     {
       "added_at": "2023-08-29 11:36:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-29 11:36:57",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2023-08-29 11:36:57",
-      "album": {
         "name": "Le Temps D'un Jazz",
         "url": "https://open.spotify.com/album/1SCXuUhchyBCqujs642Uc9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 233653,
       "name": "Le Temps D'Un Jazz",
       "url": "https://open.spotify.com/track/5NWxFc2xocyRyx0sak1H9Z"
+    },
+    {
+      "added_at": "2023-08-29 11:36:57",
+      "album": {
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+      },
+      "artists": [
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+        }
+      ],
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2023-08-29 11:36:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj?si=P1uKXwPNRYePfDFuwLE1yA">Ilán van Staden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,830 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,848 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 14 | [Ys & Kafeïen](https://open.spotify.com/track/1zDE5g83DQbno2c0OamaIx) | [Anrich](https://open.spotify.com/artist/1myOo5BzIj6jqtMhk6AT77) | [Ys & Kafeïen](https://open.spotify.com/album/070NhdoMtGdP44PWGwaHkK) | 3:47 |
 | 15 | [Bietjie Bipolêr](https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd) | [Brigite Duvenhage](https://open.spotify.com/artist/0UBwRVPVLHsViFuFcpiPB4) | [Bietjie Bipolêr](https://open.spotify.com/album/2kw0oaEV8IeAtfJ3PBRA3t) | 2:48 |
 | 16 | [Rigtingnaald](https://open.spotify.com/track/0S3S4LAhY89K9hjlIWuptV) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Rigtingnaald](https://open.spotify.com/album/0jlTHJ7HGit6w5G7mctR3Q) | 3:48 |
-| 17 | [Rooi Rok](https://open.spotify.com/track/2DGaQWTmkG0ZYRaVcceIq0) | [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Rooi Rok](https://open.spotify.com/album/2NgHxxbwdIkXJkdynMdKoG) | 3:44 |
+| 17 | [Rooi Rok](https://open.spotify.com/track/2DGaQWTmkG0ZYRaVcceIq0) | [Kayla](https://open.spotify.com/artist/3A7PXuZHCyR6WUlgUaJyfm) | [Rooi Rok](https://open.spotify.com/album/2NgHxxbwdIkXJkdynMdKoG) | 3:44 |
 | 18 | [Gogga](https://open.spotify.com/track/58byxA9vGXEwHgmYHVkINT) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Gogga](https://open.spotify.com/album/6NVlAxL1Q918yRq7dJ0ad8) | 3:23 |
 | 19 | [Tien Teen Een](https://open.spotify.com/track/7xnjQzQAFbibzKhmISKcWL) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq) | [Tien Teen Een](https://open.spotify.com/album/1OlbKMuA03JSk1vkQZK6Sd) | 3:04 |
 | 20 | [Vas En Los](https://open.spotify.com/track/6fAGOIsKpc7yFpGMwgSRTP) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Net Liefde](https://open.spotify.com/album/0jGYdco9OrPMuQWRAsS2vp) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Frikkie vir 'n Rukkie](https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Frikkie vir 'n Rukkie](https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj) | 2:55 |
 | 50 | [Tekkies Brand \- Cre8tro Remix](https://open.spotify.com/track/60xg0myi1c2g3dBhnE77DO) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma), [Cre8tro](https://open.spotify.com/artist/59ht5rH8CKq06KBYaks85z) | [Tekkies Brand \(Cre8tro Remix\)](https://open.spotify.com/album/1nSbpOqMKbjca12K49xPFL) | 3:54 |
 
-Snapshot ID: `MCwyMzI0OWViMzhiNzcxMWU4NmRkZDBmZTI3MGI5NjlmZTI5NmViYWVk`
+Snapshot ID: `MCxlN2FmN2YxYTAwMjY3MjQzMTFhZTM3Mjk1OWFmNWRkY2Y2NWZkYWMy`

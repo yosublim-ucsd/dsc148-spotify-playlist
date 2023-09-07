@@ -4,7 +4,7 @@
 
 > Who's now and next in pop\. Cover: d4vd
 
-1,821 songs - 3 day 22 hr 21 min
+1,822 songs - 3 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1502,6 +1502,7 @@
 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 | 2021-12-04 | 2022-01-22 |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-08-14 | 2021-09-08 |
 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 | 2022-08-05 | 2022-10-01 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-06 |  |
 | [Street Runner](https://open.spotify.com/track/45kgqMRkC29qjBlzeaJcad) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Street Runner](https://open.spotify.com/album/1aYz6lWTYHwEz9sfA1Cvrw) | 4:12 | 2021-03-14 | 2021-04-24 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-01-15 | 2021-02-19 |
 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-04 |  |

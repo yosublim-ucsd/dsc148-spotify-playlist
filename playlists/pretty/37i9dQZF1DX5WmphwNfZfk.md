@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: laye
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,712 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,739 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 11 | [Vibes Creator](https://open.spotify.com/track/2NRmHIdQKWmZuXyaWCdrOj) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [it's matt](https://open.spotify.com/artist/2ZT5DWAr9Q612GvzgrUll8) | [Vibes Creator](https://open.spotify.com/album/4ytPwPXcFpcJk3esNJz58o) | 2:59 |
 | 12 | [Thinkin Bout You](https://open.spotify.com/track/2qP6SxFe1uNYqyAsfTZbVF) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Thinkin Bout You](https://open.spotify.com/album/3xKlRIOyVoZ7Adod9934TY) | 3:02 |
 | 13 | [Stand Up](https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [777](https://open.spotify.com/album/2O7VQiUdIl95INCJ4yJfdl) | 2:28 |
-| 14 | [Choose Summer \(Gold Teeth and Bamboo$\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 |
+| 14 | [Choose Summer \(Gold Teeth and Bamboos\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 |
 | 15 | [100 BPM](https://open.spotify.com/track/7iE0AVFYGnkAAiIIQDLU7R) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [100 BPM](https://open.spotify.com/album/6BZzsMI4kKCEDvVOnZ6Vhp) | 2:52 |
 | 16 | [Sleeping With Her](https://open.spotify.com/track/7kDFpMVicwX2QWOqbkMXxB) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Sleeping With Her](https://open.spotify.com/album/4wl7WxnJGBN5jUsJCwziK6) | 2:58 |
 | 17 | [Good Ol Days](https://open.spotify.com/track/3cZreNPb0hNWeHeamr88jR) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Does This Sound Good To You?](https://open.spotify.com/track/5TkhXF4u5gPLgqii04ek6d) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Does This Sound Good To You?](https://open.spotify.com/album/67TDi71dKdJTezgHn2NdUe) | 4:27 |
 | 50 | [mundane](https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [mundane](https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg) | 2:41 |
 
-Snapshot ID: `MCxiMDRjN2FhY2E0NTQ2NTRlMjhmYTQ1ZTVlNWVmOGE0OGZiMDJlYzdk`
+Snapshot ID: `MCwxNjA1ODdiZDU0MTliMDhkZGVmZmM1ZmY4YzVmZjRiMzY5ZWUzMDkx`

@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 156279,
       "name": "Aiyomi",
       "url": "https://open.spotify.com/track/5Ah3r7C1b5Ih0mPgBGtn3B"
@@ -7582,7 +7582,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 120007,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/1vQu2jxZ6Blc1nisozbPyl"
@@ -8456,6 +8456,24 @@
       "duration_ms": 185067,
       "name": "Simmer Down",
       "url": "https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ"
+      },
+      "artists": [
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m"
     },
     {
       "album": {
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-07",
       "duration_ms": 124558,
       "name": "Trades",
       "url": "https://open.spotify.com/track/00LfWDHLj3v2x9rGFkrFGL"

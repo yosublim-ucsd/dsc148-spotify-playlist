@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de septiembre 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,003 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,085 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 20 | [Hora de Salir](https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Hora de Salir](https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09) | 3:03 |
 | 21 | [Trofeo](https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trofeo](https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7) | 3:42 |
 | 22 | [Gorra L.A.](https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Gorra L.A.](https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j) | 2:41 |
-| 23 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
-| 24 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
-| 25 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
+| 23 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
+| 24 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
+| 25 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
 | 26 | [Solo Que Lo Dudes](https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Solo Que Lo Dudes](https://open.spotify.com/album/0sPBKXvkwTzVTqLotS22OP) | 2:39 |
 | 27 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 |
 | 28 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [miami](https://open.spotify.com/track/47gI06QfSMlGSB1gAzQzDT) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [miami](https://open.spotify.com/album/153f5GwVuSDdN3jMGjbtxr) | 2:22 |
 | 50 | [Cuando Él No Está](https://open.spotify.com/track/2JxnlQpJL6FNWjLtCcPDid) | [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp), [Cley Rose](https://open.spotify.com/artist/5hE7injsbBcx9vQZZKtcwu) | [Madison Vol\. 1](https://open.spotify.com/album/5RytqZjzrH4Ids6m1dPcPq) | 3:35 |
 
-Snapshot ID: `MCw3ZWI1ZWFjMzE5MDczMmM2MGZmMTBlYzk1MTQwMDc2ZGRjM2ZmOTAy`
+Snapshot ID: `MCxiYzFmOTU4NTcxNzQ2MDU3ZWZmZjBhNDQ3YzUwNzNhYTdjZTNjNTI4`

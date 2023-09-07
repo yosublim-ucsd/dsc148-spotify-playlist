@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 480317,
+  "num_followers": 480464,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJlMTFiMDQ0YjRkNDgzNTc4NTEwYzA0MjAwNWNmYTQ2NmYwNTlh",
+  "snapshot_id": "MCwzMzMxMzFmNjE5OTEwYTc1MDY5MGFjYjU2YmU0ODIyM2I3YjU3NThk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "The Midnight Demon Club",
         "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Denim & Diamonds",
-        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Please Don't Be Dead",
         "url": "https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 187390,
       "name": "Cross The Line",
       "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Denim & Diamonds",
+        "url": "https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "S.I.D.E.S.",
         "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
       },
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Bad Spell",
-      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Man Of The Moment",
         "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 192933,
       "name": "Man Of The Moment",
       "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Are You Real?",
         "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Who You Selling For",
-        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Girl Sports",
         "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 194588,
       "name": "Girl Sports",
       "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Who You Selling For",
+        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Slomosa",
         "url": "https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 165481,
       "name": "Haunted Heart",
       "url": "https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
     },
     {
       "added_at": "2023-07-07 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 
 > Des nouveautés pop, tout en douceur\. Photo : Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,181 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,219 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LNmKG8TiZU.md) - [plain]
 | 49 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 |
 | 50 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 
-Snapshot ID: `MCwwZTBjYWE1NjIxNDU3ZmQ1NDJiZDQ0NDU5Nzk1NDViODE2MGE0MWNm`
+Snapshot ID: `MCxkZTdlZDkwYTdlNTZjMWQ0MWNlZmVlMTZjOTA0ZTI1YjE3YWYxMmY1`

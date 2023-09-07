@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,671 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,677 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 |
 | 2 | [Summane \- Female](https://open.spotify.com/track/44itZZWBw4sd1LsidpPiwx) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Bharath Gundi](https://open.spotify.com/artist/3iO5DnfZzC2LYxT1vndPxr), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Summane \(Female\)](https://open.spotify.com/album/5YWKgzbCNTGUcDGXe48sDe) | 3:33 |
-| 3 | [Yello Saagidhe](https://open.spotify.com/track/5GMw5NQLxl7A9bYrSpWmml) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Yello Saagidhe](https://open.spotify.com/album/1UEGhdSV0i83EqS03iwsZv) | 3:03 |
-| 4 | [Veera](https://open.spotify.com/track/1at6I3cX5wBSRJgkwGoenk) | [Nandan Srinivas](https://open.spotify.com/artist/2pTa1LU0eRBmROXhsvxttY), [Darshan Shinde](https://open.spotify.com/artist/4TxpjVvYrrI5Py1kCOIzig), [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [D Cube](https://open.spotify.com/artist/0mCdRXMN2ozZonPnI6EtFj), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Sharath Prakash](https://open.spotify.com/artist/26tMtsrM32yHe469h2LLof) | [Veera](https://open.spotify.com/album/4Oi5t7j1mpqKTxpn2DZXq6) | 3:40 |
-| 5 | [Thirugo Bhoomi](https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p) | [Sai Sharan P Hiremath](https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP) | [Thirugo Bhoomi](https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa) | 3:46 |
-| 6 | [Chaa](https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2) | [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chaa](https://open.spotify.com/album/3fNlWxPWdY8mzxgzXlLkNm) | 3:21 |
-| 7 | [Stronger](https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [Stronger](https://open.spotify.com/album/52uN6o62Z7y2cvUD3LXZyR) | 1:02 |
+| 3 | [Thirugo Bhoomi](https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p) | [Sai Sharan P Hiremath](https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP) | [Thirugo Bhoomi](https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa) | 3:46 |
+| 4 | [Ready \(Kannada\)](https://open.spotify.com/track/14zs6XjzSjwq0n7hriMaiO) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Viggu](https://open.spotify.com/artist/1SDkJl8i6RxJw0l7EHQvB7) | [Ready \(Kannada\)](https://open.spotify.com/album/2NkcrgFx5vDRtuTbOBovMW) | 1:56 |
+| 5 | [Chaa](https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2) | [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chaa](https://open.spotify.com/album/3fNlWxPWdY8mzxgzXlLkNm) | 3:21 |
+| 6 | [Stronger](https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [Stronger](https://open.spotify.com/album/52uN6o62Z7y2cvUD3LXZyR) | 1:02 |
+| 7 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 |
 | 8 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 |
 | 9 | [Thukaali](https://open.spotify.com/track/3fibRdjawJagXWApjATWdg) | [Shiv Prasad](https://open.spotify.com/artist/6Hxm7zNBGOmCFJFFUS0OWO), [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Mahadeva Swamy](https://open.spotify.com/artist/6AaB3Ib8emAWvrJADBOn4l) | [Thukaali](https://open.spotify.com/album/3eE3i02aV4DlfJFXzrY96k) | 3:57 |
 | 10 | [The Bengaluru Rap](https://open.spotify.com/track/531J3aPQNOF5MI0yq9ExwV) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [The Bengaluru Rap](https://open.spotify.com/album/6RMWhzbNAT2B1sQnwrBpGe) | 1:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 |
 | 75 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 
-Snapshot ID: `MCw3NDUzNjllYzg4OGUwY2NmMzA3MTJiNjI0OGVkZjVhNzg0NmQ5MzQ3`
+Snapshot ID: `MCwwMWEyYjc5MWE5ZTAwZGMxZTZkYjQ1OGI0Mzg3NDcyYmRiYmM4MTU4`
