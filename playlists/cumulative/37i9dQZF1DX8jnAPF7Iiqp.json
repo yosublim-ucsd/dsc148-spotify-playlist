@@ -978,7 +978,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 281379,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 248576,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL"
@@ -2398,6 +2398,32 @@
       "duration_ms": 177882,
       "name": "Mash up the Dance - Kings of the Rollers Remix",
       "url": "https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq"
+    },
+    {
+      "album": {
+        "name": "Mash up the Dance (Kings of the Rollers Remix)",
+        "url": "https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0"
+      },
+      "artists": [
+        {
+          "name": "Watch the Ride",
+          "url": "https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "Mash up the Dance - Kings of the Rollers Remix",
+      "url": "https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ"
     },
     {
       "album": {
@@ -3506,7 +3532,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 241371,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0GYx2bTObKXVCAEebCaK2w"

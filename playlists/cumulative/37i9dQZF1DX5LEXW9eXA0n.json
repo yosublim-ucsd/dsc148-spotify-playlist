@@ -10473,6 +10473,24 @@
     },
     {
       "album": {
+        "name": "My youth",
+        "url": "https://open.spotify.com/album/0GEEiwJ0lUgI049OnjHBJB"
+      },
+      "artists": [
+        {
+          "name": "LeeZe",
+          "url": "https://open.spotify.com/artist/6sRRCxqgRynrEW5Qc3pZxx"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "My youth",
+      "url": "https://open.spotify.com/track/1GZZoTydki5t72adhHXhWy"
+    },
+    {
+      "album": {
         "name": "CYWORLD BGM 2021",
         "url": "https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD"
       },
@@ -16105,6 +16123,24 @@
     },
     {
       "album": {
+        "name": "White night",
+        "url": "https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217651,
+      "name": "White night",
+      "url": "https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH"
+    },
+    {
+      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/6qpO20n7B2yFAZeqcjy2yn"
       },
@@ -17722,6 +17758,24 @@
       "duration_ms": 237931,
       "name": "\uc774\ub807\uac8c \uc9c0\uae08",
       "url": "https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX"
+    },
+    {
+      "album": {
+        "name": "\uc774\ud63c\ud574\uc694 (Divorce)",
+        "url": "https://open.spotify.com/album/6aXTjKAFSugInjPEFodUMd"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227120,
+      "name": "\uc774\ud63c\ud574\uc694 (Divorce)",
+      "url": "https://open.spotify.com/track/12l28wJSPM3ALuF57ApdNl"
     },
     {
       "album": {

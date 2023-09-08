@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-224 songs - 5 hr 41 min
+227 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Finders Keepers](https://open.spotify.com/track/2awz5iJRmlH1SPIWHWRTSX) | [Loriann Owen](https://open.spotify.com/artist/44f73pKwHeEGpmgZN0GaCr) | [Finders Keepers](https://open.spotify.com/album/6JTi6UKaDxBBARuoTGIl1A) | 1:28 | 2022-02-10 |  |
 | [Floating Clouds](https://open.spotify.com/track/3FFJO2raXUlhCIYHva2qjD) | [Mike J Box](https://open.spotify.com/artist/5kX6lRGMcoyS3ipoQxOy3i) | [Floating Clouds](https://open.spotify.com/album/1q7wE4DmWvxglqyvuKWrDh) | 1:20 | 2023-06-08 |  |
 | [Flying](https://open.spotify.com/track/5ivEvbvH6B40OTa4cdoZKZ) | [Miklos Whelan](https://open.spotify.com/artist/48jB9Z4z5OFMYizmWzOcmf) | [Flying](https://open.spotify.com/album/1fGV9ztSqsStPdKUfpKlKL) | 1:52 | 2022-02-10 |  |
+| [foambeard](https://open.spotify.com/track/5cgaOEkAcZOOGro5BDMojS) | [Lady Lou Lullabies](https://open.spotify.com/artist/5uwcJi6f4dZ5RDoStZKur0) | [Night Night](https://open.spotify.com/album/7aCxEylSl7Tw85xXr0ggTE) | 2:11 | 2023-09-08 |  |
 | [Giver of All Dreams](https://open.spotify.com/track/0YMs4x4b2VgKyYVBC1hqy8) | [Robert Lansky](https://open.spotify.com/artist/0KvC4eGmYHgj33vFtAlcaY) | [Giver of All Dreams](https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV) | 1:13 | 2022-02-10 |  |
 | [Go the Distance](https://open.spotify.com/track/1p5bs2UZG8BLLTagZ2ly6m) | [Ember Roses](https://open.spotify.com/artist/0Al4ii7WbbtEf1Ss29RTL6) | [Go the Distance](https://open.spotify.com/album/3XOBAP00FytQ0GgnXDVh5U) | 1:21 | 2022-02-10 |  |
 | [Go to bed, you sleepy head](https://open.spotify.com/track/19XE4ZAK06cqCEYZ9Tq87d) | [Joanie West](https://open.spotify.com/artist/0G7dE6ClPsupJLc2D90Wgn) | [Go to bed, you sleepy head](https://open.spotify.com/album/7iD57NcdkIaAFxzlNwj830) | 1:00 | 2022-02-10 |  |
@@ -156,6 +157,7 @@
 | [Polly the Pirate](https://open.spotify.com/track/3GiUwGr55Kx5rkoxFy2GN8) | [Louis Carmean](https://open.spotify.com/artist/1QwlGpVweCXIFnSKj4EtVj) | [Polly the Pirate](https://open.spotify.com/album/1kDPZB9RBEEfhR0T5vHzvA) | 0:58 | 2022-02-10 | 2022-04-23 |
 | [Puff the magic dragon](https://open.spotify.com/track/4leWqNkAmWtG2YLzb2cT3q) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [Puff the magic dragon](https://open.spotify.com/album/4aYcSWwf9BNF7UzwZL7CdN) | 1:39 | 2023-04-20 |  |
 | [Que Linda Manita](https://open.spotify.com/track/3hkWnZsvoijkchr5KMxTXG) | [CIRQUS](https://open.spotify.com/artist/3mw587K0yMF8GAG1RgY3kA) | [Que Linda Manita](https://open.spotify.com/album/0d6Uw4qOFr4CXufEReGGwc) | 1:54 | 2022-09-22 | 2023-02-18 |
+| [Rainbow Magic \(MusicBox\)](https://open.spotify.com/track/2E2WRDAuy294S4AFvpgi5T) | [Green Dino](https://open.spotify.com/artist/7MVCEO6QGAHj3KIIQplBpl) | [Rainbow Magic \(MusicBox\)](https://open.spotify.com/album/46CnGj2wgurkTi1296mHkJ) | 1:15 | 2023-09-08 |  |
 | [Rainbow To Dreamland](https://open.spotify.com/track/2zJAXSQ9Vp8g39Na5hsJ2s) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Rainbow To Dreamland](https://open.spotify.com/album/6aq1AT8aJJtWGMpA3z5ICN) | 1:22 | 2023-02-17 |  |
 | [Rock a Bye Baby](https://open.spotify.com/track/4powvsAQFZwXa6s0mTUPlY) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [Rock a Bye Baby](https://open.spotify.com/album/5TimNfsYRU63DIITnRaTce) | 1:31 | 2022-02-10 | 2023-08-25 |
 | [Row Row Row Your Boat](https://open.spotify.com/track/6NESHnIoEs22LDboDnWuZb) | [Ella's Musicbox](https://open.spotify.com/artist/4KEu9b2csKG5x3MtzavPR8) | [Open The Box](https://open.spotify.com/album/2jloYI1ZDhvvgzHE9lXy1T) | 1:14 | 2022-02-10 | 2022-09-23 |
@@ -186,6 +188,7 @@
 | [Sunrise](https://open.spotify.com/track/4QIW0q7sXcyj8GpKECfqRx) | [Violet Lilac](https://open.spotify.com/artist/1ZO5CM8kNuDauWG3I7weEi) | [Dawn to Dusk](https://open.spotify.com/album/0jslyyu2E866KnKJBHpAmF) | 2:19 | 2022-07-01 |  |
 | [Sunset](https://open.spotify.com/track/1EENlCQndVgWifmYILC8zI) | [Shania Dawes](https://open.spotify.com/artist/1kztaubebsodHyZE8jAVUo) | [Sunset](https://open.spotify.com/album/5h267Ia1lIEzcAcncdek9i) | 1:24 | 2022-02-10 |  |
 | [Sunset Dreams](https://open.spotify.com/track/1Xz6iQJctwyQqrsW7xUb7o) | [Emma Fredrikson](https://open.spotify.com/artist/593Pvds6UCt7EErZ6I63y9) | [Sunset Dreams](https://open.spotify.com/album/5IUCv34ZLj2JtfRMCRYMcd) | 1:19 | 2022-02-10 |  |
+| [Sunshine Symphony](https://open.spotify.com/track/1EugQp3Dr9Fl6zuUiHw0v7) | [Elmer Kask](https://open.spotify.com/artist/4mSdgNX5rXaRTWoVCMxIcR) | [Sunshine Symphony](https://open.spotify.com/album/3Hb2bBbFbhnWQavn99YR0c) | 1:24 | 2023-09-08 |  |
 | [Suo Gân](https://open.spotify.com/track/5ejZpwnJQipTb8H7IHr6va) | [Royce Prichard](https://open.spotify.com/artist/4iajyddKaNIX6a1LKwpovL) | [Somewhere over the rainbow](https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1) | 1:08 | 2022-02-10 |  |
 | [Sweet Dreams](https://open.spotify.com/track/2BwNQUTBCxpDlIvM0QazQi) | [Box the Music](https://open.spotify.com/artist/46P9q5Ebet7HTKGpqyysV8) | [Sweet Dreams](https://open.spotify.com/album/0lD7lhZoXu7OPcH6hozqIw) | 1:45 | 2023-04-20 |  |
 | [Sweet Dreams Now, My Darling](https://open.spotify.com/track/4QiAPJf6uYHwNjkQpFfCfJ) | [Orla Rowe](https://open.spotify.com/artist/7cdmcpXO3r2VJ2uZTzFFBC) | [Sweet Dreams My Darling](https://open.spotify.com/album/5bGojAvVq5shVrL0FokbC2) | 1:33 | 2023-01-20 |  |

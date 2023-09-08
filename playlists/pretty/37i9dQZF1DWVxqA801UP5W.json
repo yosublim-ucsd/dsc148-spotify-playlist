@@ -1,12 +1,12 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: Joel Corry",
-  "num_followers": 450864,
+  "num_followers": 450933,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGIzZmQ3M2FhZWU2MmM4NDI1MmY5YzEzZjAzZTc0ZGMwMjI0MGZi",
+  "snapshot_id": "MCwxZWQwZTE1MWEzZDExZDM5YzRmMzM0YjBjNDk1ODRmOTNhN2I0YTAw",
   "tracks": [
     {
       "added_at": "2023-09-04 15:42:36",
@@ -1075,26 +1075,22 @@
     {
       "added_at": "2023-09-04 15:42:36",
       "album": {
-        "name": "My Heart Goes (La Di Da) (Jess Bays Remix feat. Topic)",
-        "url": "https://open.spotify.com/album/309IRNiwNgoSmBdB7l2Wgd"
+        "name": "people pleaser (TeeDee Remix)",
+        "url": "https://open.spotify.com/album/1t8qr9i7Fv2zaECOMgdOC9"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
         }
       ],
-      "duration_ms": 149826,
-      "name": "My Heart Goes (La Di Da) (Jess Bays Remix feat. Topic)",
-      "url": "https://open.spotify.com/track/5LMdfaHWbYqeI7Bx8S6VJS"
+      "duration_ms": 172555,
+      "name": "people pleaser - TeeDee Remix",
+      "url": "https://open.spotify.com/track/1H1PMVu34Fy9XmXm8xWJx6"
     }
   ],
   "unique_name": "Massive Pop Remixes",

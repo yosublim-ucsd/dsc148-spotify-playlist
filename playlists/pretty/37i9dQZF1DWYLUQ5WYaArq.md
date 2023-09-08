@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > This week: songs that sound like Spring! 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,992 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,163 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 59 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 60 | [Spring Affair](https://open.spotify.com/track/2ldalh6d2MrsAFaZG9H3P4) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Four Seasons Of Love \(Reissue\)](https://open.spotify.com/album/7K5qRyPS0glYiCzgqJdEjt) | 8:30 |
 
-Snapshot ID: `MCxiMzJmZmIyZmM2ZGM2YTc5Zjg4NGY1MWZjYThkOTBiZjM2MWZmZGE1`
+Snapshot ID: `MCxmNGE5NzEwZTM1YTViNzk5MTZjZWI1Yzg4YmY5N2FlMDgyZDMxZDM4`

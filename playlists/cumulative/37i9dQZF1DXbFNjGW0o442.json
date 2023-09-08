@@ -3307,6 +3307,32 @@
     },
     {
       "album": {
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/5hhkYtYs9gTCoXEfylxvwz"
+      },
+      "artists": [
+        {
+          "name": "Florencia Ruiz",
+          "url": "https://open.spotify.com/artist/2LpUM08iUKWPGOc1qoWMBt"
+        },
+        {
+          "name": "Andrea \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n"
+        },
+        {
+          "name": "Claudia Sinesi",
+          "url": "https://open.spotify.com/artist/4XWsqS48j9YCOCb52toAC5"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194821,
+      "name": "Perdida",
+      "url": "https://open.spotify.com/track/1ofdvyiY38PG0AkL3VAUv5"
+    },
+    {
+      "album": {
         "name": "perfecta",
         "url": "https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK"
       },
@@ -3876,7 +3902,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 180680,
       "name": "Somos",
       "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"

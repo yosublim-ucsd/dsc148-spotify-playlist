@@ -1,12 +1,12 @@
 {
   "description": "this is my meal: gurrll dinnerrrrr \u2728",
-  "num_followers": 10905,
+  "num_followers": 10925,
   "original_name": "girl dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGM1NzQyMzc1YTEwOTM0ZWIwMjc0YjkyNzk1YjI0MDgwNmY5YzEz",
+  "snapshot_id": "MCw0MjdkZDBlZGRiMzI4ZTlmMjRhOTg2M2Y0MDg4YzAyZTkzNGNlMjhj",
   "tracks": [
     {
       "added_at": "2023-08-09 22:44:10",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-08-09 22:44:10",
       "album": {
+        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
+        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
+    },
+    {
+      "added_at": "2023-08-09 22:44:10",
+      "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
-    },
-    {
-      "added_at": "2023-08-09 22:44:10",
-      "album": {
-        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
-        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
     },
     {
       "added_at": "2023-08-09 22:44:10",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-08-09 22:44:10",
       "album": {
+        "name": "Pride: Divas De La Noche",
+        "url": "https://open.spotify.com/album/2qtPqybyKno9YtqOvpH3gd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/71Y146mHsYsXCGvvkzCJFP"
+    },
+    {
+      "added_at": "2023-08-09 22:44:10",
+      "album": {
         "name": "Coca-Cola",
         "url": "https://open.spotify.com/album/4ahz5GUHjLRqVL4lUcCdRi"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 180967,
       "name": "Coca-Cola",
       "url": "https://open.spotify.com/track/7pSAPCaLEPpKlIOHiJxTSb"
-    },
-    {
-      "added_at": "2023-08-09 22:44:10",
-      "album": {
-        "name": "Pride: Divas De La Noche",
-        "url": "https://open.spotify.com/album/2qtPqybyKno9YtqOvpH3gd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Ag\u00fcita",
-      "url": "https://open.spotify.com/track/71Y146mHsYsXCGvvkzCJFP"
     },
     {
       "added_at": "2023-08-09 22:44:10",

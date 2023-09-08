@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Knuckle Puck
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,503 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,576 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [LIES](https://open.spotify.com/track/2QrUWzndXheW05HL6boFny) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [LIES](https://open.spotify.com/album/0ZknFIPfCdZgKAAvzSVgaQ) | 3:32 |
 | 100 | [Lovely Murk](https://open.spotify.com/track/2BYJiIQwds17fOiTtecQbt) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/1l2DnEVEFSC5NcDzLurPg2) | 5:15 |
 
-Snapshot ID: `MCw0YWJkZjRlNjg3NTVkYTAxZWIwZWQ3ZmQ2NGQ4MDY1MTUwZjdhYTBl`
+Snapshot ID: `MCxlZDI0OWE4ZTdhNWQ3MGRhZWY1ZGU4M2ViZTk3ZDVmMDQ3NDY3YjA2`

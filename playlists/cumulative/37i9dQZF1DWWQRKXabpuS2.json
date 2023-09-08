@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 308168,
       "name": "Al Oyoun Al Sod",
       "url": "https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq"
@@ -3772,6 +3772,24 @@
       "duration_ms": 247837,
       "name": "Yeshhad Allah",
       "url": "https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR"
+    },
+    {
+      "album": {
+        "name": "Zenat Ayyami",
+        "url": "https://open.spotify.com/album/2G00nDqJCKplEavz7Z73nz"
+      },
+      "artists": [
+        {
+          "name": "Nawal El Kuwaitia",
+          "url": "https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217941,
+      "name": "Zenat Ayyami",
+      "url": "https://open.spotify.com/track/2hWmBU0TymULSt7TRdqUce"
     },
     {
       "album": {

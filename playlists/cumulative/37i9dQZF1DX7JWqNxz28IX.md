@@ -4,7 +4,7 @@
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-217 songs - 9 hr 49 min
+219 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Credimi ancora](https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ) | [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza), [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax) | [Credimi ancora](https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB) | 3:35 | 2022-09-22 |  |
 | [D\(Emo\)](https://open.spotify.com/track/2NMjPUdU1Ljw8wVUdoHDkD) | [nothx.](https://open.spotify.com/artist/1i8WJECAPI5Je4SgVuQLEX) | [D\(Emo\)](https://open.spotify.com/album/0uvZyTWqNWArdU6dEaUsk5) | 3:06 | 2022-05-13 | 2022-08-13 |
 | [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 | 2022-04-21 |  |
-| [Demoni](https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Demoni](https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7) | 2:53 | 2022-06-02 |  |
+| [Demoni](https://open.spotify.com/track/6bGA83YmfsO3SpFq4VCNiJ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Demoni](https://open.spotify.com/album/10rP3kY9xGjYXhxJkXEvD7) | 2:53 | 2022-06-02 | 2023-09-08 |
 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 | 2022-04-21 |  |
 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglianone](https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 | 2022-04-21 |  |
 | [Dimenticami \- Remix](https://open.spotify.com/track/5KUWFx7bTuE4B1WCokemNd) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW), [Akoem](https://open.spotify.com/artist/6FCmBpyDvKvITzmtDPHQbp) | [Ratatah](https://open.spotify.com/album/2BAfdp0QtDADqV1bgupDgK) | 4:03 | 2022-04-21 | 2022-12-15 |
@@ -150,6 +150,7 @@
 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 | 2023-04-18 |  |
 | [Per il mio bene](https://open.spotify.com/track/1j4rTqIygJuZsmfO04UqFT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Per il mio bene](https://open.spotify.com/album/1Z8F4vFqjLEYOBqpgHBqto) | 2:35 | 2022-06-02 | 2023-03-25 |
 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 | 2023-03-23 |  |
+| [Per Stare In Piedi](https://open.spotify.com/track/0DkeGjuREuXkfnpfDCN07L) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys), [Navy](https://open.spotify.com/artist/6QupubU6p6mZBrF2Wz8OhK) | [Per Stare In Piedi](https://open.spotify.com/album/1aUVpAHUXkaEQG14Z4yZXN) | 2:51 | 2023-09-07 |  |
 | [personal](https://open.spotify.com/track/0iBWJzv9EysEh3wahsnPa8) | [trapstarsteezy](https://open.spotify.com/artist/0v0gXgl9lp0rJtACULKSO1), [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [personal](https://open.spotify.com/album/5eXZORuOjZB3yTOf2Oebbd) | 3:30 | 2022-07-14 | 2023-03-25 |
 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 | 2022-04-21 | 2023-05-30 |
 | [Piano](https://open.spotify.com/track/5A27QGKlNBa9Uzr2XEaThl) | [I Dolori del Giovane Walter](https://open.spotify.com/artist/1yGEqWwG1niom92pU3ha4n) | [Piano](https://open.spotify.com/album/73OQyOxqChMh9SnPL6iUz6) | 2:51 | 2022-04-21 | 2023-03-25 |
@@ -181,7 +182,7 @@
 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 | 2022-07-14 |  |
 | [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 | 2023-01-20 |  |
 | [Semprerosa](https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Semprerosa](https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F) | 3:20 | 2023-02-23 |  |
-| [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-08 |  |
+| [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 | 2022-12-08 | 2023-09-08 |
 | [Settembre](https://open.spotify.com/track/4ABnknUDNQsm24C9ZhwlLG) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Settembre](https://open.spotify.com/album/1QQalKla8lTJZSLEoPBhir) | 2:11 | 2022-06-13 | 2023-01-13 |
 | [Shama è buono](https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama è buono](https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX) | 2:24 | 2022-04-21 |  |
 | [Sogni](https://open.spotify.com/track/3buQxxhqMFJlHAsvfsplnG) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Tempo](https://open.spotify.com/album/19HiQkbCvtCDfTtjCG3RJw) | 2:28 | 2022-12-15 | 2023-04-06 |
@@ -201,6 +202,7 @@
 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 | 2022-04-21 |  |
 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-02-21 |  |
 | [TI ODIO \(MI AMOR\)](https://open.spotify.com/track/1k07XFzPw7bh1YwW20MAwT) | [PAULO](https://open.spotify.com/artist/6ZyBrWgVAZXWCqTXTFaY5p) | [TI ODIO \(MI AMOR\)](https://open.spotify.com/album/4eIZvgQF67it2Xni2orYUw) | 2:23 | 2022-12-08 | 2023-01-13 |
+| [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 | 2023-09-07 |  |
 | [Ti Sposo](https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC) | [Avoia](https://open.spotify.com/artist/2AOUNkpPPnWNXIU2NafS8I), [Candle Lights](https://open.spotify.com/artist/4ei52BXEiHeAYGVczk43vI) | [Ti Sposo](https://open.spotify.com/album/7zToEpET8GvtBkJQbafNsI) | 2:24 | 2022-04-21 | 2022-12-15 |
 | [TI VA DI FARMI A PEZZI](https://open.spotify.com/track/4MGY99wRcj1dGIjdaleCyr) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [TI VA DI FARMI A PEZZI](https://open.spotify.com/album/3FF8qWE3B4B3XdLjzfgpsD) | 2:58 | 2022-06-16 | 2023-03-25 |
 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 | 2022-05-26 |  |

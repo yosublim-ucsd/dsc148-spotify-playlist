@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,989 likes - 91 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,043 likes - 91 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 8 | [Naa Lai Ke](https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naa Lai Ke](https://open.spotify.com/album/4bqStg9FJ3mbIrTdYh1vtC) | 2:32 |
 | 9 | [Roots](https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI) | [Pavii Ghuman](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW) | [Roots](https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92) | 2:09 |
 | 10 | [Lucifer](https://open.spotify.com/track/38RA9VH12NmpiVBamNJtSy) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Mr\. Rubal](https://open.spotify.com/artist/36UOJCmUrSwImCKV47F3Iy) | [Lucifer](https://open.spotify.com/album/6CYRc3WOonWttx4O1VJh1q) | 3:13 |
-| 11 | [Award](https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Award](https://open.spotify.com/album/6BKaGsIy9fP46kMc9olq32) | 2:55 |
+| 11 | [Award](https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Award](https://open.spotify.com/album/6BKaGsIy9fP46kMc9olq32) | 2:55 |
 | 12 | [Da Boyz](https://open.spotify.com/track/3g8pr3GIUlFFya9RfEpBtw) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Da Boyz](https://open.spotify.com/album/1fT7lCZ3sfwNWDe6nSXKrD) | 1:44 |
 | 13 | [You Talking To Me?](https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [You Talking To Me?](https://open.spotify.com/album/6iG71uFCXUH91vFqaWFY58) | 2:20 |
 | 14 | [Mosh Pit](https://open.spotify.com/track/7nxnkCT2RTeXVJoV02sPGs) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [KRN Walia](https://open.spotify.com/artist/0Kpuu2pLaloYjY44rYA1kA) | [RUDE](https://open.spotify.com/album/1L5ZTnnD8PwMEw6xWka186) | 2:27 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 90 | [Nah They Can't](https://open.spotify.com/track/5RXc1cmSNl3DSRThl2Ii4W) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 3:24 |
 | 91 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 |
 
-Snapshot ID: `MCw1MzM3NDExZTAwYzBhY2FlZmNlY2E2ZTFhMGU2MmVjMWYyYWY3ZDhl`
+Snapshot ID: `MCxkYjBlZjMzZDRkNDkxMDc4YWJiMjZlYjUwNjRkZjlkZjc0OTAwMmU4`

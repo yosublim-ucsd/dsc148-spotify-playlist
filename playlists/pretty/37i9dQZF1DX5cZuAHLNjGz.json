@@ -1,12 +1,12 @@
 {
   "description": "Ultimate 101 Punjabi Hits with AP Dhillon",
-  "num_followers": 1079504,
+  "num_followers": 1080251,
   "original_name": "Punjabi 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmUyZmU4ZTczOTY1ZjUyNTE5ZTIwYWZmNDZmYmM3Zjk5MjE1MWNl",
+  "snapshot_id": "MCwzMDJmOGIzYzlmNTI4MzA2NjdlMWRjY2U4NTUyNGJjZmU1ZWI1NTYw",
   "tracks": [
     {
       "added_at": "2023-09-05 05:23:43",
@@ -103,26 +103,6 @@
       "duration_ms": 175686,
       "name": "California Love",
       "url": "https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"
-    },
-    {
-      "added_at": "2023-09-05 05:23:43",
-      "album": {
-        "name": "Palpita",
-        "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Palpita",
-      "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     },
     {
       "added_at": "2023-09-05 05:23:43",
@@ -1431,22 +1411,6 @@
     {
       "added_at": "2023-09-05 05:23:43",
       "album": {
-        "name": "Sheesha",
-        "url": "https://open.spotify.com/album/1qTxGh6NP5XUoN52jA3BB1"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "Sheesha",
-      "url": "https://open.spotify.com/track/5uHy68Q7ZWe8Qq9k7EAprS"
-    },
-    {
-      "added_at": "2023-09-05 05:23:43",
-      "album": {
         "name": "Two Hearts Never Break The Same",
         "url": "https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh"
       },
@@ -1887,22 +1851,6 @@
       "duration_ms": 152727,
       "name": "Gustakhiyan",
       "url": "https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF"
-    },
-    {
-      "added_at": "2023-09-05 05:23:43",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Born to Shine",
-      "url": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd"
     }
   ],
   "unique_name": "Punjabi 101",

@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 82648,
+  "num_followers": 82730,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI2NTNlYzlmY2U0ZWZmMWYyN2VkODViMTM3NTUyZDUwOGQ5ZWNh",
+  "snapshot_id": "MCxlYWQ1YTkyNzBhYjJjMGNlMTdlODgwOTVjMzc2OGIyNGU2MjhhMDc2",
   "tracks": [
     {
       "added_at": "2023-05-23 12:45:45",
@@ -259,6 +259,26 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Il suffit d'y croire (Version deluxe)",
+        "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        },
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Je vous trouve un charme fou - En duo avec Ga\u00ebtan Roussel",
+      "url": "https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 184840,
       "name": "Kid",
       "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Il suffit d'y croire (Version deluxe)",
-        "url": "https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        },
-        {
-          "name": "Ga\u00ebtan Roussel",
-          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Je vous trouve un charme fou - En duo avec Ga\u00ebtan Roussel",
-      "url": "https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/29ct57rVIi3MIFyKJYUWrZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 211106,
       "name": "Que Dieu me pardonne",
       "url": "https://open.spotify.com/track/0hHNjDAThUngWzegMB4YYU"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "In\u00e9dits 1968-1998",
-        "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "Laissons entrer le soleil",
-      "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "En passant",
         "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 207400,
       "name": "Bonne id\u00e9e",
       "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "In\u00e9dits 1968-1998",
+        "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "Laissons entrer le soleil",
+      "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Unis vers l'uni",
-        "url": "https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns"
+        "name": "A l'envers",
+        "url": "https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6"
       },
       "artists": [
         {
-          "name": "Michel Jonasz",
-          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
         }
       ],
-      "duration_ms": 182047,
-      "name": "La bo\u00eete de jazz",
-      "url": "https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0"
+      "duration_ms": 349293,
+      "name": "Il suffira d'un signe",
+      "url": "https://open.spotify.com/track/0xt1kT5tYW6BkwqGdOyUbA"
     }
   ],
   "unique_name": "Bleu Blanc Route",

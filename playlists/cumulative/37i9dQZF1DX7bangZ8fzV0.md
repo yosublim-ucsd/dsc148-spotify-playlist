@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=FW7U2QRER9WHJ0Ko8YsFKA">Juanita du Plessis</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=r3X6pv59R4eYTg54Qubu\_A">Die Piesangskille</a>
 
 169 songs - 9 hr 26 min
 

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: MIKA
 
-2,011 songs - 4 day 11 hr 27 min
+2,012 songs - 4 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Alchimie](https://open.spotify.com/track/4LbcM1JxYsuBEqLg8gtwEH) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Territoiredelours](https://open.spotify.com/album/4dc7lc9vGkSCogIKIPSXF6) | 3:33 | 2023-02-10 | 2023-02-25 |
 | [ALCHIMISTE](https://open.spotify.com/track/7qECazkIfcZ06HgjDRMwfr) | [Xone](https://open.spotify.com/artist/68TAqd3LgdVtgRez3IEwra) | [ALCHIMISTE](https://open.spotify.com/album/5gBZKJpC0M4qU66QkFPMkc) | 2:36 | 2022-04-15 | 2022-04-23 |
 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 | 2023-03-11 |
-| [Algérien Fâché](https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Algérien Fâché](https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb) | 1:52 | 2023-07-14 |  |
+| [Algérien Fâché](https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Algérien Fâché](https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb) | 1:52 | 2023-07-14 | 2023-09-08 |
 | [Alias](https://open.spotify.com/track/5aW9FVzbaezSPDn3f7nN2e) | [Leïla Lanova](https://open.spotify.com/artist/6vZaYrTbNPdkcxTBwfj9dI), [DENZO](https://open.spotify.com/artist/1pQtc9O0CKJYhvaICw39z9) | [Galactica](https://open.spotify.com/album/62Nz1sWexc4nBQsGDaJj4Z) | 2:58 | 2022-05-27 | 2022-06-11 |
 | [Alien 2, le retour](https://open.spotify.com/track/22s0cjtMDw4ZEnQFpcWgUV) | [Mudie](https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr) | [Alien 2, le retour](https://open.spotify.com/album/5ZRpqhXgfBlFoIo8XsN4of) | 2:47 | 2023-01-27 | 2023-02-04 |
 | [All Night Long](https://open.spotify.com/track/6veDfkluTetAypC3SffZwr) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Volume 2](https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi) | 3:43 | 2023-02-10 | 2023-02-25 |
@@ -1516,6 +1516,7 @@
 | [PRT](https://open.spotify.com/track/3XW46ov9cTkv6JWNchd9ZE) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Dala](https://open.spotify.com/artist/6kvvDgFMvd02LlVlGX55GN), [JSX](https://open.spotify.com/artist/7J0JxtOPMKWufOraoIqjiH) | [PRT](https://open.spotify.com/album/3Rs2dBihGAgqkUs29EsoNT) | 2:38 | 2021-12-31 | 2022-01-05 |
 | [Près de la lune](https://open.spotify.com/track/02Ohc26rYLWzIWpznVvpdo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Près de la lune](https://open.spotify.com/album/6spsOMKbK9LcYGeLOciUYh) | 2:33 | 2022-06-24 | 2022-07-09 |
 | [PSO BOP](https://open.spotify.com/track/3baDxVQRIRuhMTMb6nKJbf) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [PSO BOP](https://open.spotify.com/album/2Lg8T1TQw0LqhJbNHZwRfe) | 2:23 | 2023-02-10 | 2023-02-25 |
+| [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2023-09-01 |  |
 | [Purple](https://open.spotify.com/track/6cjKcGijI1g8cdpiObqcUM) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Purple](https://open.spotify.com/album/1q7QjtB2xmOY40BkS4dVj4) | 2:32 | 2023-03-10 | 2023-03-25 |
 | [Pyrogue](https://open.spotify.com/track/7eTHUYu1P5c6AmBmSHuBI5) | [Josad](https://open.spotify.com/artist/5YR9Y6LjJ5zrE4HefvkcvL) | [Keita, Vol.1](https://open.spotify.com/album/3CY2Av6Jbfov3k0G33Jxsf) | 2:36 | 2022-06-17 | 2022-07-02 |
 | [Péché mortel](https://open.spotify.com/track/5z3P4SxsoTwaCmCfOSBLIr) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Péché mortel](https://open.spotify.com/album/0MQvzZcfs3fMPxDyTfFXP8) | 2:57 | 2022-06-17 | 2022-07-02 |

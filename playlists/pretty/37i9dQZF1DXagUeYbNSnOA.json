@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring seye. Updates every Wednesday.",
-  "num_followers": 172208,
+  "num_followers": 172259,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzMxZmQyMzc3MjAzYTMzODcyZjhlOTljM2U2N2QwOGQ0YTg4N2Uw",
+  "snapshot_id": "MCwyNDFmYjAwYmY3OGExYjA2MzI2NTFjOGVkMmYwZTUzMWEzNTlkZWUy",
   "tracks": [
     {
       "added_at": "2023-09-06 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Maserati",
-        "url": "https://open.spotify.com/album/6ei6hWVQat2jzul7fVIhyc"
-      },
-      "artists": [
-        {
-          "name": "Duriex",
-          "url": "https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW"
-        }
-      ],
-      "duration_ms": 140203,
-      "name": "Maserati",
-      "url": "https://open.spotify.com/track/3t0h2OtMpbqVWhrufC416b"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "m\u00e9todos.",
         "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 207659,
       "name": "ando chiple <\\3",
       "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Maserati",
+        "url": "https://open.spotify.com/album/6ei6hWVQat2jzul7fVIhyc"
+      },
+      "artists": [
+        {
+          "name": "Duriex",
+          "url": "https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW"
+        }
+      ],
+      "duration_ms": 140203,
+      "name": "Maserati",
+      "url": "https://open.spotify.com/track/3t0h2OtMpbqVWhrufC416b"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Est\u00e1s Aqu\u00ed",
-        "url": "https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n"
-      },
-      "artists": [
-        {
-          "name": "Constanza Herrero",
-          "url": "https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL"
-        }
-      ],
-      "duration_ms": 238038,
-      "name": "Est\u00e1s Aqu\u00ed",
-      "url": "https://open.spotify.com/track/48bK7pREsOWZC7Y8Jl78zu"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "An\u00f3nima",
         "url": "https://open.spotify.com/album/3AOroc2h1q3VAJz7Kbi7R7"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "Est\u00e1s Aqu\u00ed",
+        "url": "https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n"
+      },
+      "artists": [
+        {
+          "name": "Constanza Herrero",
+          "url": "https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL"
+        }
+      ],
+      "duration_ms": 238038,
+      "name": "Est\u00e1s Aqu\u00ed",
+      "url": "https://open.spotify.com/track/48bK7pREsOWZC7Y8Jl78zu"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "La Sed",
         "url": "https://open.spotify.com/album/5yTIFCOtnQYxnqrPFPgx4z"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 268288,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/06y5t4RZDzeTR4oO1FSfFL"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
+        "url": "https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08"
+      },
+      "artists": [
+        {
+          "name": "Azain",
+          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
+        }
+      ],
+      "duration_ms": 197700,
+      "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
+      "url": "https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
-        "url": "https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08"
-      },
-      "artists": [
-        {
-          "name": "Azain",
-          "url": "https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8"
-        }
-      ],
-      "duration_ms": 197700,
-      "name": "Recordar es detener el tiempo con im\u00e1genes que se borran y se inventan",
-      "url": "https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "DTB",
         "url": "https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "MADRID",
-        "url": "https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "MADRID",
-      "url": "https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 244144,
       "name": "Cae la noche",
       "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "MADRID",
+        "url": "https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "MADRID",
+      "url": "https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "0-800 HOY (Deluxe)",
-        "url": "https://open.spotify.com/album/17zcfndRvY3EBMYRfqXwED"
-      },
-      "artists": [
-        {
-          "name": "Gran Radio Riviera",
-          "url": "https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq"
-        }
-      ],
-      "duration_ms": 188833,
-      "name": "Todo lo que fuimos",
-      "url": "https://open.spotify.com/track/3tGInrZripAkRKj8KgruHz"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Un Perro Verde",
         "url": "https://open.spotify.com/album/6zYM7YzVGfLZoQMupKMvys"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "0-800 HOY (Deluxe)",
+        "url": "https://open.spotify.com/album/17zcfndRvY3EBMYRfqXwED"
+      },
+      "artists": [
+        {
+          "name": "Gran Radio Riviera",
+          "url": "https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq"
+        }
+      ],
+      "duration_ms": 188833,
+      "name": "Todo lo que fuimos",
+      "url": "https://open.spotify.com/track/3tGInrZripAkRKj8KgruHz"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "Exhalarte",
         "url": "https://open.spotify.com/album/2p1JDY337Px8ZRDSxtEWV9"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 193109,
       "name": "Exhalarte",
       "url": "https://open.spotify.com/track/0Q4PtIhtlS5lsFuP7qAyqQ"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Maldigo a Cupido",
-        "url": "https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI"
-      },
-      "artists": [
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        }
-      ],
-      "duration_ms": 176223,
-      "name": "Maldigo a Cupido",
-      "url": "https://open.spotify.com/track/2DRxYM1jIA39kOzOdqLTF0"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "Maldigo a Cupido",
+        "url": "https://open.spotify.com/album/4ceWJq8vlUTdrJTlMdNJuI"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        }
+      ],
+      "duration_ms": 176223,
+      "name": "Maldigo a Cupido",
+      "url": "https://open.spotify.com/track/2DRxYM1jIA39kOzOdqLTF0"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "Nuevo Mundo",
         "url": "https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Conmigo",
-        "url": "https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 215708,
-      "name": "Conmigo",
-      "url": "https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Fuerte",
         "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 229454,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 215708,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20"
     },
     {
       "added_at": "2023-09-06 04:00:00",

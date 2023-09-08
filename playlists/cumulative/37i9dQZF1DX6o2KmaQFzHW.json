@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Principio y Destino",
+        "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163906,
+      "name": "El tesoro de mi alma",
+      "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
+    },
+    {
+      "album": {
         "name": "El \u00c1rbol, el R\u00edo, el Hombre",
         "url": "https://open.spotify.com/album/0eSiN5NesS2YFblN2D4S2E"
       },
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 196773,
       "name": "Guitarra de Medianoche",
       "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"

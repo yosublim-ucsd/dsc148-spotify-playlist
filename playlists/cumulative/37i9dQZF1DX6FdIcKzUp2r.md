@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-198 songs - 14 hr 22 min
+199 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Euerybody's Got To Learn Sometime](https://open.spotify.com/track/0Cj5bxoNKUjF2pBEsyvCSH) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Best](https://open.spotify.com/album/4ZHy6lwP7dacMqbTR221oW) | 4:11 | 2018-12-12 | 2022-07-29 |
 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/2PxyiPwogw6C9yu1jRgFiA) | [The Korgis](https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3) | [The Korgis Kollection](https://open.spotify.com/album/13sFIOMblyr8x7TwD546jN) | 4:11 | 2018-12-12 | 2023-03-19 |
 | [Exile](https://open.spotify.com/track/7DHYLGnhdmeladlQ0LM0Nf) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Stars](https://open.spotify.com/album/72w5kKwWOO5b065Flb8hv2) | 4:22 | 2018-12-12 | 2022-11-14 |
+| [Exile \- 2009 Remaster](https://open.spotify.com/track/7zNfdQ6CMDFTy5lpTuANdq) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Watermark \(2009 Remaster\)](https://open.spotify.com/album/0NJjvdOd3ULUTvoVFCCFJN) | 4:21 | 2018-12-12 |  |
 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 | 2018-12-12 |  |
 | [Eye In The Sky](https://open.spotify.com/track/39nNw4Q0wdS1N2185oD05x) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky](https://open.spotify.com/album/3rdohna6oEL211dRStkmOw) | 4:36 | 2018-12-12 | 2022-07-29 |
 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 | 2018-12-12 |  |
@@ -63,7 +64,7 @@
 | [Forbidden Colors](https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:42 | 2018-12-12 |  |
 | [Forbidden Colours](https://open.spotify.com/track/3M9rsPGC2vslQOLxYVthWK) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas Mr\. Lawrence \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/51dNigelqPH5ylz25nEWuy) | 4:42 | 2018-12-12 | 2022-07-29 |
 | [Forever \- Piano Version](https://open.spotify.com/track/4gvqYbuokkI71nimNaNP1H) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 3:20 | 2018-12-12 | 2022-11-13 |
-| [From a Late Night Train](https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 3:59 | 2018-12-12 |  |
+| [From a Late Night Train](https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 3:59 | 2018-12-12 | 2023-09-08 |
 | [From a Late Night Train](https://open.spotify.com/track/4znmS37IK3AXquWWZ4tBrZ) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats \(Deluxe Version\)](https://open.spotify.com/album/5wfkC4wXdkDlKXhJ1BRNN7) | 3:59 | 2018-12-12 | 2022-07-29 |
 | [Ghosts](https://open.spotify.com/track/4M3Lxm1XBJrfLGBWZjqTM7) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Exorcising Ghosts](https://open.spotify.com/album/0ezKQuRSkTDJSgwJ6iL4Jq) | 4:32 | 2018-12-12 | 2022-11-22 |
 | [Going Under \- 1999 Remaster](https://open.spotify.com/track/6kA1l7KGrDD9DD1h3oZZLc) | [Marillion](https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28) | [Clutching at Straws](https://open.spotify.com/album/7M6qdztBAZADkaYJ6bIEhF) | 2:47 | 2018-12-12 | 2023-09-03 |

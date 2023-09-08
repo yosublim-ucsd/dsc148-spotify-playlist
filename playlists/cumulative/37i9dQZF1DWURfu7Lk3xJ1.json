@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "adjustment",
+        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
+      },
+      "artists": [
+        {
+          "name": "Ryder 003",
+          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "adjustment",
+      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
+    },
+    {
+      "album": {
         "name": "Adventures",
         "url": "https://open.spotify.com/album/52lvTZfvvLUp4aTFuGzxKr"
       },
@@ -3603,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131766,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
+    },
+    {
+      "album": {
         "name": "liaison",
         "url": "https://open.spotify.com/album/76JTRe7VNwOt4iTYlXVIg3"
       },
@@ -4518,7 +4554,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 150000,
       "name": "Namaste",
       "url": "https://open.spotify.com/track/0exdLIkh9D5XRHhXJ5I5nY"
@@ -5410,7 +5446,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 140571,
       "name": "Quiet Path",
       "url": "https://open.spotify.com/track/66eCBCACOZ9UIuC12dawP6"
@@ -6013,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "shelter",
+        "url": "https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc"
+      },
+      "artists": [
+        {
+          "name": "Kolorama",
+          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "shelter",
+      "url": "https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo"
+    },
+    {
+      "album": {
         "name": "Various",
         "url": "https://open.spotify.com/album/31AYal0DFTsnTa4GfHkvjV"
       },
@@ -6374,6 +6428,24 @@
       "duration_ms": 164383,
       "name": "Sparks of Hope",
       "url": "https://open.spotify.com/track/7yfMLxRqVOMqRWCIkzi8Nb"
+    },
+    {
+      "album": {
+        "name": "spinal chords",
+        "url": "https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x"
+      },
+      "artists": [
+        {
+          "name": "fontatron",
+          "url": "https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135558,
+      "name": "spinal chords",
+      "url": "https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi"
     },
     {
       "album": {

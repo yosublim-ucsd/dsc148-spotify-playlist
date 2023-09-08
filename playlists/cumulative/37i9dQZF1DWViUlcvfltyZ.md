@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Leatherette in cover questa settimana!
 
-524 songs - 1 day 5 hr 5 min
+530 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Anti\-Fomo](https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [Anti\-Fomo](https://open.spotify.com/album/22yTfRdHVq3c50oZpXngIA) | 2:56 | 2023-08-28 |  |
 | [Apnea](https://open.spotify.com/track/39a6nwQYyEpjk7EMl9mA4R) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Nouvelles Aventures](https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF) | 4:22 | 2023-05-25 | 2023-07-21 |
 | [APNEA](https://open.spotify.com/track/07BUJz0fmgLnaDfk4WtYPf) | [FOGG](https://open.spotify.com/artist/3XJWtrpDcoofN56hKaNRCH) | [APNEA](https://open.spotify.com/album/6VbivQUqw6XpmMavkCEP0p) | 4:48 | 2023-03-31 | 2023-05-04 |
+| [ARE YOU READY?](https://open.spotify.com/track/1oZMTUbvwxvO3zP3YzFP7N) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [done](https://open.spotify.com/album/62xCOhsOzmvajTaZinGAYV) | 2:36 | 2023-09-07 |  |
 | [around my neck](https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo) | [Eugenia Post Meridiem](https://open.spotify.com/artist/47wCQih5a5wC9l3LqDRySE) | [around my neck](https://open.spotify.com/album/433w6aPK6Ht3Cif62mo5WJ) | 4:09 | 2022-10-06 | 2022-10-21 |
 | [Arrival](https://open.spotify.com/track/4Ne74jsYB7Jx87rk97SzzD) | [Klidas](https://open.spotify.com/artist/2hR1G6mVtRjuPOHEPutdtP) | [Arrival](https://open.spotify.com/album/4TLZiuTm8s3CAaW8UbdqVb) | 6:56 | 2023-05-04 | 2023-05-26 |
 | [Artistico serale](https://open.spotify.com/track/5EBpMh8KabaQxYITlPd5nc) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Falli a pezzi!](https://open.spotify.com/album/6Y5QkxB88qzpT3njgKH2LF) | 3:43 | 2022-06-30 | 2022-12-02 |
@@ -250,6 +251,7 @@
 | [L'ansia del casello](https://open.spotify.com/track/0tOZTDemzETWOETHrrhnWy) | [Samuele Stanco e i Gabbiani Malvagi](https://open.spotify.com/artist/13OTLSSmiVx2KbPqLGU95f) | [L'ansia del casello](https://open.spotify.com/album/44ybQSEjANBMQ3uyRosggp) | 3:41 | 2023-06-22 |  |
 | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/track/2oyVIu3N49UpXTBHqZ2ddt) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [DIVI](https://open.spotify.com/artist/74bcvpVRGuSFkKK67skgBL) | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/album/7dUA3A2rzNnRBZ5wswcU75) | 3:30 | 2023-05-11 | 2023-06-09 |
 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 | 2022-12-15 | 2023-02-17 |
+| [La fine del giorno](https://open.spotify.com/track/3YrSRsmceg76UfAJpiTFqJ) | [Novaffair](https://open.spotify.com/artist/1JCO5edqr3C6aKHKihyqz3) | [La fine del giorno](https://open.spotify.com/album/718WYe1uOLKUnhAoNKGcCn) | 3:10 | 2023-09-07 |  |
 | [La fine dell'eternità](https://open.spotify.com/track/2DTSHEAcv2hUnVoRvYiOmo) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/2I6L45zp4O8twWUyAHirSj) | 3:04 | 2022-07-28 | 2023-01-13 |
 | [La fine dell'eternità](https://open.spotify.com/track/6mzLHYb0VGDkYBTwcSAASe) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/1I3StDZUGbkIkBJrHLwY66) | 3:04 | 2022-06-09 | 2022-07-29 |
 | [La musica è finita](https://open.spotify.com/track/3StEZwbxvR10edtOJoq2Ox) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [La musica è finita](https://open.spotify.com/album/79iordJotLmxKPRHQTUU88) | 3:18 | 2023-06-01 |  |
@@ -305,6 +307,7 @@
 | [Moulin Rouge](https://open.spotify.com/track/73cjReNmAtBDm59fuTNzaF) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Moulin Rouge](https://open.spotify.com/album/5GdM5uruWJCaGL525mNNhU) | 2:50 | 2023-06-15 | 2023-07-19 |
 | [Multiculti supermarket](https://open.spotify.com/track/1B2enYYrBLeUfDKBFv1faT) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Multiculti supermarket](https://open.spotify.com/album/4yxX7IQ7lT1njmkVgzCXtw) | 3:19 | 2022-05-09 | 2022-05-13 |
 | [Musica per aeroporti](https://open.spotify.com/track/2k4D2XNzM0VfRnUl9ts1RY) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Musica per aeroporti](https://open.spotify.com/album/2dDHNcqTbZMleDaLNpcqL6) | 2:41 | 2023-04-13 | 2023-05-12 |
+| [Mussolini](https://open.spotify.com/track/0Cyih16Jk1bhPG0fMlLHe7) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [Mussolini](https://open.spotify.com/album/5ncCI5SC7bo16a88z46woW) | 3:38 | 2023-09-07 |  |
 | [My Best](https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [This Is Light](https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD) | 3:38 | 2022-05-09 | 2022-10-21 |
 | [My Old Flame](https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [My Old Flame](https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S) | 3:52 | 2023-03-09 | 2023-04-14 |
 | [Naufragio con spettatore](https://open.spotify.com/track/1aoUuolpBbnefrX7u5xFjk) | [Leita](https://open.spotify.com/artist/5uZSi8TsRkUiPOcBZyPXZO) | [Per sempre, comunque](https://open.spotify.com/album/1ATg2FitwLGxoJyaqlNxk2) | 4:41 | 2022-06-02 | 2022-07-08 |
@@ -392,8 +395,10 @@
 | [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 | 2022-11-03 | 2022-12-24 |
 | [Rincorretevi](https://open.spotify.com/track/5cZHjGtsw6vsu5DVOrDBRP) | [Androgy̆nus](https://open.spotify.com/artist/4vOuZX3Pw0gO295lAdpDZT) | [Rincorretevi](https://open.spotify.com/album/6mPLQCRlvvFyWFW8A3Rd8K) | 5:05 | 2022-05-19 | 2022-07-01 |
 | [Ronaldo](https://open.spotify.com/track/5zOTYtift5RWyArMm2Nwd8) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ronaldo](https://open.spotify.com/album/5Qav1GCe2ZOKcobjrQvDDG) | 2:49 | 2023-08-31 |  |
+| [Rossetto](https://open.spotify.com/track/65TUe2ZU0gG23xANNj3q6g) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Rossetto](https://open.spotify.com/album/6zUBlbn5dgLDIfsku4zQqy) | 2:50 | 2023-09-07 |  |
 | [Rosso](https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Rosso](https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV) | 3:35 | 2023-03-09 | 2023-05-19 |
 | [rotten](https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl) | [grungelo](https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy), [The Steiner](https://open.spotify.com/artist/0E0656VNBS8nCeuLyjRFjp) | [rotten](https://open.spotify.com/album/04Jz6N7SeKqALkWIkVXCSL) | 2:40 | 2022-06-02 | 2022-07-08 |
+| [Rotto Perfetto](https://open.spotify.com/track/30jNZqDJsueY5umRkfe7RY) | [Bruuno](https://open.spotify.com/artist/0oHCCcCDY1GC6EPcxoG9Lv) | [Fosbury](https://open.spotify.com/album/1P8XEke4doAhmnfeStYM3R) | 3:25 | 2023-09-07 |  |
 | [Russian roulette](https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Russian roulette](https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq) | 4:10 | 2023-04-13 | 2023-06-09 |
 | [Samba](https://open.spotify.com/track/33n1cgTA8kmN1b9k1XTi7N) | [F4](https://open.spotify.com/artist/7eM8i1h5JXPmPP9uJaMAva) | [Noialtri](https://open.spotify.com/album/6GCMCV6kxCQPun16pXD5UQ) | 3:46 | 2023-05-25 | 2023-06-23 |
 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 | 2023-03-09 | 2023-05-12 |
@@ -413,6 +418,7 @@
 | [Senza Fine](https://open.spotify.com/track/0kcOUYb4244Ul2Cd3mEvkE) | [ULTRANOIA](https://open.spotify.com/artist/6cGw5bSzyixem0tMv0k434) | [Senza Fine](https://open.spotify.com/album/2SlwwWFm3wZ9xFMwwntgup) | 3:31 | 2023-02-02 | 2023-03-03 |
 | [Senza mai guardarsi indietro](https://open.spotify.com/track/3QGx90XyhQZZUz7WKWMUCk) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Senza mai guardarsi indietro](https://open.spotify.com/album/6yTRDmKQJqpdXm0yNFFsTe) | 2:17 | 2023-07-06 |  |
 | [Senza svegliare nessuno](https://open.spotify.com/track/7Mar66ocny6SSA4bQqh4Sm) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [Complicarsi la vita](https://open.spotify.com/album/3TdbgJaDqjkDtOizrUVC4z) | 4:17 | 2022-12-01 | 2023-02-10 |
+| [Serenissima Malcontenta](https://open.spotify.com/track/2psFcaO2uKwA4PXoYyJI7Z) | [Bengala Fire](https://open.spotify.com/artist/5B516AbC2BhNio4qvbDdNb) | [Serenissima Malcontenta](https://open.spotify.com/album/3iv1zXS4ks9OsT3uwJPHnW) | 4:22 | 2023-09-07 |  |
 | [Sereno](https://open.spotify.com/track/2U1XriPajBptR6r2B3hiP6) | [Blindur](https://open.spotify.com/artist/7LUvRhMok52Bi5G2gmQzGc) | [Sereno](https://open.spotify.com/album/0TWE0Xja7UMMKQMwzihs3V) | 3:31 | 2022-05-12 | 2022-06-24 |
 | [Sesso](https://open.spotify.com/track/1JYHLBAAs6JXuYqWdob7Qy) | [Matteo Crea](https://open.spotify.com/artist/6gSMOhXyReu6QXtyoxcw16) | [Io non sono mai felice](https://open.spotify.com/album/1ING4mdn5P5bVadqjKCEOx) | 2:12 | 2022-12-01 | 2022-12-16 |
 | [SESSO & OPENBAR](https://open.spotify.com/track/4CtmrooLElIO7iZwdDMpdJ) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [SESSO & OPENBAR](https://open.spotify.com/album/4L6iv1xkvjlqmsIzTAh8VC) | 2:34 | 2022-08-04 | 2022-11-25 |

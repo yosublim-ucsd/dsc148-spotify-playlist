@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5914,
+  "num_followers": 5934,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmUxYjViYmEyODNmNjI1N2RmZTg0ZDkwMDMzZDQ4ODFlMjk4OTUy",
+  "snapshot_id": "MCw1OGIxMjA2MjdiYjIyNGRlMTMyYWI5MWU0OWVmN2M5ZjQ4ODY0MjA4",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Stand Alone",
-        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
-      },
-      "artists": [
-        {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
-        }
-      ],
-      "duration_ms": 259213,
-      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
-      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "The Spring of Twenty",
         "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+        "name": "Stand Alone",
+        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Greeting",
-      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
+      "duration_ms": 259213,
+      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
+      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -283,6 +267,22 @@
       "duration_ms": 212761,
       "name": "Shouldn't Have\u2026",
       "url": "https://open.spotify.com/track/328QkpGncEcQWJj6NSCqDJ"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Chocolate, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0w6aqyXQlvBxOIhqmRKk4C"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Greeting",
+      "url": "https://open.spotify.com/track/741iHAqg8dbs8vaNnnMDve"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Exhibition 2",
-        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
-        }
-      ],
-      "duration_ms": 320055,
-      "name": "Druken Truth",
-      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Modern Times",
         "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 246151,
       "name": "(Bonus Track) Voice Mail (Korean Version)",
       "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Exhibition 2",
+        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+        }
+      ],
+      "duration_ms": 320055,
+      "name": "Druken Truth",
+      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
     },
     {
       "added_at": "2023-05-02 09:09:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Deepak Rathore Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,739 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,749 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Sandesa](https://open.spotify.com/track/6By28l3OmPVa2tFFgQD0zt) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Sandesa](https://open.spotify.com/album/4ReEpnPrFF5NyZQGlpGgJa) | 3:43 |
 | 50 | [Maahi Dekhle](https://open.spotify.com/track/1nWJtWMjH82MLk3iduAi7N) | [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Maahi Dekhle](https://open.spotify.com/album/3fONz4jUEAG3k3BADifk88) | 3:10 |
 
-Snapshot ID: `MCw3YzQzODdjZGE1NTE5NmE3N2FhYjk2YmQ0M2MwNzUzMmY1OWQ5ZjNj`
+Snapshot ID: `MCxmNWRiYzI1OTkzNjNmZTY0M2E0OTUyYjM4YmUyZmUxNjA2MjFjODdi`

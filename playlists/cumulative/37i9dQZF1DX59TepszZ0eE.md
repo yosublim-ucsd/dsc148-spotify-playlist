@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG?si=d1iEXFUBTaaGYzSIv\-rXag">Mmatema</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ?si=Ckgdjp4\_RKq26gq0mHehdw">Mpumi Mutsweni</a>
 
-149 songs - 14 hr 50 min
+151 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [He Brought Me This Far](https://open.spotify.com/track/768aDfYOtuztbTQvPOQitB) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ebenezer](https://open.spotify.com/album/3YmVRVznUow3ci23VqyVel) | 6:24 | 2022-02-17 | 2023-03-18 |
 | [He Can Handle](https://open.spotify.com/track/6P1nyNE7zBqyHA647dBDzH) | [Panda Frost](https://open.spotify.com/artist/0Shz7rqF6jTHHbIw78A9AI) | [He Can Handle](https://open.spotify.com/album/5arNSE4tmtnYwKo8sKWzl1) | 2:51 | 2023-06-23 | 2023-07-07 |
 | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/track/1O2U5uabqVUv1IPC3UVPne) | [Symphonic Music](https://open.spotify.com/artist/1RUlJvmnDSIJLQDOKyzm0y), [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala \(Symphonic Version\)](https://open.spotify.com/album/67FBxB1VchICOf1vU63kql) | 4:48 | 2023-06-16 | 2023-07-07 |
+| [Hlala Kimi Jesu \(Live\)](https://open.spotify.com/track/1mSNKKV9AnVTrLotvDQWu6) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Hlala Kimi Jesu \(Live\)](https://open.spotify.com/album/3dDxgxhQ3DBSvn9T4DXpOZ) | 8:42 | 2023-09-08 |  |
 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 | 2023-06-30 |  |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-05-19 | 2023-03-18 |
 | [Imisebenzi Yakho](https://open.spotify.com/track/2fNijmMXShZ4ns3DpgPOFG) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship](https://open.spotify.com/album/346LyPDtxWHvzIB6j6D3Iz) | 5:07 | 2023-04-11 | 2023-06-09 |
@@ -141,6 +142,7 @@
 | [Wasithethelela \(Live\)](https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW) | [Wasithethelela \(Live\)](https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu) | 9:31 | 2023-06-23 |  |
 | [We the Forgiven](https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [We the Forgiven](https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5) | 5:54 | 2023-06-30 |  |
 | [We Worship](https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP) | [Mabongi](https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [The Sound of Redemption](https://open.spotify.com/album/33eTjDxci5pBddq5SAJome) | 6:43 | 2023-07-07 |  |
+| [Wozani Zindlamafa](https://open.spotify.com/track/3jWzOF0KBySjTHyVMdAz5e) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Wozani Zindlamafa](https://open.spotify.com/album/2n0NKGMn0EwidGUlYKFxW4) | 4:00 | 2023-09-08 |  |
 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 | 2020-04-13 |  |
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2019-08-19 |  |
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2020-07-13 |  |

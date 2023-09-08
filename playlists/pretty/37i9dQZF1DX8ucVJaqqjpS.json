@@ -1,12 +1,12 @@
 {
   "description": "Canciones con la adrenalina necesaria para dar esa milla extra.",
-  "num_followers": 427830,
+  "num_followers": 428042,
   "original_name": "Corre con Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTRlMzFmZGY1NTU0ZWVkYWRjNjJkMzEzNzlhYzQxMjBlYjZlMWJi",
+  "snapshot_id": "MCw3YTlhNDkyZGM5N2UzOGE3MjUzYTdjMmViZDk3ZTM0M2ZkZDRlMjRj",
   "tracks": [
     {
       "added_at": "2023-05-15 15:35:17",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-05-15 15:35:17",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+      "duration_ms": 205613,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
     }
   ],
   "unique_name": "Corre con Rock",

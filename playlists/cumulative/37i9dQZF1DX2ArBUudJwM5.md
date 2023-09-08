@@ -4,7 +4,7 @@
 
 > Estamos listas para un festival único\. <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-801 songs - 1 day 19 hr 5 min
+802 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Gozar Hasta Que Me Ausente](https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:02 | 2022-04-06 |  |
 | [Gran remera](https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Suerte](https://open.spotify.com/album/392hK64cm39C8CDetPM6HC) | 1:17 | 2023-05-03 | 2023-07-06 |
 | [Gritan Fuerte](https://open.spotify.com/track/2gR1RdTsNE2ilFzu0MHOH4) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [ELETÉ](https://open.spotify.com/album/5TPygbVZFHfeYLwBGYVLm7) | 3:32 | 2022-05-04 | 2022-07-07 |
+| [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-07 |  |
 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 | 2022-09-07 | 2023-07-28 |
 | [GUAPO](https://open.spotify.com/track/3BzsTZGkPF3z4D1RxfM2xP) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 2:45 | 2022-03-08 | 2022-04-07 |
 | [Guarra](https://open.spotify.com/track/0suYildavolzFBL51vwnkU) | [Chulimane](https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6) | [Guarra](https://open.spotify.com/album/2WauUfgrULSkNdWaS9pIDV) | 1:14 | 2023-04-05 | 2023-05-04 |

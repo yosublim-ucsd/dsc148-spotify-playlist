@@ -2154,8 +2154,8 @@
           "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
         },
         {
-          "name": "\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/0NubhIcbRGPNQCp3onpG42"
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
       "date_added": "2023-09-05",
@@ -21620,6 +21620,24 @@
       "duration_ms": 171045,
       "name": "Memories",
       "url": "https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/6arL1z6JW10H9T40CsE2mM"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302628,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/5yNEp4E4ZFljj3RIVgxZxh"
     },
     {
       "album": {

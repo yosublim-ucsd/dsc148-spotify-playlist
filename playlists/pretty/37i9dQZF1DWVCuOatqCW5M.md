@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Palak Muchhal
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,155 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,204 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kasam Se](https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Kasam Se](https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy) | 3:05 |
-| 2 | [Meri Har Shaam](https://open.spotify.com/track/4yf4IjlCf9MdjyEhg0bblx) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Meri Har Shaam](https://open.spotify.com/album/0K6K6Lw09m1xvODd1EUym4) | 4:06 |
+| 2 | [Meri Har Shaam](https://open.spotify.com/track/4yf4IjlCf9MdjyEhg0bblx) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Meri Har Shaam](https://open.spotify.com/album/0K6K6Lw09m1xvODd1EUym4) | 4:06 |
 | 3 | [Khayaal Rakhna \(feat\. Salim Merchant, Sunidhi Chauhan, Vijay Prakash & Pawandeep Rajan\)](https://open.spotify.com/track/0KhXSC1fvcVwh2O3vugHPl) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shradha Pandit](https://open.spotify.com/artist/7ux0pE6SAbMJPSPmuuBHUN), [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Pawandeep Rajan](https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd) | [Khayaal Rakhna \(feat\. Salim Merchant, Sunidhi Chauhan, Vijay Prakash & Pawandeep Rajan\)](https://open.spotify.com/album/0YrsW2Jwi1Ce0Jb8DFM8S3) | 3:18 |
 | 4 | [Baarish Bulao](https://open.spotify.com/track/1JfHWPKzrd7vdsijFT1Txx) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Baarish Bulao](https://open.spotify.com/album/4eMJyXN9ImhaVekKDX5wZ7) | 3:30 |
 | 5 | [Nazdeekiyaan](https://open.spotify.com/track/1uaNjFnOhNRIGeOsugMTyh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Anamta Khan](https://open.spotify.com/artist/0dWbpUsiwtx4ai6mRj7ZFI) | [Nazdeekiyaan](https://open.spotify.com/album/3XquG8hyw4IF49L81hGRl3) | 4:15 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 43 | [Saahiba](https://open.spotify.com/track/6Tv6s5RuvMZ2cR18jYi7xy) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:50 |
 | 44 | [Saj Ke](https://open.spotify.com/track/0f2E2QWspTyRSygY4fx7Y8) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Saj Ke](https://open.spotify.com/album/73JIHgoqQgfNCgEfTxaIId) | 2:32 |
 | 45 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
-| 46 | [Boondein Marham Si](https://open.spotify.com/track/5jS0bSCHqrzuxEvCGl86Mk) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Boondein Marham Si](https://open.spotify.com/album/02EFUheusQJFWxAkrn3kYV) | 3:51 |
+| 46 | [Boondein Marham Si](https://open.spotify.com/track/5jS0bSCHqrzuxEvCGl86Mk) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Boondein Marham Si](https://open.spotify.com/album/02EFUheusQJFWxAkrn3kYV) | 3:51 |
 | 47 | [Chandni](https://open.spotify.com/track/0t8qUG81HRAzlCpftm8Hlk) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Chandni](https://open.spotify.com/album/4NoXfpBsI0EbAgYk3hLNav) | 4:08 |
 | 48 | [Ishq Ka Asar](https://open.spotify.com/track/4m9cVVsBctW6PR0uiP2rHE) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Ishq Ka Asar](https://open.spotify.com/album/64SdwVQGYh7M9PQtnAa1V6) | 3:00 |
 | 49 | [Bin Tere](https://open.spotify.com/track/3HmkI0yLP6fE6wPrjjTnWJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Bin Tere](https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp) | 3:26 |
 | 50 | [Jannat](https://open.spotify.com/track/0qJO8QgG5C8mUyPA827c8R) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Jannat](https://open.spotify.com/album/4Bx8C5p2ElDIYTokkN7Ghz) | 2:33 |
 
-Snapshot ID: `MCwzN2U1MTg2YjVmZWM5Mzg1MzJkZjBiNDYxNDIwNmQ2M2ZiOTkwOGEz`
+Snapshot ID: `MCwwYjJjMWNiZmE3M2I1YmUzNzg1MDNlYmJhZDE5YjQ5OTJmYjllYjAx`

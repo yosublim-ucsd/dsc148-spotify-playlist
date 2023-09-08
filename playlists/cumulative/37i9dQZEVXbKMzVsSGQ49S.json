@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 202500,
       "name": "Coffee Face (2023 Remastered Version)",
       "url": "https://open.spotify.com/track/61gLU3eLWwPSZZu2R7HO0W"
@@ -7030,7 +7030,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 432613,
       "name": "E\u00f0a?",
       "url": "https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE"
@@ -15782,7 +15782,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 246133,
       "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -24933,6 +24933,28 @@
     },
     {
       "album": {
+        "name": "Tortor Ri",
+        "url": "https://open.spotify.com/album/094C39PGghtfz6QtX4Cs6K"
+      },
+      "artists": [
+        {
+          "name": "Shaddy Reigns",
+          "url": "https://open.spotify.com/artist/5fu6jPyuxO82ADxRzoNVf0"
+        },
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179036,
+      "name": "Tortor Ri",
+      "url": "https://open.spotify.com/track/7espfmnMr49UBvBLMWzmeS"
+    },
+    {
+      "album": {
         "name": "TOSSI",
         "url": "https://open.spotify.com/album/0ee5eKza6Yr4a78ZzyICod"
       },
@@ -26034,7 +26056,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 194127,
       "name": "Vinn Vi\u00f0 \u00dea\u00f0",
       "url": "https://open.spotify.com/track/0yecDQdx8NxpvcswRJM6uh"
@@ -27786,7 +27808,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 222600,
       "name": "\u00c1STIN M\u00cdN",
       "url": "https://open.spotify.com/track/1yx2RxOMtkjEeBfc2EfLsV"

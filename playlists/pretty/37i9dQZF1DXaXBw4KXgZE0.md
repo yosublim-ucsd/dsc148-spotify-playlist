@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,733 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,747 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,21 +37,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 | 27 | [Redemption Song \(Originally Performed by Bob Marley\) \[Lullaby Version\]](https://open.spotify.com/track/5JS1BSAn0apNtA5fumhEuK) | [Kids Biz](https://open.spotify.com/artist/2ZKdJLIOpqOHfjbNOyavWS) | [One Love Lullaby Tribute to Bob Marley](https://open.spotify.com/album/5ds8KNJaNgmlOy1LCqyIRE) | 3:27 |
 | 28 | [Tomorrow](https://open.spotify.com/track/3ansqkO7A68z6xDhErpKpi) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [Lullabies](https://open.spotify.com/album/6v9K3CTqFHLK5SMavLKn5U) | 3:18 |
 | 29 | [Sleep Tight](https://open.spotify.com/track/38CA9KVMYFy08RT8VSj6By) | [Le Sommeil](https://open.spotify.com/artist/1QtEcHt7VQWPC9jHMNgn80) | [Sleep Tight](https://open.spotify.com/album/4eoSEeZS7XNTSraap87SPB) | 2:53 |
-| 30 | [Ho hey](https://open.spotify.com/track/2ahwerIzRcGeSMQnZ2DDJa) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:32 |
-| 31 | [Blackbird](https://open.spotify.com/track/5yIPJh0PJpNRRtdNZ9qbCC) | [The Inchworms](https://open.spotify.com/artist/1Cj3ggAp2ZVFNfTvw2ta0l) | [Insect Lullabies](https://open.spotify.com/album/2fmwMSrlgUI34MEk66hvFs) | 3:07 |
-| 32 | [Can't Stop The Feeling](https://open.spotify.com/track/774ntZvICHcabVvH3ZnvHa) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 3:44 |
-| 33 | [Amazing Grace](https://open.spotify.com/track/1x82J9SGXuoZN6fF5NFxMR) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Harp Vol 1](https://open.spotify.com/album/4sdoVflpFPHQvnO79wZGuX) | 1:58 |
-| 34 | [When You Wish Upon a Star](https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8) | [Mounia Abraham](https://open.spotify.com/artist/5vZm6KOKPOk2Pooo9NHt1h) | [When You Wish Upon a Star](https://open.spotify.com/album/7fsSv3ak7BZdLx6L94bc2W) | 2:41 |
-| 35 | [You Are My Sunshine](https://open.spotify.com/track/4eufPQbJDxn1FCDhIqNkxx) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:00 |
-| 36 | [Remember Me](https://open.spotify.com/track/6TWc9jqstUEB6EGTE2i0R5) | [Minnie Wester](https://open.spotify.com/artist/7xRDHTbmmYzPqEsHgjhh22) | [Remember Me](https://open.spotify.com/album/1OuiuiEgVjUUhTUg3xUjZj) | 3:42 |
-| 37 | [Hush Little Baby](https://open.spotify.com/track/7h6GVE4bGA92jbvr40nChB) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Harp Vol 1](https://open.spotify.com/album/4sdoVflpFPHQvnO79wZGuX) | 1:34 |
-| 38 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3FbKnCRNzHwIudovtaKa7x) | [Lenox Martin](https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw) | [You Are My Sunshine](https://open.spotify.com/album/30rgKeVh7lKTgCv2HNP0fC) | 3:04 |
-| 39 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 |
-| 40 | [Lucid Dreams](https://open.spotify.com/track/6t4wvXs57U4Z0SusITrHwk) | [Romans Veiss](https://open.spotify.com/artist/6a1NBji7Ei3pEtuNnF8Vgp) | [My View](https://open.spotify.com/album/0sXQQtvGm5Zuptex8PaGTC) | 2:51 |
-| 41 | [Shallow](https://open.spotify.com/track/19pOWdI17nYv5WidFpNzOS) | [Francesca Sanchez](https://open.spotify.com/artist/6oOwFwJ5HylL5In2mQ5lMw) | [Shallow](https://open.spotify.com/album/1Tqj8mhmcaklLMTxvbWzMP) | 3:54 |
-| 42 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 |
-| 43 | [Baa Baa Black Sheep](https://open.spotify.com/track/2YPzs7MqwyDeV5koISgp5i) | [Rosemary Lauter](https://open.spotify.com/artist/4Omowtg1gZ1ziXFl4rHQU1) | [Five Little Monkeys](https://open.spotify.com/album/4ijvU9elNltEYZ2xPhEgkP) | 1:46 |
-| 44 | [Wings To Fly](https://open.spotify.com/track/6TQz8WoqWFtvFtDEdtFzwo) | [Josef Bel Habib](https://open.spotify.com/artist/6ZISq2vN9lwN6RZQ4kqcRI) | [Near And Far](https://open.spotify.com/album/5KGtQ9I19PwuTk9C2Fbsve) | 2:11 |
-| 45 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 |
+| 30 | [Blackbird](https://open.spotify.com/track/5yIPJh0PJpNRRtdNZ9qbCC) | [The Inchworms](https://open.spotify.com/artist/1Cj3ggAp2ZVFNfTvw2ta0l) | [Insect Lullabies](https://open.spotify.com/album/2fmwMSrlgUI34MEk66hvFs) | 3:07 |
+| 31 | [Can't Stop The Feeling](https://open.spotify.com/track/774ntZvICHcabVvH3ZnvHa) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 3:44 |
+| 32 | [Amazing Grace](https://open.spotify.com/track/1x82J9SGXuoZN6fF5NFxMR) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Harp Vol 1](https://open.spotify.com/album/4sdoVflpFPHQvnO79wZGuX) | 1:58 |
+| 33 | [When You Wish Upon a Star](https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8) | [Mounia Abraham](https://open.spotify.com/artist/5vZm6KOKPOk2Pooo9NHt1h) | [When You Wish Upon a Star](https://open.spotify.com/album/7fsSv3ak7BZdLx6L94bc2W) | 2:41 |
+| 34 | [You Are My Sunshine](https://open.spotify.com/track/4eufPQbJDxn1FCDhIqNkxx) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:00 |
+| 35 | [Remember Me](https://open.spotify.com/track/6TWc9jqstUEB6EGTE2i0R5) | [Minnie Wester](https://open.spotify.com/artist/7xRDHTbmmYzPqEsHgjhh22) | [Remember Me](https://open.spotify.com/album/1OuiuiEgVjUUhTUg3xUjZj) | 3:42 |
+| 36 | [Hush Little Baby](https://open.spotify.com/track/7h6GVE4bGA92jbvr40nChB) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Harp Vol 1](https://open.spotify.com/album/4sdoVflpFPHQvnO79wZGuX) | 1:34 |
+| 37 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3FbKnCRNzHwIudovtaKa7x) | [Lenox Martin](https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw) | [You Are My Sunshine](https://open.spotify.com/album/30rgKeVh7lKTgCv2HNP0fC) | 3:04 |
+| 38 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 |
+| 39 | [Lucid Dreams](https://open.spotify.com/track/6t4wvXs57U4Z0SusITrHwk) | [Romans Veiss](https://open.spotify.com/artist/6a1NBji7Ei3pEtuNnF8Vgp) | [My View](https://open.spotify.com/album/0sXQQtvGm5Zuptex8PaGTC) | 2:51 |
+| 40 | [Shallow](https://open.spotify.com/track/19pOWdI17nYv5WidFpNzOS) | [Francesca Sanchez](https://open.spotify.com/artist/6oOwFwJ5HylL5In2mQ5lMw) | [Shallow](https://open.spotify.com/album/1Tqj8mhmcaklLMTxvbWzMP) | 3:54 |
+| 41 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 |
+| 42 | [Baa Baa Black Sheep](https://open.spotify.com/track/2YPzs7MqwyDeV5koISgp5i) | [Rosemary Lauter](https://open.spotify.com/artist/4Omowtg1gZ1ziXFl4rHQU1) | [Five Little Monkeys](https://open.spotify.com/album/4ijvU9elNltEYZ2xPhEgkP) | 1:46 |
+| 43 | [Wings To Fly](https://open.spotify.com/track/6TQz8WoqWFtvFtDEdtFzwo) | [Josef Bel Habib](https://open.spotify.com/artist/6ZISq2vN9lwN6RZQ4kqcRI) | [Near And Far](https://open.spotify.com/album/5KGtQ9I19PwuTk9C2Fbsve) | 2:11 |
+| 44 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 |
 
-Snapshot ID: `MCwwODU0Yzc1ZjVjZjJmNGUzNzY3OGE0MzUwZGU1MTMzOTdlYTU5NzE2`
+Snapshot ID: `MCxlMDgzNzZlZWU3MGQwNmM2NzlkYTdjNTc0YzY3NWEzZTdjZTAzNDNk`

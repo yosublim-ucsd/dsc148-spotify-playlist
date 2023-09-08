@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Uyara Torrente
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,047 likes - 69 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,054 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 68 | [A Curtinha](https://open.spotify.com/track/1OshPZA6SSa3QsfRbKSz8l) | [gueersh](https://open.spotify.com/artist/0CNIp7Bq0rB2qgpzZgVUC3) | [Tempo Elástico](https://open.spotify.com/album/3Rz96Hv5APcqv6xBxyB1qr) | 2:47 |
 | 69 | [Sensível](https://open.spotify.com/track/186od6oy358cSNu00HrQp9) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Sensível](https://open.spotify.com/album/6yf7vHJPUJe9R8HSvuZaQb) | 2:38 |
 
-Snapshot ID: `MCxhODYxYTQzMWM5NTRlYjIxNTljYTFhNWNhYjgxMjkxMmM2ODNiYzIy`
+Snapshot ID: `MCw1ZTk2MjFjNGIwNGU5MTQ3MTczMTI3OTUxNDZiYTdmZTgwMGIzYTQ3`

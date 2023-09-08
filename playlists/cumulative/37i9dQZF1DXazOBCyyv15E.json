@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Slowdive",
+  "description": "The home of the best new alternative music. Cover: Marika Hackman",
   "name": "The Other List",
   "tracks": [
     {
@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Alligator",
+        "url": "https://open.spotify.com/album/2XXEJZqcwdc9iZLLmOPJPc"
+      },
+      "artists": [
+        {
+          "name": "Gia Ford",
+          "url": "https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190574,
+      "name": "Alligator",
+      "url": "https://open.spotify.com/track/611w5RH6Et8D5hrSqxxib7"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn"
       },
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 188006,
       "name": "BAMBI",
       "url": "https://open.spotify.com/track/7jWynvxc10e9pGdGmxwz7z"
@@ -6467,6 +6485,24 @@
     },
     {
       "album": {
+        "name": "MRI",
+        "url": "https://open.spotify.com/album/53aVxQ9unMu8McmLdqqkjU"
+      },
+      "artists": [
+        {
+          "name": "VC Pines",
+          "url": "https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200763,
+      "name": "Damn Different",
+      "url": "https://open.spotify.com/track/1EoLHDaJ5L4TWHpHloVqKq"
+    },
+    {
+      "album": {
         "name": "Dance on the Rain",
         "url": "https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ"
       },
@@ -6734,7 +6770,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 264854,
       "name": "dazies",
       "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
@@ -8291,6 +8327,24 @@
     },
     {
       "album": {
+        "name": "Economies of Scale",
+        "url": "https://open.spotify.com/album/3v1BKgIhAcr9XXO8G41D9i"
+      },
+      "artists": [
+        {
+          "name": "Steven Wilson",
+          "url": "https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258122,
+      "name": "Economies of Scale",
+      "url": "https://open.spotify.com/track/3UEQhGwwkEsQ2odaYpx4YU"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/3lYWdLv0o8MIA7cWt4WsE4"
       },
@@ -9014,7 +9068,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 169194,
       "name": "fantasise",
       "url": "https://open.spotify.com/track/3sGdim1cukRO7bEkkAsaAc"
@@ -9498,7 +9552,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 196573,
       "name": "Flicker On!",
       "url": "https://open.spotify.com/track/7yXmm1fVjzlgNB6JHs1hKu"
@@ -10794,7 +10848,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 168798,
       "name": "Girl Supreme",
       "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
@@ -11734,6 +11788,24 @@
       "duration_ms": 189613,
       "name": "Guilty Party",
       "url": "https://open.spotify.com/track/271TuAeVVZTEsuPolRE9eM"
+    },
+    {
+      "album": {
+        "name": "Gymnop\u00e9die",
+        "url": "https://open.spotify.com/album/1Vw6ZphBEFFsc9vn9hVK7o"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230280,
+      "name": "Gymnop\u00e9die",
+      "url": "https://open.spotify.com/track/4BSWSxDnXwDwWX0mOpBa4h"
     },
     {
       "album": {
@@ -14671,6 +14743,24 @@
     },
     {
       "album": {
+        "name": "It's Not Doing Me Any Good",
+        "url": "https://open.spotify.com/album/6aWIkalBlrpb0gGk1KzHxL"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "It's Not Doing Me Any Good",
+      "url": "https://open.spotify.com/track/2o2xIJCMSbZI0JViuUY9QX"
+    },
+    {
+      "album": {
         "name": "It's Not Just Me, It's Everybody",
         "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
       },
@@ -14932,7 +15022,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 87827,
       "name": "Journey To The Real World (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5xQjhPfF0J455duKo2Bv9w"
@@ -16258,6 +16348,24 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
+    },
+    {
+      "album": {
+        "name": "LOCK IT IN (NO REGRETS)",
+        "url": "https://open.spotify.com/album/2YjanTSCMfO1bN4w7UrOjw"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216225,
+      "name": "LOCK IT IN (NO REGRETS)",
+      "url": "https://open.spotify.com/track/7rblMBHhC3L9fW4eyGbsHk"
     },
     {
       "album": {
@@ -19160,6 +19268,24 @@
       "duration_ms": 185379,
       "name": "No Bad Days",
       "url": "https://open.spotify.com/track/4NM72r7orR4QPkgox7astH"
+    },
+    {
+      "album": {
+        "name": "No Caffeine",
+        "url": "https://open.spotify.com/album/37fWX21foAwqgvhdFvm3KX"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "No Caffeine",
+      "url": "https://open.spotify.com/track/4if3aJ01ZXMajhwZctU06a"
     },
     {
       "album": {
@@ -23219,6 +23345,24 @@
     },
     {
       "album": {
+        "name": "Colourpicker",
+        "url": "https://open.spotify.com/album/7EydwuYCg1R0gi6I5NBu0s"
+      },
+      "artists": [
+        {
+          "name": "Trout",
+          "url": "https://open.spotify.com/artist/3BD5fdisJXK0AXZALy8Nqy"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167823,
+      "name": "sad sad sad sad sad",
+      "url": "https://open.spotify.com/track/1aL4SOGj41OIe1DgDNHz5N"
+    },
+    {
+      "album": {
         "name": "sad song 77",
         "url": "https://open.spotify.com/album/6DN6PbET9DPQnnzVhNKjFA"
       },
@@ -24725,6 +24869,24 @@
     },
     {
       "album": {
+        "name": "Stoned & Supremely Confident",
+        "url": "https://open.spotify.com/album/5hC7UUpENCghmAkbwUdFHa"
+      },
+      "artists": [
+        {
+          "name": "Childe",
+          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202643,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/0x9mnNWiisEuJjVX37tQJl"
+    },
+    {
+      "album": {
         "name": "Smoke And Fire",
         "url": "https://open.spotify.com/album/3spa4GdH5GBOmEId6gOOWm"
       },
@@ -25518,7 +25680,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 289962,
       "name": "Spirit 2.0",
       "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
@@ -26608,7 +26770,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 235124,
       "name": "SUPERMAN",
       "url": "https://open.spotify.com/track/0r4gTunkGihM0dmlhcm93g"
@@ -31268,7 +31430,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 359693,
       "name": "Why Am I Alive Now?",
       "url": "https://open.spotify.com/track/3LXPHqasQMrVfOfHDHJWTN"

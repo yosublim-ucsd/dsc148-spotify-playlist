@@ -4,7 +4,7 @@
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-34 songs - 2 hr 10 min
+36 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [Don't Cry](https://open.spotify.com/track/5X107YxNbBbQBn6ofr7OPR) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Ally Ahern](https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM) | [Don't Cry](https://open.spotify.com/album/5fP4Ys7OD25Tn0fKmGXFbV) | 3:11 | 2023-06-05 |  |
 | [Eleanor](https://open.spotify.com/track/4FGIHe2zLB3Y43mPybYdDa) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 5:09 | 2023-06-05 |  |
 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 | 2023-06-05 |  |
-| [Everything Is Possible](https://open.spotify.com/track/7ochZrmegW0e3z8Qi3YezJ) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Everything Is Possible](https://open.spotify.com/album/1ltvtcDxdR5Ehzl7UVQoJB) | 5:15 | 2023-06-05 |  |
+| [Everything Is Possible](https://open.spotify.com/track/6NjyrF2M0T9HY3HvbS38Wp) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [King](https://open.spotify.com/album/4ueUL0q3kZV7huV9hHJp9W) | 5:15 | 2023-06-05 |  |
+| [Everything Is Possible](https://open.spotify.com/track/7ochZrmegW0e3z8Qi3YezJ) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Everything Is Possible](https://open.spotify.com/album/1ltvtcDxdR5Ehzl7UVQoJB) | 5:15 | 2023-06-05 | 2023-09-08 |
 | [FORFEIT](https://open.spotify.com/track/540ikgaUcx6N1SNX5JfqId) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [FORFEIT](https://open.spotify.com/album/2BXeD1kVZRzkXn563w7vd5) | 2:50 | 2023-06-05 |  |
-| [Freefall](https://open.spotify.com/track/0j8FwkrQI4y15CEaO9CzeA) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Freefall](https://open.spotify.com/album/6u7ORvdJdUwg9VTvAy3gtX) | 3:44 | 2023-06-05 |  |
+| [Freefall](https://open.spotify.com/track/0j8FwkrQI4y15CEaO9CzeA) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Freefall](https://open.spotify.com/album/6u7ORvdJdUwg9VTvAy3gtX) | 3:44 | 2023-06-05 | 2023-09-08 |
+| [Freefall](https://open.spotify.com/track/335TidS5KZQjXfWkOZ6W4a) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [500](https://open.spotify.com/album/0kV6vns2tdbfSXgq3woZUy) | 3:44 | 2023-06-05 |  |
 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 | 2023-06-05 |  |
 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 | 2023-06-05 |  |
 | [If You Like That](https://open.spotify.com/track/39u52p0pgk76Ukq3e0c815) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [If You Like That](https://open.spotify.com/album/7s5tZT1opeQmfuy5s9XZhm) | 4:34 | 2023-06-05 |  |

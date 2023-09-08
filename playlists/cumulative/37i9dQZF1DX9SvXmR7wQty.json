@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 112941,
       "name": "Alg\u00e9rien F\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
@@ -29314,6 +29314,24 @@
       "duration_ms": 143048,
       "name": "PSO BOP",
       "url": "https://open.spotify.com/track/3baDxVQRIRuhMTMb6nKJbf"
+    },
+    {
+      "album": {
+        "name": "C\u0153ur parapluie",
+        "url": "https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "Puis t'as dans\u00e9 avec moi",
+      "url": "https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx"
     },
     {
       "album": {

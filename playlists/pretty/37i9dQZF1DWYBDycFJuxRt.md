@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: OZworld \*👉 <a href="https://spice.eplus.jp/articles/321818?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,850 likes - 79 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,893 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,22 +70,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 60 | [eye contact](https://open.spotify.com/track/3qadA9lJEwxI1dnPJhylhz) | [toketadenkyu](https://open.spotify.com/artist/2GgcdKh8581r5VoVT7guML) | [eye contact](https://open.spotify.com/album/1DF2DTrdYIY5IWslLXuSUD) | 4:38 |
 | 61 | [まってる](https://open.spotify.com/track/0eBYJWoAeeuxNS9omXcoM9) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [トコシエスタ](https://open.spotify.com/album/70o46gZyB0vo5EZAwo2OV3) | 3:02 |
 | 62 | [メモリーちゃん](https://open.spotify.com/track/2b8r3wa4OQLaPfExue0BMz) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [メモリーちゃん](https://open.spotify.com/album/7hWey2FkbnocGUpGrT8AcE) | 4:05 |
-| 63 | [Bite Me \- Japanese Ver.](https://open.spotify.com/track/0INxaaPlo9DnT0OYEzHdsk) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [結 \-YOU\-](https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r) | 2:38 |
-| 64 | [LION](https://open.spotify.com/track/1apSVqNYcqLp7q7mqfpyuv) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [LION](https://open.spotify.com/album/0bpAgQSadkh9F7Biymw5Ik) | 3:06 |
-| 65 | [Andromeda](https://open.spotify.com/track/6LQI7H51W81iihxDcNRawm) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns), [アイナ・ジ・エンド](https://open.spotify.com/artist/0NubhIcbRGPNQCp3onpG42) | [Andromeda](https://open.spotify.com/album/1IKxkq05NRvtc990dCPpxl) | 5:40 |
-| 66 | [40](https://open.spotify.com/track/4Sop4yqn7A2Q1DAZYE5XuJ) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [40](https://open.spotify.com/album/62doEk0Rtv2vIpEa8iT5h6) | 3:45 |
-| 67 | [TAKUSHIITO YUBIWATO RESUTORAN](https://open.spotify.com/track/7p8EnOqKv03jJB9eQNigyW) | [Lil' Goldwell](https://open.spotify.com/artist/3VxbMyJj6VQh5YI5jGRpf0) | [THE TAXI, THE RING AND THE RESTAURANT](https://open.spotify.com/album/6rWW35Cr2UeBPVue1XOIZF) | 4:48 |
-| 68 | [作り笑いをさせないで](https://open.spotify.com/track/7Fc0jqbfxfqShL7zq4HxSu) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [作り笑いをさせないで](https://open.spotify.com/album/5nFYLgQA824iztGGGGc4I4) | 4:14 |
-| 69 | [雨のシュプール](https://open.spotify.com/track/1OtHmvvdRpPo03fRDanMSb) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [雨のシュプール](https://open.spotify.com/album/0WVIBJPBRw0MjGXSdLqyVi) | 4:16 |
-| 70 | [magic journey](https://open.spotify.com/track/5oCkzlqCyxgLyIVxuI9xl2) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [magic journey](https://open.spotify.com/album/6dVpUHScn5FVA77pziO3Pq) | 4:03 |
-| 71 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |
-| 72 | [SUTEKI](https://open.spotify.com/track/7ukJqd6fmFIPckkIilunXy) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [SUTEKI](https://open.spotify.com/album/4jr9rEDlBFhKjRq7MeJXQr) | 3:17 |
-| 73 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 |
-| 74 | [ナイトミスティパーク \- feat\. Kanna Sato](https://open.spotify.com/track/6NKVkUE6NslKKkWXPTmxNc) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM), [Kanna Sato](https://open.spotify.com/artist/33faWWzPH47L5wBC2mgh6A) | [ナイトミスティパーク \(feat\. Kanna Sato\)](https://open.spotify.com/album/3WoCl4i4YZNjCCinEbuarE) | 3:44 |
-| 75 | [Eye of the hurricane](https://open.spotify.com/track/6KPVwLMVSWwhxFvJDzMOlJ) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [First Contact](https://open.spotify.com/album/4oulWpNWnKMKAbXRZMtnyi) | 5:19 |
-| 76 | [Holy Mountain](https://open.spotify.com/track/69iInIA8yAG1ifnyHjP73c) | [木\(KI\)](https://open.spotify.com/artist/3tudb25wfMnZH5fbEFEpn6) | [Wa](https://open.spotify.com/album/6FXoIebBQ3riOEOaqC3teT) | 3:54 |
-| 77 | [Bow!Kiss!Begin!](https://open.spotify.com/track/2pBp8CZYnee9wwTIJhLmK0) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day](https://open.spotify.com/album/02GGoIF7iW3bLTi6f9G2qF) | 2:38 |
-| 78 | [本能Dance](https://open.spotify.com/track/0o9bXdLnBNSe0qTSsMyLqZ) | [THE NUGGETS](https://open.spotify.com/artist/0fOhZsgOFCjPpNVKAaO7EC) | [ODD](https://open.spotify.com/album/0bkNANJdWqwvKgQZ9Mku3U) | 3:31 |
-| 79 | [筐体](https://open.spotify.com/track/2ZYSOvpbZ0h8mCc3ofk45K) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [筐体](https://open.spotify.com/album/2CjnCJMG1gaOdFqPDwO6oG) | 2:37 |
+| 63 | [Memory](https://open.spotify.com/track/5yNEp4E4ZFljj3RIVgxZxh) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Memory](https://open.spotify.com/album/6arL1z6JW10H9T40CsE2mM) | 5:02 |
+| 64 | [Bite Me \- Japanese Ver.](https://open.spotify.com/track/0INxaaPlo9DnT0OYEzHdsk) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [結 \-YOU\-](https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r) | 2:38 |
+| 65 | [LION](https://open.spotify.com/track/1apSVqNYcqLp7q7mqfpyuv) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [LION](https://open.spotify.com/album/0bpAgQSadkh9F7Biymw5Ik) | 3:06 |
+| 66 | [Andromeda](https://open.spotify.com/track/6LQI7H51W81iihxDcNRawm) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Andromeda](https://open.spotify.com/album/1IKxkq05NRvtc990dCPpxl) | 5:40 |
+| 67 | [40](https://open.spotify.com/track/4Sop4yqn7A2Q1DAZYE5XuJ) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [40](https://open.spotify.com/album/62doEk0Rtv2vIpEa8iT5h6) | 3:45 |
+| 68 | [TAKUSHIITO YUBIWATO RESUTORAN](https://open.spotify.com/track/7p8EnOqKv03jJB9eQNigyW) | [Lil' Goldwell](https://open.spotify.com/artist/3VxbMyJj6VQh5YI5jGRpf0) | [THE TAXI, THE RING AND THE RESTAURANT](https://open.spotify.com/album/6rWW35Cr2UeBPVue1XOIZF) | 4:48 |
+| 69 | [作り笑いをさせないで](https://open.spotify.com/track/7Fc0jqbfxfqShL7zq4HxSu) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [作り笑いをさせないで](https://open.spotify.com/album/5nFYLgQA824iztGGGGc4I4) | 4:14 |
+| 70 | [雨のシュプール](https://open.spotify.com/track/1OtHmvvdRpPo03fRDanMSb) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [雨のシュプール](https://open.spotify.com/album/0WVIBJPBRw0MjGXSdLqyVi) | 4:16 |
+| 71 | [magic journey](https://open.spotify.com/track/5oCkzlqCyxgLyIVxuI9xl2) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [magic journey](https://open.spotify.com/album/6dVpUHScn5FVA77pziO3Pq) | 4:03 |
+| 72 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |
+| 73 | [SUTEKI](https://open.spotify.com/track/7ukJqd6fmFIPckkIilunXy) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [SUTEKI](https://open.spotify.com/album/4jr9rEDlBFhKjRq7MeJXQr) | 3:17 |
+| 74 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 |
+| 75 | [ナイトミスティパーク \- feat\. Kanna Sato](https://open.spotify.com/track/6NKVkUE6NslKKkWXPTmxNc) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM), [Kanna Sato](https://open.spotify.com/artist/33faWWzPH47L5wBC2mgh6A) | [ナイトミスティパーク \(feat\. Kanna Sato\)](https://open.spotify.com/album/3WoCl4i4YZNjCCinEbuarE) | 3:44 |
+| 76 | [Eye of the hurricane](https://open.spotify.com/track/6KPVwLMVSWwhxFvJDzMOlJ) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [First Contact](https://open.spotify.com/album/4oulWpNWnKMKAbXRZMtnyi) | 5:19 |
+| 77 | [Holy Mountain](https://open.spotify.com/track/69iInIA8yAG1ifnyHjP73c) | [木\(KI\)](https://open.spotify.com/artist/3tudb25wfMnZH5fbEFEpn6) | [Wa](https://open.spotify.com/album/6FXoIebBQ3riOEOaqC3teT) | 3:54 |
+| 78 | [Bow!Kiss!Begin!](https://open.spotify.com/track/2pBp8CZYnee9wwTIJhLmK0) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day](https://open.spotify.com/album/02GGoIF7iW3bLTi6f9G2qF) | 2:38 |
+| 79 | [本能Dance](https://open.spotify.com/track/0o9bXdLnBNSe0qTSsMyLqZ) | [THE NUGGETS](https://open.spotify.com/artist/0fOhZsgOFCjPpNVKAaO7EC) | [ODD](https://open.spotify.com/album/0bkNANJdWqwvKgQZ9Mku3U) | 3:31 |
+| 80 | [筐体](https://open.spotify.com/track/2ZYSOvpbZ0h8mCc3ofk45K) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [筐体](https://open.spotify.com/album/2CjnCJMG1gaOdFqPDwO6oG) | 2:37 |
 
-Snapshot ID: `MCw0YzBlMGM3YmY1NjU2YzM0ODI0NTAzNzAxY2FjYmIyYzdkYzc2YjQ0`
+Snapshot ID: `MCw3ODI5YjE2NmMzMTYwNjdhYjRlZjE0MmZhZGNhNWE4OWM2NzgwYmRm`

@@ -1841,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Channel Z",
+        "url": "https://open.spotify.com/album/7uR57HXlzykbHKPpETyXDg"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "Channel Z",
+      "url": "https://open.spotify.com/track/2ojGxz1MKMnxSnu9DB8E9d"
+    },
+    {
+      "album": {
         "name": "Youth Is Wasted on the Young",
         "url": "https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa"
       },
@@ -1990,7 +2012,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 185289,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2ZvrOLL0os1z3AtDNh6gZi"
@@ -4452,6 +4474,24 @@
       "duration_ms": 361960,
       "name": "Heather Park",
       "url": "https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd"
+    },
+    {
+      "album": {
+        "name": "Heaven EP",
+        "url": "https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200718,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju"
     },
     {
       "album": {
@@ -7820,7 +7860,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 257419,
       "name": "On The Line - Estiva Club Mix",
       "url": "https://open.spotify.com/track/1mmvNvYV7JWOn6x0jbcIda"
@@ -10191,6 +10231,32 @@
     },
     {
       "album": {
+        "name": "Stay Awhile (Fideles Remix)",
+        "url": "https://open.spotify.com/album/3f47I7yy6ylqKEXrcABqve"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/4uP4vivePKuE0D3bhWqv5l"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364332,
+      "name": "Stay Awhile - Fideles Remix",
+      "url": "https://open.spotify.com/track/60kRT1B2d1Yz1SxCXoBOHH"
+    },
+    {
+      "album": {
         "name": "Protocol EP",
         "url": "https://open.spotify.com/album/3fMDN2edFXC0wlSQSdo09J"
       },
@@ -11284,7 +11350,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 369836,
       "name": "There Beside",
       "url": "https://open.spotify.com/track/3RxBSdIJoJ8hFg6IsSTfTv"
@@ -11306,7 +11372,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 425410,
       "name": "Think Different",
       "url": "https://open.spotify.com/track/1P16sWz5ye5dOIAwFii1tr"
@@ -11860,6 +11926,32 @@
       "duration_ms": 222717,
       "name": "Tribute To Orange Clouds",
       "url": "https://open.spotify.com/track/5joBjODoRwhq4Y9HbnFuhw"
+    },
+    {
+      "album": {
+        "name": "Tripchain / Scanalatura",
+        "url": "https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el"
+      },
+      "artists": [
+        {
+          "name": "John Digweed",
+          "url": "https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W"
+        },
+        {
+          "name": "Nick Muir",
+          "url": "https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405500,
+      "name": "Tripchain",
+      "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
     },
     {
       "album": {

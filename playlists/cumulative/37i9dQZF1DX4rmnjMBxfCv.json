@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Al-Furat",
+        "url": "https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        },
+        {
+          "name": "Metatext",
+          "url": "https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234217,
+      "name": "Al-Furat",
+      "url": "https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx"
+    },
+    {
+      "album": {
         "name": "FIRAQ",
         "url": "https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV"
       },

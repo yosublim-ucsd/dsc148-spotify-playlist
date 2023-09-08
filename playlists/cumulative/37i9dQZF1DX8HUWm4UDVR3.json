@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ana\u00efs MVA",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 214586,
       "name": "4X",
       "url": "https://open.spotify.com/track/6iHOulbi3AwYe9Wgy8eCMf"
+    },
+    {
+      "album": {
+        "name": "8h sonne",
+        "url": "https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188880,
+      "name": "8h sonne",
+      "url": "https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF"
     },
     {
       "album": {
@@ -111,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Baiser Amer",
+        "url": "https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK"
+      },
+      "artists": [
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157192,
+      "name": "Baiser Amer",
+      "url": "https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ"
+    },
+    {
+      "album": {
         "name": "J'vais bien",
         "url": "https://open.spotify.com/album/1zOhEkxGnRvaESmUxpcucl"
       },
@@ -158,7 +194,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 202121,
       "name": "Des Tr\u00e9sors",
       "url": "https://open.spotify.com/track/3La4lre4zcgSmP8ZtSZWAL"
@@ -212,7 +248,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 197520,
       "name": "Etoile noire",
       "url": "https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls"
@@ -367,6 +403,24 @@
     },
     {
       "album": {
+        "name": "LOVE'n'TENDRESSE",
+        "url": "https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "LOVE'n'TENDRESSE",
+      "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+    },
+    {
+      "album": {
         "name": "Ma vie",
         "url": "https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC"
       },
@@ -461,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Oublier",
+        "url": "https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183776,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43"
+    },
+    {
+      "album": {
         "name": "Particuli\u00e8re",
         "url": "https://open.spotify.com/album/56GnbazzHQ5v2V4ZRwSloh"
       },
@@ -472,7 +544,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 168930,
       "name": "Particuli\u00e8re",
       "url": "https://open.spotify.com/track/08JcUKpP6YqbYuSZxBHz7R"
@@ -696,7 +768,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 189561,
       "name": "R\u00eave",
       "url": "https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh"
@@ -739,6 +811,24 @@
     },
     {
       "album": {
+        "name": "SPQ",
+        "url": "https://open.spotify.com/album/4pvMSdpkZtn8diJEwiLigi"
+      },
+      "artists": [
+        {
+          "name": "Manwarp",
+          "url": "https://open.spotify.com/artist/54YtaiyvjFdsEu7iVGL7r3"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184119,
+      "name": "SPQ",
+      "url": "https://open.spotify.com/track/56LuwIO3bDdZNjbMIcbVGL"
+    },
+    {
+      "album": {
         "name": "Tirer la nuit sur les \u00e9toiles (Yan Wagner Remix)",
         "url": "https://open.spotify.com/album/0Je8ec42W3n68qOlKAZtEh"
       },
@@ -758,7 +848,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 198160,
       "name": "Tirer la nuit sur les \u00e9toiles - Yan Wagner Radio Remix",
       "url": "https://open.spotify.com/track/7bY9boNbEOBFACQicbgyvF"
@@ -812,10 +902,28 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 152005,
       "name": "Trop bonnes",
       "url": "https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X"
+    },
+    {
+      "album": {
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP"
+      },
+      "artists": [
+        {
+          "name": "Tessa Galli",
+          "url": "https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH"
     },
     {
       "album": {

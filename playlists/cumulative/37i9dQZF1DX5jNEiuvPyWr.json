@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Oboy",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : GR OMEGA",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 160171,
       "name": "7DUMATIN",
       "url": "https://open.spotify.com/track/7FUj9qDOg4ak69PUih6QiA"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 146181,
       "name": "Bilan",
       "url": "https://open.spotify.com/track/4LX12WH82yNq6q6G6MIcmu"
@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Coeur noir",
+        "url": "https://open.spotify.com/album/6lEke0YNvODr0AnGDvmnmR"
+      },
+      "artists": [
+        {
+          "name": "Mecra Officiel",
+          "url": "https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Coeur noir",
+      "url": "https://open.spotify.com/track/1sbo7jQxRWdRgtCOgC56zY"
+    },
+    {
+      "album": {
         "name": "Comme \u00e7a",
         "url": "https://open.spotify.com/album/7GJ0cZpKrkJe8Kv52V2ur9"
       },
@@ -1202,6 +1220,24 @@
       "duration_ms": 223636,
       "name": "Dans le sang",
       "url": "https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv"
+    },
+    {
+      "album": {
+        "name": "DEHORS ENCORE",
+        "url": "https://open.spotify.com/album/4CeJxEXiwDSwumhsHDeK8O"
+      },
+      "artists": [
+        {
+          "name": "Magnar",
+          "url": "https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118899,
+      "name": "DEHORS ENCORE",
+      "url": "https://open.spotify.com/track/40pUBt8WFhqUQKshH3a8zi"
     },
     {
       "album": {
@@ -2041,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/2Nfsw4UTBPhXl7iPkqQRlJ"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140658,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/0OiIPkNx4U8iwGflifS1Hi"
+    },
+    {
+      "album": {
         "name": "Ice",
         "url": "https://open.spotify.com/album/3944ZTzAv3KanHuif2iIwc"
       },
@@ -2291,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "JOUR DE PLUIE",
+        "url": "https://open.spotify.com/album/2yWX4MlBDNXu3xtscHFi3O"
+      },
+      "artists": [
+        {
+          "name": "Golgoth",
+          "url": "https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167502,
+      "name": "JOUR DE PLUIE",
+      "url": "https://open.spotify.com/track/6nxLFvMeQySR4wKFPRh1tC"
+    },
+    {
+      "album": {
         "name": "ERRR",
         "url": "https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7"
       },
@@ -2446,7 +2518,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 164651,
       "name": "LAISSE",
       "url": "https://open.spotify.com/track/71ZFzJ4Hc1OSnIZZ2tsX50"
@@ -4374,7 +4446,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 211595,
       "name": "Sommeil",
       "url": "https://open.spotify.com/track/6eVVipPZh3JEKvlEQYFznu"

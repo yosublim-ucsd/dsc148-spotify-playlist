@@ -6112,7 +6112,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 181013,
       "name": "Hate Rodrigo (Feat. YUQI)",
       "url": "https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9"
@@ -7977,6 +7977,24 @@
     },
     {
       "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/1hoTXn3AIaMB4SWG4wL0mn"
+      },
+      "artists": [
+        {
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/1DcgCdbq9EFIbCHRDrcWLu"
+    },
+    {
+      "album": {
         "name": "Fairy forest : Bravery",
         "url": "https://open.spotify.com/album/4W3aVIWMoOWqtslubCeeUA"
       },
@@ -9606,6 +9624,24 @@
       "duration_ms": 213680,
       "name": "My Turn",
       "url": "https://open.spotify.com/track/3uO9uv6y5eAJrkQzkHqVnM"
+    },
+    {
+      "album": {
+        "name": "N.Y.C.T - NCT LAB",
+        "url": "https://open.spotify.com/album/5pa2JvvpufiC2IlKUgbjZQ"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "N.Y.C.T",
+      "url": "https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ"
     },
     {
       "album": {
@@ -13438,7 +13474,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 200493,
       "name": "Summer Comes",
       "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"

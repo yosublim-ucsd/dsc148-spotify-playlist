@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,468 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,603 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 40 | [Diary Of A Masochist](https://open.spotify.com/track/1WvNXN1ctrGptr5vd9wHKO) | [The Requiem](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Diary Of A Masochist / I'll Be Late For My Funeral](https://open.spotify.com/album/78KQ6bkEiQQObKd5moVdBN) | 3:11 |
 | 41 | [Sweet Taste](https://open.spotify.com/track/3kPK0OBCCzH0y2xYcf2qeA) | [smol fish](https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v) | [Crocodile Tears](https://open.spotify.com/album/0sSh6RUhUl11G0yh5fKJ3x) | 2:24 |
 | 42 | [Need Some Time](https://open.spotify.com/track/0WC3dKrnnOUIdpDCjyWImB) | [The Blood Republic](https://open.spotify.com/artist/2CeLNpnZMuiGKpVPX34BzH) | [Need Some Time](https://open.spotify.com/album/3m6thYfNLOKHk3sj7TA0q0) | 4:21 |
-| 43 | [Please & Cheat](https://open.spotify.com/track/7LvaolO88Pd7LLhMoxLWTQ) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Please & Cheat](https://open.spotify.com/album/5PvDD7Cz5rvXdFz40npSyp) | 3:56 |
+| 43 | [Please And Cheat](https://open.spotify.com/track/7LvaolO88Pd7LLhMoxLWTQ) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Please And Cheat](https://open.spotify.com/album/5PvDD7Cz5rvXdFz40npSyp) | 3:56 |
 | 44 | [Dead Inside](https://open.spotify.com/track/1qjXXTfSyBp9zj7QaKRb49) | [Block of Flats](https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4) | [Dead Inside](https://open.spotify.com/album/6EfVFK0eK8Z9DY0AtaTlKw) | 2:59 |
 | 45 | [Burden](https://open.spotify.com/track/17JBaKcILsLf5uSVMU7CXZ) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Burden](https://open.spotify.com/album/1tSCIsiQV1aQo85Zbb5MdK) | 4:27 |
 | 46 | [Feel Good](https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7) | [Nature Trip](https://open.spotify.com/artist/6pgJjdomiwN8ryoe9Ukqgg) | [Feel Good](https://open.spotify.com/album/14lddxFbU85X0qQCReRlW5) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Axolotl](https://open.spotify.com/track/3UerR0AnFQmTfNb4vBBvH1) | [Duck Teeth](https://open.spotify.com/artist/1KXOSjn2hwqTNSHf6qNV4Y) | [Jump The Shark](https://open.spotify.com/album/66EzIP1WCbhbtPt3x1W2YI) | 3:13 |
 | 50 | [What's Wrong With Me](https://open.spotify.com/track/4dHwcAWP1v64KaguYQ1fsc) | [Spin Twice](https://open.spotify.com/artist/4EIIaGs9qalNWfNNt1lo8d) | [Gravity](https://open.spotify.com/album/1uSQX0L4eOveqyskx0Sxf1) | 3:43 |
 
-Snapshot ID: `MCwwODc2MzIxMjQwNDZkNmY2YzQ2ZTI2MzQzNjFjMmU4NWVhYjBmNTg3`
+Snapshot ID: `MCxmZDFmNGYwNDE2MGMzNmMzNDY1OTVhODVjN2Q1NGI5YjRhMTQ5NzQ1`

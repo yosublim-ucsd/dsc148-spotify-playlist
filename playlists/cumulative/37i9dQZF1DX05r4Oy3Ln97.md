@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-276 songs - 14 hr 15 min
+277 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Nanana!](https://open.spotify.com/track/38oMTlrjQtVexRPEGDzcgd) | [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ) | [Nanana!](https://open.spotify.com/album/56cw2xCvU4kgA5CJQs5AE0) | 2:42 | 2023-05-12 | 2023-05-27 |
 | [Never Ever](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz) | [Robert Burian](https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg) | [Never Ever](https://open.spotify.com/album/19mWO6N3Aho1cJe5P29oBQ) | 3:40 | 2023-01-24 | 2023-03-11 |
 | [Never Going Home](https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 2:49 | 2022-03-25 | 2023-09-01 |
+| [Never Going Home](https://open.spotify.com/track/6ju5Ntn5pYksvkKxVkjEPK) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/0LAO0Lz7P7nO3MpRiQZBLL) | 2:49 | 2023-09-01 |  |
 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 | 2022-07-01 |  |
 | [Neverland](https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY) | [No Treasure](https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Neverland](https://open.spotify.com/album/6ILICHcoO9TA12sU0GzsQO) | 2:40 | 2021-10-29 | 2022-03-18 |
 | [Nightingale](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Nightingale](https://open.spotify.com/album/5UpHekXcg2yEn2XMplYVWy) | 3:48 | 2021-10-29 | 2023-03-12 |
@@ -254,7 +255,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/61CmIx1hiRH7VRcNb5cCY8) | [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn), [Vi Anabella Kara](https://open.spotify.com/artist/6UI6PW7WI2jz4SF5xllpgI) | [Thinkin Bout You](https://open.spotify.com/album/3OO0NdnFvAPzcVrJ9aBBF3) | 2:34 | 2021-10-29 | 2022-07-04 |
 | [Thinking Of You](https://open.spotify.com/track/4wKyrBSIvZiNnGKGtAIwXc) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg) | [Thinking Of You](https://open.spotify.com/album/5HtjTfGf1F8wSr1HATgKEF) | 2:32 | 2022-04-08 | 2022-05-21 |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-04-29 | 2022-11-09 |
-| [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-11-24 |  |
+| [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 | 2022-11-24 | 2023-09-08 |
 | [Thunder](https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [LRMEO](https://open.spotify.com/artist/5gTqc3p5WdszJ2AtGElosu) | [Thunder](https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj) | 2:36 | 2023-05-12 |  |
 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 | 2022-01-21 |  |
 | [Title Theme](https://open.spotify.com/track/4g2rGutKnnY43ubOC121U7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Title Theme](https://open.spotify.com/album/53MsfZ6E3jwugaw5JXC8Fi) | 2:36 | 2022-02-28 | 2022-03-04 |

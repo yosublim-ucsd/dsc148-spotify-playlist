@@ -1,12 +1,12 @@
 {
   "description": "Chai, Baarish and some Indie tunes to accompany you!",
-  "num_followers": 94685,
+  "num_followers": 94707,
   "original_name": "Rain On Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDM4YzQ4ZmY3NTgwNWMyZTkzMDVlYzU4MjY2MTI2OTg1NGRkM2U2",
+  "snapshot_id": "MCxmOTU2NTM5NThjMDA4ZmMzYmNlYTE5YzkwMGQ4MzExODQwNjc2MTE2",
   "tracks": [
     {
       "added_at": "2023-08-22 06:54:34",
@@ -1035,6 +1035,78 @@
       "duration_ms": 209952,
       "name": "Tu Bata",
       "url": "https://open.spotify.com/track/4T3vh1KcGAOKewcCj8A1uj"
+    },
+    {
+      "added_at": "2023-08-22 06:54:34",
+      "album": {
+        "name": "Pehli Baarish",
+        "url": "https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Pehli Baarish",
+      "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"
+    },
+    {
+      "added_at": "2023-08-22 06:54:34",
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 210420,
+      "name": "100 words",
+      "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
+    },
+    {
+      "added_at": "2023-08-22 06:54:34",
+      "album": {
+        "name": "Boonda Baandi",
+        "url": "https://open.spotify.com/album/7Kxpe3psy5jJQZwBL0JA3S"
+      },
+      "artists": [
+        {
+          "name": "Meghdeep Bose",
+          "url": "https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        }
+      ],
+      "duration_ms": 262972,
+      "name": "Boonda Baandi",
+      "url": "https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm"
+    },
+    {
+      "added_at": "2023-08-22 06:54:34",
+      "album": {
+        "name": "Baarish Aa Jaave",
+        "url": "https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 158328,
+      "name": "Baarish Aa Jaave",
+      "url": "https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy"
     }
   ],
   "unique_name": "Rain On Indie",

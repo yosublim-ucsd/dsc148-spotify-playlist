@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,216 likes - 126 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,257 likes - 126 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 125 | [\#7](https://open.spotify.com/track/65dEGtv5Yb6WjxBIGdNEXg) | [Volkan Öktem](https://open.spotify.com/artist/2CKKVhnXg0a9sw0DOXmwLK) | [\#7](https://open.spotify.com/album/5g6wIyqWZk0c2YJ4NpHd1a) | 6:15 |
 | 126 | [VHS Fireplace Love \- Live](https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [SmokeFace](https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf), [Gabe Jones](https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP) | [VHS Fireplace Love \(Live\)](https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy) | 2:44 |
 
-Snapshot ID: `MCwyMjRkYjRmNGFiZGRkMjA2Yjg4NDI3OWI5ODQ5MzQ0MjAxYmVjNzZi`
+Snapshot ID: `MCw4ODJhOTdmZmY4YmQ0MDQ3N2U3ODJkODlkNzBiMGRhZDFmZjQ1MTlj`

@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-79 songs - 5 hr 21 min
+80 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Blues latino](https://open.spotify.com/track/1U8gp98p9rXXG9lNHorx0y) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [Blues Latino \(20th Aniversary\)](https://open.spotify.com/album/23v6BF9leDR6lFb2tAZGyJ) | 5:32 | 2020-12-01 |  |
 | [Blues Magic](https://open.spotify.com/track/1izys4V3iMHvjORAlR4s2a) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana IV](https://open.spotify.com/album/7ppcZmolcIO6nCQkYpIxsh) | 4:25 | 2020-12-01 |  |
 | [Blues para Mi Guitarra](https://open.spotify.com/track/0SKdaP9wv1tZW0KYBlrYX2) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 7:09 | 2020-12-01 | 2022-07-29 |
-| [Blues para Mi Guitarra](https://open.spotify.com/track/42JynzhyR1fbyEvSuJHqEE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 7:09 | 2020-12-01 |  |
+| [Blues para Mi Guitarra](https://open.spotify.com/track/42JynzhyR1fbyEvSuJHqEE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 7:09 | 2020-12-01 | 2023-09-08 |
+| [Blues para Mi Guitarra](https://open.spotify.com/track/4xC7IghtB9EUrGvZtvYZfH) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/2nPZv089fAeuincr5IVV2k) | 7:09 | 2020-12-01 |  |
 | [Blues para Mi Guitarra](https://open.spotify.com/track/6dgxc2QWXkPE8l4XzuZ3Kc) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues 71/99](https://open.spotify.com/album/3zB6RrCvfdQ2wOlR1vTCtD) | 7:09 | 2020-12-01 | 2022-11-13 |
 | [Brío](https://open.spotify.com/track/5BoA6gJzAUfa57JQ0WBt4t) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Brío](https://open.spotify.com/album/4JLK7syJQrrezJ2gY8fY4W) | 3:36 | 2020-12-01 |  |
 | [Café Madrid](https://open.spotify.com/track/1HUX0GSZQoc4hqZJ76vokM) | [Mississippi Blues Band](https://open.spotify.com/artist/2LHhyQMZpyAKja3217IhWD) | [Mbugi](https://open.spotify.com/album/5hK2UcaTlooBysUwJjSMhY) | 3:26 | 2020-12-01 |  |

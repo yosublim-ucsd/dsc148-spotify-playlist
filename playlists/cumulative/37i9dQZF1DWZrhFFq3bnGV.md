@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Vira Talisa
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Dewa Budjana
 
-154 songs - 10 hr 57 min
+155 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Ode To Benny Liku](https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/6hgX3x5ONatp8wWMVWVEUn) | 6:20 | 2022-09-02 | 2023-06-09 |
 | [Out For Myself](https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Out For Myself](https://open.spotify.com/album/1FR6iORwa5Pjjpch7cNUQo) | 2:49 | 2022-09-02 |  |
 | [Overthinking](https://open.spotify.com/track/68axzsHTzuRwz7taOKwh3r) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Overthinking](https://open.spotify.com/album/33zlUHkFoO6zWb1sUthe43) | 3:35 | 2022-09-02 | 2023-07-14 |
+| [Padmaskara](https://open.spotify.com/track/5kQpYeaQvEMyCkCv3VUQod) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Padmaskara](https://open.spotify.com/album/7jwpaXb1Aze8GHnIpDHGfW) | 4:05 | 2023-09-07 |  |
 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 | 2022-09-02 | 2023-08-23 |
 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Pengungkapan Hatimu](https://open.spotify.com/album/6SYCwGMPFlhIgFQuiVoGpe) | 3:56 | 2023-08-17 |  |
 | [Perjalanan](https://open.spotify.com/track/2Xzzv1HLYnxLkeGwMeQyC3) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp) | [Perjalanan](https://open.spotify.com/album/12e9PBz29sAkDK3SuBCX3j) | 4:56 | 2023-03-03 | 2023-08-25 |

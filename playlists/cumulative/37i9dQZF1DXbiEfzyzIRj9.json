@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Sofia Kourtesis",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: James Blake",
   "name": "Altar JP",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 343332,
       "name": "Blissda",
       "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
@@ -706,6 +706,24 @@
       "duration_ms": 298574,
       "name": "Block Rockin",
       "url": "https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd"
+    },
+    {
+      "album": {
+        "name": "Blow Out",
+        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216070,
+      "name": "Blow Out",
+      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
     },
     {
       "album": {
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 144479,
       "name": "Dance of the Crab - Edit",
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 241979,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 205704,
       "name": "Hey",
       "url": "https://open.spotify.com/track/0tYDIP8PeQyOWRDlnZvW3Z"
@@ -3078,6 +3096,24 @@
       "duration_ms": 305119,
       "name": "I LOVE YOUR GIRLFRIEND (LONG MIX)",
       "url": "https://open.spotify.com/track/40u17UV8FFMpMnmwR0njiU"
+    },
+    {
+      "album": {
+        "name": "DDC Jams VOL.1 - Released 2020-2023",
+        "url": "https://open.spotify.com/album/684o8y5u0p926Lbyxqw7W2"
+      },
+      "artists": [
+        {
+          "name": "DJ SHIKISAI",
+          "url": "https://open.spotify.com/artist/0rAwXkrIxv0I1dEy9k8qI8"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378470,
+      "name": "I'll Make You Dub",
+      "url": "https://open.spotify.com/track/0aya26MRkhSildFOgwXpHf"
     },
     {
       "album": {
@@ -3446,7 +3482,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 426393,
       "name": "Kanari",
       "url": "https://open.spotify.com/track/6GnZ0gpbHZ8RUK4fKo0qiX"
@@ -3666,7 +3702,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 313669,
       "name": "Lazy Days - Wallace Remix",
       "url": "https://open.spotify.com/track/35WdWgyZaE5vjnafQfcgAs"
@@ -3899,6 +3935,28 @@
     },
     {
       "album": {
+        "name": "Set The Roof",
+        "url": "https://open.spotify.com/album/5QXXTODvdjHMUUTrMvS8lD"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294250,
+      "name": "Long Ago",
+      "url": "https://open.spotify.com/track/3Sv8Txb3DxbalXwe5TlLAq"
+    },
+    {
+      "album": {
         "name": "Lose It All (I Don't Wanna)",
         "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
@@ -3910,7 +3968,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 139071,
       "name": "Lose It All (I Don't Wanna)",
       "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
@@ -3966,6 +4024,28 @@
       "duration_ms": 208080,
       "name": "Lounge (feat. Shurkn Pap x JUBEE)",
       "url": "https://open.spotify.com/track/0wmpd6LUMUXTna4wq8lVBe"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3wd9XQoU36zD1K6xWlRtw5"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5"
     },
     {
       "album": {
@@ -4505,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "Music Life",
+        "url": "https://open.spotify.com/album/1Z0GspxUE7tDnhdU5Vz8qL"
+      },
+      "artists": [
+        {
+          "name": "Kez YM",
+          "url": "https://open.spotify.com/artist/7cNa9Z6p7WnQJK8B22vcsP"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400660,
+      "name": "Music Life",
+      "url": "https://open.spotify.com/track/5A96rBUfMdcFbvpRVvzfMv"
+    },
+    {
+      "album": {
         "name": "Must Be Right",
         "url": "https://open.spotify.com/album/3h21yHcNGfgl3AVX1ZSYT5"
       },
@@ -4938,7 +5036,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC"
@@ -5661,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "She's On My Mind",
+      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
+    },
+    {
+      "album": {
         "name": "Shella Verse",
         "url": "https://open.spotify.com/album/4BitmFpa4h4GaGNvtnsQw3"
       },
@@ -5800,6 +5916,24 @@
       "duration_ms": 341500,
       "name": "Sirena Deep",
       "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
+    },
+    {
+      "album": {
+        "name": "DDC Jams VOL.1 - Released 2020-2023",
+        "url": "https://open.spotify.com/album/684o8y5u0p926Lbyxqw7W2"
+      },
+      "artists": [
+        {
+          "name": "Yukio Nohara",
+          "url": "https://open.spotify.com/artist/1TmlY6IesLUBi6RhLuuOFU"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387460,
+      "name": "Skylarking",
+      "url": "https://open.spotify.com/track/6GEv9R84MAF0xViCmIbv2J"
     },
     {
       "album": {
@@ -6287,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300122,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm"
+    },
+    {
+      "album": {
         "name": "That's Right",
         "url": "https://open.spotify.com/album/4KgNH3vjiuiyJuNXqGMTji"
       },
@@ -6498,7 +6650,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 347941,
       "name": "Time To F..",
       "url": "https://open.spotify.com/track/0MUmOSytZzZWoYcc6j4XZ8"

@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 112662,
+  "num_followers": 112754,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGFiNTNmYWY0YTY1YzMyMGVlMTIxNmUyOThiY2MzNTE3YWI0YjU1",
+  "snapshot_id": "MCwwYWVjNGY1YzRkZmY3YzhhOWJiYmUxNzQ1ODE4YjVlMGIwODlhMDdh",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:53",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "A Sertaneja de Jesus",
-        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "A Sertaneja de Jesus",
-      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
         "name": "Resist\u00eancia",
         "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 167691,
       "name": "Resist\u00eancia",
       "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "A Sertaneja de Jesus",
+        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "A Sertaneja de Jesus",
+      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Joquebede (Remix)",
-        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Israel Santos",
-          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Joquebede - Remix",
-      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Joquebede (Remix)",
+        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Israel Santos",
+          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Joquebede - Remix",
+      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
+        "name": "Pique Rei Davi (Remix)",
+        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "Pique Rei Davi - Remix",
+      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
       },
@@ -915,30 +935,6 @@
       "duration_ms": 133548,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
-        "name": "Dias de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Bruno Jovita",
-          "url": "https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL"
-        }
-      ],
-      "duration_ms": 200476,
-      "name": "Dias de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -967,6 +963,30 @@
       "duration_ms": 165967,
       "name": "Encontrei o Meu Lugar - Remix",
       "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Dias de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Bruno Jovita",
+          "url": "https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL"
+        }
+      ],
+      "duration_ms": 200476,
+      "name": "Dias de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -1035,26 +1055,6 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Igual a Voc\u00ea",
-        "url": "https://open.spotify.com/album/1qgYeL92GjRaQgZRqPAgil"
-      },
-      "artists": [
-        {
-          "name": "Carlinhosdj",
-          "url": "https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre"
-        },
-        {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Igual a Voc\u00ea",
-      "url": "https://open.spotify.com/track/3GJ0yZq2BA3jZ2NoW1QTVE"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -1075,6 +1075,26 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Igual a Voc\u00ea",
+        "url": "https://open.spotify.com/album/1qgYeL92GjRaQgZRqPAgil"
+      },
+      "artists": [
+        {
+          "name": "Carlinhosdj",
+          "url": "https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre"
+        },
+        {
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Igual a Voc\u00ea",
+      "url": "https://open.spotify.com/track/3GJ0yZq2BA3jZ2NoW1QTVE"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -1119,50 +1139,6 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 158789,
-      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
-        "name": "Pique Rei Davi (Remix)",
-        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 113777,
-      "name": "Pique Rei Davi - Remix",
-      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
         "name": "Sobre Todo Nome",
         "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 178663,
       "name": "Balada do Senhor (Slap House Gospel)",
       "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 158789,
+      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -1279,6 +1279,42 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
@@ -1303,66 +1339,6 @@
       "duration_ms": 156093,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
-        "name": "Me Encontrou Remix",
-        "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
-      },
-      "artists": [
-        {
-          "name": "Cleverton Marques",
-          "url": "https://open.spotify.com/artist/7IVkIqTy51csgU0TdHFhey"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Me Encontrou (DJ Vitor Capoia Remix)",
-      "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -1423,6 +1399,30 @@
       "duration_ms": 195615,
       "name": "Marcas - Remix",
       "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Me Encontrou Remix",
+        "url": "https://open.spotify.com/album/0W3OfqzLQ5GIWYFXMZD50p"
+      },
+      "artists": [
+        {
+          "name": "Cleverton Marques",
+          "url": "https://open.spotify.com/artist/7IVkIqTy51csgU0TdHFhey"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Me Encontrou (DJ Vitor Capoia Remix)",
+      "url": "https://open.spotify.com/track/2BZMBpOPJ1537isDKVrfSX"
     },
     {
       "added_at": "2023-09-01 06:00:53",

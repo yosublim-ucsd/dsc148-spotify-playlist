@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy?si=6uLbH5VCQ0SM4OOv75MdGw\">Tyson Sybateli</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=AlPVOAANSamLzpwGn6X3cw\">Cassper Nyovest</a>, <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=R1LeGL67Q7GKMJl0tNIVmg\">Maglera Doe Boy</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -5725,6 +5725,28 @@
     },
     {
       "album": {
+        "name": "7th Letter",
+        "url": "https://open.spotify.com/album/5AoT1Q9hNOiNUpPzAaTuYS"
+      },
+      "artists": [
+        {
+          "name": "Just G",
+          "url": "https://open.spotify.com/artist/1gvbwTngEGhgojhW2imJUV"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193278,
+      "name": "Lauren",
+      "url": "https://open.spotify.com/track/5cm27vHWdskZusgmG3Uk8x"
+    },
+    {
+      "album": {
         "name": "A Pity Party",
         "url": "https://open.spotify.com/album/1WKfM5C56Xlha4DAnn0xB7"
       },
@@ -8359,6 +8381,28 @@
     },
     {
       "album": {
+        "name": "Prosper In Peace",
+        "url": "https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "Prosper In Peace (with Benny The Butcher)",
+      "url": "https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd"
+    },
+    {
+      "album": {
         "name": "Purple Heart Smoke Enough",
         "url": "https://open.spotify.com/album/4yiaycWEfmNGdlbH4odSD0"
       },
@@ -10152,6 +10196,32 @@
       "duration_ms": 232779,
       "name": "Stalling",
       "url": "https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4"
+    },
+    {
+      "album": {
+        "name": "STECKE",
+        "url": "https://open.spotify.com/album/0w87muiZYauvfQXEKNwBMr"
+      },
+      "artists": [
+        {
+          "name": "DJ Kaymoworld",
+          "url": "https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "Caask Asid",
+          "url": "https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204685,
+      "name": "STECKE",
+      "url": "https://open.spotify.com/track/4vrWndPBOnXg6Gx5DpL9eH"
     },
     {
       "album": {
@@ -12774,6 +12844,28 @@
       "duration_ms": 251134,
       "name": "Zamalek",
       "url": "https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6"
+    },
+    {
+      "album": {
+        "name": "Zero One Eight",
+        "url": "https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195492,
+      "name": "Zero One Eight",
+      "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
     },
     {
       "album": {

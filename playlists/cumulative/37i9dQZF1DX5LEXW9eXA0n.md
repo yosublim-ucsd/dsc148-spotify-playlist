@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:HYB\(허용별\)\) \(당신의 감성에 발라드, 려요\)
 
-968 songs - 2 day 14 hr 53 min
+971 songs - 2 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [My sea](https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:16 | 2021-12-20 | 2022-07-08 |
 | [My Story](https://open.spotify.com/track/1bTeHEQVctGDbu2WyT88fR) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [lost \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/40QKzIbSZPC2B7vgjnvSAQ) | 4:13 | 2022-01-25 | 2022-04-14 |
 | [My You, My Star](https://open.spotify.com/track/13WsbTTgosaevWNxZC9ryG) | [Nam Saera](https://open.spotify.com/artist/5U37QbWZ7EvVfD7EGpMC9t) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3o99FUu2LCEaRAQ7qOPZE7) | 3:42 | 2023-01-20 | 2023-03-28 |
+| [My youth](https://open.spotify.com/track/1GZZoTydki5t72adhHXhWy) | [LeeZe](https://open.spotify.com/artist/6sRRCxqgRynrEW5Qc3pZxx) | [My youth](https://open.spotify.com/album/0GEEiwJ0lUgI049OnjHBJB) | 3:11 | 2023-09-07 |  |
 | [Nagging](https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [CYWORLD BGM 2021](https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD) | 4:04 | 2021-12-23 | 2022-04-21 |
 | [Natural Sorrow](https://open.spotify.com/track/5ADgSqZx39JVjG0siBRncL) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [After\. 1st](https://open.spotify.com/album/1zDXYgsyupkTZQj3W9GFQP) | 4:15 | 2022-03-31 | 2022-04-09 |
 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-14 | 2023-08-25 |
@@ -878,6 +879,7 @@
 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 | 2023-06-13 |  |
 | [While The Memory Fall A Sleep](https://open.spotify.com/track/0WwLjYKOdbpSzhFyHfi3F2) | [강승식](https://open.spotify.com/artist/545wFEUgGmJwArSU0zjemI) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6gkzelq3vDZGSNnFDdllkF) | 4:26 | 2022-03-24 | 2022-04-11 |
 | [White Desert](https://open.spotify.com/track/0HV7dTKl8VPOO3NL5BbIZB) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Impasto](https://open.spotify.com/album/4MOc9NJNFjG8c8WB8UVNwN) | 5:08 | 2023-06-13 |  |
+| [White night](https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [White night](https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW) | 3:37 | 2023-09-07 |  |
 | [Who Am I](https://open.spotify.com/track/1ZIHII0gyHHyAqeyltgmwj) | [ROZY](https://open.spotify.com/artist/1uuPnVwyPg5YUqV5JNy0Xl) | [Who Am I](https://open.spotify.com/album/6qpO20n7B2yFAZeqcjy2yn) | 3:07 | 2022-03-24 | 2022-07-07 |
 | [Who You Are](https://open.spotify.com/track/37IQNTuNonHsOkp22bd5uQ) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Moonshine \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4Nht08CVURFZK2u74ST3Ki) | 3:30 | 2022-03-31 | 2022-04-10 |
 | [Why](https://open.spotify.com/track/2oSIQr1TSYNJWf2snALmiC) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [By My Side](https://open.spotify.com/album/2abcQ8uUzRE8mJ4HCRvgjo) | 3:14 | 2022-05-12 | 2022-08-12 |
@@ -966,6 +968,7 @@
 | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/album/6E7urCzpXOlGAu71563txg) | 4:24 | 2023-04-08 | 2023-08-25 |
 | [우리 둘만의 영화가](https://open.spotify.com/track/4WznValRfibE40XCfrR64W) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [A movie just between us](https://open.spotify.com/album/61Anwyk3urEQ5RNz8NE7Te) | 3:44 | 2023-07-17 |  |
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 | 2022-10-15 |
+| [이혼해요 \(Divorce\)](https://open.spotify.com/track/12l28wJSPM3ALuF57ApdNl) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [이혼해요 \(Divorce\)](https://open.spotify.com/album/6aXTjKAFSugInjPEFodUMd) | 3:47 | 2023-09-07 |  |
 | [잊고 있는 중](https://open.spotify.com/track/0zA7Awbp9OytjHG0PsVzIy) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [잊고 있는 중](https://open.spotify.com/album/1hQH5zANKRdlDLPxHwdwm1) | 3:57 | 2023-02-24 | 2023-06-23 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2021-12-23 | 2022-07-06 |
 | [잘해보고 싶어요](https://open.spotify.com/track/3qPXM4XdLCv6GNK7n8GoL6) | [Lia Kim](https://open.spotify.com/artist/4XkyKEhzoNQEg8ruN7OkPs) | [잘해보고 싶어요](https://open.spotify.com/album/13u5VtPqwiS0olRYW2iUet) | 3:51 | 2023-02-24 | 2023-04-27 |

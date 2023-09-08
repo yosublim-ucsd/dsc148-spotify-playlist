@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 118651,
+  "num_followers": 118770,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDc5OGExNGQzODAwYjkwMDE4ZDM5ODgwZmNlYmRiNjlhMzc5ZDBm",
+  "snapshot_id": "MCxkYmNkMjlhY2ZiZWE4N2UzMWRiNWY2ZDkwOGZmNmMyMDJjYzQ3NDMx",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Pieces Of A Dream",
-        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT"
       },
       "artists": [
         {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
         }
       ],
-      "duration_ms": 246653,
-      "name": "Warm Weather - 12\" Version",
-      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
+      "duration_ms": 314333,
+      "name": "Do You Feel What I'm Feeling?",
+      "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT"
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/5Klr007OlD9KfWR6miKTuC"
       },
       "artists": [
         {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
         }
       ],
-      "duration_ms": 314333,
-      "name": "Do You Feel What I'm Feeling?",
-      "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
+      "duration_ms": 246653,
+      "name": "Warm Weather - 12\" Version",
+      "url": "https://open.spotify.com/track/27IMcFJ1lv1vFSoKu0qjEJ"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -763,6 +763,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
+      },
+      "artists": [
+        {
+          "name": "John Klemmer",
+          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Glass Dolphins",
+      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Intimacy",
         "url": "https://open.spotify.com/album/3T3epUgMPC4f34OooH2iRK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 302600,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ"
-      },
-      "artists": [
-        {
-          "name": "John Klemmer",
-          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Glass Dolphins",
-      "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
     },
     {
       "added_at": "2020-08-19 00:00:21",

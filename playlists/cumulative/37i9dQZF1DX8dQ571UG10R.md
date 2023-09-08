@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-77 songs - 5 hr 18 min
+78 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/track/2hHMICUam5FJowur5Ca1Lj) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/album/6A85XFB7IFOOtxROr4Aj3B) | 9:21 | 2022-02-22 | 2022-07-29 |
 | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/track/6xcQRc6H2UdTX425C2YzNY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap dos Hokages: A Vontade do Fogo \(Nerd Hits\)](https://open.spotify.com/album/0epgFUtxp0mQwVWiGHbqzE) | 9:21 | 2022-05-27 |  |
 | [Rei dos Piratas](https://open.spotify.com/track/3CDYKrq6GAp7AIw6ujmVn1) | [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Rei dos Piratas](https://open.spotify.com/album/5o1Rdvz6hHdG957z6Z3f9w) | 3:29 | 2022-02-22 |  |
-| [Revisão](https://open.spotify.com/track/3AQIGKFepAlEyMeV1VQVjZ) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/03SB4h85dE0paMinzDBIbO) | 4:35 | 2022-02-22 |  |
+| [Revisão](https://open.spotify.com/track/0yFxPVCoYaZIPDeuntqHpl) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/2R9JVverYumzwMQAItWkNo) | 4:35 | 2023-07-07 |  |
+| [Revisão](https://open.spotify.com/track/3AQIGKFepAlEyMeV1VQVjZ) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/03SB4h85dE0paMinzDBIbO) | 4:35 | 2022-02-22 | 2023-09-08 |
 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 | 2022-05-27 |  |
 | [Se Ajoelhe](https://open.spotify.com/track/4rKp63bn9KsACPgCahmLLP) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx), [Flash Beats](https://open.spotify.com/artist/7IFhE5NzZZlsfvPZH84fY9) | [Se Ajoelhe](https://open.spotify.com/album/3ZyyV0HWP8Z0nAFyCa3UIx) | 3:47 | 2022-02-22 | 2022-11-12 |
 | [Senpai](https://open.spotify.com/track/3bT0HyZG4LDJmG5IB8BHSi) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B) | [Senpai](https://open.spotify.com/album/47fz9EQIEJxhEx3lbvAMjn) | 3:13 | 2023-06-02 |  |

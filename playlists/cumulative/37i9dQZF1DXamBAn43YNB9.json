@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 180591,
       "name": "Everything Falls for You",
       "url": "https://open.spotify.com/track/4KUTGzToT4a4Ktk9VTBTkH"
@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248266,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd"
+    },
+    {
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 219517,
       "name": "Long Way from Lonely",
       "url": "https://open.spotify.com/track/1qhyN7q0hhJcSUGB3FGCBH"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 225314,
       "name": "The Road",
       "url": "https://open.spotify.com/track/1aQaYbYZkkQzGOt8BAEMrx"

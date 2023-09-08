@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Shakira",
-  "num_followers": 920392,
+  "num_followers": 920376,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjU0ZjlkN2JlY2M5ZmE3NDdiZmRmNmE3OGMwMmUyYjFjODhhZDkz",
+  "snapshot_id": "MCwyZTg2YmQ5MmRjNzY1ODJlZGY2MGIwYmFjZDg2NTk3ZTZiZTY2MmIy",
   "tracks": [
     {
       "added_at": "2023-09-06 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "DEL\u0130",
         "url": "https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 108380,
       "name": "DEL\u0130",
       "url": "https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Mummy (Please Stay)",
-        "url": "https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0"
-      },
-      "artists": [
-        {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        }
-      ],
-      "duration_ms": 224449,
-      "name": "Mummy (Please Stay)",
-      "url": "https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Ch\u1eafc Anh C\u00f3 N\u1ed7i Kh\u1ed5 T\u00e2m",
         "url": "https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 226302,
       "name": "Ch\u1eafc Anh C\u00f3 N\u1ed7i Kh\u1ed5 T\u00e2m",
       "url": "https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Mummy (Please Stay)",
+        "url": "https://open.spotify.com/album/0ipXf0pCC9qEJVuVbrU5u0"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "duration_ms": 224449,
+      "name": "Mummy (Please Stay)",
+      "url": "https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "Flowers!",
+        "url": "https://open.spotify.com/album/0rOJqOs5SZZm63oZDvLNFU"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Flowers!",
+      "url": "https://open.spotify.com/track/5hUWDfvdFgWCmmv8HWSi18"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "\u0414\u0443\u0440\u0430 (\u0421\u0443\u043c\u043d\u0456\u0432\u0430\u044e\u0441\u044c \u0443 \u0441\u043e\u0431\u0456)",
         "url": "https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Flowers!",
-        "url": "https://open.spotify.com/album/0rOJqOs5SZZm63oZDvLNFU"
+        "name": "MARIA PRZED O\u0141TARZEM",
+        "url": "https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR"
       },
       "artists": [
         {
-          "name": "Dina Ayada",
-          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+          "name": "Mery Spolsky",
+          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
         }
       ],
-      "duration_ms": 145454,
-      "name": "Flowers!",
-      "url": "https://open.spotify.com/track/5hUWDfvdFgWCmmv8HWSi18"
+      "duration_ms": 180057,
+      "name": "MARIA PRZED O\u0141TARZEM",
+      "url": "https://open.spotify.com/track/5sobLosz9Iylv99EoX6759"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -595,6 +611,22 @@
       "duration_ms": 163705,
       "name": "No a co",
       "url": "https://open.spotify.com/track/5JMz22e5dypbfB5avDjrFy"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "D\u00e9j\u00e0 vu",
+        "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "D\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -631,38 +663,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "D\u00e9j\u00e0 vu",
-        "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "D\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Bine cu pu\u021bin r\u0103u",
-        "url": "https://open.spotify.com/album/4jPhADH3p3ncfgKcW4MStH"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bine cu pu\u021bin r\u0103u",
-      "url": "https://open.spotify.com/track/02kqrcZdWFtkU5UE5032eC"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Venus (projekt Babie Lato)",
         "url": "https://open.spotify.com/album/6rwgYL02gjRo6m7T6GyMha"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 280165,
       "name": "Venus (projekt Babie Lato)",
       "url": "https://open.spotify.com/track/5LIGOOM1dU9ukpF8smMF1x"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Bine cu pu\u021bin r\u0103u",
+        "url": "https://open.spotify.com/album/4jPhADH3p3ncfgKcW4MStH"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Bine cu pu\u021bin r\u0103u",
+      "url": "https://open.spotify.com/track/02kqrcZdWFtkU5UE5032eC"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -723,6 +739,22 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Belize",
+      "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
         "name": "Sweet Memories",
         "url": "https://open.spotify.com/album/4f9dQRwzon9EU1MNBZpu0f"
       },
@@ -755,22 +787,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Amores Pasajeros",
-        "url": "https://open.spotify.com/album/15pU0aQiEbzGDvRw9q1efe"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Belize",
-      "url": "https://open.spotify.com/track/4yOWA1JM7m70HKpD0vBJm2"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "One Nation Under Love",
         "url": "https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Laguna",
-        "url": "https://open.spotify.com/album/1jLlM2l3XmCEpPTOAQIjuB"
-      },
-      "artists": [
-        {
-          "name": "Tulsa",
-          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
-        }
-      ],
-      "duration_ms": 209016,
-      "name": "Laguna",
-      "url": "https://open.spotify.com/track/5DrHgtqk6tf0hbuc3i5tB9"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Carmonies - Thumri",
         "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 219692,
       "name": "Aeri Sakhi",
       "url": "https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Laguna",
+        "url": "https://open.spotify.com/album/1jLlM2l3XmCEpPTOAQIjuB"
+      },
+      "artists": [
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
+        }
+      ],
+      "duration_ms": 209016,
+      "name": "Laguna",
+      "url": "https://open.spotify.com/track/5DrHgtqk6tf0hbuc3i5tB9"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -855,6 +871,22 @@
       "duration_ms": 151444,
       "name": "El Regalito",
       "url": "https://open.spotify.com/track/10VSk1JjgkNckHhlw4w4fv"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Bile \u0130steye",
+        "url": "https://open.spotify.com/album/00M5DtCJGuHqGRQ9ShUaCV"
+      },
+      "artists": [
+        {
+          "name": "Dilan Balkay",
+          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Bile \u0130steye",
+      "url": "https://open.spotify.com/track/5OWewjzyygW2SdGNF2kAKl"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -947,22 +979,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Bile \u0130steye",
-        "url": "https://open.spotify.com/album/00M5DtCJGuHqGRQ9ShUaCV"
-      },
-      "artists": [
-        {
-          "name": "Dilan Balkay",
-          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Bile \u0130steye",
-      "url": "https://open.spotify.com/track/5OWewjzyygW2SdGNF2kAKl"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -991,26 +1007,6 @@
       "duration_ms": 264853,
       "name": "\u9003\u751f\u9580",
       "url": "https://open.spotify.com/track/39JQPbO75nuTqAq9XXRXkA"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
-        "name": "Crying Crystals",
-        "url": "https://open.spotify.com/album/31B1N5WugxOJyVkDlRXT5j"
-      },
-      "artists": [
-        {
-          "name": "Haviah Mighty",
-          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
-        },
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Manifest It (feat. Jean Deaux)",
-      "url": "https://open.spotify.com/track/6QxFExcXSNEwpyStUUG8Ez"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -1047,6 +1043,26 @@
       "duration_ms": 159000,
       "name": "NEK\u00cf UGYAN\u00daGY",
       "url": "https://open.spotify.com/track/7jZs5dDDXK5O8zY4ekvogp"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Crying Crystals",
+        "url": "https://open.spotify.com/album/31B1N5WugxOJyVkDlRXT5j"
+      },
+      "artists": [
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Manifest It (feat. Jean Deaux)",
+      "url": "https://open.spotify.com/track/6QxFExcXSNEwpyStUUG8Ez"
     },
     {
       "added_at": "2023-09-06 04:00:00",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "MARIA PRZED O\u0141TARZEM",
-        "url": "https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR"
-      },
-      "artists": [
-        {
-          "name": "Mery Spolsky",
-          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
-        }
-      ],
-      "duration_ms": 180057,
-      "name": "MARIA PRZED O\u0141TARZEM",
-      "url": "https://open.spotify.com/track/5sobLosz9Iylv99EoX6759"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Silsilay Tor Gaya",
         "url": "https://open.spotify.com/album/6eLCSTvN2jg7x1lHTrgkXJ"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-09-06 04:00:00",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
-    },
-    {
-      "added_at": "2023-09-06 04:00:00",
-      "album": {
         "name": "Fred",
         "url": "https://open.spotify.com/album/79w4GV92g3rM9bSyjW1sE5"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 201000,
       "name": "Fred",
       "url": "https://open.spotify.com/track/4VoPD81pxeb9OyZRW2iXRm"
+    },
+    {
+      "added_at": "2023-09-06 04:00:00",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "duration_ms": 188149,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     }
   ],
   "unique_name": "EQUAL Global",

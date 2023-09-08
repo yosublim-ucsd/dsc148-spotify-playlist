@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Ludmilla
 
-534 songs - 1 day 3 hr 33 min
+535 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,8 @@
 | [Sucesso Na Vida](https://open.spotify.com/track/3AB0wf9nh9lDanoFRcKHKB) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7) | [Sucesso Na Vida](https://open.spotify.com/album/5nbd1s29YCurkES92kAHJU) | 3:38 | 2020-10-20 | 2022-07-20 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2020-10-20 | 2023-02-15 |
 | [Surra De Hãn](https://open.spotify.com/track/31r961ztHOxUU2vAoF0iiv) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Surra De Hãn](https://open.spotify.com/album/7xTky1RYQJvtei1CbQ8O3h) | 2:43 | 2023-06-16 | 2023-08-19 |
-| [Surreal](https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:54 | 2023-09-01 |  |
+| [Surreal](https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:54 | 2023-09-01 |  |
+| [Surreal](https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:54 | 2023-09-01 | 2023-09-08 |
 | [súplica](https://open.spotify.com/track/4omVsjOJY7aCHcBV9l6UkC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [para\-raio](https://open.spotify.com/album/6iZPdkQAcuvcc4sYlfqGDw) | 2:49 | 2023-02-14 | 2023-04-09 |
 | [Tango](https://open.spotify.com/track/2jSusUF3coQykgybOU7sqy) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Tango](https://open.spotify.com/album/0x7kLRFBU8hiUdqZpUqRyp) | 4:04 | 2020-10-20 | 2022-07-29 |
 | [Tattoo](https://open.spotify.com/track/65WbRpNqHIlyJ7V8U4yspX) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Vulto](https://open.spotify.com/artist/0O8fcYK65bu5T7wqm8FXVl) | [Tattoo](https://open.spotify.com/album/3nuQgAJqmoCEpX30Cn5Vue) | 3:09 | 2020-10-20 | 2022-07-29 |

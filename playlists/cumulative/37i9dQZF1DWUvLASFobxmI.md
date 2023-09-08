@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Dos Carnales en portada.
 
-376 songs - 20 hr 22 min
+377 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Con La Muerte en Ancas](https://open.spotify.com/track/3vIpX0oW53VSDv1dKCWg8h) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con La Muerte en Ancas](https://open.spotify.com/album/1RZoMN2uYn25BnFrkrbr86) | 3:02 | 2023-01-13 | 2023-01-21 |
 | [Con un Botecito a Pecho](https://open.spotify.com/track/2rv3za9M5o6DtkIVZXgu1r) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Disfruto](https://open.spotify.com/album/3IlO5KgqBRd6DHEOzBcf9l) | 2:56 | 2022-12-02 | 2022-12-10 |
 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 | 2022-06-20 | 2023-07-01 |
-| [Corazón Mágico \- En Vivo](https://open.spotify.com/track/0ExktfrQcR6B5o2LmWlNlU) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Corazón Mágico \(En Vivo\)](https://open.spotify.com/album/3HJjHiydQNt7Ix8g3lUPxx) | 3:39 | 2023-06-16 |  |
+| [Corazón Mágico \- En Vivo](https://open.spotify.com/track/0ExktfrQcR6B5o2LmWlNlU) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Corazón Mágico \(En Vivo\)](https://open.spotify.com/album/3HJjHiydQNt7Ix8g3lUPxx) | 3:39 | 2023-06-16 | 2023-09-08 |
 | [Corrido De Antonia Lopez](https://open.spotify.com/track/7KXgqdYzOVvqENcVtO4vLd) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Corrido De Antonia Lopez](https://open.spotify.com/album/4kgTo9OnBDOnWqLcnHQl0S) | 3:36 | 2023-01-27 | 2023-02-25 |
 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1) | 3:12 | 2023-01-20 |  |
 | [Cosas Del Amor \- Live](https://open.spotify.com/track/0bLn6wyEBzI450zdYrMZvI) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Cosas Del Amor \(Live\)](https://open.spotify.com/album/1VYSawzyQ5FHfO1fZHrbTe) | 3:27 | 2023-03-09 | 2023-03-11 |
@@ -283,6 +283,7 @@
 | [Perdón](https://open.spotify.com/track/2CzSKCAXACfxe2WwO3ApRU) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Perdón](https://open.spotify.com/album/6xm3alDZWkbYrbw7S7oYvm) | 3:00 | 2022-09-30 | 2023-01-14 |
 | [Perdón Porque?](https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:30 | 2022-06-20 | 2022-09-03 |
 | [Pero Te Vas a Arrepentir](https://open.spotify.com/track/0BqupaTUKv80njcNbK0grX) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Pero Te Vas a Arrepentir](https://open.spotify.com/album/6vaE2TeXwrRTOc4HaKby51) | 2:50 | 2022-07-01 | 2022-07-22 |
+| [Perro Amor](https://open.spotify.com/track/4UXTRbDMHUukqoskflG91T) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Perro Amor](https://open.spotify.com/album/44v5fgLRaVqwAVpUxHnMJP) | 2:47 | 2023-08-25 |  |
 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 | 2021-12-17 | 2023-04-15 |
 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 | 2022-07-01 |  |
 | [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Rienda](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 | 2023-07-17 |  |

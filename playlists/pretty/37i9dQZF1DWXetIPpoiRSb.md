@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,764 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,814 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Love Somebody](https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Love Somebody](https://open.spotify.com/album/2J7tYKElXD3sH6iqJVsMzm) | 2:57 |
 | 80 | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 |
 
-Snapshot ID: `MCxkMGJlMjEzYTc2MjY2ZjlhNmMwZDVkZjJjYTU1ODhmZTEwYjkzOWM0`
+Snapshot ID: `MCw2MDE1M2FjODA0OTJmMGRkZGVjZTU3YzAxNDQ4YzYzYjAwYjE1MTUy`

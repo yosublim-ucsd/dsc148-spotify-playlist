@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 188181,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 209521,
       "name": "My Favourite Kind",
       "url": "https://open.spotify.com/track/1sZLjfRmROdd7CaSn9YQ1s"
@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 390110,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2zR4OLdZOEgGb2QmJN1MMG"
@@ -5604,7 +5604,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 262792,
       "name": "Tension (feat. MERYLL)",
       "url": "https://open.spotify.com/track/0QBQuBJf1xowOhV7lLldc7"
@@ -5670,6 +5670,24 @@
       "duration_ms": 421875,
       "name": "The First Rebirth",
       "url": "https://open.spotify.com/track/3p97W1BwtzC8aOcTHtOxKe"
+    },
+    {
+      "album": {
+        "name": "The Ghost",
+        "url": "https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325660,
+      "name": "The Ghost",
+      "url": "https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA"
     },
     {
       "album": {
@@ -5742,6 +5760,28 @@
       "duration_ms": 363103,
       "name": "The Navigator",
       "url": "https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw"
+    },
+    {
+      "album": {
+        "name": "The One's",
+        "url": "https://open.spotify.com/album/3aRGBESAlNiPZUeEMixsYR"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196882,
+      "name": "The One's",
+      "url": "https://open.spotify.com/track/2c2GRURdaTQS879w0bcGU0"
     },
     {
       "album": {
@@ -6076,6 +6116,32 @@
       "duration_ms": 369836,
       "name": "Trekni Hek",
       "url": "https://open.spotify.com/track/5aWOnhEkTp9aEstrbLW9Sm"
+    },
+    {
+      "album": {
+        "name": "Tripchain / Scanalatura",
+        "url": "https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el"
+      },
+      "artists": [
+        {
+          "name": "John Digweed",
+          "url": "https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W"
+        },
+        {
+          "name": "Nick Muir",
+          "url": "https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp"
+        },
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405500,
+      "name": "Tripchain",
+      "url": "https://open.spotify.com/track/3wLIyQsH1vm9jmg0p5Dsga"
     },
     {
       "album": {
@@ -6426,6 +6492,24 @@
       "duration_ms": 474917,
       "name": "Virgo",
       "url": "https://open.spotify.com/track/1OgmO9reLha6OiQ8PwMCz7"
+    },
+    {
+      "album": {
+        "name": "Interstellar VA",
+        "url": "https://open.spotify.com/album/0zLp1X5Lu6SA5r9Ui9EWuS"
+      },
+      "artists": [
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336836,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/19lFvHpkfrYqRPmMikJkCc"
     },
     {
       "album": {

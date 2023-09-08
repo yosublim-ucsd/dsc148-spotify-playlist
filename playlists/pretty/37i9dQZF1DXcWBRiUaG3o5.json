@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1324099,
+  "num_followers": 1324075,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTYxNDNjYzk1ZWNiYjc5ZDY4YjM5NDk3NDk1YjExZTZiYzUzMjUz",
+  "snapshot_id": "MCw3NmYzNjIxY2NkM2Y0ZGM0ZDEyNWJlYzcyZDRkZWRjZmZmODE3YWVl",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Year of the Cartographer",
-        "url": "https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2"
-      },
-      "artists": [
-        {
-          "name": "Quiet Arrows",
-          "url": "https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Siren Song",
         "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Year of the Cartographer",
+        "url": "https://open.spotify.com/album/4xS4qxWSBVXOdqUaClBkW2"
+      },
+      "artists": [
+        {
+          "name": "Quiet Arrows",
+          "url": "https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/7upud4NlWW4U4C0ngg84qU"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 351309,
       "name": "Imagining My Man",
       "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -763,22 +779,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 319213,
-      "name": "Rest (Acoustic)",
-      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 173927,
       "name": "Mother Song",
       "url": "https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 319213,
+      "name": "Rest (Acoustic)",
+      "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        },
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "Silk (feat. Thelma Plum)",
-      "url": "https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Famous Men",
         "url": "https://open.spotify.com/album/3YDgMxaGS8vIlFKpbYfyqm"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        },
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "Silk (feat. Thelma Plum)",
+      "url": "https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Emily Alone",
         "url": "https://open.spotify.com/album/21Akw9i98EXJbkYblXydmX"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 220189,
       "name": "Shadow Bloom",
       "url": "https://open.spotify.com/track/2XsCBK0PkNahS01K4VBYF9"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Mary Glenn",
-        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 322478,
-      "name": "Dancefloor",
-      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Back to Love",
         "url": "https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 231120,
       "name": "Back to Love",
       "url": "https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Mary Glenn",
+        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Dancefloor",
+      "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Some Kind of Heaven",
-        "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
+        "name": "EP 3",
+        "url": "https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "David Benjamin",
+          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
         }
       ],
-      "duration_ms": 310799,
-      "name": "Some Kind of Heaven",
-      "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
+      "duration_ms": 201892,
+      "name": "Can't Get My Head Around Loving You",
+      "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+        "name": "Some Kind of Heaven",
+        "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+      "duration_ms": 310799,
+      "name": "Some Kind of Heaven",
+      "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "EP 3",
-        "url": "https://open.spotify.com/album/4h25nu7FiDhAeSWHfOjGE9"
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
       },
       "artists": [
         {
-          "name": "David Benjamin",
-          "url": "https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW"
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
         }
       ],
-      "duration_ms": 201892,
-      "name": "Can't Get My Head Around Loving You",
-      "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "All We Grow",
-        "url": "https://open.spotify.com/album/4anCdCJ7Qi4DKZ1nq9xMgO"
+        "name": "Tragedy Reel",
+        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
       },
       "artists": [
         {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
         }
       ],
-      "duration_ms": 310733,
-      "name": "In the Stream",
-      "url": "https://open.spotify.com/track/6IERXwupEJDCOyz2Pc3jae"
+      "duration_ms": 201028,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
     }
   ],
   "unique_name": "Evening Acoustic",

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33875,
+  "num_followers": 33873,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjQwYTQxZDcyOWJjZTYwMjZkMmI5MjQwZGI4ODdiODAxNTc2ZTBi",
+  "snapshot_id": "MCw2NjA0MzdlNTMyODZlMWY0YWNjNzM5ZTNjODE2OTY1YmY4MjIxMjZj",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "North Hills",
-        "url": "https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z"
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 308373,
-      "name": "When My Time Comes",
-      "url": "https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM"
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+        "name": "North Hills",
+        "url": "https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+      "duration_ms": 308373,
+      "name": "When My Time Comes",
+      "url": "https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "From the Hills Below the City",
-        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "On the Road",
-      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 150506,
       "name": "Why Do You Let Me Stay Here?",
       "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "From the Hills Below the City",
+        "url": "https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "On the Road",
+      "url": "https://open.spotify.com/track/6J5s4zugz7DxSgAWHKtmfV"
     },
     {
       "added_at": "2022-06-17 04:02:00",

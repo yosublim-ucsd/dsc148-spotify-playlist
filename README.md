@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6597\)
+## Playlists \(6601\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -596,6 +596,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Autumn Acoustic](/playlists/pretty/37i9dQZF1DWUNIrSzKgQbP.md)
 - [Autumn Leaves](/playlists/pretty/37i9dQZF1DX62qCiGEp1YH.md)
 - [Autumn Lounge](/playlists/pretty/37i9dQZF1DWTSPqolnbHgK.md)
+- [Autumn Piano](/playlists/pretty/37i9dQZF1DWUXyq4CJGeZ5.md)
 - [Avant Folk](/playlists/pretty/2uVP1agvV5rba3MqLQ0pzy.md)
 - [Avant\-Jazz](/playlists/pretty/37i9dQZF1DX3rTk9UUrbYS.md)
 - [B.A.E.](/playlists/pretty/37i9dQZF1DWX3387IZmjNa.md)
@@ -1199,6 +1200,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Cocktail Jazz](/playlists/pretty/37i9dQZF1DWU6MDxlH7Sr1.md)
 - [Coco & Breezy DJ Mix](/playlists/pretty/37i9dQZF1DWZbLKYSaVqSx.md)
 - [Cocoa Butter](/playlists/pretty/37i9dQZF1DWY3rhsGpsfCB.md)
+- [Cocomelon Official Playlist](/playlists/pretty/37i9dQZF1DXbK946dWgdUn.md)
 - [Coding Mode](/playlists/pretty/37i9dQZF1DX5trt9i14X7j.md)
 - [Coffee + Chill](/playlists/pretty/37i9dQZF1DXa1BeMIGX5Du.md)
 - [Coffee Beats](/playlists/pretty/37i9dQZF1DX1uaml3UXYLk.md)
@@ -1504,6 +1506,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Divina MPB](/playlists/pretty/37i9dQZF1DWTWoEMrRMHZ8.md)
 - [Dixon's track IDs](/playlists/pretty/37i9dQZF1DWZMAcZLI8XCI.md)
 - [Do Revenge: Official Playlist](/playlists/pretty/37i9dQZF1DX2KTIOxdCy0E.md)
+- [Dom Dolla's track IDs](/playlists/pretty/37i9dQZF1DWZr7ulOqiMRj.md)
 - [Dominique's Taste](/playlists/pretty/37i9dQZF1DX8mW4CDSm4pA.md)
 - [Domino Sound System](/playlists/pretty/2nSEYi9ueqDn2wxo1Tmceg.md)
 - [Don't Mess With Texas](/playlists/pretty/1iiODxaiVpBp522dalIe9V.md)
@@ -2011,6 +2014,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#064](/playlists/pretty/37i9dQZF1DXbWHKTeLzkEt.md)
 - [Fuego \#065](/playlists/pretty/37i9dQZF1DX9VaElykiPCq.md)
 - [Fuego \#066](/playlists/pretty/37i9dQZF1DXcrkCWEwgaqs.md)
+- [Fuego \#067](/playlists/pretty/37i9dQZF1DX8zpLcoNODz1.md)
 - [Fuego \- \#059 Sofia Bella's Mixtape](/playlists/pretty/37i9dQZF1DWW9fd5h9dO0R.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
@@ -2552,6 +2556,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [It's a Boy!](/playlists/pretty/3KP0xIq8NrTP7BV2YhpHT5.md)
 - [It's a Girl!](/playlists/pretty/52rJQYDn9Q5dufvGPqqzgf.md)
 - [It's a Hit!](/playlists/pretty/37i9dQZF1DWT1y71ZcMPe5.md)
+- [Italian Sunset](/playlists/pretty/37i9dQZF1DX572PAi3rtlM.md)
 - [Italo Disco](/playlists/pretty/37i9dQZF1DX3jWba5xiDhV.md)
 - [I’m an old old man and this is my gift to EJ](/playlists/pretty/2SguVfueSKlgN7iNS70IQA.md)
 - [J\-Pop Hits](/playlists/pretty/37i9dQZF1DXdbRLJPSmnyq.md)
@@ -4117,7 +4122,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Rompiendo: Miami](/playlists/pretty/37i9dQZF1DX2gAVR9iO3gH.md)
 - [Rompiendo: Puerto Rico](/playlists/pretty/37i9dQZF1DX5Pek6YVkLnC.md)
 - [Rompiendo: Texas](/playlists/pretty/37i9dQZF1DX39Eq6MmYdni.md)
-- [Rooftop Sunset](/playlists/pretty/37i9dQZF1DX572PAi3rtlM.md)
 - [Rookie Cops \(너와 나의 경찰수업\)](/playlists/pretty/37i9dQZF1DXaENnZYiwROL.md)
 - [Roots Revival](/playlists/pretty/37i9dQZF1DX9crXQ0wuuXE.md)
 - [Roots Rising](/playlists/pretty/37i9dQZF1DWYV7OOaGhoH0.md)

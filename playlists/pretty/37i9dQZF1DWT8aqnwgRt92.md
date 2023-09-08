@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,475 likes - 85 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,036 likes - 85 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,28 +40,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 30 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 |
 | 31 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 |
 | 32 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 |
-| 33 | [NAME](https://open.spotify.com/track/0hC6oGwPVaP3dTqyDf9h4G) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [The Girl I Like Forgot Her Glasses Opening Theme "NAME"](https://open.spotify.com/album/04Cozcb8KxpFD3kxVjj5sT) | 3:29 |
-| 34 | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4) | [Ishikawa Yui](https://open.spotify.com/artist/0YknJYTpMVMYveiGuchPlQ) | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/album/6FKSN2j91q6gLEAtnMbEvb) | 5:44 |
-| 35 | [twilight little star](https://open.spotify.com/track/4oG0BhjzyJOvYRxym74qwG) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [twilight little star](https://open.spotify.com/album/5Ptb0Ov5HrW4xfJhd7uG0u) | 3:34 |
-| 36 | [Megane\-Go\-Round](https://open.spotify.com/track/662l75p75lTA2Ah9Et4cMw) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [The Girl I Like Forgot Her Glasses Ending Theme "Megane\-Go\-Round"](https://open.spotify.com/album/12wi1uiKFu9CTxVJ8axs6m) | 3:35 |
-| 37 | [勿忘草](https://open.spotify.com/track/7y6snjAYUv3hYPTEiAcOp4) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [勿忘草](https://open.spotify.com/album/6Auq1xX3GbhFZ2CXGtyLZ1) | 4:02 |
-| 38 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 |
-| 39 | [Fashion](https://open.spotify.com/track/4cM4ZnZnS5YgzIb0TnuJpp) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Fashion](https://open.spotify.com/album/5HPtIZYkRKNzpnERaQTrsz) | 3:12 |
-| 40 | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/track/2KaXMZRDtSzim8axS9QlnP) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/album/2oTn5ps7LuAA8BJ1qO52L5) | 5:08 |
-| 41 | [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 |
-| 42 | [誰が為](https://open.spotify.com/track/5WMxky8j2WtDQtVAHFwqyB) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [誰が為](https://open.spotify.com/album/13ghpfyEQoSpAhnTAe8wFu) | 4:05 |
-| 43 | [Crack\-Crack\-Crackle](https://open.spotify.com/track/4cFkNoWvPbLJSe7bay50sI) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Crack\-Crack\-Crackle](https://open.spotify.com/album/3zJ35atNR9JjftDeGXhwF8) | 3:12 |
-| 44 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 |
-| 45 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 |
-| 46 | [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 |
-| 47 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 |
-| 48 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 |
-| 49 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 |
-| 50 | [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 |
-| 51 | [WHO ARE ME？](https://open.spotify.com/track/0GNW0n51GebjUm7rNkAheS) | [峯田茉優](https://open.spotify.com/artist/6upQVPtLKJ0PQJRsw9LiRy) | [WHO ARE ME？](https://open.spotify.com/album/0Osc6NIlI0TOSsIE1ncgmq) | 3:00 |
-| 52 | [Let you know!](https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Let you know!](https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86) | 2:36 |
-| 53 | [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 |
-| 54 | [Another Self](https://open.spotify.com/track/7gz4Eo94PvX01geJuH8xDx) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Another Self](https://open.spotify.com/album/2txcg6rnTnKDCfHy9DivYm) | 3:35 |
+| 33 | [スタートライン](https://open.spotify.com/track/7zeX9xexY6YETWisl0ohmS) | [Argonavis](https://open.spotify.com/artist/6Kf7Pa6m8q3x53NVZgWJFU) | [スタートライン](https://open.spotify.com/album/1SvN8Zrixuz9aLZsSy8Km6) | 4:46 |
+| 34 | [ALL MY PARTS](https://open.spotify.com/track/2HF1AgI2r4asyj938aL02q) | [GYROAXIA](https://open.spotify.com/artist/28PDBS1Y9qIwKlne2T8hm0) | [ALL MY PARTS](https://open.spotify.com/album/7ky0Wlz0NAtVqwS2KOJM7A) | 4:18 |
+| 35 | [NAME](https://open.spotify.com/track/0hC6oGwPVaP3dTqyDf9h4G) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [The Girl I Like Forgot Her Glasses Opening Theme "NAME"](https://open.spotify.com/album/04Cozcb8KxpFD3kxVjj5sT) | 3:29 |
+| 36 | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/track/45GCLrLOLkphfCNidiJPG4) | [Ishikawa Yui](https://open.spotify.com/artist/0YknJYTpMVMYveiGuchPlQ) | [Weight of the World/Kowareta Sekai no Uta \- From CrosSing](https://open.spotify.com/album/6FKSN2j91q6gLEAtnMbEvb) | 5:44 |
+| 37 | [twilight little star](https://open.spotify.com/track/4oG0BhjzyJOvYRxym74qwG) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [twilight little star](https://open.spotify.com/album/5Ptb0Ov5HrW4xfJhd7uG0u) | 3:34 |
+| 38 | [Megane\-Go\-Round](https://open.spotify.com/track/662l75p75lTA2Ah9Et4cMw) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [The Girl I Like Forgot Her Glasses Ending Theme "Megane\-Go\-Round"](https://open.spotify.com/album/12wi1uiKFu9CTxVJ8axs6m) | 3:35 |
+| 39 | [勿忘草](https://open.spotify.com/track/7y6snjAYUv3hYPTEiAcOp4) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [勿忘草](https://open.spotify.com/album/6Auq1xX3GbhFZ2CXGtyLZ1) | 4:02 |
+| 40 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 |
+| 41 | [Fashion](https://open.spotify.com/track/4cM4ZnZnS5YgzIb0TnuJpp) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Fashion](https://open.spotify.com/album/5HPtIZYkRKNzpnERaQTrsz) | 3:12 |
+| 42 | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/track/2KaXMZRDtSzim8axS9QlnP) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Sign\(Piano Ballad ver.\)](https://open.spotify.com/album/2oTn5ps7LuAA8BJ1qO52L5) | 5:08 |
+| 43 | [Endroll](https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Endroll](https://open.spotify.com/album/4zjPemaiw8mM2dtnTQCGVR) | 2:54 |
+| 44 | [誰が為](https://open.spotify.com/track/5WMxky8j2WtDQtVAHFwqyB) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [誰が為](https://open.spotify.com/album/13ghpfyEQoSpAhnTAe8wFu) | 4:05 |
+| 45 | [Crack\-Crack\-Crackle](https://open.spotify.com/track/4cFkNoWvPbLJSe7bay50sI) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Crack\-Crack\-Crackle](https://open.spotify.com/album/3zJ35atNR9JjftDeGXhwF8) | 3:12 |
+| 46 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 |
+| 47 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 |
+| 48 | [Kyuseishu](https://open.spotify.com/track/3nDjI1uPbjBvqZNEA3F57Q) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Kyuseishu](https://open.spotify.com/album/2xiK0zF6CJjJqCqSHwgMsM) | 3:17 |
+| 49 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 |
+| 50 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 |
+| 51 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 |
+| 52 | [WHO ARE ME？](https://open.spotify.com/track/0GNW0n51GebjUm7rNkAheS) | [峯田茉優](https://open.spotify.com/artist/6upQVPtLKJ0PQJRsw9LiRy) | [WHO ARE ME？](https://open.spotify.com/album/0Osc6NIlI0TOSsIE1ncgmq) | 3:00 |
+| 53 | [Let you know!](https://open.spotify.com/track/2w0mPCDZU5jeJlabMQt0ib) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [Let you know!](https://open.spotify.com/album/2sb3UXzY4MzoFYeRX42b86) | 2:36 |
+| 54 | [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 |
 | 55 | [bloomin'](https://open.spotify.com/track/7IGV9PfdVzqhdol3lgtnIs) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [bloomin'](https://open.spotify.com/album/0kRxrSqr36nVM58sq8vOPz) | 4:09 |
 | 56 | [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 |
 | 57 | [Sing a song together](https://open.spotify.com/track/2QYXjGOfahFNABoNSmMXwS) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Sing a song together](https://open.spotify.com/album/4Qyz64zxLoI84Qq0vi6ONH) | 3:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Chase Me](https://open.spotify.com/track/1nniq3yLXytUSibE2RUE6X) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y) | [Chase Me](https://open.spotify.com/album/6XO0I9CHE8BpiFEOmFYkmI) | 2:59 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCw2OGI1Yzk4N2IwZDI0NTg2MzJmMDc1MDcwMWI4ZTM4YzAwMzZjYWQ2`
+Snapshot ID: `MCw3ZjZhMGM4NTZlNGM2ZGFmMGM1NTExOWMyYzBmZjVlZjYyYjZlZjE3`

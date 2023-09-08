@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa?si=61a57b10f106429f">Destiny Marko</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,226 likes - 99 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,290 likes - 99 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Siempre Esperarás](https://open.spotify.com/track/5nVRYaCFq8nwqGen8tThlH) | [Edu Linares](https://open.spotify.com/artist/3unyXg4kPMCsKrn8cboutD), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Siempre Esperarás](https://open.spotify.com/album/5n51C2vbyels6BSs9PfDFz) | 2:31 |
 | 99 | [Bueno](https://open.spotify.com/track/298oWgA5oZOuboyf7fvktF) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Daniela Mejía](https://open.spotify.com/artist/0Cl5Oi3B8Lkjk84vthYkG5) | [Bueno](https://open.spotify.com/album/5qiwO5iDw5UA9kqj2ATn1l) | 3:46 |
 
-Snapshot ID: `MCxkOWM2NWI2YzAxMTIxNzg2NDM4MzRiY2IwZTBkOTg2ZjkzMzU0MmIx`
+Snapshot ID: `MCxkNjFjMmU2NDEyMWY5NzQ3ZTVhYmY2YTI4NWVhNDNjNjBkMGIzNGYw`

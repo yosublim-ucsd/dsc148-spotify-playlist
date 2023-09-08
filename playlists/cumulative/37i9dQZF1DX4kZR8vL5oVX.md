@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Louane
 
-964 songs - 2 day 2 hr 4 min
+969 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [La mer](https://open.spotify.com/track/3E61yKJuxYg9WSmlFKoEXE) | [La Grande Sophie](https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg) | [La mer](https://open.spotify.com/album/58ibBBEca9hAyPQEUTaDtW) | 3:25 | 2022-05-31 | 2023-01-04 |
 | [La nuit](https://open.spotify.com/track/1MYIIOO7aYadqwckaRnVOm) | [Alexia Hiret](https://open.spotify.com/artist/4xSXl3Q513yBSAGmYmRz9J) | [Pas le temps](https://open.spotify.com/album/1l9rnO5LwPSCNgTj9gRyHP) | 2:59 | 2022-02-01 | 2022-03-08 |
 | [La nuit n'en finit plus \- Petula Clark Cover](https://open.spotify.com/track/4rmnIqgvP8Yt65Rq1vD5nN) | [Prudence](https://open.spotify.com/artist/6G7P1WNRTlg3FxiYaW0hYh) | [La nuit n'en finit plus \(Petula Clark Cover\)](https://open.spotify.com/album/6NN04qAQuaoR4isUhagSbl) | 2:36 | 2022-01-05 | 2022-02-02 |
+| [La nuit · Le jour](https://open.spotify.com/track/2YoJXVuq9R6KgNKz0C9zaS) | [Mathilde](https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO) | [La nuit · Le jour](https://open.spotify.com/album/39lvfxsTCVQmL27t6AF1yS) | 3:29 | 2023-09-05 |  |
 | [La pluie d'automne](https://open.spotify.com/track/3ImYYZHd3HNqvm7bRFoWVJ) | [Ladylike Lily](https://open.spotify.com/artist/4c9EbrVVm6nlAgkZbtpoTg) | [La pluie d'automne](https://open.spotify.com/album/5DGfgj0zyQcQytS0xhqCJ4) | 2:19 | 2022-11-08 | 2022-12-01 |
 | [La Revanche](https://open.spotify.com/track/58ABbfoF5bP0SaPwntaExs) | [Mara](https://open.spotify.com/artist/3T1M29fdJsaQFmBkreg6s7) | [La Revanche](https://open.spotify.com/album/1by9OaozlZU9wUMuvjDZkY) | 2:25 | 2023-02-28 | 2023-04-05 |
 | [La rivière](https://open.spotify.com/track/30eBrvh29hpWJMhJWEVa6e) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [La rivière](https://open.spotify.com/album/6pSOpkv1sjvKHvrZ8k5lTK) | 3:47 | 2023-09-05 |  |
@@ -661,6 +662,7 @@
 | [Oublier \(Music Monday\)](https://open.spotify.com/track/7dx2Fl6o4UqRT6sUNskitx) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Oublier \(Music Monday\)](https://open.spotify.com/album/7FrXZtOcGmHoIqCsh2TD22) | 2:34 | 2022-10-04 | 2022-11-09 |
 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 | 2022-10-04 | 2022-11-09 |
 | [Outsider](https://open.spotify.com/track/7ocQ4cvIfJBzZClMPvoWjE) | [Inayat](https://open.spotify.com/artist/3dhYxA8Qs2Y1Nt93uU7ey6), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Outsider](https://open.spotify.com/album/472lwBkjiGklRs51cQgJey) | 2:44 | 2022-10-04 | 2022-11-09 |
+| [Ouvrir les yeux](https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Ouvrir les yeux](https://open.spotify.com/album/6jWhRZHy0gZieVkWxu35yb) | 3:25 | 2023-09-05 |  |
 | [Où que tu sois](https://open.spotify.com/track/6Ekkjj3FAPUkZH2OJTkksv) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Où que tu sois](https://open.spotify.com/album/0nPcbkhWHhy5TJYBR2jJGB) | 2:53 | 2022-02-01 | 2022-03-08 |
 | [P1M2+](https://open.spotify.com/track/1J83mrCrM6SHUd6Oex6BJT) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [UV](https://open.spotify.com/album/3M6wxcxqY9NfeRTkynRQAA) | 2:38 | 2023-08-01 | 2023-09-06 |
 | [Paparazzi](https://open.spotify.com/track/3ItH9nJSzbOwISq7bxeOcC) | [Roxaane](https://open.spotify.com/artist/6wzDxKSspmUkXSTAdP3lNO) | [Paparazzi](https://open.spotify.com/album/6XmMIG78Axtmf5afhOXg11) | 2:43 | 2022-11-08 | 2022-12-01 |
@@ -856,6 +858,7 @@
 | [Tant de choses](https://open.spotify.com/track/58PG8YFWmFMwo94pgwCbpo) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Tant de choses](https://open.spotify.com/album/0V6ZJDCb8ElTwBTwrrGFbP) | 2:59 | 2022-07-05 | 2022-08-03 |
 | [Tant que tu me tiens](https://open.spotify.com/track/3gI7ilOBQvN4jvN7gpLr0D) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [n°9](https://open.spotify.com/album/51K9i8FXf6WkGZG1hNhxNO) | 3:02 | 2022-11-08 | 2022-12-01 |
 | [Tatiana](https://open.spotify.com/track/3nyyodJO8A9kqEbssWdJvX) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Tatiana](https://open.spotify.com/album/4Vx7h6MaCrPBfx35xjuFBn) | 3:25 | 2023-07-04 | 2023-08-02 |
+| [Taxi](https://open.spotify.com/track/4bVvBgvk8UmbGDerfsDex5) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Taxi](https://open.spotify.com/album/7MxQpGrwCZXl2qiVX2J0rA) | 2:59 | 2023-09-05 |  |
 | [TCA](https://open.spotify.com/track/4yEkxp1EfjN8srcTPqeIjc) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Métastases](https://open.spotify.com/album/4JJurlAtMh6nFIhDHWLBaX) | 2:43 | 2023-01-31 | 2023-03-01 |
 | [Tears for Breakfast](https://open.spotify.com/track/2uN5St1CwzuDOasc833jHd) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Tears for Breakfast](https://open.spotify.com/album/2GkLSiLPblsCvB5BpFCRcp) | 2:49 | 2022-05-31 | 2022-07-06 |
 | [Tempo](https://open.spotify.com/track/5q8L8ALraz7i0JO7zwFhtr) | [Koline](https://open.spotify.com/artist/5rD5SSVbX4lbhwGd2tfqkD) | [Tempo](https://open.spotify.com/album/26VxaGbWvByid1TAMNL5tQ) | 2:52 | 2022-05-31 | 2022-07-06 |
@@ -940,6 +943,7 @@
 | [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 | 2023-01-03 | 2023-02-01 |
 | [Vrai bonhomme](https://open.spotify.com/track/2js0MRfvf1lSSSKBae944f) | [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1) | [Vrai bonhomme](https://open.spotify.com/album/3enMo9DaxpjQ44dn4FeJzk) | 3:24 | 2022-11-08 | 2022-12-01 |
 | [VVS](https://open.spotify.com/track/73KIBzwN3tP4QCrNxp6Yqk) | [Turtle White](https://open.spotify.com/artist/4F5LHjkVnCgcFF4I2W2i1A) | [VVS](https://open.spotify.com/album/1B6aJqd81UUiv26edYifDe) | 3:18 | 2022-06-01 | 2022-07-06 |
+| [VVVIP](https://open.spotify.com/track/26agBJcbp1YO4vdPSFGNTm) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [VVVIP](https://open.spotify.com/album/67CI179Y7YKuk8UbITBTKi) | 1:23 | 2023-09-05 |  |
 | [Vénus 金星](https://open.spotify.com/track/37BJTNSG8VNOZ54anguOGy) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [Vénus 金星](https://open.spotify.com/album/5lRUexCXLf8l5D5QCJFrLm) | 3:35 | 2022-06-01 | 2022-07-06 |
 | [WAVES](https://open.spotify.com/track/0wC6rLtsUh6LgqCmN2ZGLw) | [Ekloz](https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw) | [Résilience, Vol.3](https://open.spotify.com/album/0zMvYCTUdRTYKvpAsYCmvq) | 3:37 | 2022-05-03 | 2022-06-01 |
 | [Way Out](https://open.spotify.com/track/512BfP43SrXqz4lQ6GzuIu) | [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Way Out](https://open.spotify.com/album/63CM544lHUvy2DGxEe0BaC) | 3:25 | 2022-05-03 | 2022-06-01 |
@@ -950,6 +954,7 @@
 | [WHERE I'M GOING](https://open.spotify.com/track/573B9CVK8NwRyO23XRrHln) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [FRENCH FRIES](https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm) | 3:17 | 2022-04-08 | 2022-05-04 |
 | [Where the Water Clears the Illusion](https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:03 | 2022-05-03 | 2022-06-01 |
 | [Where Would You Be Now?](https://open.spotify.com/track/2JkWQJQWhaARpQyQHmfDQk) | [FM LAETI](https://open.spotify.com/artist/4xI4b5xdfrhshv5cMP87zK) | [Where Would You Be Now?](https://open.spotify.com/album/3yUNHtmmQcWfOZG7ihOgny) | 4:24 | 2022-02-01 | 2022-03-08 |
+| [WHERE'S THE LIGHT?](https://open.spotify.com/track/7alCLvcZ3Dye58deZ0CJ9y) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [WHERE'S THE LIGHT?](https://open.spotify.com/album/0yLVckIR2gUm10P0tccR4s) | 3:35 | 2023-09-05 |  |
 | [Whisky Bleu](https://open.spotify.com/track/3J9I7alwxBzR1Io1zRZcyW) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Whisky Bleu](https://open.spotify.com/album/3XQx1XHa38eVoxkzDYfYLr) | 2:45 | 2022-11-08 | 2022-12-01 |
 | [Wide Awake](https://open.spotify.com/track/2AnH6U2MyLV3T1bdPFPJ1t) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [S.H.A.M.A.N.E.S](https://open.spotify.com/album/7FOsfHcovB9NrvNqDKZFTS) | 3:48 | 2022-04-05 | 2022-05-04 |
 | [Widow Dreams Forever](https://open.spotify.com/track/0lo0uTr01YwLsquOAuwUEA) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Widow Dreams Forever](https://open.spotify.com/album/0bknUVrYD2YRTbmCzF7r2L) | 3:03 | 2023-02-28 | 2023-04-05 |

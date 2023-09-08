@@ -4,7 +4,7 @@
 
 > Songs so beautiful, made for the night
 
-153 songs - 10 hr 26 min
+155 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Grow](https://open.spotify.com/track/3Hiqb8tsHXkBr9dHt4IuuH) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Blu Mar Ten](https://open.spotify.com/artist/5mGqZFvzU9FRNkcI3Y0A2V), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Grow](https://open.spotify.com/album/42ijbZixyJmMHutD2Oo5XC) | 5:20 | 2022-02-04 |  |
 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 | 2022-02-04 |  |
 | [I Want You Around](https://open.spotify.com/track/2VqKx3HH8gaZPabNWYvksy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:32 | 2022-07-19 | 2022-07-27 |
-| [I Will Wave To You](https://open.spotify.com/track/5p39yQKTqsjc5Y3XNgoXVM) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [I Will Wave To You / Heterize](https://open.spotify.com/album/4oLxNhAdMueTwNU6l3tFxt) | 4:19 | 2022-02-04 |  |
+| [I Will Wave To You](https://open.spotify.com/track/1eMozs5thT7TEpiFCDzsp7) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 4:19 | 2022-07-26 |  |
+| [I Will Wave To You](https://open.spotify.com/track/5p39yQKTqsjc5Y3XNgoXVM) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [I Will Wave To You / Heterize](https://open.spotify.com/album/4oLxNhAdMueTwNU6l3tFxt) | 4:19 | 2022-02-04 | 2023-09-08 |
 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 | 2022-02-04 |  |
 | [Indecision](https://open.spotify.com/track/4qPhFTSrBnBJyUDGj12KAc) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 4:28 | 2022-07-19 | 2022-07-27 |
 | [JOY \(Overcome\)](https://open.spotify.com/track/5jDR7oIt1Ibz0xuZRhJuAf) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Overcome\)](https://open.spotify.com/album/5UqtSRZcARg0vpN4SZvO5I) | 3:36 | 2022-02-04 |  |
@@ -103,7 +104,8 @@
 | [Please \- Ross From Friends Remix](https://open.spotify.com/track/36nBJIfzFTvSQ5m7VlN6VD) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Please \(Ross From Friends Remix\)](https://open.spotify.com/album/3ztiVhYIsgqQAxdrYovhXM) | 4:57 | 2022-02-04 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-07-19 | 2022-07-27 |
 | [Power](https://open.spotify.com/track/7uPGcpYfm1Z0H0IF0KRXi3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Power](https://open.spotify.com/album/1nOkffVwTES74zpJFGiCPj) | 4:18 | 2022-02-04 |  |
-| [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 | 2022-02-04 |  |
+| [Radiate](https://open.spotify.com/track/1kxsqPsBOhxBC5REK0wL8K) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/18BQpkuEyej1YgBOw2V1uy) | 4:17 | 2022-07-26 |  |
+| [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 | 2022-02-04 | 2023-09-08 |
 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4) | 4:28 | 2022-02-04 |  |
 | [Remember Their Names \(feat\. Josh Barry\)](https://open.spotify.com/track/1NN2rXbJDP2qp9zTBn6xRH) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Ground Control](https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0) | 5:12 | 2022-02-04 |  |
 | [Ritual](https://open.spotify.com/track/2FVS8lTY6pZRvzSwhf2PRA) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Ritual](https://open.spotify.com/album/4HGqBpRnPRD7Udy0HJ4zg8) | 4:16 | 2022-02-04 | 2022-07-29 |

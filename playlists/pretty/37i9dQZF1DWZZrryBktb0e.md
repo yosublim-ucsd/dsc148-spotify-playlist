@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZrryBktb0e.md) - [plain]
 
 > Featuring Feid, Kali Uchis, Rauw Alejandro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 898 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZrryBktb0e.md) - [plain]
 | 24 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
 | 25 | [Intocable \- Remix](https://open.spotify.com/track/3uYloeZOfzOjx3h7IQqD9N) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Intocable \(Remix\)](https://open.spotify.com/album/4ZAxnfKnod9PFvcXcX7ICq) | 2:49 |
 
-Snapshot ID: `MCxkODJmYjZjNmQxMzYzN2M4Nzc2NTA0YTZjNzFjMjFhNjg3MzM0Yzhi`
+Snapshot ID: `MCwxMWViNGE4MDZlYjIwZjkxZWQzMGM5YTBiM2UzNjI5ZmU4NGYwYzFi`

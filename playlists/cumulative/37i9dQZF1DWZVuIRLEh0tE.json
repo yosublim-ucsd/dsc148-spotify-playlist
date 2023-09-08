@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Bu BaBa: La Esencia Del G\u00e9nero",
+        "url": "https://open.spotify.com/album/7uDg7P81VTaDvSDDg9QZvm"
+      },
+      "artists": [
+        {
+          "name": "Afro Jaz",
+          "url": "https://open.spotify.com/artist/6289LNzpbKlv3jxvg2p0QT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Bu BaBa: La Esencia Del G\u00e9nero",
+      "url": "https://open.spotify.com/track/48KxytQOd2pVIqavhsFBpC"
+    },
+    {
+      "album": {
         "name": "Bumba",
         "url": "https://open.spotify.com/album/2BPRNoWUXdm9IkMHdrvalA"
       },
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 219574,
       "name": "De Nuevo",
       "url": "https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf"
@@ -4342,6 +4360,28 @@
       "duration_ms": 182564,
       "name": "TOMALA",
       "url": "https://open.spotify.com/track/73u8KWnLOQykesSgYic6nD"
+    },
+    {
+      "album": {
+        "name": "Tu charyn (Special Version)",
+        "url": "https://open.spotify.com/album/7uowgDeey2MQPHtlfv7LFM"
+      },
+      "artists": [
+        {
+          "name": "RUBIA DE ORO",
+          "url": "https://open.spotify.com/artist/1Q2c7O7V72iE59JtdtIED2"
+        },
+        {
+          "name": "Rubirosagucci",
+          "url": "https://open.spotify.com/artist/5zzIWrqRJ6YgN6bfvZB0jg"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142309,
+      "name": "Tu charyn - Special Version",
+      "url": "https://open.spotify.com/track/40GXSultyco7bg2gQ6auqf"
     },
     {
       "album": {

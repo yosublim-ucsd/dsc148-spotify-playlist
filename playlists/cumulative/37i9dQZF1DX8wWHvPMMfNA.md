@@ -2,7 +2,7 @@
 
 ### [Focus Jazz](https://open.spotify.com/playlist/37i9dQZF1DX8wWHvPMMfNA)
 
-> 
+> Soft instrumental jazz for working or studying.
 
 620 songs - 1 day 15 hr 52 min
 

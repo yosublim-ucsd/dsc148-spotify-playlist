@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 251066,
       "name": "Yoru",
       "url": "https://open.spotify.com/track/171P75QxuTfY2Uu2C4W5z7"
@@ -4401,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "\u5e78\u305b\u3092\u596a\u308f\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/1r4neKFcBHOh7FsYyRhl0E"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246839,
+      "name": "\u5e78\u305b\u3092\u596a\u308f\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/3XtLSUHHix84zSIe7XkTor"
+    },
+    {
+      "album": {
         "name": "How To Live",
         "url": "https://open.spotify.com/album/44XoDv7runauinyZvY92VD"
       },
@@ -4943,6 +4961,24 @@
     },
     {
       "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+    },
+    {
+      "album": {
         "name": "\u706f\u706b",
         "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
       },
@@ -5248,7 +5284,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"

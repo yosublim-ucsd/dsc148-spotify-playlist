@@ -9831,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "\u062d\u0644\u0648\u0629 \u0645\u0646\u0643 (\u0645\u0646 \u0641\u064a\u0644\u0645 \"\u0641\u0648\u064a! \u0641\u0648\u064a! \u0641\u0648\u064a!\")",
+        "url": "https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210219,
+      "name": "\u062d\u0644\u0648\u0629 \u0645\u0646\u0643 (\u0645\u0646 \u0641\u064a\u0644\u0645 \"\u0641\u0648\u064a! \u0641\u0648\u064a! \u0641\u0648\u064a!\")",
+      "url": "https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY"
+    },
+    {
+      "album": {
         "name": "\u062d\u0645\u062f \u0627\u0644\u0644\u0647 \u0639\u0644\u0649 \u0627\u0644\u0633\u0644\u0627\u0645\u0629",
         "url": "https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv"
       },

@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-523 songs - 1 day 11 hr 40 min
+524 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Anna \- Piano Version](https://open.spotify.com/track/38DYHnTRQ4HgYmP32sS3vu) | [Yomiuri Nippon Symphony Orchestra](https://open.spotify.com/artist/15FC47aoLjTKgv0otgmXLN) | [When Marnie Was There Soundtrack Music Collection](https://open.spotify.com/album/00odo2OS2nQ1j15oeG53g2) | 3:53 | 2023-06-13 |  |
 | [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 | 2023-05-04 | 2023-05-24 |
 | [Antar \(After N\. Rimsky\-Korsakov\): No\. 7\. Ravel: Allegretto](https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Andre Dussollier](https://open.spotify.com/artist/4V1N8TlOwHVIw7INEEQnT3), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 5](https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr) | 1:05 | 2022-10-20 | 2023-01-27 |
-| [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-02 |  |
+| [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-02 | 2023-09-08 |
 | [aqua](https://open.spotify.com/track/2Txp8hmiT3aqzD7CBjILo2) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:30 | 2023-06-06 |  |
 | [As When You Find \(upstream\)](https://open.spotify.com/track/4SFnSmwr42rfstdMepschC) | [Daisuke Tanabe](https://open.spotify.com/artist/2xQI5A9WmqrOPYdfl23MCM), [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [A TROUT IN THE MILK Original Motion Picture SoundTrack](https://open.spotify.com/album/1tCnWKu5857VtLmf5JfkrT) | 4:16 | 2023-09-05 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-11-29 | 2023-01-27 |
@@ -291,6 +291,7 @@
 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 | 2022-10-20 |  |
 | [offshore](https://open.spotify.com/track/6sXJHN2YrlEtmhgXyjDp7u) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [offshore](https://open.spotify.com/album/2FYMP9FOs7du0tHHFFpwyt) | 8:04 | 2023-01-17 | 2023-02-08 |
 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 | 2022-10-20 | 2022-11-30 |
+| [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-07 |  |
 | [orbe](https://open.spotify.com/track/4YzoldEraLKKp1ioNbuYZf) | [Sohn Huma](https://open.spotify.com/artist/4Rjbb4MmZAdSqHgwXcalBx), [Republyric](https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP) | [orbe](https://open.spotify.com/album/7KE0fGJoJBcq7OX6mTDD9F) | 1:59 | 2023-01-31 | 2023-03-01 |
 | [Osmanthus](https://open.spotify.com/track/0L8pobjqk1qgI9ukXK6qMd) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Osmanthus](https://open.spotify.com/album/2eRF381GbGdgW3mV8GGluk) | 2:08 | 2022-12-01 | 2023-02-10 |
 | [Otherwise](https://open.spotify.com/track/4pREdUyxkaupSQsjrefNhk) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Give In!](https://open.spotify.com/album/0FM6rlBK5y9tkGpvRzqKOZ) | 4:03 | 2022-11-08 | 2022-12-02 |

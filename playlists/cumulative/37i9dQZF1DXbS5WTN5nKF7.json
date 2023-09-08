@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits ! Photo : Mentissa",
+  "description": "Le meilleur des hits ! Photo : Dua Lipa",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 201506,
       "name": "Brest-m\u00eame",
       "url": "https://open.spotify.com/track/6ixRlHKpirYAhqP0BpXcW2"
+    },
+    {
+      "album": {
+        "name": "\u00c9quilibre",
+        "url": "https://open.spotify.com/album/1KAqfN196NXDeuYjaNnv8V"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168402,
+      "name": "C'est la danse",
+      "url": "https://open.spotify.com/track/2T8c2wfGiP6WmrFfvZ1MAn"
     },
     {
       "album": {
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 222295,
       "name": "Premier Gaou - Nitefreak Remix",
       "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"

@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 229744,
+  "num_followers": 229767,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWNhYTZiMmUxNDU2M2M0YzdlNmI4M2NhZDNiNWYwNGY0NDMyOTdl",
+  "snapshot_id": "MCwzMzI4MTFkYjhmN2U4MDVkYjMzMGIzZTY0ZGViMzM2OThhM2I0Mzll",
   "tracks": [
     {
       "added_at": "2023-08-04 03:01:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-04 03:01:00",
       "album": {
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
+    },
+    {
+      "added_at": "2023-08-04 03:01:00",
+      "album": {
         "name": "Tudo Azul",
         "url": "https://open.spotify.com/album/6POI5YwQbVMnplbryMA4VT"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 263373,
       "name": "Volta, Meu Amor",
       "url": "https://open.spotify.com/track/1izDPzew6TdIcAJVN4XIyj"
-    },
-    {
-      "added_at": "2023-08-04 03:01:00",
-      "album": {
-        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
-        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Nogueira",
-          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Boteco do Arlindo",
-      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
     },
     {
       "added_at": "2023-08-04 03:01:00",

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-1,686 songs - 4 day 13 hr 2 min
+1,687 songs - 4 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Beautiful Mess](https://open.spotify.com/track/68KNp3G6yh9hD9MXven95L) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Beautiful Mess](https://open.spotify.com/album/3ktRtdRcZF9i9ksgYJtL1Z) | 3:22 | 2023-08-03 | 2023-08-09 |
 | [Beautiful Mess \- English Ver.](https://open.spotify.com/track/2i4pR6necpYkVnKcaHxQt7) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Beautiful Mess \(English Ver.\)](https://open.spotify.com/album/2TodryWsmoKontqzBjDsy1) | 3:22 | 2023-08-24 | 2023-08-30 |
 | [Before the Dawn](https://open.spotify.com/track/5WuuJoZCw7HTHGcp0jpGn0) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/1jWRsactv8G8RGne0ukMtk) | 3:53 | 2022-05-29 | 2022-07-27 |
-| [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 | 2022-09-20 |  |
+| [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 | 2022-09-20 | 2023-09-08 |
 | [Bet On Me](https://open.spotify.com/track/0EEXoHawr15PLM5lrA72CF) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Bet On Me](https://open.spotify.com/album/7s5wmTWGae6rAZKjIECofK) | 3:38 | 2023-02-14 | 2023-02-22 |
 | [Beyond](https://open.spotify.com/track/3j8TJsOphpnaBhMATCPFFY) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Beyond](https://open.spotify.com/album/3BPNImslHm4iPPcqObqWPs) | 4:06 | 2023-03-21 | 2023-03-29 |
 | [Binetsu \(Autumn\)](https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Binetsu \(Autumn\) / Honesty \(Session 1\)](https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp) | 4:58 | 2022-11-15 | 2022-12-14 |
@@ -926,7 +926,7 @@
 | [WALK](https://open.spotify.com/track/1ehQnIJZ6V5SrmY52N4tHU) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [WALK](https://open.spotify.com/album/3TKu8Wz0pJopuyHleuGVZu) | 3:01 | 2022-11-29 | 2022-12-14 |
 | [WALK,WALK,WALK!](https://open.spotify.com/track/2A1Ik2CCuE712ltNtwy15b) | [THE FOWLS](https://open.spotify.com/artist/7p01AAKqjfwbZIXxg3OEQ2) | [WALK,WALK,WALK!](https://open.spotify.com/album/0O2J5dgMViRQjJvP7MOnlz) | 4:48 | 2022-10-04 | 2022-10-12 |
 | [Walkin' In My Lane](https://open.spotify.com/track/3l2O4IuJ4DFEfUwDdWyPnf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Walkin' In My Lane](https://open.spotify.com/album/02KI6B3EHutDYnZHSLnIkf) | 4:00 | 2022-05-29 | 2023-03-15 |
-| [Wanna](https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Wanna](https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N) | 2:28 | 2023-08-22 | 2023-09-06 |
+| [Wanna](https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Wanna](https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N) | 2:28 | 2023-08-22 |  |
 | [WASH IT](https://open.spotify.com/track/0dw3UuqDZBRCFtN3r4ASOQ) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [WASH IT](https://open.spotify.com/album/2lhR8KI4TzL3EURFcsaTBj) | 4:21 | 2023-08-15 | 2023-08-23 |
 | [Watching Over You](https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE) | [Peach & Apricot](https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX), [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Watching Over You](https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z) | 4:57 | 2022-05-29 | 2022-09-30 |
 | [WATER](https://open.spotify.com/track/2qDAlovRA8oQYhp8YR53CM) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [WATER](https://open.spotify.com/album/3eQb5LGFtWgPoTuNqokBui) | 3:03 | 2022-06-07 | 2022-06-29 |
@@ -1146,6 +1146,7 @@
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-13 |
 | [キオクの狭間](https://open.spotify.com/track/2tYxJiNdsf94gtraX8noZX) | [marble](https://open.spotify.com/artist/2dc5blvdybsdWvxEeGAbie) | [キオクの狭間](https://open.spotify.com/album/4aPoxmq4aYUBjDlmT9VtWV) | 5:29 | 2022-09-15 | 2022-09-28 |
 | [キスしながらごめんね](https://open.spotify.com/track/3d9eaY8IT1fm2zdYOQvz7I) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv) | [キスしながらごめんね](https://open.spotify.com/album/41avACZelcwP3Fkk132dOe) | 4:16 | 2022-09-27 | 2022-10-05 |
+| [キミとボク \(リモートバージョン\)](https://open.spotify.com/track/41nCvKJteonZoil4eU9KdH) | [鈴木蘭々](https://open.spotify.com/artist/4CUt3maq0al298Ni3aXIRq) | [キミとボク \(リモートバージョン\)](https://open.spotify.com/album/6I1rj8W5qq2cuIsFwNQdFd) | 4:05 | 2023-09-07 |  |
 | [キミへ](https://open.spotify.com/track/6bKMXURPMmHZdZw0AAUeXq) | [平原綾香](https://open.spotify.com/artist/2dG2McYlq4NOdcDSsDhzPQ) | [キミへ](https://open.spotify.com/album/2jfNipMv98pN6boHIUDrfm) | 3:16 | 2022-06-14 | 2022-07-22 |
 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 | 2022-05-31 | 2023-02-22 |
 | [キャリーケースは重いままで](https://open.spotify.com/track/2ADl3dTfftKsYTVQjdY7iH) | [やましたりな](https://open.spotify.com/artist/1O235Li0262kkP7gfP6B5W) | [バイバイ、私 / キャリーケースは重いままで](https://open.spotify.com/album/6ywtlcRbSCR213Z70OZIgK) | 4:05 | 2022-06-07 | 2022-06-10 |
@@ -1608,7 +1609,7 @@
 | [織姫](https://open.spotify.com/track/6s747WsJxI43kAJvJmsJDz) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [織姫](https://open.spotify.com/album/35hFKiDi1Qmjex9jdxxwRh) | 2:44 | 2022-06-02 | 2022-07-29 |
 | [罠](https://open.spotify.com/track/0m5ocXAAv8aRTezFr6edok) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [罠](https://open.spotify.com/album/5veZgQ4mjEM0TasNtrf4hB) | 2:28 | 2023-08-22 | 2023-08-24 |
 | [罠 \- Reprise](https://open.spotify.com/track/7IkJBiv4Gg3QoV5sYYl74A) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [XinU](https://open.spotify.com/album/0D7vuUyBBwUqJHlpQkan7e) | 4:16 | 2023-05-30 | 2023-06-14 |
-| [群青色の空](https://open.spotify.com/track/0XM7DcZxqlQ0Sv68FDpJTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 2:43 | 2023-07-25 |  |
+| [群青色の空](https://open.spotify.com/track/0XM7DcZxqlQ0Sv68FDpJTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 2:43 | 2023-07-25 | 2023-09-08 |
 | [羽の上の眠り姫](https://open.spotify.com/track/7DrKbbJ5sbJRW78dWxKq6m) | [s\-o\-a](https://open.spotify.com/artist/06PBkMDgYKYZ5DfN021QKV) | [羽の上の眠り姫](https://open.spotify.com/album/4smK29LaJhDB1RcqgER7vz) | 4:38 | 2022-07-07 | 2022-07-13 |
 | [翼をください](https://open.spotify.com/track/2YY2NC3YWyagyTnt3LzXRg) | [Anne](https://open.spotify.com/artist/6DFoZlEPrlWz7bNXfNZr0i) | [翼をください](https://open.spotify.com/album/6p4QK7a29s3SERURjPwpsl) | 4:08 | 2022-10-13 | 2022-10-19 |
 | [翼をください](https://open.spotify.com/track/5dLnHCcMxfonAwwxvddYmW) | [比嘉歌子](https://open.spotify.com/artist/1VOlbNGFRks8N598A1ukfe) | [翼をください](https://open.spotify.com/album/71hPTOsdbwPtS8pFWLLrbH) | 3:44 | 2022-06-30 | 2022-07-12 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,267 songs - 2 day 19 hr 54 min
+1,268 songs - 2 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Gaza](https://open.spotify.com/track/0yHkbTORVndswYARPdzteN) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Gaza](https://open.spotify.com/album/07yBePxzS3yEn1MOOrxu4K) | 3:06 | 2022-10-14 | 2023-06-21 |
 | [Geia Sou](https://open.spotify.com/track/6dpGIUTsj7yZGhrnhccX27) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Geia Sou](https://open.spotify.com/album/54GfyTFSUeGztQc7EoWEsm) | 2:28 | 2022-05-11 | 2022-05-13 |
 | [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 | 2021-07-18 | 2021-07-19 |
-| [Gennaro](https://open.spotify.com/track/50M9lYnMrR0392Q8gH06hm) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Gennaro](https://open.spotify.com/album/31HgPOgBToBLs3gdfPHOFU) | 3:01 | 2023-04-21 |  |
+| [Gennaro](https://open.spotify.com/track/50M9lYnMrR0392Q8gH06hm) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Gennaro](https://open.spotify.com/album/31HgPOgBToBLs3gdfPHOFU) | 3:01 | 2023-04-21 | 2023-09-08 |
 | [Gennima Thremma](https://open.spotify.com/track/40qQR2ELY3IcPyRwBj2YLE) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [GoldenChild](https://open.spotify.com/artist/5p5s48lCsujHviP7XFXth0) | [Made in Athens](https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0) | 3:49 | 2022-01-22 | 2022-02-06 |
 | [Gennimeni](https://open.spotify.com/track/4ZhJ5N8Er4CfpaNakUQTkP) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Gennimeni](https://open.spotify.com/album/7w7bXS8fVJU52na0dbVqTC) | 3:50 | 2022-06-11 | 2022-08-13 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2021-08-01 | 2021-08-02 |
@@ -604,6 +604,7 @@
 | [Ksia](https://open.spotify.com/track/7ftovGU8imkVA3G8sNkWe7) | [ATC Nico](https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR), [ATC Dixblo](https://open.spotify.com/artist/2d5vpx18vH2N7BdUkUO4qH), [Triangle](https://open.spotify.com/artist/1NYvBbEqHQQDnq5m1U3MZ5) | [Gango](https://open.spotify.com/album/7Gbpb5cU5ursdUvTNHkV8k) | 2:55 | 2021-04-11 | 2021-04-13 |
 | [Ku Je Ti](https://open.spotify.com/track/7aTCnW8zpEIpYaI2Y6ypFW) | [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Ku Je Ti](https://open.spotify.com/album/1YfMzzOjhD5IBDtapwEIvx) | 2:41 | 2021-09-20 | 2022-03-21 |
 | [KURT COBAIN](https://open.spotify.com/track/64swjZsIJzWhUNqiyQTZpZ) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 2:53 | 2022-04-23 | 2022-04-29 |
+| [Kvaratskhelia](https://open.spotify.com/track/3YZJ3eTtLwJYyCSYFgI6We) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [Kvaratskhelia](https://open.spotify.com/album/6HwjkxR31flgbJek8dFSbL) | 2:14 | 2023-09-07 |  |
 | [KVL](https://open.spotify.com/track/3WxwtLjNVxdOzWISisDh8B) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 4:21 | 2023-05-20 | 2023-06-03 |
 | [Kymata](https://open.spotify.com/track/2Ji8CD64Uv37IhkCjpOcHW) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [Kymata](https://open.spotify.com/album/7iqvbakM9L30TdLq2rc2Je) | 1:32 | 2022-11-22 | 2022-11-24 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2021-05-16 | 2021-05-17 |

@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2717,
+  "num_followers": 2718,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTJlN2M4NzAyMTQ0MDc3NjdiMDRkNjE5MTFjYmZlY2NhMzQwMDI4",
+  "snapshot_id": "MCw1ZjM1NzE4NTA0MjY2NDExN2M0MTg3MjczYzA3ZWY2ZTkxODBkMjE1",
   "tracks": [
     {
       "added_at": "2023-07-17 06:14:28",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "\uac70\uc6b8 MIRROR",
+        "url": "https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 282118,
+      "name": "\uac70\uc6b8 MIRROR",
+      "url": "https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "Your Voice Makes Me Dream",
         "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
-      },
-      "artists": [
-        {
-          "name": "Hwang Inhyeock",
-          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "I Will Remember You",
-      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 267426,
-      "name": "A Letter in The Wind",
-      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
         "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
       },
@@ -783,18 +767,34 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "\uac70\uc6b8 MIRROR",
-        "url": "https://open.spotify.com/album/2BKrJ8ePL68zc2xesSdkHN"
+        "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
         }
       ],
-      "duration_ms": 282118,
-      "name": "\uac70\uc6b8 MIRROR",
-      "url": "https://open.spotify.com/track/3rJlE3EHSZcjOVI5fJZpgR"
+      "duration_ms": 254186,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 267426,
+      "name": "A Letter in The Wind",
+      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
     },
     {
       "added_at": "2023-07-17 06:14:28",

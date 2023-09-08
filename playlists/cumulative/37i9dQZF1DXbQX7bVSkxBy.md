@@ -2,7 +2,7 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ?si=UxJji0ZATZaqBeSEN\_\_L7A">Tsjarx</a>
+> Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM?si=sWdXAVp6TZOWClb2rKuidw">Samuel Folabi</a>
 
 96 songs - 8 hr 39 min
 

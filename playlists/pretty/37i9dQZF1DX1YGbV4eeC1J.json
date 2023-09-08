@@ -1,15 +1,15 @@
 {
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Jux & Jay Melody",
-  "num_followers": 14972,
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Kusah",
+  "num_followers": 15008,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjkyZjllM2MwYTU5OTdkYWU0Mjg2NTU3MDdlZWVhYzY5YWY1M2U5",
+  "snapshot_id": "MCw0ZDRiNDRhNDRkNjIxMzMxMjlhNTliMDUzZTJkODYyY2QzNmEwZmZk",
   "tracks": [
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Ananipenda",
         "url": "https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl"
@@ -29,43 +29,7 @@
       "url": "https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        },
-        {
-          "name": "Jay Melody",
-          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Mahaba",
-        "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 196838,
-      "name": "Mahaba",
-      "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
@@ -81,7 +45,23 @@
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Wa Sasa",
+        "url": "https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Wa Sasa",
+      "url": "https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "No Body (feat. Bien)",
         "url": "https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d"
@@ -101,7 +81,43 @@
       "url": "https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Mahaba",
+        "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 196838,
+      "name": "Mahaba",
+      "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Show Off",
         "url": "https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ"
@@ -121,23 +137,23 @@
       "url": "https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "Salome",
-        "url": "https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds"
+        "name": "Nitaubeba",
+        "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
       },
       "artists": [
         {
-          "name": "Bahati",
-          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 237209,
-      "name": "Salome",
-      "url": "https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS"
+      "duration_ms": 250666,
+      "name": "Nitaubeba",
+      "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
@@ -157,23 +173,7 @@
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Nitaubeba",
-        "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Nitaubeba",
-      "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW"
@@ -189,39 +189,7 @@
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Khan",
-        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 177878,
-      "name": "Huyu Hapa",
-      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Utaniua",
-        "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Utaniua",
-      "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Jeraha",
         "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
@@ -241,23 +209,39 @@
       "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
-        "name": "My Vow",
-        "url": "https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC"
+        "name": "Khan",
+        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
       },
       "artists": [
         {
-          "name": "Meddy",
-          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
         }
       ],
-      "duration_ms": 237400,
-      "name": "My Vow",
-      "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
+      "duration_ms": 177878,
+      "name": "Huyu Hapa",
+      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Utaniua",
+        "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Utaniua",
+      "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5"
@@ -273,7 +257,23 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "My Vow",
+        "url": "https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC"
+      },
+      "artists": [
+        {
+          "name": "Meddy",
+          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "My Vow",
+      "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Katerina",
         "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "King of Hearts",
         "url": "https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ"
@@ -309,7 +309,23 @@
       "url": "https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Salome",
+        "url": "https://open.spotify.com/album/19xJAnGHkXJiDGGRp1cuds"
+      },
+      "artists": [
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Salome",
+      "url": "https://open.spotify.com/track/0JLtgyXqNW0qZfPFnA7GTS"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Hawataweza",
         "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
@@ -325,7 +341,23 @@
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Amelowa",
+        "url": "https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 179186,
+      "name": "Amelowa",
+      "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Above & Beyond",
         "url": "https://open.spotify.com/album/3ggNsXYLqKEx7Chc0Gl2BM"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/6tPnKaaMMBzCZaiGGflRmR"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "My Sugar (feat. Nadia Mukami)",
         "url": "https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY"
@@ -361,7 +393,7 @@
       "url": "https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Napendwa",
         "url": "https://open.spotify.com/album/7uSvaZCFzAnZTxSuLcUu4O"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/6ThP7PzsOKFqMdJze74nxh"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Mtima",
         "url": "https://open.spotify.com/album/4Lnyw7ZJuIIxeSf1WhTM0K"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Wimbo Wetu",
         "url": "https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr"
@@ -429,7 +461,7 @@
       "url": "https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Umenipata",
         "url": "https://open.spotify.com/album/2oJobikik4V1YQ6hr4Wzpi"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Flowers III",
         "url": "https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Nalego",
         "url": "https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g"
@@ -481,7 +513,7 @@
       "url": "https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Nana",
         "url": "https://open.spotify.com/album/6SpeTOCv5BzrJis3dUxmBU"
@@ -497,7 +529,7 @@
       "url": "https://open.spotify.com/track/0gwDoWMGqKUDZKFVnIGSJB"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Sunina",
         "url": "https://open.spotify.com/album/5t77HSTbhdvM1n7KEh9urC"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/5CBvhD0E4XClAsdpug6KWK"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Love & Vibes",
         "url": "https://open.spotify.com/album/1kHwfAtBDOcE1cWChXeGNa"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/6FIJbcrsBRPJ6aMD0pK6Gc"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Morning Call",
         "url": "https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Popo",
         "url": "https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Love & Vibes",
         "url": "https://open.spotify.com/album/5siLX3JnBQwSCMUgPM3Gjp"
@@ -589,7 +621,7 @@
       "url": "https://open.spotify.com/track/7F9u95UV1uLvGd2niJByiD"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "I Miss You (feat. Zuchu)",
         "url": "https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD"
@@ -677,7 +709,23 @@
       "url": "https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        }
+      ],
+      "duration_ms": 167234,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "The Love Album",
         "url": "https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT"
@@ -697,7 +745,7 @@
       "url": "https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "The Kid You Know",
         "url": "https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84"
@@ -713,23 +761,7 @@
       "url": "https://open.spotify.com/track/3aLDDpMZhXKMfIFzd5nTfP"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Amelowa",
-        "url": "https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Amelowa",
-      "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Just In Love",
         "url": "https://open.spotify.com/album/61iIaWu85Ga1TtnIqIM4M1"
@@ -749,7 +781,7 @@
       "url": "https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Umeme",
         "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
@@ -781,7 +813,23 @@
       "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
+      "album": {
+        "name": "Nimepona",
+        "url": "https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Nimepona",
+      "url": "https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY"
+    },
+    {
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Midnight Train",
         "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
@@ -797,7 +845,7 @@
       "url": "https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Napona",
         "url": "https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6"
@@ -817,7 +865,7 @@
       "url": "https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Nampenda",
         "url": "https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb"
@@ -833,39 +881,7 @@
       "url": "https://open.spotify.com/track/6bY6Rrr3enYLfJK7djbgZQ"
     },
     {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Sina Neno",
-        "url": "https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "Sina Neno",
-      "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Nimepona",
-        "url": "https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ"
-      },
-      "artists": [
-        {
-          "name": "Ibraah",
-          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Nimepona",
-      "url": "https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
+      "added_at": "2023-09-07 20:59:00",
       "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX"
@@ -879,22 +895,6 @@
       "duration_ms": 213621,
       "name": "Two",
       "url": "https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr"
-    },
-    {
-      "added_at": "2023-08-31 20:59:00",
-      "album": {
-        "name": "Pillow Talk",
-        "url": "https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j"
-      },
-      "artists": [
-        {
-          "name": "V-Be",
-          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
-        }
-      ],
-      "duration_ms": 167234,
-      "name": "Pillow Talk",
-      "url": "https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD"
     }
   ],
   "unique_name": "Swahili Love ",

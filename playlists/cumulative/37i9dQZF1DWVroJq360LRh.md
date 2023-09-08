@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-243 songs - 13 hr 33 min
+244 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Don't Be Cruel](https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Don't Be Cruel](https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq) | 2:41 | 2022-08-03 |  |
 | [Don't Start Now](https://open.spotify.com/track/1AwDOZDmkTF0RpMXFbyz7p) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [Don't Start Now \(Cover\)](https://open.spotify.com/album/2VPnia91hlWgNAGDHn1kUQ) | 3:31 | 2022-01-12 | 2022-07-29 |
 | [Don't Start Now](https://open.spotify.com/track/3HHzqOZpEHA7jc1zSaaGPJ) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [Don't Start Now](https://open.spotify.com/album/0lg04Mk7Y1oTsG1UaOD5Wj) | 3:31 | 2022-07-26 | 2022-11-12 |
+| [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 | 2023-09-08 |  |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2022-01-12 |  |
 | [Dust in the Wind](https://open.spotify.com/track/61xloqK2WobSa8A9HhxR1T) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Dust in the Wind](https://open.spotify.com/album/58D2WGUEH9zfhjOBfwBy39) | 3:15 | 2022-01-12 |  |
 | [Dust On The Ground](https://open.spotify.com/track/3fyOzUoRQJmGxzJ0dPR1KW) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 4:03 | 2022-01-12 | 2022-08-30 |
@@ -197,7 +198,7 @@
 | [Say you won't let go](https://open.spotify.com/track/3jUhEX67qxI3SNbfk6kMSH) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Say you won't let go](https://open.spotify.com/album/0U4G71eZFGgeMSlOZ3qDYF) | 3:19 | 2022-11-11 |  |
 | [Say You Won't Let Go](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:31 | 2022-11-11 |  |
 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 | 2022-01-12 | 2022-06-04 |
-| [Send My Love \(To Your New Lover\) \- Acoustic Version](https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [25 Acoustic \(Acoustic Version\)](https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a) | 3:37 | 2022-01-12 |  |
+| [Send My Love \(To Your New Lover\) \- Acoustic Version](https://open.spotify.com/track/2NZXGZVgML83MePjoxxofN) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [25 Acoustic \(Acoustic Version\)](https://open.spotify.com/album/2hDCebKKttYzWSJEnp9m0a) | 3:37 | 2022-01-12 | 2023-09-08 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-11-11 | 2022-12-24 |
 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 | 2023-02-17 | 2023-06-02 |
 | [Shape Of My Heart \- Acoustic Version](https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Shape Of My Heart \(Acoustic Version\)](https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7) | 3:03 | 2022-01-12 | 2023-06-02 |
@@ -226,7 +227,7 @@
 | [Tenerife Sea](https://open.spotify.com/track/6vSwxzO2Qf4BinHSXRwZJe) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:01 | 2022-07-26 |  |
 | [Thank You Next \- Bossa Nova](https://open.spotify.com/track/0oDaCDJSz9K878vbIOmQsT) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Thank You Next \- Bossa Nova](https://open.spotify.com/album/4cpGMTeSx4MyAbDgfW51ih) | 3:47 | 2022-05-06 | 2023-06-16 |
 | [The A Team](https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [The A Team](https://open.spotify.com/album/5F0rVfRsZs4pbmjVlbVD55) | 3:05 | 2022-01-12 |  |
-| [The Body](https://open.spotify.com/track/5pVzgoVzrM07rWm0Ui7HBg) | [John Blek](https://open.spotify.com/artist/5CxmG18g0Za8n3kxtRShFj) | [Thistle & Thorn](https://open.spotify.com/album/4CSy2t88qUFosP05IIpjoI) | 4:30 | 2022-01-12 |  |
+| [The Body](https://open.spotify.com/track/5pVzgoVzrM07rWm0Ui7HBg) | [John Blek](https://open.spotify.com/artist/5CxmG18g0Za8n3kxtRShFj) | [Thistle & Thorn](https://open.spotify.com/album/4CSy2t88qUFosP05IIpjoI) | 4:30 | 2022-01-12 | 2023-09-08 |
 | [The Limit To Your Love](https://open.spotify.com/track/5ApxZEQ1u6BhPrqeolLi6K) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 4:20 | 2022-01-12 | 2022-11-12 |
 | [the middle](https://open.spotify.com/track/27v7ld43GiWxEPYph8WiEd) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [the middle](https://open.spotify.com/album/4aPHv1yKosqeIAgpbR78Rb) | 3:20 | 2023-02-17 |  |
 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 | 2022-08-03 |  |
@@ -236,7 +237,7 @@
 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 | 2022-01-12 |  |
 | [Time After Time](https://open.spotify.com/track/1gcciAKMxnfM5wpiGmWMWe) | [Theresa Sokyrka](https://open.spotify.com/artist/2zAv7AJFf3oFv3OSYijDZV), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Time After Time](https://open.spotify.com/album/5nK2Jv9zFovAu7eu3SeeB2) | 3:48 | 2022-01-12 |  |
 | [u are my sunshine](https://open.spotify.com/track/69aQlycGbzRbcY2gPTSQsh) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [u are my sunshine](https://open.spotify.com/album/4xIKwtgVoRggtMXiv9ySOu) | 2:05 | 2022-06-03 | 2023-06-02 |
-| [Under The Sun \- Acoustic](https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:10 | 2022-11-11 |  |
+| [Under The Sun \- Acoustic](https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:10 | 2022-11-11 | 2023-09-08 |
 | [Until I Found You](https://open.spotify.com/track/4HwUDalB30KzSQVbSbr4je) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Until I Found You](https://open.spotify.com/album/7F9CzPe6XFDYIEzh8KVtpc) | 3:17 | 2022-12-23 | 2023-06-02 |
 | [Use Somebody](https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Use Somebody](https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC) | 3:08 | 2022-11-11 |  |
 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 | 2022-12-23 |  |

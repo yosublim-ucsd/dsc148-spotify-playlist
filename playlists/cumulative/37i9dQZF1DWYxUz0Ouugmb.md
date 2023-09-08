@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: ENVY\*
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Awdella
 
 165 songs - 10 hr 30 min
 

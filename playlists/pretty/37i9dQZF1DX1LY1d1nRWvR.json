@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 28761,
+  "num_followers": 28814,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQwMGE2NWM0NTFiZTQ4Yzc3NjkyMzJhNmYyYThiYjY0NjNjOWE4",
+  "snapshot_id": "MCw3YWMxYzNhM2I4OTU0MTA5Yjc3MDI1NjEyYTg2Mjg1ZTlhMzU0Mzhi",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -611,6 +611,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
+      },
+      "artists": [
+        {
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+        }
+      ],
+      "duration_ms": 356313,
+      "name": "Mother Theresa - Original Mix",
+      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Highlife World Series: Cuba",
-        "url": "https://open.spotify.com/album/5H7bXAW9DD4rhFsVcFInkE"
-      },
-      "artists": [
-        {
-          "name": "Auntie Flo",
-          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
-        }
-      ],
-      "duration_ms": 356313,
-      "name": "Mother Theresa - Original Mix",
-      "url": "https://open.spotify.com/track/59IQ2oXNWFyoNJmISYjj7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 416871,
-      "name": "Night Of Desirable Objects",
-      "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Umama - A COLORS SHOW",
         "url": "https://open.spotify.com/album/31UdsiaxpCNVTndrA75zDw"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 244928,
       "name": "Umama - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5Wupd4GMerV7h8zcDDitXN"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 416871,
+      "name": "Night Of Desirable Objects",
+      "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
     },
     {
       "added_at": "2021-10-08 17:36:35",

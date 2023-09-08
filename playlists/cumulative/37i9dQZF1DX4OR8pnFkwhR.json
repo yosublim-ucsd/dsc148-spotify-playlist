@@ -6081,6 +6081,24 @@
     },
     {
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/6arL1z6JW10H9T40CsE2mM"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302628,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/5yNEp4E4ZFljj3RIVgxZxh"
+    },
+    {
+      "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
       },
@@ -6808,7 +6826,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 135850,
       "name": "No Muse",
       "url": "https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz"
@@ -13063,6 +13081,24 @@
     },
     {
       "album": {
+        "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
+        "url": "https://open.spotify.com/album/2o67tneHxUqu03nqENYij1"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
+      "url": "https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x"
+    },
+    {
+      "album": {
         "name": "\u308f\u305f\u3057\u9054\u306e\u30b8\u30e3\u30fc\u30cb\u30fc",
         "url": "https://open.spotify.com/album/209qMKGCRlobYowrmvIRgo"
       },
@@ -17702,6 +17738,24 @@
       "duration_ms": 300493,
       "name": "\u6c38\u9060\u304c\u7d9a\u304f\u306e\u306f",
       "url": "https://open.spotify.com/track/7bB7OP4l5vuDwxSUTqgfKg"
+    },
+    {
+      "album": {
+        "name": "\u6ce3\u304d\u866b",
+        "url": "https://open.spotify.com/album/5Ns0CX51mneYF6HABLbO0m"
+      },
+      "artists": [
+        {
+          "name": "\u304f\u3060\u3089\u306a\u30441\u65e5",
+          "url": "https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280051,
+      "name": "\u6ce3\u304d\u866b",
+      "url": "https://open.spotify.com/track/29j1V9spM4H71IQpYhKixj"
     },
     {
       "album": {

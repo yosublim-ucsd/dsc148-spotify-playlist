@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-354 songs - 22 hr 57 min
+355 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [To The Other Man](https://open.spotify.com/track/1I3xgRAsHGDMaRHsawyN45) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [Pity for the Lonely](https://open.spotify.com/album/5nrPurMxX7n7lpky0EFo6C) | 4:02 | 2023-01-09 | 2023-06-28 |
 | [Tonight I Celebrate My Love](https://open.spotify.com/track/622nEHkm52E6ijVShcea9f) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Peabo Bryson Collection](https://open.spotify.com/album/2PZbzFwkxnZ3vfOeB1zoIZ) | 3:31 | 2023-01-09 |  |
 | [Trouble](https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [No Beginning No End](https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW) | 3:28 | 2023-06-27 |  |
+| [Trouble Man](https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Trouble Man: 40th Anniversary Expanded Edition](https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB) | 3:48 | 2023-08-15 |  |
 | [Try A Little Tenderness](https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 3:20 | 2023-01-09 |  |
 | [Turn Your Love Around \- 2015 GH Version](https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Ultimate Collection](https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv) | 3:49 | 2023-01-09 |  |
 | [Until You Came into My Life](https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 3:12 | 2023-06-27 |  |
@@ -361,6 +362,6 @@
 | [Your Love Is King \- Remastered](https://open.spotify.com/track/5EwNOL1CWnM74ptsVvW9OV) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:41 | 2023-01-09 | 2023-06-28 |
 | [Your Love Is Like A Song To Me](https://open.spotify.com/track/5XsN9JLWz9QRmUzFozsIao) | [The Ovations](https://open.spotify.com/artist/4pZJw2pjpyxcqdOUmYdwSY), [Louis Williams](https://open.spotify.com/artist/2GtB02M8GaQerOSq3aVNvO) | [The Complete Sounds Of Memphis Albums](https://open.spotify.com/album/15XXBiHfUk2BvW6ApShy5n) | 3:03 | 2023-01-09 | 2023-06-28 |
 | [Your Love Lifted Me](https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Patches](https://open.spotify.com/album/2AcHC18egTq63cyBagwINA) | 2:39 | 2023-01-09 | 2023-06-28 |
-| [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 | 2023-01-09 |  |
+| [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 | 2023-01-09 | 2023-09-08 |
 
 \*This playlist was first scraped on 2023-04-28. Prior content cannot be recovered.

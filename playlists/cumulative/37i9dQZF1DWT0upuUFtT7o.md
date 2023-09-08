@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: juju <3
 
-1,822 songs - 4 day 3 hr 36 min
+1,824 songs - 4 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Bouncing off the Bottom](https://open.spotify.com/track/6Hj5y3x9LhxJRy0GdMBLnj) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 4:02 | 2022-03-16 | 2022-04-13 |
 | [Bound Together](https://open.spotify.com/track/1dPgumUfWqavISCyTY2wL8) | [Young Monks](https://open.spotify.com/artist/6ZreVUHffpj7WprfTK69Fu) | [Bound Together](https://open.spotify.com/album/7bcYjGHrF2qDnKLp1ezy6L) | 3:51 | 2022-07-27 | 2022-08-25 |
 | [BOY FEELINGS](https://open.spotify.com/track/3R5moFhz0qhnYsXBoqX9RL) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [BOY FEELINGS](https://open.spotify.com/album/5VZHnMvdghMtvGvynEehCn) | 3:28 | 2023-05-24 | 2023-07-11 |
+| [Boy Next Door](https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Study](https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ) | 3:39 | 2023-09-07 |  |
 | [BOYFRIEND KILLER](https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [BOYFRIEND KILLER](https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM) | 3:14 | 2021-12-01 | 2022-01-13 |
 | [Boyish](https://open.spotify.com/track/2DYatPRaob8ENa1yYQkyc7) | [girly.](https://open.spotify.com/artist/2gSSQtOkz05R46WpZDNckK) | [Boyish](https://open.spotify.com/album/1HxBZlaPPpjBGyAYgQeiy5) | 3:14 | 2022-02-22 | 2022-03-17 |
 | [Boys Are](https://open.spotify.com/track/5iC2ejeKQvsbJPeVuWqioo) | [Pol](https://open.spotify.com/artist/4kexjnM5nXo138D9lAhJFd), [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w), [Matthijs Pol](https://open.spotify.com/artist/3fwkslWfbKf4o40gQ1iYl0) | [Boys Are](https://open.spotify.com/album/4lRqOjQj3HtMNoHniVIuI7) | 3:00 | 2022-06-29 | 2022-08-04 |
@@ -1022,7 +1023,7 @@
 | [Mess](https://open.spotify.com/track/1B2swVLQqzG52TSqfaTE1N) | [Drowsy](https://open.spotify.com/artist/2Sqm6MFN5019innB8vdSr9), [David Grants](https://open.spotify.com/artist/178Ssr86mnVjKIoHwGGYx9) | [Mess](https://open.spotify.com/album/3VMKesnpwCPucsYMpB2ZzS) | 3:57 | 2023-04-26 | 2023-05-31 |
 | [Messy Chorus](https://open.spotify.com/track/6Qd9GyOtGBqmhrCw8RJyx1) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Messy Chorus](https://open.spotify.com/album/7xAMYzVq90cmGjtgkDgudf) | 3:02 | 2023-06-14 | 2023-07-12 |
 | [Metchu](https://open.spotify.com/track/2wWP4NtKU3qw0OdN4VOwxh) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Metchu](https://open.spotify.com/album/20VCFH3uHfqBj6ZLil9mnK) | 3:36 | 2022-06-15 | 2022-07-07 |
-| [meteor](https://open.spotify.com/track/0mmltNgymbcts1fxQ0d9PR) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [meteor](https://open.spotify.com/album/7uQmwYCrxS17OirBHBxav1) | 1:57 | 2023-08-02 |  |
+| [meteor](https://open.spotify.com/track/0mmltNgymbcts1fxQ0d9PR) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [meteor](https://open.spotify.com/album/7uQmwYCrxS17OirBHBxav1) | 1:57 | 2023-08-02 | 2023-09-08 |
 | [Metronome](https://open.spotify.com/track/4rrAFQ69A5pt4Tp8QdZOtg) | [Wednesday Kid](https://open.spotify.com/artist/0FYNZV3DiWspF9x7YAhYIU) | [Metronome](https://open.spotify.com/album/6BwbY7fN2C06ZIgLBj5HpT) | 2:45 | 2022-03-09 | 2022-04-27 |
 | [Michael](https://open.spotify.com/track/1bMxEHBvZMTnHms5ee0QmB) | [James Kemsley](https://open.spotify.com/artist/5tgurklKFlgDc76Arh3QbZ) | [Michael](https://open.spotify.com/album/76ZNxrdvUP3y3o54JuT1lg) | 2:41 | 2022-04-06 | 2022-04-27 |
 | [Michelle](https://open.spotify.com/track/512KrOic5RhnnHYn0F1gBv) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [For We Are Distant](https://open.spotify.com/album/7knkJrs3ILgOPtzSfD68YT) | 3:42 | 2021-12-01 | 2022-01-13 |
@@ -1546,6 +1547,7 @@
 | [Sway](https://open.spotify.com/track/50Opxhj5GxjF47Fc5SXoZl) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [Sway](https://open.spotify.com/album/3ZYTXFJA0ju3dk4PErgh5O) | 4:26 | 2023-02-15 | 2023-03-23 |
 | [sweaterback](https://open.spotify.com/track/10FLPZOTIJPzac0Cb15YXK) | [Théo Amo](https://open.spotify.com/artist/2PEtzfEYvyObaa1yQLFVum) | [sweaterback](https://open.spotify.com/album/2YVdt9Pq1ULT9gDXhj61ia) | 2:16 | 2022-06-29 | 2022-08-04 |
 | [Sweet Bobby](https://open.spotify.com/track/7iLbdNVX5qFSvJUxey3Hnp) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Sweet Bobby](https://open.spotify.com/album/3reoTPkwIAo6ZLNJqgg2qF) | 4:13 | 2023-05-31 | 2023-06-15 |
+| [Sweet Taste](https://open.spotify.com/track/3kPK0OBCCzH0y2xYcf2qeA) | [smol fish](https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v) | [Crocodile Tears](https://open.spotify.com/album/0sSh6RUhUl11G0yh5fKJ3x) | 2:24 | 2023-09-08 |  |
 | [Sweets Always Win The Crowd](https://open.spotify.com/track/34r3VLLdANQwMkKDE4Jeex) | [Sid's Balcony](https://open.spotify.com/artist/3xaYtryvMV4jdpx3h4Ydaq) | [Sweets Always Win The Crowd](https://open.spotify.com/album/0MP6IEdNFmxNnbihrKRzS6) | 3:14 | 2023-08-16 |  |
 | [Swimming Pool](https://open.spotify.com/track/6VBWStlrhtYvuLPbO12NX5) | [Shane T](https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X) | [Swimming Pool](https://open.spotify.com/album/6ixzzzRuELqypzHlqhR6SD) | 3:20 | 2023-08-23 |  |
 | [Sylvia \(lost her sense of being a woman\)](https://open.spotify.com/track/4k6iWqC5WsIQucmVGzVW6K) | [Dida Pelled](https://open.spotify.com/artist/0glvBhmWig9yQPSojyqhxe) | [Sylvia \(lost her sense of being a woman\)](https://open.spotify.com/album/65nopHbhoUdTvtQm7RMLNX) | 3:18 | 2022-04-06 | 2022-04-27 |
@@ -1647,7 +1649,7 @@
 | [Too Few Tattoos](https://open.spotify.com/track/2MULdl5TdUJCAxJfd8fHjF) | [Pretty Jane & the Magazines](https://open.spotify.com/artist/6epJ25SOjrUlNIH80KKluq) | [Too Few Tattoos](https://open.spotify.com/album/1mZgSgGyJ8seP3ByQ8cAg8) | 2:24 | 2023-01-11 | 2023-03-23 |
 | [Too Much for Me](https://open.spotify.com/track/4n7yADHdl49Z0R13zOv15w) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [Too Much for Me](https://open.spotify.com/album/5TJPtvfEouXDbFfFRSWrGq) | 3:43 | 2023-02-15 | 2023-03-23 |
 | [too much too soon](https://open.spotify.com/track/2JJoUZhEMlUHEWYLMA58yY) | [Cindë](https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz) | [too much too soon](https://open.spotify.com/album/2CHJagCyB48dhJhgh594ZK) | 3:43 | 2022-03-16 | 2022-04-27 |
-| [too strong](https://open.spotify.com/track/1soy2KpqWppS1vzVMPpTvb) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [too strong](https://open.spotify.com/album/2UDA04UrxhydfzN1KNiv7X) | 3:51 | 2023-08-08 |  |
+| [too strong](https://open.spotify.com/track/1soy2KpqWppS1vzVMPpTvb) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [too strong](https://open.spotify.com/album/2UDA04UrxhydfzN1KNiv7X) | 3:51 | 2023-08-08 | 2023-09-08 |
 | [Too Young to Understand](https://open.spotify.com/track/0KcbL2mfhCb3xAThqKqzES) | [Work Wife](https://open.spotify.com/artist/3uPvy8pktQ5n3mZCZzOew9) | [Too Young to Understand](https://open.spotify.com/album/6rMlQHN2dSzNdikqFjmoz9) | 4:46 | 2022-11-09 | 2023-02-16 |
 | [Took One Look](https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ) | [Muunjuun](https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7) | [Took One Look](https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w) | 2:20 | 2023-08-23 |  |
 | [Tore](https://open.spotify.com/track/62IJLBwpm1ax73HidrU9pm) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Tore](https://open.spotify.com/album/41ksxVl2MrrsUOFjPyjlGM) | 3:26 | 2023-07-24 | 2023-08-24 |

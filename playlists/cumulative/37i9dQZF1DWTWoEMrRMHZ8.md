@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Joyce Alane
 
-534 songs - 1 day 7 hr 45 min
+535 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Caso Perdido](https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO) | [Arthus Fochi](https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj), [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Caso Perdido](https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff) | 3:24 | 2022-06-03 | 2023-02-23 |
 | [Chega Mais](https://open.spotify.com/track/2SQRsk99Nqc4zcIEEGQVP6) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Chega Mais](https://open.spotify.com/album/437Is8g7XRISt1F7Q4CNKi) | 3:28 | 2021-12-24 | 2022-04-30 |
 | [Cheia de Dobras](https://open.spotify.com/track/0ELWsJBhMIdIUhjM0zzx39) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq), [Julia Branco](https://open.spotify.com/artist/7023uToWKoLCvKPgpuv8uo) | [Cheia de Dobras](https://open.spotify.com/album/1x2Xb2Ho7Kq2fBxOiL2KGO) | 3:15 | 2021-12-24 | 2022-06-18 |
-| [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-02 |  |
+| [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-02 |  |
+| [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-02 | 2023-09-08 |
 | [Choro Sim](https://open.spotify.com/track/7c9dHMvFEGcAy8293IsYp5) | [Matheus VK](https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl), [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [João Cavalcanti](https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK) | [Choro Sim](https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P) | 3:24 | 2022-07-15 | 2022-09-24 |
 | [Circo](https://open.spotify.com/track/2H2EVcoUH7keVApyE5plx8) | [Beatriz Azevedo](https://open.spotify.com/artist/4fIGoIA5oaJn3HorAEQFNG), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Marcelo Costa](https://open.spotify.com/artist/1tTqJwIDhSkWuFsME8jaro) | [Clarice Clarão](https://open.spotify.com/album/3XIPcBQshFIDjYT02ruvEY) | 3:20 | 2022-08-11 | 2022-08-20 |
 | [Ciumeira](https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Ciumeira](https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9) | 2:31 | 2022-08-19 | 2023-03-04 |

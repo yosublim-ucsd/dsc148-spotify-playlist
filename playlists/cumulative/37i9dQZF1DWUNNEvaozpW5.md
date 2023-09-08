@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-325 songs - 21 hr 9 min
+326 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Respirar](https://open.spotify.com/track/3suezOyQvBNkgZPbgAtIJu) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6) | [Respirar](https://open.spotify.com/album/2eqkan0najTgJ8MDf3n9y9) | 3:45 | 2023-03-23 | 2023-04-14 |
 | [Revolución turra \- En directo Razzmatazz](https://open.spotify.com/track/000bhyTmlJJJnWzA2xrhAa) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Revolución turra \(En directo Razzmatazz\)](https://open.spotify.com/album/2sUNWdu8cnAq19y2mgO5wO) | 3:16 | 2023-06-01 | 2023-06-09 |
 | [Rey del Glam](https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:59 | 2022-05-19 | 2022-07-29 |
+| [Rock And Roll en la Plaza del Pueblo](https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Matricula De Honor/New Booklet](https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv) | 3:00 | 2023-08-31 |  |
 | [Rock and Roll Star \- 2017 Remaster](https://open.spotify.com/track/6UJZUMcCgKHi4uGozQc8EE) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock and Roll Actitud \(1978\-2018\)](https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92) | 4:09 | 2023-08-21 | 2023-09-06 |
 | [Rock and Roll Star \- Remaster 2017](https://open.spotify.com/track/3EV5Oh2zrKF0FIKWxnE3L0) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Los tiempos están cambiando \(Remaster 2017\)](https://open.spotify.com/album/1sLl4Mj1wY4FSVzRhIT99m) | 4:09 | 2022-05-19 | 2022-07-29 |
 | [Rockstar](https://open.spotify.com/track/4tDWJpfGAdD2Ttm47IjX1r) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Rockstar](https://open.spotify.com/album/5TEmJiH317A6sLPWg27LRj) | 3:07 | 2023-07-27 | 2023-08-25 |
@@ -277,7 +278,7 @@
 | [Ruido Blanco](https://open.spotify.com/track/5QNS6ozG3BwrcPPMSBq81h) | [Chelsea Boots](https://open.spotify.com/artist/60ug17UU1lHhqisQwRPxkX) | [Parte I](https://open.spotify.com/album/34idRxomeCJD1h9JSzYViA) | 3:28 | 2023-05-25 | 2023-06-02 |
 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 | 2022-06-23 |  |
 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 | 2022-05-19 |  |
-| [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 | 2022-06-09 |  |
+| [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 | 2022-06-09 | 2023-09-08 |
 | [Se acaba el baile](https://open.spotify.com/track/2Ne8blsOJHicHczTEAE318) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Los potros del tiempo](https://open.spotify.com/album/2wq6iSLc1qwarbRghaaKJY) | 3:39 | 2022-12-22 | 2023-04-14 |
 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 | 2022-05-19 |  |
 | [Si Quieres Que Nos Conozcamos Mejor](https://open.spotify.com/track/6mjOb7E0QIDuQLGlYy0ptU) | [JJ Fuentes](https://open.spotify.com/artist/3LKonBMDeuBrlNopNw6cld), [Álvaro Urquijo](https://open.spotify.com/artist/0yiwWDdqEuLc99kyfJgOEP), [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Si Quieres Que Nos Conozcamos Mejor](https://open.spotify.com/album/1mY8WUu4K7VVNsAPVLIbNE) | 3:53 | 2023-06-29 | 2023-07-14 |

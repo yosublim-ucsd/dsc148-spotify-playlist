@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 240000,
       "name": "100 Maneiras",
       "url": "https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 192864,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 163528,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr"
@@ -1583,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "Confuso",
+        "url": "https://open.spotify.com/album/6pVY3jn7fL6yGfHk24e8uv"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Confuso",
+      "url": "https://open.spotify.com/track/61hLjlVfhtDFt8k2qZpsfD"
+    },
+    {
+      "album": {
         "name": "Conquista Mundo",
         "url": "https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 151026,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6vRa0xwMWiBR8fvGd7brnb"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 184444,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp"
@@ -3492,6 +3510,24 @@
       "duration_ms": 172300,
       "name": "Jura",
       "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
+    },
+    {
+      "album": {
+        "name": "Just Trynna Eat",
+        "url": "https://open.spotify.com/album/4zZmZ5l2bdEHikQYm7ulYN"
+      },
+      "artists": [
+        {
+          "name": "Bala G",
+          "url": "https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224125,
+      "name": "Just Trynna Eat",
+      "url": "https://open.spotify.com/track/0Gen7g1boKyiAvxcKkzFC0"
     },
     {
       "album": {
@@ -4615,6 +4651,28 @@
     },
     {
       "album": {
+        "name": "M\u00f3nica",
+        "url": "https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "M\u00f3nica",
+      "url": "https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g"
+    },
+    {
+      "album": {
         "name": "N'ta Amau",
         "url": "https://open.spotify.com/album/7ClEhkAX46ygzQGE3VuSWU"
       },
@@ -5499,6 +5557,24 @@
     },
     {
       "album": {
+        "name": "Perdidos num ride",
+        "url": "https://open.spotify.com/album/0b8fBRFdog2EDrlKOpbeUi"
+      },
+      "artists": [
+        {
+          "name": "Mellow.",
+          "url": "https://open.spotify.com/artist/36NFsSn6M5LKMgg6spitOU"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207366,
+      "name": "Perdidos num ride",
+      "url": "https://open.spotify.com/track/7Bf3UJA5Dsg4egyw4VgVG2"
+    },
+    {
+      "album": {
         "name": "Pick Up The Phone",
         "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
       },
@@ -6309,6 +6385,24 @@
     },
     {
       "album": {
+        "name": "Saudades",
+        "url": "https://open.spotify.com/album/25aQvTGMXD64EsjTSZDHS7"
+      },
+      "artists": [
+        {
+          "name": "Odah Odah",
+          "url": "https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212688,
+      "name": "Saudades",
+      "url": "https://open.spotify.com/track/4zcd47kKnAja9SU61xNL2o"
+    },
+    {
+      "album": {
         "name": "Say Yeah",
         "url": "https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid"
       },
@@ -6422,7 +6516,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 196800,
       "name": "Sem Parar",
       "url": "https://open.spotify.com/track/7nSqmvOMgDzAhr7hkLx3gN"
@@ -7054,6 +7148,24 @@
       "duration_ms": 183321,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/6FLLyTSefYwiSshGlofEsM"
+    },
+    {
+      "album": {
+        "name": "Tempo Perdido",
+        "url": "https://open.spotify.com/album/4F6Gt40NFBhX7xsiUNjuv7"
+      },
+      "artists": [
+        {
+          "name": "VALE",
+          "url": "https://open.spotify.com/artist/1zBe6fC6su0Z6xEwXYDPbk"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238350,
+      "name": "Tempo Perdido",
+      "url": "https://open.spotify.com/track/3p7AgzNf2zkKQX1tcTvkm4"
     },
     {
       "album": {

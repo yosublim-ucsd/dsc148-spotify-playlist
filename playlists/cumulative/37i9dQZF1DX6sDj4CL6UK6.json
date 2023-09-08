@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Blueboy Must Die",
+        "url": "https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164725,
+      "name": "Elevator Music (OMG)",
+      "url": "https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2"
+    },
+    {
+      "album": {
         "name": "Eleven",
         "url": "https://open.spotify.com/album/5156bg3GMWbE5HG0fYIpIE"
       },
@@ -4243,6 +4261,32 @@
     },
     {
       "album": {
+        "name": "Two Kites",
+        "url": "https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Noi Naa",
+          "url": "https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2"
+        },
+        {
+          "name": "YONLAPA",
+          "url": "https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "Two Kites",
+      "url": "https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80"
+    },
+    {
+      "album": {
         "name": "Unicorn And The Sheep",
         "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
       },
@@ -4254,7 +4298,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
@@ -4312,7 +4356,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 162404,
       "name": "Vibe Killer",
       "url": "https://open.spotify.com/track/2jf4UKl4hCH13KqOSK3Lsr"

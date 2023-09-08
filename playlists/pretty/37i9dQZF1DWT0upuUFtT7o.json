@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: juju <3",
-  "num_followers": 187933,
+  "num_followers": 188035,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmE0NWYyNWUyOWM5ZWIxYmY1OTgwNjAxZWU3NDNhNjA4N2U1ZGM1",
+  "snapshot_id": "MCxiZGQwY2QyNjBjOTI1MWQ4OTZjYWUyMjE5ZDg1MjMzOTk4OTNhM2Rj",
   "tracks": [
     {
       "added_at": "2023-08-23 05:27:37",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
+      "added_at": "2023-09-07 15:41:41",
+      "album": {
+        "name": "Study",
+        "url": "https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ"
+      },
+      "artists": [
+        {
+          "name": "Test Subjects",
+          "url": "https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB"
+        }
+      ],
+      "duration_ms": 219565,
+      "name": "Boy Next Door",
+      "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
+    },
+    {
       "added_at": "2023-08-30 15:40:56",
       "album": {
         "name": "Soon We'll Make It",
@@ -39,22 +55,6 @@
       "duration_ms": 139500,
       "name": "Soon We'll Make It",
       "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
-    },
-    {
-      "added_at": "2023-09-06 22:52:41",
-      "album": {
-        "name": "Best in me",
-        "url": "https://open.spotify.com/album/64oxNgq0Upx3p7d6to8eIB"
-      },
-      "artists": [
-        {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
-        }
-      ],
-      "duration_ms": 159443,
-      "name": "Best in me",
-      "url": "https://open.spotify.com/track/2RBMnwbHxRkaSGpqkvaKw8"
     },
     {
       "added_at": "2023-08-30 15:40:56",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE"
     },
     {
+      "added_at": "2023-09-06 22:52:41",
+      "album": {
+        "name": "Best in me",
+        "url": "https://open.spotify.com/album/64oxNgq0Upx3p7d6to8eIB"
+      },
+      "artists": [
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT"
+        }
+      ],
+      "duration_ms": 159443,
+      "name": "Best in me",
+      "url": "https://open.spotify.com/track/2RBMnwbHxRkaSGpqkvaKw8"
+    },
+    {
       "added_at": "2023-09-06 20:30:13",
       "album": {
         "name": "Wasted Summers",
@@ -87,6 +103,22 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2023-09-08 00:07:27",
+      "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/0sSh6RUhUl11G0yh5fKJ3x"
+      },
+      "artists": [
+        {
+          "name": "smol fish",
+          "url": "https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v"
+        }
+      ],
+      "duration_ms": 144494,
+      "name": "Sweet Taste",
+      "url": "https://open.spotify.com/track/3kPK0OBCCzH0y2xYcf2qeA"
     },
     {
       "added_at": "2023-08-30 15:40:56",
@@ -1317,22 +1349,6 @@
       "url": "https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS"
     },
     {
-      "added_at": "2023-08-08 23:33:32",
-      "album": {
-        "name": "too strong",
-        "url": "https://open.spotify.com/album/2UDA04UrxhydfzN1KNiv7X"
-      },
-      "artists": [
-        {
-          "name": "Jaycov",
-          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
-        }
-      ],
-      "duration_ms": 231566,
-      "name": "too strong",
-      "url": "https://open.spotify.com/track/1soy2KpqWppS1vzVMPpTvb"
-    },
-    {
       "added_at": "2023-08-02 14:57:53",
       "album": {
         "name": "11",
@@ -1667,22 +1683,6 @@
       "duration_ms": 227813,
       "name": "Jane Tells a Lie",
       "url": "https://open.spotify.com/track/2ByTk98Ax1GwT4e9Wbj4Wd"
-    },
-    {
-      "added_at": "2023-08-02 14:57:53",
-      "album": {
-        "name": "meteor",
-        "url": "https://open.spotify.com/album/7uQmwYCrxS17OirBHBxav1"
-      },
-      "artists": [
-        {
-          "name": "Shy High",
-          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
-        }
-      ],
-      "duration_ms": 117300,
-      "name": "meteor",
-      "url": "https://open.spotify.com/track/0mmltNgymbcts1fxQ0d9PR"
     },
     {
       "added_at": "2023-08-02 14:57:53",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 74788,
+  "num_followers": 74912,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGUzNzVmOWU3MGVjYzZkZWFiZmZlMDhjYTI5YTY0ZmZmZWI4YTY0",
+  "snapshot_id": "MCxlYzkxMTJiMzYxZmQxM2M2ODcwMzg2ZDk4OWRkYjA1NDdkNzUyNjk0",
   "tracks": [
     {
       "added_at": "2023-09-02 00:01:21",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Banho de Mar",
         "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 169531,
       "name": "Banho de Mar",
       "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Sorriso De Agog\u00f4",
-        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Sorriso De Agog\u00f4",
-      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "Entre Homens e Autom\u00f3veis",
         "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 189882,
       "name": "Mais Perto",
       "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "Sorriso De Agog\u00f4",
+        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Sorriso De Agog\u00f4",
+      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 177344,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
         "name": "Se N\u00e3o Fosse por Ontem",
         "url": "https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq"
       },
@@ -1211,22 +1231,6 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "Bom Dia!",
-        "url": "https://open.spotify.com/album/763Hko5dVzO75gKaJF8eir"
-      },
-      "artists": [
-        {
-          "name": "Lou & May",
-          "url": "https://open.spotify.com/artist/5yeo18PFCQF06zuJ6S0fwy"
-        }
-      ],
-      "duration_ms": 148729,
-      "name": "Bom Dia!",
-      "url": "https://open.spotify.com/track/4nfToj9WWw9UskVRumGlsV"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
         "name": "Larga Esse Boy (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4rGIalgoIm5aZSn1LvSW0l"
       },
@@ -1267,22 +1271,18 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+        "name": "Bom Dia!",
+        "url": "https://open.spotify.com/album/763Hko5dVzO75gKaJF8eir"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Lou & May",
+          "url": "https://open.spotify.com/artist/5yeo18PFCQF06zuJ6S0fwy"
         }
       ],
-      "duration_ms": 177344,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x"
+      "duration_ms": 148729,
+      "name": "Bom Dia!",
+      "url": "https://open.spotify.com/track/4nfToj9WWw9UskVRumGlsV"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1299,6 +1299,22 @@
       "duration_ms": 188160,
       "name": "Moradia",
       "url": "https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD"
+    },
+    {
+      "added_at": "2023-09-02 00:01:21",
+      "album": {
+        "name": "borboletas",
+        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
+      },
+      "artists": [
+        {
+          "name": "VELINO",
+          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
+        }
+      ],
+      "duration_ms": 175038,
+      "name": "borboletas",
+      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1323,18 +1339,22 @@
     {
       "added_at": "2023-09-02 00:01:21",
       "album": {
-        "name": "borboletas",
-        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
       "artists": [
         {
-          "name": "VELINO",
-          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 175038,
-      "name": "borboletas",
-      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/06bUzFuTRlBuFz8QvkgAY6"
     },
     {
       "added_at": "2023-09-02 00:01:21",
@@ -1383,26 +1403,6 @@
       "duration_ms": 175350,
       "name": "Minha Preta",
       "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
-    },
-    {
-      "added_at": "2023-09-02 00:01:21",
-      "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/06bUzFuTRlBuFz8QvkgAY6"
     },
     {
       "added_at": "2023-09-02 00:01:21",

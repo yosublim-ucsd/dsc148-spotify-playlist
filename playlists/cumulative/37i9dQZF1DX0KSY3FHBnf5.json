@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "a symphony of colors",
+        "url": "https://open.spotify.com/album/5DTWi3HMc7hGEDPk1A55Mi"
+      },
+      "artists": [
+        {
+          "name": "Headphone Activist",
+          "url": "https://open.spotify.com/artist/6kN7AbeUV4yRewiVUToouk"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139541,
+      "name": "a symphony of colors",
+      "url": "https://open.spotify.com/track/0kydJ9eRqv75VuW9GYobBn"
+    },
+    {
+      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/7FPNe95zfJ4DMp1l7OQs5o"
       },
@@ -171,6 +189,28 @@
     },
     {
       "album": {
+        "name": "childhood",
+        "url": "https://open.spotify.com/album/3n3DgKUDa2UqJlLzMOQMXj"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        },
+        {
+          "name": "Zamaro",
+          "url": "https://open.spotify.com/artist/4WkV190e0fmD9erTWrDpuX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129494,
+      "name": "childhood",
+      "url": "https://open.spotify.com/track/06dDLXf4gPbE02gvH8E6G9"
+    },
+    {
+      "album": {
         "name": "could u stay (slowed + reverb)",
         "url": "https://open.spotify.com/album/0BdiSQEyN7ibjVOWe1FZf4"
       },
@@ -244,6 +284,28 @@
       "duration_ms": 126779,
       "name": "Distorted Reflection",
       "url": "https://open.spotify.com/track/1BKy0j97r7k1d4zxBatcbr"
+    },
+    {
+      "album": {
+        "name": "don't cry",
+        "url": "https://open.spotify.com/album/7yBKwlVI3Oaq1cAi6Qu8Ul"
+      },
+      "artists": [
+        {
+          "name": "Senn",
+          "url": "https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145035,
+      "name": "don't cry",
+      "url": "https://open.spotify.com/track/390pDDdZhxnt4ND9t0th86"
     },
     {
       "album": {
@@ -674,7 +736,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182941,
-      "name": "haunted, but it's ambient deep version",
+      "name": "haunted, but it's ambient - deep version",
       "url": "https://open.spotify.com/track/3LqM0DFhsMZMEM1fM0w0ha"
     },
     {
@@ -763,6 +825,24 @@
     },
     {
       "album": {
+        "name": "i miss u",
+        "url": "https://open.spotify.com/album/2tndH9k21LcIZO949Lgu4K"
+      },
+      "artists": [
+        {
+          "name": "\u00d8dyzon",
+          "url": "https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117035,
+      "name": "i miss u",
+      "url": "https://open.spotify.com/track/3D56JZdSpVr6fU68PGJjjb"
+    },
+    {
+      "album": {
         "name": "in the bleak midwinter (Remixes)",
         "url": "https://open.spotify.com/album/1kXLlpfXHC0T7il7cGl3Ff"
       },
@@ -778,6 +858,24 @@
       "duration_ms": 137142,
       "name": "in the bleak midwinter (Super Slowed)",
       "url": "https://open.spotify.com/track/0ZldgW3MduVUHUQailxYlj"
+    },
+    {
+      "album": {
+        "name": "it feels like i'm alone",
+        "url": "https://open.spotify.com/album/5n3Nb3srcpt5wdsTYPGKKm"
+      },
+      "artists": [
+        {
+          "name": "pxlse.",
+          "url": "https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "it feels like i'm alone",
+      "url": "https://open.spotify.com/track/1OQmhaBduFONo3I8JboRNy"
     },
     {
       "album": {
@@ -1041,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "orchid painting.",
+        "url": "https://open.spotify.com/album/5FzafBmF9QRi2BbSrf22OE"
+      },
+      "artists": [
+        {
+          "name": "ghxsted.",
+          "url": "https://open.spotify.com/artist/7GKvkS5THM5r8VuBEdns1r"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "orchid painting.",
+      "url": "https://open.spotify.com/track/5SgQauUegEIkxqm5P6N26P"
+    },
+    {
+      "album": {
         "name": "overthinking (slowed + reverb)",
         "url": "https://open.spotify.com/album/5OGZhclLbyQXjGs8y9v2Ei"
       },
@@ -1070,7 +1186,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 134493,
       "name": "paradox",
       "url": "https://open.spotify.com/track/4GbOIpoNo5zhsAd6ksrQ4p"
@@ -1552,6 +1668,24 @@
       "duration_ms": 186666,
       "name": "Virgo Oscura",
       "url": "https://open.spotify.com/track/5QQnkvW6rBpipvVJneUtI3"
+    },
+    {
+      "album": {
+        "name": "Voice in my mind",
+        "url": "https://open.spotify.com/album/63i2rcJtSWbZV028CneG7T"
+      },
+      "artists": [
+        {
+          "name": "L0WS",
+          "url": "https://open.spotify.com/artist/40Eeh79VT5l36HSPs4aUku"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153660,
+      "name": "Voice in my mind",
+      "url": "https://open.spotify.com/track/6pya4kPIUBIBvxXE7g0I1t"
     },
     {
       "album": {

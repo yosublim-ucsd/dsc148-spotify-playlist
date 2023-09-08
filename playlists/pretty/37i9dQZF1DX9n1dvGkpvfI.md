@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with Advisry's Season 10 Runway for NYFW, Mixtape by Keith Herron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,771 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,913 likes - 41 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 29 | [Lavish \(feat\. Pharrell Williams\)](https://open.spotify.com/track/6csDVHvJZ5QqHKU0m42q5e) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Day After](https://open.spotify.com/album/6LKbX6fsiMtw6xP4TgsY9Q) | 3:42 |
 | 30 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 |
 | 31 | [Pourquoi tu me fous plus des coups ? \- Radio Edit](https://open.spotify.com/track/5qslwtsb10gXzmA6p1APKZ) | [An Luu](https://open.spotify.com/artist/0DrV7breO8ZnM7nxvOPE8N) | [Pourquoi tu me fous plus des coups ? \(Radio Edit\)](https://open.spotify.com/album/3F0AxY8AkwbewU4g4sxEw1) | 4:40 |
-| 32 | [PREYING MANTIS !](https://open.spotify.com/track/4HbvPMuan90tStQxIoJ4rn) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY](https://open.spotify.com/album/02FnZYyHb5AccBVtO4OnjV) | 3:27 |
-| 33 | [rage quit](https://open.spotify.com/track/0MCmNMd5FoJ7GB79IP7q9p) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [bedhead](https://open.spotify.com/album/7tfdHTJ4Ul7zao9yC8HFcS) | 0:49 |
-| 34 | [Glory](https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:20 |
-| 35 | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ) | 4:11 |
-| 36 | [G\-Lock](https://open.spotify.com/track/3qLuxUHOfQ72ry8MYmIqca) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [4 tha Troopz](https://open.spotify.com/album/6iSUCNkvlj87g9uHl2JCq2) | 2:01 |
-| 37 | [Sound of Rain](https://open.spotify.com/track/4o8Rk1YzdkTxsSEXd3YhAK) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:05 |
-| 38 | [Endless](https://open.spotify.com/track/6PVml5XEgZD9BIAIdiErzR) | [Freak Heat Waves](https://open.spotify.com/artist/07Owzhi4WDxi731LiJ2tG0) | [Endless](https://open.spotify.com/album/5BqShxorFQjpzueDaB9GZa) | 3:23 |
-| 39 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 |
-| 40 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
-| 41 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
-| 42 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
+| 32 | [rage quit](https://open.spotify.com/track/0MCmNMd5FoJ7GB79IP7q9p) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [bedhead](https://open.spotify.com/album/7tfdHTJ4Ul7zao9yC8HFcS) | 0:49 |
+| 33 | [Glory](https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:20 |
+| 34 | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ) | 4:11 |
+| 35 | [G\-Lock](https://open.spotify.com/track/3qLuxUHOfQ72ry8MYmIqca) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [4 tha Troopz](https://open.spotify.com/album/6iSUCNkvlj87g9uHl2JCq2) | 2:01 |
+| 36 | [Sound of Rain](https://open.spotify.com/track/4o8Rk1YzdkTxsSEXd3YhAK) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:05 |
+| 37 | [Endless](https://open.spotify.com/track/6PVml5XEgZD9BIAIdiErzR) | [Freak Heat Waves](https://open.spotify.com/artist/07Owzhi4WDxi731LiJ2tG0) | [Endless](https://open.spotify.com/album/5BqShxorFQjpzueDaB9GZa) | 3:23 |
+| 38 | [Harder, Better, Faster, Stronger \- The Neptunes Remix](https://open.spotify.com/track/5a8PsqWOuGh7FR1tC6UKUs) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 5:12 |
+| 39 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
+| 40 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
+| 41 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 
-Snapshot ID: `MCw0MmI4NzhlMTI3MjkyMmQ4MjI2OTZhYTZiYjgyYzU0MWJmNWM1Y2U0`
+Snapshot ID: `MCw5YWUzNGI1ZjY1NmEyNmU4MzFjZjU3ZmI0Zjk5MGEyZjE4ZTg1OTFh`

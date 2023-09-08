@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,221 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,235 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 7 | [Sliding Gliding](https://open.spotify.com/track/4DPHd9trjYHc1EEdMaRhJd) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Dossa & Locuzzed](https://open.spotify.com/artist/1hjb2l5U7cvWiXBpTyQF39) | [Sliding Gliding](https://open.spotify.com/album/4eNrXH1JmhJaeSUzGmOc7C) | 4:12 |
 | 8 | [Moore's Law](https://open.spotify.com/track/4lgVbCE0R1gnM5igDvLtfh) | [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Moore's Law / Flawless](https://open.spotify.com/album/77FBxtfwHuqI7i0xI3vIEJ) | 4:27 |
 | 9 | [Like This](https://open.spotify.com/track/6hU8ZNdJbpncSye5IXmXzF) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs) | [Roll With It / Like This](https://open.spotify.com/album/6yP8tbWAEZT0Q23scueKnD) | 4:52 |
-| 10 | [Edge Of The World](https://open.spotify.com/track/54Y1t8Nt0wNMgdZ0eNQMf0) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [King](https://open.spotify.com/album/3l9BJmxZoTTzjRVJ1iqi8d) | 4:35 |
+| 10 | [Edge Of The World](https://open.spotify.com/track/4dj216OBqXsm7c0WewjVlC) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [King](https://open.spotify.com/album/4ueUL0q3kZV7huV9hHJp9W) | 4:35 |
 | 11 | [Poetry](https://open.spotify.com/track/41DGLEehbFxpZ9pfQrSUSX) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Poetry](https://open.spotify.com/album/2ua6GR0mpXz7fS1y05WKdQ) | 3:54 |
 | 12 | [Love Conspiration](https://open.spotify.com/track/2ztafS9ba55k5K2pZFYiuQ) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Love Conspiration](https://open.spotify.com/album/2QVnzc77wuvWcq5Cwraenp) | 4:51 |
 | 13 | [That's A Lyric Ya Know](https://open.spotify.com/track/01QrCJzho8JfQlaGahCjTa) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/1nSV8lSUZng3kE2QXbD47s) | 4:24 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 23 | [CHICA](https://open.spotify.com/track/4Bg8cLW1mKbLmag6WcN0zM) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [CHICA](https://open.spotify.com/album/2qyjqgcVZIFkPMyYD5PFc6) | 3:19 |
 | 24 | [Five Nines](https://open.spotify.com/track/0IyhTRQxLG1RGRk5CBkzVs) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu) | [Five Nines / Choppy](https://open.spotify.com/album/1uOqFsvbMts8yJRGxBLfsZ) | 4:35 |
 | 25 | [Getting Hot](https://open.spotify.com/track/0R7tFVDEPuMu1euN2PC7GU) | [Beeson](https://open.spotify.com/artist/2Bz33Qcq5GYQK0Cfk2YT9I) | [Getting Hot / Come To Mind](https://open.spotify.com/album/4xZ7HywRUbTOCQBMfvZig4) | 4:52 |
-| 26 | [Everything Is Possible \- DJ Marky & Makoto Remix](https://open.spotify.com/track/7KJTicqjWXOKgwn0Xeg635) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu) | [Everything Is Possible \(DJ Marky & Makoto Remix\)](https://open.spotify.com/album/1fEcrykeIT8Td6IROnLoIT) | 4:47 |
+| 26 | [Everything Is Possible \- DJ Marky & Makoto Remix](https://open.spotify.com/track/4h2YTOsQQsV7VR8IiTCLbn) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ), [DJ Marky & Makoto](https://open.spotify.com/artist/00eYX01IyyHcG2lMvStEG4) | [Everything Is Possible \(DJ Marky & Makoto Remix\)](https://open.spotify.com/album/0fUbrCLI2PKdI4lVpqCb7P) | 4:47 |
 | 27 | [Another Life](https://open.spotify.com/track/7nSkmLDcDU1JcpwcKcQsx8) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:28 |
 | 28 | [Camels](https://open.spotify.com/track/6Dvbm1h0w7fRcRnqxPOPqo) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 4:30 |
 | 29 | [Deux](https://open.spotify.com/track/2zgKNdhfrfS9pxjR8ryPBr) | [Primitive Instinct](https://open.spotify.com/artist/5zaqutowWQbaqpy0PNQbiC) | [Deux](https://open.spotify.com/album/6aFi350dqJTAdy0BYUPhBz) | 5:00 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 35 | [Phoneline](https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Phoneline](https://open.spotify.com/album/5KBDc833eS9lkj1bfCcbaU) | 3:46 |
 | 36 | [Framed](https://open.spotify.com/track/2AK0exPJcoT78algPct8Fq) | [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV), [Sl8r](https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR) | [Framed](https://open.spotify.com/album/1XYB7QKIZJLBUrXP8GT6dD) | 4:16 |
 | 37 | [Caramel](https://open.spotify.com/track/7iWLJWtzihu0xrJGDk8jQR) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Caramel](https://open.spotify.com/album/4b7NaIi0vnorprCkLjr2q1) | 4:34 |
-| 38 | [Squelcher](https://open.spotify.com/track/3dilsQKM2uUSHlcX8eAH6f) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [In:Most](https://open.spotify.com/artist/6vRVgeHl41EnFo70a8iYIG) | [Squelcher](https://open.spotify.com/album/1BSWecmDjnbpti3twykrKC) | 5:16 |
+| 38 | [Squelcher](https://open.spotify.com/track/6yUxjiZFWaCakft5phFwwo) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [In:Most](https://open.spotify.com/artist/6vRVgeHl41EnFo70a8iYIG) | [Squelcher](https://open.spotify.com/album/7iU3EgPy9bx0uzUwdlGq2z) | 5:16 |
 | 39 | [Pedigree Slum \- Jenks \(UK\) Remix](https://open.spotify.com/track/7BS4ZBq9lnWen0OfEBlaHE) | [Twisted Individual](https://open.spotify.com/artist/1yJkKFH5pD56kG4ryEWk2H), [Jenks \(UK\)](https://open.spotify.com/artist/3507PTC2o2C1Csx71Gk2v4) | [The Remix EP Vol 6](https://open.spotify.com/album/6X9RVz7CCLz7pWHVW6F7tM) | 4:23 |
 | 40 | [Raw](https://open.spotify.com/track/1iOGDHxA0XDIz4KV0LHgW0) | [Klippee](https://open.spotify.com/artist/23dLeEO4RYpdx5aLilhQm0) | [Raw EP](https://open.spotify.com/album/0uJIeAuLUP8Fx7eTTCuJ0O) | 4:59 |
 | 41 | [Hush Hush](https://open.spotify.com/track/1kYqnXEi6qzZjpX8w0Bvg8) | [T95](https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Hush Hush](https://open.spotify.com/album/7i5IXija6etCEVoDkQoNmH) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTP5wXz7Mvlg.md) - [plain]
 | 49 | [All Night](https://open.spotify.com/track/0MQyfSkAFO27Ki90MKnkcs) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All Night](https://open.spotify.com/album/5WGeVk6PF7WZ9kWeN4xfCL) | 3:37 |
 | 50 | [Here Comes](https://open.spotify.com/track/2FlFInnKJTaP5YBMf6dax6) | [Melinki](https://open.spotify.com/artist/71BxfcyzIwRxmdx2BRYDVD) | [Here Comes](https://open.spotify.com/album/1ppwK870Dyp5CTKK94f11w) | 4:55 |
 
-Snapshot ID: `MCxiMTlhOWRkN2E2NWM5YmQzN2NlNDU4OGVjYmVlODc5ZmU2NmQ5Yzlk`
+Snapshot ID: `MCwxNDY2NmJhYWU5N2ZlYWM2NjMzM2Y0YjE3MTljNmJiMzNlNDZmM2M0`

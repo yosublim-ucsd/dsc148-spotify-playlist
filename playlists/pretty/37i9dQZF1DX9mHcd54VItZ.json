@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=GelQWYzpTk-l2uPtHFRCzA\">Spoegwolf</a>",
-  "num_followers": 14458,
+  "num_followers": 14480,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjY2NGFjYjBkZjNkNjVmMWE1ZjYzMzMxNzYyNjc2NzQzY2U2ZDI0",
+  "snapshot_id": "MCxjODRlNWY2ZTUzNGQ2ZDRiMDA1MjRhZjBjNDVhOWRlMTQ1NmZhZjEx",
   "tracks": [
     {
       "added_at": "2023-08-31 21:59:00",
@@ -23,6 +23,22 @@
       "duration_ms": 179391,
       "name": "Cloetesville",
       "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Crimson Kings",
+        "url": "https://open.spotify.com/album/3jj8jMBm0dNIoPc1Hu9TLk"
+      },
+      "artists": [
+        {
+          "name": "Unbroken Bond",
+          "url": "https://open.spotify.com/artist/0vUzzSiZilRpnwSIHutohR"
+        }
+      ],
+      "duration_ms": 187940,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/2I6bp0qyPkg5xUGFdXXcBE"
     },
     {
       "added_at": "2023-08-31 21:59:00",
@@ -45,10 +61,10 @@
       "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
     },
     {
-      "added_at": "2023-08-31 21:59:00",
+      "added_at": "2023-09-07 21:59:00",
       "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/7eHKq7xyL3UBRP0hwPUGq1"
+        "name": "Yo Yo",
+        "url": "https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf"
       },
       "artists": [
         {
@@ -56,9 +72,9 @@
           "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 245638,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw"
+      "duration_ms": 378032,
+      "name": "Yo Yo",
+      "url": "https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts"
     },
     {
       "added_at": "2023-08-31 21:59:00",
@@ -141,6 +157,26 @@
       "url": "https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd"
     },
     {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Feeding Time",
+        "url": "https://open.spotify.com/album/6iqaBcWoMbV9ObOJU369r4"
+      },
+      "artists": [
+        {
+          "name": "Swimmer",
+          "url": "https://open.spotify.com/artist/0COkEvdVUFGE2r3TQs67vf"
+        },
+        {
+          "name": "Frank Opperman",
+          "url": "https://open.spotify.com/artist/0pVJOD8PrC5Sp6rr7JZeok"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "Feeding Time",
+      "url": "https://open.spotify.com/track/7aP7aYj4OWS5MFtQtgtora"
+    },
+    {
       "added_at": "2023-08-31 21:59:00",
       "album": {
         "name": "Bo Dorp",
@@ -171,6 +207,22 @@
       "duration_ms": 234979,
       "name": "Vir Ewig",
       "url": "https://open.spotify.com/track/4duchzNuzguXiPND75nVGr"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/7eHKq7xyL3UBRP0hwPUGq1"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 245638,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw"
     },
     {
       "added_at": "2023-08-31 21:59:00",
@@ -255,6 +307,22 @@
       "duration_ms": 200129,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Apollo Motel",
+        "url": "https://open.spotify.com/album/3Jqqsx0b3ucMITzbG5r5qB"
+      },
+      "artists": [
+        {
+          "name": "Apollo Motel",
+          "url": "https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t"
+        }
+      ],
+      "duration_ms": 194547,
+      "name": "Apollo Motel",
+      "url": "https://open.spotify.com/track/03omYk1VNwgCdeu72j9zEZ"
     },
     {
       "added_at": "2023-07-28 06:52:23",
@@ -753,22 +821,6 @@
       "url": "https://open.spotify.com/track/6EC17BieM7VV6brgDbTjVq"
     },
     {
-      "added_at": "2023-07-13 21:59:00",
-      "album": {
-        "name": "The Fever",
-        "url": "https://open.spotify.com/album/2KnXdLN8jsRC7BcMjzkWUu"
-      },
-      "artists": [
-        {
-          "name": "The Man Motels",
-          "url": "https://open.spotify.com/artist/4LvYhXU9ZIFnMCmmhgSEhw"
-        }
-      ],
-      "duration_ms": 186046,
-      "name": "The Fever",
-      "url": "https://open.spotify.com/track/6FuzR5Bt1XlzlGoMK4sOC3"
-    },
-    {
       "added_at": "2023-07-06 21:59:00",
       "album": {
         "name": "Burn It",
@@ -783,58 +835,6 @@
       "duration_ms": 152112,
       "name": "Burn It",
       "url": "https://open.spotify.com/track/7hSWzzi9Cwu3JL8NB7SpFh"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Wasting time",
-        "url": "https://open.spotify.com/album/3EY4fZZEYNKSC65gQO58jp"
-      },
-      "artists": [
-        {
-          "name": "TASH AYY",
-          "url": "https://open.spotify.com/artist/78l0JJ6j5P4guKT4PzLDas"
-        },
-        {
-          "name": "LOTU$",
-          "url": "https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU"
-        }
-      ],
-      "duration_ms": 147895,
-      "name": "Wasting time",
-      "url": "https://open.spotify.com/track/4n0lR230JAK9egO2guGUVl"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "The Good Shapes",
-        "url": "https://open.spotify.com/album/6xyk9pBEpOF5PxklLd5ani"
-      },
-      "artists": [
-        {
-          "name": "Swimmer",
-          "url": "https://open.spotify.com/artist/0COkEvdVUFGE2r3TQs67vf"
-        }
-      ],
-      "duration_ms": 214741,
-      "name": "The Good Shapes",
-      "url": "https://open.spotify.com/track/1KR3o9rmVvEXPGtbREBbus"
-    },
-    {
-      "added_at": "2023-07-13 21:59:00",
-      "album": {
-        "name": "Linker Knie",
-        "url": "https://open.spotify.com/album/4qp7fZPuuzzFm9KXJx0VgT"
-      },
-      "artists": [
-        {
-          "name": "Kabaal Klankbaan",
-          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Old-fashioned Liefde",
-      "url": "https://open.spotify.com/track/0f1shqFGToy3RJzZBojBli"
     }
   ],
   "unique_name": "SA Rock ",

@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 244026,
       "name": "Angel - Single Version",
       "url": "https://open.spotify.com/track/02gRwJ10wlpzGHVX1SB7KB"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 187970,
       "name": "Basket Case - 4-track demo",
       "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 270066,
       "name": "Bleed Out",
       "url": "https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe"
@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 126383,
       "name": "Burnout - 4-track demo",
       "url": "https://open.spotify.com/track/13jtz15KnrtUmkWYHnDXZR"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 225107,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/1t0lazgh8uQmXzXigJkYe8"
@@ -5218,7 +5218,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
@@ -5244,7 +5244,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/4GBMd137VlyG371NlP4f0p"
@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 226360,
       "name": "I Need Your Loving - Acapella Version",
       "url": "https://open.spotify.com/track/5PYl3wdWkjjwn5GoLsuN60"
@@ -5626,7 +5626,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 435973,
       "name": "I Need Your Loving - Extended Version",
       "url": "https://open.spotify.com/track/25p3dckllV2Hdrqu4yDcy3"
@@ -5800,7 +5800,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 179963,
       "name": "I'll Never Be The Same",
       "url": "https://open.spotify.com/track/4EEBpXn3KUzGPDrQB79H5l"
@@ -7335,6 +7335,24 @@
     },
     {
       "album": {
+        "name": "Life on Other Planets (2023 Remaster)",
+        "url": "https://open.spotify.com/album/5n4k8AgXN0kbZ6sESKDV1D"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89826,
+      "name": "Life on Other Planets",
+      "url": "https://open.spotify.com/track/2iI9sJH4SijjN6EGzmY4QO"
+    },
+    {
+      "album": {
         "name": "Lifeline (Drowning)",
         "url": "https://open.spotify.com/album/1T2MF3dsVYDJsGyXI0ZZsy"
       },
@@ -8042,7 +8060,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "Microcosmic Sunsets",
       "url": "https://open.spotify.com/track/7lJs36mqGUhrLUUhQSwDCp"
@@ -8476,7 +8494,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 279452,
       "name": "My Curse Is My Redemption - Summer 80's Remix",
       "url": "https://open.spotify.com/track/53Y1vozzPxq8CBjIqQPtbI"
@@ -8786,7 +8804,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 123638,
       "name": "Never Done Nothing Like That Before - 2023 Remaster",
       "url": "https://open.spotify.com/track/686p6mrCE6HcLbAISuKjAa"
@@ -10522,7 +10540,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 210293,
       "name": "Rewind Forward",
       "url": "https://open.spotify.com/track/2FmeJwCTWPgqCHDUnXWUXX"
@@ -10820,7 +10838,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 228104,
       "name": "Rules Of The Road",
       "url": "https://open.spotify.com/track/5mZ5YripxFjfFaxfRQKqm7"
@@ -12382,7 +12400,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 212565,
       "name": "The Big Goodbye",
       "url": "https://open.spotify.com/track/6TOTISTEkyj5CTiUSBUy6S"

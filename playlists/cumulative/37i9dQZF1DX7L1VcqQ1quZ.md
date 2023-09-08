@@ -2,7 +2,7 @@
 
 ### [90s Ballads](https://open.spotify.com/playlist/37i9dQZF1DX7L1VcqQ1quZ)
 
-> All 90s, all ballads\. Cover: Whitney Houston
+> All 90s, all ballads\. Cover: Mariah Carey
 
 90 songs - 6 hr 56 min
 

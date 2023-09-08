@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "are you here",
+        "url": "https://open.spotify.com/album/4buYgkKgC2ePyT0XmOK638"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "are you here",
+      "url": "https://open.spotify.com/track/02Xovos0EpvUeSsivTEAPU"
+    },
+    {
+      "album": {
         "name": "Around Me",
         "url": "https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ"
       },
@@ -2261,6 +2279,32 @@
     },
     {
       "album": {
+        "name": "let's end it",
+        "url": "https://open.spotify.com/album/7xTS4LeLQdd9NkIHAxQJjs"
+      },
+      "artists": [
+        {
+          "name": "Ukiyo",
+          "url": "https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x"
+        },
+        {
+          "name": "\u016ala",
+          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
+        },
+        {
+          "name": "henri",
+          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178615,
+      "name": "let\u2019s end it",
+      "url": "https://open.spotify.com/track/52tlJzalr0InyauY1TGBfV"
+    },
+    {
+      "album": {
         "name": "Sunblind",
         "url": "https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS"
       },
@@ -2439,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Losing Focus",
+        "url": "https://open.spotify.com/album/63NN44IZSRCRevVrgP0EVE"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214266,
+      "name": "Losing Focus",
+      "url": "https://open.spotify.com/track/51vJGNySaVSxTmcPotlWrU"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
       },
@@ -2509,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/31UkJWhnRd88KsL0PiD4G2"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170568,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd"
+    },
+    {
+      "album": {
         "name": "love me just a little (sunset mix)",
         "url": "https://open.spotify.com/album/0njlMrkZMRgBANWXV8YqFP"
       },
@@ -2564,6 +2648,28 @@
       "duration_ms": 148359,
       "name": "loveday",
       "url": "https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5"
+    },
+    {
+      "album": {
+        "name": "Made For Us",
+        "url": "https://open.spotify.com/album/4j72ePKF78g0SauH9eYejU"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "Jay Tastic",
+          "url": "https://open.spotify.com/artist/1XpsXLUdznEbE60XLLdndG"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170951,
+      "name": "Made For Us",
+      "url": "https://open.spotify.com/track/0Y8XFZFn7CtjNeJ3Nv4J6n"
     },
     {
       "album": {
@@ -3719,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/0oufmjtrlHZxQW7scjMcJk"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216944,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/2vhaFJVzOrVgF4wdU2lzp0"
+    },
+    {
+      "album": {
         "name": "Something Stronger",
         "url": "https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB"
       },
@@ -4173,6 +4297,28 @@
     },
     {
       "album": {
+        "name": "Touch (feat. Franky)",
+        "url": "https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2"
+      },
+      "artists": [
+        {
+          "name": "LittGloss",
+          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
+        },
+        {
+          "name": "Franky",
+          "url": "https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "Touch (feat. Franky)",
+      "url": "https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs"
+    },
+    {
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc"
       },
@@ -4484,6 +4630,24 @@
       "duration_ms": 160638,
       "name": "We Don't Ever Stop",
       "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269280,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3DoPDf9n2BF8uE37D6GZdY"
     },
     {
       "album": {

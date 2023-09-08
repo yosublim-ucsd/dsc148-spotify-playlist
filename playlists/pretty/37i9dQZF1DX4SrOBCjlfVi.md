@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Lil Wayne and Sleepy Hallow\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,965 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,085 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Last Chance](https://open.spotify.com/track/0NIuN9ky7NljebVJNIc6QT) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Last Chance](https://open.spotify.com/album/5Im7Psu071AuSdGLhMcywy) | 2:22 |
 | 49 | [Remember](https://open.spotify.com/track/1fTX9XyVl9lhFO928pJubY) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 2:10 |
 
-Snapshot ID: `MCxkNTk5ZWVhZGViNjg3ZTBkMmYwMDQxMmZhNzdkYjkzMmUzYjA2ZWYz`
+Snapshot ID: `MCwwYTViZWNhZGMwMmMzOTE1NGNjYjA4ZTZhYWM4OWQ2YTVkZTg3ZTI4`

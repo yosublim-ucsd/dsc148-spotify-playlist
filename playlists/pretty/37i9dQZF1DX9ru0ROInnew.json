@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 97240,
+  "num_followers": 97440,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjgxMmFiYmZmZjZiYTJjOWYyZDUwMzI5MzNlNDg3NzU4ZjI4MTgw",
+  "snapshot_id": "MCxkOTE3OTkwNGQwNGNlNjE5ZjE1NTg4YTNhNDQ1OGMzNjgzNjY5MzE5",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Esclava (Remix)",
+        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
+      },
+      "artists": [
+        {
+          "name": "bryant mayers",
+          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
+        }
+      ],
+      "duration_ms": 284281,
+      "name": "Esclava (Remix)",
+      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Esclava (Remix)",
-        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
-      },
-      "artists": [
-        {
-          "name": "bryant mayers",
-          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
-        }
-      ],
-      "duration_ms": 284281,
-      "name": "Esclava (Remix)",
-      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
     },
     {
       "added_at": "2023-05-25 17:50:01",

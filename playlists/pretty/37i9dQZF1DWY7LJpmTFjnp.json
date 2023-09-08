@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
-  "num_followers": 1009649,
+  "num_followers": 1009850,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTFiNzg3NDk3ZWNiNTNmODIwNDZlN2MyYTg2N2MyOTlmOTQxMGIz",
+  "snapshot_id": "MCxkZDQ0MzQ4ZmVlZjhhMDEyYTJkMTExZTdmN2M1MDM3MjMzMzVhZjQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 18:52:09",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
+        "name": "Maldita Vecindad y los Hijos del Quinto Patio",
+        "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Morenaza",
+      "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
         "name": "Elemento (Noches De Sal\u00f3n, Versi\u00f3n Estudio)",
         "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 182233,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
-        "name": "Maldita Vecindad y los Hijos del Quinto Patio",
-        "url": "https://open.spotify.com/album/1JfXrzzdymYGCrSXfKcAyE"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "Morenaza",
-      "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Mienten",
-        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 277077,
-      "name": "Se\u00f1al",
-      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
         "name": "No Olvidamos",
         "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
+        "name": "Mienten",
+        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 277077,
+      "name": "Se\u00f1al",
+      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Surf Club",
-        "url": "https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL"
+        "name": "Absolutamente Lo Mejor",
+        "url": "https://open.spotify.com/album/0qPgD8NiIxP96puwmuGwSq"
       },
       "artists": [
         {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+          "name": "Ricky Luis",
+          "url": "https://open.spotify.com/artist/5AuBm72UJZcnMDCG1Ar3Vb"
         }
       ],
-      "duration_ms": 101776,
-      "name": "Surf Club",
-      "url": "https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr"
+      "duration_ms": 196280,
+      "name": "Tengo un mes con el mismo pantal\u00f3n",
+      "url": "https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv"
     }
   ],
   "unique_name": "La + Chingona",

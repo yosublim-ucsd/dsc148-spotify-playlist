@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-186 songs - 10 hr 38 min
+187 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [NO MONEY](https://open.spotify.com/track/6wXivsC50mnHuToD2BAytt) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [NO MONEY](https://open.spotify.com/album/0lZNFfgKGF17zcHg86ylLm) | 3:21 | 2022-12-08 | 2023-03-07 |
 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 | 2023-03-08 |  |
 | [Numb](https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Numb](https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta) | 3:41 | 2023-04-28 |  |
+| [Number One Thriller](https://open.spotify.com/track/675l6GVF65IS81eznAR2po) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [Number One Thriller](https://open.spotify.com/album/0rguy92JmcRjE98uNQ9aIn) | 3:12 | 2023-09-07 |  |
 | [Oasis \- The Dark Horror Remix](https://open.spotify.com/track/1EBbJK4lkT2dpsgZoaioRD) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [Oasis \(The Dark Horror Remix\)](https://open.spotify.com/album/37PYdrUtg45otbte44i8C1) | 3:14 | 2023-01-26 |  |
 | [Oldschool The School](https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [THE 4TH DIMENSION](https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8) | 3:23 | 2023-07-27 |  |
 | [Omega \- Live Edit](https://open.spotify.com/track/0zC6ICRWrAEDFbyyi0crJ4) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [Omega \(Live Edit\)](https://open.spotify.com/album/6TYuQciQswy9WLmtBwmBYo) | 3:31 | 2022-12-08 | 2023-06-02 |
@@ -138,7 +139,7 @@
 | [Paganos](https://open.spotify.com/track/0vmrcHXNc8wuuowKWOzBr3) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Paganos](https://open.spotify.com/album/59BnQ9t7fehMLcXUUwAxcW) | 4:07 | 2023-01-26 | 2023-05-26 |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-12-08 | 2023-09-02 |
 | [Patterns](https://open.spotify.com/track/2I4sZzFKCPdTVlKrUka1mO) | [Indika](https://open.spotify.com/artist/4xO4r8qbn6iT3ZwZkD34sa), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Patterns](https://open.spotify.com/album/1dK50G7UOfUkgB6ysbyexf) | 3:28 | 2023-06-29 |  |
-| [Piece Of Me](https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K), [Army of Two](https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH) | [Piece Of Me](https://open.spotify.com/album/4yJpxCS5JFqKfEZYMiUfoF) | 3:57 | 2023-01-19 |  |
+| [Piece Of Me](https://open.spotify.com/track/6NPNOsupIs4l08lqCy8y9C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K), [Army of Two](https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH) | [Piece Of Me](https://open.spotify.com/album/4yJpxCS5JFqKfEZYMiUfoF) | 3:57 | 2023-01-19 | 2023-09-08 |
 | [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 | 2023-06-08 | 2023-07-28 |
 | [Premortality](https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Premortality](https://open.spotify.com/album/7sAvf5SwuqKJ9qv9sHckWO) | 3:59 | 2023-03-09 | 2023-06-30 |
 | [Projet 19](https://open.spotify.com/track/6sCuHk1wZhvj4UCNOu3ndg) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [LE BASK](https://open.spotify.com/artist/23ZF6wwvduGxWSH2j97Ish) | [Projet 19](https://open.spotify.com/album/4e57RPKr7Rl7LptAlWNj6A) | 4:16 | 2022-12-08 | 2022-12-16 |

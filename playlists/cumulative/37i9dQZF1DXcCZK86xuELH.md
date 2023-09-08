@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-96 songs - 6 hr 50 min
+97 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Bye Bye Bye \(feat\. Chronixx\) \- S.P.Y Remix](https://open.spotify.com/track/0JPHV6kJG2QB7XUXH9eqCk) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Raggamuffin Reloaded](https://open.spotify.com/album/7ck2hQEDtns36ZczA84H13) | 4:17 | 2022-12-09 |  |
 | [Capiche](https://open.spotify.com/track/0nZboLMgEy83u0fWF4XxrO) | [Benny L](https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0), [NV 33](https://open.spotify.com/artist/3oOKGN5qB1YAiIRTukRl5V) | [Capiche](https://open.spotify.com/album/1Pg2zvfgjBnsM0iM5aDGMX) | 4:45 | 2023-07-21 |  |
 | [Censor \(feat\. Popcaan & IRAH\)](https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:36 | 2022-12-09 | 2023-07-22 |
-| [City Angels](https://open.spotify.com/track/7lw2xTVW3Kudde3467EtjG) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH), [Milo Merah](https://open.spotify.com/artist/4Eh9HkKCR6Vaa38n6DpNie), [RSWT](https://open.spotify.com/artist/6nPVvsL7odY2rRHU7aXIzv) | [City Angels](https://open.spotify.com/album/0JhPO16995F2gkekfBJDFU) | 4:34 | 2022-12-09 |  |
+| [City Angels](https://open.spotify.com/track/3sSPDiEWQVJ58jQgPELKIs) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH), [Milo Merah](https://open.spotify.com/artist/4Eh9HkKCR6Vaa38n6DpNie), [RSWT](https://open.spotify.com/artist/6nPVvsL7odY2rRHU7aXIzv) | [City Angels](https://open.spotify.com/album/6DVmSIYVHjuyQCFVl6zicT) | 4:34 | 2023-08-31 |  |
+| [City Angels](https://open.spotify.com/track/7lw2xTVW3Kudde3467EtjG) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH), [Milo Merah](https://open.spotify.com/artist/4Eh9HkKCR6Vaa38n6DpNie), [RSWT](https://open.spotify.com/artist/6nPVvsL7odY2rRHU7aXIzv) | [City Angels](https://open.spotify.com/album/0JhPO16995F2gkekfBJDFU) | 4:34 | 2022-12-09 | 2023-09-08 |
 | [Conversations \- Breakage Remix](https://open.spotify.com/track/2CUAOXnbR2U6iPEm8Zee9Q) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd), [Cleveland Watkiss](https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Conversations \(Breakage Remix\)](https://open.spotify.com/album/32W45dDXBd174iqglCqT5c) | 3:51 | 2022-12-09 |  |
 | [Daydreaming](https://open.spotify.com/track/0h6s8N4dwDIazXGIECX7Bh) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [Daydreaming](https://open.spotify.com/album/1RubtkrLtdx1N3oNJx5tUm) | 4:15 | 2022-12-09 |  |
 | [Deadly Rhythms](https://open.spotify.com/track/3lahvP6Hvklq9qLMgN2UVe) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Deadly Rhythms B/W Most High](https://open.spotify.com/album/0Vt2iBFIGeN9imMb2YnAHk) | 3:01 | 2022-12-09 | 2023-07-22 |

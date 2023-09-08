@@ -1077,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Channel Z",
+        "url": "https://open.spotify.com/album/7uR57HXlzykbHKPpETyXDg"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "Channel Z",
+      "url": "https://open.spotify.com/track/2ojGxz1MKMnxSnu9DB8E9d"
+    },
+    {
+      "album": {
         "name": "chilibanana",
         "url": "https://open.spotify.com/album/2o3CV6d9DlMFH2sai1BFgt"
       },
@@ -1114,6 +1136,32 @@
       "duration_ms": 175837,
       "name": "Chucks (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh"
+    },
+    {
+      "album": {
+        "name": "Roots EP, Pt. 1",
+        "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "KUENTA",
+          "url": "https://open.spotify.com/artist/3pr6mWxBNnh2OHul3o0A0p"
+        },
+        {
+          "name": "Cheryl Lispier",
+          "url": "https://open.spotify.com/artist/57DvbdvXfkpcMOgSlo8rnt"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/2n4Ul3ywASFI46NKxWrGtL"
     },
     {
       "album": {
@@ -4537,6 +4585,28 @@
     },
     {
       "album": {
+        "name": "Summertime / Can't Stop",
+        "url": "https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        },
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256548,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA"
+    },
+    {
+      "album": {
         "name": "Sweet Summer Dreams (Remix)",
         "url": "https://open.spotify.com/album/053Jz5GwwMBKXodk2REwLi"
       },
@@ -5366,6 +5436,36 @@
       "duration_ms": 361453,
       "name": "Whensday",
       "url": "https://open.spotify.com/track/5hMN4LswnajnvL18diECH4"
+    },
+    {
+      "album": {
+        "name": "White Isle Memories",
+        "url": "https://open.spotify.com/album/5Byl95lapvLsOqKrdttjH8"
+      },
+      "artists": [
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Inner Sprit",
+          "url": "https://open.spotify.com/artist/6ETZ40fwlLOEDWYLGjocNV"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Michael Sebastian",
+          "url": "https://open.spotify.com/artist/10w5M1sAvsWA2BewJX1Blt"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "White Isle Memories - Inner Sprit Rework",
+      "url": "https://open.spotify.com/track/2HeLCivhX1xg4prGCQBpr6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 90487,
+  "num_followers": 90796,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZmEzZDMyZTkwZDI0NjgyMTgzMjU0MTFlZTk3MTM1ZTE5YmY4Njhk",
+  "snapshot_id": "MCxlYTQ5OGMyNzAxMGUwZWYxYmY4NGQ2MWZkMzdlMGMzOGNkNzIxMmU3",
   "tracks": [
     {
       "added_at": "2023-09-01 15:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "\u7d04\u675f\u306e\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9 Season1 Original Soundtrack",
-        "url": "https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u7551\u8cb4\u88d5",
-          "url": "https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "\u30a4\u30b6\u30d9\u30e9\u306e\u5504",
-      "url": "https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8"
-    },
-    {
-      "added_at": "2023-09-01 15:00:00",
-      "album": {
         "name": "Ghibli, Anime & Chill",
         "url": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 91725,
       "name": "The Girl Who Fell From The Sky (Laputa)",
       "url": "https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX"
+    },
+    {
+      "added_at": "2023-09-01 15:00:00",
+      "album": {
+        "name": "\u7d04\u675f\u306e\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9 Season1 Original Soundtrack",
+        "url": "https://open.spotify.com/album/6yN3OuEpq0YkHK21VDQJKb"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u7551\u8cb4\u88d5",
+          "url": "https://open.spotify.com/artist/1ts9YsGOQHW0vzUrhG4ZpH"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "\u30a4\u30b6\u30d9\u30e9\u306e\u5504",
+      "url": "https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8"
     },
     {
       "added_at": "2023-09-01 15:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "\u604b\u604b\u98a8\u6b4c",
-        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
-      },
-      "artists": [
-        {
-          "name": "Tsuji Ayano",
-          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "\u98a8\u306b\u306a\u308b",
-      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
-    },
-    {
-      "added_at": "2023-09-01 15:00:00",
-      "album": {
         "name": "834.194",
         "url": "https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 238000,
       "name": "\u5fd8\u308c\u3089\u308c\u306a\u3044\u306e",
       "url": "https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN"
+    },
+    {
+      "added_at": "2023-09-01 15:00:00",
+      "album": {
+        "name": "\u604b\u604b\u98a8\u6b4c",
+        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
+      },
+      "artists": [
+        {
+          "name": "Tsuji Ayano",
+          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
     },
     {
       "added_at": "2023-09-01 15:00:00",

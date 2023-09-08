@@ -4,7 +4,7 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-124 songs - 6 hr 37 min
+125 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,10 +43,11 @@
 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2023-05-12 |  |
 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 | 2023-01-13 |  |
 | [Dance Monkey](https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey](https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT) | 3:17 | 2023-01-13 | 2023-05-12 |
+| [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 | 2023-09-08 |  |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2023-01-13 |  |
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2023-01-13 |  |
 | [Easy From Now On](https://open.spotify.com/track/1zKF9MlZymZ5uuMVv4Us1G) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Easy From Now On](https://open.spotify.com/album/27eQoki17KCvSJWtta6xlq) | 3:18 | 2023-01-13 |  |
-| [Eyes Closed](https://open.spotify.com/track/6Haih5koeTEO8I5SL30VE4) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Eyes Closed](https://open.spotify.com/album/3RwTMkKgKPczeOBQTVK94g) | 3:26 | 2023-05-12 |  |
+| [Eyes Closed](https://open.spotify.com/track/6Haih5koeTEO8I5SL30VE4) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Eyes Closed](https://open.spotify.com/album/3RwTMkKgKPczeOBQTVK94g) | 3:26 | 2023-05-12 | 2023-09-08 |
 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 | 2023-01-13 |  |
 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2023-01-13 |  |
 | [Forget Me](https://open.spotify.com/track/7GEV626sMh00yN7RRPMSa5) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Forget Me](https://open.spotify.com/album/2zcAZvavezu2TMxGFGd3OU) | 4:06 | 2023-01-13 |  |
@@ -63,7 +64,7 @@
 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 | 2023-01-13 |  |
 | [Hell N Back](https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7) | [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Hell N Back](https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6) | 3:21 | 2023-08-10 |  |
 | [here comes the sun](https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [here comes the sun](https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7) | 2:47 | 2023-01-13 |  |
-| [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 | 2023-01-13 |  |
+| [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 | 2023-01-13 | 2023-09-08 |
 | [Hungry Heart](https://open.spotify.com/track/0E7xdpw1IuxK7NnfSbbvlx) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Hungry Heart](https://open.spotify.com/album/2D4H84WEClhIdQT70frHEG) | 3:07 | 2023-01-13 |  |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2023-01-13 |  |
 | [I Love The Way You Love Me](https://open.spotify.com/track/1DcKLf37erdwo5A3rEw9qL) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Love The Way You Love Me](https://open.spotify.com/album/648cHrWoPorXBdwHNU3bzS) | 3:23 | 2023-01-13 | 2023-05-12 |
@@ -96,7 +97,7 @@
 | [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-05-12 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2023-01-13 |  |
 | [New Rules](https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE) | 3:47 | 2023-01-13 |  |
-| [Ocean Eyes](https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N) | [Jameson David](https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq) | [Ocean Eyes](https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb) | 2:58 | 2023-01-13 |  |
+| [Ocean Eyes](https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N) | [Jameson David](https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq) | [Ocean Eyes](https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb) | 2:58 | 2023-01-13 | 2023-09-08 |
 | [Only Wanna Be With You](https://open.spotify.com/track/6fsm1K4sCxPSp1YqQWKAQe) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Only Wanna Be With You](https://open.spotify.com/album/3vqYbaz02htSWXaRqNWvBQ) | 2:52 | 2023-01-13 |  |
 | [Paradise \- Acoustic](https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/1Ad968gPukAt86YXpyEWIy) | 2:33 | 2023-01-13 |  |
 | [Pillowtalk](https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Pillowtalk](https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz) | 2:33 | 2023-01-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Miles Kane",
-  "num_followers": 113949,
+  "num_followers": 113985,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGVlZWNkNjMzZWNjZDdlNDEzMDVjZjcyNzQ0YTZmYjY4MDgyYjY1",
+  "snapshot_id": "MCxmN2NlODA3NjE3N2Q4ZmZjMTM2NjM1YWMwNmExNjY5Mzc5NGU5ZTdm",
   "tracks": [
     {
       "added_at": "2023-08-04 12:37:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Troubled Son",
-        "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 200482,
-      "name": "Troubled Son",
-      "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "An Ocean Full of Islands",
         "url": "https://open.spotify.com/album/5qg03RMXqMLis0jVnGeug1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 198647,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2SL3kWWD9lt3YaVtF2kATH"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Troubled Son",
+        "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 200482,
+      "name": "Troubled Son",
+      "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Baggio",
-        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 221389,
-      "name": "Baggio",
-      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 211119,
       "name": "3AM",
       "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Baggio",
+        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 221389,
+      "name": "Baggio",
+      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "What a Shame",
-        "url": "https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb"
-      },
-      "artists": [
-        {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "What a Shame",
-      "url": "https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Landmines",
         "url": "https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Anxiety Replacement Therapy",
-        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
+        "name": "What a Shame",
+        "url": "https://open.spotify.com/album/6B45cam0D4Uw3NfleBOPrb"
       },
       "artists": [
         {
-          "name": "The Lottery Winners",
-          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
         }
       ],
-      "duration_ms": 186083,
-      "name": "Sertraline",
-      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
+      "duration_ms": 178533,
+      "name": "What a Shame",
+      "url": "https://open.spotify.com/track/1qTV9vY7G87NEC8waJtT0B"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -791,6 +775,22 @@
       "duration_ms": 240214,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Anxiety Replacement Therapy",
+        "url": "https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu"
+      },
+      "artists": [
+        {
+          "name": "The Lottery Winners",
+          "url": "https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "Sertraline",
+      "url": "https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Remember All The Girls",
-        "url": "https://open.spotify.com/album/6fb4iHgNQBpYtLjcFD3W82"
-      },
-      "artists": [
-        {
-          "name": "The Sherlocks",
-          "url": "https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4"
-        }
-      ],
-      "duration_ms": 222956,
-      "name": "Remember All The Girls",
-      "url": "https://open.spotify.com/track/7EPUyFHUWXCSmu5EoO58ET"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Wide Asleep",
         "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
+        "name": "Remember All The Girls",
+        "url": "https://open.spotify.com/album/6fb4iHgNQBpYtLjcFD3W82"
+      },
+      "artists": [
+        {
+          "name": "The Sherlocks",
+          "url": "https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4"
+        }
+      ],
+      "duration_ms": 222956,
+      "name": "Remember All The Girls",
+      "url": "https://open.spotify.com/track/7EPUyFHUWXCSmu5EoO58ET"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
         "name": "Lovers Come and Lovers Go",
         "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 159586,
       "name": "Lovers Come and Lovers Go",
       "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "nothing's on but everyone's watching",
+        "url": "https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd"
+      },
+      "artists": [
+        {
+          "name": "DAYTIME TV",
+          "url": "https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8"
+        }
+      ],
+      "duration_ms": 174829,
+      "name": "little victories",
+      "url": "https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "nothing's on but everyone's watching",
-        "url": "https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V"
       },
       "artists": [
         {
-          "name": "DAYTIME TV",
-          "url": "https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8"
+          "name": "The Covasettes",
+          "url": "https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt"
         }
       ],
-      "duration_ms": 174829,
-      "name": "little victories",
-      "url": "https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl"
+      "duration_ms": 188744,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1111,22 +1127,6 @@
       "duration_ms": 186432,
       "name": "Third Time Lucky",
       "url": "https://open.spotify.com/track/49HgyKaneQrj1YeJp6OvUC"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V"
-      },
-      "artists": [
-        {
-          "name": "The Covasettes",
-          "url": "https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt"
-        }
-      ],
-      "duration_ms": 188744,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Electric Kool-Aid (Pt. 2)",
-        "url": "https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI"
-      },
-      "artists": [
-        {
-          "name": "The Blinders",
-          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
-        }
-      ],
-      "duration_ms": 237422,
-      "name": "Ritual Of The Crocodile Men",
-      "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/6UzUGO9oaMhbekhTHgsw2Q"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 206805,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Electric Kool-Aid (Pt. 2)",
+        "url": "https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI"
+      },
+      "artists": [
+        {
+          "name": "The Blinders",
+          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
+        }
+      ],
+      "duration_ms": 237422,
+      "name": "Ritual Of The Crocodile Men",
+      "url": "https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb"
-      },
-      "artists": [
-        {
-          "name": "Lanterns on the Lake",
-          "url": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Real Life - Edit",
-      "url": "https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "We're Not Getting Any Younger",
         "url": "https://open.spotify.com/album/6xPfpbGCQSaACzi8yolcMz"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 262656,
       "name": "Everyone's a Liar",
       "url": "https://open.spotify.com/track/0HrFnaw0MjTqa8YmxeXDys"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb"
+      },
+      "artists": [
+        {
+          "name": "Lanterns on the Lake",
+          "url": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Real Life - Edit",
+      "url": "https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ"
     },
     {
       "added_at": "2023-07-28 14:01:17",

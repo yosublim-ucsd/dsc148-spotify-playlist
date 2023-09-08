@@ -224,7 +224,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 261879,
       "name": "Apex",
       "url": "https://open.spotify.com/track/2rkYtkOUorjiLp4kDdnOzk"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 161589,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
@@ -2110,6 +2110,24 @@
       "duration_ms": 174375,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/2JUekZEDv8GYGsTfSmI9Ek"
+    },
+    {
+      "album": {
+        "name": "Tranceformation",
+        "url": "https://open.spotify.com/album/20n8FSFvvV8YiaYB5huDTL"
+      },
+      "artists": [
+        {
+          "name": "MR.BLACK",
+          "url": "https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Flight 303",
+      "url": "https://open.spotify.com/track/3VSwrup744za8NcJwdlbbL"
     },
     {
       "album": {
@@ -3837,6 +3855,24 @@
     },
     {
       "album": {
+        "name": "Minerva",
+        "url": "https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv"
+      },
+      "artists": [
+        {
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Minerva",
+      "url": "https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD"
+    },
+    {
+      "album": {
         "name": "Mirror Mirror",
         "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
       },
@@ -4022,6 +4058,28 @@
       "duration_ms": 207187,
       "name": "Music Means Love Forever",
       "url": "https://open.spotify.com/track/7nlXw2qQ38tx4UvBwVL5Ne"
+    },
+    {
+      "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "album": {
@@ -4674,7 +4732,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 211202,
       "name": "Our Happiness",
       "url": "https://open.spotify.com/track/1cz2AfXziuBivVSLmThU6g"
@@ -5198,7 +5256,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 169855,
       "name": "Rave Time (W&W Edit)",
       "url": "https://open.spotify.com/track/0UVBULfbKPCgJc779Zun1M"
@@ -5930,6 +5988,28 @@
       "duration_ms": 223384,
       "name": "Speed",
       "url": "https://open.spotify.com/track/2djrfJoMcMkeclcALeYHit"
+    },
+    {
+      "album": {
+        "name": "Spitfire",
+        "url": "https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG"
+      },
+      "artists": [
+        {
+          "name": "NWYR",
+          "url": "https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164090,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES"
     },
     {
       "album": {

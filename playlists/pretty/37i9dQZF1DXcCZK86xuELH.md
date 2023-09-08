@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,938 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,963 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 43 | [Blank Pages](https://open.spotify.com/track/2aUrM2EbVx2XGTalUh6Zco) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Atlas / 1](https://open.spotify.com/album/56Gcw4yzUceZQmMrPt3fTw) | 4:59 |
 | 44 | [I'll Be There](https://open.spotify.com/track/2kphJV5Rpi7iCjJTlQEdod) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [I'll Be There](https://open.spotify.com/album/0EaxICyiFSuU2HPVv1QRFP) | 4:49 |
 | 45 | [Conversations \- Breakage Remix](https://open.spotify.com/track/2CUAOXnbR2U6iPEm8Zee9Q) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [MC Fats](https://open.spotify.com/artist/7cy71t1F8aAKPjTmt6PGyd), [Cleveland Watkiss](https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Conversations \(Breakage Remix\)](https://open.spotify.com/album/32W45dDXBd174iqglCqT5c) | 3:51 |
-| 46 | [City Angels](https://open.spotify.com/track/7lw2xTVW3Kudde3467EtjG) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH), [Milo Merah](https://open.spotify.com/artist/4Eh9HkKCR6Vaa38n6DpNie), [RSWT](https://open.spotify.com/artist/6nPVvsL7odY2rRHU7aXIzv) | [City Angels](https://open.spotify.com/album/0JhPO16995F2gkekfBJDFU) | 4:34 |
+| 46 | [City Angels](https://open.spotify.com/track/3sSPDiEWQVJ58jQgPELKIs) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH), [Milo Merah](https://open.spotify.com/artist/4Eh9HkKCR6Vaa38n6DpNie), [RSWT](https://open.spotify.com/artist/6nPVvsL7odY2rRHU7aXIzv) | [City Angels](https://open.spotify.com/album/6DVmSIYVHjuyQCFVl6zicT) | 4:34 |
 | 47 | [Show Me](https://open.spotify.com/track/6wBXGUAcDsK3T7fidop2Gc) | [Jubei](https://open.spotify.com/artist/748MGeLsgxl6GVGuDvHbsY), [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Show Me](https://open.spotify.com/album/6tUgcJ42LlOwmQiUEuaYhF) | 4:33 |
 | 48 | [Junglist](https://open.spotify.com/track/1sap7FwEuCQqFv3bOpnh6A) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Peter Bouncer](https://open.spotify.com/artist/1Bbk2KnbOQycR2QCUoNhp1) | [This Is Jungle](https://open.spotify.com/album/7pLhXTs8TacjaFIdh9XJct) | 6:08 |
 | 49 | [Down 4](https://open.spotify.com/track/4wdqjXxcM5sis1fv4ureKR) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Down 4](https://open.spotify.com/album/2FTh5EtCIuyrXX3pjzCOcd) | 2:18 |
 | 50 | [I Don't Care Wot U Say](https://open.spotify.com/track/2UrS8i3MWFFRcxVoTX835R) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:36 |
 
-Snapshot ID: `MCxiZjFlMzAzMWMwYTA0NjEzN2U1ZWM4OTBjYzBlNzgzOTExNTQ1MTVm`
+Snapshot ID: `MCw1MDBkODg2MTdmNDVjZmVlZGI2ZjgyMzUxZTBkNjliOWU0M2VlZDU5`

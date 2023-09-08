@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-351 songs - 18 hr 45 min
+352 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 |  |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |
 | [What Is Love](https://open.spotify.com/track/3tKauD5kFXQb4cju242NMv) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [Say My Name](https://open.spotify.com/album/0LAO785ee5Dx0SNTMApanL) | 2:53 | 2023-03-17 |  |
+| [What Was I Made For?](https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [What Was I Made For?](https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK) | 3:01 | 2023-09-08 |  |
 | [When I Held Ya](https://open.spotify.com/track/7lNpAXqQVSUjmaVDMljWPp) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [When I Held Ya](https://open.spotify.com/album/0SK2OyGdMTXcayeC3M4X3v) | 3:10 | 2022-12-16 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2022-08-01 |  |
 | [When We Were Young](https://open.spotify.com/track/1BJ1tfLa2reIcql4Xt4l9J) | [Susan Suarez](https://open.spotify.com/artist/7zXgNwttTYAgW38YUb2eon) | [When We Were Young](https://open.spotify.com/album/5dhtfQaRHSqvallSRzDUb6) | 3:01 | 2022-08-01 | 2023-06-23 |

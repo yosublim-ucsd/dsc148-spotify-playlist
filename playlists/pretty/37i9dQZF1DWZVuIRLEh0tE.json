@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos urbanos de RD, pa' lo t\u00edgueres de alta gama. En portada: Rochy RD",
-  "num_followers": 220906,
+  "num_followers": 220994,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTAzZGU5NGE2NGM4Yjc5NjAxNjBjNDViODM3NzRmNDY1YTEzNDdi",
+  "snapshot_id": "MCxmZDM4ZTRlNzE0MTJjYWJhMDY2YzcwMWMyMjRkOWI4NThmM2ZmMTJm",
   "tracks": [
     {
       "added_at": "2023-08-09 02:57:44",
@@ -149,6 +149,26 @@
       "url": "https://open.spotify.com/track/3TzYN19Z0kd2G7k0OKze4K"
     },
     {
+      "added_at": "2023-09-08 00:13:38",
+      "album": {
+        "name": "Tu charyn (Special Version)",
+        "url": "https://open.spotify.com/album/7uowgDeey2MQPHtlfv7LFM"
+      },
+      "artists": [
+        {
+          "name": "RUBIA DE ORO",
+          "url": "https://open.spotify.com/artist/1Q2c7O7V72iE59JtdtIED2"
+        },
+        {
+          "name": "Rubirosagucci",
+          "url": "https://open.spotify.com/artist/5zzIWrqRJ6YgN6bfvZB0jg"
+        }
+      ],
+      "duration_ms": 142309,
+      "name": "Tu charyn - Special Version",
+      "url": "https://open.spotify.com/track/40GXSultyco7bg2gQ6auqf"
+    },
+    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "LOS POBRES Y LOS RICOS",
@@ -215,6 +235,22 @@
       "duration_ms": 164709,
       "name": "Te Estudiamos",
       "url": "https://open.spotify.com/track/02qjedAfRU0kjEfoCUDg6h"
+    },
+    {
+      "added_at": "2023-09-08 00:13:38",
+      "album": {
+        "name": "Bu BaBa: La Esencia Del G\u00e9nero",
+        "url": "https://open.spotify.com/album/7uDg7P81VTaDvSDDg9QZvm"
+      },
+      "artists": [
+        {
+          "name": "Afro Jaz",
+          "url": "https://open.spotify.com/artist/6289LNzpbKlv3jxvg2p0QT"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Bu BaBa: La Esencia Del G\u00e9nero",
+      "url": "https://open.spotify.com/track/48KxytQOd2pVIqavhsFBpC"
     },
     {
       "added_at": "2023-08-24 22:34:50",
@@ -1087,30 +1123,6 @@
       "duration_ms": 644458,
       "name": "A Tento A Mi Freestyle",
       "url": "https://open.spotify.com/track/092kIxnQfijqgXVnsq7tOm"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "De Nuevo",
-        "url": "https://open.spotify.com/album/0QrTQAtARKKb7viQ5G32IY"
-      },
-      "artists": [
-        {
-          "name": "Dany Doll",
-          "url": "https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY"
-        },
-        {
-          "name": "Hemphil Otra Nota",
-          "url": "https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9"
-        },
-        {
-          "name": "Master P",
-          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "De Nuevo",
-      "url": "https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf"
     },
     {
       "added_at": "2023-07-18 04:00:00",

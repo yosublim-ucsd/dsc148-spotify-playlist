@@ -140,7 +140,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 211868,
       "name": "Addicted to the Bass",
       "url": "https://open.spotify.com/track/4UJie4npIuGkiA8rkndBS6"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 163245,
       "name": "Blow The Speakers",
       "url": "https://open.spotify.com/track/3qbqvbfHDtu3nvRFBpnfZB"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 216376,
       "name": "By The Sword",
       "url": "https://open.spotify.com/track/07B46HFSAMauWkHwp5n50P"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 232400,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/06sDYT7KiqoZiWH8Setpgw"
@@ -3441,6 +3441,28 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167294,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
+    },
+    {
+      "album": {
         "name": "Faith Of This World (Original Mix)",
         "url": "https://open.spotify.com/album/66FezURQqWeQTcoxvAlOeE"
       },
@@ -3848,7 +3870,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 236800,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk"
@@ -5894,7 +5916,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 261182,
       "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
       "url": "https://open.spotify.com/track/7f8sMzOd2e5eHfiTqThjtQ"
@@ -6313,6 +6335,28 @@
     },
     {
       "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
+    },
+    {
+      "album": {
         "name": "Killer",
         "url": "https://open.spotify.com/album/1hM1dZvmgVxLpO9Ddw518d"
       },
@@ -6704,7 +6748,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 199740,
       "name": "Like A Lion",
       "url": "https://open.spotify.com/track/2kxeK97qaeEnpwIJDPYCQG"
@@ -6748,6 +6792,32 @@
       "duration_ms": 303586,
       "name": "Living For The Moment - 2020 Remix",
       "url": "https://open.spotify.com/track/4gZNHeY0uBX0f9VTV1VA3Y"
+    },
+    {
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/3ciyeM3pmJDfeXrwUPS5XR"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198290,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/3yfalzV1vMd3dm7jzpCjii"
     },
     {
       "album": {
@@ -6814,6 +6884,32 @@
       "duration_ms": 183200,
       "name": "Lose My Mind - Radio Edit",
       "url": "https://open.spotify.com/track/1FKUPb2HdRzrwpbhF5gqsk"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind (Sub Zero Project Remix)",
+        "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253012,
+      "name": "Lose My Mind - Sub Zero Project Remix",
+      "url": "https://open.spotify.com/track/6FQTEo5HfXoMzXV513unv9"
     },
     {
       "album": {
@@ -7022,7 +7118,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 208937,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
@@ -8865,6 +8961,32 @@
     },
     {
       "album": {
+        "name": "Pray 4 Party",
+        "url": "https://open.spotify.com/album/4i5TdB9PbLEO5wgIrjyg9T"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Pray 4 Party",
+      "url": "https://open.spotify.com/track/5PzIVypjkmW2oJ9arHKa0D"
+    },
+    {
+      "album": {
         "name": "Primal Energy (Defqon.1 2020 Anthem)",
         "url": "https://open.spotify.com/album/46khrcQnwafQ7aGOAuwCt0"
       },
@@ -10423,6 +10545,28 @@
     },
     {
       "album": {
+        "name": "STAR WALKIN'",
+        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "NOTYPE",
+          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184511,
+      "name": "STAR WALKIN'",
+      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/7sTJS0wrHRrA4S79NSAJOT"
       },
@@ -11198,7 +11342,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 228285,
       "name": "The Calling (Da Tweekaz Remix)",
       "url": "https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT"
@@ -11596,7 +11740,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 174084,
       "name": "The Whistle",
       "url": "https://open.spotify.com/track/1hyouF17AeBgZ9KT2p6PPF"
@@ -11742,7 +11886,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 241032,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1P0mcQCTn85NY7I1cKFVZh"
@@ -11790,7 +11934,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 284903,
       "name": "Time Is Now (I AM HARDSTYLE In Concert Theme)",
       "url": "https://open.spotify.com/track/0VZTgcwJaA2LBspPvQ32hh"
@@ -12208,6 +12352,32 @@
       "duration_ms": 299210,
       "name": "Unite",
       "url": "https://open.spotify.com/track/5y84Vt9HWofVxGPSmqKKze"
+    },
+    {
+      "album": {
+        "name": "EP 1",
+        "url": "https://open.spotify.com/album/7BdQV8jnl2ObHAi7I7y2CQ"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Casino Break",
+          "url": "https://open.spotify.com/artist/1eoC1wfP1kuYquEFPuhWt8"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183638,
+      "name": "United As One",
+      "url": "https://open.spotify.com/track/5HiEqsOo0c9q1Ae9wODL6s"
     },
     {
       "album": {
@@ -13038,7 +13208,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 224667,
       "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
       "url": "https://open.spotify.com/track/7hiSvqxUrIB4ZAH4hi0awM"

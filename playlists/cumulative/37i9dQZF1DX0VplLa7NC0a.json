@@ -2186,12 +2186,20 @@
       },
       "artists": [
         {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+          "name": "Gioacchino Rossini",
+          "url": "https://open.spotify.com/artist/7f5wJNknfAbvVtXW5zou4h"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
         },
         {
           "name": "Anna Netrebko",
           "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Ildebrando D'Arcangelo",
+          "url": "https://open.spotify.com/artist/2T65T3cd7YFAATkLldKXN1"
         },
         {
           "name": "Joyce DiDonato",
@@ -2202,22 +2210,6 @@
           "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
         },
         {
-          "name": "Ildebrando D'Arcangelo",
-          "url": "https://open.spotify.com/artist/2T65T3cd7YFAATkLldKXN1"
-        },
-        {
-          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
-          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
-        },
-        {
-          "name": "Coro dell'Accademia Nazionale Di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/0s7O03leh3CDPvzFu2qIaR"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
           "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
           "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
         }
@@ -2226,7 +2218,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 567306,
-      "name": "Rossini: Stabat Mater: I. Stabat Mater dolorosa (Soprano, Mezzo-soprano, Tenor, Bass, Chorus)",
+      "name": "Rossini: Stabat Mater: I. Stabat Mater dolorosa",
       "url": "https://open.spotify.com/track/4hXaE6TgZCasb00D0BQyFa"
     },
     {
@@ -2824,16 +2816,16 @@
           "url": "https://open.spotify.com/artist/38ZFGQidKbRMrPPA2sqE8n"
         },
         {
-          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
-          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
         },
         {
           "name": "Antonio Pappano",
           "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
         },
         {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+          "name": "Orchestra dell' Accademia Nazionale di Santa Cecilia, Roma",
+          "url": "https://open.spotify.com/artist/7BYF3pEWuibx8D2hezbUTp"
         }
       ],
       "date_added": "2019-11-20",

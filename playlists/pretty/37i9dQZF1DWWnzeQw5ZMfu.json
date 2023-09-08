@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 60570,
+  "num_followers": 60633,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODkzYjY4Yzk2MjQyYWU1YjAzMmU1YjU2YzdkYmFmMWMyNTNlOWFm",
+  "snapshot_id": "MCwwYjdkY2RjZjM5N2FkZDExYTgxYzYwYTU3OGEwOWRhMWYwMDUzYmM4",
   "tracks": [
     {
       "added_at": "2023-09-01 18:59:58",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Live in Dortmund",
-        "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
       },
       "artists": [
         {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
         }
       ],
-      "duration_ms": 246146,
-      "name": "The Lady In Red - Live",
-      "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+        "name": "Live in Dortmund",
+        "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
         }
       ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
+      "duration_ms": 246146,
+      "name": "The Lady In Red - Live",
+      "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "The Confessions Tour",
-        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Erotica - Live",
-      "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
         "name": "Stadium Rockers",
         "url": "https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "The Confessions Tour",
+        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Erotica - Live",
+      "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
     },
     {
       "added_at": "2023-09-01 18:59:58",

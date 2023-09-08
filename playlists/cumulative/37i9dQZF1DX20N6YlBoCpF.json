@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj?si=P1uKXwPNRYePfDFuwLE1yA\">Il\u00e1n van Staden</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=xhqsEMvkSOGLmiT6ebA5gw\">Marno van der Merwe</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -204,6 +204,36 @@
       "duration_ms": 222582,
       "name": "Alles",
       "url": "https://open.spotify.com/track/6AfAYZSP09RMPqCVzyVAMj"
+    },
+    {
+      "album": {
+        "name": "Allie Manne",
+        "url": "https://open.spotify.com/album/7xDdzCHy2JfzRFpCwyKHMa"
+      },
+      "artists": [
+        {
+          "name": "Ampie",
+          "url": "https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx"
+        },
+        {
+          "name": "Hunter Kennedy",
+          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+        },
+        {
+          "name": "Dricus du Plessis",
+          "url": "https://open.spotify.com/artist/3Q2csuDbk2Rt3TRFvYicOn"
+        },
+        {
+          "name": "Radio Raps",
+          "url": "https://open.spotify.com/artist/1wH8AEG14hPBfFeIUQBOWj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224117,
+      "name": "Allie Manne",
+      "url": "https://open.spotify.com/track/0BOQ2E7cJUUmrSgYcIaWEf"
     },
     {
       "album": {
@@ -775,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Bittersoet",
+        "url": "https://open.spotify.com/album/1E262isGeln0uubpPhL4Xz"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Bittersoet",
+      "url": "https://open.spotify.com/track/6YtZU5bgZ7WtMd8URxWlrE"
+    },
+    {
+      "album": {
         "name": "Bittersomerson",
         "url": "https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt"
       },
@@ -1046,7 +1094,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 163128,
       "name": "Bokke Spring",
       "url": "https://open.spotify.com/track/2Vx2yStDNHE0XEUcwi3c2L"
@@ -1680,7 +1728,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 198466,
       "name": "Die Einde",
       "url": "https://open.spotify.com/track/1WuPoDEk04VoisbtZGEbH9"
@@ -1792,7 +1840,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 162180,
       "name": "Die Man",
       "url": "https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We"
@@ -2006,7 +2054,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 190233,
       "name": "Dit is wat dit is - Acoustic",
       "url": "https://open.spotify.com/track/32CvrfwDR1Urp9CBugj5uP"
@@ -2281,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "Ek Probeer",
+        "url": "https://open.spotify.com/album/5u4FmVgNASBkqlvtDspwi6"
+      },
+      "artists": [
+        {
+          "name": "Klasie",
+          "url": "https://open.spotify.com/artist/32AROwpHlhY44s9vp081Yd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193407,
+      "name": "Ek Probeer",
+      "url": "https://open.spotify.com/track/1ixBQMO19n3eXRsSgaQFR2"
+    },
+    {
+      "album": {
         "name": "Ek Speel Met Vuur Vir Jou",
         "url": "https://open.spotify.com/album/3Lo8rt5XMqXWZoad6HiUYU"
       },
@@ -2411,6 +2477,42 @@
     },
     {
       "album": {
+        "name": "Ek Wou Nog",
+        "url": "https://open.spotify.com/album/3sVSDeD3RW5GWzHiQ1tr8x"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228730,
+      "name": "Ek Wou Nog",
+      "url": "https://open.spotify.com/track/7lbjCxUt9BiGVU7cepqWAa"
+    },
+    {
+      "album": {
+        "name": "Ek's Verlore",
+        "url": "https://open.spotify.com/album/5LPjlSQvjKefDI9CpVzFsR"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Ek's Verlore",
+      "url": "https://open.spotify.com/track/4Z0L8MfGkDPX4AX0gnam13"
+    },
+    {
+      "album": {
         "name": "En Dan Dans Ons (Radio Edit)",
         "url": "https://open.spotify.com/album/6Emf9iINTCZ9nWbYpFqH3r"
       },
@@ -2426,6 +2528,28 @@
       "duration_ms": 205500,
       "name": "En Dan Dans Ons - Radio Edit",
       "url": "https://open.spotify.com/track/5cbg8zoHpsqeKsufRqLGQc"
+    },
+    {
+      "album": {
+        "name": "Engel vir nou",
+        "url": "https://open.spotify.com/album/6rRpd99b7At6e0X7Q5UqN5"
+      },
+      "artists": [
+        {
+          "name": "Christi van Niekerk",
+          "url": "https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4"
+        },
+        {
+          "name": "viljoenskoen",
+          "url": "https://open.spotify.com/artist/6vQAeZiKy3dayteK8wUpTP"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191230,
+      "name": "Engel vir nou",
+      "url": "https://open.spotify.com/track/3COYWi2vYXSQxnF7cAZXCZ"
     },
     {
       "album": {
@@ -2614,6 +2738,24 @@
       "duration_ms": 237823,
       "name": "Gebore Vir Kuns",
       "url": "https://open.spotify.com/track/2tgxEdHbSnieZ0oDvwwHuh"
+    },
+    {
+      "album": {
+        "name": "Gebroke Hart Sindroom",
+        "url": "https://open.spotify.com/album/1RB6kwrKEP6P2gywnQ7oRi"
+      },
+      "artists": [
+        {
+          "name": "Delanae",
+          "url": "https://open.spotify.com/artist/6eJodu0wnPKw2ZBruAf1Hb"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224390,
+      "name": "Gebroke Hart Sindroom",
+      "url": "https://open.spotify.com/track/415CBFQvc7kiaK0yfiMagU"
     },
     {
       "album": {
@@ -2900,7 +3042,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 200129,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/0xjkqCaJ1EbdcFUz9rnoCI"
@@ -3704,7 +3846,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 211891,
       "name": "Jy is genoeg",
       "url": "https://open.spotify.com/track/2fdbtc6ZvSQAlizaU2VFSP"
@@ -4105,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Koffiekapitaal",
+        "url": "https://open.spotify.com/album/14hJeBEkCb4wyzmCBJAduw"
+      },
+      "artists": [
+        {
+          "name": "Chris van der Westhuizen",
+          "url": "https://open.spotify.com/artist/29f30cR7q8nOrYRHLewv69"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257763,
+      "name": "Koffiekapitaal",
+      "url": "https://open.spotify.com/track/6hzx8tZmP0mDZWnUqEnnBj"
+    },
+    {
+      "album": {
         "name": "Net Geleen",
         "url": "https://open.spotify.com/album/7eQNFAWf2HSr2RHK7wbhnK"
       },
@@ -4346,7 +4506,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 189408,
       "name": "Kyk na my",
       "url": "https://open.spotify.com/track/5Mk0k7yeXSQoHIDE5JOFdz"
@@ -4404,7 +4564,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 212727,
       "name": "Laaste Dans",
       "url": "https://open.spotify.com/track/3ZF1uG7UDRM63WQux3geSe"
@@ -4880,7 +5040,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 210674,
       "name": "Liglied",
       "url": "https://open.spotify.com/track/2tGZNCzJDs1ILOnI9zBglp"
@@ -5010,7 +5170,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 256440,
       "name": "Mal",
       "url": "https://open.spotify.com/track/4A2O8W7Khl31dJqn4wzzUk"
@@ -5618,6 +5778,24 @@
       "duration_ms": 221960,
       "name": "Net Een Naam",
       "url": "https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly"
+    },
+    {
+      "album": {
+        "name": "Net Een Naam (Akoestiese Weergawe)",
+        "url": "https://open.spotify.com/album/6jHsDxH1DjDpHJP88zErnn"
+      },
+      "artists": [
+        {
+          "name": "Retief Burger",
+          "url": "https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237401,
+      "name": "Net Een Naam (Akoestiese Weergawe)",
+      "url": "https://open.spotify.com/track/5FiSIzozVTcP4gB8bj7JuH"
     },
     {
       "album": {
@@ -6299,6 +6477,24 @@
     },
     {
       "album": {
+        "name": "Ouens Soos Ek",
+        "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163035,
+      "name": "Ouens Soos Ek",
+      "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
+    },
+    {
+      "album": {
         "name": "Pa Staan Vir Jou",
         "url": "https://open.spotify.com/album/5562QGSuhFGerIrPFELKNm"
       },
@@ -6314,6 +6510,24 @@
       "duration_ms": 244440,
       "name": "Pa Staan Vir Jou",
       "url": "https://open.spotify.com/track/3wsBtZNuGxiFJ1f7oLq86J"
+    },
+    {
+      "album": {
+        "name": "Paar Draaie",
+        "url": "https://open.spotify.com/album/4Q8ILSU10XwBluP87wSQf4"
+      },
+      "artists": [
+        {
+          "name": "Alouise",
+          "url": "https://open.spotify.com/artist/7KInqkz6l03usNvPrh3jry"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Paar Draaie",
+      "url": "https://open.spotify.com/track/2uGoDs7zqYg3FSeotphZ0M"
     },
     {
       "album": {
@@ -6372,6 +6586,24 @@
       "duration_ms": 200669,
       "name": "Partytjie Slaap Herhaal",
       "url": "https://open.spotify.com/track/5G9Gg9JtFDbbCUSjw1y3b0"
+    },
+    {
+      "album": {
+        "name": "Perdekrag",
+        "url": "https://open.spotify.com/album/0PjHv7BMNxcSw1FJCqCK0e"
+      },
+      "artists": [
+        {
+          "name": "Rita Li",
+          "url": "https://open.spotify.com/artist/1K7LgVQOUidDGnDvugQi3V"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187724,
+      "name": "Perdekrag",
+      "url": "https://open.spotify.com/track/0t8WiKkrUDGjcnBnOYBZDU"
     },
     {
       "album": {
@@ -6754,6 +6986,36 @@
       "duration_ms": 213392,
       "name": "Saam Is Beter",
       "url": "https://open.spotify.com/track/4EBQrGsaK0yuNPK9b7SLf6"
+    },
+    {
+      "album": {
+        "name": "Saam Suid-Afrika",
+        "url": "https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        },
+        {
+          "name": "Anlia Star",
+          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
+        },
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        },
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226229,
+      "name": "Saam Suid-Afrika",
+      "url": "https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz"
     },
     {
       "album": {
@@ -7572,7 +7834,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 226979,
       "name": "Stockholm Sindroom",
       "url": "https://open.spotify.com/track/3rSBfEao6GYdf9UwzY4bPX"
@@ -7634,7 +7896,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 196627,
       "name": "STUKKIE",
       "url": "https://open.spotify.com/track/6TuujyWjlNpWboxKKLS2zI"
@@ -7908,7 +8170,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 234254,
       "name": "Tekkies Brand - Cre8tro Remix",
       "url": "https://open.spotify.com/track/60xg0myi1c2g3dBhnE77DO"
@@ -8649,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "Vreesloos",
+        "url": "https://open.spotify.com/album/7r8ttzOMdqZBS1BtfCJJHn"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165302,
+      "name": "Vreesloos",
+      "url": "https://open.spotify.com/track/26LFQgEz9mw2d617xFMpbP"
+    },
+    {
+      "album": {
         "name": "Vrydagaand",
         "url": "https://open.spotify.com/album/6XyImufJax67r5B7MwvkAc"
       },
@@ -9010,10 +9290,28 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 158750,
       "name": "Wat nou?",
       "url": "https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ"
+    },
+    {
+      "album": {
+        "name": "Waterdig",
+        "url": "https://open.spotify.com/album/5hSmNuiAhNgWpx7jHAKzOZ"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234444,
+      "name": "Waterdig",
+      "url": "https://open.spotify.com/track/0hjuMD8gVxaNrXuHET21mU"
     },
     {
       "album": {
@@ -9162,7 +9460,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 211046,
       "name": "Wit Vlag",
       "url": "https://open.spotify.com/track/5TLdTbaryDECAd7tq9DUB5"
@@ -9306,7 +9604,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 134250,
       "name": "Zaberfluten - Acoustic",
       "url": "https://open.spotify.com/track/125F4LRSbbI91JE2urOvz6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. NOAHFINNCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,060 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,107 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [East End Boys](https://open.spotify.com/track/00nnljM2ZxydI3M7CgNTK4) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [East End Boys](https://open.spotify.com/album/7BDiM9iqKeVx14t6LlSU8a) | 2:55 |
 | 85 | [have u got a light?](https://open.spotify.com/track/4OUZX15W3IEdabaQXkfhcW) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P) | [have u got a light?](https://open.spotify.com/album/2AkXths30HAnhoXb6Is4gM) | 2:03 |
 
-Snapshot ID: `MCwyMjAzYTM5NTM3MjllNGU1NmJiOTFmYTU3NmRjNzZjZTIwODlhZDcz`
+Snapshot ID: `MCxkZDMxNWIwMTFiMTRmYWRjMzE0YmE1YTYzMTYzMDllNTFlZGI2NGQ5`

@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF"
+      },
+      "artists": [
+        {
+          "name": "Thu Minh",
+          "url": "https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5"
+        },
+        {
+          "name": "Th\u1ea3o Trang",
+          "url": "https://open.spotify.com/artist/2maFpa4M8FWKvytGzgLhyl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220546,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq"
+    },
+    {
+      "album": {
         "name": "T\u1eadp 12: The Masked Singer Vietnam",
         "url": "https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA"
       },
@@ -2136,7 +2158,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 261800,
       "name": "Ra L\u00e0 Em \u0110\u00e2u Qu\u00e1 Mong Manh",
       "url": "https://open.spotify.com/track/0AfV1Fr2nWmXFxC3RkhawH"

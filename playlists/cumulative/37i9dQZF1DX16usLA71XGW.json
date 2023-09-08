@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag. Cover: Muthaka & Emma Cheruto",
+  "description": "East Africa queens in their music bag. Cover: Polaris, Mayonde, Muthoni Drummer Queen",
   "name": "Malkia",
   "tracks": [
     {
@@ -240,6 +240,36 @@
       "duration_ms": 202057,
       "name": "Dark Skin",
       "url": "https://open.spotify.com/track/5AjVctG4cZUAlGFWpuIxLe"
+    },
+    {
+      "album": {
+        "name": "EN3RGY",
+        "url": "https://open.spotify.com/album/5RFMuaMkPzV7kpfvGAgjF6"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA"
+        },
+        {
+          "name": "Mayonde",
+          "url": "https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr"
+        },
+        {
+          "name": "Muthoni Drummer Queen",
+          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
+        },
+        {
+          "name": "HSKE",
+          "url": "https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190515,
+      "name": "EN3RGY",
+      "url": "https://open.spotify.com/track/7s1cUqddTHFRmL66cuyAlh"
     },
     {
       "album": {
@@ -1032,7 +1062,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 192966,
       "name": "Ndaga",
       "url": "https://open.spotify.com/track/07QL7I0hus6iP59GPUqwhy"
@@ -1177,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "PINK PM",
+        "url": "https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8"
+      },
+      "artists": [
+        {
+          "name": "Bey T",
+          "url": "https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "On my way!",
+      "url": "https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv"
+    },
+    {
+      "album": {
         "name": "On Yah (Intro)",
         "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
       },
@@ -1304,7 +1352,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 135464,
       "name": "Personal",
       "url": "https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT"

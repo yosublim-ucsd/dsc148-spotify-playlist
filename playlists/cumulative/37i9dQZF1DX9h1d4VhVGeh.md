@@ -4,7 +4,7 @@
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-161 songs - 10 hr 44 min
+162 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Helwa Ya Baladi](https://open.spotify.com/track/73fufl2SoSxVz2ZLPNUGVt) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Covers](https://open.spotify.com/album/4nkB7yuzm07UYE9CB3bB0J) | 3:24 | 2022-04-18 | 2023-05-14 |
 | [Helwa Ya Baladi حلوة يا بلدي \- Cover](https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He) | [Lina Sleibi](https://open.spotify.com/artist/4V7rYFRvFUe9t0D4wPCxrz) | [Helwa Ya Baladi حلوة يا بلدي \(Cover\)](https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667) | 3:24 | 2023-05-30 |  |
 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 | 2022-04-18 | 2023-02-16 |
-| [Hotel Palestina](https://open.spotify.com/track/0yVtNraXOJHVFUZmzg4CVx) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1), [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv) | [Hotel Palestina](https://open.spotify.com/album/7CI4K0ZBnjF11FwF3SkVVq) | 2:52 | 2023-05-10 |  |
+| [Hotel Palestina](https://open.spotify.com/track/0DMNoSSweJ9xmaNSvKn0lm) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1), [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv) | [Hotel Palestina](https://open.spotify.com/album/7k6J6O0OyfoanwjxnGk0v8) | 2:52 | 2023-08-25 |  |
+| [Hotel Palestina](https://open.spotify.com/track/0yVtNraXOJHVFUZmzg4CVx) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1), [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv) | [Hotel Palestina](https://open.spotify.com/album/7CI4K0ZBnjF11FwF3SkVVq) | 2:52 | 2023-05-10 | 2023-09-08 |
 | [Kefak Anta & Hello \(feat\. Fairouz\)](https://open.spotify.com/track/0Gv0LK9wf1E4YNaO7R8fNw) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Mash\-Up](https://open.spotify.com/album/3e9qgdZAlMn7D1bQWPRyoi) | 4:10 | 2022-04-18 |  |
 | [Kefayak Aazar](https://open.spotify.com/track/25HgTWTcPXoEF0mjSYrIpy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg) | 4:13 | 2022-04-18 | 2023-08-26 |
 | [Khallini Bel Jaw](https://open.spotify.com/track/4YlIyphEnQcSoMMn2WnsHc) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Eza](https://open.spotify.com/album/79554ZeLAODXiO7Yru81W4) | 4:32 | 2022-04-18 | 2022-07-29 |

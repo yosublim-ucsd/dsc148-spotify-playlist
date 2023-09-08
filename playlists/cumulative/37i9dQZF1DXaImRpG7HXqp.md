@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-606 songs - 1 day 2 hr 18 min
+611 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [am Rande des Waldes](https://open.spotify.com/track/7alIySW96sYHrTNzl1d9NS) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [no man's land](https://open.spotify.com/album/3yUOrhecG3B9bbRWcb2ghB) | 2:57 | 2021-12-08 | 2022-02-02 |
 | [Am Soiernsee](https://open.spotify.com/track/1omB6aDhZpkZttTTNhQ1tN) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mond Farben](https://open.spotify.com/album/5eNszXHl0p0GhAOMYEnRtN) | 3:48 | 2022-08-05 | 2023-04-22 |
 | [Am Starnberger See](https://open.spotify.com/track/0AaQCL7bGvEFYmTCSdcRNh) | [Joseph Winkler](https://open.spotify.com/artist/7kRkQ9MMlq3wIzX6LOJbhr) | [Chiara](https://open.spotify.com/album/66SeV3uOJWL9qxrYDkKBph) | 3:05 | 2021-12-08 | 2022-04-06 |
+| [AM Sunset](https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [AM Sunset](https://open.spotify.com/album/33beEdj4t72q8BLg2eZBOT) | 3:10 | 2023-09-08 |  |
 | [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
 | [Amélie](https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Amélie](https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b) | 1:54 | 2023-06-02 | 2023-08-19 |
 | [Andorinhas](https://open.spotify.com/track/5nGQgcKYgvLPYw147hbRKU) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Blue Jay](https://open.spotify.com/album/7vgoyyb434dIkXAypof4zz) | 3:27 | 2022-05-13 |  |
@@ -101,7 +102,7 @@
 | [Causos](https://open.spotify.com/track/3OSRR6VXC8qNmmZZNb2o9T) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Bellagio](https://open.spotify.com/album/4P47CBWTNYqS4O2IRYgxkQ) | 3:30 | 2022-12-09 |  |
 | [Cenizas](https://open.spotify.com/track/5lofKP3ukP8nV9ea0GDuUF) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Cuerda De Algodon](https://open.spotify.com/album/459rMVytLNW0fjDKzmOVzU) | 3:25 | 2021-12-08 | 2022-07-08 |
 | [Chameleon’s tuning](https://open.spotify.com/track/35DNlywB4BvMt3Ys4aIxPR) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Chameleon’s tuning](https://open.spotify.com/album/0n8hKnSnZPGPm1i7LblWdm) | 2:21 | 2023-01-06 |  |
-| [Chance Encounter](https://open.spotify.com/track/1VxxgFevf8qEmCgCtSHYTL) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Chance Encounter](https://open.spotify.com/album/0B5jOPJp2DfOIS7hX8VjyB) | 2:36 | 2022-12-09 |  |
+| [Chance Encounter](https://open.spotify.com/track/1VxxgFevf8qEmCgCtSHYTL) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Chance Encounter](https://open.spotify.com/album/0B5jOPJp2DfOIS7hX8VjyB) | 2:36 | 2022-12-09 | 2023-09-08 |
 | [Changing](https://open.spotify.com/track/15NNApdPhwATieZ9xwF6he) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Changing](https://open.spotify.com/album/5q6sharOnrKHoscFaZ9fXB) | 2:51 | 2021-12-08 | 2022-06-10 |
 | [Chapters](https://open.spotify.com/track/02kxDb12BNImueRyxxfZYs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Chapters](https://open.spotify.com/album/0fqY4NYKhi3DcCpyFPoCDE) | 3:28 | 2021-12-08 | 2022-07-22 |
 | [Cherry Blossom](https://open.spotify.com/track/3Eg6NOSgAuaA3wmTcvDFUI) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Cherry Blossom](https://open.spotify.com/album/2lIfecqavjn0OLbc1YCapM) | 1:50 | 2021-12-08 | 2022-06-10 |
@@ -272,7 +273,7 @@
 | [Kowloon Memories](https://open.spotify.com/track/56NBmGecvxum7lVslfJ0Vo) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Kowloon Memories](https://open.spotify.com/album/6BTy6MO3S6eCm59EF6rNrH) | 1:41 | 2022-09-09 | 2023-08-19 |
 | [L'Appel Du Vide](https://open.spotify.com/track/6RKkildYBGbmIy73Lyo7TD) | [Liad Abraham](https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni) | [L'Appel Du Vide](https://open.spotify.com/album/5gyl00JfmxXEFJ0mTBkMGe) | 2:03 | 2022-07-22 | 2022-07-29 |
 | [La Largo](https://open.spotify.com/track/3olW01y6J6xJK9bORKX2lN) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [La Largo](https://open.spotify.com/album/0NpneUFE5gYog3A8QUfwsr) | 2:04 | 2023-02-24 |  |
-| [La Promenade](https://open.spotify.com/track/6StJgUQTkXWw4R00002izA) | [Clotilde Dupuy](https://open.spotify.com/artist/4y31i4eg78AV7G4sP7IZZC) | [La Promenade](https://open.spotify.com/album/4XeJ8S2iCa4mEWVKC9svOa) | 3:02 | 2021-12-08 |  |
+| [La Promenade](https://open.spotify.com/track/6StJgUQTkXWw4R00002izA) | [Clotilde Dupuy](https://open.spotify.com/artist/4y31i4eg78AV7G4sP7IZZC) | [La Promenade](https://open.spotify.com/album/4XeJ8S2iCa4mEWVKC9svOa) | 3:02 | 2021-12-08 | 2023-09-08 |
 | [La Venue](https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [La Venue](https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ) | 1:48 | 2023-05-12 | 2023-08-19 |
 | [Labyrinth](https://open.spotify.com/track/56GaSp5xjMWEwsbSnI35JQ) | [Gairloch](https://open.spotify.com/artist/6EHbx04jKV7mm9YB8X3Ywd) | [Labyrinth](https://open.spotify.com/album/4E8Eyp8NYNqSRtxPp5F59Y) | 2:32 | 2021-12-08 | 2022-02-02 |
 | [Lacrime](https://open.spotify.com/track/4kkylod0jvQnK7Ognj9OUP) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Lacrime](https://open.spotify.com/album/0xh6Z1tnwWL1H79Lapk4AG) | 1:51 | 2023-05-12 | 2023-08-19 |
@@ -407,6 +408,7 @@
 | [Pinus Cembra](https://open.spotify.com/track/0KfgAX6tVB7J4fO72KHkBO) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Pinus Cembra](https://open.spotify.com/album/4NcSdFGsfLU8g1d5dMrz5X) | 3:03 | 2021-12-08 | 2022-09-23 |
 | [Piumata](https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl) | [Briana Courtois](https://open.spotify.com/artist/16zv8egdYW4tjmgK2JqIwV) | [Piumata](https://open.spotify.com/album/3oKBrqXfzKn8vYJwAra3T1) | 2:13 | 2023-01-06 |  |
 | [Place of Mind](https://open.spotify.com/track/1pgpQZQvJv2cMxYVvUjJTF) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Place of Mind](https://open.spotify.com/album/2kLih1mDxzTgcQNhWDnPBx) | 2:39 | 2022-06-10 | 2022-07-29 |
+| [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-08 |  |
 | [Polmont](https://open.spotify.com/track/6Mz1pP2PVuRP74MmjSMK6z) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Polmont](https://open.spotify.com/album/4H2kxZ43dRQdOTuAL6mw5r) | 2:16 | 2021-12-08 | 2022-06-10 |
 | [Pontevedra](https://open.spotify.com/track/345yw2L3H74BUqh08U7zbw) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Pontevedra](https://open.spotify.com/album/0QMI4BCWh5ZC8Ga7hmL7yT) | 2:31 | 2021-12-08 | 2023-04-22 |
 | [Pontevedra](https://open.spotify.com/track/1CAIsx8olzyQsEq5FwjYiq) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Pontevedra \(DS\)](https://open.spotify.com/album/7CwkEMbc4MyhipeEJMS9Bz) | 1:47 | 2022-10-07 | 2023-06-03 |
@@ -471,6 +473,7 @@
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 |  |
 | [Soft Water](https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Soft Water](https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF) | 1:40 | 2023-08-24 |  |
 | [Sognefjord](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 2:40 | 2022-12-16 |  |
+| [Sol](https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Sol](https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH) | 2:05 | 2023-09-08 |  |
 | [Solitaire](https://open.spotify.com/track/0mpYde0CZ1SV1OMNlZiTf5) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Solitaire](https://open.spotify.com/album/1aY61d1qrLkO9C8roanTWK) | 2:08 | 2023-01-06 |  |
 | [Solus Iterum](https://open.spotify.com/track/4xFhPhpAFyMFMZkySfjcIC) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Solus Iterum](https://open.spotify.com/album/35rpeAjXlKdZnPbs6zrRyH) | 2:00 | 2022-09-02 |  |
 | [Sombras Brillantes](https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ferreyra](https://open.spotify.com/album/6FHQVK0oq7y3Am6U0sYP7U) | 2:17 | 2021-12-08 |  |
@@ -520,6 +523,7 @@
 | [Take Me Home](https://open.spotify.com/track/1w6k1oy9LqMtxpNhBLFCi0) | [Jaime Escalera](https://open.spotify.com/artist/2qEvQtzSMR7dKMeakDbZaf) | [Take Me Home](https://open.spotify.com/album/6IzxxbNa1mU7ohL1By7OeF) | 2:52 | 2023-06-02 |  |
 | [Take Me Home](https://open.spotify.com/track/4epnY4Wrx6z4qjRQbCcorc) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:52 | 2021-12-08 | 2022-07-29 |
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-02-24 |  |
+| [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-08 |  |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 |  |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2021-12-08 | 2022-09-03 |
 | [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 | 2023-05-13 |
@@ -540,6 +544,7 @@
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 |  |
 | [Top Gun Anthem](https://open.spotify.com/track/7AzvPbLe8PdckwzQ2QUGOp) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Top Gun Anthem](https://open.spotify.com/album/0EO7Sx80EQEl2ZfgKmM6sY) | 2:59 | 2022-09-23 | 2023-03-10 |
 | [Toque Suave](https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Toque Suave](https://open.spotify.com/album/76YZGj9oQn2KWzRdcuS4Y9) | 2:34 | 2022-08-05 |  |
+| [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [tranquilas noches valencianas](https://open.spotify.com/track/3WHZooOd5JoUN45Y2out6e) | [Mateo Ortega](https://open.spotify.com/artist/1jLzDtxxrdDCLWSzv0YfRJ) | [Bajo La Luna](https://open.spotify.com/album/7eFERghf95UFiZ2pfE5Gld) | 3:30 | 2021-12-08 | 2022-06-17 |
 | [Tranquillité](https://open.spotify.com/track/1IY7Sd93dqmjFu0Kb48Z90) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Tranquillité](https://open.spotify.com/album/6gC38WXTRW3FR65ThRvt6p) | 2:35 | 2023-08-10 |  |
 | [Treehouse](https://open.spotify.com/track/4HtW4pnVho9FCLEhqga7GS) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Mirage](https://open.spotify.com/album/13QWnehIXcYC9GBZbPmJmC) | 2:28 | 2021-12-08 | 2022-05-27 |

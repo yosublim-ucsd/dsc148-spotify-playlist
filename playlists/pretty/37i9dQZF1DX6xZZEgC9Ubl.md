@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Chri$tian Gate$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,156 likes - 150 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,699 likes - 150 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [Never Let Go](https://open.spotify.com/track/6FUwkDkUbkrZQdS1s4uNnM) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [Never Let Go](https://open.spotify.com/album/0Y00jCq3YmCqjmZKmIXjYB) | 2:43 |
 | 150 | [Everything You Want](https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [WHY NOT](https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz) | 3:00 |
 
-Snapshot ID: `MCwyYjFmZDRiMTAyZDFmZTUyNjY5ZDdhMWZhNTE3YTExZTMxMmRjNjA0`
+Snapshot ID: `MCxjMzBlNTVlYzhiNTg4ZjY1OGFjNzY2NTg0NjQwNzBmNWU2MDAwZTFi`

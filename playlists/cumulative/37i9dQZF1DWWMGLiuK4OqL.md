@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-317 songs - 21 hr 40 min
+318 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Join Me in a Dream](https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 | 2023-02-09 |  |
 | [Just a Word](https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 3:53 | 2022-02-10 |  |
 | [Just The Way You Are](https://open.spotify.com/track/6oqlcJf6qJFiMgytmW4RfA) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r) | 3:46 | 2022-01-20 |  |
-| [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 | 2023-08-25 |  |
+| [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 | 2023-08-25 | 2023-09-08 |
 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 | 2022-01-20 | 2022-07-29 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/5drAbDDU9sm6qQ41mD5VwH) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:09 | 2022-01-20 | 2022-02-18 |
 | [L\-O\-V\-E](https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 2:08 | 2022-07-14 |  |
@@ -190,6 +190,7 @@
 | [Lush Life](https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:45 | 2022-01-20 |  |
 | [Makin' Whoopee](https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx) | 4:24 | 2023-01-17 |  |
 | [Makin' Whoopee](https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Makin' Whoopee](https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S) | 4:24 | 2022-01-20 | 2022-10-08 |
+| [Midnight Sun](https://open.spotify.com/track/0EHpaJqVGopZF1FDCqGHRn) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Kelly Green](https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ) | [AURORA BOREALIS](https://open.spotify.com/album/1oAE9OBFqOn0ZJbSkEVynT) | 4:42 | 2023-08-29 |  |
 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 | 2022-01-20 |  |
 | [Moon River](https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2022-01-20 | 2023-04-20 |
 | [Moon River](https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Moon River](https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r) | 5:10 | 2022-01-20 |  |

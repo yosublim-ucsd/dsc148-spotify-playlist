@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 150966,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6"
@@ -1794,6 +1794,24 @@
       "duration_ms": 150967,
       "name": "lovesick",
       "url": "https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA"
+    },
+    {
+      "album": {
+        "name": "lovesick",
+        "url": "https://open.spotify.com/album/1ZRikNtTTBJMiRQVEerTPG"
+      },
+      "artists": [
+        {
+          "name": "Strafend",
+          "url": "https://open.spotify.com/artist/1kSOJRjwflnuMaLL7EqXNF"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150221,
+      "name": "lovesick",
+      "url": "https://open.spotify.com/track/6Ws38nb0R9kAHBn7HoGMTy"
     },
     {
       "album": {

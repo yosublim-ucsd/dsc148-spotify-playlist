@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-196 songs - 11 hr 17 min
+197 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Carnaval de Salvador](https://open.spotify.com/track/1Z4O9L42qpYFkQCy0lvMHZ) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Carnaval de Salvador](https://open.spotify.com/album/5MOjunWyZe3tcv7ORSok5q) | 3:30 | 2022-04-01 | 2022-04-19 |
 | [Casa Pronta](https://open.spotify.com/track/1wwfsmydqA3Q8FK1vWj83J) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 3:18 | 2022-02-18 | 2022-07-25 |
 | [Chegue Chega \(Versão Piano\)](https://open.spotify.com/track/67oqZWY5CQVLIdhP0UjKha) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [Chegue Chega \(Versão Piano\)](https://open.spotify.com/album/3w9W2Me0EcJDckWei11C6P) | 3:10 | 2022-04-01 | 2022-06-05 |
-| [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-01 |  |
+| [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-01 |  |
+| [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-01 | 2023-09-08 |
 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 | 2022-02-18 |  |
 | [Contas no Estrangeiro](https://open.spotify.com/track/50ozv38puu8OnvVZ3XLXc4) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0) | [Fragmentos](https://open.spotify.com/album/4B9Sqim9O9P03MyQV19woO) | 3:26 | 2022-04-01 | 2022-04-21 |
 | [Cor Favorita](https://open.spotify.com/track/2tBzbY0QuXNPammAyCjcNh) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Cor Favorita](https://open.spotify.com/album/3rIpKT7eb94M7UqrPa71T7) | 3:23 | 2022-03-11 | 2022-07-09 |

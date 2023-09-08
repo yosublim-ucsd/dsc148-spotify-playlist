@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover:  Nieve Ella",
+  "description": "Discover your new favourite artists from UK&IE. Cover:  MAFRO",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2060,6 +2060,28 @@
       "duration_ms": 240655,
       "name": "Loud",
       "url": "https://open.spotify.com/track/0gvOes4JPUbtP9MPInKsWA"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/2OT9MytCtXGf4r91rsabT5"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "Eld\u00e9",
+          "url": "https://open.spotify.com/artist/75PJwM8YidQKbJyGQwPQIA"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227421,
+      "name": "Love Me (feat. Eld\u00e9)",
+      "url": "https://open.spotify.com/track/5vyRcWC2wMZKtXo4vQwotg"
     },
     {
       "album": {

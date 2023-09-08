@@ -1,12 +1,12 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 48064,
+  "num_followers": 48134,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGYwNDIyM2QzYzk2NGYzZWYyOTRlNjlkOWFiMmUxYzY2NjJjODhj",
+  "snapshot_id": "MCw0ODkwMDQ3N2RkY2NjM2E0NmYwMDViNDBlMGYwZDQ1MjM3OThhZGI2",
   "tracks": [
     {
       "added_at": "2023-09-06 08:37:57",
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2023-09-06 08:37:57",
       "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/262HbecHKS7KHGzwGveBOh"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
       },
       "artists": [
         {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        },
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
         }
       ],
-      "duration_ms": 195157,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/12T4WzDi9sw8EP9Dq810HB"
+      "duration_ms": 239307,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
     },
     {
       "added_at": "2023-09-06 08:37:57",

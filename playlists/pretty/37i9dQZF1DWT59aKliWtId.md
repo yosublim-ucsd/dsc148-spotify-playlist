@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,792 likes - 126 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,809 likes - 126 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 125 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 126 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCw0OWE1MWY0ZTdhZDkxZDBkYzFiMGRjZDU3NTY3NGI4NDNjNzc1Y2E5`
+Snapshot ID: `MCxhZjhjZjJmNTgwZWVhZjJkOGYyYjlkYjg3ODFiODdlZjFmNTg1ZmI4`

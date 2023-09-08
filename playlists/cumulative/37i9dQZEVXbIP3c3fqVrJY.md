@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,145 songs - 2 day 11 hr 1 min
+1,146 songs - 2 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Brandy](https://open.spotify.com/track/0vcSw5C7LyKnvNaCXdFBoI) | [58G](https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [CITY PARK](https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk) | 3:36 | 2022-10-14 | 2022-10-28 |
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2021-03-27\* | 2021-05-14 |
 | [breeze](https://open.spotify.com/track/1dkTyDuDkpgfTyti3REUVE) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga), [Natalia Hulejova](https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 3:06 | 2021-09-03 | 2022-01-01 |
+| [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 | 2023-09-07 |  |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-05-25 | 2021-05-26 |
 | [Bubliny](https://open.spotify.com/track/0hmie4jGZAeijAvMp43peT) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Robby Trouble](https://open.spotify.com/album/1Ne3BSmtzwo5Iw4IaXu4eO) | 2:45 | 2021-06-20 | 2021-07-16 |
 | [Bubliny \- Nox Septima Remix](https://open.spotify.com/track/4lEY817pf7g8ArXlcvmfRz) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [Nox Septima](https://open.spotify.com/artist/3ak76EiIiMfMbGV9IG6YW9) | [Robby Trouble \(Deluxe\)](https://open.spotify.com/album/6gqvYA8J1mgHElPVWBKBBE) | 3:08 | 2021-08-20 | 2021-08-21 |
@@ -1034,7 +1035,7 @@
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-16 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-08 | 2023-01-12 |
 | [Upgrade](https://open.spotify.com/track/1I03N1q3L9npQHuDzXklaF) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Upgrade](https://open.spotify.com/album/79mK7ljiDYX83CWUImllpu) | 3:51 | 2023-02-04 | 2023-02-22 |
-| [Upgrade](https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Detektor III](https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz) | 3:51 | 2023-02-21 |  |
+| [Upgrade](https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Detektor III](https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz) | 3:51 | 2023-02-21 | 2023-09-08 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-26 | 2023-09-02 |
 | [Uuuu](https://open.spotify.com/track/3OrNfhm56VJ9iSV1flohNj) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [SMART](https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [FLOWDEMORT](https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK) | 3:13 | 2023-04-01 | 2023-04-09 |
 | [Už sme tu](https://open.spotify.com/track/6mEWriW2g398O3LjBV4VOz) | [Patrik Love ICY L](https://open.spotify.com/artist/1YV8tnErKoEiXuWGYWMI8N), [Illja](https://open.spotify.com/artist/2Oa4JblokJ8s8wdlqprlbL) | [SUDETY SOLDIERZZ](https://open.spotify.com/album/1O1pd6MnZsOiDhxzmKjAdO) | 3:00 | 2021-03-27\* | 2021-03-27 |

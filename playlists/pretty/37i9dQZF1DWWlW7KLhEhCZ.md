@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Emitê Único
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,572 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,598 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Me Sinto Bem](https://open.spotify.com/track/6Aw6wakQNVU0aGLOeId2fY) | [Andreo](https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO), [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Me Sinto Bem](https://open.spotify.com/album/6gXqtibKBNzaRmlEq9Oa1x) | 2:47 |
 | 75 | [Muda o Clima](https://open.spotify.com/track/5rRiLKbeO2Lb6FeId5eERS) | [UF GANG](https://open.spotify.com/artist/4yIsCbR2dnX4UbeAy1UDp3), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Muda o Clima](https://open.spotify.com/album/7hWHZGvxbVWN8tbxZJv3rr) | 2:30 |
 
-Snapshot ID: `MCw2ZTc1ODFmZTk4MzJhMzNiNWEyYTRjMzg1NTdjZGVjZGNhNDMzYTRi`
+Snapshot ID: `MCwzMjM5NDY1NjFiNDdiNWI5ODRmNDZhYTUxOWIxNTcyZDM2MDkyZWZh`

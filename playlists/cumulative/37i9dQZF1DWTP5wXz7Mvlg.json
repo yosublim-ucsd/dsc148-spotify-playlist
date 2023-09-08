@@ -582,7 +582,7 @@
     {
       "album": {
         "name": "King",
-        "url": "https://open.spotify.com/album/3l9BJmxZoTTzjRVJ1iqi8d"
+        "url": "https://open.spotify.com/album/4ueUL0q3kZV7huV9hHJp9W"
       },
       "artists": [
         {
@@ -593,6 +593,24 @@
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275962,
+      "name": "Edge Of The World",
+      "url": "https://open.spotify.com/track/4dj216OBqXsm7c0WewjVlC"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/3l9BJmxZoTTzjRVJ1iqi8d"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
       "duration_ms": 275962,
       "name": "Edge Of The World",
       "url": "https://open.spotify.com/track/54Y1t8Nt0wNMgdZ0eNQMf0"
@@ -672,10 +690,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 287000,
       "name": "Everything Is Possible - DJ Marky & Makoto Remix",
       "url": "https://open.spotify.com/track/7KJTicqjWXOKgwn0Xeg635"
+    },
+    {
+      "album": {
+        "name": "Everything Is Possible (DJ Marky & Makoto Remix)",
+        "url": "https://open.spotify.com/album/0fUbrCLI2PKdI4lVpqCb7P"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        },
+        {
+          "name": "DJ Marky & Makoto",
+          "url": "https://open.spotify.com/artist/00eYX01IyyHcG2lMvStEG4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "Everything Is Possible - DJ Marky & Makoto Remix",
+      "url": "https://open.spotify.com/track/4h2YTOsQQsV7VR8IiTCLbn"
     },
     {
       "album": {
@@ -1636,10 +1676,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 316551,
       "name": "Squelcher",
       "url": "https://open.spotify.com/track/3dilsQKM2uUSHlcX8eAH6f"
+    },
+    {
+      "album": {
+        "name": "Squelcher",
+        "url": "https://open.spotify.com/album/7iU3EgPy9bx0uzUwdlGq2z"
+      },
+      "artists": [
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "In:Most",
+          "url": "https://open.spotify.com/artist/6vRVgeHl41EnFo70a8iYIG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316551,
+      "name": "Squelcher",
+      "url": "https://open.spotify.com/track/6yUxjiZFWaCakft5phFwwo"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=NhJPqOBxQsWNLNpzz9Oplw">Fathermoh</a>
+> Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=YOQ16IW0TzynqVngp308wg">Maandy</a>
 
-275 songs - 15 hr 4 min
+276 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Dakika Tano](https://open.spotify.com/track/6rpo0AjGoDcks0A9YAUTqd) | [Rekles](https://open.spotify.com/artist/4HJqolqPOEFhm9AmEKeQ83) | [Dakika Tano](https://open.spotify.com/album/3dvnUAmlRM10DUgVyQmN58) | 3:08 | 2022-08-18 | 2023-08-25 |
 | [Dala Wa](https://open.spotify.com/track/3vwCLR1fyjeMCkPFfnfnHL) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Kamwana](https://open.spotify.com/artist/4CUMYYAed2LFHyCTLb4caq), [Veryl Mkali Wao](https://open.spotify.com/artist/4htwtJq9AaxSbpVnA9yopl) | [Dala Wa](https://open.spotify.com/album/5w7xl4ONKgqcsGBXXUcjxd) | 3:36 | 2022-11-10 |  |
 | [DANCEHALLING](https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [DANCEHALLING](https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc) | 2:24 | 2022-08-18 |  |
-| [Danshie](https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR), [Mazi Mzii](https://open.spotify.com/artist/3OOlhIXNjmTzWRR5fAe9Ae), [Seska](https://open.spotify.com/artist/6Aaa7yDYK3riykCOqG0WrA) | [Danshie](https://open.spotify.com/album/7AxKRbpMpnRaJ1Dtt1XcKc) | 3:17 | 2022-07-14 |  |
+| [Danshie](https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR), [Mazi Mzii](https://open.spotify.com/artist/3OOlhIXNjmTzWRR5fAe9Ae), [Seska](https://open.spotify.com/artist/6Aaa7yDYK3riykCOqG0WrA) | [Danshie](https://open.spotify.com/album/7AxKRbpMpnRaJ1Dtt1XcKc) | 3:17 | 2022-07-14 | 2023-09-08 |
 | [Densi](https://open.spotify.com/track/6yUZOO6BdIa3FEc4yuuAoa) | [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Dj Lyta](https://open.spotify.com/artist/2lPEEC7Ci0BMaqyIKZryqL) | [Densi](https://open.spotify.com/album/4ZHqN0WjQlMaqfm1f9Nbd3) | 2:59 | 2021-11-11 | 2022-04-08 |
 | [Dhidhi](https://open.spotify.com/track/1e0jvEvvJWEFXTjUy7bpxe) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Genge La Bundoski](https://open.spotify.com/album/2MmPVKmqh06x1zEfvqiFLm) | 3:16 | 2021-10-28 | 2022-05-20 |
 | [Diliti](https://open.spotify.com/track/2vpACJiwXcHpAMTdPSmwGT) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Diliti](https://open.spotify.com/album/4IafXNk3DaD75qq5a6bOsB) | 4:22 | 2021-10-21 | 2022-04-22 |
@@ -92,6 +92,7 @@
 | [Hit Me Up](https://open.spotify.com/track/37g2Urmjn6kSQLGE1RPAqj) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Cekin](https://open.spotify.com/artist/4duOQQCiDtPXjQyznhZuSg), [Iphoolish](https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp) | [N.M.N.M](https://open.spotify.com/album/5W1d3MKzNUKW7eY8TI1Rp8) | 3:47 | 2022-10-27 | 2023-08-18 |
 | [HIVI NA HIVO](https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [HIVI NA HIVO](https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh) | 3:07 | 2021-11-11 | 2022-12-17 |
 | [Hivi Na Hivo](https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Frisky](https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle) | 3:07 | 2022-01-27 | 2023-05-12 |
+| [How Come?](https://open.spotify.com/track/37ix17VbIhu9HgozklYdYE) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [How Come?](https://open.spotify.com/album/2pUrfQp68auT1Ka9iIzGKL) | 3:05 | 2023-09-07 |  |
 | [Huu Mwaka \- Remix](https://open.spotify.com/track/0BLC66BuaecDwB6IAwBQLt) | [Mwende](https://open.spotify.com/artist/3fg2hN5gkOGEzL7x3YeXQQ), [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Huu Mwaka \(Remix\)](https://open.spotify.com/album/5cvMM06C3yFZjdI4BJtuwe) | 3:31 | 2023-02-09 | 2023-06-30 |
 | [If Its On \(feat\. Boutross\)](https://open.spotify.com/track/62UalUudFEYXLKvga36PXU) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [If Its On \(feat\. Boutross\)](https://open.spotify.com/album/6FJUhzKfZ01XejduHjfI49) | 3:13 | 2022-01-20 | 2022-01-28 |
 | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80) | 4:37 | 2022-01-20 | 2022-01-28 |

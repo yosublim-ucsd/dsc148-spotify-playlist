@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: MaRynn Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,146 likes - 166 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,188 likes - 165 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,28 +151,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 141 | [Hard To Be Like You](https://open.spotify.com/track/2SwN4lQizVGH8xt2PV3Jn7) | [Tim Cote](https://open.spotify.com/artist/691irgH5wVKYSc2NkhFqR4) | [Hard To Be Like You](https://open.spotify.com/album/37ZmUNecp9w66EswqHTSQc) | 3:17 |
 | 142 | [Running With Scissors](https://open.spotify.com/track/5FGrZwdOQCzg3eRZra9js9) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 2:51 |
 | 143 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
-| 144 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
-| 145 | [As Close As I Can Get To You](https://open.spotify.com/track/3IwpztNJjpH6HOjna5JwuT) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Country To Me](https://open.spotify.com/album/3BYm0scVPtHamYtO6vqgeV) | 3:17 |
-| 146 | [Missing You](https://open.spotify.com/track/3ry2MzHjQaDK2HCJfOI0yj) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Missing You](https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs) | 2:43 |
-| 147 | [The Least You Could Do](https://open.spotify.com/track/7v0LWyA2fZo24xyxw6vEYL) | [Teagan Stewart](https://open.spotify.com/artist/4UUoAIVwAOhWNncWlfQxkb) | [The Least You Could Do](https://open.spotify.com/album/1Uvssuk2dY5MMvmT1q9Rpg) | 3:01 |
-| 148 | [Need You to Not](https://open.spotify.com/track/1OcwLTaGoXPSxqxJQK8XlP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Need You to Not](https://open.spotify.com/album/30mSy3n5vcDD1aozCEzrmK) | 3:05 |
-| 149 | [Why Can't You](https://open.spotify.com/track/35tF9YJnXqZqX0MFlGxKoN) | [Chance Tomke](https://open.spotify.com/artist/2wysL0FCBKVYBXk9seETxb) | [Why Can't You](https://open.spotify.com/album/4MTKjn8evMgQ6aSlUV2gOf) | 3:29 |
-| 150 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 |
-| 151 | [Growing Up \(Are You Happy\)](https://open.spotify.com/track/6z9H1dDF1eF0wu7zXrslXw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Growing Up \(Are You Happy\)](https://open.spotify.com/album/1yiaYbHec1sNIo2g0wSBUQ) | 2:31 |
-| 152 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 |
-| 153 | [Red Flags](https://open.spotify.com/track/0cnh2XFirA4Ny091xnJiwh) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:34 |
-| 154 | [The Way Back](https://open.spotify.com/track/4ZyzYYf3r0D03aFWInHHNo) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [The Way Back](https://open.spotify.com/album/7BzyMdpi9CcAWuojOVrrlu) | 3:00 |
-| 155 | [Secret](https://open.spotify.com/track/5ZOy8RnkCaTRFAhLxJDBql) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Secret](https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO) | 2:46 |
-| 156 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 |
-| 157 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 |
-| 158 | [Just Want My Love](https://open.spotify.com/track/7vr9z3BpXTnLrHthI9rVrg) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Just Want My Love](https://open.spotify.com/album/39JOX2Eoh0Hb6EBdbfpc3t) | 2:39 |
-| 159 | [Naive](https://open.spotify.com/track/0pOqOiXB6UGyBMJyFKveGs) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive \(Acoustic\)](https://open.spotify.com/album/5okczttY81sU0vEyqW5iy2) | 3:28 |
-| 160 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 |
-| 161 | [Me & the Bar](https://open.spotify.com/track/33x0whf3VnrG1mNBhJfteu) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Me & the Bar](https://open.spotify.com/album/76UjGdURpADH42GpnXnR23) | 3:01 |
-| 162 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 |
-| 163 | [Speed Limit](https://open.spotify.com/track/6fNDFwpFaWodIX2MYqPbdn) | [Savannah Harmon](https://open.spotify.com/artist/5ohZt1uNprmtf0EkzIQxnU) | [Speed Limit](https://open.spotify.com/album/3WwJuG2JSLkS86vsTOIq3Q) | 4:09 |
-| 164 | [Don't Have the Heart](https://open.spotify.com/track/6oWtcMZEvn4QlG3XWFbDcW) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Don't Have the Heart](https://open.spotify.com/album/3JKLVJ0VF6UaVI92q3fuFW) | 3:02 |
-| 165 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
-| 166 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
+| 144 | [As Close As I Can Get To You](https://open.spotify.com/track/3IwpztNJjpH6HOjna5JwuT) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Country To Me](https://open.spotify.com/album/3BYm0scVPtHamYtO6vqgeV) | 3:17 |
+| 145 | [Missing You](https://open.spotify.com/track/3ry2MzHjQaDK2HCJfOI0yj) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Missing You](https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs) | 2:43 |
+| 146 | [The Least You Could Do](https://open.spotify.com/track/7v0LWyA2fZo24xyxw6vEYL) | [Teagan Stewart](https://open.spotify.com/artist/4UUoAIVwAOhWNncWlfQxkb) | [The Least You Could Do](https://open.spotify.com/album/1Uvssuk2dY5MMvmT1q9Rpg) | 3:01 |
+| 147 | [Need You to Not](https://open.spotify.com/track/1OcwLTaGoXPSxqxJQK8XlP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Need You to Not](https://open.spotify.com/album/30mSy3n5vcDD1aozCEzrmK) | 3:05 |
+| 148 | [Why Can't You](https://open.spotify.com/track/35tF9YJnXqZqX0MFlGxKoN) | [Chance Tomke](https://open.spotify.com/artist/2wysL0FCBKVYBXk9seETxb) | [Why Can't You](https://open.spotify.com/album/4MTKjn8evMgQ6aSlUV2gOf) | 3:29 |
+| 149 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 |
+| 150 | [Growing Up \(Are You Happy\)](https://open.spotify.com/track/6z9H1dDF1eF0wu7zXrslXw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Growing Up \(Are You Happy\)](https://open.spotify.com/album/1yiaYbHec1sNIo2g0wSBUQ) | 2:31 |
+| 151 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 |
+| 152 | [Red Flags](https://open.spotify.com/track/0cnh2XFirA4Ny091xnJiwh) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:34 |
+| 153 | [The Way Back](https://open.spotify.com/track/4ZyzYYf3r0D03aFWInHHNo) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [The Way Back](https://open.spotify.com/album/7BzyMdpi9CcAWuojOVrrlu) | 3:00 |
+| 154 | [Secret](https://open.spotify.com/track/5ZOy8RnkCaTRFAhLxJDBql) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Secret](https://open.spotify.com/album/40cTaPb1jF6KiiykwR0fEO) | 2:46 |
+| 155 | [Pieces](https://open.spotify.com/track/5h0xfskqYqiDYG4jc8EMyb) | [Zac Hart](https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb) | [Pieces](https://open.spotify.com/album/5FyigvplnzcKCIfAzvVAA9) | 3:07 |
+| 156 | [Over Me](https://open.spotify.com/track/0jXKRePIfoF4Cx85AySGv0) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Over Me](https://open.spotify.com/album/4cbl9hNkpawd8VCyGe8IiB) | 3:25 |
+| 157 | [Just Want My Love](https://open.spotify.com/track/7vr9z3BpXTnLrHthI9rVrg) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Just Want My Love](https://open.spotify.com/album/39JOX2Eoh0Hb6EBdbfpc3t) | 2:39 |
+| 158 | [Naive](https://open.spotify.com/track/0pOqOiXB6UGyBMJyFKveGs) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Naive \(Acoustic\)](https://open.spotify.com/album/5okczttY81sU0vEyqW5iy2) | 3:28 |
+| 159 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 |
+| 160 | [Me & the Bar](https://open.spotify.com/track/33x0whf3VnrG1mNBhJfteu) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Me & the Bar](https://open.spotify.com/album/76UjGdURpADH42GpnXnR23) | 3:01 |
+| 161 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 |
+| 162 | [Speed Limit](https://open.spotify.com/track/6fNDFwpFaWodIX2MYqPbdn) | [Savannah Harmon](https://open.spotify.com/artist/5ohZt1uNprmtf0EkzIQxnU) | [Speed Limit](https://open.spotify.com/album/3WwJuG2JSLkS86vsTOIq3Q) | 4:09 |
+| 163 | [Don't Have the Heart](https://open.spotify.com/track/6oWtcMZEvn4QlG3XWFbDcW) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Don't Have the Heart](https://open.spotify.com/album/3JKLVJ0VF6UaVI92q3fuFW) | 3:02 |
+| 164 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
+| 165 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCxjNDM0ZjFkNzYxYjI4NmIyZjYyM2UyMjViOGY3MmVjODE1YjliNDU1`
+Snapshot ID: `MCw4MzJkYmE4MWZhOTFlYTAzMGM5ZGFmZWQ0MGYyYmRmMzk4NWFlN2Qy`

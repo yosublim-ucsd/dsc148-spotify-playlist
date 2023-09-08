@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Paper Kites
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,238 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,310 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Douglas Fir](https://open.spotify.com/track/4HpILLotJMwD8dWCqarnM6) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Douglas Fir](https://open.spotify.com/album/0h6Ixm40NarXch0eMUwvPe) | 2:44 |
 | 150 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 |
 
-Snapshot ID: `MCw4ODA0NGVjYjJjMmRiMTkzYzFkMGMwOGM4MzYxZjRjNGI4MDk3NjMx`
+Snapshot ID: `MCxmOGE4MDc3MWNiOGNjN2U2ODlkMGIzYTE4YzE1MDU1NWI0MmY1MTYy`

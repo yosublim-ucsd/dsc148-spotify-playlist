@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 102047,
+  "num_followers": 102175,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzQ0NzAzYzU5MzJhNzU4NDBhZjY1OTMzYmY3MGM1NWM5MzA0YjRi",
+  "snapshot_id": "MCwwMDQwNjJhZTExNDU0MTg5YjQ5MmUxNjYxNTgwMGMyMTljZDI4MzM1",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "Zombie - Acoustic",
+      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
         "name": "Smoke + Mirrors (Deluxe)",
         "url": "https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 174373,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 259252,
-      "name": "Zombie - Acoustic",
-      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
     },
     {
       "added_at": "2023-01-11 18:02:14",

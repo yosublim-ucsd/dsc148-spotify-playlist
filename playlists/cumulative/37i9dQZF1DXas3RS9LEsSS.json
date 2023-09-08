@@ -204,10 +204,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 429066,
       "name": "Blues para Mi Guitarra",
       "url": "https://open.spotify.com/track/42JynzhyR1fbyEvSuJHqEE"
+    },
+    {
+      "album": {
+        "name": "Pappo's Blues, Vol.8: Caso Cerrado",
+        "url": "https://open.spotify.com/album/2nPZv089fAeuincr5IVV2k"
+      },
+      "artists": [
+        {
+          "name": "Pappo's Blues",
+          "url": "https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429066,
+      "name": "Blues para Mi Guitarra",
+      "url": "https://open.spotify.com/track/4xC7IghtB9EUrGvZtvYZfH"
     },
     {
       "album": {

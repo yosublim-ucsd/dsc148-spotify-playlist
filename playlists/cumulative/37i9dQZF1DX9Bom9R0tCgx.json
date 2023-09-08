@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 182285,
       "name": "Escape",
       "url": "https://open.spotify.com/track/1dugN8I61tGdZdhv35RwUg"
@@ -858,6 +858,10 @@
         {
           "name": "Marlon Hoffstadt",
           "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
         }
       ],
       "date_added": "2023-08-31",
@@ -884,7 +888,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 131823,
       "name": "JEEP",
       "url": "https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT"
@@ -979,6 +983,28 @@
     },
     {
       "album": {
+        "name": "Lift Me Up (Hard Mix)",
+        "url": "https://open.spotify.com/album/5QPKhPol4vmOWPk4K4XXHu"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Lift Me Up - Hard Mix",
+      "url": "https://open.spotify.com/track/7t0KwFT5N5r1cFJloJAHGn"
+    },
+    {
+      "album": {
         "name": "Lonely (Brennan Heart Remix)",
         "url": "https://open.spotify.com/album/1fUbkjcFgBhw185phdtJJX"
       },
@@ -998,7 +1024,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 230400,
       "name": "Lonely (Brennan Heart Remix)",
       "url": "https://open.spotify.com/track/6xjHeCdwsBoUYrEN2kJ998"
@@ -1190,7 +1216,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 138630,
       "name": "Money Dance",
       "url": "https://open.spotify.com/track/2F9oUWhetYspt7jiVpZgSX"
@@ -1649,6 +1675,36 @@
     },
     {
       "album": {
+        "name": "Rock My Body (with INNA & Sash!) [Olly James & Macks Wolf Remix]",
+        "url": "https://open.spotify.com/album/3fglPo0owHVkOBD4NxSbL0"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        {
+          "name": "Macks Wolf",
+          "url": "https://open.spotify.com/artist/3uhj8GsCt7d3gF4uTQ67Ok"
+        },
+        {
+          "name": "INNA & Sash!",
+          "url": "https://open.spotify.com/artist/78QhgGkGmAjjtnPbh48d0h"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Rock My Body (with INNA & Sash!) (Olly James & Macks Wolf Remix)",
+      "url": "https://open.spotify.com/track/23tFkIyHVGkD6Qdshdqfie"
+    },
+    {
+      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
       },
@@ -1686,7 +1742,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 146400,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu"
@@ -1708,6 +1764,32 @@
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "album": {
+        "name": "Say yes to heaven",
+        "url": "https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "BAYZY",
+          "url": "https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z"
+        },
+        {
+          "name": "Oleria",
+          "url": "https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115231,
+      "name": "Say yes to heaven",
+      "url": "https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9"
     },
     {
       "album": {
@@ -1961,6 +2043,28 @@
     },
     {
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205919,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0AJD30r5ExP6Dy0frAruiT"
+    },
+    {
+      "album": {
         "name": "Techno Sound",
         "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
@@ -2132,6 +2236,28 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Heat",
+        "url": "https://open.spotify.com/album/2EcRL4pEhvQYEKHrleRs4B"
+      },
+      "artists": [
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        },
+        {
+          "name": "Thoby",
+          "url": "https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Turn Up The Heat",
+      "url": "https://open.spotify.com/track/5Mn4B7HhnpR4t3at6bfiR7"
     },
     {
       "album": {

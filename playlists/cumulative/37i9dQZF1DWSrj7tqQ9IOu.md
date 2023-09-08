@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Later.
+> The best French indie tracks right now\. Cover: Emma Hoet
 
-379 songs - 20 hr 47 min
+382 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Flashdance](https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Flashdance](https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg) | 3:06 | 2022-01-20 | 2022-04-15 |
 | [Flight To Vienna](https://open.spotify.com/track/3CoBGFdnpBTVv4gbf5H1Km) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Flight To Vienna](https://open.spotify.com/album/69WrckSdGdNlDQiJrrjxP5) | 2:23 | 2023-04-27 | 2023-05-05 |
 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
-| [Folle](https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:26 | 2022-11-24 |  |
+| [Folle](https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:26 | 2022-11-24 | 2023-09-08 |
 | [For You](https://open.spotify.com/track/0op37JDMnP0HjclpLQiDn4) | [Little Animal](https://open.spotify.com/artist/6KPezj9yK8mv2pHkn7jftz) | [For You](https://open.spotify.com/album/5t97GHautbE5U3tSb7yDAG) | 3:11 | 2023-03-02 | 2023-03-25 |
 | [Forever](https://open.spotify.com/track/6NJMt4G4L6bLsoYDU0BF50) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever](https://open.spotify.com/album/2WYpJDqkpE0rbTzU4QvOyY) | 3:45 | 2022-03-24 | 2022-04-08 |
 | [Forever](https://open.spotify.com/track/2BY27TSBwYybHpRPp0tqyd) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Forever](https://open.spotify.com/album/7dhFtgAxeAxanyNhh8k1ur) | 3:22 | 2022-10-27 | 2022-11-25 |
@@ -213,6 +213,7 @@
 | [Masque d'or](https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Masque d'or](https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt) | 3:31 | 2021-12-16 | 2022-11-11 |
 | [Mauvaise Idée](https://open.spotify.com/track/1yYLMVMSM2u7t1yfzAivy1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Mauvaise Idée](https://open.spotify.com/album/6UlkvH6RmJXEQ2Vk0fB20p) | 3:43 | 2021-12-16 | 2022-01-21 |
 | [Mauvaises habitudes](https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Mauvaises habitudes](https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv) | 2:25 | 2021-12-16 | 2022-07-29 |
+| [McLovin](https://open.spotify.com/track/1O57yzhCoIgPm9HGes2Xwk) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [McLovin](https://open.spotify.com/album/0sWjZJkO0HGltK4IhfIvD3) | 3:03 | 2023-09-07 |  |
 | [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [Memories \(with Olivia Merilahti\)](https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [PrimaDonna vol\. 2](https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv) | 3:25 | 2023-04-06 |  |
 | [Mieux](https://open.spotify.com/track/3Oo0XpUDdm8HNH6YMhkdYa) | [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI), [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y) | [Mieux](https://open.spotify.com/album/4j4tzpvu8Ouc5uKfFH3y4N) | 2:49 | 2023-02-09 |  |
@@ -246,6 +247,7 @@
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 | 2023-03-10 |
 | [Nu.e](https://open.spotify.com/track/1Q8zfQSuxdnCay1qjkPuMA) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Nu.e](https://open.spotify.com/album/2h3p6rosTEpGrPdrcAbBIS) | 2:47 | 2023-05-04 | 2023-06-09 |
 | [Nuit agitée](https://open.spotify.com/track/0n7r4I54aTWmzM0uyvqWiY) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Nuits Agitées](https://open.spotify.com/album/25f4SfEIX7hktBVYtfAqL1) | 3:12 | 2023-03-09 |  |
+| [Number One](https://open.spotify.com/track/6ktLCmYaTP5JMw16rygPsb) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Number One](https://open.spotify.com/album/15hEZKknkulVcdto8LjlGI) | 3:35 | 2023-09-07 |  |
 | [Océan](https://open.spotify.com/track/0zPZjj4E6Yp1Ir2X0zqThj) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Océan](https://open.spotify.com/album/4J04pYuyMrnmrO3LodaDwQ) | 3:56 | 2022-06-23 | 2022-07-29 |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-27 |  |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-22 | 2023-07-28 |
@@ -290,11 +292,12 @@
 | [RESONATE](https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/6RhSScp7LgXmw9vikoALss) | 2:41 | 2023-08-24 |  |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
+| [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SAN FRANCISCO \(BABY!\)](https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg) | 3:15 | 2023-09-07 |  |
 | [Sans toi](https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl), [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [Sans toi](https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR) | 3:15 | 2022-07-28 | 2023-02-03 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-27 | 2022-12-09 |
 | [Septembre](https://open.spotify.com/track/0pdsE52mkFSkakwIFhxal2) | [Antonin Appaix](https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj) | [Septembre](https://open.spotify.com/album/67evLF3OWRoaiAiHcwJx3K) | 2:14 | 2022-09-29 | 2023-02-17 |
 | [Septembre](https://open.spotify.com/track/5doB18k5d74YdrF74Dybvf) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Septembre](https://open.spotify.com/album/03TAOcjBtygRXgMPDAMBy6) | 3:24 | 2022-09-08 | 2023-08-25 |
-| [SEVEN MILES](https://open.spotify.com/track/7t3dwwYhqdv25hk27lj4qq) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SEVEN MILES](https://open.spotify.com/album/3cp5m52q6Jdezke8446z4t) | 2:47 | 2023-05-11 |  |
+| [SEVEN MILES](https://open.spotify.com/track/7t3dwwYhqdv25hk27lj4qq) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [SEVEN MILES](https://open.spotify.com/album/3cp5m52q6Jdezke8446z4t) | 2:47 | 2023-05-11 | 2023-09-08 |
 | [Sexfriend](https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Nuit louve](https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff) | 2:33 | 2022-05-19 | 2022-06-17 |
 | [Shadam](https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Shadam](https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS) | 3:54 | 2023-03-23 | 2023-04-14 |
 | [Shaker de l'amour](https://open.spotify.com/track/0Jyzlq9nMksqNmNkrY7rPQ) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Cocktail](https://open.spotify.com/album/454coNUsv9xHlpSzn4bsJA) | 3:57 | 2022-06-16 | 2022-10-07 |

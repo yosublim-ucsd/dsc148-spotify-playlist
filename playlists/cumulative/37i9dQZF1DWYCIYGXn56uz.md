@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Pepe, Samurai Jay
 
-205 songs - 9 hr 30 min
+206 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 | 2023-03-23 |  |
 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-03-23 | 2023-03-31 |
 | [TI AMO E NON LO SAI](https://open.spotify.com/track/5qJxdzS42qg8quay4i4kZE) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [TI AMO E NON LO SAI](https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU) | 2:28 | 2023-06-08 | 2023-06-16 |
+| [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 | 2023-09-07 |  |
 | [Toccare la luna](https://open.spotify.com/track/0P0OENNOGNpzra0Ma1Ur9t) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Notturno](https://open.spotify.com/album/2NVlFPygfMDfSxlcFXUAKu) | 2:24 | 2023-04-13 | 2023-05-16 |
 | [TRA LA GENTE](https://open.spotify.com/track/0VmdKZCuVJ8LVQBwKrgfuQ) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [UMORE 02](https://open.spotify.com/album/3qHLK79NjRXMyU8gwZThYK) | 3:21 | 2023-06-08 | 2023-06-16 |
 | [Tranne Te](https://open.spotify.com/track/6nxblXJhMQe4nleRxI7IAh) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [Tranne Te](https://open.spotify.com/album/3WmCEz2zGK3RcrkHi9fgXE) | 2:06 | 2023-07-06 |  |

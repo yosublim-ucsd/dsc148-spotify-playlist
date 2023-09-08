@@ -626,8 +626,8 @@
           "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
         },
         {
-          "name": "\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/0NubhIcbRGPNQCp3onpG42"
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
         }
       ],
       "date_added": "2023-09-05",
@@ -5134,6 +5134,24 @@
       "duration_ms": 193965,
       "name": "Memorable",
       "url": "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR"
+    },
+    {
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/6arL1z6JW10H9T40CsE2mM"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302628,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/5yNEp4E4ZFljj3RIVgxZxh"
     },
     {
       "album": {
@@ -11591,6 +11609,24 @@
     },
     {
       "album": {
+        "name": "\u308f\u305f\u3057\u306e\u5b87\u5b99",
+        "url": "https://open.spotify.com/album/31466iOJPJaJ0ufRHpPkce"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299142,
+      "name": "\u308f\u305f\u3057\u306e\u5b87\u5b99",
+      "url": "https://open.spotify.com/track/5xn9ggmbMNk93XV5ofQedP"
+    },
+    {
+      "album": {
         "name": "\u308f\u305f\u3057\u306e\u751f\u304d\u308b\u7269\u8a9e",
         "url": "https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr"
       },
@@ -17652,7 +17688,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 174290,
       "name": "\u6625",
       "url": "https://open.spotify.com/track/1EKokC3pWxtL2t1Y2AEol6"

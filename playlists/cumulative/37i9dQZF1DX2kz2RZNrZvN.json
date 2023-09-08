@@ -1270,7 +1270,7 @@
     {
       "album": {
         "name": "Half Life",
-        "url": "https://open.spotify.com/album/2i3hlAf4hXlgQFF9copmNN"
+        "url": "https://open.spotify.com/album/2TZeYGKoylpXTkHQo0BTAd"
       },
       "artists": [
         {
@@ -1285,6 +1285,28 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220789,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/5itvZ19jEJVwBnhXwjKdNm"
+    },
+    {
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/2i3hlAf4hXlgQFF9copmNN"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
       "duration_ms": 220789,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/7cv6F8ecbEGEggj5LxswRe"
@@ -1306,10 +1328,32 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 214042,
       "name": "Sorry I'm Not Sorry",
       "url": "https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx"
+    },
+    {
+      "album": {
+        "name": "Sorry I'm Not Sorry",
+        "url": "https://open.spotify.com/album/1ovvNzmFjuR7wfdLzjwRqH"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214042,
+      "name": "Sorry I'm Not Sorry",
+      "url": "https://open.spotify.com/track/7szlrbvCCUOjGKPM5APXAZ"
     },
     {
       "album": {
@@ -1482,10 +1526,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 273103,
       "name": "Time",
       "url": "https://open.spotify.com/track/293nhbAyhi2OfLmk1ECSxE"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/4ueUL0q3kZV7huV9hHJp9W"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273103,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4AMCY7yxnrYf9mOttFZqEv"
     },
     {
       "album": {

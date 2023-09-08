@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,558 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,596 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 39 | [Palestina](https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [Palestina](https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4) | 3:54 |
 | 40 | [Juicy](https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Juicy](https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg) | 2:03 |
 | 41 | [11:11](https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir) | [11:11](https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf) | 3:11 |
-| 42 | [IDGAF](https://open.spotify.com/track/076GBcif3AM1IHfBJs545o) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [IDGAF](https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA) | 2:14 |
-| 43 | [TRIPLE H \- REMIX](https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [TRIPLE H \(REMIX\)](https://open.spotify.com/album/6DJhpdquLwZrRQKLAXzOmI) | 4:45 |
+| 42 | [TRIPLE H \- REMIX](https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [TRIPLE H \(REMIX\)](https://open.spotify.com/album/6DJhpdquLwZrRQKLAXzOmI) | 4:45 |
+| 43 | [IDGAF](https://open.spotify.com/track/076GBcif3AM1IHfBJs545o) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [IDGAF](https://open.spotify.com/album/30BnGphkbKkCmUChAFcxSA) | 2:14 |
 | 44 | [Scarface Sin Manolo](https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Scarface Sin Manolo](https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem) | 3:29 |
 | 45 | [Tengo Un Draco](https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Tengo Un Draco](https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj) | 2:52 |
 | 46 | [Nada Formal](https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED) | [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Nada Formal](https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Los Costos](https://open.spotify.com/track/0ZAYDTMC8NhYlKehcG9uZC) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 3:09 |
 | 50 | [Quiero](https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR) | [Mhane](https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK), [Robert Taylor](https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete) | [Quiero](https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f) | 2:58 |
 
-Snapshot ID: `MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx`
+Snapshot ID: `MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj`

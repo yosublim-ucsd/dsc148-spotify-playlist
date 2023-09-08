@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgtZZKiQlS2.md) - [plain]
 | 39 | [It's Hard Going Up \(But Twice As Hard Coming Down\)](https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [Hard Goin' Up](https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo) | 3:54 |
 | 40 | [Orange Driver](https://open.spotify.com/track/0tFcLqJMik9ZhWne94mSYg) | [Eddie Burns](https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO), [Eddie Burns Blues Band](https://open.spotify.com/artist/0BZejzzjFxsvyPDyj3ItWF), [Eddie Burns, guitar, harmonica, vocal](https://open.spotify.com/artist/3pqSveCVLoTn3E03BYRW8i), [Joe Hunter, piano](https://open.spotify.com/artist/3ujZt3R1bUyY23qlV8UO2a), [Frank Bryant, bass](https://open.spotify.com/artist/5rEhGoeGEepz5Rn3NXzUB3), [Bobby Welch, drums](https://open.spotify.com/artist/5ipBht0WuuX2JRZRlNrTLp) | [Detroit](https://open.spotify.com/album/3Hh5V9WtEeHXIXeAoo2deI) | 4:26 |
 
-Snapshot ID: `MCw0YTU4ODI1YjQwOWFlYjA1Yjk3MjI1NjY2ZGZhZmViZGJlZjg0MjI4`
+Snapshot ID: `MCw4ZjIzNmU2YjJjOGE5YjE5MGVhMWQ5YmUwMWExMWFjNmE2MGYzZDIz`

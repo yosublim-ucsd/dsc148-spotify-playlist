@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: BM & La Champions Liga.
 
-147 songs - 7 hr 58 min
+148 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 | 2023-05-26 |  |
 | [Chocolate](https://open.spotify.com/track/7IcdA7TnEtxAUvby7MukZY) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Chocolate](https://open.spotify.com/album/57pKlw31D8Y0bAQAmcZDy8) | 2:37 | 2023-05-26 |  |
 | [Como una Pelota](https://open.spotify.com/track/0sbJx6LrsIRWpPbqfVp1vh) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Pase y Vea, Acá Suena la Cumbia](https://open.spotify.com/album/2kVdbCTuYRnERlfy6D6PLm) | 2:47 | 2023-05-26 | 2023-07-15 |
+| [Con Tu Amiga](https://open.spotify.com/track/0YEEjKSnpzboTA5kKhIaF0) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Con Tu Amiga](https://open.spotify.com/album/4aM90yXOD78LBDhF0jDpE9) | 3:01 | 2023-09-07 |  |
 | [Corazón de Madre \(Destapate Una Cerveza\)](https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 3:53 | 2023-05-26 |  |
 | [Cual Fue? \- Remix](https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Cual Fue? \(Remix\)](https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6) | 3:24 | 2023-05-26 |  |
 | [Culo Pa 2 Tangas](https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Culo Pa 2 Tangas](https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL) | 3:02 | 2023-05-26 |  |
@@ -144,7 +145,7 @@
 | [Una Calle Nos Separa](https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 3:32 | 2023-05-26 |  |
 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 | 2023-05-26 | 2023-05-30 |
 | [Una copa mas](https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:44 | 2023-05-26 |  |
-| [Una Vela](https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Una Vela](https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1) | 2:04 | 2023-05-26 |  |
+| [Una Vela](https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Una Vela](https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1) | 2:04 | 2023-05-26 | 2023-09-08 |
 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 | 2023-05-26 |  |
 | [Vamos A Amanecer \- Remix](https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Vamos A Amanecer \(Remix\)](https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs) | 2:53 | 2023-05-26 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Corriendo La Coneja](https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m) | 4:27 | 2023-05-26 |  |

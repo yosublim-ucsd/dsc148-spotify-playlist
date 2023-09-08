@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-225 songs - 22 hr 30 min
+226 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,8 +184,9 @@
 | [Sante](https://open.spotify.com/track/3GPDlvNptw7BwkpHP68DiJ) | [Ravestronauts](https://open.spotify.com/artist/2rfebeaV7VQdlnKrNbqtQu), [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Sante](https://open.spotify.com/album/3SxOdl5kq6RpdLsu4ufChm) | 4:08 | 2022-04-13 | 2023-04-21 |
 | [Scarabaeus](https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Scarabaeus](https://open.spotify.com/album/4KVeQGG3FaPTNXZDtzvPUF) | 5:21 | 2022-04-13 | 2023-04-21 |
 | [Season](https://open.spotify.com/track/6plrjFbPuHZIUXZdh1bavs) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm) | [Cadillac Red](https://open.spotify.com/album/3MqLUGCgQADNvWCnsamcVS) | 7:07 | 2022-04-13 | 2023-06-20 |
-| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2023-02-02 |  |
+| [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2023-02-02 | 2023-09-08 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-04-28 | 2023-02-26 |
+| [Shelter of Hearts](https://open.spotify.com/track/59tv27hHZZMiBsXfVuwrMA) | [GMJ](https://open.spotify.com/artist/2jtEP3ZWQNoXeWQvjF86xU), [Matter](https://open.spotify.com/artist/477uzVK10OHa3NS2KXbnTh) | [Shelter of Hearts](https://open.spotify.com/album/1NgvZDLBodIcqEIxOdpjF8) | 7:58 | 2023-09-07 |  |
 | [Sian \- David Mayer Remix](https://open.spotify.com/track/6QPsEsb8PnTeKN1YAbS4jh) | [ulises](https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Más Allá](https://open.spotify.com/album/31AgEt2RKn5CTgrzgL948A) | 7:10 | 2022-04-13 | 2023-04-21 |
 | [Sidi](https://open.spotify.com/track/1I5CUoUVsoFD33CXsUM91Z) | [Herrer](https://open.spotify.com/artist/4GBv8rfeHjPDvklx9mvYuz) | [Sidi](https://open.spotify.com/album/3Jki9ZN510lqYxRrvw9eDp) | 5:00 | 2022-06-02 |  |
 | [Siento Libre \(JJ Rework\) \- Extended Mix](https://open.spotify.com/track/2rymUsZWzkAM9mJTECevbH) | [Virak](https://open.spotify.com/artist/7gEgxCJulGmrl6vAa39NcK), [Tcks](https://open.spotify.com/artist/1oNQhBscjoXDBZBKy9DKIb), [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Siento Libre \(JJ Rework\)](https://open.spotify.com/album/4QU4ftKLTB3zVOMk7yqFQA) | 6:59 | 2022-09-08 |  |

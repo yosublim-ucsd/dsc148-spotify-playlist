@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-161 songs - 10 hr 46 min
+162 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 | 2023-08-16 |  |
 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 | 2022-03-30 |  |
 | [Al Jamra](https://open.spotify.com/track/7d9I19WCgH758WL8mLl0Fl) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Zeyneb](https://open.spotify.com/artist/1LJPlbCG6uw4ThxhRqhSmN) | [Al Jamra](https://open.spotify.com/album/6rJQ0ixBSIHmoqcQTprEei) | 4:19 | 2023-05-27 | 2023-08-30 |
+| [Al\-Furat](https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE) | [Al\-Furat](https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl) | 3:54 | 2023-09-07 |  |
 | [Ala Moj Al Bahr \- Live Album](https://open.spotify.com/track/3rA7tw0opq9qK1NNh2BwaA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 7:28 | 2022-05-19 | 2023-06-24 |
 | [Alf Leila We Leila Remix](https://open.spotify.com/track/01rqnaEjqaP6luRtxdcaz9) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Alf Leila We Leila Remix](https://open.spotify.com/album/2FhrWtDmN4u5dLJrrK34mJ) | 3:14 | 2022-10-14 | 2023-02-02 |
 | [Amira](https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Amira](https://open.spotify.com/album/1VVZMKjwVA9hvPZcaCepOS) | 4:29 | 2022-08-28 | 2023-08-05 |

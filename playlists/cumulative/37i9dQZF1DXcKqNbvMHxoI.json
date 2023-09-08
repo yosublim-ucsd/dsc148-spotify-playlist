@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "Neon Dust",
+        "url": "https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259359,
+      "name": "I Will Wave To You",
+      "url": "https://open.spotify.com/track/1eMozs5thT7TEpiFCDzsp7"
+    },
+    {
+      "album": {
         "name": "I Will Wave To You / Heterize",
         "url": "https://open.spotify.com/album/4oLxNhAdMueTwNU6l3tFxt"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 259359,
       "name": "I Will Wave To You",
       "url": "https://open.spotify.com/track/5p39yQKTqsjc5Y3XNgoXVM"
@@ -1864,6 +1882,28 @@
     {
       "album": {
         "name": "Radiate",
+        "url": "https://open.spotify.com/album/18BQpkuEyej1YgBOw2V1uy"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Lottie Jones",
+          "url": "https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257259,
+      "name": "Radiate",
+      "url": "https://open.spotify.com/track/1kxsqPsBOhxBC5REK0wL8K"
+    },
+    {
+      "album": {
+        "name": "Radiate",
         "url": "https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J"
       },
       "artists": [
@@ -1878,7 +1918,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 257259,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg"

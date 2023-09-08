@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-224 songs - 13 hr 16 min
+225 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [El Que Toca Nunca Baila](https://open.spotify.com/track/0AKvW2NHJ2B5QaRlm45tap) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:43 | 2021-07-23 |  |
 | [El Seclanteño](https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [El Nombrador](https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym) | 3:27 | 2022-02-21 | 2023-02-21 |
 | [El Seclanteño](https://open.spotify.com/track/5KG1MI9BG8xzk2kQqR4cmJ) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [El Nombrador](https://open.spotify.com/album/6U5PrxODD0eyR1ZyOF1A7e) | 3:27 | 2021-07-23 | 2022-07-08 |
+| [El tesoro de mi alma](https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Principio y Destino](https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36) | 2:43 | 2023-09-07 |  |
 | [El Árbol, el Río, el Hombre](https://open.spotify.com/track/2R1XlEE64UKrOJ0IAVYzSD) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [El Árbol, el Río, el Hombre](https://open.spotify.com/album/0eSiN5NesS2YFblN2D4S2E) | 5:13 | 2021-07-23 | 2022-01-14 |
 | [Entra a Mi Hogar](https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Los 20 Años de Los Manseros Santiagueños](https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n) | 3:19 | 2021-07-23 |  |
 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG) | [Cuti y Roberto Carabajal](https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc) | [Ahora](https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF) | 2:59 | 2021-07-23 |  |
@@ -111,7 +112,7 @@
 | [Fortuna, Fama y Poder](https://open.spotify.com/track/7EMyNkEiancyDIl5OBRbce) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Secretos de Familia](https://open.spotify.com/album/52Y9ibi8pyfcZRMyFNwJ2c) | 2:52 | 2021-07-23 | 2022-07-27 |
 | [Gato de mate](https://open.spotify.com/track/5hVBYheKoBQfGIzMIhQk61) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [Coplas del Violinero](https://open.spotify.com/album/2cv2sQMYxzLAFVxOGKuUCN) | 2:44 | 2022-02-21 | 2022-06-07 |
 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 | 2021-07-23 |  |
-| [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 |  |
+| [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 | 2021-07-23 | 2023-09-08 |
 | [Jazmín de Luna](https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:04 | 2021-07-23 | 2022-11-13 |
 | [Jazmín de Luna](https://open.spotify.com/track/3ia4suHJXrpiNqP3KUCc3t) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Por Siempre....](https://open.spotify.com/album/1o4WtYSLqFy93QykeBwx7T) | 3:05 | 2023-06-22 |  |
 | [Juan de la Calle](https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf) | 3:12 | 2021-07-23 | 2022-07-29 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538 likes - 31 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 571 likes - 31 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 2 | [1901 Bo Flex'd \- Passion Pit Remix](https://open.spotify.com/track/5TVT7oQdDbfTzIlb4h9slO) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix \(Remix Collection\)](https://open.spotify.com/album/71xE14rBkQAKCziEl0e6BA) | 4:14 |
-| 3 | [Wanderlust](https://open.spotify.com/track/4zBdObrAnn5OVWC9F02wA3) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Polyphony](https://open.spotify.com/album/3OOAuloYkiA6GynyUFTuSp) | 5:22 |
+| 3 | [Wanderlust](https://open.spotify.com/track/0iLhRFbr7cZ0DrQl8FS3kb) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Polyphony](https://open.spotify.com/album/6GYbCW7FovstU2Ab3ZoSgE) | 5:22 |
 | 4 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 5 | [Twist The Knife](https://open.spotify.com/track/2KVStewnFKCp6gjREeHRDy) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Closer To Grey](https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF) | 3:27 |
 | 6 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Qt5e1zZYbU.md) - [plain]
 | 30 | [Tie Me up with Jackets](https://open.spotify.com/track/4ABGT5RsKi6wZfQ9Bxsbal) | [Fight Like Apes](https://open.spotify.com/artist/2VOkiGmdX339sjwVUeYYr4) | [Fight Like Apes and the Mystery of the Golden Medallion](https://open.spotify.com/album/65ArGbPjmM3riA86WmOZgZ) | 2:35 |
 | 31 | [Anti\-Anti](https://open.spotify.com/track/49LwAJvjOP7kEZoCJihnN0) | [Snowden](https://open.spotify.com/artist/6Gb8mAVRq8aK1yfGnfVAg3) | [Anti\-Anti](https://open.spotify.com/album/312J338tGDj3Opad5DJJT4) | 3:55 |
 
-Snapshot ID: `MCwwMjVmZTZkOWZiNzc0NDlmMGZlOTg3NGYzM2ZjYjQ5ZGVkMzkwYmVm`
+Snapshot ID: `MCw3MDc3ODBiYzYxZjg3YzNkZDRmMjgyOWMxNTIwNGM5NjExNjI5MjE5`

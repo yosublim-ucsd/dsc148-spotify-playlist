@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: Andr",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: \u7504\u6fdf\u5982 (Jasmine Yen)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0TIyJ5FEqtwwW8HFPFI328"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 228705,
       "name": "Baby Cakes",
       "url": "https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 182880,
       "name": "Can I Call You Now",
       "url": "https://open.spotify.com/track/2WyAOdRqrb3tf859qjvjFW"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 202000,
       "name": "Over the Sea",
       "url": "https://open.spotify.com/track/1epW0O7NtXJ8HLUDt6V5XZ"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 189705,
       "name": "You Say Goodbye Easily",
       "url": "https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk"
@@ -4718,7 +4718,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 234798,
       "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
       "url": "https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK"
@@ -5110,7 +5110,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 209500,
       "name": "\u6211\u966a\u4f60\u597d\u55ce - bilibili & Disney\u300a\u6b63\u7fa9\u7684\u7b97\u6cd5\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/0dkP7JE3rTjiPhNIuNVAPz"
@@ -5534,6 +5534,24 @@
       "duration_ms": 190967,
       "name": "\u6728\u982d\u4eba\u7684\u98db\u884c",
       "url": "https://open.spotify.com/track/4GYYWzauSMxdeMcawMMZX2"
+    },
+    {
+      "album": {
+        "name": "\u6771\u4eac\u591c\u665a\u807d\u8457\u8001\u6d3e\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/4Ur25iRCAqsl1Aik9NNvJD"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229471,
+      "name": "\u6771\u4eac\u591c\u665a\u807d\u8457\u8001\u6d3e\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/3e2FIKYgEfNb2PJObKCBfk"
     },
     {
       "album": {
@@ -6062,7 +6080,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 167322,
       "name": "\u7406\u6027\u72af\u9189",
       "url": "https://open.spotify.com/track/4ZNNx48MdTGwbnedJkogUd"
@@ -6326,7 +6344,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 206500,
       "name": "\u7b49\u5f85\u88ab\u7406\u89e3\u7684\u4eba",
       "url": "https://open.spotify.com/track/3rjE1K6ASuHzYC1ETM4UFa"

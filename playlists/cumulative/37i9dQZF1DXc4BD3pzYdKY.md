@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=7587eb4fd9b141f9">KB</a>
 
-821 songs - 1 day 17 hr 7 min
+822 songs - 1 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [in my head.](https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [tylerhateslife](https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC) | 3:23 | 2023-01-27 | 2023-03-25 |
 | [in my head.](https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [in my head.](https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01) | 3:23 | 2022-11-11 | 2023-02-10 |
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-04-29 | 2022-08-07 |
-| [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-11-25 |  |
+| [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-11-25 | 2023-09-08 |
 | [Irresponsible](https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Irresponsible](https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT) | 3:28 | 2021-12-11 | 2022-04-29 |
 | [Is That Okay?](https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Feared By Hell \(Reanimation\)](https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN) | 4:24 | 2021-12-11 | 2022-04-29 |
 | [It's Alright](https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [It's Alright](https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V) | 3:25 | 2023-08-25 |  |
@@ -615,6 +615,7 @@
 | [Rider](https://open.spotify.com/track/5FdEwvPDju7yWDC3ih9bzE) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Rider](https://open.spotify.com/album/6P9LL2BuCE9eoqgpaqSFWD) | 2:55 | 2022-02-04 | 2022-04-27 |
 | [Right Here](https://open.spotify.com/track/04Gz4F6I7YMUhmBkl2NDE6) | [Mike Todd](https://open.spotify.com/artist/4QpvRL62L5TZ19EWL8Wq2s) | [Right Here](https://open.spotify.com/album/2MivY9KRb55fQ6s5671geq) | 2:44 | 2021-12-11 | 2022-02-05 |
 | [Right Now](https://open.spotify.com/track/7ebbIkFdhKnauU2qNQ9G4T) | [ASAP Preach](https://open.spotify.com/artist/32Sk85U3n2U9ji9PxvGAUC) | [Right Now](https://open.spotify.com/album/4IUJSQG0PJHA41SONoMFbF) | 3:41 | 2022-04-29 | 2022-05-17 |
+| [RIGHT NOW](https://open.spotify.com/track/6TgtYkd4elXHLR4W2D6n7B) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH) | [RIGHT NOW](https://open.spotify.com/album/2A0L5NLUV0X56PZqDQtrIE) | 1:58 | 2023-08-25 |  |
 | [Right Now](https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR) | [Tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP) | [Rapzilla.com Presents: Freshmen 2021](https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h) | 2:21 | 2021-12-11 | 2022-04-25 |
 | [Right Out The Gate](https://open.spotify.com/track/2ZFnkQzc6rWJ9HhRDoeEbq) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 2:57 | 2022-03-05 | 2022-04-29 |
 | [RISE \(Fight Night\)](https://open.spotify.com/track/4z4YXvfgW8AObxpn2Ezt5S) | [5ive](https://open.spotify.com/artist/3mQZ0BGNOmrrl2Vv0FJXSY), [T Haddy](https://open.spotify.com/artist/5nzstLIZDM5ky0D61AJEGd) | [Me Against The World Vol\. 3](https://open.spotify.com/album/2CRDnUdvs0P9PH78Qnj0xs) | 5:22 | 2022-07-17 | 2022-08-23 |

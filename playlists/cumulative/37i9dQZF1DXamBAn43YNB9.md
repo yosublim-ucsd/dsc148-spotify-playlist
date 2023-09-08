@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-95 songs - 5 hr 33 min
+96 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Different Kind Of High](https://open.spotify.com/track/6qFyQDHtl1WgnTt2bGi74U) | [Katelann Maree](https://open.spotify.com/artist/4oHkIit2ZOd9HqKws5LKcf) | [Different Kind Of High](https://open.spotify.com/album/454VDDoKkNtDWpmlGyimoq) | 3:56 | 2023-06-15 | 2023-07-07 |
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-06-15 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 | 2023-06-15 |  |
-| [Everything Falls for You](https://open.spotify.com/track/4KUTGzToT4a4Ktk9VTBTkH) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Everything Falls for You](https://open.spotify.com/album/24i3BA0medfiaWug4wLyWE) | 3:00 | 2023-06-15 |  |
+| [Everything Falls for You](https://open.spotify.com/track/4KUTGzToT4a4Ktk9VTBTkH) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Everything Falls for You](https://open.spotify.com/album/24i3BA0medfiaWug4wLyWE) | 3:00 | 2023-06-15 | 2023-09-08 |
 | [Eye to eye](https://open.spotify.com/track/304fXSDwjqmBp9i7XDfYsO) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Eye to eye](https://open.spotify.com/album/389ddGV4tjSkyukGCV8oqk) | 3:11 | 2023-06-15 |  |
 | [Find a River](https://open.spotify.com/track/1rA9rH9nBHIwjuF5MnWbaW) | [The Mitchell Twins](https://open.spotify.com/artist/6hxv3JmXDPj5gdUFh7V89D) | [Find a River](https://open.spotify.com/album/52kQ6HLEUNVqwlyhYWFwG5) | 4:15 | 2023-06-15 |  |
 | [Flame Trees](https://open.spotify.com/track/2co9PSsx9Iya7fjpP90tpy) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Flame Trees](https://open.spotify.com/album/1EjnQlHUJ3goSocfydn1bK) | 4:30 | 2023-06-15 |  |
@@ -47,6 +47,7 @@
 | [Half the Man](https://open.spotify.com/track/16IXpCiQHWKKsTulspUpAF) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Half the Man](https://open.spotify.com/album/6J9yFlQhmFK4ehkTkEb4W3) | 3:02 | 2023-06-15 |  |
 | [Happy Now](https://open.spotify.com/track/3U1V2JWnoLV7wVYgOPPDBR) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Happy Now](https://open.spotify.com/album/6ngiL95TBNpZkP6ZEKI4fY) | 3:19 | 2023-06-15 |  |
 | [Heights](https://open.spotify.com/track/7ywfbPWKYt9rO2J4D7ZLP1) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Heartline](https://open.spotify.com/album/17WUzrpoONxTwLrx9BGktP) | 4:13 | 2023-06-15 |  |
+| [Help Me Make It Through the Night](https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:08 | 2023-09-07 |  |
 | [Holy Water](https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Holy Water](https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn) | 2:45 | 2023-06-15 |  |
 | [Home](https://open.spotify.com/track/7g4rTgNRHnfj1EguB4ETow) | [Nathan May](https://open.spotify.com/artist/1MSZWYELfRVbVsRH9I8HdT) | [Home](https://open.spotify.com/album/7B8mcC2S9XkvBG59tMzGwr) | 4:17 | 2023-08-03 |  |
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2023-06-15 |  |
@@ -57,7 +58,7 @@
 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 | 2023-06-15 | 2023-08-04 |
 | [Lake House \- Acoustic](https://open.spotify.com/track/2gxyxKWIHVy8DxWqyVHz2Y) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What's Your Favourite Country Song?](https://open.spotify.com/album/4eDslpbPN47t4gFYP3vTRI) | 3:43 | 2023-06-15 |  |
 | [Limousine Running](https://open.spotify.com/track/1YlMDKuzoTD6OlvN3OWeI9) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:39 | 2023-06-15 |  |
-| [Long Way from Lonely](https://open.spotify.com/track/1qhyN7q0hhJcSUGB3FGCBH) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Long Way from Lonely](https://open.spotify.com/album/6tC9jtsZH1T1Ka496bjp08) | 3:39 | 2023-06-15 |  |
+| [Long Way from Lonely](https://open.spotify.com/track/1qhyN7q0hhJcSUGB3FGCBH) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Long Way from Lonely](https://open.spotify.com/album/6tC9jtsZH1T1Ka496bjp08) | 3:39 | 2023-06-15 | 2023-09-08 |
 | [Love and Sunsets](https://open.spotify.com/track/6CxC7AO3qib2EZpqTyBTCy) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 3:41 | 2023-06-15 |  |
 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 | 2023-06-15 |  |
 | [Miami, My Amy](https://open.spotify.com/track/5K1HsMKNWMrxADlqAUjpIp) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [L.A\. to Miami](https://open.spotify.com/album/2KtKTDPHET53VNgccwlYvj) | 3:27 | 2023-06-15 |  |
@@ -91,7 +92,7 @@
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2023-06-15 |  |
 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2023-06-15 |  |
 | [The Great Divide](https://open.spotify.com/track/5cnxfqZEloX6lCh8nxjfn6) | [Montgomery Church](https://open.spotify.com/artist/0Wp2qbXs1JFpFXJf3ELxIj) | [The Great Divide](https://open.spotify.com/album/2obmBiDesECMwNY95hQxIW) | 4:01 | 2023-06-15 | 2023-08-08 |
-| [The Road](https://open.spotify.com/track/1aQaYbYZkkQzGOt8BAEMrx) | [Colin Lillie](https://open.spotify.com/artist/5a1yu0NIiNh52zaCjD4rEb), [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [The Road](https://open.spotify.com/album/0H7naYz3qpnF4k9f4vRomm) | 3:45 | 2023-06-15 |  |
+| [The Road](https://open.spotify.com/track/1aQaYbYZkkQzGOt8BAEMrx) | [Colin Lillie](https://open.spotify.com/artist/5a1yu0NIiNh52zaCjD4rEb), [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [The Road](https://open.spotify.com/album/0H7naYz3qpnF4k9f4vRomm) | 3:45 | 2023-06-15 | 2023-09-08 |
 | [Touch of the Outback](https://open.spotify.com/track/2futotmCCo2tIHmPsybQcd) | [Josh Arnold](https://open.spotify.com/artist/3bNkSSl10ckpEpWGVV4V3G) | [Touch of the Outback](https://open.spotify.com/album/4J6wpJHpq1HX88TVbYFvbe) | 2:40 | 2023-06-15 |  |
 | [Tunnel Vision](https://open.spotify.com/track/6ZISzizKHNE1Ic4YH280jw) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/7J6Zg9f19sUhiJsiIIQX1N) | 4:55 | 2023-06-15 |  |
 | [Where Are You Now \- Td's Song](https://open.spotify.com/track/0lDozc3d0cJB2MZADfFvCV) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 3:35 | 2023-06-15 | 2023-08-08 |

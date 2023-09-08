@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 193837,
+  "num_followers": 194072,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWZlMTI1Yzk3NDlhMGViYTIwMWMyOGExMzkzMThiZWVmMjczOTA1",
+  "snapshot_id": "MCw5YjM0NTUxOTNjZmY0NzI3NzQzZDllZDA4MDIwMjFjOWVjOWFlNDc4",
   "tracks": [
     {
       "added_at": "2023-08-22 13:29:49",
@@ -447,8 +447,8 @@
     {
       "added_at": "2023-08-22 13:29:49",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2023-08-22 13:29:49",
@@ -611,8 +611,8 @@
     {
       "added_at": "2023-08-22 13:29:49",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2023-08-22 13:29:49",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2023-08-22 13:29:49",
       "album": {
-        "name": "Brindis",
-        "url": "https://open.spotify.com/album/4D7iZ7xXU4GQM8s8pCC9W4"
+        "name": "Juntando Las Almas",
+        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
       },
       "artists": [
         {
-          "name": "Los Lamas",
-          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
-        },
-        {
-          "name": "Sergio Torres",
-          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+          "name": "Leo Mattioli y Trinidad",
+          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
         }
       ],
-      "duration_ms": 236981,
-      "name": "Brindis",
-      "url": "https://open.spotify.com/track/7GFsruIOvW7kE3iw48zAHi"
+      "duration_ms": 200386,
+      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
+      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
     },
     {
       "added_at": "2023-08-22 13:29:49",
@@ -1079,22 +1075,6 @@
     {
       "added_at": "2023-08-22 13:29:49",
       "album": {
-        "name": "Juntando Las Almas",
-        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli y Trinidad",
-          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
-      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
-    },
-    {
-      "added_at": "2023-08-22 13:29:49",
-      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 181680,
       "name": "Te So\u00f1\u00e9 una Vez",
       "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
+    },
+    {
+      "added_at": "2023-08-22 13:29:49",
+      "album": {
+        "name": "Brindis",
+        "url": "https://open.spotify.com/album/4D7iZ7xXU4GQM8s8pCC9W4"
+      },
+      "artists": [
+        {
+          "name": "Los Lamas",
+          "url": "https://open.spotify.com/artist/7wj7mzfPsDlJjUyg2TIW1n"
+        },
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        }
+      ],
+      "duration_ms": 236981,
+      "name": "Brindis",
+      "url": "https://open.spotify.com/track/7GFsruIOvW7kE3iw48zAHi"
     },
     {
       "added_at": "2023-08-22 13:29:49",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-22 13:29:49",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
-    },
-    {
-      "added_at": "2023-08-22 13:29:49",
-      "album": {
         "name": "C\u00f3mo Le Gusta A Mi Gente",
         "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 253800,
       "name": "Que Precio Tiene El Cielo",
       "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+    },
+    {
+      "added_at": "2023-08-22 13:29:49",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2023-08-22 13:29:49",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-08-22 13:29:49",
       "album": {
-        "name": "Como un Caramelo",
-        "url": "https://open.spotify.com/album/5AWeZMvbhQFe3c6XJ8DxA6"
-      },
-      "artists": [
-        {
-          "name": "Chanchi y Los Autenticos",
-          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
-        }
-      ],
-      "duration_ms": 292706,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/08c3uA4n8HcMMj8zgTqAZK"
-    },
-    {
-      "added_at": "2023-08-22 13:29:49",
-      "album": {
         "name": "Respetando un Estilo",
         "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 241705,
       "name": "Esta Noche Quiero Brandy",
       "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
+    },
+    {
+      "added_at": "2023-08-22 13:29:49",
+      "album": {
+        "name": "Como un Caramelo",
+        "url": "https://open.spotify.com/album/5AWeZMvbhQFe3c6XJ8DxA6"
+      },
+      "artists": [
+        {
+          "name": "Chanchi y Los Autenticos",
+          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
+        }
+      ],
+      "duration_ms": 292706,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/08c3uA4n8HcMMj8zgTqAZK"
     },
     {
       "added_at": "2023-08-22 13:29:49",

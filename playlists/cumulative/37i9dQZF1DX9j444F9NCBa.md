@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-503 songs - 1 day 1 hr 38 min
+504 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-17 |  |
 | [Bones](https://open.spotify.com/track/5uoOSG79SKKkw7F7wyqkRJ) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [About Damn Time](https://open.spotify.com/album/2USTIARqwExVDvfbNi2mHR) | 2:20 | 2023-04-28 |  |
 | [Both Sides Now](https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Both Sides Now](https://open.spotify.com/album/6em41apjqOtmJadQCcmysZ) | 3:48 | 2022-08-01 | 2023-06-09 |
-| [Boy With Luv](https://open.spotify.com/track/264jgmazhgUbdNT596RR2m) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [Boy With Luv](https://open.spotify.com/album/4mgFqVlyDALdVxPcbawqRn) | 3:38 | 2023-01-20 |  |
+| [Boy With Luv](https://open.spotify.com/track/264jgmazhgUbdNT596RR2m) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [Boy With Luv](https://open.spotify.com/album/4mgFqVlyDALdVxPcbawqRn) | 3:38 | 2023-01-20 | 2023-09-08 |
 | [Bridge Over Troubled Water \- Piano Version](https://open.spotify.com/track/6Bhp4KBC5US8YbnIDX29kX) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:49 | 2022-12-02 | 2023-09-01 |
 | [Bright Eyes](https://open.spotify.com/track/4H0fcFytpj3k8uxbV4LDyD) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [Bright Eyes](https://open.spotify.com/album/4VAiaO1FM576WoLNT2cmIz) | 3:37 | 2023-01-06 |  |
 | [Californication](https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Viva La Vida](https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF) | 3:17 | 2023-05-12 |  |
@@ -280,7 +280,7 @@
 | [Little Talks](https://open.spotify.com/track/64jOt18VnBBYJ9YNTjU28c) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Little Talks](https://open.spotify.com/album/5Cz4oaW0RZpO8ubFfNsG2k) | 2:08 | 2022-09-30 |  |
 | [Livin' On A Prayer](https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Livin' On A Prayer](https://open.spotify.com/album/5B8pdZdF6CvENv0QmurD8n) | 3:24 | 2023-05-12 |  |
 | [Lose Somebody](https://open.spotify.com/track/01QSyY5c1mET5j9mNeqmnM) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Lose Somebody](https://open.spotify.com/album/0JvfrbbduOvLgVRtvYgruz) | 3:19 | 2022-01-21 | 2022-12-02 |
-| [Lose You To Love Me](https://open.spotify.com/track/0R9KMCqqe2YVA5dEWQMqzP) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [Lose You To Love Me](https://open.spotify.com/album/4uFMkF6JI6EXjYx7eOaU9L) | 4:22 | 2022-01-21 |  |
+| [Lose You To Love Me](https://open.spotify.com/track/0R9KMCqqe2YVA5dEWQMqzP) | [Amy Bynes](https://open.spotify.com/artist/4KF2aXLvwOGirz0H1vg30S) | [Lose You To Love Me](https://open.spotify.com/album/4uFMkF6JI6EXjYx7eOaU9L) | 4:22 | 2022-01-21 | 2023-09-08 |
 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 | 2023-01-20 |  |
 | [Love Me Tender](https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Love Me Tender](https://open.spotify.com/album/59tSdWVmOuJU2TGDmKpQk9) | 2:20 | 2023-04-28 | 2023-08-18 |
 | [Love theme from "The Godfather"](https://open.spotify.com/track/3Blqcm6DphSHU4fog2Vojc) | [Dieter Klose](https://open.spotify.com/artist/1PqvPP0ke9tphLuxWcrLLG) | [Love theme from "The Godfather"](https://open.spotify.com/album/7dXHc7kGRDY21PhB4BjOT4) | 2:25 | 2022-01-21 | 2022-05-03 |
@@ -389,7 +389,7 @@
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-01-21 | 2023-04-13 |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 | 2023-03-24 |  |
 | [Stayin' Alive](https://open.spotify.com/track/4nEKbI250iiR61MASGuFie) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Stayin' Alive](https://open.spotify.com/album/3SwA8fVRvOmPzxqcAhEsNn) | 2:43 | 2023-08-31 |  |
-| [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-10-28 |  |
+| [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-10-28 | 2023-09-08 |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 |  |
 | [Summer Of '69 \- Piano Version](https://open.spotify.com/track/4qQaGERlp7y1Uhe8B6rQIk) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:33 | 2022-12-02 | 2023-06-03 |
 | [Sunroof](https://open.spotify.com/track/5jU1SM9KBUETJrb4QdTR5l) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [INDUSTRY BABY](https://open.spotify.com/album/4aUWDI0XA6M75Yfu3LD7tr) | 2:25 | 2022-12-02 | 2023-06-03 |
@@ -467,6 +467,7 @@
 | [What A Wonderful World](https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 3:14 | 2023-03-17 | 2023-08-11 |
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-01-21 | 2023-03-18 |
 | [What Is Love](https://open.spotify.com/track/3tKauD5kFXQb4cju242NMv) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [Say My Name](https://open.spotify.com/album/0LAO785ee5Dx0SNTMApanL) | 2:53 | 2023-03-17 | 2023-06-03 |
+| [What Was I Made For?](https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [What Was I Made For?](https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK) | 3:01 | 2023-09-08 |  |
 | [When I Held Ya](https://open.spotify.com/track/7lNpAXqQVSUjmaVDMljWPp) | [Isobel Fontenay](https://open.spotify.com/artist/17qS41Pzc9yp8aOWJiey0Z) | [When I Held Ya](https://open.spotify.com/album/0SK2OyGdMTXcayeC3M4X3v) | 3:10 | 2022-12-16 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2022-01-21 | 2023-04-14 |
 | [When You Believe](https://open.spotify.com/track/2EfjVCYTSVGWtBFh75r99F) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [When You Believe](https://open.spotify.com/album/0CIUvoJOwQMIjVTAXDGKLI) | 4:03 | 2022-01-21 | 2023-03-18 |
@@ -480,7 +481,7 @@
 | [Wicked Little Town](https://open.spotify.com/track/2pUSuzYdYL7slVFPBFlWGp) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 3:16 | 2022-01-21 | 2023-04-29 |
 | [Wild Horses](https://open.spotify.com/track/0w4UTfFR62G4Tv0u1lJIED) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Wild Horses](https://open.spotify.com/album/7ojqnKT6vCuQN5yG9arN1N) | 3:56 | 2022-08-01 | 2023-02-10 |
 | [Without you](https://open.spotify.com/track/1Pplkqiz45fRq73OxgrHQL) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Without you](https://open.spotify.com/album/1zyivnqvuiBNnVS8YoAmtK) | 3:11 | 2022-10-14 |  |
-| [Woke Up in Love](https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53) | [Pia Plonner](https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO) | [Woke Up in Love](https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU) | 2:56 | 2022-12-02 |  |
+| [Woke Up in Love](https://open.spotify.com/track/00VGDS10lKLKXyKCrvcj53) | [Pia Plonner](https://open.spotify.com/artist/42HyEtsQzXNdX6aBjxdOaO) | [Woke Up in Love](https://open.spotify.com/album/64Pan695xJqJcya0LiFsQU) | 2:56 | 2022-12-02 | 2023-09-08 |
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-02-10 |  |
 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 | 2023-04-14 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/1XxKCjktvwlG0oaTLvn1aY) | [Jax Mullen](https://open.spotify.com/artist/1lbgMwCwS9vi4FU78sx3zg) | [Relaxing Covers \(Volume 1\)](https://open.spotify.com/album/4mf9XVzCHnRVkPqh2nr7Qe) | 2:52 | 2022-12-02 | 2023-06-03 |

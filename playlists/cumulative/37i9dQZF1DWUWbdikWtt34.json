@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Wika Salim",
+  "description": "Dendang Dangdut teratas. Cover: Rita Tila",
   "name": "Dangdut Top",
   "tracks": [
+    {
+      "album": {
+        "name": "1000 Janji Ku Tepati",
+        "url": "https://open.spotify.com/album/1nTadaP0SnahWnxLnAKd4a"
+      },
+      "artists": [
+        {
+          "name": "Aprilian",
+          "url": "https://open.spotify.com/artist/7s0Yla5fpCegma2wOf2F2v"
+        },
+        {
+          "name": "Fany Zee",
+          "url": "https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317500,
+      "name": "1000 Janji Ku Tepati",
+      "url": "https://open.spotify.com/track/75cExnLdeVWbjS4p3p37fK"
+    },
     {
       "album": {
         "name": "Ada Cerita",
@@ -216,6 +238,24 @@
       "duration_ms": 194750,
       "name": "Bertepuk Sebelah Tangan",
       "url": "https://open.spotify.com/track/76IJq5eOqctxtHGyuEwF5Y"
+    },
+    {
+      "album": {
+        "name": "Bojo Setyo",
+        "url": "https://open.spotify.com/album/2lD4cA2RppQkk2JR9dO0W2"
+      },
+      "artists": [
+        {
+          "name": "Rita Tila",
+          "url": "https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Bojo Setyo",
+      "url": "https://open.spotify.com/track/63TwHyUBMkvBbeeHr07sOG"
     },
     {
       "album": {
@@ -1548,6 +1588,24 @@
       "duration_ms": 287998,
       "name": "Rasa Yang Salah",
       "url": "https://open.spotify.com/track/2j0nGluWGv7bUS7CihEPXH"
+    },
+    {
+      "album": {
+        "name": "Rumit",
+        "url": "https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg"
+      },
+      "artists": [
+        {
+          "name": "Anggi Rayns",
+          "url": "https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268085,
+      "name": "Rumit",
+      "url": "https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo"
     },
     {
       "album": {

@@ -9209,6 +9209,28 @@
     },
     {
       "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "MC. waka",
+          "url": "https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Orange (feat. MC. waka)",
+      "url": "https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1"
+    },
+    {
+      "album": {
         "name": "ordinary people feat. BIM",
         "url": "https://open.spotify.com/album/1qTQlT4nmidKIYy9AA4Q9A"
       },
@@ -15756,6 +15778,24 @@
       "duration_ms": 225924,
       "name": "\u307e\u3064\u308a",
       "url": "https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem"
+    },
+    {
+      "album": {
+        "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
+        "url": "https://open.spotify.com/album/2o67tneHxUqu03nqENYij1"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
+      "url": "https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x"
     },
     {
       "album": {

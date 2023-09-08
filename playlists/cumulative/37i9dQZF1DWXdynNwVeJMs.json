@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Amulet",
+        "url": "https://open.spotify.com/album/1HQmEGfHgCgy2LnCra5ZnJ"
+      },
+      "artists": [
+        {
+          "name": "KAU",
+          "url": "https://open.spotify.com/artist/6qj3YQkOT39KWw0n1f7WbH"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "Amulet",
+      "url": "https://open.spotify.com/track/6f0ImtlSe8SRo2qeHW4TLc"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/3h8dvqsbbIlx2rPPYjNi4q"
       },
@@ -2908,6 +2926,24 @@
       "duration_ms": 239086,
       "name": "The Lower 9th",
       "url": "https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu"
+    },
+    {
+      "album": {
+        "name": "The Quantities",
+        "url": "https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4"
+      },
+      "artists": [
+        {
+          "name": "John Ghost",
+          "url": "https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434946,
+      "name": "The Quantities",
+      "url": "https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk"
     },
     {
       "album": {

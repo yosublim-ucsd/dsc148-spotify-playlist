@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Gato e’ Monte.
 
-454 songs - 1 day 3 hr 33 min
+455 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Después](https://open.spotify.com/track/6l4r2gBOi41cdcoIsmitZD) | [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [Después](https://open.spotify.com/album/50doKsl9xuqih3vc0ogq7L) | 3:09 | 2021-12-24 | 2022-01-15 |
 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 | 2022-03-07 | 2022-03-12 |
 | [Destino trocado](https://open.spotify.com/track/55kgTXqfcM3ixK0oc4gkeX) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Destino trocado](https://open.spotify.com/album/7Hx7ZqnKldsGScVBTy4uut) | 2:28 | 2021-12-24 | 2022-07-28 |
+| [Diente de León](https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [El Perro Feroz](https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp) | 2:20 | 2023-08-18 |  |
 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 | 2021-12-24 | 2023-08-23 |
 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 | 2021-12-24 | 2023-08-19 |
 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 | 2023-03-25 | 2023-04-15 |
@@ -433,7 +434,7 @@
 | [Un Rinconcito](https://open.spotify.com/track/2DLY1Kww0RbhqgjKeuLsLo) | [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Un Rinconcito](https://open.spotify.com/album/4p8siCTMx9TIld9QWDrmgo) | 2:45 | 2023-06-16 | 2023-07-01 |
 | [Un árbol roto](https://open.spotify.com/track/4Ls0ClqG8oeXnbon5NFuPt) | [Chloé Bird](https://open.spotify.com/artist/1DbosGATEZmWSixTqlGPUh) | [Parénthesis](https://open.spotify.com/album/0iV4Hb6ZkRn4irvL3iPuCs) | 5:06 | 2023-05-19 | 2023-06-17 |
 | [Una Fecha En El Calendario](https://open.spotify.com/track/4SZToPB2zdHUmIASfZFFlI) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Una Fecha En El Calendario](https://open.spotify.com/album/4fn2pYbNE7QD6FoIjWCfOO) | 3:58 | 2021-12-24 | 2022-07-29 |
-| [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 |  |
+| [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 | 2023-09-08 |
 | [Una herida](https://open.spotify.com/track/7CPQMi5mEonIFzo8VtV7cy) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Una herida](https://open.spotify.com/album/0Dydnkcx3W58VZhWnJQJhq) | 3:02 | 2022-09-23 | 2022-10-22 |
 | [Universo](https://open.spotify.com/track/5OyW17JzgrvjAJkycMHAmp) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Universo](https://open.spotify.com/album/6hKxfX97K2i0tmZJETLfFP) | 3:04 | 2021-12-24 | 2022-02-12 |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-07-22 | 2022-08-26 |

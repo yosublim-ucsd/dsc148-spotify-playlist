@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "14. Stock",
+        "url": "https://open.spotify.com/album/6hYmjAfCwpsxdq81K0ytMN"
+      },
+      "artists": [
+        {
+          "name": "Jona Straub",
+          "url": "https://open.spotify.com/artist/42mdVKdNJDsmQasPjTqVao"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154620,
+      "name": "14. Stock",
+      "url": "https://open.spotify.com/track/6f77E75f6dwDzT6o4zXaYv"
+    },
+    {
+      "album": {
         "name": "f\u00fchl halt mal",
         "url": "https://open.spotify.com/album/1FgTLbH6Rbd6M4ac5pgHHw"
       },
@@ -1543,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "echt von unten / zo\u00e9 freestyle",
+        "url": "https://open.spotify.com/album/4GtfNpDYB3K8gqeQLLFDzA"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191511,
+      "name": "echt von unten / zo\u00e9 freestyle",
+      "url": "https://open.spotify.com/track/5Y5F8yjB2ZnCS0E9kCFR2Y"
+    },
+    {
+      "album": {
         "name": "Egoist",
         "url": "https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S"
       },
@@ -2086,7 +2122,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 182099,
       "name": "F\u00fcr dich da",
       "url": "https://open.spotify.com/track/0fqC9DQnwRjkcw6PSwgkeR"
@@ -2392,6 +2428,24 @@
       "duration_ms": 225604,
       "name": "Goldener Tag",
       "url": "https://open.spotify.com/track/7ae25NOyV3pnNzza9r8t8M"
+    },
+    {
+      "album": {
+        "name": "Goldmund",
+        "url": "https://open.spotify.com/album/5KPlOAzEmWrWicVDaGs9bA"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207217,
+      "name": "Goldmund",
+      "url": "https://open.spotify.com/track/1pyhRVCNXg47cBcVNFH6pr"
     },
     {
       "album": {
@@ -3406,7 +3460,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 199120,
       "name": "Lass es kreisen",
       "url": "https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG"
@@ -4272,7 +4326,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 210340,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4JI3UOyfrUS8MuVHVBHRSU"
@@ -4920,6 +4974,24 @@
       "duration_ms": 153782,
       "name": "Sekundenschlaf",
       "url": "https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2"
+    },
+    {
+      "album": {
+        "name": "Selbstsp\u00fcren",
+        "url": "https://open.spotify.com/album/79MRFDhwy0G3O59EyCbmY0"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Selbstsp\u00fcren",
+      "url": "https://open.spotify.com/track/5NtwruoP4MFCJw3OndR3tF"
     },
     {
       "album": {
@@ -5818,7 +5890,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 186921,
       "name": "Verr\u00fcckt",
       "url": "https://open.spotify.com/track/3fdtL03cpv8g91L8ZB2xXA"
@@ -6396,7 +6468,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 136373,
       "name": "Wien",
       "url": "https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2"
@@ -6592,6 +6664,28 @@
       "duration_ms": 153428,
       "name": "ZuuuUuuu",
       "url": "https://open.spotify.com/track/6njHner5kQXzD6DQ74lxPB"
+    },
+    {
+      "album": {
+        "name": "sommernacht <3",
+        "url": "https://open.spotify.com/album/3fU8AScEC1AiQHfOSIL7hI"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159672,
+      "name": "zwischen allem und nichts",
+      "url": "https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn"
     },
     {
       "album": {

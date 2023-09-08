@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-760 songs - 1 day 16 hr 7 min
+761 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 | 2023-08-07 |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
-| [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-29 |  |
+| [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-29 | 2023-09-08 |
 | [A Lover Like Me](https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [A Lover Like Me](https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA) | 2:52 | 2023-02-02 | 2023-04-05 |
 | [A Power In Letting Go](https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [A Power In Letting Go](https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT) | 2:52 | 2022-03-17 | 2022-07-29 |
 | [ABAJO](https://open.spotify.com/track/1GXd4kZSdrJEBo11WgQiDi) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [ABAJO](https://open.spotify.com/album/5dzPBGqHe0FOjEPxRWey2D) | 2:40 | 2022-01-27 | 2022-02-06 |
@@ -708,6 +708,7 @@
 | [Vi har iallafall inte tråkigt](https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Vi har iallafall inte tråkigt](https://open.spotify.com/album/3Fxsxgafsz6WFyUTyHHtlY) | 2:40 | 2022-02-20 | 2022-05-09 |
 | [Vi ska aldrig gå hem](https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L) | 3:15 | 2021-12-16 |  |
 | [Vi Äger Hela Världen](https://open.spotify.com/track/1rnXwcs4e5Td5WiVm1w2fQ) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Vi Äger Hela Världen](https://open.spotify.com/album/6g8YubIWXxzL0MTc2MbyPd) | 3:19 | 2021-12-16 | 2022-01-14 |
+| [Vi älskar vackert](https://open.spotify.com/track/5qEvvzHzBwv7kLcx5iqhkS) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Vi älskar vackert](https://open.spotify.com/album/0mouZHcfoMeCWzNXq0ZP2z) | 2:58 | 2023-08-31 |  |
 | [Vi Är På Riktigt](https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq), [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Vi Är På Riktigt](https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK) | 3:07 | 2022-09-29 |  |
 | [Vice Versa](https://open.spotify.com/track/69Hc0ZGMFjOhxnFPOpYc29) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Vice Versa](https://open.spotify.com/album/3MQhHWeO9PcFUVaHg3Q719) | 2:56 | 2022-01-13 | 2022-04-02 |
 | [VIKOMMERÅDÖ](https://open.spotify.com/track/0GdhtbBV4AWM3QTL09OFPF) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [VIKOMMERÅDÖ](https://open.spotify.com/album/0FFtatB9vcQps5vDLM6s1I) | 3:42 | 2021-12-16 | 2022-03-10 |

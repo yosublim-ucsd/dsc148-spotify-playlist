@@ -677,6 +677,32 @@
     },
     {
       "album": {
+        "name": "Break This Heart",
+        "url": "https://open.spotify.com/album/6DztBxiOPt4pVtKI72I5tj"
+      },
+      "artists": [
+        {
+          "name": "Couddio",
+          "url": "https://open.spotify.com/artist/0QgrbtBh2X2FOL0FCvYhEY"
+        },
+        {
+          "name": "MasterBangg",
+          "url": "https://open.spotify.com/artist/0OR0HHn3OGSrPxFO0ea6W5"
+        },
+        {
+          "name": "PRYVT RYN",
+          "url": "https://open.spotify.com/artist/6zq6KNF09GUIFltBdxaSb0"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Break This Heart",
+      "url": "https://open.spotify.com/track/3bQ4fFG9lBksBns3YyCdfX"
+    },
+    {
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/4YNvCzLe7cq4CVIrzg976s"
       },
@@ -3704,6 +3730,28 @@
       "duration_ms": 161802,
       "name": "Save Me - HAVOQ Remix",
       "url": "https://open.spotify.com/track/106NUdEpeKc6viVKe4Dejr"
+    },
+    {
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/0xSwrfdhoiHGUi9JTV2Cq8"
+      },
+      "artists": [
+        {
+          "name": "Achilles",
+          "url": "https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka"
+        },
+        {
+          "name": "MC Stretch",
+          "url": "https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/6fnUzzyNuW2oiOMifSXy53"
     },
     {
       "album": {

@@ -1913,6 +1913,28 @@
     },
     {
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0MsW5Q0FuA617PpHZG0yaM"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "MNRT",
+          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154137,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
+    },
+    {
+      "album": {
         "name": "Light A Fire",
         "url": "https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl"
       },
@@ -2228,6 +2250,28 @@
       "duration_ms": 130470,
       "name": "Mirror On The Wall",
       "url": "https://open.spotify.com/track/14lWiJlw5WoVn9X8JFC9HW"
+    },
+    {
+      "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        },
+        {
+          "name": "Monoko",
+          "url": "https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269679,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
     },
     {
       "album": {
@@ -2666,7 +2710,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 207457,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ"
@@ -3434,7 +3478,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 205325,
       "name": "Who You",
       "url": "https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb"

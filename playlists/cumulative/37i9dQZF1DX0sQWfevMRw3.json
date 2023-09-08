@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "100 SHOTS",
+        "url": "https://open.spotify.com/album/4YzGFWj75uBuBRHDtgy04f"
+      },
+      "artists": [
+        {
+          "name": "Greta Tuborg",
+          "url": "https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ"
+        },
+        {
+          "name": "Betty Becks",
+          "url": "https://open.spotify.com/artist/53tc97BjjvJ7MJT0GzLQsg"
+        },
+        {
+          "name": "EPA SATAN",
+          "url": "https://open.spotify.com/artist/1Tdt6GDut97A37pO8WFyMA"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126940,
+      "name": "100 SHOTS",
+      "url": "https://open.spotify.com/track/7v04RskE6ULlYQwwk2X44F"
+    },
+    {
+      "album": {
         "name": "123 (Dolly Song) (feat. Karma Child)",
         "url": "https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp"
       },
@@ -2272,7 +2298,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 223877,
       "name": "Det m\u00e5ste g\u00e5 att dansa till - DJ Grillvante Remix",
       "url": "https://open.spotify.com/track/3WUoV6fI33KDshGlMIXKXd"
@@ -2790,7 +2816,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 153124,
       "name": "DU G\u00d6R MIG FUCKED UP",
       "url": "https://open.spotify.com/track/6teKMrSx3Tw5pF2An2tRN9"
@@ -3358,7 +3384,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 200072,
       "name": "Edelweiss (EPA Remix)",
       "url": "https://open.spotify.com/track/368Q4Yef7c2ldUKQjcuGHS"
@@ -3602,10 +3628,28 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 168853,
       "name": "En man som han - N!NE EPA Remix",
       "url": "https://open.spotify.com/track/2V75PU1gYYPFfHfjn9JRdS"
+    },
+    {
+      "album": {
+        "name": "EN STARK\u00d6L I STOCKHOLM \u00c4R BARA EN L\u00c4TT\u00d6L I GRUMS",
+        "url": "https://open.spotify.com/album/1fYJzFP32gYYuXoxF8SkUL"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129427,
+      "name": "EN STARK\u00d6L I STOCKHOLM \u00c4R BARA EN L\u00c4TT\u00d6L I GRUMS",
+      "url": "https://open.spotify.com/track/3Fo5cGlX70o5YPQTaCI8Rr"
     },
     {
       "album": {
@@ -5591,6 +5635,24 @@
     },
     {
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/7wR0oq6vSBW4tBjYgHL01k"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/1raTAM5ZcDppB3x7CtDjF9"
+    },
+    {
+      "album": {
         "name": "GRANNEN",
         "url": "https://open.spotify.com/album/3isQ0HBxcCpuBTGRZQ9A3z"
       },
@@ -6143,6 +6205,28 @@
     },
     {
       "album": {
+        "name": "HELA HUSET",
+        "url": "https://open.spotify.com/album/5fXKid8zhqzh1GhT0RoN40"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/6oFrMdEZ9S3vGF7Cl83qE3"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "HELA HUSET",
+      "url": "https://open.spotify.com/track/3fyfYHSAyfjOtJRZO18oVT"
+    },
+    {
+      "album": {
         "name": "HELA NATTEN L\u00c5NG",
         "url": "https://open.spotify.com/album/6fy6W8MiKlwKov8mTw7iM0"
       },
@@ -6364,7 +6448,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 127200,
       "name": "Historien om en man",
       "url": "https://open.spotify.com/track/15bU6cjSLabj4701WFLnkA"
@@ -7011,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "IN MED EN PRILLA",
+        "url": "https://open.spotify.com/album/518DYZMBB8fLL3E8HKIMNR"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130104,
+      "name": "IN MED EN PRILLA",
+      "url": "https://open.spotify.com/track/4HgBgnmaUUKxMoQIxrslHZ"
+    },
+    {
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
       },
@@ -7400,7 +7502,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 166091,
       "name": "JAG KOMMER",
       "url": "https://open.spotify.com/track/0UN71iE02s67fE0QFV4p9Q"
@@ -8080,7 +8182,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 164907,
       "name": "KUNG I BAREN",
       "url": "https://open.spotify.com/track/1bD8ZsUqNbL7Ffuw8INy8I"
@@ -9411,6 +9513,32 @@
     },
     {
       "album": {
+        "name": "MULTIVITAMIN",
+        "url": "https://open.spotify.com/album/77mu3DXC4AuplD8CG4qptZ"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "MULTIVITAMIN",
+      "url": "https://open.spotify.com/track/5LLY0yvNGk6FxADFydtpVW"
+    },
+    {
+      "album": {
         "name": "My Bed (feat. RBVLN)",
         "url": "https://open.spotify.com/album/5aUPakJYEkXMj4Mb6KX1DV"
       },
@@ -9548,7 +9676,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 168801,
       "name": "NATT TILL DAG",
       "url": "https://open.spotify.com/track/3OGIM1caVXkaAElEhGkLMB"
@@ -10134,7 +10262,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 127710,
       "name": "OTROGEN",
       "url": "https://open.spotify.com/track/1acoJNp0YXcfHOQsnfOZ9V"
@@ -10174,7 +10302,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 123487,
       "name": "PALLAR INTE SKOLAN",
       "url": "https://open.spotify.com/track/5DealAxYuuWVSt2divtiPK"
@@ -10604,6 +10732,28 @@
       "duration_ms": 123821,
       "name": "pSyKoSeN",
       "url": "https://open.spotify.com/track/6X7t9Do69hFpUKbpgpMrBy"
+    },
+    {
+      "album": {
+        "name": "PUFF PUFF PUFF",
+        "url": "https://open.spotify.com/album/66m4cmQqLnKdMDNGsstjdh"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104470,
+      "name": "PUFF PUFF PUFF",
+      "url": "https://open.spotify.com/track/1wqT0Wtw0SlvyE83KOWqR2"
     },
     {
       "album": {
@@ -11067,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "Raggare",
+        "url": "https://open.spotify.com/album/4x5SNzWjb9PpHNbMWTqSvU"
+      },
+      "artists": [
+        {
+          "name": "Grannen M\u00e5ns",
+          "url": "https://open.spotify.com/artist/1GOGNYD5gumMX6VHfZGXuJ"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Raggare",
+      "url": "https://open.spotify.com/track/5IRI4JNziHEtTJoDkyotMO"
+    },
+    {
+      "album": {
         "name": "RAGGARE SOM JAG",
         "url": "https://open.spotify.com/album/4HcU9eUIJ5DTk8DcmcYNr0"
       },
@@ -11112,6 +11280,32 @@
       "duration_ms": 150193,
       "name": "RAGGARGUBBE",
       "url": "https://open.spotify.com/track/4SbnBHlGC5N0XZfNbm0Agm"
+    },
+    {
+      "album": {
+        "name": "RAGGARHIMLEN",
+        "url": "https://open.spotify.com/album/2TZaRMvxwjuvUZfroPmNpm"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155189,
+      "name": "RAGGARHIMLEN",
+      "url": "https://open.spotify.com/track/0MN7D4GKZjeGrsxbiW1z7J"
     },
     {
       "album": {
@@ -12313,6 +12507,28 @@
     },
     {
       "album": {
+        "name": "SKA VI LIGGA",
+        "url": "https://open.spotify.com/album/5OrmFjFxPfpHDrYM6Th8dA"
+      },
+      "artists": [
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        },
+        {
+          "name": "DJ DUNK",
+          "url": "https://open.spotify.com/artist/3xZIABI7kdGYETfS4fSbOI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152884,
+      "name": "SKA VI LIGGA",
+      "url": "https://open.spotify.com/track/12whZJ3s4xXHytQirmlUFc"
+    },
+    {
+      "album": {
         "name": "Skavlan",
         "url": "https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b"
       },
@@ -12794,7 +13010,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 246810,
       "name": "Som en riktig man (feat. Kenneth & The Knutters) - Remix",
       "url": "https://open.spotify.com/track/5rMLCAhOgetBv14mLwsbqY"
@@ -13277,6 +13493,28 @@
     },
     {
       "album": {
+        "name": "STORSTADSPOJK",
+        "url": "https://open.spotify.com/album/3NpwIgTpxrzmbom2iiasY4"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        },
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126240,
+      "name": "STORSTADSPOJK",
+      "url": "https://open.spotify.com/track/6ibUwkcnHR9CopzegQm5VG"
+    },
+    {
+      "album": {
         "name": "STRIPPA I DITT VARDAGSRUM",
         "url": "https://open.spotify.com/album/2XdAdkpS7wOlWDlYaXPU93"
       },
@@ -13358,7 +13596,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 140833,
       "name": "STUDENTEN",
       "url": "https://open.spotify.com/track/0Fxl5tOk1d2VGPo1Om9RPd"
@@ -14571,6 +14809,32 @@
     },
     {
       "album": {
+        "name": "TON\u00c5RSNATT",
+        "url": "https://open.spotify.com/album/3B2TMZck1AoMWUOOCbd6jT"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "DJ Roine",
+          "url": "https://open.spotify.com/artist/6qFz7RbRuwQE0UlouqD6aV"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115033,
+      "name": "TON\u00c5RSNATT",
+      "url": "https://open.spotify.com/track/6qRDmw7G2r7iOa2kVKlqOZ"
+    },
+    {
+      "album": {
         "name": "TORPARROCK",
         "url": "https://open.spotify.com/album/6urpLvIbChGXWfV6wHgd3x"
       },
@@ -15618,7 +15882,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 171718,
       "name": "V\u00c5GA VA MIG SJ\u00c4LV",
       "url": "https://open.spotify.com/track/3d90gMDQh1EbODBzKSKiUP"

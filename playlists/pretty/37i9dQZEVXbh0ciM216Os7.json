@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDA1ZmUxNjk5MDQyZWJlNDNkZWVjMzkzY2VmMDZkMWQwMQ==",
+  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDA0MjY0ODRmZDE0ZjMwNDM5YWY5MmQ5NWEyN2EwOGZjOQ==",
   "tracks": [
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Born to Fuck/Fuck This Job",
-        "url": "https://open.spotify.com/album/0DaL5XUgTh7I38yxTQGrla"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Born To Fuck",
-      "url": "https://open.spotify.com/track/6AjGza35NlMh2bmEMEAO5o"
-    },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
@@ -43,6 +27,46 @@
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        },
+        {
+          "name": "The Future Kingz",
+          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
+        }
+      ],
+      "duration_ms": 297624,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Puerto Rico",
+        "url": "https://open.spotify.com/album/4xfwBnoenPCuV6HCgwisUy"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 215717,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/3wyBkA7dOMJX0zqW3iIKu8"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -71,6 +95,38 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Koala",
+        "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "Koala",
+      "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Burning Down the House (Metal Version)",
+        "url": "https://open.spotify.com/album/54wesWsBOJFQhKVFzpeDJ5"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Burning Down the House (Metal Version)",
+      "url": "https://open.spotify.com/track/6iVeRgRXppzzMlgfCZq6HR"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Shaolin's Revenge",
         "url": "https://open.spotify.com/album/0pQHdDDKjOHgRIL9j7sOfZ"
       },
@@ -91,22 +147,6 @@
       "duration_ms": 125518,
       "name": "Shaolin's Revenge",
       "url": "https://open.spotify.com/track/6LN4koIhyYzlVTCYTPhK7h"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Burning Down the House (Metal Version)",
-        "url": "https://open.spotify.com/album/54wesWsBOJFQhKVFzpeDJ5"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 201235,
-      "name": "Burning Down the House (Metal Version)",
-      "url": "https://open.spotify.com/track/6iVeRgRXppzzMlgfCZq6HR"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -183,6 +223,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2qWOTKZpovfDaiqfwa78G5"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Wake of the Flood: The Angel's Share",
         "url": "https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL"
       },
@@ -192,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 796202,
-      "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
-      "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
+      "duration_ms": 443464,
+      "name": "Stella Blue (Take 5) [Not Slated] - 8/7/73",
+      "url": "https://open.spotify.com/track/5N1zOclIabkCcRcRAyWaQc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -235,6 +291,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
       },
@@ -248,29 +320,13 @@
           "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
         },
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
         }
       ],
-      "duration_ms": 293122,
-      "name": "Witchcraft (feat. Robert Glasper)",
-      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
+      "duration_ms": 188186,
+      "name": "Like It Like That (feat. Chief Adjuah)",
+      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -291,62 +347,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Saint Teresa",
-        "url": "https://open.spotify.com/album/6Ogj81elwzB4RoIQGnTACl"
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/2BT4yUblsyQUtFs804MtO6"
       },
       "artists": [
         {
-          "name": "Devon Church",
-          "url": "https://open.spotify.com/artist/7CBzDKeqUsPOqLyYwpvT1g"
-        },
-        {
-          "name": "Delicate Steve",
-          "url": "https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "Saint Teresa",
-      "url": "https://open.spotify.com/track/1Xbdoqkt8YpTSELtUyFgNL"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Do You Remember Country Music (feat. Randy Travis)",
-        "url": "https://open.spotify.com/album/5yZdZAKNNN42xD32IaaICr"
-      },
-      "artists": [
-        {
-          "name": "Tony Jackson",
-          "url": "https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR"
-        },
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 210672,
-      "name": "Do You Remember Country Music",
-      "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "The Weekend",
-        "url": "https://open.spotify.com/album/4qnDnV8iQYo5PzMhflN838"
-      },
-      "artists": [
-        {
-          "name": "Mayne",
-          "url": "https://open.spotify.com/artist/71864qIP78GhtmqKjYITDm"
+          "name": "PRICE",
+          "url": "https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse"
         },
         {
           "name": "T-Pain",
           "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 173557,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/4xRXYFnpN6gRyHXXH9N0wC"
+      "duration_ms": 144056,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/4WX2fdICHuZevsl6NS0tWz"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -371,6 +387,46 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Last a While",
+        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "duration_ms": 185412,
+      "name": "Last a While",
+      "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "JUMPIN (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 164911,
+      "name": "JUMPIN - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Dookie (30th Anniversary 4-Track Demos)",
         "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
       },
@@ -380,29 +436,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 154884,
-      "name": "When It's Time - 4-track demo",
-      "url": "https://open.spotify.com/track/5b9yMkeoRD3nWPdep8sAt4"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "METALI!! (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "METALI!! - feat. Tom Morello",
-      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
+      "duration_ms": 121441,
+      "name": "When I Come Around - 4-track demo",
+      "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -447,22 +483,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Gimme Three Steps (Live)",
-        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 329160,
-      "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
-      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "You Don't Know How It Feels",
         "url": "https://open.spotify.com/album/361Hfni1nG1tOrVcJJZrWB"
       },
@@ -483,22 +503,6 @@
       "duration_ms": 295755,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4pvvJGvOvtGje3rbKhGZJz"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Forgiven",
-        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 205497,
-      "name": "Forgiven",
-      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
     },
     {
       "added_at": "2023-09-01 04:00:00",

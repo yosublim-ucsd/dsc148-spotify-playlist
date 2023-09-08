@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "All that I am",
+        "url": "https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W"
+      },
+      "artists": [
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277184,
+      "name": "All that I am",
+      "url": "https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH"
+    },
+    {
+      "album": {
         "name": "ROOKERY",
         "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 154320,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU"
@@ -1985,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/3FSkVmYiQfJEePj9phBD55"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129893,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7"
+    },
+    {
+      "album": {
         "name": "Immer wenn du weinst",
         "url": "https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB"
       },
@@ -3286,7 +3322,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 150000,
       "name": "Seit du da bist",
       "url": "https://open.spotify.com/track/6UKEr68Gqgq9LAwdLDfW85"

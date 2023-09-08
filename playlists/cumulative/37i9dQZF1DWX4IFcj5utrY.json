@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0xWkMSvVSUq5WvvijluVNW\">2Shoes</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi?si=3MwIqIO2S8G2GcJUpsttQg\">Jullian Gomes</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 360005,
       "name": "Army Of Angels",
       "url": "https://open.spotify.com/track/2dnIq7FQEMEZc5KooZVFOy"
@@ -5654,7 +5654,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 313135,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/0tfdDeXSC3qMFwKaf4XTHE"
@@ -7563,6 +7563,28 @@
     },
     {
       "album": {
+        "name": "Ibala Lami",
+        "url": "https://open.spotify.com/album/2eiZCO6IpgC6aFYRLqxzyw"
+      },
+      "artists": [
+        {
+          "name": "Domboshaba",
+          "url": "https://open.spotify.com/artist/0BJzzoH1MylH6sPXY1r4Mf"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248447,
+      "name": "Ibala Lami (Radio Edit)",
+      "url": "https://open.spotify.com/track/5xupTcr3cRi4vjR8W6Frs5"
+    },
+    {
+      "album": {
         "name": "iFu",
         "url": "https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f"
       },
@@ -8805,6 +8827,24 @@
     },
     {
       "album": {
+        "name": "Just Stay",
+        "url": "https://open.spotify.com/album/7o9DNMGQoG6EerZaFEiK4L"
+      },
+      "artists": [
+        {
+          "name": "Thorne Miller",
+          "url": "https://open.spotify.com/artist/0LqW9uJAiJTZjvy9PDwVmm"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407060,
+      "name": "Just Stay",
+      "url": "https://open.spotify.com/track/34g1jYzb1Ik43xSDEqrVXl"
+    },
+    {
+      "album": {
         "name": "In Another Lifetime (Remixed)",
         "url": "https://open.spotify.com/album/4ZuegOgRfXe7Z7SxGcW8jf"
       },
@@ -9524,7 +9564,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 390508,
       "name": "Kwa Mama",
       "url": "https://open.spotify.com/track/0WGUkcTM1u5ssKcdqFtCJn"
@@ -11470,7 +11510,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 427160,
       "name": "Mohigan Sun",
       "url": "https://open.spotify.com/track/5U6zQqXCVZokE7UH4kdAB1"
@@ -11492,7 +11532,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 382776,
       "name": "Moja",
       "url": "https://open.spotify.com/track/1m7tl08WOnGcwEGKADBWu5"
@@ -11540,7 +11580,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 352000,
       "name": "Molili",
       "url": "https://open.spotify.com/track/4jEx2UOP274e3tO2hKZcMD"
@@ -12981,6 +13021,32 @@
     },
     {
       "album": {
+        "name": "Osama (Claptone Remix)",
+        "url": "https://open.spotify.com/album/7c9uVaoqvliWaTRFRPwMYN"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Osama - Claptone Remix",
+      "url": "https://open.spotify.com/track/1XcpR3x6MzWP4soqbXU7Qu"
+    },
+    {
+      "album": {
         "name": "Oshun",
         "url": "https://open.spotify.com/album/5sGEFW0jGjJukYE7qNUQI0"
       },
@@ -13270,6 +13336,36 @@
       "duration_ms": 373880,
       "name": "Penga",
       "url": "https://open.spotify.com/track/0XZdmssdQLywM1eKPYSg5q"
+    },
+    {
+      "album": {
+        "name": "Penga (Madmotormiquel & Anna Almani Remix)",
+        "url": "https://open.spotify.com/album/31mz3azim2rLWR0y71ZEKp"
+      },
+      "artists": [
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "Njivinator",
+          "url": "https://open.spotify.com/artist/1o1tvuvpuXOSo3JhAfEpKy"
+        },
+        {
+          "name": "Madmotormiquel",
+          "url": "https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1"
+        },
+        {
+          "name": "Anna Almani",
+          "url": "https://open.spotify.com/artist/3YTizwZb2aQeYzxbQ5ZhK7"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389001,
+      "name": "Penga - Madmotormiquel & Anna Almani Remix",
+      "url": "https://open.spotify.com/track/07bla4VXjkqnbRXOUfwJyE"
     },
     {
       "album": {
@@ -14250,6 +14346,28 @@
       "duration_ms": 336638,
       "name": "Saliya Dub",
       "url": "https://open.spotify.com/track/2B8nRDOXsRrH2bQIw8DUr5"
+    },
+    {
+      "album": {
+        "name": "Samkela",
+        "url": "https://open.spotify.com/album/4fDpFoI7rxNGmREufXAswl"
+      },
+      "artists": [
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439512,
+      "name": "Samkela",
+      "url": "https://open.spotify.com/track/1Zx5djlNZWs57cuw5pa0sk"
     },
     {
       "album": {
@@ -17680,6 +17798,24 @@
       "duration_ms": 391671,
       "name": "Ufunantoni eGoli - Original Mix",
       "url": "https://open.spotify.com/track/5yl8bP6E1TT4U1VUxaqdsE"
+    },
+    {
+      "album": {
+        "name": "uHambo",
+        "url": "https://open.spotify.com/album/5LgIiLg49gLvR0YmYPoXqp"
+      },
+      "artists": [
+        {
+          "name": "Jullian Gomes",
+          "url": "https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "uHambo",
+      "url": "https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P"
     },
     {
       "album": {

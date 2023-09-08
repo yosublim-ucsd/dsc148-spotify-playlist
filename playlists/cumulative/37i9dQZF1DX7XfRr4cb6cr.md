@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-232 songs - 19 hr 52 min
+233 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 | 2023-09-05 |
 | [i don't know](https://open.spotify.com/track/6IdTGiVPwOhI5kJCH32Ue5) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy), [Miranda Rain](https://open.spotify.com/artist/5zb0UmoGI37fw1JM6t6x9c) | [i don't know](https://open.spotify.com/album/2AUH1ICjCVPn89ToFgeqyg) | 1:57 | 2023-06-29 |  |
+| [i lost my heart \- Slowed + Reverb](https://open.spotify.com/track/6E7srZ5EkQ4oOmqB3iU4Bo) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [$adness](https://open.spotify.com/artist/6jiqToMlWSzv4F4IH4Knf6) | [i lost my heart \(Slowed + Reverb\)](https://open.spotify.com/album/40HHfGDkYr6GM6ANlH74un) | 2:48 | 2023-09-01 |  |
 | [I See Your Picture, It's in the Same Old Frame](https://open.spotify.com/track/1admOcHNEDufX4KbPM6zqC) | [Katia Krow](https://open.spotify.com/artist/2YykFr6zggCoi2GHZbFlSG) | [I've Called off the Search, I Know Exactly Where You Are](https://open.spotify.com/album/1Gsd8mV3HxMu4uqimgh8yu) | 2:47 | 2022-07-22 | 2022-07-27 |
 | [i'm lost](https://open.spotify.com/track/2gZvLUKJiPWCmFrTTnVThH) | [Magician of W21](https://open.spotify.com/artist/4qWysN8Ub3gWFUXjkZrsck) | [darkpath](https://open.spotify.com/album/3y4UnRclOikrK3o9NAJgbD) | 1:19 | 2023-02-17 | 2023-06-08 |
 | [In Time You Will](https://open.spotify.com/track/1SET0qRs8EQwmARr4heA63) | [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG) | [In Time You Will](https://open.spotify.com/album/2iu3K2wnI5e1oDQz5zVSLj) | 6:08 | 2022-03-25 | 2022-07-29 |
@@ -185,7 +186,7 @@
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 |  |
 | [Sternkarten](https://open.spotify.com/track/2zw1H7VhobTzxZebNfepSU) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/4JZlNx49SehfobUKwt2izd) | 3:56 | 2022-11-11 |  |
 | [Sternkarten](https://open.spotify.com/track/314hSjWQO1s1IRW7jwOJdt) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/1OrrYsb4N2WMpINJrtrRBR) | 3:56 | 2022-01-21 | 2022-07-29 |
-| [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 | 2022-01-28 |  |
+| [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 | 2022-01-28 | 2023-09-08 |
 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 | 2022-01-21 |  |
 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 | 2022-01-21 | 2023-07-13 |
 | [Stretching / Invading](https://open.spotify.com/track/2gz0CqpSgEAif1U3hez55O) | [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Fur and Metal](https://open.spotify.com/album/6ehmrA1NW4dSyQQWIK2EJ9) | 2:25 | 2023-07-21 |  |

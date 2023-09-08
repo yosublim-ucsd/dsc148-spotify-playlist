@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: ONE OK ROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,914 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,128 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [忘れっぽいんだ](https://open.spotify.com/track/4CVSEhpfVizwsj6xMJEhwV) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [忘れっぽいんだ](https://open.spotify.com/album/1yxGeNRH02oKEP5IZTxrM7) | 4:17 |
 | 50 | [Forever Young](https://open.spotify.com/track/29zovESERgPJz1uaIFgsfS) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Forever Young](https://open.spotify.com/album/24NmauT5LwKzyNYApKkIQ5) | 3:35 |
 
-Snapshot ID: `MCw4ZDAxMDBkYjUwYzU3Y2U3N2M1NWUxMmVjOWU5OWNlNDEzZjMwYTlk`
+Snapshot ID: `MCwwZTM0NTQ0NjQ2ZjlkMmUwMTk0ZGI1ZjYxODFhNjI4NTliOTk2ZDg3`

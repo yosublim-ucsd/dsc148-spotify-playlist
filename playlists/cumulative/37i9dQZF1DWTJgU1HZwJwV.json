@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 121000,
       "name": "A Dream of Green",
       "url": "https://open.spotify.com/track/4lvb5gc7WFy1tUXqoFYn3m"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 179490,
       "name": "Combo Cadre",
       "url": "https://open.spotify.com/track/2iuH3nCY89Ljb1tjmvcKwV"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 108331,
       "name": "La Venue",
       "url": "https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi"
@@ -3522,7 +3522,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 207000,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/2ZllgmJ44JB80Xr1KkI5xK"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 163374,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/5FPdwD2bN2dhamXq48ahzk"
@@ -4300,7 +4300,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 170182,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/7wDAgMa0JFVHQ4Zplb7EsA"
@@ -4552,7 +4552,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 122628,
       "name": "Oratorio",
       "url": "https://open.spotify.com/track/0szJMi1UBk6b5SftVSvWYW"
@@ -4902,7 +4902,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 174105,
       "name": "Preludio, Op. 26",
       "url": "https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D"
@@ -5226,7 +5226,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 281000,
       "name": "Rosales",
       "url": "https://open.spotify.com/track/2LLDiGysmlUcfzuvjruvOM"
@@ -5316,7 +5316,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 112736,
       "name": "San Sebastian",
       "url": "https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV"
@@ -5370,7 +5370,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 137652,
       "name": "Saramjan",
       "url": "https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306"
@@ -5568,7 +5568,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 100073,
       "name": "Silver Rain",
       "url": "https://open.spotify.com/track/2cdQ3ro104pXdRecdTdcAT"
@@ -5644,6 +5644,24 @@
       "duration_ms": 135464,
       "name": "Slowmood",
       "url": "https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB"
+    },
+    {
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH"
+      },
+      "artists": [
+        {
+          "name": "Maitre",
+          "url": "https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125596,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj"
     },
     {
       "album": {
@@ -6155,6 +6173,24 @@
     },
     {
       "album": {
+        "name": "Ten Eyck",
+        "url": "https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Agusti",
+          "url": "https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140296,
+      "name": "Ten Eyck",
+      "url": "https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L"
+    },
+    {
+      "album": {
         "name": "The Bird's Nest",
         "url": "https://open.spotify.com/album/1rFbbm5Ms87iwZR8gVgkUw"
       },
@@ -6490,7 +6526,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 133357,
       "name": "Traveling Sunset",
       "url": "https://open.spotify.com/track/5yf5lrd0n9SUGyrEDoGb1I"
@@ -6562,7 +6598,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 145197,
       "name": "Two Years of Solitude",
       "url": "https://open.spotify.com/track/5xjHdFsOlRgdnu6RJTqpwV"
@@ -6634,7 +6670,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 135627,
       "name": "Une Nuit",
       "url": "https://open.spotify.com/track/09T323x1FlNP0pgJd9Ryxd"
@@ -7070,7 +7106,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 209967,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA"

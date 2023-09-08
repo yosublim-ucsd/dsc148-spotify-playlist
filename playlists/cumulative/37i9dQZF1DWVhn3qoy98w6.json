@@ -21190,7 +21190,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 176840,
       "name": "in_feliz",
       "url": "https://open.spotify.com/track/0eFmoRtES7KFkLySsH1kwB"
@@ -24864,6 +24864,24 @@
       "duration_ms": 242972,
       "name": "Llegas Siempre Tarde",
       "url": "https://open.spotify.com/track/0n4b5DChUj20XQKTgNKNxd"
+    },
+    {
+      "album": {
+        "name": "Llimona i Sal",
+        "url": "https://open.spotify.com/album/0ZtrU0nG09P3G2O3iOKjdF"
+      },
+      "artists": [
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/3JICTczF91kSDOWTssDEtz"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171580,
+      "name": "Llimona i Sal",
+      "url": "https://open.spotify.com/track/3Ua3IDrScL3m8bXy73wu0m"
     },
     {
       "album": {

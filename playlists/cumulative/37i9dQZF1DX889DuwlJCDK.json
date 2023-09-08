@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 264640,
       "name": "Life Is Good",
       "url": "https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO"
@@ -2378,6 +2378,24 @@
       "duration_ms": 251142,
       "name": "\u4eca\u591c2\u4eba\u3060\u3051\u306e\u30c0\u30f3\u30b9\u3092",
       "url": "https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY"
+    },
+    {
+      "album": {
+        "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u3066\u3001\u98db\u3093\u3060\u30d0\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4lx6wgb1j0KwJSlbWn6yEg"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216005,
+      "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u3066\u3001\u98db\u3093\u3060\u30d0\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5zY4faVL5mefzyO4HSBHoc"
     },
     {
       "album": {

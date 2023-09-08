@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Timbaland, Nelly Furtado & Justin Timberlake, The Tragically Hip, Kylie Minogue and JID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,312 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,357 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 |
 | 101 | [The Good Ones](https://open.spotify.com/track/7vM8sXXq7LSqJ0eqhDeAap) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [The Good Ones](https://open.spotify.com/album/18g7rYYWbSumuFmbXakgon) | 3:37 |
 
-Snapshot ID: `MCwxYjAxZWJmYzhiNzJmOGFkYTNmZDg4NTViNWRmMDVlZjM3MGVkMDY0`
+Snapshot ID: `MCxmYzY5ZWUyNTYwZTQxODUwMTkzYmY5ZGQ1YWU0Y2E3YTI1YjkxOGI5`

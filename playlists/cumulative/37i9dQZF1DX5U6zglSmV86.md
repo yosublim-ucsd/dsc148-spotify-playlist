@@ -4,7 +4,7 @@
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-66 songs - 4 hr 15 min
+67 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Corren Con Suerte](https://open.spotify.com/track/4SevDviTh0QWWXMQz3JJYe) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Exitos](https://open.spotify.com/album/6HSQrTCUWwwv8HHIJkMHvD) | 3:58 | 2023-08-04 |  |
 | [Cypher](https://open.spotify.com/track/3Er5VEk7QKeRkO5ThxVNbU) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Cypher](https://open.spotify.com/album/0rzIr66tetyEnqVL7Ypkrc) | 2:22 | 2023-08-04 |  |
 | [Cállese](https://open.spotify.com/track/360mOrU0yolwXKY8z2uEaE) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mixtape Rich Vagos](https://open.spotify.com/album/6Md2vrD9ioekgr6GmzF5ce) | 4:57 | 2023-08-04 |  |
+| [De Abajo Pa'rriba](https://open.spotify.com/track/6PjZKJvXhZcyBKSX0kNa7R) | [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V), [Farock](https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2) | [De Abajo Pa'rriba](https://open.spotify.com/album/2xQWLcU7XkscadXAhDmbJl) | 3:20 | 2023-09-08 |  |
 | [Derrochando Estilo](https://open.spotify.com/track/4I98VytVQXNTScYphARAGH) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Derrochando Estilo](https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt) | 2:47 | 2023-08-04 |  |
 | [El Diablo Anda Suelto](https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 6:20 | 2023-08-04 |  |
 | [El Largo V1](https://open.spotify.com/track/4iBgsgrNa1V6rdEkxrD5Vq) | [El Borrado M](https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U) | [El Largo V1](https://open.spotify.com/album/2glwuU6kbHaFzKuNU5J9wv) | 3:20 | 2023-08-04 |  |
@@ -48,7 +49,7 @@
 | [Muerto](https://open.spotify.com/track/2KgVqNSNzrso4bqyVQCWq9) | [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt), [Dyce Payso](https://open.spotify.com/artist/2m1Dl2eo3Lg9z1fB7j5Hin) | [Muerto](https://open.spotify.com/album/0eighnLpx6AXP4R5ADEEHB) | 3:50 | 2023-08-04 |  |
 | [México Bélico](https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [México Bélico](https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq) | 4:06 | 2023-08-04 |  |
 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 | 2023-08-04 |  |
-| [No Cambio](https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ) | [Mudo Beats](https://open.spotify.com/artist/1TDWRnXFEYnOO4gUn1ZXN1), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [No Cambio](https://open.spotify.com/album/57mBr7meCLPPOVv7bS4WEU) | 5:30 | 2023-08-04 |  |
+| [No Cambio](https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ) | [Mudo Beats](https://open.spotify.com/artist/1TDWRnXFEYnOO4gUn1ZXN1), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Vizual Dealer](https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY) | [No Cambio](https://open.spotify.com/album/57mBr7meCLPPOVv7bS4WEU) | 5:30 | 2023-08-04 |  |
 | [Nos Van a Conocer](https://open.spotify.com/track/1XcODam3aq5Zs70GFXlhei) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Char MX](https://open.spotify.com/artist/4iE0sXv3Oyfskggb2BKjnW), [Kambu](https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ) | [Nos Van a Conocer](https://open.spotify.com/album/3iXBS3JlOxBn65Q1uBTvLc) | 3:12 | 2023-08-04 |  |
 | [Otra Bala](https://open.spotify.com/track/6aSyWYtMLf7S3XyOkZPvbo) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Otra Bala](https://open.spotify.com/album/3wXuxf14i0TeW7XUy01Xgu) | 3:08 | 2023-08-04 |  |
 | [Pa Arriba](https://open.spotify.com/track/7eQMkuflKhCY1MDHriexeo) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug) | [Pa Arriba](https://open.spotify.com/album/2rXzKNVYlPsgEN4yYUVy33) | 2:58 | 2023-08-04 |  |

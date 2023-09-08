@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-691 songs - 20 hr 33 min
+693 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Duckling Pond](https://open.spotify.com/track/5fVqhJB4ZbWVEyqF6HRvi6) | [Stella Yates](https://open.spotify.com/artist/6xZjY0L72ACJ8Rjo0HcOEc) | [Duckling Pond](https://open.spotify.com/album/4bCYvKyWrXySYyp9ildEQ9) | 2:04 | 2021-10-05 | 2022-10-29 |
 | [Early in the morning](https://open.spotify.com/track/2VCNBuJor5UVnwomVvBpwk) | [Jeb Lucky](https://open.spotify.com/artist/1sHdqBnwuUJSz1fef6Jk0E) | [Early in the morning](https://open.spotify.com/album/6Ec37wWRMzqhSMAAHcTHTC) | 1:41 | 2021-10-05 | 2023-02-25 |
 | [Edelweiss](https://open.spotify.com/track/5VqYIR8jiqFaMkXmXMvY2P) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Edelweiss](https://open.spotify.com/album/3XmoG1qMCD7ma5bAMPmU5a) | 1:32 | 2022-02-10 |  |
+| [Eden's Grass](https://open.spotify.com/track/0DBFljDvAjeIStakv8HASX) | [The Piano Hive](https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7) | [Eden's Grass](https://open.spotify.com/album/2ZRy5reecRQg9hfQCFJNmJ) | 1:32 | 2023-09-08 |  |
 | [Eeny Meeny Miny Moe](https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 0:57 | 2021-10-05 | 2022-03-18 |
 | [Ein Lied für meine Kinder](https://open.spotify.com/track/7jsJTp8LeuZP0o60q2QSSA) | [Tim Wiederling](https://open.spotify.com/artist/7rp8SaTYgMbC3W9B9Szwzv) | [Ein Lied für meine Kinder](https://open.spotify.com/album/7yXU53g8Uq4kNmSa7uj16O) | 1:50 | 2021-10-05 | 2022-12-16 |
 | [Ekorrn satt i granen](https://open.spotify.com/track/1crww54xNuKD1FxEOFWTBI) | [Astrid Helmersson](https://open.spotify.com/artist/6ihMgJ0IMPhnvTknTlUkI3) | [Mina barndomsfavoriter](https://open.spotify.com/album/44Pk9Ztwui4F4DDtqY7mgC) | 1:20 | 2021-10-05 | 2022-10-29 |
@@ -258,7 +259,7 @@
 | [How It Was Supposed To Be](https://open.spotify.com/track/7y39ldlFRK27CYlYM2kIy5) | [Stanley Roth](https://open.spotify.com/artist/2Fhp37XLUy07ghDlap2h7O) | [How It Was Supposed To Be](https://open.spotify.com/album/6nXaOSyRzfPnlVXRV57LBe) | 2:14 | 2021-10-05 | 2022-09-03 |
 | [How Lucky I Am](https://open.spotify.com/track/40FNjB66GuQn0X9amaFg3c) | [Sally Mosley](https://open.spotify.com/artist/295JYYcySsKgR1bbi5QQGC) | [How Lucky I Am](https://open.spotify.com/album/7ukY8WjDFEuXmTPAtzcA0t) | 2:05 | 2021-10-05 | 2022-11-19 |
 | [How to Catch a Star](https://open.spotify.com/track/2ODvQsWsSIyVbYnIxU52ng) | [Gus Holley](https://open.spotify.com/artist/3HY0QaaJZYvuIeZ6lmKzcM) | [How to Catch a Star](https://open.spotify.com/album/4lzH3KsEo76eAngPQ5b26q) | 1:59 | 2021-10-05 |  |
-| [Hubert, the magic dog](https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Hubert, the magic dog](https://open.spotify.com/album/3n9jKccSiibP9CQlUIWgPm) | 1:24 | 2021-10-05 |  |
+| [Hubert, the magic dog](https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Hubert, the magic dog](https://open.spotify.com/album/3n9jKccSiibP9CQlUIWgPm) | 1:24 | 2021-10-05 | 2023-09-08 |
 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 | 2023-08-10 |  |
 | [Humpty Dumpty](https://open.spotify.com/track/5YtkuqzGtGMxxmHI7lwu8X) | [Prosper Harland](https://open.spotify.com/artist/4BQgplBqqabnALZP6eciPw) | [Humpty Dumpty](https://open.spotify.com/album/2ppKJjyJYrFZ1hNRlWCrzb) | 1:52 | 2021-10-05 | 2022-11-19 |
 | [Humpty Dumpty](https://open.spotify.com/track/4MQtNTRVapyWkyKmL8Uy1M) | [Scarlet Sutton](https://open.spotify.com/artist/3uBIlLw3btitlfBAH34Hif) | [Humpty Dumpty](https://open.spotify.com/album/17Fo4tx58tyz7khFwtsk45) | 1:19 | 2023-03-24 |  |
@@ -307,6 +308,7 @@
 | [Just Like Me](https://open.spotify.com/track/2TOV8spBHF1pi95onCYeEd) | [Nataliya Fowler](https://open.spotify.com/artist/1tiCCBYfrrB1loQSAZ42lU) | [Just Like Me](https://open.spotify.com/album/2oqH180f2j8z1mhbZhQJme) | 1:54 | 2022-11-18 |  |
 | [Justin the Beaver](https://open.spotify.com/track/4safcdBF55tnJAeH66jF91) | [Laryn Rose](https://open.spotify.com/artist/0EHo1BTkMpOwGrqS6wZmgU) | [Justin the Beaver](https://open.spotify.com/album/0Cp2161Vv9LU02zCfJNMUJ) | 1:29 | 2021-10-05 |  |
 | [Kaninvisan](https://open.spotify.com/track/3Fauu3cPoiqBOXu8ThM0kx) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Kaninvisan](https://open.spotify.com/album/36l1v5tjtGzmUhuaHb2g4k) | 1:07 | 2022-11-18 | 2023-06-16 |
+| [Karen The Kangaroo](https://open.spotify.com/track/4uvQn1mLKqkGlrVNmd4Sd8) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [Karen The Kangaroo](https://open.spotify.com/album/29DLEV261Y1nETEOwtiuHb) | 1:21 | 2023-09-08 |  |
 | [Keep Me Sweet](https://open.spotify.com/track/3wNLxD1ZjPC2oiw5EM8RYX) | [Marsha Wert](https://open.spotify.com/artist/1jbgOY8j0JxOoITv62DQDC) | [Keep Me Sweet](https://open.spotify.com/album/3afhPHeKfTFZmQ7xnMSGXm) | 2:09 | 2022-04-20 |  |
 | [Kiss me Goodnight](https://open.spotify.com/track/7r6vIjEUAMztCrjyZnbyKO) | [Eja Bergelin](https://open.spotify.com/artist/4wZnTEHFsSwqUmu8dLzD2X) | [Kiss Me Goodnight](https://open.spotify.com/album/5R6Qbo4v8pHSNJuzPkpqWE) | 1:54 | 2023-02-25 |  |
 | [Kiss You Goodnight](https://open.spotify.com/track/1ZuOeqpqAIqcdxfowht9QX) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Kiss You Goodnight](https://open.spotify.com/album/6PE25BiIXgQZPL7gxFDhJR) | 2:13 | 2022-07-27 |  |
@@ -390,7 +392,7 @@
 | [Moonbow](https://open.spotify.com/track/62VAuiIgII0GfFfY20aX38) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Moonbow](https://open.spotify.com/album/5y3ofx6Gc8nHKnMuJMZe3M) | 1:59 | 2023-03-10 |  |
 | [Moonflight](https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Moonflight](https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2) | 1:40 | 2023-08-10 |  |
 | [Moonlight Song](https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Moonlight Song](https://open.spotify.com/album/3IxrV08Irf96q0d7FL9W7d) | 1:46 | 2023-08-24 |  |
-| [Mors lilla Olle](https://open.spotify.com/track/1i8LQzvz0N8hO55lVGgGdf) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [London Bridge](https://open.spotify.com/album/0reqTcURfy5hVfO0GlEJbH) | 1:10 | 2022-12-16 |  |
+| [Mors lilla Olle](https://open.spotify.com/track/1i8LQzvz0N8hO55lVGgGdf) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [London Bridge](https://open.spotify.com/album/0reqTcURfy5hVfO0GlEJbH) | 1:10 | 2022-12-16 | 2023-09-08 |
 | [Mother Goose](https://open.spotify.com/track/1ZOWHiKOpJoZZM5ccVYGjj) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Mother Goose](https://open.spotify.com/album/4A1pcvNFojNbbThb5mNNq4) | 1:36 | 2023-06-08 |  |
 | [Mój Anioł](https://open.spotify.com/track/6vuyQpRo2hobQiVXfYrhBl) | [Jolanda Novak](https://open.spotify.com/artist/12Jx6Bt5MqHJS4AtWJl6JB) | [Mój Anioł](https://open.spotify.com/album/5DjpUSAvFfIwZcuNWNHwbf) | 1:37 | 2021-10-05 | 2022-11-19 |
 | [Mr\. Cat](https://open.spotify.com/track/4eIZdb7KkPKcXhmWimNTE1) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Mr\. Cat](https://open.spotify.com/album/2wzOOWuEcaYrpkLQWX3bMy) | 2:00 | 2021-10-05 | 2022-10-29 |
@@ -408,7 +410,7 @@
 | [My Father's Moustache](https://open.spotify.com/track/1S9rM3P1dS8MHoPqmjVFsa) | [Heidi Fannon](https://open.spotify.com/artist/0dRTdF3HiuvvgrqPkXuQLf) | [My Father's Moustache](https://open.spotify.com/album/4pCz6Um63HoCutljPnTMl0) | 1:27 | 2023-02-25 |  |
 | [My Hands Are Full](https://open.spotify.com/track/3QK3U0Sdj7FN6XIRENzYm6) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [How Great Thou Art](https://open.spotify.com/album/5bnQkj7VikbCOQ2q33CgVO) | 2:02 | 2023-06-22 |  |
 | [My Hiding Place](https://open.spotify.com/track/4HITXC8xC7O7i014CXIDVb) | [Jouni Holkeri](https://open.spotify.com/artist/4ibMmdzDdJ22R2ERJTXSOL) | [My Hiding Place](https://open.spotify.com/album/0mpI5YYttyvSLMnasHmxSa) | 1:38 | 2022-11-18 |  |
-| [My Island](https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [My Island](https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW) | 1:25 | 2021-10-05 |  |
+| [My Island](https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [My Island](https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW) | 1:25 | 2021-10-05 | 2023-09-08 |
 | [My Little Darling](https://open.spotify.com/track/3KmqJWiEBlF6RTwGPCSEZu) | [Maja Bjorn](https://open.spotify.com/artist/0V6p3SK5AzelA8avqjw87q) | [My Little Darling](https://open.spotify.com/album/1rU7f3e4LmNOFgKArebazq) | 1:28 | 2022-07-27 |  |
 | [My little Star](https://open.spotify.com/track/5dwlcntGZxSn4rCr5c5aZS) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [My little Star](https://open.spotify.com/album/0LegDUh60RjpLkNp0QgKi9) | 1:34 | 2023-05-05 |  |
 | [My Pink Baloon](https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [My Pink Baloon](https://open.spotify.com/album/1LeFmlbaMfz6i9nNEgfqh6) | 1:35 | 2023-01-27 |  |
@@ -446,7 +448,7 @@
 | [Once Upon](https://open.spotify.com/track/2rfou3j13jIXEBvWoRRN60) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Once Upon](https://open.spotify.com/album/0nYLfxU39Hx9ArHkvZaklt) | 1:09 | 2023-04-07 |  |
 | [One Little Elephant](https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [One Little Elephant](https://open.spotify.com/album/3U1Xww56QKp1FKW4ZfLccv) | 1:22 | 2023-06-15 |  |
 | [One Of A Kind](https://open.spotify.com/track/0dgkwzWUtsVvwAoJXOVUP1) | [Hashim Reese](https://open.spotify.com/artist/42gsXbwEvpqFJ1CrRJkv1h) | [One Of A Kind](https://open.spotify.com/album/4udIJ4PmznmTYAbljWAbll) | 1:18 | 2022-08-10 |  |
-| [Open, Shut Them](https://open.spotify.com/track/65c8jRrH1mxOMbm47H2bT5) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Old MacDonald Had a Farm](https://open.spotify.com/album/14rhsxNAMbwColnxVl43hR) | 1:54 | 2022-07-27 |  |
+| [Open, Shut Them](https://open.spotify.com/track/65c8jRrH1mxOMbm47H2bT5) | [Tom Tilly](https://open.spotify.com/artist/7HPp7WF50ubbdWOHeWqhuc) | [Old MacDonald Had a Farm](https://open.spotify.com/album/14rhsxNAMbwColnxVl43hR) | 1:54 | 2022-07-27 | 2023-09-08 |
 | [Opsis Kalopsis](https://open.spotify.com/track/6mAUs61UZZd5Y2IK5avEUK) | [Petra Mogensen](https://open.spotify.com/artist/6aNZ6GQv8yP3HFmpXtGY5r) | [Opsis Kalopsis](https://open.spotify.com/album/40ZJOOz5dQVA4qsp4OA6ke) | 1:02 | 2023-02-17 |  |
 | [Our Baby \(Piano Version\)](https://open.spotify.com/track/6Wc69YTIhZTREGW75w2VDc) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Our Baby](https://open.spotify.com/album/0ZnzgmLSUMWAC3s9AGw3TX) | 1:45 | 2022-06-08 |  |
 | [Over The Moon](https://open.spotify.com/track/76uTqyHnM2QeuQRH45nN60) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Over The Moon](https://open.spotify.com/album/1KRXc6Syep1qAIENwFJjvC) | 1:41 | 2023-06-02 |  |

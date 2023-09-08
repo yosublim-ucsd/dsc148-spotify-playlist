@@ -4,7 +4,7 @@
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Las Sexpeares.
 
-2,749 songs - 6 day 0 hr 34 min
+2,750 songs - 6 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1121,7 +1121,7 @@
 | [Imaginar](https://open.spotify.com/track/4O8zQETf01vrCVlWOEHHDR) | [Sinestesia](https://open.spotify.com/artist/5p4TrwDQQcCgNpTXYLlzr9), [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Imaginar](https://open.spotify.com/album/7ruWyHSNBgkPc0jeygkR56) | 3:30 | 2023-01-17 | 2023-01-25 |
 | [Impacto](https://open.spotify.com/track/3SquYUykL6qEOOv7WHvdJG) | [Victoria Lerma](https://open.spotify.com/artist/0k6LayErsqG0p2pgWUmBsF) | [Impacto](https://open.spotify.com/album/0VAESMixy33JBqjcbcFVBJ) | 5:31 | 2022-04-19 | 2022-04-27 |
 | [In the Void](https://open.spotify.com/track/6xb1Ci1MwDvADgw1iqHqqJ) | [Furious Monkey House](https://open.spotify.com/artist/4u8LHuDsbX6iiVdAgG2Kq9) | [In the Void](https://open.spotify.com/album/7iQAuJ1mJMlR6FgdP38sLq) | 3:43 | 2023-01-24 | 2023-02-08 |
-| [in\_feliz](https://open.spotify.com/track/0eFmoRtES7KFkLySsH1kwB) | [Marito](https://open.spotify.com/artist/4ceCJzNmVOTsXKwtU3Vypb) | [in\_feliz](https://open.spotify.com/album/0bJFq34qBXrz6CDJ2kDE3R) | 2:56 | 2023-08-29 |  |
+| [in\_feliz](https://open.spotify.com/track/0eFmoRtES7KFkLySsH1kwB) | [Marito](https://open.spotify.com/artist/4ceCJzNmVOTsXKwtU3Vypb) | [in\_feliz](https://open.spotify.com/album/0bJFq34qBXrz6CDJ2kDE3R) | 2:56 | 2023-08-29 | 2023-09-08 |
 | [Incendio](https://open.spotify.com/track/662HK9Y4QNgllJyLgjsmp3) | [Cuchillas](https://open.spotify.com/artist/1ijMSVBbWChLbwqGPM5ye8) | [Incendio](https://open.spotify.com/album/0Ml6rdX8Oz0dp2SexNafy4) | 2:46 | 2022-09-27 | 2022-10-06 |
 | [Incendio](https://open.spotify.com/track/5ioHMlRdkZ8tEsTQYxAN7E) | [Rayotaser](https://open.spotify.com/artist/3RsgNEOhNLBPaFb2kJ3jmL) | [Incendio](https://open.spotify.com/album/1y28e6RwIQuHqQ1kDJPsTU) | 4:30 | 2022-11-15 | 2022-11-23 |
 | [Incondicional](https://open.spotify.com/track/46eHcaS9ScU06SzmHO2rTq) | [Aliment](https://open.spotify.com/artist/0Igzy0wlOGrmOWsVsWHtX3) | [Incondicional](https://open.spotify.com/album/7vnYdI7c3WCXvNIW3DxAdL) | 1:51 | 2022-11-15 | 2022-11-23 |
@@ -1317,6 +1317,7 @@
 | [Llamándome en Oculto](https://open.spotify.com/track/4mClJDPTEEbdjxzxgBSBe0) | [Vaho](https://open.spotify.com/artist/6JmWO5NtRuHGpSI2HfFIA9) | [Llamándome en Oculto](https://open.spotify.com/album/46fGb3QRkZItw3jAlhjyaF) | 3:07 | 2023-04-04 | 2023-04-12 |
 | [Llegan ya las danzas](https://open.spotify.com/track/3NxjHA3an1TAtXsdx9pe4F) | [Karmento](https://open.spotify.com/artist/5QcmgtNbUfqgAOgj7XRRZF), [Idoipe](https://open.spotify.com/artist/6fQf8huuC5Obj3dpGxppug) | [Llegan ya las danzas](https://open.spotify.com/album/2XjwwAn9Wwe4Udl7CSovHt) | 4:15 | 2022-03-15 | 2022-03-23 |
 | [Llegas Siempre Tarde](https://open.spotify.com/track/0n4b5DChUj20XQKTgNKNxd) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Nuevo Para Nadie](https://open.spotify.com/album/32u37EltoyPS2WrhRxLghT) | 4:02 | 2023-05-16 | 2023-05-24 |
+| [Llimona i Sal](https://open.spotify.com/track/3Ua3IDrScL3m8bXy73wu0m) | [Coco](https://open.spotify.com/artist/3JICTczF91kSDOWTssDEtz) | [Llimona i Sal](https://open.spotify.com/album/0ZtrU0nG09P3G2O3iOKjdF) | 2:51 | 2023-09-07 |  |
 | [LLORALOYYASTA](https://open.spotify.com/track/78U4QrSawd88vAJuI0vO5S) | [NAILUJ](https://open.spotify.com/artist/32MH2OPhNbwaoZSdwN8Nrs), [Tuiste](https://open.spotify.com/artist/2424UWyMGC1pk1812oRD3q) | [LLORALOYYASTA](https://open.spotify.com/album/3dAsoKRyoRnAjQANftQJWM) | 3:20 | 2023-02-07 | 2023-02-15 |
 | [Llorando por ti](https://open.spotify.com/track/1qqR4Aw4DFFtxvswXGxAFA) | [Rayotaser](https://open.spotify.com/artist/3RsgNEOhNLBPaFb2kJ3jmL) | [Incendio](https://open.spotify.com/album/0ZPD20T5wyLzs6RE4rBJFD) | 3:36 | 2023-01-03 | 2023-01-11 |
 | [Llorando por Toda la Ciudad \- BSO La Amiga De Mi Amiga](https://open.spotify.com/track/4olDeTx5QvbU67r3GtvfpT) | [Masoniería](https://open.spotify.com/artist/1UbMj4wG1Mu9Aow0jxclpU) | [Llorando por Toda la Ciudad \(BSO La Amiga De Mi Amiga\)](https://open.spotify.com/album/5ej1ZTlc0SUBQTtb4kLlyN) | 2:09 | 2022-05-03 | 2022-05-18 |

@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 564171,
+  "num_followers": 565574,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njc5MTc1NTJiNjdmZTg0NTc5NjhiM2IzNTU1NGU1YzNjN2E0YWUw",
+  "snapshot_id": "MCw4MmIzMWRhY2Q4NGE1ZTk4MjlkYjIyZmZjYjRhZDE1NTFjMGExZjYz",
   "tracks": [
     {
       "added_at": "2023-09-06 17:53:17",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "SHOTGUN",
-        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
-      },
-      "artists": [
-        {
-          "name": "SXULCVTCHER",
-          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "SHOTGUN",
-      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
         "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 157407,
       "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
       "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "SHOTGUN",
+        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
+      },
+      "artists": [
+        {
+          "name": "SXULCVTCHER",
+          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "SHOTGUN",
+      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
     },
     {
       "added_at": "2023-08-22 17:55:57",

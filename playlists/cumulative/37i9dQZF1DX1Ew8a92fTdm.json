@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Night Night",
+        "url": "https://open.spotify.com/album/7aCxEylSl7Tw85xXr0ggTE"
+      },
+      "artists": [
+        {
+          "name": "Lady Lou Lullabies",
+          "url": "https://open.spotify.com/artist/5uwcJi6f4dZ5RDoStZKur0"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131842,
+      "name": "foambeard",
+      "url": "https://open.spotify.com/track/5cgaOEkAcZOOGro5BDMojS"
+    },
+    {
+      "album": {
         "name": "Giver of All Dreams",
         "url": "https://open.spotify.com/album/2QowJgu3GkclkMVYNsdKeV"
       },
@@ -2669,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Rainbow Magic (MusicBox)",
+        "url": "https://open.spotify.com/album/46CnGj2wgurkTi1296mHkJ"
+      },
+      "artists": [
+        {
+          "name": "Green Dino",
+          "url": "https://open.spotify.com/artist/7MVCEO6QGAHj3KIIQplBpl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75758,
+      "name": "Rainbow Magic (MusicBox)",
+      "url": "https://open.spotify.com/track/2E2WRDAuy294S4AFvpgi5T"
+    },
+    {
+      "album": {
         "name": "Rainbow To Dreamland",
         "url": "https://open.spotify.com/album/6aq1AT8aJJtWGMpA3z5ICN"
       },
@@ -3206,6 +3242,24 @@
       "duration_ms": 79281,
       "name": "Sunset Dreams",
       "url": "https://open.spotify.com/track/1Xz6iQJctwyQqrsW7xUb7o"
+    },
+    {
+      "album": {
+        "name": "Sunshine Symphony",
+        "url": "https://open.spotify.com/album/3Hb2bBbFbhnWQavn99YR0c"
+      },
+      "artists": [
+        {
+          "name": "Elmer Kask",
+          "url": "https://open.spotify.com/artist/4mSdgNX5rXaRTWoVCMxIcR"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84879,
+      "name": "Sunshine Symphony",
+      "url": "https://open.spotify.com/track/1EugQp3Dr9Fl6zuUiHw0v7"
     },
     {
       "album": {

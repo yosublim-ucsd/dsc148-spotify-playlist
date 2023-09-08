@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -596,6 +596,24 @@
       "duration_ms": 160053,
       "name": "Comme mon ex",
       "url": "https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr"
+    },
+    {
+      "album": {
+        "name": "Comme toi (Acoustique)",
+        "url": "https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Comme toi (Acoustique)",
+      "url": "https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX"
     },
     {
       "album": {
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 163759,
       "name": "Recommencer",
       "url": "https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF"
@@ -3308,6 +3326,24 @@
       "duration_ms": 184000,
       "name": "VIBESTARS #6",
       "url": "https://open.spotify.com/track/3GHI1jhIgtflWj1zBcAKQw"
+    },
+    {
+      "album": {
+        "name": "Vizion",
+        "url": "https://open.spotify.com/album/0XfBtZt0fTT4VFUI8n4I90"
+      },
+      "artists": [
+        {
+          "name": "$hiro",
+          "url": "https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136336,
+      "name": "Vizion",
+      "url": "https://open.spotify.com/track/5uOGBgJyCuqbkba18YhWRv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 
 > Progressive beats and harmonies for the late hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,914 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,915 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 11 | [By Design](https://open.spotify.com/track/4HltUhQXotO1Hzkrl5eKIo) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 5:27 |
 | 12 | [Yipee](https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Yipee](https://open.spotify.com/album/65f6s3zvSKgc39bx0IsDJD) | 2:16 |
 | 13 | [Lilacs and Lavender](https://open.spotify.com/track/4WsLYVWERMCNObFkvGX1Xw) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Lilacs and Lavender](https://open.spotify.com/album/1xiF0LzadehsKiaZrgfftA) | 4:03 |
-| 14 | [Out of the Ruins](https://open.spotify.com/track/19Ee1c0ftZA4LZuv4OM0vu) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK) | [The Sounds of Afrotronica](https://open.spotify.com/album/0NP9PKuMhqFWiVl6fpZlKI) | 4:12 |
+| 14 | [Out of the Ruins](https://open.spotify.com/track/19Ee1c0ftZA4LZuv4OM0vu) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn) | [The Sounds of Afrotronica](https://open.spotify.com/album/0NP9PKuMhqFWiVl6fpZlKI) | 4:12 |
 | 15 | [Return of the Sky](https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Return of the Sky](https://open.spotify.com/album/7ov4GzQl5hpq92O1ySXEO1) | 3:23 |
 | 16 | [Sweeter Days](https://open.spotify.com/track/7x25qfwpBHPAC7KGdqCajs) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV), [Max Grosch](https://open.spotify.com/artist/0X1RP5ySRsivyk8hHu1P1i) | [Sweeter Days](https://open.spotify.com/album/0NLgkMRXJ1SKavqvbF6GZb) | 7:35 |
 | 17 | [Emerald](https://open.spotify.com/track/5i2ORDSjopZBHdQjp7LCQ9) | [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [The Saga III](https://open.spotify.com/album/0yOiIHuf1YLYZutTy7nYjk) | 3:12 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw3WHPsIeEB.md) - [plain]
 | 52 | [Jusqu'ici tout va bien](https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Jusqu'ici tout va bien](https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT) | 3:26 |
 | 53 | [Miles Deep](https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Miles Deep](https://open.spotify.com/album/1eyG2lpsmDFIfPAXXZuP7z) | 6:29 |
 
-Snapshot ID: `MCw2NzgzMmMwNzMzOWU1NmJmZjhhNWQ5NzJmY2UxZjEyNWQ2YTMyMjk5`
+Snapshot ID: `MCw2OWVkYTY1MjUxZDRiYmQ2ZTEzZjQxMjEzODhkOWVhMWQxYzMyYzAz`

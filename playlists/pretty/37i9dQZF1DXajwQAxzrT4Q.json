@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 63308,
+  "num_followers": 63402,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzRlMWNmMTY5ZmY0M2QzYTIzMmMwNTkyZjUzN2NmYjFkODI4NGU5",
+  "snapshot_id": "MCwyMmFkYTgwODA2OTBmNDQwZTRiOTVmMGU1ZGVkNjg4Y2FlODY0MmQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 19:32:49",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "Anxious",
-        "url": "https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 121306,
-      "name": "Anxious",
-      "url": "https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
         "name": "The 90s Lied To Us",
         "url": "https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 103781,
       "name": "The 90s Lied To Us",
       "url": "https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 121306,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM"
     },
     {
       "added_at": "2023-09-01 19:32:49",

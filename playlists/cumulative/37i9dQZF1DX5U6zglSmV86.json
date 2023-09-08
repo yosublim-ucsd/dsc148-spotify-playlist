@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "De Abajo Pa'rriba",
+        "url": "https://open.spotify.com/album/2xQWLcU7XkscadXAhDmbJl"
+      },
+      "artists": [
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        },
+        {
+          "name": "Farock",
+          "url": "https://open.spotify.com/artist/68ozuRzjeeZGbKPU9b1nb2"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "De Abajo Pa'rriba",
+      "url": "https://open.spotify.com/track/6PjZKJvXhZcyBKSX0kNa7R"
+    },
+    {
+      "album": {
         "name": "Derrochando Estilo",
         "url": "https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt"
       },
@@ -900,6 +922,10 @@
         {
           "name": "Under Side 821",
           "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Vizual Dealer",
+          "url": "https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY"
         }
       ],
       "date_added": "2023-08-04",

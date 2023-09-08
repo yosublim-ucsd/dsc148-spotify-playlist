@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 108187,
       "name": "Congel",
       "url": "https://open.spotify.com/track/1kkVmxtIzzEhvrwAOg9bha"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 136797,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/2gk9WoFm0fbQxEWO6Btm5J"
@@ -3043,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/2rLlb5HAK5vwXc1zqDfcGZ"
+      },
+      "artists": [
+        {
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125129,
+      "name": "emotionally unavailable",
+      "url": "https://open.spotify.com/track/71vPGvp1ANV3iDpA9wFQ0v"
+    },
+    {
+      "album": {
         "name": "Starry",
         "url": "https://open.spotify.com/album/5zn88hI3Kx4f666m3vfDZR"
       },
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 158760,
       "name": "Fast Food",
       "url": "https://open.spotify.com/track/7g0axA5g1WqVhJP06cqnae"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 138000,
       "name": "GIN BASIL SMASH",
       "url": "https://open.spotify.com/track/4Zq8GBwC9oZZNo15i8P5ne"
@@ -6776,7 +6794,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 116959,
       "name": "okay",
       "url": "https://open.spotify.com/track/44TPDKz4AlIMV2pW0cssSW"
@@ -8416,7 +8434,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 110666,
       "name": "Sidewalking",
       "url": "https://open.spotify.com/track/6yQREQuyTj1BcrDfV1i0j4"
@@ -8614,7 +8632,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 157333,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/10yN0Q26IrLbulFZAQFcKT"
@@ -9642,7 +9660,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 176000,
       "name": "The Dubble",
       "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
@@ -10300,7 +10318,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 166829,
       "name": "urban souls",
       "url": "https://open.spotify.com/track/6AQUO1Nblsmz7BW0wvFCgt"

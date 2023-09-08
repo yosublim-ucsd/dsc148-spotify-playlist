@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwf6UlOz1Hs.md) - [plain]
 
 > Featuring Nathy Peluso on Regina's fan curated mixtape\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665 likes - 21 songs - 56 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 671 likes - 21 songs - 56 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwf6UlOz1Hs.md) - [plain]
 | 20 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 |
 | 21 | [Quédate](https://open.spotify.com/track/4jxWAYRsa7Gshx1a1eY3cQ) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Quédate](https://open.spotify.com/album/7an3UboNMfILI1SL0Yopsf) | 3:43 |
 
-Snapshot ID: `MCw3ZTkwZDk5ZTlkYTI2OGNiMDY0M2Q4ZDk2NjUzOTJlODZmMDkxM2Iw`
+Snapshot ID: `MCw0ZjA4YjY1Y2Y2OTQ1ZDFjYzE0MDk5ZDM4NjkwYmNjMTI5NDk5NDJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,694 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,713 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 7 | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/track/6MTfh45Ywrgu1jS27Zd1kn) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Putz Animes \- Vibe Zabuza 2](https://open.spotify.com/album/4gQBNib1VzNA7K3zST5ZUu) | 3:41 |
 | 8 | [Tipo Tobi](https://open.spotify.com/track/45vigZiVUySqgsMXqxhtvp) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Tobi](https://open.spotify.com/album/5ufXwSFcC7e6DcromjzEBc) | 3:24 |
 | 9 | [Tipo Merus](https://open.spotify.com/track/1mGOmr1USqOYEkGKymzmIQ) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Tipo Merus](https://open.spotify.com/album/75LVPBkmocAq32tQhXqG7k) | 3:12 |
-| 10 | [Revisão](https://open.spotify.com/track/3AQIGKFepAlEyMeV1VQVjZ) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/03SB4h85dE0paMinzDBIbO) | 4:35 |
+| 10 | [Revisão](https://open.spotify.com/track/0yFxPVCoYaZIPDeuntqHpl) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Revisão](https://open.spotify.com/album/2R9JVverYumzwMQAItWkNo) | 4:35 |
 | 11 | [Vibe Zabuza](https://open.spotify.com/track/3HWBHERbMiilhipGquIuuE) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Vibe Zabuza](https://open.spotify.com/album/45rh16gGALDIn93TdurKkg) | 3:35 |
 | 12 | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/track/4suKHiKiIP8uBmYWRBm3l9) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4M15kEp2oeRXUV3UsApUms) | 3:29 |
 | 13 | [Dragon Ball Gang \- TcheloBeats & Zatto Remix](https://open.spotify.com/track/4pH5wh6Nbmz5gvlRMv4nGm) | [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87), [PTKZIN](https://open.spotify.com/artist/3eCFudVzz38UzS7s2L0Map), [VMZ](https://open.spotify.com/artist/1WLZ4aZ98cFqryW57bfQkc), [AKASHI](https://open.spotify.com/artist/6vozzZH9GTSlUBXjRJNgYi), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B), [Zatto](https://open.spotify.com/artist/4lkGiellFSP2r9s9oR9qo4) | [Dragon Ball Gang \(TcheloBeats & Zatto Remix\)](https://open.spotify.com/album/2X7cWG1c9Q33PN6AHLIj3p) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dQ571UG10R.md) - [plain]
 | 49 | [Se Ajoelhe](https://open.spotify.com/track/1xVzfXASMOg5zoBGRoe7in) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Se Ajoelhe](https://open.spotify.com/album/79oJSsNswdXJ1wAH2JB929) | 3:47 |
 | 50 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 |
 
-Snapshot ID: `MCxmMGZkYTc0ZDYyNTczOTIwOGE4ODA3MjgwZTYzZmMyMWE2NDZhNjYy`
+Snapshot ID: `MCxmNTYwM2Q5OGUyNjllN2Y1ZWNlOGQ0Y2JiMWJhMzJiMmY5ZDhkNDI0`

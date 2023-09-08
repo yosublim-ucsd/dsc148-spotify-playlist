@@ -4,7 +4,7 @@
 
 > New music from Doja Cat, Rod Wave and Lil Wayne.
 
-1,754 songs - 3 day 18 hr 39 min
+1,755 songs - 3 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1476,6 +1476,7 @@
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-01-14 | 2022-04-16 |
 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 | 2021-08-04 | 2021-10-23 |
 | [SWAG](https://open.spotify.com/track/2ap9kKsIEiWa4bzsjqACEx) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [SWAG](https://open.spotify.com/album/0n6glbZG9fvHtfx6Gro7dd) | 2:33 | 2020-07-10 | 2020-07-18 |
+| [Swagga Like Us](https://open.spotify.com/track/2kNtAwWATYkqV3CdT20RV0) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 5:27 | 2023-09-07 |  |
 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 | 2022-08-05 | 2022-08-13 |
 | [Sweet Thangs](https://open.spotify.com/track/1Qesfmh8w3AOTSY0MPYcoX) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Sweet Thangs](https://open.spotify.com/album/509xyVscMAudxAu0oP4wSw) | 2:50 | 2019-06-07 | 2019-06-14 |
 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 | 2019-05-26\* | 2019-07-06 |

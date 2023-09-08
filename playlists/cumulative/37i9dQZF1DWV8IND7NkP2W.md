@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-651 songs - 1 day 5 hr 17 min
+652 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [Sous les étoiles](https://open.spotify.com/track/2VGD6dKxBoh6Yq94XTidZg) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Sous les étoiles](https://open.spotify.com/album/0U29rwwf7QYM3vJIKeZCqj) | 1:38 | 2022-01-13 | 2022-05-27 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-13 |  |
 | [SPHERE](https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPHERE](https://open.spotify.com/album/5zpSPICBYaR5EX73CtD2a1) | 1:39 | 2022-09-22 | 2022-11-09 |
-| [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 |  |
+| [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 | 2023-09-08 |
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 |  |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 | 2023-06-18 |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |
@@ -628,6 +628,7 @@
 | [Water lily](https://open.spotify.com/track/1uYPMrxNN1SaB6sRjdWBYL) | [STUDIO75](https://open.spotify.com/artist/426lQwhWajxrxgvl7BRSiH) | [SHAMROCK vol1](https://open.spotify.com/album/00M1JNgdlJOYjgz1p68lCY) | 1:30 | 2021-12-23 | 2022-07-27 |
 | [Watermelon](https://open.spotify.com/track/0TvOd8xIdLDskPEgrpb0XF) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Watermelon](https://open.spotify.com/album/1mt3jX9uZ0t7o6hWzeQBko) | 2:24 | 2022-07-28 | 2022-11-13 |
 | [Watermelon](https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:24 | 2022-10-13 |  |
+| [Waves](https://open.spotify.com/track/6eW8UXV98NOJsh8GCHYgnh) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Waves](https://open.spotify.com/album/21YqhQilkmREX9RKUCCPSs) | 2:13 | 2023-09-07 |  |
 | [We Gathered Leaves](https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [We Gathered Leaves](https://open.spotify.com/album/5YRDw5rO8vIUxjtgHqICji) | 1:33 | 2021-12-23 |  |
 | [weather report](https://open.spotify.com/track/6hoLVkgEPTro70Me2pq8RV) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [weather report](https://open.spotify.com/album/6yG2ezI1VnnuqlpX4yOGHB) | 2:40 | 2022-05-26 | 2022-07-26 |
 | [What Is Peace 4 U](https://open.spotify.com/track/3GQSl6DYDVMK1trBd6xZUI) | [45](https://open.spotify.com/artist/7s2An89rlAjaY1HLgeLtHT) | [What Is Peace 4 U](https://open.spotify.com/album/1eNldbRjczJrgg80vWkyfI) | 3:16 | 2022-03-24 | 2022-07-29 |

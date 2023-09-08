@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 345844,
+  "num_followers": 345885,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGFmNDEyZGQ5ZjhlNDgzODIxNTlkNzk1ZGI2YzI2YzBhN2I0MDQw",
+  "snapshot_id": "MCwxMzgxMjIxNGQyZWM3Y2U0NGU2MGFlMmJjMGM2YmM2ZWFkN2YwNWMy",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:35",
@@ -32,7 +32,7 @@
       "added_at": "2023-09-02 00:00:35",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
       "artists": [
         {
@@ -42,7 +42,7 @@
       ],
       "duration_ms": 182111,
       "name": "Chico",
-      "url": "https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO"
+      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Pisadinha",
-        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Pisadinha",
-      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica",
         "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 216933,
       "name": "Quase um Segundo",
       "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Pisadinha",
+        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Pisadinha",
+      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
-        "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Melhor Sozinha - Ao vivo",
-      "url": "https://open.spotify.com/track/1cowom9Hc1knxxzM4ZArnP"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Sangue Latino",
         "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 187934,
       "name": "Sangue Latino",
       "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
+        "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Melhor Sozinha - Ao vivo",
+      "url": "https://open.spotify.com/track/1cowom9Hc1knxxzM4ZArnP"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1071,6 +1071,22 @@
       "duration_ms": 152801,
       "name": "Esse Amor Chegou",
       "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1191,6 +1207,38 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Interessante e Obsceno",
+        "url": "https://open.spotify.com/album/7Bs9HZ3d8sVzIW5WALFIrk"
+      },
+      "artists": [
+        {
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+        }
+      ],
+      "duration_ms": 180125,
+      "name": "N\u00e3o Duvido",
+      "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Serafim",
         "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
       },
@@ -1223,38 +1271,6 @@
       "duration_ms": 178867,
       "name": "desculpe o au\u00ea",
       "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Interessante e Obsceno",
-        "url": "https://open.spotify.com/album/7Bs9HZ3d8sVzIW5WALFIrk"
-      },
-      "artists": [
-        {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
-        }
-      ],
-      "duration_ms": 180125,
-      "name": "N\u00e3o Duvido",
-      "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1295,22 +1311,6 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+        }
+      ],
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Aqui em Casa (Ep 02)",
         "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
-        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Papel Mach\u00ea",
-      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Tua Mania",
+        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
+      },
+      "artists": [
+        {
+          "name": "Jona Poeta",
+          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Tua Mania",
+      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 209590,
       "name": "O La\u00e7o Que Une Eu E Voc\u00ea",
       "url": "https://open.spotify.com/track/4csFBU2C2tupgiKWxeUKTq"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tua Mania",
-        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
-      },
-      "artists": [
-        {
-          "name": "Jona Poeta",
-          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Tua Mania",
-      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
     },
     {
       "added_at": "2023-09-02 00:00:35",

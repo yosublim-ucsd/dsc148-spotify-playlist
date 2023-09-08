@@ -204,10 +204,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 121237,
       "name": "After the Weekend",
       "url": "https://open.spotify.com/track/74Cq9eYAutzUcqQpCTtgqL"
+    },
+    {
+      "album": {
+        "name": "Aldo",
+        "url": "https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131265,
+      "name": "aldo",
+      "url": "https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst"
     },
     {
       "album": {
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 134400,
       "name": "California Sun",
       "url": "https://open.spotify.com/track/6dKese2lywLaaZkSgF5RV8"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 164117,
       "name": "Can We Just Vibe?",
       "url": "https://open.spotify.com/track/0wmr45zDNsSMy9cRgddm4E"
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 134250,
       "name": "Claviator",
       "url": "https://open.spotify.com/track/2QabqGqpBdgPC7JLisqaNU"
@@ -2074,7 +2092,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 137560,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/3GDDKwA1fWyuV1SlUYteUQ"
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 136941,
       "name": "HAVE A GOOD DAY",
       "url": "https://open.spotify.com/track/5NdQMepJCx0N30rJ5fCCDV"
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 121562,
       "name": "Hot Hot Stuff",
       "url": "https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV"
@@ -3782,7 +3800,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 147000,
       "name": "Late Night Jam",
       "url": "https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR"
@@ -3858,6 +3876,24 @@
       "duration_ms": 142000,
       "name": "Lazy Sundays At The Blue Coral",
       "url": "https://open.spotify.com/track/6QhBDlJF7pSy8gicZv0YJA"
+    },
+    {
+      "album": {
+        "name": "Aldo",
+        "url": "https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146204,
+      "name": "left_right",
+      "url": "https://open.spotify.com/track/5wTr5jU2T9JIkvP3TdJNaL"
     },
     {
       "album": {
@@ -4417,6 +4453,24 @@
     },
     {
       "album": {
+        "name": "maskros",
+        "url": "https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183963,
+      "name": "maskros",
+      "url": "https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV"
+    },
+    {
+      "album": {
         "name": "Matal\u00ed",
         "url": "https://open.spotify.com/album/0AYDa7YRH3Zh4jSzKgClEV"
       },
@@ -4544,6 +4598,24 @@
       "duration_ms": 163848,
       "name": "Midnight Set",
       "url": "https://open.spotify.com/track/2SXFyO8D10xlpvKkyGWZrJ"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/1mP62AYCyg7eicascwllt9"
+      },
+      "artists": [
+        {
+          "name": "MLTSMTHNG",
+          "url": "https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135214,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1Cqj266QvBLBNNhRFfupDj"
     },
     {
       "album": {
@@ -5162,7 +5234,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 166299,
       "name": "On the Way",
       "url": "https://open.spotify.com/track/3yTJXmHoPd4GPPpyLsOqQp"
@@ -5216,7 +5288,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 95000,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/2cq5LlQMpHDFbRLjmMopph"
@@ -5252,10 +5324,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 137937,
       "name": "Outdoor Seating",
       "url": "https://open.spotify.com/track/2rIfTTZC9pfxczVyBxlVEI"
+    },
+    {
+      "album": {
+        "name": "ramen noodles",
+        "url": "https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx"
+      },
+      "artists": [
+        {
+          "name": "Oysterz",
+          "url": "https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Oysterz",
+      "url": "https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9"
     },
     {
       "album": {
@@ -5834,7 +5924,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 109000,
       "name": "Riding That Moment",
       "url": "https://open.spotify.com/track/6fpv2RAeHiiQRUYuLmO3oz"
@@ -6340,7 +6430,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 120000,
       "name": "So Good",
       "url": "https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w"
@@ -6474,7 +6564,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 120000,
       "name": "Sorbets",
       "url": "https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI"
@@ -6755,6 +6845,24 @@
     },
     {
       "album": {
+        "name": "Summer rain",
+        "url": "https://open.spotify.com/album/0pI2S9DzvTZgdWgl2ZgRyZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Summer rain",
+      "url": "https://open.spotify.com/track/7HWM9W8rJ6Hj4sCGecvZCh"
+    },
+    {
+      "album": {
         "name": "Summertime in Rio",
         "url": "https://open.spotify.com/album/3J6jAhDDqs22qR4mTjEkjz"
       },
@@ -6986,6 +7094,24 @@
       "duration_ms": 141333,
       "name": "Sweet Taboo",
       "url": "https://open.spotify.com/track/40gdXSYMmhTw2TvD8J1TdY"
+    },
+    {
+      "album": {
+        "name": "Just One More Thing",
+        "url": "https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx"
+      },
+      "artists": [
+        {
+          "name": "Palm Beats",
+          "url": "https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/2NDAiSSorPzaQ7i5sx4dDI"
     },
     {
       "album": {
@@ -8204,7 +8330,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 167958,
       "name": "We're Good",
       "url": "https://open.spotify.com/track/5GoZxgzRXD0avZgrsxRLK0"

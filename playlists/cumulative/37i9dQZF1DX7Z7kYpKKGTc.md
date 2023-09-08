@@ -2,7 +2,7 @@
 
 ### [Rock Love Songs](https://open.spotify.com/playlist/37i9dQZF1DX7Z7kYpKKGTc)
 
-> El lado romántico del rock clásico y el metal.
+> The romantic side of classic rock and metal
 
 438 songs - 1 day 9 hr 17 min
 

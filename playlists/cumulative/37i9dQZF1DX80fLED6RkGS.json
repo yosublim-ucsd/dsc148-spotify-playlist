@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=NhJPqOBxQsWNLNpzz9Oplw\">Fathermoh</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=YOQ16IW0TzynqVngp308wg\">Maandy</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 197537,
       "name": "Danshie",
       "url": "https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8"
@@ -1994,6 +1994,28 @@
       "duration_ms": 187559,
       "name": "Hivi Na Hivo",
       "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
+    },
+    {
+      "album": {
+        "name": "How Come?",
+        "url": "https://open.spotify.com/album/2pUrfQp68auT1Ka9iIzGKL"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185077,
+      "name": "How Come?",
+      "url": "https://open.spotify.com/track/37ix17VbIhu9HgozklYdYE"
     },
     {
       "album": {

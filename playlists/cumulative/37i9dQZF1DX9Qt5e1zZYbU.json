@@ -500,7 +500,7 @@
     {
       "album": {
         "name": "Polyphony",
-        "url": "https://open.spotify.com/album/3OOAuloYkiA6GynyUFTuSp"
+        "url": "https://open.spotify.com/album/6GYbCW7FovstU2Ab3ZoSgE"
       },
       "artists": [
         {
@@ -511,6 +511,24 @@
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 322758,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/0iLhRFbr7cZ0DrQl8FS3kb"
+    },
+    {
+      "album": {
+        "name": "Polyphony",
+        "url": "https://open.spotify.com/album/3OOAuloYkiA6GynyUFTuSp"
+      },
+      "artists": [
+        {
+          "name": "Logistics",
+          "url": "https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
       "duration_ms": 322758,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/4zBdObrAnn5OVWC9F02wA3"

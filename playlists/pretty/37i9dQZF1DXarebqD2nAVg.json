@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 437796,
+  "num_followers": 437892,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzVkYWI0N2E2YmFkMjkzZjllZTI0NzJkY2U1MzdmNWVmMjZiNDI3",
+  "snapshot_id": "MCxkNzZhZjlhNDE1NDE2NTgyZTE0YmZiOGFhYWUwYzRmMTliNzQ1Zjc4",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Swell - I'm Sorry",
+        "url": "https://open.spotify.com/album/2x6NNjyxtvDBDOv0ywIISX"
+      },
+      "artists": [
+        {
+          "name": "glophia",
+          "url": "https://open.spotify.com/artist/7lcdFVqeMSCGdl2qTHaNJY"
+        },
+        {
+          "name": "Shiloh",
+          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
+        }
+      ],
+      "duration_ms": 157338,
+      "name": "Swell - I'm Sorry",
+      "url": "https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Forget About Her",
         "url": "https://open.spotify.com/album/0DRMTbC9VGMiv75DM20nHD"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 161406,
       "name": "With Somebody Else",
       "url": "https://open.spotify.com/track/04BwBjVvvHshN9RbqNXfWQ"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Swell - I'm Sorry",
-        "url": "https://open.spotify.com/album/2x6NNjyxtvDBDOv0ywIISX"
-      },
-      "artists": [
-        {
-          "name": "glophia",
-          "url": "https://open.spotify.com/artist/7lcdFVqeMSCGdl2qTHaNJY"
-        },
-        {
-          "name": "Shiloh",
-          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
-        }
-      ],
-      "duration_ms": 157338,
-      "name": "Swell - I'm Sorry",
-      "url": "https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "LIGHTER",
+        "url": "https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4"
+      },
+      "artists": [
+        {
+          "name": "Formalite",
+          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
+        },
+        {
+          "name": "paydak",
+          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
+        }
+      ],
+      "duration_ms": 96200,
+      "name": "MEMORIES OF YOU",
+      "url": "https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 169941,
       "name": "can't tell",
       "url": "https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "LIGHTER",
-        "url": "https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4"
-      },
-      "artists": [
-        {
-          "name": "Formalite",
-          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
-        },
-        {
-          "name": "paydak",
-          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
-        }
-      ],
-      "duration_ms": 96200,
-      "name": "MEMORIES OF YOU",
-      "url": "https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI"
     },
     {
       "added_at": "2023-02-16 22:50:07",

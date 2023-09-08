@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Icona Pop.",
-  "num_followers": 451136,
+  "num_followers": 451196,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWRmNDMzNTI3NDNiNmM5ZjYwNzI2N2NhYTRhY2MyZjBjMjhhOTMx",
+  "snapshot_id": "MCw2OWIxNDIyYWE1YTZhZTU1ZjFiMTEwYjM5YTE2Y2FjMGE5YTU2MzNj",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Len\u00e7\u00f3is (Love Me) [Notre Dame Remix]",
-        "url": "https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 304927,
-      "name": "Len\u00e7\u00f3is (Love Me) - Notre Dame Remix",
-      "url": "https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/2NpemlT4sYpsFwaylWOPBp"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 170307,
       "name": "Go Stupid",
       "url": "https://open.spotify.com/track/34vzBrkuAZ0rLnNQyvwHXa"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Len\u00e7\u00f3is (Love Me) [Notre Dame Remix]",
+        "url": "https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 304927,
+      "name": "Len\u00e7\u00f3is (Love Me) - Notre Dame Remix",
+      "url": "https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -883,42 +883,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Where You At",
-        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Conrank",
-          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Where You At",
-      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/50nbWtinvZNMWnuho2OFtx"
-      },
-      "artists": [
-        {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
-        }
-      ],
-      "duration_ms": 181242,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/04OnsBlFeWEO8z4vwEPQQI"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Komodo",
         "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
       },
@@ -939,6 +903,42 @@
       "duration_ms": 155836,
       "name": "Komodo",
       "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/50nbWtinvZNMWnuho2OFtx"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "duration_ms": 181242,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/04OnsBlFeWEO8z4vwEPQQI"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Where You At",
+        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Conrank",
+          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Where You At",
+      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/0afsFT9pB5n6LqnhksV29M"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 230587,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/2dkZSuf8vtAybY9yNuHzqm"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Hand In The Fire (Killen Manjaro Remix)",
         "url": "https://open.spotify.com/album/2FhuMlwjAzG8Tb23wjo08r"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 191725,
       "name": "Hand In The Fire - Killen Manjaro Remix",
       "url": "https://open.spotify.com/track/4mr24lt1CSJMQTPFFVj4LS"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/0afsFT9pB5n6LqnhksV29M"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 230587,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/2dkZSuf8vtAybY9yNuHzqm"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "9910",
-        "url": "https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1"
-      },
-      "artists": [
-        {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        }
-      ],
-      "duration_ms": 205425,
-      "name": "9910",
-      "url": "https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Weightless Feeling",
         "url": "https://open.spotify.com/album/58ccjEHNsTV6laJe30KGD5"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 226285,
       "name": "Weightless Feeling",
       "url": "https://open.spotify.com/track/0Ivhw3XCIjKKIq4clyKXwR"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "9910",
+        "url": "https://open.spotify.com/album/1WxWUsmCLB1M1grnwWetf1"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "duration_ms": 205425,
+      "name": "9910",
+      "url": "https://open.spotify.com/track/7FUzB86KZ2vKpDk9wLTFXT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Mixed Feelings",
+        "url": "https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92"
+      },
+      "artists": [
+        {
+          "name": "Bae Blade",
+          "url": "https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA"
+        }
+      ],
+      "duration_ms": 283936,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Bassface",
         "url": "https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 186206,
       "name": "Bassface",
       "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Mixed Feelings",
-        "url": "https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92"
-      },
-      "artists": [
-        {
-          "name": "Bae Blade",
-          "url": "https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA"
-        }
-      ],
-      "duration_ms": 283936,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Block Rockin",
-        "url": "https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 298574,
-      "name": "Block Rockin",
-      "url": "https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/1oxJRzA76ZygILsbVwzJPO"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Block Rockin",
+        "url": "https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 298574,
+      "name": "Block Rockin",
+      "url": "https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Pilgrim",
         "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
       },
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Leaving Me",
-        "url": "https://open.spotify.com/album/1rIhyDY2W0S3CHq9y64g1p"
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/1wu3p6XgeSjkgrlLOBDAsW"
       },
       "artists": [
         {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "LARI LUKE",
+          "url": "https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm"
         }
       ],
-      "duration_ms": 200250,
-      "name": "Leaving Me",
-      "url": "https://open.spotify.com/track/2cWThQIhPFGJNNXdXZsL6N"
+      "duration_ms": 158769,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/5wGqVM6OtsljOqk1eIXcmU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/1wu3p6XgeSjkgrlLOBDAsW"
+        "name": "Leaving Me",
+        "url": "https://open.spotify.com/album/1rIhyDY2W0S3CHq9y64g1p"
       },
       "artists": [
         {
-          "name": "LARI LUKE",
-          "url": "https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm"
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/5wGqVM6OtsljOqk1eIXcmU"
+      "duration_ms": 200250,
+      "name": "Leaving Me",
+      "url": "https://open.spotify.com/track/2cWThQIhPFGJNNXdXZsL6N"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1471,6 +1471,26 @@
       "duration_ms": 176793,
       "name": "Vaccine",
       "url": "https://open.spotify.com/track/0e5AgsGVlJo64vPsWpfYx6"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6wO58tdQbSRH4S9AX1Trd4"
+      },
+      "artists": [
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 173129,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/74zgUHiAs8U4t8Yy2lVO63"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1515,22 +1535,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ava",
-        "url": "https://open.spotify.com/album/1U7o5sCGTgKiP7ONFxbVnK"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        }
-      ],
-      "duration_ms": 340025,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/0O6LrSoD4OPDvxhPoe2Z0u"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Think Different",
         "url": "https://open.spotify.com/album/5TGOUMFLiPyDQcpo3Xo4gN"
       },
@@ -1551,6 +1555,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Ava",
+        "url": "https://open.spotify.com/album/1U7o5sCGTgKiP7ONFxbVnK"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "duration_ms": 340025,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/0O6LrSoD4OPDvxhPoe2Z0u"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Get That Love",
         "url": "https://open.spotify.com/album/4OpmlIzz6ntXEEGEl4zPvb"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 145312,
       "name": "Get That Love",
       "url": "https://open.spotify.com/track/4wohwXNRk22BjCf4lD9W5L"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6wO58tdQbSRH4S9AX1Trd4"
-      },
-      "artists": [
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 173129,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/74zgUHiAs8U4t8Yy2lVO63"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "DJ Friendly",
-        "url": "https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 280328,
-      "name": "DJ Friendly",
-      "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Work It",
         "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 167760,
       "name": "Work It",
       "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "DJ Friendly",
+        "url": "https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 280328,
+      "name": "DJ Friendly",
+      "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/14Jp6jbWqW1wIzqja3vm27"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "duration_ms": 409180,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/032FF7FZ3uyKqY28UHC2fs"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Remedy (JKriv Disco Dub)",
         "url": "https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 252183,
       "name": "Remedy - JKriv Disco Dub",
       "url": "https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/14Jp6jbWqW1wIzqja3vm27"
-      },
-      "artists": [
-        {
-          "name": "Jil Tanner",
-          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
-        }
-      ],
-      "duration_ms": 409180,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/032FF7FZ3uyKqY28UHC2fs"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1807,22 +1807,6 @@
       "duration_ms": 199218,
       "name": "Disco Baby",
       "url": "https://open.spotify.com/track/3fIAiG44DasK0wYAznuMlk"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "A WOMAN COMES INTO THE ROOM",
-        "url": "https://open.spotify.com/album/6lrPAUNQDk3gteeS7Z5P1L"
-      },
-      "artists": [
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A WOMAN COMES INTO THE ROOM",
-      "url": "https://open.spotify.com/track/3TMpKwjs0m1siJLOWSueE3"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "A WOMAN COMES INTO THE ROOM",
+        "url": "https://open.spotify.com/album/6lrPAUNQDk3gteeS7Z5P1L"
+      },
+      "artists": [
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A WOMAN COMES INTO THE ROOM",
+      "url": "https://open.spotify.com/track/3TMpKwjs0m1siJLOWSueE3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Bounce EP",
         "url": "https://open.spotify.com/album/49vNUcCGEksLpId69x9fyf"
       },
@@ -1879,22 +1879,6 @@
       "duration_ms": 378164,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/17DdxVbfZ3Likkadhjgt4H"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/326rO8QgeJTYlI2CqDOvoS"
-      },
-      "artists": [
-        {
-          "name": "Trance Wax",
-          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/1mvDRmVpbraXMC6TFpJLpF"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1915,6 +1899,22 @@
       "duration_ms": 174285,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/4vkno1y8GytxReMrCLJbJ7"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/326rO8QgeJTYlI2CqDOvoS"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/1mvDRmVpbraXMC6TFpJLpF"
     },
     {
       "added_at": "2023-09-01 04:00:00",

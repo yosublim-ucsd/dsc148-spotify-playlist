@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "My Only Girl",
+        "url": "https://open.spotify.com/album/1dZuzKfVf7fQltdfkgyVz4"
+      },
+      "artists": [
+        {
+          "name": "Jeffery C",
+          "url": "https://open.spotify.com/artist/1pu8bqVGuRDYyTOQMLqv86"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145792,
+      "name": "My Only Girl",
+      "url": "https://open.spotify.com/track/4KJtaPHUmKLEVLMAj86oVT"
+    },
+    {
+      "album": {
         "name": "Changing Room",
         "url": "https://open.spotify.com/album/2E6ZEER6A4CmmQEvlgj5CK"
       },
@@ -1058,6 +1076,24 @@
       "duration_ms": 295000,
       "name": "\u4e0d\u53ec\u4e4b\u81e3 Unrequited Love",
       "url": "https://open.spotify.com/track/1GED9FDaUzIHsBDwy8lzqy"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u60f3\u611b\u4eba\u7684\u539f\u56e0",
+        "url": "https://open.spotify.com/album/5vytIZJ4l6doUFJ7V2irfM"
+      },
+      "artists": [
+        {
+          "name": "\u96c6\u5922\u6240Dreamoresoul",
+          "url": "https://open.spotify.com/artist/18oRbEbPXn6LQ0yAnOmtpj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237127,
+      "name": "\u4e0d\u60f3\u611b\u4eba\u7684\u539f\u56e0",
+      "url": "https://open.spotify.com/track/77w7VXa6AFbfB3cjL37D1C"
     },
     {
       "album": {
@@ -1648,7 +1684,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 270699,
       "name": "\u5225\u628a\u611b\u60c5\u5beb\u5f97\u592a\u904e\u7f8e\u9e97",
       "url": "https://open.spotify.com/track/2Kyhwh8yvJ51N8P1oicIGx"
@@ -1684,7 +1720,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 174000,
       "name": "\u525b\u597d\u7684\u5b64\u55ae\u8457",
       "url": "https://open.spotify.com/track/093ZGcsUogX3eju1IERqOj"
@@ -2257,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "\u597d\u4e45\u4e0d\u898b",
+        "url": "https://open.spotify.com/album/6HGlmOOc8slmF8StDC3XGF"
+      },
+      "artists": [
+        {
+          "name": "\u7950\u7950 YoyoLin",
+          "url": "https://open.spotify.com/artist/48Q3KzFIm8EGZzTjH6wzKm"
+        },
+        {
+          "name": "\u5148\u751f\u5a1b\u6a02 (Mr. Music Channel)",
+          "url": "https://open.spotify.com/artist/0On5G4W5XlrbS56t7W6JbO"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257075,
+      "name": "\u597d\u4e45\u4e0d\u898b",
+      "url": "https://open.spotify.com/track/0wbDVGqhU2BAryAp2haBdv"
+    },
+    {
+      "album": {
         "name": "\u597d\u597d",
         "url": "https://open.spotify.com/album/6FacBzWHBXqpz4kICD7qD8"
       },
@@ -2502,7 +2560,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 225655,
       "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
       "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
@@ -4128,7 +4186,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 219196,
       "name": "\u70ba\u4e86\u4ec0\u9ebc\u800c\u52aa\u529b",
       "url": "https://open.spotify.com/track/4ax74pSfPz6QWO5o8rCwmD"
@@ -4222,7 +4280,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 248709,
       "name": "\u7169\u60f1\u76d2\u5b50",
       "url": "https://open.spotify.com/track/3901FZcJPHieJu260rV4O6"
@@ -4532,6 +4590,24 @@
       "duration_ms": 286773,
       "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/7G4inajDPplF7oT27awRq5"
+    },
+    {
+      "album": {
+        "name": "\u7b49\u4e0d\u5230\u7684\u64c1\u62b1",
+        "url": "https://open.spotify.com/album/3SHplJwkKBJGnI2RYeleyz"
+      },
+      "artists": [
+        {
+          "name": "\u5f20\u9759\u6c76",
+          "url": "https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242576,
+      "name": "\u7b49\u4e0d\u5230\u7684\u64c1\u62b1",
+      "url": "https://open.spotify.com/track/3VnmRt70qMfzTC98bmik1i"
     },
     {
       "album": {
@@ -5414,7 +5490,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 221875,
       "name": "\u93e1\u5b50",
       "url": "https://open.spotify.com/track/7bsKXBK0KpNrXRFppnoJMl"

@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 45 | [In Blood](https://open.spotify.com/track/3h8kxYXCgPLGYRUyJxPySw) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood On My Hands](https://open.spotify.com/album/146zNlN07nHKOk77iS2cTO) | 4:05 |
 | 46 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/4YnBjHq1drl7RjS4JDiYEZ) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I Hope I Know](https://open.spotify.com/album/47d2Ixn2YMjDuTFhnvi4Bp) | 3:20 |
 | 47 | [Lonely Avenue](https://open.spotify.com/track/5jRgIkHMRIMlBs2lACAW3X) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lonely Avenue](https://open.spotify.com/album/5Od0yKVTCCqgVGRl3EDA0M) | 4:55 |
-| 48 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 |
+| 48 | [Stay away from me](https://open.spotify.com/track/16JoACcI9bpk65WeZdJaU9) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/1RfLFbc81I36sfI4KI0fy2) | 2:42 |
 | 49 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 |
 | 50 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
 | 51 | [NOT A GOOD MAN WALKING](https://open.spotify.com/track/679ZxPQna36dJmMRvhFwU9) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [NOT A GOOD MAN WALKING](https://open.spotify.com/album/3BXZGAUiUVPOygUqn8meVI) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYi488IywmOA.md) - [plain]
 | 74 | [Here I'm Is](https://open.spotify.com/track/6qXE9eEx24VsgKf0sCQouH) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [They Called It Rhythm & Blues](https://open.spotify.com/album/2Iv8pnhLaHJUf4KBNjaxU6) | 2:27 |
 | 75 | [Mirror Blues](https://open.spotify.com/track/4mFBpN5jyZCcYLQCw1aoRX) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/4zb5t7MpwxLujrl50tSPQN) | 3:39 |
 
-Snapshot ID: `MCwyYzg2OGMxYmUwMTU2NjZjYzVmNzM2ZmU2M2MxNzkyMGQ5MzYxMzVi`
+Snapshot ID: `MCw4NWU3ZGExMzM3NDk2NjlmMWUwYzc1Nzk4NDNjYTUxMGViOTY4NWJk`

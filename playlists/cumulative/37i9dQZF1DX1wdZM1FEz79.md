@@ -2,14 +2,14 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: Joyful Island\(신나는섬\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: Jang HeeWon\(장희원\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-465 songs - 1 day 3 hr 39 min
+466 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0%](https://open.spotify.com/track/4949ROnVAzeeye50JPtmV6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [0%](https://open.spotify.com/album/4BWVlffNCqtelAwUhfCyfW) | 2:29 | 2022-03-31 | 2022-04-17 |
-| [100% Summer](https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz) | [Uaieo](https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf), [Joyful Island](https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH) | [Summer Vacation](https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ) | 3:55 | 2023-08-25 |  |
+| [100% Summer](https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz) | [Uaieo](https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf), [Joyful Island](https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH) | [Summer Vacation](https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ) | 3:55 | 2023-08-25 | 2023-09-08 |
 | [11:11](https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [11:11](https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe) | 3:43 | 2021-12-10 | 2022-07-28 |
 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-07-08 |  |
 | [20](https://open.spotify.com/track/6F15OzRN9KfU0fQuWTlEc9) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2P48xP9nTAIJrd0jwDUusc) | 3:42 | 2022-03-31 | 2022-04-19 |
@@ -365,6 +365,7 @@
 | [Thank You](https://open.spotify.com/track/6FlCuZG1bp05Peno7KzYdK) | [Jang Pill Soon](https://open.spotify.com/artist/4huxWg4T8DauhitzX1qSWI) | [THANK YOU](https://open.spotify.com/album/1EBJSo4XSiKOIpzfPor1T5) | 4:39 | 2023-01-11 | 2023-01-26 |
 | [That Day That Night \(feat\. Hailey Jeong\)](https://open.spotify.com/track/5culRJ1gKQdosIKnzN1VHX) | [Hye In](https://open.spotify.com/artist/5T8Zdi42zgO3H3hgHXPvk8), [Hailey Jeong](https://open.spotify.com/artist/7EhVfkEbLB64DCZv7Gnqjl) | [That Day That Night](https://open.spotify.com/album/1SCaW8oW7y5TMYJN6gqzlK) | 2:51 | 2022-03-31 | 2022-04-13 |
 | [The Art Of Farewell \(feat\. Hyelyn\)](https://open.spotify.com/track/4SsdS2qbyy2JRH1sNSanO4) | [MUSM](https://open.spotify.com/artist/7uT444qheRWiJsA0EGvXFh), [Hyelyn](https://open.spotify.com/artist/3AUu7kGxxt4tatQ5jNfm3L) | [MUSM, op\. 3](https://open.spotify.com/album/3IdhQk1jtUpHRJxpD2vPwR) | 4:02 | 2022-03-31 | 2022-04-20 |
+| [the beginning of love](https://open.spotify.com/track/61GIG0J84qsIAymMgw5VeL) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [the beginning of love](https://open.spotify.com/album/5EdaQnclyZKmJZwHtGevz2) | 3:11 | 2023-09-07 |  |
 | [The Blue Night Of Jeju Island](https://open.spotify.com/track/5I6MDAsc3nv2BPiiGnLEDI) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [The Blue Night Of Jeju Island](https://open.spotify.com/album/5N0DCNi28CDILaQZ7tYNfU) | 4:05 | 2022-03-31 | 2022-04-28 |
 | [The Cat House 고양이 집](https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [The Cat House 고양이 집](https://open.spotify.com/album/1Dx5d7CPHRQ7228ZCT4aLT) | 3:51 | 2022-03-31 | 2022-04-20 |
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |

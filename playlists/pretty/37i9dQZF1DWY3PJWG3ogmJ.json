@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 601906,
+  "num_followers": 602229,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzcwMDE0ZjRkZDIxMjBkODU0M2VjNzc0YTVhZWQ5YTBmMWFkNDZm",
+  "snapshot_id": "MCw1ZTE2ODc4YjUyMmYxNDM1OTNhNTg4MmExNDk3MzMyMzE4ZjIzNDM4",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hornet's Nest",
-        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 279811,
-      "name": "Hornet's Nest",
-      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Killing Season",
         "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 212360,
       "name": "Killing Season",
       "url": "https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Hornet's Nest",
+        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 279811,
+      "name": "Hornet's Nest",
+      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "You Will Never Be One of Us",
-        "url": "https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac"
-      },
-      "artists": [
-        {
-          "name": "Nails",
-          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
-        }
-      ],
-      "duration_ms": 89867,
-      "name": "You Will Never Be One of Us",
-      "url": "https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "This Heavy Void",
         "url": "https://open.spotify.com/album/7zuN8pRGF727YAHs7pSpOG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232634,
       "name": "Black of My Eyes",
       "url": "https://open.spotify.com/track/7sZcXl6LNdughQ7ZE7lvUp"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "You Will Never Be One of Us",
+        "url": "https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 89867,
+      "name": "You Will Never Be One of Us",
+      "url": "https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Firsthand Accounts",
-        "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Booth",
-          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 322153,
       "name": "Blood in the Sands of Time",
       "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Firsthand Accounts",
+        "url": "https://open.spotify.com/album/2hSmn7TSh7erJZw8IcmNsA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Booth",
+          "url": "https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/5y8nTCIANwdeLQ8yRtlGdn"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Welcome to the West Coast II",
-        "url": "https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa"
-      },
-      "artists": [
-        {
-          "name": "Lionheart",
-          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
-        }
-      ],
-      "duration_ms": 197314,
-      "name": "Trial by Fire",
-      "url": "https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Ultimate Annihilation",
         "url": "https://open.spotify.com/album/4ErhvbjyVnkGgkRKvKQC1F"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 141431,
       "name": "Ultimate Annihilation",
       "url": "https://open.spotify.com/track/1rGYgf81OmT2AIPbrcbwun"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Welcome to the West Coast II",
+        "url": "https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        }
+      ],
+      "duration_ms": 197314,
+      "name": "Trial by Fire",
+      "url": "https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Tethra",
-        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
-      },
-      "artists": [
-        {
-          "name": "Tethra",
-          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
-        }
-      ],
-      "duration_ms": 289236,
-      "name": "Masochistic Healing",
-      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 241767,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Tethra",
+        "url": "https://open.spotify.com/album/3JcfPChvlA4hZl0FEetY77"
+      },
+      "artists": [
+        {
+          "name": "Tethra",
+          "url": "https://open.spotify.com/artist/7GfEcQxinRxo4cZML9ZcA3"
+        }
+      ],
+      "duration_ms": 289236,
+      "name": "Masochistic Healing",
+      "url": "https://open.spotify.com/track/4IEoWpnV0k58TWF5hkta6D"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Eternal Forward Motion",
-        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
-      },
-      "artists": [
-        {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Eternal Forward Motion",
-      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "How To Live And How To Lose",
         "url": "https://open.spotify.com/album/6o1IwCI1UMuDeWAF3MgIMp"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 255400,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6521S3JGbGzH7c12smJjEw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Eternal Forward Motion",
+        "url": "https://open.spotify.com/album/2omWd3dZk66IMchZJ538Hp"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Eternal Forward Motion",
+      "url": "https://open.spotify.com/track/3xidbl1KpsgRZul3q6ZaCF"
     },
     {
       "added_at": "2023-01-18 15:54:17",

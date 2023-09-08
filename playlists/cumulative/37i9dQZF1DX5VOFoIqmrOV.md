@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-218 songs - 14 hr 27 min
+219 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Sweety](https://open.spotify.com/track/0JwGSIPH2wzFVl6ZW1RQoW) | [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW), [Rabbit M C](https://open.spotify.com/artist/3EwmY8hOYo6ApKtlOIfgVV) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:25 | 2023-08-07 |  |
 | [Telisiney Na Nuvvey](https://open.spotify.com/track/6f7qFjos0WWqvtEnwFDS0a) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 4:12 | 2021-12-16 |  |
 | [Telusaa Telusaa](https://open.spotify.com/track/1jz0PUb4rChtZUk4Itn1Co) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:24 | 2021-12-16 |  |
-| [Tharagathi Gadhi](https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [Colour Photo](https://open.spotify.com/album/04ryisWEHXSoU3l5K3J6k9) | 3:33 | 2021-12-16 |  |
+| [Tharagathi Gadhi](https://open.spotify.com/track/7h8pQvwKxRYTt3oRGjNT93) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [Colour Photo](https://open.spotify.com/album/04ryisWEHXSoU3l5K3J6k9) | 3:33 | 2021-12-16 | 2023-09-08 |
 | [The Karma Theme \- Telugu \(From "U Turn"\)](https://open.spotify.com/track/0K2CU7TTmFBSbFm1Lt50Sx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [The Karma Theme \[Telugu \(From "U Turn"\)\]](https://open.spotify.com/album/7JzWYvbRsMEBBbufyXnkcL) | 3:34 | 2021-12-16 | 2022-07-25 |
 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 | 2022-02-09 |  |
 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 | 2023-08-07 |  |
@@ -224,6 +224,7 @@
 | [Yedurangula Vaana](https://open.spotify.com/track/2Q9QGlZC5J5rPeeU8oWpHX) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [18 Pages](https://open.spotify.com/album/2R30N8Q00fVGnHdyZhTccV) | 4:12 | 2023-05-04 | 2023-08-08 |
 | [Yellipoke Shyamala](https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Aa Aaa](https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY) | 3:35 | 2023-08-07 |  |
 | [Yemunnave Pilla \- From "Nallamalla"](https://open.spotify.com/track/6geYV8EMMVN5hytPHpXtIS) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Yemunnave Pilla \(From "Nallamalla"\)](https://open.spotify.com/album/66yiSqXHIYeK9PYldw1nTM) | 4:11 | 2021-12-16 | 2022-07-25 |
+| [Yenno Yenno](https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga) | [Karthik, Chinmayee](https://open.spotify.com/artist/460i1WW8YQCJ6MR3dhMJxG) | [Malli Malli Idi Rani Roju](https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7) | 4:31 | 2023-08-07 |  |
 | [Yentha Sakkagunnave](https://open.spotify.com/track/6nhLm8GEkkH9kunfqdAFcO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Rangasthalam](https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP) | 4:22 | 2022-07-24 |  |
 | [Yevandoi Nani Garu](https://open.spotify.com/track/6WCH22y0yjBbL1Vyuf0E9g) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:24 | 2023-08-07 |  |
 

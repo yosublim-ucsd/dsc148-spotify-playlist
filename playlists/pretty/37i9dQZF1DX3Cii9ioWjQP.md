@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,592 likes - 103 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,599 likes - 103 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,6 +110,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 100 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 |
 | 101 | [Look To The Sky](https://open.spotify.com/track/16Ij8FOcMTVN5XbMjziPpS) | [Minseok Choi](https://open.spotify.com/artist/66DjCgQhjF05QqsFAK4JcQ) | [Look To The Sky](https://open.spotify.com/album/0nBvF6j1EIdvKGqb5UGYYu) | 6:09 |
 | 102 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
-| 103 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
+| 103 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [ChromaJ](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCwyMjM0Y2Q0YzgxNWM1OGIyYTU4OWFjNDc5YTc3NTgxYTJjYzE4ZTM2`
+Snapshot ID: `MCwwMTUwYzRjNTI3OWQwNDViMDEzZmEwMzlhNDlmN2UwYjdhMmFlZjdj`

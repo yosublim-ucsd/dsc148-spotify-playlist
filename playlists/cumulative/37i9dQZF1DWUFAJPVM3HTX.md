@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a?si=n17uk\_oWR\_2qe6Z6WyHLtQ">theARTi$t</a>\. Updates every Wednesday.
 
-1,676 songs - 3 day 14 hr 15 min
+1,677 songs - 3 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,7 +965,8 @@
 | [MORE](https://open.spotify.com/track/47kXceQYFos7TpbwhHHGgj) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [MORE](https://open.spotify.com/album/7pthZEyiFlYQ7h61F4Zo0L) | 2:59 | 2023-07-14 |  |
 | [MORE](https://open.spotify.com/track/2Ed33NZQd9I8DtysknOOcV) | [Nina Chiodin](https://open.spotify.com/artist/7vInCYXueIYbgdGjxESYXK) | [MORE](https://open.spotify.com/album/3yDQidjyrpi9tjTmFvjlH1) | 3:16 | 2022-03-02 | 2022-04-28 |
 | [More Than Anything](https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI) | 2:20 | 2023-07-21 | 2023-08-19 |
-| [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 | 2023-07-21 |  |
+| [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 | 2023-07-21 |  |
+| [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 | 2023-07-21 | 2023-09-08 |
 | [More Than Friends](https://open.spotify.com/track/4mROUR22BSJu4FoVni8mFp) | [Talii](https://open.spotify.com/artist/4l3RqT4ysMcYdjdPEig59L) | [More Than Friends](https://open.spotify.com/album/3Y8rNzKIvhqkM0iUdlESqe) | 2:47 | 2022-08-26 | 2022-09-23 |
 | [More!](https://open.spotify.com/track/2HUFYGgONkghxRMcZx82ut) | [Zavier O'Keith](https://open.spotify.com/artist/2UVj3KVaby1WqCXPH7cwTR) | [Interlude I: Hours](https://open.spotify.com/album/42aH89r2MIDs9RntnlfPOg) | 3:45 | 2022-03-30 | 2022-05-12 |
 | [Morning Coffee](https://open.spotify.com/track/4g32SGaFLUyj0TgwoIt1OX) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Morning Coffee](https://open.spotify.com/album/63xB8Wz2IS1gO76vh74yDq) | 4:34 | 2021-12-01 | 2022-01-13 |

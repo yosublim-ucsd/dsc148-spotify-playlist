@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Nectar Woode
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,100 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,118 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [i can see you're online](https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [i can see you're online](https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA) | 2:29 |
 | 80 | [Butterscotch](https://open.spotify.com/track/5qvMsEaeSwEGbe1CRaKjwR) | [Keanan](https://open.spotify.com/artist/2GV6sQ9pmkrPwhpwSimgAY) | [Butterscotch](https://open.spotify.com/album/4nynSzbdjWKc7V1x2G2cjM) | 2:45 |
 
-Snapshot ID: `MCxmYzE2OTU1MTU1NzBiYzZjYjUxZDE0MzY4MWZjMWExYzk2ZjQ4OGE1`
+Snapshot ID: `MCxiZTg1OGJkYmViMTJlYWJmYzQzYzdmMGJjMWJjYWE5NjNhNTgzMjMy`

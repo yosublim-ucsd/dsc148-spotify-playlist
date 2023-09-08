@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,335 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,346 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 98 | [Hi Bully](https://open.spotify.com/track/0gd4nhLObQ2fOEvQzBq9KF) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Purple](https://open.spotify.com/album/2vCvybjj710CSzDo3EdzHY) | 3:24 |
 | 99 | [The Dawn Star](https://open.spotify.com/track/0psWDl3FJLx1QARN9XHqdK) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [The Dawn Star](https://open.spotify.com/album/4sWMKUyokFPH0bYIUVvyBG) | 4:27 |
 | 100 | [Like A Movie](https://open.spotify.com/track/2ZSPHTpYqx2icUcbkr6Y5O) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [Like A Movie](https://open.spotify.com/album/2WvBKcO2WKwcVX97RWhQD4) | 3:16 |
-| 101 | [It is U](https://open.spotify.com/track/0Cw8bY4cpgjQjwaLyy7AsN) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/73Lo6xFYboCrcfSGcpFfR7) | 3:28 |
+| 101 | [It is U](https://open.spotify.com/track/1vZB60Vn6CxFXaeixbPwni) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/7bRCsUatH9bzjmpCR32yut) | 3:28 |
 | 102 | [SUN](https://open.spotify.com/track/32lY8lZDjJ90bvK30IuwNp) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [Like A Movie](https://open.spotify.com/album/2WvBKcO2WKwcVX97RWhQD4) | 3:16 |
 | 103 | [NEW DAYZ](https://open.spotify.com/track/5WfZIXUF0PlUMUcETTpk7t) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[NEW DAYZ\]](https://open.spotify.com/album/6UWqRWFu1heBKnelgnZxs2) | 3:26 |
 | 104 | [VAGABOND](https://open.spotify.com/track/62zGOAGCpElZUCN0TzP39r) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[UNKNOWN CODE\]](https://open.spotify.com/album/3wyH7Q759y9mOANdEOwuJS) | 3:26 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCwwNGMxOTEzNTMwZjc3NTExZDUwNmEzZWRhYmI0MDI3MTNhNmNhYzAy`
+Snapshot ID: `MCwxYmEwYjgyZDdkODkyZjhmYTZjMjI1Y2QyYWI2MWI0MmNhMmVmZDhi`

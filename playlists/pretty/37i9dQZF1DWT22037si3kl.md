@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,146 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,258 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [CAIXA DE PANDORA](https://open.spotify.com/track/6ZaUGENItZhXBsNh3AVg2C) | [Verve](https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj), [Abel](https://open.spotify.com/artist/3x7CEY7CvKZDeVLJ3XGiBw), [big silva](https://open.spotify.com/artist/4tdh6CQGlMQpwxzptw81ZZ), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [CRIME](https://open.spotify.com/album/3vzgzxt451KbKjSjCc0T4l) | 2:18 |
 | 50 | [Sereno](https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sereno](https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ) | 2:16 |
 
-Snapshot ID: `MCxlMTRjNWQ4MDg0Zjc1NmJhYmZhZTNiMWVkODQwOGQ1YzhlZTcwODBj`
+Snapshot ID: `MCw2OGY3OGIxMTYyNTc3NjdmODQxYjFmMTlkNjY3OGRjNDQ0OWI2ZDg5`

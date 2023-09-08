@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. MPH",
-  "num_followers": 198171,
+  "num_followers": 198189,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDkxMGIwZDdjN2M3MTY5MTk5NTU3ODIyYTZiMmVlNGFlNjg5NjM5",
+  "snapshot_id": "MCwyMDUyM2Q1OWE1YjE0Mjk0MGYwYjEwMjZjMmUzMjdkY2JmMTU0MGJj",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -139,18 +139,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "<3<3<3",
-        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
+        "name": "Jurgen Kropper (feat. Local)",
+        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
       },
       "artists": [
         {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
         }
       ],
-      "duration_ms": 185357,
-      "name": "<3<3<3",
-      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
+      "duration_ms": 176571,
+      "name": "Jurgen Kropper (feat. Local)",
+      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Fly With Us",
-        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
+        "name": "<3<3<3",
+        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 248437,
-      "name": "Fly With Us",
-      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
+      "duration_ms": 185357,
+      "name": "<3<3<3",
+      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -367,22 +367,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Jurgen Kropper (feat. Local)",
-        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
+        "name": "Fly With Us",
+        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
       },
       "artists": [
         {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Jurgen Kropper (feat. Local)",
-      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
+      "duration_ms": 248437,
+      "name": "Fly With Us",
+      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/0ENUjXIwpXUtga0c4P1BHc"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Amazon Prime",
+        "url": "https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA"
+      },
+      "artists": [
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "1st Born",
+          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
+        }
+      ],
+      "duration_ms": 160482,
+      "name": "Amazon Prime",
+      "url": "https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Hot Flush",
         "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 317538,
       "name": "Hot Flush",
       "url": "https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Amazon Prime",
-        "url": "https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA"
-      },
-      "artists": [
-        {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
-        },
-        {
-          "name": "1st Born",
-          "url": "https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb"
-        }
-      ],
-      "duration_ms": 160482,
-      "name": "Amazon Prime",
-      "url": "https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv"
     }
   ],
   "unique_name": "Bassline Bangers",

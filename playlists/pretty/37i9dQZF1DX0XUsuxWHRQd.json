@@ -1,12 +1,12 @@
 {
   "description": "New music from Doja Cat, Rod Wave and Lil Wayne.",
-  "num_followers": 15610316,
+  "num_followers": 15612244,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjNkZDY5YTlmNzA2MGY1NTVhOTFmYmFjMGI2OTRiYjE1NDg2YWEz",
+  "snapshot_id": "MCwxNzdlNjA3NWU5ZGNiMDUyMGM2NTRlNGYwZTM1NmZkMzQ1MGRmZDc1",
   "tracks": [
     {
       "added_at": "2023-09-05 18:27:40",
@@ -171,6 +171,30 @@
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
+    },
+    {
+      "added_at": "2023-09-07 04:00:00",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 327666,
+      "name": "Swagga Like Us",
+      "url": "https://open.spotify.com/track/2kNtAwWATYkqV3CdT20RV0"
     },
     {
       "added_at": "2023-09-05 18:27:40",

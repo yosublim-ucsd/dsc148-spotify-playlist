@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-259 songs - 16 hr 45 min
+260 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [If I](https://open.spotify.com/track/7gfuNwrJJdA1IpnN5XJEkA) | [Gonne Choi](https://open.spotify.com/artist/0upRkpiRh4uADfu67ctCog), [Sunwook Kim](https://open.spotify.com/artist/0GWoIoZxx4ZvQLyCXxkX8g) | [XXXY](https://open.spotify.com/album/6m5JLZtFAmfGcd2olUHNBM) | 3:50 | 2023-07-12 |  |
 | [In My City](https://open.spotify.com/track/3NpmqDtpJsnPrbLYKGS5rD) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [SIGNATURE](https://open.spotify.com/album/2OgkXsEmU9TsgOcsKCF86t) | 3:44 | 2022-09-27 |  |
 | [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 | 2023-07-28 |  |
-| [It is U](https://open.spotify.com/track/0Cw8bY4cpgjQjwaLyy7AsN) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/73Lo6xFYboCrcfSGcpFfR7) | 3:28 | 2023-07-12 |  |
+| [It is U](https://open.spotify.com/track/0Cw8bY4cpgjQjwaLyy7AsN) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/73Lo6xFYboCrcfSGcpFfR7) | 3:28 | 2023-07-12 | 2023-09-08 |
+| [It is U](https://open.spotify.com/track/1vZB60Vn6CxFXaeixbPwni) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/7bRCsUatH9bzjmpCR32yut) | 3:28 | 2023-08-28 |  |
 | [It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/0sZzWTxbgVrlnvqrJyQYtk) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [Ballad](https://open.spotify.com/album/09h2JA0QVqAIVA4cojLHjd) | 5:39 | 2022-09-27 | 2022-12-03 |
 | [Jungle Gym](https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C), [Takashi Kashikura](https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY) | [Jungle Gym](https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR) | 4:21 | 2022-09-27 | 2023-08-28 |
 | [JUNKFOOD](https://open.spotify.com/track/6jyYkIlSOlGr1mgfgFfKQa) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Charming Lips](https://open.spotify.com/artist/7435cB9b8d5SMBEyn5eQi5) | [JUNKFOOD](https://open.spotify.com/album/1Xak11EevsFE0CM0VZvCQu) | 3:30 | 2023-07-12 |  |

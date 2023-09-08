@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tedua
 
-116 songs - 6 hr 21 min
+117 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Certi Giorni \(feat\. Nitro\)](https://open.spotify.com/track/4nvsA575k8HrEjdQ78Ymvi) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:14 | 2022-07-14 | 2023-07-14 |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-28 |  |
 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 | 2022-11-24 |  |
-| [Come Mai \(feat\. Emis Killa\)](https://open.spotify.com/track/0ImvhtUWThEVg2d7KQPT1N) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:23 | 2023-05-25 |  |
+| [Come Mai \(feat\. Emis Killa\)](https://open.spotify.com/track/0ImvhtUWThEVg2d7KQPT1N) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:23 | 2023-05-25 | 2023-09-08 |
 | [Come Stai](https://open.spotify.com/track/6mmBVpItqlggbdKOD9zOu9) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 2:46 | 2022-04-28 | 2022-07-07 |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:50 | 2022-12-15 |  |
 | [CRUDELIA \- I nervi](https://open.spotify.com/track/1OeIJITrlUR4qss2kywMEn) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 3:50 | 2022-04-28 | 2022-07-29 |
@@ -47,6 +47,7 @@
 | [Dammi Un Motivo](https://open.spotify.com/track/32ixEZaSA1ZMrKOYInRbeP) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 3:24 | 2022-07-14 |  |
 | [DESOLÉ \(feat\. Rhove & Geolier\)](https://open.spotify.com/track/2jeNH1ZJTHOX8upHBmPGzU) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 2:45 | 2023-07-13 |  |
 | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/track/1Whf2ZaesM1gXlU0z3Fslt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Dilemme \(with tha Supreme & Mara Sattei\)](https://open.spotify.com/album/58UfZvPf388nNXT6nnszRp) | 3:51 | 2022-04-28 |  |
+| [DM \(feat\. Guè\)](https://open.spotify.com/track/1uye7szvzXiEr4gQcRfDip) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 3:14 | 2023-09-07 |  |
 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 | 2022-07-14 |  |
 | [DUBBI](https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:54 | 2022-04-28 | 2022-07-29 |
 | [Eravamo Re](https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Vero](https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7) | 3:02 | 2022-04-28 | 2022-05-20 |

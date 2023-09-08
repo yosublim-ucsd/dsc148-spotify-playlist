@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,804 likes - 111 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,811 likes - 111 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 37 | [Last Christmas](https://open.spotify.com/track/5MlS3W0G127IhsDLUe3QqQ) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 3:20 |
 | 38 | [That Time of Year](https://open.spotify.com/track/1kEFzZpyfpgBYC0PnODx2F) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Cast \- Olaf's Frozen Adventure](https://open.spotify.com/artist/5UvAcLn6pAJHjdtA1yVI1A) | [Olaf's Frozen Adventure \(Original Soundtrack\)](https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa) | 3:03 |
 | 39 | [Frosty the Snowman \(Recorded as "Perry Saves Christmas"\)](https://open.spotify.com/track/35RR0sUJtfdTVWi98cGMCg) | [Carl the Intern](https://open.spotify.com/artist/4FtomEyAmaG5fHc283H9JZ), [Major Monogram](https://open.spotify.com/artist/2cKSFMz5WSX7aJS3hclJbz) | [Phineas and Ferb Holiday Favorites](https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x) | 2:26 |
-| 40 | [Something There \- From "Beauty and the Beast"/Soundtrack Version](https://open.spotify.com/track/6mDxu0xwhv5tn1oMTNUypu) | [Robby Benson](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Paige O'Hara](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM), [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [David Ogden Stiers](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 2:18 |
+| 40 | [Something There](https://open.spotify.com/track/6mDxu0xwhv5tn1oMTNUypu) | [Robby Benson](https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP), [Jerry Orbach](https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO), [Paige O'Hara](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM), [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [David Ogden Stiers](https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 2:18 |
 | 41 | [Merry Christmas Baby](https://open.spotify.com/track/0ozLMntlOvHd0Ft21VkdRu) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Noelle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) | 2:42 |
 | 42 | [Wonderful Christmastime](https://open.spotify.com/track/2VmipRkRAi9F78zojC3CzN) | [Randy Crenshaw](https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv) | [Disney Jingle Bell Fun](https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8) | 2:36 |
 | 43 | [O Holy Night](https://open.spotify.com/track/2rB5qBiVYAbUGrglToUv7F) | [Massed Choir](https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr) | [Candlelight Processional](https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy) | 2:36 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 110 | [Hearts Full of Cheer \- From "Elena of Avalor"](https://open.spotify.com/track/30LsNscPjAU2uzAfMMbrx9) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music Holiday Hits](https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg) | 2:16 |
 | 111 | [Audrey's Christmas Rewind](https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Jadah Marie](https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz) | [Audrey's Christmas Rewind](https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S) | 2:13 |
 
-Snapshot ID: `MCw2MzVhZDM3YWI4OGEyMzYxYmNkM2VhYmRmYjQ3NjViMzhjYjFiYmYz`
+Snapshot ID: `MCwyNzAwNjExZDUxZTQ4NWZmNGQzYmNjNGNjNjc3OWIzOThlYWFkZTgx`

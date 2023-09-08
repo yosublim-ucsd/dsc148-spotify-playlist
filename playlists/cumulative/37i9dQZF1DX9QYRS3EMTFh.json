@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Shenseea",
+  "description": "Les hits dancehall du moment. Photo : Meryl",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -757,6 +757,28 @@
     },
     {
       "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/0WIX8aQ4NyUv7udYrrZMyL"
+      },
+      "artists": [
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156651,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/1uMNz6kjNjozloAy0O7vbO"
+    },
+    {
+      "album": {
         "name": "Bong Bing",
         "url": "https://open.spotify.com/album/1jrrIPwjrDSsnx7Ciaqge6"
       },
@@ -1173,6 +1195,32 @@
     },
     {
       "album": {
+        "name": "Choquer",
+        "url": "https://open.spotify.com/album/6uU4LXwHzQhcXEkHipagSX"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Lya",
+          "url": "https://open.spotify.com/artist/36gjO1QUVa9mEXVCzN26o3"
+        },
+        {
+          "name": "MC L da Vinte",
+          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142082,
+      "name": "Choquer",
+      "url": "https://open.spotify.com/track/7y1z1fQtI1akuOk4lMrqEm"
+    },
+    {
+      "album": {
         "name": "Clap Clap",
         "url": "https://open.spotify.com/album/4ujzl78TKBfkTbmB5VtllJ"
       },
@@ -1398,7 +1446,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 145200,
       "name": "Dancehall Frequency - Radio Edit",
       "url": "https://open.spotify.com/track/2Hk1u1S1oOH0DwXjpSbo5i"
@@ -2733,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "JOLIE MADAME",
+        "url": "https://open.spotify.com/album/4M7VIcI3qabWS6R8bxHYIQ"
+      },
+      "artists": [
+        {
+          "name": "T Kimp Gee",
+          "url": "https://open.spotify.com/artist/1NxMxZ8dG0JJbg02CXtw2D"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "JOLIE MADAME",
+      "url": "https://open.spotify.com/track/3gU73chQ8mscpYDEEemDt1"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/0bY72Hneo3IVkXmImWoca5"
       },
@@ -2828,7 +2894,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 183253,
       "name": "Killy (feat. Popcaan)",
       "url": "https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG"
@@ -5725,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "Turnup",
+        "url": "https://open.spotify.com/album/3zl7XCggB15L49E9tiRlpI"
+      },
+      "artists": [
+        {
+          "name": "Smitmeister",
+          "url": "https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "Turnup",
+      "url": "https://open.spotify.com/track/2uqPERGb5PUiiNQljAW0dz"
+    },
+    {
+      "album": {
         "name": "U'r Bad",
         "url": "https://open.spotify.com/album/5U9wRqpFlPI7qENyw9vHfX"
       },
@@ -5762,7 +5846,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 192000,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/1qLnwmHgAi1BRAFQovStAY"

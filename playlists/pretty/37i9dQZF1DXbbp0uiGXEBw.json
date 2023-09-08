@@ -1,28 +1,32 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Thu Minh",
-  "num_followers": 23046,
+  "num_followers": 23057,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDMyNzYxNDVmYTE5ZjI0ZGI5NzAwYzBjZDY2MThmYjhlMzYwYzA0",
+  "snapshot_id": "MCw5ZmJjZDgxYmY4MWJhMWNjZDVhZjU3MjVlNWRmOGE0OTQyYzAzODJm",
   "tracks": [
     {
-      "added_at": "2023-09-05 17:00:00",
+      "added_at": "2023-09-07 13:00:00",
       "album": {
-        "name": "Ra L\u00e0 Em \u0110\u00e2u Qu\u00e1 Mong Manh",
-        "url": "https://open.spotify.com/album/202hOG3XMicPSsM983t21w"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF"
       },
       "artists": [
         {
-          "name": "Charmy Pham",
-          "url": "https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO"
+          "name": "Thu Minh",
+          "url": "https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5"
+        },
+        {
+          "name": "Th\u1ea3o Trang",
+          "url": "https://open.spotify.com/artist/2maFpa4M8FWKvytGzgLhyl"
         }
       ],
-      "duration_ms": 261800,
-      "name": "Ra L\u00e0 Em \u0110\u00e2u Qu\u00e1 Mong Manh",
-      "url": "https://open.spotify.com/track/0AfV1Fr2nWmXFxC3RkhawH"
+      "duration_ms": 220546,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq"
     },
     {
       "added_at": "2023-09-05 17:00:00",

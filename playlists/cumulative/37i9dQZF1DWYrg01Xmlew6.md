@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Luchè e CoCo in cover.
 
-229 songs - 10 hr 45 min
+230 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [IL MIO VINO \(feat\. Speranza\)](https://open.spotify.com/track/4Ok2Kw1zqfD5N5h7IToYtl) | [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [PIAZZA NOIA](https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa) | 3:28 | 2023-02-09 | 2023-03-10 |
 | [Imperativo](https://open.spotify.com/track/7erlznGZasHpA6d1wdRYe7) | [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [Imperativo](https://open.spotify.com/album/05J2YPEPokhVensBiDokWp) | 2:18 | 2022-06-30 | 2022-07-15 |
 | [Ind smman](https://open.spotify.com/track/3mwYpTNy6uYkyIakEvMcDW) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [HOLLYWOOD](https://open.spotify.com/album/32Nb9JBPqfQthAwwBRjizS) | 2:34 | 2023-01-12 |  |
+| [INDELEBILE](https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB) | [GELO](https://open.spotify.com/artist/3gLdJ1hx80k9rHIjp91Qkl), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [INDELEBILE](https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72) | 2:49 | 2023-09-07 |  |
 | [Jeep](https://open.spotify.com/track/2ZH8L9c8uH1nDV6ro7LKUP) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [Jeep](https://open.spotify.com/album/5TYYBSF7XaljaxC1dpKnhO) | 1:51 | 2023-07-13 | 2023-08-11 |
 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 | 2022-05-26 | 2023-04-07 |
 | [JUMPIN'](https://open.spotify.com/track/4TWDmtrmkcCMxL4e8CGCoV) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [JUMPIN'](https://open.spotify.com/album/3yfmPXs58bqVE1dL90uxWe) | 2:21 | 2022-12-08 | 2023-01-13 |

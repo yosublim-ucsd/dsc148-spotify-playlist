@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 48788,
+  "num_followers": 48809,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTYwZTI1OWM1ZDY1NmJmZThmZmRlMTkwNmFlMzJlMDcxYjAyNTU1",
+  "snapshot_id": "MCw4MTA2ZWI1OWNhMWZiMzk1NWNkZjE0YWFhYTZiOWE3YzJiNGFjNzVm",
   "tracks": [
     {
       "added_at": "2023-07-17 06:17:21",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "Good Day (My love X LEESEOKHOON)",
-        "url": "https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Good Day (My love X LEESEOKHOON)",
-      "url": "https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "Origin of Love",
         "url": "https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 232226,
       "name": "Origin of Love",
       "url": "https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "Good Day (My love X LEESEOKHOON)",
+        "url": "https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Good Day (My love X LEESEOKHOON)",
+      "url": "https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO"
     },
     {
       "added_at": "2023-07-17 06:17:21",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-17 06:17:21",
       "album": {
-        "name": "\ub108\ub294\uc5b4\ub54c",
-        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
-      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
-    },
-    {
-      "added_at": "2023-07-17 06:17:21",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/5PNgP4gYjqhxDAT1GrNTme"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 205854,
       "name": "Sweet lies",
       "url": "https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR"
+    },
+    {
+      "added_at": "2023-07-17 06:17:21",
+      "album": {
+        "name": "\ub108\ub294\uc5b4\ub54c",
+        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
+      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
     },
     {
       "added_at": "2023-07-17 06:17:21",

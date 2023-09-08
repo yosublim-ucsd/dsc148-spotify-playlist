@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-249 songs - 8 hr 28 min
+251 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bundle Of Joy](https://open.spotify.com/track/0uMbCB0ub2cGxgOf7fmiUj) | [Lola Fuentes](https://open.spotify.com/artist/5KLHjKxR9I5LuvQJ5xju6u) | [Bundle Of Joy](https://open.spotify.com/album/0DcXoQBIWV143wjNJHjKAo) | 1:08 | 2023-01-27 |  |
 | [Butterfly Fly](https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX) | [Mimi Davies](https://open.spotify.com/artist/1TyyV46EBJAiR2JXpMLFEX) | [Butterfly Fly](https://open.spotify.com/album/5qs4Anclgvr4iTgsexkOX8) | 2:47 | 2021-11-11 |  |
 | [Bye Baby Bunting](https://open.spotify.com/track/5T9nGchAgWtiRhvUJYLcn0) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Bye Baby Bunting](https://open.spotify.com/album/5BQjsw7XhxeAhNctk6ZAYT) | 1:45 | 2023-01-27 |  |
-| [Byssan Lull](https://open.spotify.com/track/6WmVu5QBY4uO0wvUTGfYjw) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Byssan Lull](https://open.spotify.com/album/2Q9FYlKgK2eNIPqfbuq9pI) | 2:34 | 2022-10-28 |  |
+| [Byssan Lull](https://open.spotify.com/track/6WmVu5QBY4uO0wvUTGfYjw) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Byssan Lull](https://open.spotify.com/album/2Q9FYlKgK2eNIPqfbuq9pI) | 2:34 | 2022-10-28 | 2023-09-08 |
 | [Can You Count The Sheep On The Hill](https://open.spotify.com/track/2SNJjNJhrl6pcEKY9eEDnZ) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When You Sleep I'm Close](https://open.spotify.com/album/1zu2s0djuBWMdytoE9uS8B) | 2:40 | 2021-11-11 |  |
 | [Caprice](https://open.spotify.com/track/4v1fFOBm1wFFwHPgDjn8pS) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Caprice](https://open.spotify.com/album/5hUCXVvnNkX9A3bPkoHGP6) | 2:29 | 2023-01-27 | 2023-06-16 |
 | [Clementine](https://open.spotify.com/track/1DE5TG9kbk1EhFI8jbnynS) | [Edwin Memic](https://open.spotify.com/artist/6UMtxbBaTzGQlZkfq3Xz09) | [Clementine](https://open.spotify.com/album/6I0v2cWcESLdNBSxmZsWLi) | 1:58 | 2023-02-17 |  |
@@ -110,12 +110,13 @@
 | [Hush\-a\-Bye Birdie](https://open.spotify.com/track/2WhF4LPVf9luA43g43ZF9C) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Hush\-a\-Bye Birdie](https://open.spotify.com/album/4qj9znweQfRuwXLwqsn1BN) | 1:38 | 2023-01-27 |  |
 | [Hust Little Baby](https://open.spotify.com/track/2zaWE5lNjsZzJEoD3yWGeH) | [Troll Woods](https://open.spotify.com/artist/5KXlJyBOkWpXv4lO68O0CA) | [Hush Little Baby](https://open.spotify.com/album/4mlJZVv6tIvpv8Ct09i2nM) | 2:09 | 2021-11-11 |  |
 | [I Gave my Love a Cherry](https://open.spotify.com/track/3KaA1A8cvZsQQugNj8eQDg) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [I Gave my Love a Cherry](https://open.spotify.com/album/39h04qkVfRj1wRNcDEgF2J) | 1:42 | 2023-05-19 |  |
-| [I Have Secret Wings](https://open.spotify.com/track/7ovJaaCFlLxPf3BUQlU3l9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [I Have Secret Wings](https://open.spotify.com/album/6ZBGnOng0nwtcIbJWkO9Rz) | 2:14 | 2023-03-17 |  |
+| [I Have Secret Wings](https://open.spotify.com/track/7ovJaaCFlLxPf3BUQlU3l9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [I Have Secret Wings](https://open.spotify.com/album/6ZBGnOng0nwtcIbJWkO9Rz) | 2:14 | 2023-03-17 | 2023-09-08 |
 | [I Jump To Grab A Star](https://open.spotify.com/track/1DPotsjdKBF7HicSOwvGt2) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [I Jump To Grab A Star](https://open.spotify.com/album/12Rms3EhCNA2N1OLmbffy3) | 2:55 | 2022-12-16 |  |
 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 | 2023-05-19 |  |
 | [I Stay Until You Sleep](https://open.spotify.com/track/4RbBxl2t2gLPcs465yX4pP) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [I Stay Until You Sleep](https://open.spotify.com/album/137c1tSYODEXlIFdAOebp3) | 4:02 | 2021-11-11 | 2023-01-28 |
 | [I trollskogen](https://open.spotify.com/track/5kz2PDCQ8kTkSyT3jhZdn8) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [I trollskogen](https://open.spotify.com/album/1vC9LVXA3ifzigFY332i0q) | 1:37 | 2022-11-25 | 2023-09-02 |
 | [I Wish Tonight](https://open.spotify.com/track/2vHUbaMy2n8XgPIYzrsaeK) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [I Wish Tonight](https://open.spotify.com/album/7jalRpXTMCrJWixGjq13I4) | 1:05 | 2023-05-19 |  |
+| [I'm a Little Teapot](https://open.spotify.com/track/6MLPHWTCLr7ClMn1ZZQffY) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [I'm a Little Teapot](https://open.spotify.com/album/0YKdefaSXNIsdEBbJNJVuS) | 1:29 | 2023-09-08 |  |
 | [I'm Just Happy You Are Here](https://open.spotify.com/track/5THYwLZSyxQmriI7TQiXG7) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [I'm Just Happy You Are Here](https://open.spotify.com/album/1FnVNnpr8Cdl7iFODCWoc4) | 2:25 | 2021-11-11 |  |
 | [Ida's Summer Song](https://open.spotify.com/track/3HjJV5CYJTeaYHO6PbxwHT) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Ida's Summer Song](https://open.spotify.com/album/2cQqp6CbYLtdd7OBTcSR4M) | 2:15 | 2023-08-31 |  |
 | [If You're Happy and You Know It](https://open.spotify.com/track/5r9A6XkKEjazT4A0PhXgiy) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [If You're Happy and You Know It](https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR) | 2:06 | 2021-11-11 | 2023-09-02 |
@@ -203,6 +204,7 @@
 | [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 | 2023-05-19 |
 | [Sov På Min Arm \- Guitar Version](https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [Sov På Min Arm \- Guitar Version](https://open.spotify.com/album/5zfOuOoNi1n6n4XvadqK2T) | 1:53 | 2023-01-06 | 2023-09-01 |
 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 | 2023-05-19 |  |
+| [Starlight Serenade](https://open.spotify.com/track/3OjmWIwHphQh76k1dQj1RU) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [Starlight Serenade](https://open.spotify.com/album/09CbfL5hewJcAUxEpqJCxi) | 1:40 | 2023-09-08 |  |
 | [stars aligned](https://open.spotify.com/track/1jk91TedSXVsA0bgtrASPz) | [Lukas Hofmann](https://open.spotify.com/artist/0ibIUDNTpWg6FSpO0fPNKz) | [Peanut and Jelly](https://open.spotify.com/album/5gYuIkBcnYNCxhsZ9lOxOW) | 2:20 | 2023-06-15 |  |
 | [Stars at Night](https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF) | [3rd Street Guitar](https://open.spotify.com/artist/2A7EWzNXsSbpTOpw8NvUhF) | [Stars at Night](https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP) | 1:42 | 2021-11-11 |  |
 | [Stars From Afar](https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Cozy Evening](https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp) | 2:48 | 2023-08-10 |  |
@@ -212,7 +214,7 @@
 | [Swing Low, Sweet Chariot](https://open.spotify.com/track/4gLXCiJEJjqzvGq9kmtTYI) | [Fardeen Evans](https://open.spotify.com/artist/5Vyql7da8OmbtgTqbOMSC1) | [Swing Low, Sweet Chariot](https://open.spotify.com/album/7g3YIYhWzOPxuUCldvXiRp) | 2:02 | 2023-01-27 |  |
 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 | 2021-11-11 |  |
 | [Tell Me That Fairytale](https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Tell Me That Fairytale](https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj) | 3:24 | 2021-11-11 |  |
-| [The Alphabet Song](https://open.spotify.com/track/4jC3Br8424Yo1osvBFz2Uk) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [The Alphabet Song](https://open.spotify.com/album/6D9RadQxBDICkOjjMq8Mf3) | 1:42 | 2021-11-11 |  |
+| [The Alphabet Song](https://open.spotify.com/track/4jC3Br8424Yo1osvBFz2Uk) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [The Alphabet Song](https://open.spotify.com/album/6D9RadQxBDICkOjjMq8Mf3) | 1:42 | 2021-11-11 | 2023-09-08 |
 | [The Blue Coloring Book](https://open.spotify.com/track/4rDU0qGUzyomeT3GgXH0QX) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [The Blue Coloring Book](https://open.spotify.com/album/2DtIFYiufejv0I6K0vijcX) | 2:56 | 2023-03-17 |  |
 | [The Happy Cow](https://open.spotify.com/track/776scT1OUEP6QU4y12h2I9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [The Happy Cow](https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO) | 2:37 | 2022-11-25 |  |
 | [The More We Get Together](https://open.spotify.com/track/7wGPXZCuXokL9AsePKRgSk) | [Selena Hyman](https://open.spotify.com/artist/3bO3gS583licdyam4CyuyU) | [Star Light, Star Bright](https://open.spotify.com/album/3Jzemp5ff1ZqK4oCNmb7ov) | 1:45 | 2021-11-11 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,055 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,065 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [prisner](https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [butterfly](https://open.spotify.com/album/0heal5aAbfR3Y81QhAijRW) | 4:38 |
 | 2 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 3 | [Such Is Life](https://open.spotify.com/track/4z3LoG6424ab1NtbI81xEU) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Who Are You?](https://open.spotify.com/album/4xq8VBZYwExP31yuSidyZg) | 4:13 |
-| 4 | [Rush Hour](https://open.spotify.com/track/5QQqHH7Sk0sFGyxELjDb0e) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Time Capsule](https://open.spotify.com/album/7uQhtRHu9XIUVrfIwn3Z8s) | 3:02 |
+| 4 | [Rush Hour](https://open.spotify.com/track/5QQqHH7Sk0sFGyxELjDb0e) | [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Time Capsule](https://open.spotify.com/album/7uQhtRHu9XIUVrfIwn3Z8s) | 3:02 |
 | 5 | [What Comes Up](https://open.spotify.com/track/7qGvSZRd9wqpDFGxOJ4E1I) | [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef) | [Hear Me Talkin'](https://open.spotify.com/album/6WVg7QuomPZPCMHDjziHnX) | 3:36 |
 | 6 | [Prosecco](https://open.spotify.com/track/7pt3SQvLhjpDdHZYzejRfN) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Prosecco](https://open.spotify.com/album/3yfnIuUhfGad79WWAv768J) | 3:41 |
 | 7 | [No Mo'](https://open.spotify.com/track/40ZFcO8L1huMBl7KitreLh) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [No Mo'](https://open.spotify.com/album/16FnBU6gaf9ZYYIJjQ56w2) | 3:58 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUeUTA8xEERe.md) - [plain]
 | 25 | [Monster](https://open.spotify.com/track/679HxTmmDmrbs8BIuZr26f) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller \(Expanded Edition\)](https://open.spotify.com/album/70eLZovtqw7sivCdvooBgk) | 4:00 |
 | 26 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 |
 
-Snapshot ID: `MCxlNjhhZmI4OWQzMjY4ODI3NThiZTAyNGFkYjVhOGNhMmM4ZWUyYjI1`
+Snapshot ID: `MCwwNTQzZmM0NjNhZTFlOGI3MDE3NjIwZjY1YmI1ZTBjMWE1ZTUwZjE4`

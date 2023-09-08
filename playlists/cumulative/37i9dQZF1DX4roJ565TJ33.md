@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-153 songs - 11 hr 45 min
+154 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Lullaby in Green](https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Layers of Life](https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh) | 4:46 | 2023-03-02 |  |
 | [L’Est](https://open.spotify.com/track/1Ptjlatj2888WP6e2xkb4B) | [Oddjob](https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n) | [Kong](https://open.spotify.com/album/2hVca2VwJ2mauheWFaQs0v) | 4:44 | 2021-11-08 | 2022-07-29 |
 | [Ma](https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:47 | 2021-11-08 |  |
+| [Mamma](https://open.spotify.com/track/1dpOCZKbd4FUUQsqtSMAsb) | [Karl Wallmyr](https://open.spotify.com/artist/08OHaqFpoHPuOWMpn1ubRh), [Nils Berg](https://open.spotify.com/artist/2s9FIUl0ONVmqyaMmPU4od), [Max Agnas](https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA), [Per Wallmyr](https://open.spotify.com/artist/39GtMYS5AOFi4gjL1De6wd), [Mauritz Agnas](https://open.spotify.com/artist/37cquj8T6GWH3AjTTluu8P) | [Mamma](https://open.spotify.com/album/2uvyB16KYd4f5jghny7FiY) | 3:04 | 2023-09-08 |  |
 | [Med ögon känsliga för grönt](https://open.spotify.com/track/3CBzqx1pnfeI2L7GlIOny0) | [Nannie Porres](https://open.spotify.com/artist/6IboNBnbFipQmDMFJ30tEk) | [Nära](https://open.spotify.com/album/6HjPtJzVZVuRuXLPHqPOQx) | 4:59 | 2021-11-08 |  |
 | [Min bild](https://open.spotify.com/track/0Mj8pe6EAvO6tm73gLfcCI) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [I det lilla händer det mesta](https://open.spotify.com/album/6vWDQSUaFJg9T3LDoE1YMd) | 4:54 | 2021-11-08 |  |
 | [Mjuk grupp](https://open.spotify.com/track/1tDApryJcHjivjt5oLQgKm) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Mjuk grupp](https://open.spotify.com/album/0v5eDxQGFJ9qRFRmyQxYnB) | 6:56 | 2022-10-13 |  |

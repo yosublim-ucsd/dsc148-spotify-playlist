@@ -4299,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "Study",
+        "url": "https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ"
+      },
+      "artists": [
+        {
+          "name": "Test Subjects",
+          "url": "https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219565,
+      "name": "Boy Next Door",
+      "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
+    },
+    {
+      "album": {
         "name": "BOYFRIEND KILLER",
         "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
       },
@@ -18508,7 +18526,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 117300,
       "name": "meteor",
       "url": "https://open.spotify.com/track/0mmltNgymbcts1fxQ0d9PR"
@@ -28081,6 +28099,24 @@
     },
     {
       "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/0sSh6RUhUl11G0yh5fKJ3x"
+      },
+      "artists": [
+        {
+          "name": "smol fish",
+          "url": "https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144494,
+      "name": "Sweet Taste",
+      "url": "https://open.spotify.com/track/3kPK0OBCCzH0y2xYcf2qeA"
+    },
+    {
+      "album": {
         "name": "Sweets Always Win The Crowd",
         "url": "https://open.spotify.com/album/0MP6IEdNFmxNnbihrKRzS6"
       },
@@ -29934,7 +29970,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 231566,
       "name": "too strong",
       "url": "https://open.spotify.com/track/1soy2KpqWppS1vzVMPpTvb"

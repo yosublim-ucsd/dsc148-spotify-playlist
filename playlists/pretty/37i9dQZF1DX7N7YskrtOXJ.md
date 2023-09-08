@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,754 likes - 101 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,823 likes - 101 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 87 | [María](https://open.spotify.com/track/1tYOodxB9PDbppU5qlxAoX) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 5:56 |
 | 88 | [No te lo puedo creer](https://open.spotify.com/track/2mtlU0zHtox2WJPMdfZzyr) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [La Pasión Florece](https://open.spotify.com/album/3ajxuhibornCsqd160ASSU) | 3:48 |
 | 89 | [Quedate Aqui](https://open.spotify.com/track/5gYkBYHI5KIMxnjSOD8Q9V) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Lo Mejor de la Cumbia](https://open.spotify.com/album/5g6oiGzKxWPCOG41QwzBMz) | 3:45 |
-| 90 | [Una Ráfaga De Amor](https://open.spotify.com/track/3JxK3b6YvsTQpoDEcOa0Bp) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo Mejor de Ráfaga](https://open.spotify.com/album/328Ys1TcAr9CNAHcy9jf9N) | 3:02 |
+| 90 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 |
 | 91 | [El Divorcio](https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [El Divorcio](https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz) | 4:03 |
 | 92 | [Pero No Puedo](https://open.spotify.com/track/7kfnYfv7tO6KrCdOS7uWCd) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Aquel Hotel](https://open.spotify.com/album/1p13W7kw4tvsqak4IDbbJr) | 3:10 |
 | 93 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 100 | [Los Que Toman Como Rey](https://open.spotify.com/track/5WSqDw6NzRY89kiAUM3gxV) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Rey Mambo](https://open.spotify.com/album/076BEqIB8d6JYX8Cky7LKI) | 2:50 |
 | 101 | [No Tomo Más](https://open.spotify.com/track/2bNO2GXxVXQUmdEc3ldjly) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Prohibido](https://open.spotify.com/album/2yK1FtavuzNVvyNy6PbsnM) | 4:24 |
 
-Snapshot ID: `MCw2ODQ3NTE0ZjcyZTg4MTJhZjU3Y2Q5ZGYxNGY2ZDA5MmJiM2VlMmI3`
+Snapshot ID: `MCwwNTZhZTAyMDhmMzZlY2JlMzZhMGM5ZDQ2YjEzZTA1YzkxZTU3ZGIy`

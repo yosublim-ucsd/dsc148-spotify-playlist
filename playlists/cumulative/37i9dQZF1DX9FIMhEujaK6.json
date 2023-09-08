@@ -344,10 +344,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 306678,
       "name": "Dahlia",
       "url": "https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz"
+    },
+    {
+      "album": {
+        "name": "Neon Dust",
+        "url": "https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306678,
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ"
     },
     {
       "album": {

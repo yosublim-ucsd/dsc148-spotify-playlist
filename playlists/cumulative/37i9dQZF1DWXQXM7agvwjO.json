@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: ADOY (South Korean)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: STUTS + Noi Naa (YONLAPA)",
   "name": ".ORG",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 206000,
       "name": "20:37",
       "url": "https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP"
+    },
+    {
+      "album": {
+        "name": "22 of Me",
+        "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
+      },
+      "artists": [
+        {
+          "name": "Mighfar Suganda",
+          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210778,
+      "name": "22 of Me",
+      "url": "https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3"
     },
     {
       "album": {
@@ -670,7 +688,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 197173,
       "name": "All My Friends Are Fallin' In Love",
       "url": "https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d"
@@ -3471,6 +3489,28 @@
     },
     {
       "album": {
+        "name": "Self Soothing",
+        "url": "https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Daylight (feat. GANGGA)",
+      "url": "https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C"
+    },
+    {
+      "album": {
         "name": "FREE FALL",
         "url": "https://open.spotify.com/album/4F5JcwEM357HqVobOz0o3b"
       },
@@ -3666,7 +3706,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 160193,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer"
@@ -3742,7 +3782,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 210253,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/6TZCxArsSdK0k4nG8KBdbb"
@@ -4309,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Blueboy Must Die",
+        "url": "https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164725,
+      "name": "Elevator Music (OMG)",
+      "url": "https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2"
+    },
+    {
+      "album": {
         "name": "Em Trang Tr\u00ed",
         "url": "https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3"
       },
@@ -4428,7 +4486,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 266093,
       "name": "Eskalasi",
       "url": "https://open.spotify.com/track/6A75fM24jq8AJ8JQeSeuam"
@@ -7294,7 +7352,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 139920,
       "name": "inferno - Edit",
       "url": "https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5"
@@ -8052,7 +8110,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 237331,
       "name": "Lazarus after two years",
       "url": "https://open.spotify.com/track/0bDltT6qTCveC1ZB8I1XJI"
@@ -8780,6 +8838,28 @@
       "duration_ms": 340320,
       "name": "Lovebites",
       "url": "https://open.spotify.com/track/7EpfSyVW7rADdAj9mG7lbV"
+    },
+    {
+      "album": {
+        "name": "Lovebites (Tamio Sakuma Remix)",
+        "url": "https://open.spotify.com/album/54yX0P1hbzOCuqXnYSIfvU"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        },
+        {
+          "name": "Tamio Sakuma",
+          "url": "https://open.spotify.com/artist/6thMychOI4hNx5UlChbzUt"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267067,
+      "name": "Lovebites - Tamio Sakuma Remix",
+      "url": "https://open.spotify.com/track/1PE0cRc1m8z3k24pd24LXD"
     },
     {
       "album": {
@@ -12070,7 +12150,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 198095,
       "name": "SANCTUARY",
       "url": "https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL"
@@ -12508,7 +12588,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 135080,
       "name": "Sing in the Rain",
       "url": "https://open.spotify.com/track/0oVaYKGZswYA36QaqUKKBT"
@@ -12978,7 +13058,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 275630,
       "name": "Space Orphans",
       "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
@@ -13386,7 +13466,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
@@ -13422,7 +13502,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 245830,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/4WTUBYVtbDiB4BGqnaXRGe"
@@ -13660,7 +13740,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 171285,
       "name": "Sunset Sensory",
       "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
@@ -13980,7 +14060,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 194142,
       "name": "tell me, will we survive?",
       "url": "https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44"
@@ -14226,7 +14306,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 138947,
       "name": "thinkaboutyou",
       "url": "https://open.spotify.com/track/0cTmuAFWdPOkwwlzUCfHWh"
@@ -14418,7 +14498,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 179571,
       "name": "To summer didn\u2019t shine for us",
       "url": "https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l"
@@ -14793,6 +14873,32 @@
     },
     {
       "album": {
+        "name": "Two Kites",
+        "url": "https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Noi Naa",
+          "url": "https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2"
+        },
+        {
+          "name": "YONLAPA",
+          "url": "https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "Two Kites",
+      "url": "https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80"
+    },
+    {
+      "album": {
         "name": "T\u00e0u Bi\u1ec3n",
         "url": "https://open.spotify.com/album/1IuJCra9lGMb1U0FVcjMfM"
       },
@@ -15008,7 +15114,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 209777,
       "name": "used to be used to be used to be",
       "url": "https://open.spotify.com/track/1IZmxDVp2ArH5QoRe5kDOk"
@@ -15986,7 +16092,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 159492,
       "name": "Without You - Sped Up",
       "url": "https://open.spotify.com/track/5D0RJigerZEWB1ctwkDRW8"
@@ -17724,7 +17830,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 207624,
       "name": "\u6b7b\u3093\u3067\u304f\u308c",
       "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
@@ -18082,7 +18188,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 232499,
       "name": "\uc131\uc2e4\ud558\uc5ec \ub2e4\uc815\ud558\uace0 \ub54c\ub85c\ub294 sometimes you are\u2026",
       "url": "https://open.spotify.com/track/42JioTULdqZ2f1IkikFd2R"

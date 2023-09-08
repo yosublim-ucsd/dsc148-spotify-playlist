@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Olivia Belli
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,563 likes - 78 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,615 likes - 78 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 77 | [Ofertoire pour le jour de pâques, o filii & Filae](https://open.spotify.com/track/3WJRViOsLhBVHFZHl0h1nj) | [Jean\-François Dandrieu](https://open.spotify.com/artist/1YvAzRd2reEXNRsLX9Y4rC), [Pieter\-Jan Belder](https://open.spotify.com/artist/1ByW4CLsXe5zt5i7XgQ1EH) | [Dandrieu: Premier livre de pièces D'orgue](https://open.spotify.com/album/4rByu0oT2YzYCfFCxlHUDJ) | 6:39 |
 | 78 | [5 Lieder Op 39: No 4, Befreit](https://open.spotify.com/track/2fyaDtOD7FmHjfb5ecBNZ9) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Daniel Behle](https://open.spotify.com/artist/5xip0PcPYnJDMPLDjCsVsW), [Thomas Rösner](https://open.spotify.com/artist/2TuDAYvIRPehSX1Jl8zjeu), [Borusan Istanbul Philharmonic Orchestra](https://open.spotify.com/artist/422GGz72U4bDEyZefiuXsC) | [Strauss: 5 Lieder, Op\. 39: No\. 4, Befreit](https://open.spotify.com/album/7wqWq6lo66EfSxlcx6RXlc) | 5:00 |
 
-Snapshot ID: `MCwzMTM3NjE3MzBiYjgxOTQ1OWVkOWYzZDI2MTZjNGEwNjgyN2Y2OWIz`
+Snapshot ID: `MCxlY2M4ZTZjZmNkMmJmZjI3ODkxMWQwMzNjMzJlZmExZTUzNDYyZWE1`

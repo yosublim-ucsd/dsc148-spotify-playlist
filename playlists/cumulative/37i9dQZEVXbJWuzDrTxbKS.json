@@ -11502,7 +11502,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 181818,
       "name": "It\u0101lija",
       "url": "https://open.spotify.com/track/3bqrb3pbc4PvKwXXzPlipG"
@@ -11546,6 +11546,24 @@
       "duration_ms": 155312,
       "name": "IZV\u0112M\u0100MIES",
       "url": "https://open.spotify.com/track/0WXCCUa7Ud62vHSz10zUy6"
+    },
+    {
+      "album": {
+        "name": "JAA MAZAA ES SKAABAIS",
+        "url": "https://open.spotify.com/album/2T7MHfFVIwVQlaFpiZzfXy"
+      },
+      "artists": [
+        {
+          "name": "$ourJ",
+          "url": "https://open.spotify.com/artist/4kkqGukpeagcuHEBdoV1pv"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "JAA MAZAA ES SKAABAIS",
+      "url": "https://open.spotify.com/track/1LJH42zyVqwVpNjOYmz7B6"
     },
     {
       "album": {
@@ -16620,7 +16638,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 271067,
       "name": "M\u016bsu m\u012blest\u012bba",
       "url": "https://open.spotify.com/track/0OkU8xnHpHmbfrgdJa0NFs"
@@ -22668,7 +22686,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -28504,7 +28522,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 239910,
       "name": "\u0413\u043e\u0440\u044b \u043f\u043e \u043a\u043e\u043b\u0435\u043d\u043e",
       "url": "https://open.spotify.com/track/7f6ALwMTMLAhXCfoHYLCsx"
@@ -29796,7 +29814,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 195532,
       "name": "\u041f\u044c\u044f\u043d\u044b\u0439 \u0434\u043e\u0436\u0434\u044c",
       "url": "https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc"

@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 333168,
       "name": "Bleached",
       "url": "https://open.spotify.com/track/7tKlED6H6p0FB92PqsKDtq"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 196875,
       "name": "Dimmed Lights",
       "url": "https://open.spotify.com/track/4QFv8PRJiproUVeh3CxdTW"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 267240,
       "name": "Good Hair Day - Harvey Sutherland Remix",
       "url": "https://open.spotify.com/track/1iHtGA7VOlHET7JScO42vB"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 259842,
       "name": "RagJazz",
       "url": "https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU"
@@ -1608,6 +1608,24 @@
       "duration_ms": 275748,
       "name": "Spin Cycle",
       "url": "https://open.spotify.com/track/7EpC6cPzTPMTvx48uZUdZp"
+    },
+    {
+      "album": {
+        "name": "Softboi",
+        "url": "https://open.spotify.com/album/17d8Xd8QtMjXSCDb4pb5t1"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt"
     },
     {
       "album": {
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 240948,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/56F50CYq9MRcefIShTLPL4"

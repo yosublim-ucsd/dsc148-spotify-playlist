@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 442733,
+  "num_followers": 442891,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmQxODBhYTRmYWM1ZWYyNmRlNjcwNGVhYzkxYjQwY2VjMDEwMDA0",
+  "snapshot_id": "MCw3MDJlZDE1MDdkODkzODIyY2RlNGY0MDU5NGJjNWRmOWU2YTliOGZj",
   "tracks": [
     {
       "added_at": "2023-08-25 16:00:08",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "I Needed / Intercession, On Behalf",
-        "url": "https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p"
-      },
-      "artists": [
-        {
-          "name": "Hanna",
-          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
-        }
-      ],
-      "duration_ms": 397640,
-      "name": "I Needed",
-      "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "I Needed / Intercession, On Behalf",
+        "url": "https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB"
+        }
+      ],
+      "duration_ms": 397640,
+      "name": "I Needed",
+      "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
+        "name": "Indepanties day",
+        "url": "https://open.spotify.com/album/48vkyleNJElgkXrHr79f27"
+      },
+      "artists": [
+        {
+          "name": "Hosiannah",
+          "url": "https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Indepanties day",
+      "url": "https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
         "name": "No Borders",
         "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 161400,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
         }
       ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -579,6 +579,22 @@
       "duration_ms": 161152,
       "name": "Closer To The Essence",
       "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -651,22 +667,18 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
+        "name": "Polar Circle",
+        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
       },
       "artists": [
         {
-          "name": "Prequel",
-          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
-        },
-        {
-          "name": "Cazeaux O.S.L.O",
-          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
+          "name": "Ekfat",
+          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
+      "duration_ms": 117660,
+      "name": "Polar Circle",
+      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -687,18 +699,22 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Polar Circle",
-        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
       },
       "artists": [
         {
-          "name": "Ekfat",
-          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
+          "name": "Prequel",
+          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
+        },
+        {
+          "name": "Cazeaux O.S.L.O",
+          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
         }
       ],
-      "duration_ms": 117660,
-      "name": "Polar Circle",
-      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
+      "duration_ms": 210000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 373974,
-      "name": "008A1",
-      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
         "name": "SETRA",
         "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
       },
@@ -803,58 +803,6 @@
       "duration_ms": 128571,
       "name": "Setra",
       "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
-        "name": "Milkyway",
-        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
-      },
-      "artists": [
-        {
-          "name": "Worldtraveller",
-          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
-        "name": "Ltdblbl008",
-        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
-      },
-      "artists": [
-        {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Nephews",
-          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
-        }
-      ],
-      "duration_ms": 396501,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -879,6 +827,74 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
+        "name": "Milkyway",
+        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 373974,
+      "name": "008A1",
+      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "Ltdblbl008",
+        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Nephews",
+          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
+        }
+      ],
+      "duration_ms": 396501,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
+      },
+      "artists": [
+        {
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
+        }
+      ],
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
         "name": "Heavy Tangled",
         "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 460800,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 230748,
-      "name": "True Romance (Maja Edit)",
-      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -927,22 +927,18 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
-        "url": "https://open.spotify.com/album/69I5CLWR6RiXC6amjakPWt"
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
         }
       ],
-      "duration_ms": 287767,
-      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
-      "url": "https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0"
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -967,18 +963,22 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Indepanties day",
-        "url": "https://open.spotify.com/album/48vkyleNJElgkXrHr79f27"
+        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
+        "url": "https://open.spotify.com/album/69I5CLWR6RiXC6amjakPWt"
       },
       "artists": [
         {
-          "name": "Hosiannah",
-          "url": "https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq"
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 197825,
-      "name": "Indepanties day",
-      "url": "https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh"
+      "duration_ms": 287767,
+      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
+      "url": "https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0"
     },
     {
       "added_at": "2023-08-25 16:00:08",

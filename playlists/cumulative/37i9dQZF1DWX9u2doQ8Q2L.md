@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-956 songs - 2 day 11 hr 5 min
+958 songs - 2 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [One Way My Love \- Neon Mix](https://open.spotify.com/track/6CLeUulXsPa2AyaiVKN9OY) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [One Way My Love \(Neon Mix\)](https://open.spotify.com/album/0N8WnVOavGjgjqNKpVmiop) | 3:18 | 2022-12-24 | 2023-02-21 |
 | [Operation : Multiverse of Love](https://open.spotify.com/track/5XUX5h0D5o91Q0CYuVjv6O) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Return of The Sofakingdom](https://open.spotify.com/album/0l9xFH1N5L2vnVH7UZTYF7) | 2:11 | 2022-12-06 | 2023-04-21 |
 | [orange](https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [orange](https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk) | 2:56 | 2023-03-28 | 2023-06-02 |
+| [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:46 | 2023-09-06 |  |
 | [ordinary people feat\. BIM](https://open.spotify.com/track/0mKYojgtx7iemkvDaPyFhe) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ordinary people feat\. BIM](https://open.spotify.com/album/1qTQlT4nmidKIYy9AA4Q9A) | 4:33 | 2022-07-26 | 2022-09-09 |
 | [Osanpo](https://open.spotify.com/track/63sb3C9vf5NE72EfQU8kLl) | [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn) | [JUNK TAPE](https://open.spotify.com/album/3L0heHNIWNWzg8mJg2zE5O) | 2:24 | 2022-11-04 | 2022-12-07 |
 | [OTSUKARE](https://open.spotify.com/track/5D7cpfBzFfsipwXmpThyle) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [OTSUKARE](https://open.spotify.com/album/6exMtoSnYWu0YGuHYqDJF1) | 3:15 | 2023-03-28 | 2023-04-05 |
@@ -789,6 +790,7 @@
 | [ほのめかし](https://open.spotify.com/track/3hoeVSC5c2wDbCRV7uiK92) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [ほのめかし](https://open.spotify.com/album/1KQEzVgtOlVKjA9gWv3iUE) | 3:41 | 2023-07-26 | 2023-07-27 |
 | [またね](https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [またね](https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv) | 3:36 | 2023-03-14 | 2023-08-16 |
 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2022-05-26 | 2023-06-14 |
+| [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-06 |  |
 | [エジソン](https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [招き猫 / エジソン](https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa) | 3:13 | 2022-07-07 | 2022-07-29 |
 | [エジソン](https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:13 | 2022-06-06 | 2022-06-29 |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-20 |

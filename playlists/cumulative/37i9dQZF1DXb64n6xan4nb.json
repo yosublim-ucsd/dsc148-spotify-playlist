@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "17171771",
+      "url": "https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z"
+    },
+    {
+      "album": {
         "name": "Davichi In Wonderland",
         "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
       },
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 249000,
       "name": "\ud574\ubc14\ub77c\uae30 (\uadf8\ub140\uc5d0\uac8c..)",
       "url": "https://open.spotify.com/track/7zARJQchG2thlF1o1Px9J6"

@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-310 songs - 20 hr 43 min
+312 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Across The Multiverse](https://open.spotify.com/track/18rBxSjNK6iV7XfIyASKjI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Across The Multiverse](https://open.spotify.com/album/7qiFfk3QDw5YZbuBpMktLX) | 3:04 | 2023-01-17 | 2023-08-17 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2023-01-17 |  |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2023-01-17 |  |
-| [Alison](https://open.spotify.com/track/4WyC79gL42g3flD9UQ4PMh) | [Swimming Tapes](https://open.spotify.com/artist/1nQj0M42wlxHPw999Pms69) | [Alison](https://open.spotify.com/album/1BnNdHQ6yTaKWJZAiW3mej) | 3:15 | 2023-01-17 |  |
+| [Alison](https://open.spotify.com/track/4WyC79gL42g3flD9UQ4PMh) | [Swimming Tapes](https://open.spotify.com/artist/1nQj0M42wlxHPw999Pms69) | [Alison](https://open.spotify.com/album/1BnNdHQ6yTaKWJZAiW3mej) | 3:15 | 2023-01-17 | 2023-09-08 |
 | [All Mirrors](https://open.spotify.com/track/7jL5aGalMaZRfnJ9jasABT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 4:42 | 2023-01-17 |  |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2023-01-17 |  |
 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 | 2023-01-17 |  |
@@ -123,6 +123,7 @@
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 |  |
 | [Home to You](https://open.spotify.com/track/00vUZM1Y1wOm79NpKmkVxH) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/6mUSul2RHY1OqlyyeEgbTm) | 5:27 | 2023-01-17 |  |
 | [Horizon](https://open.spotify.com/track/2whls6fZqLiMd0XIP07ehw) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 4:24 | 2023-01-17 |  |
+| [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-09-07 |  |
 | [How To Fight](https://open.spotify.com/track/7AlwyhnJAZgtIsm1GnEU3I) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Phoenix: Flames Are Dew Upon My Skin](https://open.spotify.com/album/3Vx5QNqKwq4mjSViR9B9b2) | 3:31 | 2023-01-17 |  |
 | [Hunting Shadows \(Assassin's Creed\)](https://open.spotify.com/track/1aYGPbw7A1JKDuXyuSMQ4Z) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Hunting Shadows \(Assassin's Creed\)](https://open.spotify.com/album/6HzGOjwwke7sTbZrSf4Et9) | 2:56 | 2023-01-17 |  |
 | [Hurts to Love](https://open.spotify.com/track/0fiIn2xXLYtvYU7De5bZNH) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:05 | 2023-01-17 |  |
@@ -136,7 +137,7 @@
 | [I Was On Time](https://open.spotify.com/track/3VhHMA0JyM5vwGQcHKgaRc) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Gift Horse b/w I Was On Time](https://open.spotify.com/album/0DCLLZy6F6o2GMebN6X44Q) | 3:30 | 2023-01-17 |  |
 | [I'm On Fire](https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Henry / I'm On Fire](https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W) | 3:07 | 2023-01-17 |  |
 | [If I Lead](https://open.spotify.com/track/5ZK5nRVtgYzw4FBK5f66A0) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Creatures of Habit](https://open.spotify.com/album/34gdRibrvFPimenAmpLIl2) | 3:26 | 2023-01-17 |  |
-| [In Another Life \- Edit](https://open.spotify.com/track/3jkvyNJXLwnrQi0HntSYsk) | [Sandro Perri](https://open.spotify.com/artist/2CbeYAeoh6tWJhlJU3fI9c) | [In Another Life \(Edit\)](https://open.spotify.com/album/3rzgaHMGq9g1JWUNqwM5O9) | 5:51 | 2023-01-17 |  |
+| [In Another Life \- Edit](https://open.spotify.com/track/3jkvyNJXLwnrQi0HntSYsk) | [Sandro Perri](https://open.spotify.com/artist/2CbeYAeoh6tWJhlJU3fI9c) | [In Another Life \(Edit\)](https://open.spotify.com/album/3rzgaHMGq9g1JWUNqwM5O9) | 5:51 | 2023-01-17 | 2023-09-08 |
 | [In the Country](https://open.spotify.com/track/0J0UZpA2Ivp4qaXe3QzCrT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:20 | 2023-01-17 |  |
 | [Indexical reminder of a morning well spent](https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 4:43 | 2023-08-23 |  |
 | [Indulge Me](https://open.spotify.com/track/5OchrCzGcNGuTxuWNxEhR6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:16 | 2023-01-17 |  |
@@ -152,6 +153,7 @@
 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 | 2023-01-17 |  |
 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 | 2023-01-17 |  |
 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 | 2023-01-17 |  |
+| [Keep The Rain](https://open.spotify.com/track/2xFmXeAKtzrG1ZQBT6adKc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:47 | 2023-09-07 |  |
 | [Kids In The Dark](https://open.spotify.com/track/0uHt238vV35Ulgwmw4A0PI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:28 | 2023-01-17 |  |
 | [Killer Shangri\-Lah \(from Killing Eve OST\)](https://open.spotify.com/track/1upx07zTnKv5CKbrEsPeo7) | [Pshycotic Beats](https://open.spotify.com/artist/2YgOXjE34QUTy7FqAg535R), [Pati Amor](https://open.spotify.com/artist/6uJUG3lkF8v7YQRJg9ye3u) | [Dormihcum](https://open.spotify.com/album/1ejSpz7NJnjp4FIYDFMX0o) | 3:53 | 2023-01-17 |  |
 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 | 2023-01-17 |  |

@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "apple pie",
+        "url": "https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO"
+      },
+      "artists": [
+        {
+          "name": "wildflower waltz",
+          "url": "https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76363,
+      "name": "apple pie",
+      "url": "https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU"
+    },
+    {
+      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/60e5ClJJ339aOagoS3C21n"
       },
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 120774,
       "name": "Breakfast at night",
       "url": "https://open.spotify.com/track/4YijVpWRynGePDCwqy9avA"
@@ -9334,7 +9352,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 149281,
       "name": "Hepcats lounge",
       "url": "https://open.spotify.com/track/7zJUjkME1Z1Mtf3CHCcizs"
@@ -10078,7 +10096,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 112813,
       "name": "In Stereo",
       "url": "https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb"
@@ -10306,7 +10324,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 136283,
       "name": "Into The Deep",
       "url": "https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P"
@@ -12822,6 +12840,24 @@
       "duration_ms": 140117,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/7McgbJW6Bo2WHx9tXmzoUA"
+    },
+    {
+      "album": {
+        "name": "maskros",
+        "url": "https://open.spotify.com/album/6Zhxs4RLuvK3kZ5iNOwKaM"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183963,
+      "name": "maskros",
+      "url": "https://open.spotify.com/track/6UFRV34euOz5X7sCfJgGyV"
     },
     {
       "album": {
@@ -15830,6 +15866,24 @@
       "duration_ms": 144000,
       "name": "oyoyoy",
       "url": "https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7"
+    },
+    {
+      "album": {
+        "name": "ramen noodles",
+        "url": "https://open.spotify.com/album/4HCYUlbLLPHu0Jo4UCvxLx"
+      },
+      "artists": [
+        {
+          "name": "Oysterz",
+          "url": "https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Oysterz",
+      "url": "https://open.spotify.com/track/2TdkjlncY2p0VM4HxavJY9"
     },
     {
       "album": {
@@ -20948,6 +21002,24 @@
       "duration_ms": 138202,
       "name": "Sweev",
       "url": "https://open.spotify.com/track/2l4PjGR8nSYiuttb6mo47K"
+    },
+    {
+      "album": {
+        "name": "Just One More Thing",
+        "url": "https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx"
+      },
+      "artists": [
+        {
+          "name": "Palm Beats",
+          "url": "https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/2NDAiSSorPzaQ7i5sx4dDI"
     },
     {
       "album": {

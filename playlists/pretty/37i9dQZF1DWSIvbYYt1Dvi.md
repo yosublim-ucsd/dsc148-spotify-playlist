@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > pumapjl e sonotws é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,249,637 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,249,726 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Criminal](https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 |
 | 50 | [Bug do Milênio \(A Cone Voltou\)](https://open.spotify.com/track/2AL89TC0tGo2dxvpDjve3n) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Bug do Milênio \(A Cone Voltou\)](https://open.spotify.com/album/4izW6bYoT5TLnGF64JBkMi) | 3:40 |
 
-Snapshot ID: `MCxmY2RlZDhkMjFjN2ZjYjcyYzk0MjNmODAwNzAxZTU0YzhlOWIwYTA4`
+Snapshot ID: `MCwyZGE4YTdiNjdiNjg4OWYxYTUzZDgwZGUyNzFhM2QzODlhNjA1NzY5`

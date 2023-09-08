@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,531 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,543 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [I am Tara Lord](https://open.spotify.com/track/06lcHASt1mJYnShWoJ5jW0) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ) | [I am Tara Lord: Chapter One](https://open.spotify.com/album/7rIpF0vLPRtG9AKTp7pIzA) | 3:00 |
 | 49 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 |
 
-Snapshot ID: `MCxiYzFjYWY3NzA3MGU0NGY3NjM5NGJjMjA3MjBjOTVkZGRjODE5N2Yy`
+Snapshot ID: `MCxiMjA0YmJiYjc4ZWZkNjM5NmFmZGM3ZDdjZTEyYjlmNzA1MjRjODJm`

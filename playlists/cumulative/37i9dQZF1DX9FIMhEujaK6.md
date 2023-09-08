@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-142 songs - 11 hr 12 min
+143 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Close](https://open.spotify.com/track/7AfdVEahsy8xQDrtJ28Z28) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/3WVQ7KA54YAxv7fQ5pfFE2) | 4:00 | 2021-10-15 | 2022-07-04 |
 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 | 2021-10-15 |  |
 | [Cusp \- Edit](https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS) | 4:09 | 2021-10-15 | 2022-07-29 |
-| [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 | 2021-10-15 |  |
+| [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 | 2021-10-15 | 2023-09-08 |
+| [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 | 2022-07-20 |  |
 | [Deep End](https://open.spotify.com/track/58wBsn1tDEgUzgLu5wqI8E) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Current Blues](https://open.spotify.com/album/6leO7OdN8iBvw6sRyU8zLO) | 3:38 | 2021-10-15 | 2022-07-27 |
 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 | 2022-07-20 |  |
 | [Dolores Park](https://open.spotify.com/track/1zuYkeynhql043LhzlpLsy) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [2014.12.31](https://open.spotify.com/album/3pw1fE5XRqKpA5NtEBcngw) | 3:51 | 2021-10-15 | 2022-01-12 |

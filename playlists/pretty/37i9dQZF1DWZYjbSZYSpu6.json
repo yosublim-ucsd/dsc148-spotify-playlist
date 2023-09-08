@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 393430,
+  "num_followers": 393474,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Q5NWU3NzhjNjczYjI2MmNkMTVhYjllOTMwNThmNGMwMTllN2Y4",
+  "snapshot_id": "MCwxM2ExNDBmNGZkOGI0NmEyZDZiYTkzYTE1OGM1MTdjYjBiODI1ODRh",
   "tracks": [
     {
       "added_at": "2023-07-20 06:40:46",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-07-20 06:40:46",
       "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 193263,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
+    },
+    {
+      "added_at": "2023-07-20 06:40:46",
+      "album": {
         "name": "Waves (feat. Simon Dominic & Jamie)",
         "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 164920,
       "name": "Waves (feat. Simon Dominic & Jamie)",
       "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
-    },
-    {
-      "added_at": "2023-07-20 06:40:46",
-      "album": {
-        "name": "I Wanna Be - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
-      },
-      "artists": [
-        {
-          "name": "KEY",
-          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
-        },
-        {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        }
-      ],
-      "duration_ms": 193263,
-      "name": "I Wanna Be",
-      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
     },
     {
       "added_at": "2023-07-20 06:40:46",

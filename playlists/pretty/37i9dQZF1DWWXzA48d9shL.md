@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,703 likes - 109 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,232 likes - 109 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 108 | [NEXTBOT!](https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR) | 1:30 |
 | 109 | [BALL LIKE THIS](https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BALL LIKE THIS](https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ) | 2:02 |
 
-Snapshot ID: `MCxhOGQ3NDE3ZDY3YTYxMGMyM2MzOGQ2NTRkM2RhMWUwNGFiY2I1MDQ2`
+Snapshot ID: `MCw5ZTRmMjk2NzI3ZTk0NzUxMDFkNDIxOTVlOGFjMTgzYjdkOTQwNjBh`

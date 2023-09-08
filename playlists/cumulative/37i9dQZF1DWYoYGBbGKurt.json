@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "adjustment",
+        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
+      },
+      "artists": [
+        {
+          "name": "Ryder 003",
+          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "adjustment",
+      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
+    },
+    {
+      "album": {
         "name": "Adriatica",
         "url": "https://open.spotify.com/album/7gEZSVeGcPDXmRk0LsJbr3"
       },
@@ -6212,7 +6230,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 124675,
       "name": "Darling",
       "url": "https://open.spotify.com/track/0vQhHhhFDVouB4sx79Kqk8"
@@ -9606,7 +9624,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 123642,
       "name": "fivepoints",
       "url": "https://open.spotify.com/track/6JhP2i78D1kDhV02AmburC"
@@ -13652,7 +13670,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 158131,
       "name": "Jamata",
       "url": "https://open.spotify.com/track/3ziDRmHz1sbnWZ8uBJYoai"
@@ -14883,6 +14901,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131766,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
+    },
+    {
+      "album": {
         "name": "lichi",
         "url": "https://open.spotify.com/album/2T0PmZZTGTgAkO7k5ialgA"
       },
@@ -15046,7 +15082,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 149406,
       "name": "Like Butter",
       "url": "https://open.spotify.com/track/3diiFQ8RobCU8Rm02y0yGx"
@@ -16654,7 +16690,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 191351,
       "name": "make sense",
       "url": "https://open.spotify.com/track/5HEVflPmOFjWuXiHapjXHq"
@@ -19720,7 +19756,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 180001,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/5g5cx5FvzWojYA1ZD0EKzL"
@@ -22807,6 +22843,24 @@
     },
     {
       "album": {
+        "name": "shelter",
+        "url": "https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc"
+      },
+      "artists": [
+        {
+          "name": "Kolorama",
+          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "shelter",
+      "url": "https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo"
+    },
+    {
+      "album": {
         "name": "Shibuya Rain",
         "url": "https://open.spotify.com/album/1eFEuD5yr1rwQrehnKRUqC"
       },
@@ -24156,6 +24210,24 @@
       "duration_ms": 136751,
       "name": "Special Juice",
       "url": "https://open.spotify.com/track/5m4bEYyJh1G7TxlWYBDx31"
+    },
+    {
+      "album": {
+        "name": "spinal chords",
+        "url": "https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x"
+      },
+      "artists": [
+        {
+          "name": "fontatron",
+          "url": "https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135558,
+      "name": "spinal chords",
+      "url": "https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi"
     },
     {
       "album": {
@@ -29516,7 +29588,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 132000,
       "name": "Winds of Okinawa",
       "url": "https://open.spotify.com/track/3WqvjDT9Ocf0KbYB3pMdkP"

@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-476 songs - 1 day 2 hr 48 min
+477 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Any Day Now](https://open.spotify.com/track/4DHvxcvurhgr0175Oeupqs) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Any Day Now](https://open.spotify.com/album/7GFKU2BKnPa3YrFGBCJRRc) | 3:21 | 2021-10-17 | 2022-07-29 |
 | [Apartment No\. 2](https://open.spotify.com/track/0LdNn0wvbqxOVKDG7l9lZu) | [Ivy Adara](https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq) | [Apartment No\. 2](https://open.spotify.com/album/101ThwTdnYA2YTxjs3XFH7) | 3:03 | 2021-10-02 | 2022-07-29 |
 | [Are you happy?](https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Sad Songs](https://open.spotify.com/album/71sb3x5BwKk87d7ZBOoSJY) | 2:37 | 2020-08-07 | 2021-10-27 |
-| [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-09-25 |  |
+| [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2023-08-04 |  |
+| [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-09-25 | 2023-09-08 |
 | [Austin](https://open.spotify.com/track/6RFQBcrraKx3GUXu4ayKKj) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Austin](https://open.spotify.com/album/5CBpyircV2bzCTCMZb9POV) | 3:22 | 2022-03-25 | 2022-07-24 |
 | [Back To You \- Riton & Kah\-Lo Remix](https://open.spotify.com/track/2YyVBV0klw0T6EvSVkCpuW) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Back To You \(Riton & Kah\-Lo Remix\)](https://open.spotify.com/album/5vhQsXg5ehhfYN6bJpqYNR) | 2:58 | 2019-05-26\* | 2019-11-15 |
 | [Backseat \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/4HjtHraeKy5wA4DA9o92HZ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:58 | 2019-05-26\* | 2020-08-07 |

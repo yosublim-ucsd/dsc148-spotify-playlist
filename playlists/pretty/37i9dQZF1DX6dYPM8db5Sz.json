@@ -1,13 +1,209 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq?si=F1OmdWA6T0OVfPqfaCx3Qg\">The Plastics</a> ",
-  "num_followers": 7099,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=ocADamumSRy0dYjZEFLB1g\">aboynamedblu</a> ",
+  "num_followers": 7149,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDE2MGJkN2EwNjMzNDhiZDk5Nzc0NDQ4ZTc2NTJkODBjNTg4YzAy",
+  "snapshot_id": "MCxjNjA3NmE1ZTk3MWNmMjlkYjNjZjJiZWQwZmFkYTlkYmJhODg5MDM1",
   "tracks": [
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "THE RED BUTTON WAS TALKING AGAIN",
+        "url": "https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "duration_ms": 205102,
+      "name": "hearing faces",
+      "url": "https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Quarter Life Crisis",
+        "url": "https://open.spotify.com/album/5bTGBed0FKungdHiISflgl"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 183524,
+      "name": "Quarter Life Crisis",
+      "url": "https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4LTx4S04nDN2Vsf8R769BB"
+      },
+      "artists": [
+        {
+          "name": "COOL BOY",
+          "url": "https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3IFTcBFpRSB9GBg3cJzYmJ"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "LAYERS",
+        "url": "https://open.spotify.com/album/6uSwfs3SojKxygI7oBbrZu"
+      },
+      "artists": [
+        {
+          "name": "Carla Franco",
+          "url": "https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI"
+        }
+      ],
+      "duration_ms": 149215,
+      "name": "ANY BETTER",
+      "url": "https://open.spotify.com/track/1aS9JhKewGG5VJza4E6S3u"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Last Night in Paradise",
+        "url": "https://open.spotify.com/album/3EODcvQF1Rhn6O0OlOIlSs"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "duration_ms": 148605,
+      "name": "Last Night in Paradise",
+      "url": "https://open.spotify.com/track/7hRtGpf7en7OtfEGdTShuo"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "maipfi",
+        "url": "https://open.spotify.com/album/5OPMKtE4DAxDdwXPM1JUh1"
+      },
+      "artists": [
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "maipfi",
+      "url": "https://open.spotify.com/track/4IsZWBSV0kkpmKG2FhM0Dg"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "next to me",
+        "url": "https://open.spotify.com/album/73G06P0MgohwfkY9Attppu"
+      },
+      "artists": [
+        {
+          "name": "aidin",
+          "url": "https://open.spotify.com/artist/49zJIP0xR8T2B1hrzm4fcL"
+        }
+      ],
+      "duration_ms": 212142,
+      "name": "next to me",
+      "url": "https://open.spotify.com/track/21GXvxNrCD86TOCJSAy7wC"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/7CobVIN7qQCt8sR8pVuCM4"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        },
+        {
+          "name": "De Lux",
+          "url": "https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ"
+        },
+        {
+          "name": "Angel Abaya",
+          "url": "https://open.spotify.com/artist/5LJFmizHbr1z46HUEl1F13"
+        }
+      ],
+      "duration_ms": 207245,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/3ub3AsPkOLkLDQenm2pRTq"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1NFkXm5FE4zCRZo2YEledF"
+      },
+      "artists": [
+        {
+          "name": "Gothe",
+          "url": "https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "hopeless&romantic",
+        "url": "https://open.spotify.com/album/17zYP01z2IOiCF4nXJRjCd"
+      },
+      "artists": [
+        {
+          "name": "CHXRL",
+          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
+        }
+      ],
+      "duration_ms": 169458,
+      "name": "The Girl Next Door",
+      "url": "https://open.spotify.com/track/0SmbxaUGQ39XPF1fDP2uBD"
+    },
+    {
+      "added_at": "2023-09-07 21:59:00",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2rBQkJX216bVFWHMf4p0jw"
+      },
+      "artists": [
+        {
+          "name": "Namakau Star",
+          "url": "https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc"
+        },
+        {
+          "name": "The Planetoids",
+          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
+        }
+      ],
+      "duration_ms": 191078,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/7bxjF7TOFpd3ZyKTSVquCG"
+    },
     {
       "added_at": "2023-09-01 04:48:22",
       "album": {
@@ -27,22 +223,6 @@
     {
       "added_at": "2023-09-01 04:48:22",
       "album": {
-        "name": "L.U.V.",
-        "url": "https://open.spotify.com/album/66DOu9jFEcZSEX8Bz8G7Qy"
-      },
-      "artists": [
-        {
-          "name": "Shaun Orlando Berry",
-          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "L.U.V.",
-      "url": "https://open.spotify.com/track/0iWnUctGC5Ts0BmqP5zv3D"
-    },
-    {
-      "added_at": "2023-09-01 04:48:22",
-      "album": {
         "name": "Why Do You Care",
         "url": "https://open.spotify.com/album/6pjUk8rWTphN4DsBtgIVhN"
       },
@@ -55,22 +235,6 @@
       "duration_ms": 196007,
       "name": "Why Do You Care",
       "url": "https://open.spotify.com/track/5DOXhBq8DjaMDzWdvYsjg3"
-    },
-    {
-      "added_at": "2023-09-01 04:48:22",
-      "album": {
-        "name": "You've Been On My Mind",
-        "url": "https://open.spotify.com/album/5yj3b959cOSR2JGaiPqPxH"
-      },
-      "artists": [
-        {
-          "name": "Rhys Davids",
-          "url": "https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv"
-        }
-      ],
-      "duration_ms": 141035,
-      "name": "You've Been On My Mind",
-      "url": "https://open.spotify.com/track/0S4nrCR1kjMp8y32OEd5Ch"
     },
     {
       "added_at": "2023-09-01 04:48:22",
@@ -231,58 +395,6 @@
       "duration_ms": 130285,
       "name": "what do i care?",
       "url": "https://open.spotify.com/track/4dUd78G324Z1YnxSjCnFl3"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "MURDER MY FEELINGS",
-        "url": "https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib"
-      },
-      "artists": [
-        {
-          "name": "Lala Sadii",
-          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
-        }
-      ],
-      "duration_ms": 164831,
-      "name": "MURDER MY FEELINGS",
-      "url": "https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/7a3hMYwWTJRxnvw3JLrBAK"
-      },
-      "artists": [
-        {
-          "name": "Yoav",
-          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
-        },
-        {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2NggrkJnz1hFOV3uXSI1m8"
     },
     {
       "added_at": "2023-08-24 22:42:07",
@@ -755,102 +867,6 @@
       "duration_ms": 177433,
       "name": "MESSED UP KIDS",
       "url": "https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5g0ipxNZptnRDqax2UJBGw"
-      },
-      "artists": [
-        {
-          "name": "Bad Peter",
-          "url": "https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0XcAatyr3iOOemDg7SgVUn"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Comparison Is a Disease",
-        "url": "https://open.spotify.com/album/0TKvehUuvUfdTAD7UjxXJV"
-      },
-      "artists": [
-        {
-          "name": "Largo",
-          "url": "https://open.spotify.com/artist/7Ia8fV5s11Lpj9Fr8VoFZc"
-        }
-      ],
-      "duration_ms": 130134,
-      "name": "Comparison Is a Disease",
-      "url": "https://open.spotify.com/track/4fKIYbRlivll98Aiu3ZD9h"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Far Far Away",
-        "url": "https://open.spotify.com/album/0zkZsqlINmCBM7iWY54D1G"
-      },
-      "artists": [
-        {
-          "name": "Miss Sxvage",
-          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Far Far Away",
-      "url": "https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Kumaiha",
-        "url": "https://open.spotify.com/album/1jjkn3lM4Xsmp05IbpchU9"
-      },
-      "artists": [
-        {
-          "name": "Jim Chuchu",
-          "url": "https://open.spotify.com/artist/7h4BiS12xR6PcXn1V914hu"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Kumaiha",
-      "url": "https://open.spotify.com/track/5sO3ANmgcAVJrCx3VE6cSz"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "eMtunzini",
-        "url": "https://open.spotify.com/album/2TEOzmQFEnzigADnPLoMPm"
-      },
-      "artists": [
-        {
-          "name": "Muzi",
-          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "eMtunzini",
-      "url": "https://open.spotify.com/track/2vfYHOPVzeUejsFTPhp226"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "VIDEO GIRL",
-        "url": "https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS"
-      },
-      "artists": [
-        {
-          "name": "Fentse.",
-          "url": "https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "VIDEO GIRL",
-      "url": "https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9"
     }
   ],
   "unique_name": "SAlt",

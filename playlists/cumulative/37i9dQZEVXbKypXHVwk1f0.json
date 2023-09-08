@@ -1891,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "BeBe",
+        "url": "https://open.spotify.com/album/22qIEYZXXobZ0KhiRypfbm"
+      },
+      "artists": [
+        {
+          "name": "Ferrillo",
+          "url": "https://open.spotify.com/artist/4J1FnGr5MFc9SDRvylqomw"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138881,
+      "name": "BeBe",
+      "url": "https://open.spotify.com/track/5ErzIyy0LikutXh8F7NUuH"
+    },
+    {
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -13762,7 +13780,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 185326,
       "name": "P\u00d3LVORA",
       "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"

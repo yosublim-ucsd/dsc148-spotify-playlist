@@ -1426,6 +1426,32 @@
     {
       "album": {
         "name": "O Amor de Deus",
+        "url": "https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Yuri DSR",
+          "url": "https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B"
+        },
+        {
+          "name": "Jotta X",
+          "url": "https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156481,
+      "name": "O Amor de Deus",
+      "url": "https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8"
+    },
+    {
+      "album": {
+        "name": "O Amor de Deus",
         "url": "https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p"
       },
       "artists": [
@@ -1444,7 +1470,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 156481,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH"

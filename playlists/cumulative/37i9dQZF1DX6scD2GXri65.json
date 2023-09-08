@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 241500,
       "name": "Disruption",
       "url": "https://open.spotify.com/track/7llaEU5vkPVjkHE3DaRVb4"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 151874,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd"
@@ -1845,6 +1845,44 @@
     },
     {
       "album": {
+        "name": "Making History",
+        "url": "https://open.spotify.com/album/7l1MrEOxplrmHb7dC3BcAe"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        },
+        {
+          "name": "Artifact",
+          "url": "https://open.spotify.com/artist/39B5R5tWbwQyHX4AitOU9U"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272516,
+      "name": "Making History",
+      "url": "https://open.spotify.com/track/490OtmKonSLbMTvOyet1T8"
+    },
+    {
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/6LHgTS7CpEiw3l9s0hGCTQ"
       },
@@ -2180,6 +2218,28 @@
       "duration_ms": 219200,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4Zv3k5y4zJoxHGigSBH9wD"
+    },
+    {
+      "album": {
+        "name": "Piece Of Me",
+        "url": "https://open.spotify.com/album/06GZcC6Z0xLglfG5N3vP9r"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233974,
+      "name": "Piece of Me",
+      "url": "https://open.spotify.com/track/7ep4R3ZU94q7A8RIfC61YD"
     },
     {
       "album": {
@@ -2705,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "The Remedy",
+        "url": "https://open.spotify.com/album/79ypf6AEAJrqpcxOY4hhrC"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191519,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/6cvjpsHCih5fVlKTuuZFCH"
+    },
+    {
+      "album": {
         "name": "The Ruling",
         "url": "https://open.spotify.com/album/55RIZIkca0grTJTbB8WWVj"
       },
@@ -3148,7 +3226,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 225200,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h"

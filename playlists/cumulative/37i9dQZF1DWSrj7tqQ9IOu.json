@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Later.",
+  "description": "The best French indie tracks right now. Cover: Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 206826,
       "name": "Folle",
       "url": "https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2"
@@ -3899,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "McLovin",
+        "url": "https://open.spotify.com/album/0sWjZJkO0HGltK4IhfIvD3"
+      },
+      "artists": [
+        {
+          "name": "James Baker",
+          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "McLovin",
+      "url": "https://open.spotify.com/track/1O57yzhCoIgPm9HGes2Xwk"
+    },
+    {
+      "album": {
         "name": "Meguro",
         "url": "https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz"
       },
@@ -4530,6 +4548,24 @@
       "duration_ms": 192426,
       "name": "Nuit agit\u00e9e",
       "url": "https://open.spotify.com/track/0n7r4I54aTWmzM0uyvqWiY"
+    },
+    {
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/15hEZKknkulVcdto8LjlGI"
+      },
+      "artists": [
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215253,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/6ktLCmYaTP5JMw16rygPsb"
     },
     {
       "album": {
@@ -5361,6 +5397,24 @@
     },
     {
       "album": {
+        "name": "SAN FRANCISCO (BABY!)",
+        "url": "https://open.spotify.com/album/4QdUQ164R3oomzrOz72IIg"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "SAN FRANCISCO (BABY!)",
+      "url": "https://open.spotify.com/track/05QklCPuKAyDce74SWqf6I"
+    },
+    {
+      "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR"
       },
@@ -5452,7 +5506,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 167752,
       "name": "SEVEN MILES",
       "url": "https://open.spotify.com/track/7t3dwwYhqdv25hk27lj4qq"

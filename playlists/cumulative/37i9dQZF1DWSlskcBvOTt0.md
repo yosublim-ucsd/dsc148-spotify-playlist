@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-490 songs - 2 day 0 hr 13 min
+491 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-03-25 |  |
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-01 |  |
 | [Forest Moon](https://open.spotify.com/track/5p7vUQP5xkQY6qP8SqqIlU) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD) | [Forest Moon](https://open.spotify.com/album/4lzTuaJRwJCb6CRjOv9j1L) | 6:47 | 2021-04-21 | 2022-07-16 |
-| [Fragile](https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9) | [Fragile](https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom) | 7:34 | 2023-04-21 |  |
+| [Fragile](https://open.spotify.com/track/6DkDlro1m7qqktqpePSWwM) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9) | [Fragile](https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom) | 7:34 | 2023-04-21 | 2023-09-08 |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-08 | 2022-12-17 |
 | [Free Bird](https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Free Bird](https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ) | 3:43 | 2023-03-31 | 2023-05-02 |
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 | 2022-08-17 |
@@ -280,6 +280,7 @@
 | [Meru](https://open.spotify.com/track/5UrfK59oICoOgbJRn1uTyL) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Meru](https://open.spotify.com/album/6WiYzBqw0cmhVKVVqZDF7y) | 7:12 | 2021-04-21 | 2022-07-23 |
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-20 | 2023-04-29 |
 | [Mezcal](https://open.spotify.com/track/6dhXnd3p9TlLXHQm0fVYtA) | [MIGANOVA](https://open.spotify.com/artist/7JZgaqDtEI3wwdvfeEuWXT) | [Mezcal](https://open.spotify.com/album/0K7nRLxSiwSF4O42winWoH) | 6:48 | 2021-12-13 | 2022-04-21 |
+| [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-09-01 |  |
 | [Milkshake](https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Milkshake](https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw) | 6:54 | 2023-04-21 | 2023-05-25 |
 | [Milla Ella](https://open.spotify.com/track/0A2mTYI8HDN0X6afRLSHB4) | [Come Closer](https://open.spotify.com/artist/0ldaAtkGESIpY4avgd1LqC) | [Milla Ella](https://open.spotify.com/album/0FhyEz5SmhnAmJQBvlx4MY) | 8:49 | 2021-08-27 | 2022-07-10 |
 | [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: King the Land) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (\ucee4\ubc84: \ud0b9\ub354\ub79c\ub4dc)",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: My Lovely Boxer) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (\ucee4\ubc84: \uc21c\uc815\ubcf5\uc11c)",
   "name": "Korean OSTs",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 256320,
       "name": "After this night",
       "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 170866,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4UVa6uMDD4ngcd2CXVQZ47"
@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "A Time Called You (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Beautiful Restriction",
+      "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
+    },
+    {
+      "album": {
         "name": "GAUS Electronics, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/30tbmNgt3UdNQxc0qgMOeN"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 221733,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6XHM5qjDlcJVT1afJZXUId"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 279226,
       "name": "Even Silently Cry(2023)",
       "url": "https://open.spotify.com/track/7zVeCI0asI0C42OQtAl3nD"
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 161000,
       "name": "Globe",
       "url": "https://open.spotify.com/track/6l7jth8VMA9Wo52NeNwwwm"
@@ -3948,7 +3966,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 230106,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
@@ -5572,6 +5590,24 @@
       "duration_ms": 205920,
       "name": "I\u2019ll Embrace Your Past",
       "url": "https://open.spotify.com/track/068TBg8PXTiiTmPogHDQRi"
+    },
+    {
+      "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK"
+      },
+      "artists": [
+        {
+          "name": "JAEMAN",
+          "url": "https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215533,
+      "name": "I\u2019ll Hold You Tight",
+      "url": "https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf"
     },
     {
       "album": {
@@ -7325,6 +7361,24 @@
     },
     {
       "album": {
+        "name": "Moon (Original Television Soundtrack From \"The Witch Store Reopening\")",
+        "url": "https://open.spotify.com/album/4qLkwZlSFAduDJkJq2fdV7"
+      },
+      "artists": [
+        {
+          "name": "Yein",
+          "url": "https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154240,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/0fpa3DvcMeXinQvnzuLyP5"
+    },
+    {
+      "album": {
         "name": "Dali and Cocky Prince (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/4HfP71NuZh8SQAUb2ohpK0"
       },
@@ -7748,6 +7802,24 @@
       "duration_ms": 252498,
       "name": "My Spring",
       "url": "https://open.spotify.com/track/01hBpZaHVwgAyxkuegRrS4"
+    },
+    {
+      "album": {
+        "name": "My Dearest (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/682NAeZRyEWYzwvOcrFCMu"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235333,
+      "name": "My Star",
+      "url": "https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA"
     },
     {
       "album": {
@@ -8461,6 +8533,24 @@
     },
     {
       "album": {
+        "name": "Destined with You (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/57UArpiLObYkjyoP3CJnmn"
+      },
+      "artists": [
+        {
+          "name": "JEONG HYO BEAN",
+          "url": "https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Permeating On Me",
+      "url": "https://open.spotify.com/track/3sGQxnAvFPWC6MgvI2geu8"
+    },
+    {
+      "album": {
         "name": "\ube44\ubc00:\ub9ac\uc5d0 Vol. 5 \"Pick up your phone\"",
         "url": "https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN"
       },
@@ -8862,6 +8952,24 @@
       "duration_ms": 211760,
       "name": "RINGING",
       "url": "https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn"
+    },
+    {
+      "album": {
+        "name": "My Lovely Boxer (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/0po3Fq9LKbCQIzTGPM1qLs"
+      },
+      "artists": [
+        {
+          "name": "Jung Dong Ha",
+          "url": "https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/5M2aDfRyCjdlDRHbuV7bq5"
     },
     {
       "album": {
@@ -11378,6 +11486,24 @@
       "duration_ms": 244413,
       "name": "We are still",
       "url": "https://open.spotify.com/track/6dB7ouNHcivhWCmpIsB097"
+    },
+    {
+      "album": {
+        "name": "Behind you touch OST Part 4",
+        "url": "https://open.spotify.com/album/5gspr3TUkkF0ZrNu4x47VV"
+      },
+      "artists": [
+        {
+          "name": "JEMMA",
+          "url": "https://open.spotify.com/artist/3keZ1fbgJDFYLaY9rwxTW5"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212110,
+      "name": "We Disappear",
+      "url": "https://open.spotify.com/track/07Jp78AgohesnVw8yG70Od"
     },
     {
       "album": {

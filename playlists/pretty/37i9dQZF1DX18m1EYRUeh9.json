@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints from around the globe",
-  "num_followers": 11067,
+  "num_followers": 11223,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzZmMTBmNGNmNjZmM2E5YThiNjM4NzI3NTk1YjU0MDUzMDA0N2Qz",
+  "snapshot_id": "MCxkNjZlZGI2YmVlOGFjZDYyNzM3YTM3NGJjNmI5YTc4MWRkNTQ4YzUx",
   "tracks": [
     {
       "added_at": "2023-09-04 03:50:18",
@@ -63,6 +63,26 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
+        "name": "Cebollas Verdes",
+        "url": "https://open.spotify.com/album/10IzO8PoYbwTsdM1hWpJvQ"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 268192,
+      "name": "Cebollas Verdes",
+      "url": "https://open.spotify.com/track/0TQoXXMo2Rpo342rBM1e4G"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
         "name": "STRUGGLER",
         "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
       },
@@ -95,58 +115,6 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
-        "name": "Cebollas Verdes",
-        "url": "https://open.spotify.com/album/10IzO8PoYbwTsdM1hWpJvQ"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 268192,
-      "name": "Cebollas Verdes",
-      "url": "https://open.spotify.com/track/0TQoXXMo2Rpo342rBM1e4G"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Soon We'll Make It",
-        "url": "https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL"
-      },
-      "artists": [
-        {
-          "name": "Cisco Swank",
-          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Soon We'll Make It",
-      "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 206963,
-      "name": "My Dirty Desire",
-      "url": "https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/782lLDVj2EifDWu5JAgGgh"
       },
@@ -159,42 +127,6 @@
       "duration_ms": 185753,
       "name": "FUGAZI",
       "url": "https://open.spotify.com/track/5xWvtdIspTn4RK8Ki3IjtR"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Nautical",
-        "url": "https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY"
-      },
-      "artists": [
-        {
-          "name": "GODTET",
-          "url": "https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9"
-        },
-        {
-          "name": "Novak Manojlovic",
-          "url": "https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB"
-        }
-      ],
-      "duration_ms": 197210,
-      "name": "Nautical - Radio Edit",
-      "url": "https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Bhuta Kala",
-        "url": "https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v"
-      },
-      "artists": [
-        {
-          "name": "Meernaa",
-          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
-        }
-      ],
-      "duration_ms": 219634,
-      "name": "Bhuta Kala",
-      "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -219,22 +151,34 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
-        "name": "DIRT!",
-        "url": "https://open.spotify.com/album/4SOtb7PjjC6NvGweQkKCZF"
+        "name": "Soon We'll Make It",
+        "url": "https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL"
       },
       "artists": [
         {
-          "name": "Chilli Reid",
-          "url": "https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf"
-        },
-        {
-          "name": "Squid the Kid",
-          "url": "https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2"
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
         }
       ],
-      "duration_ms": 231176,
-      "name": "DIRT!",
-      "url": "https://open.spotify.com/track/4EW0bDoXwk7CTK58TQr3vh"
+      "duration_ms": 139500,
+      "name": "Soon We'll Make It",
+      "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
+    },
+    {
+      "added_at": "2023-09-07 05:01:05",
+      "album": {
+        "name": "Softboi",
+        "url": "https://open.spotify.com/album/17d8Xd8QtMjXSCDb4pb5t1"
+      },
+      "artists": [
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -255,18 +199,18 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
-        "name": "Thoughtless Feeling",
-        "url": "https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z"
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
       },
       "artists": [
         {
-          "name": "Bloomhaus",
-          "url": "https://open.spotify.com/artist/0YlHl0Fe4sUrNKM5U1pTKb"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         }
       ],
-      "duration_ms": 244754,
-      "name": "Thoughtless Feeling",
-      "url": "https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk"
+      "duration_ms": 206963,
+      "name": "My Dirty Desire",
+      "url": "https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -287,6 +231,94 @@
       "duration_ms": 194962,
       "name": "Keep It Rising",
       "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
+        "name": "DIRT!",
+        "url": "https://open.spotify.com/album/4SOtb7PjjC6NvGweQkKCZF"
+      },
+      "artists": [
+        {
+          "name": "Chilli Reid",
+          "url": "https://open.spotify.com/artist/3C7A4kRtGnreTMKyW7JFGf"
+        },
+        {
+          "name": "Squid the Kid",
+          "url": "https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2"
+        }
+      ],
+      "duration_ms": 231176,
+      "name": "DIRT!",
+      "url": "https://open.spotify.com/track/4EW0bDoXwk7CTK58TQr3vh"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
+        "name": "Bhuta Kala",
+        "url": "https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v"
+      },
+      "artists": [
+        {
+          "name": "Meernaa",
+          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
+        }
+      ],
+      "duration_ms": 219634,
+      "name": "Bhuta Kala",
+      "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
+        "name": "Nautical",
+        "url": "https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY"
+      },
+      "artists": [
+        {
+          "name": "GODTET",
+          "url": "https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9"
+        },
+        {
+          "name": "Novak Manojlovic",
+          "url": "https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB"
+        }
+      ],
+      "duration_ms": 197210,
+      "name": "Nautical - Radio Edit",
+      "url": "https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
+        "name": "meek // flip",
+        "url": "https://open.spotify.com/album/4Y472pfv0bIB7IMfjpqI36"
+      },
+      "artists": [
+        {
+          "name": "Jetson",
+          "url": "https://open.spotify.com/artist/2bkf2PmiVyfCqg2uzIFIqJ"
+        }
+      ],
+      "duration_ms": 79518,
+      "name": "meek // flip",
+      "url": "https://open.spotify.com/track/0nEPmXlrxnugrEdJQxc2L2"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
+        "name": "Thoughtless Feeling",
+        "url": "https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z"
+      },
+      "artists": [
+        {
+          "name": "Bloomhaus",
+          "url": "https://open.spotify.com/artist/0YlHl0Fe4sUrNKM5U1pTKb"
+        }
+      ],
+      "duration_ms": 244754,
+      "name": "Thoughtless Feeling",
+      "url": "https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -323,18 +355,42 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
-        "name": "meek // flip",
-        "url": "https://open.spotify.com/album/4Y472pfv0bIB7IMfjpqI36"
+        "name": "Trip to Mars",
+        "url": "https://open.spotify.com/album/3DRL4b6dIxcHdCi4Ob83UZ"
       },
       "artists": [
         {
-          "name": "Jetson",
-          "url": "https://open.spotify.com/artist/2bkf2PmiVyfCqg2uzIFIqJ"
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
         }
       ],
-      "duration_ms": 79518,
-      "name": "meek // flip",
-      "url": "https://open.spotify.com/track/0nEPmXlrxnugrEdJQxc2L2"
+      "duration_ms": 229672,
+      "name": "Trip to Mars",
+      "url": "https://open.spotify.com/track/4Ck37ynkUxayjxsKST96uT"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -359,6 +415,26 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
+        "name": "There Is No End",
+        "url": "https://open.spotify.com/album/3CE9ZdwrAljC4mQr7WhXWt"
+      },
+      "artists": [
+        {
+          "name": "New Age Doom",
+          "url": "https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni"
+        },
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 721258,
+      "name": "There Is No End",
+      "url": "https://open.spotify.com/track/7osp6A9CjbjofNXFe2qiwF"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/5K4RBUcOvxdBdS0r8UvqPz"
       },
@@ -375,22 +451,6 @@
       "duration_ms": 122500,
       "name": "disconnected",
       "url": "https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Trip to Mars",
-        "url": "https://open.spotify.com/album/3DRL4b6dIxcHdCi4Ob83UZ"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 229672,
-      "name": "Trip to Mars",
-      "url": "https://open.spotify.com/track/4Ck37ynkUxayjxsKST96uT"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -423,30 +483,6 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Jay Electronica",
-          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
-      "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
         "name": "Quiet Music For Young People",
         "url": "https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm"
       },
@@ -463,26 +499,6 @@
       "duration_ms": 156026,
       "name": "Let's Go to Trader Joe's",
       "url": "https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "There Is No End",
-        "url": "https://open.spotify.com/album/3CE9ZdwrAljC4mQr7WhXWt"
-      },
-      "artists": [
-        {
-          "name": "New Age Doom",
-          "url": "https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni"
-        },
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 721258,
-      "name": "There Is No End",
-      "url": "https://open.spotify.com/track/7osp6A9CjbjofNXFe2qiwF"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -543,6 +559,26 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
+        "name": "Drream",
+        "url": "https://open.spotify.com/album/3LTsCYKj2YIWrlq5GiZ2dy"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Drream",
+      "url": "https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU"
+    },
+    {
+      "added_at": "2023-09-04 03:50:18",
+      "album": {
         "name": "Too Much To Do",
         "url": "https://open.spotify.com/album/5EwrF90ghpRYaruRjJBXPD"
       },
@@ -579,26 +615,6 @@
       "duration_ms": 165600,
       "name": "BETTER (feat. Jay Prince & Billy Davis)",
       "url": "https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Drream",
-        "url": "https://open.spotify.com/album/3LTsCYKj2YIWrlq5GiZ2dy"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        },
-        {
-          "name": "Zombie Juice",
-          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Drream",
-      "url": "https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -1283,26 +1299,6 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
-        "name": "Good Hair Day (Harvey Sutherland Remix)",
-        "url": "https://open.spotify.com/album/6Tzr0ct0zPtuUWU5tyFg0B"
-      },
-      "artists": [
-        {
-          "name": "Simon Mavin",
-          "url": "https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4"
-        },
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Good Hair Day - Harvey Sutherland Remix",
-      "url": "https://open.spotify.com/track/1iHtGA7VOlHET7JScO42vB"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
@@ -1315,22 +1311,6 @@
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Dimmed Lights",
-        "url": "https://open.spotify.com/album/2sxNHGa5I6bcywDzzSFuLg"
-      },
-      "artists": [
-        {
-          "name": "The Seven Ups",
-          "url": "https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Dimmed Lights",
-      "url": "https://open.spotify.com/track/4QFv8PRJiproUVeh3CxdTW"
     },
     {
       "added_at": "2023-09-04 03:50:18",
@@ -1367,26 +1347,6 @@
     {
       "added_at": "2023-09-04 03:50:18",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/0j8NWZVyLmUtvybK07T1hi"
-      },
-      "artists": [
-        {
-          "name": "Tassone",
-          "url": "https://open.spotify.com/artist/470ihAHOGGu2P0xyo8upnv"
-        },
-        {
-          "name": "Amy Kisnorbo",
-          "url": "https://open.spotify.com/artist/2PJz7yQtTtf05sYx7jsbrI"
-        }
-      ],
-      "duration_ms": 240948,
-      "name": "You Are The Reason",
-      "url": "https://open.spotify.com/track/56F50CYq9MRcefIShTLPL4"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
         "name": "Oscillate",
         "url": "https://open.spotify.com/album/0mTLIPyWBKcuMRXnOj1yH6"
       },
@@ -1415,38 +1375,6 @@
       "duration_ms": 319669,
       "name": "Yves",
       "url": "https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "Kreuzberg Kix EP 2",
-        "url": "https://open.spotify.com/album/1CI68Bl2zLRBThWwa4SgAi"
-      },
-      "artists": [
-        {
-          "name": "Zeitgeist Freedom Energy Exchange",
-          "url": "https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM"
-        }
-      ],
-      "duration_ms": 333168,
-      "name": "Bleached",
-      "url": "https://open.spotify.com/track/7tKlED6H6p0FB92PqsKDtq"
-    },
-    {
-      "added_at": "2023-09-04 03:50:18",
-      "album": {
-        "name": "RagJazz",
-        "url": "https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ"
-      },
-      "artists": [
-        {
-          "name": "NEONE the Wonderer",
-          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
-        }
-      ],
-      "duration_ms": 259842,
-      "name": "RagJazz",
-      "url": "https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU"
     },
     {
       "added_at": "2023-09-04 03:50:18",

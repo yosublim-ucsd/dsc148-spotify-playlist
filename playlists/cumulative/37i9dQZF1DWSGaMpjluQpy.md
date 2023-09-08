@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-104 songs - 5 hr 58 min
+105 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [If I Were You](https://open.spotify.com/track/0wlTJUbii03xcQIbf6fHSa) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:39 | 2023-04-27 |  |
 | [In Bloom \- With Rain](https://open.spotify.com/track/05ZPyRm6eqKI0V2EZ9O2XJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love \- Rain version](https://open.spotify.com/album/2QzjNSEubnLtlAT4LdYmQs) | 2:56 | 2023-04-27 |  |
 | [In The Blue Of The Evening](https://open.spotify.com/track/2A6wgA8leuZORbnlvhMpfj) | [Ada Harley](https://open.spotify.com/artist/6XKPk2juB56BoKgZ3oUhh9) | [In The Blue Of The Evening](https://open.spotify.com/album/7wIBBKIHTByNurtRezdOlM) | 2:24 | 2023-04-27 |  |
+| [Invisible Me](https://open.spotify.com/track/1J54TjMEUE01G7trDlIU3h) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Invisible Me](https://open.spotify.com/album/5QAMdfV1T3X7eRhgkWv711) | 3:55 | 2023-09-08 |  |
 | [It Aint Necessary So](https://open.spotify.com/track/3aG1gZRn9kcJofJqFJQpvT) | [Edward Jefferson](https://open.spotify.com/artist/2NcNg8xv8ejUhVQviwlQNB) | [It Aint Necessary So](https://open.spotify.com/album/3HowxMF6pSrpsQJF4EpAgh) | 2:54 | 2023-04-27 |  |
 | [Just a Piece of My Heart](https://open.spotify.com/track/7DvYIDgcdDXPuojrQzn0Gk) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Just a Piece of My Heart](https://open.spotify.com/album/23OPXFjZxSYn3SNreIpuaY) | 2:07 | 2023-04-27 |  |
 | [Kites](https://open.spotify.com/track/5GBFC6IMRifrXhGpvntHHj) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Kites](https://open.spotify.com/album/1xckIXwRecVrXSRxG7sWJR) | 3:26 | 2023-04-27 |  |

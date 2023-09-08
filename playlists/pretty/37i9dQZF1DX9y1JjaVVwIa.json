@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
+  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Mundos",
-        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Agua Que Quema",
-      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 152639,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Agua Que Quema",
+      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 188520,
       "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
       "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Miss Universos",
         "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 212443,
       "name": "Te Crees T\u00fa",
       "url": "https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Prisma Tropical",
-        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
-      },
-      "artists": [
-        {
-          "name": "Bal\u00fan",
-          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
-        }
-      ],
-      "duration_ms": 293873,
-      "name": "La Nueva Ciudad",
-      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Dos amores",
         "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 202951,
       "name": "Dos amores",
       "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Prisma Tropical",
+        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
+      },
+      "artists": [
+        {
+          "name": "Bal\u00fan",
+          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
+        }
+      ],
+      "duration_ms": 293873,
+      "name": "La Nueva Ciudad",
+      "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Prisma Tropical",
-        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
-      },
-      "artists": [
-        {
-          "name": "Bal\u00fan",
-          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
-        }
-      ],
-      "duration_ms": 297207,
-      "name": "El Espanto",
-      "url": "https://open.spotify.com/track/3C1I4Djs5MNYnj9BMJuZjB"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "El Pozo",
         "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 365146,
       "name": "La Princesa",
       "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Prisma Tropical",
+        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
+      },
+      "artists": [
+        {
+          "name": "Bal\u00fan",
+          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
+        }
+      ],
+      "duration_ms": 297207,
+      "name": "El Espanto",
+      "url": "https://open.spotify.com/track/3C1I4Djs5MNYnj9BMJuZjB"
     },
     {
       "added_at": "2022-08-13 03:00:56",

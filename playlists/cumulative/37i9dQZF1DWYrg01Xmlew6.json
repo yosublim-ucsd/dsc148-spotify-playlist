@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "INDELEBILE",
+        "url": "https://open.spotify.com/album/1VgO7HkRxcqax9zw8ybS72"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/3gLdJ1hx80k9rHIjp91Qkl"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169076,
+      "name": "INDELEBILE",
+      "url": "https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB"
+    },
+    {
+      "album": {
         "name": "Jeep",
         "url": "https://open.spotify.com/album/5TYYBSF7XaljaxC1dpKnhO"
       },

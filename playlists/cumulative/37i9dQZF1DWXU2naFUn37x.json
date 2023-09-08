@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Baby Gang",
+  "description": "Solo il meglio dello street rap italiano. Cover: Simba La Rue, Paky",
   "name": "Street Culto",
   "tracks": [
     {
@@ -3947,6 +3947,28 @@
     },
     {
       "album": {
+        "name": "LEVANTE (feat. Paky)",
+        "url": "https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139610,
+      "name": "LEVANTE (feat. Paky)",
+      "url": "https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22"
       },
@@ -4348,7 +4370,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 145839,
       "name": "MON LOVE OHO (feat. Icy Subzero) [Italian Remix]",
       "url": "https://open.spotify.com/track/66uvBUDAVJM2RcJDS0Z4XE"
@@ -5708,7 +5730,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 144362,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1"
@@ -5774,6 +5796,28 @@
       "duration_ms": 146614,
       "name": "RIGOR MORTIS",
       "url": "https://open.spotify.com/track/3xvTpSh27JsIfN4Og2gxgG"
+    },
+    {
+      "album": {
+        "name": "Rocket (feat. Artie 5ive)",
+        "url": "https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175133,
+      "name": "Rocket (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC"
     },
     {
       "album": {
@@ -6459,6 +6503,36 @@
     },
     {
       "album": {
+        "name": "Suave (feat. VillaBanks)",
+        "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Timongothekeys",
+          "url": "https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk"
+        },
+        {
+          "name": "Linch",
+          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "Suave (feat. VillaBanks)",
+      "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
+    },
+    {
+      "album": {
         "name": "CRIMI",
         "url": "https://open.spotify.com/album/0A6H9ZeitwXVP5FpsY8Vud"
       },
@@ -7006,7 +7080,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 160000,
       "name": "TUTA FAKE (feat. Don Pero)",
       "url": "https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP"

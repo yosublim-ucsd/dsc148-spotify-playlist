@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq?si=F1OmdWA6T0OVfPqfaCx3Qg\">The Plastics</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=ocADamumSRy0dYjZEFLB1g\">aboynamedblu</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 221733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0XcAatyr3iOOemDg7SgVUn"
@@ -410,6 +410,24 @@
       "duration_ms": 202676,
       "name": "Amplified",
       "url": "https://open.spotify.com/track/7iAvEBj3p8VtXmMd68jdQx"
+    },
+    {
+      "album": {
+        "name": "LAYERS",
+        "url": "https://open.spotify.com/album/6uSwfs3SojKxygI7oBbrZu"
+      },
+      "artists": [
+        {
+          "name": "Carla Franco",
+          "url": "https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149215,
+      "name": "ANY BETTER",
+      "url": "https://open.spotify.com/track/1aS9JhKewGG5VJza4E6S3u"
     },
     {
       "album": {
@@ -956,6 +974,28 @@
       "duration_ms": 225391,
       "name": "Blue Skies Baby",
       "url": "https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2rBQkJX216bVFWHMf4p0jw"
+      },
+      "artists": [
+        {
+          "name": "Namakau Star",
+          "url": "https://open.spotify.com/artist/5PJjfwzboKU6Q8mapvR1oc"
+        },
+        {
+          "name": "The Planetoids",
+          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191078,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/7bxjF7TOFpd3ZyKTSVquCG"
     },
     {
       "album": {
@@ -1516,7 +1556,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 130134,
       "name": "Comparison Is a Disease",
       "url": "https://open.spotify.com/track/4fKIYbRlivll98Aiu3ZD9h"
@@ -2176,7 +2216,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 239500,
       "name": "eMtunzini",
       "url": "https://open.spotify.com/track/2vfYHOPVzeUejsFTPhp226"
@@ -2378,7 +2418,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 153062,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH"
@@ -2544,6 +2584,32 @@
       "duration_ms": 243206,
       "name": "flame",
       "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
+    },
+    {
+      "album": {
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/7CobVIN7qQCt8sR8pVuCM4"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        },
+        {
+          "name": "De Lux",
+          "url": "https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ"
+        },
+        {
+          "name": "Angel Abaya",
+          "url": "https://open.spotify.com/artist/5LJFmizHbr1z46HUEl1F13"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207245,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/3ub3AsPkOLkLDQenm2pRTq"
     },
     {
       "album": {
@@ -2933,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "THE RED BUTTON WAS TALKING AGAIN",
+        "url": "https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205102,
+      "name": "hearing faces",
+      "url": "https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx"
+    },
+    {
+      "album": {
         "name": "Heart's with You",
         "url": "https://open.spotify.com/album/3spyfyRwUeAW8T8VCwgE8o"
       },
@@ -3236,6 +3320,24 @@
       "duration_ms": 161504,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6CR9ZGHjJOdvXtiEvR7qLS"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4LTx4S04nDN2Vsf8R769BB"
+      },
+      "artists": [
+        {
+          "name": "COOL BOY",
+          "url": "https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/3IFTcBFpRSB9GBg3cJzYmJ"
     },
     {
       "album": {
@@ -3886,7 +3988,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 188586,
       "name": "Kumaiha",
       "url": "https://open.spotify.com/track/5sO3ANmgcAVJrCx3VE6cSz"
@@ -3904,7 +4006,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 245000,
       "name": "L.U.V.",
       "url": "https://open.spotify.com/track/0iWnUctGC5Ts0BmqP5zv3D"
@@ -3944,6 +4046,28 @@
       "duration_ms": 167841,
       "name": "lalala",
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "album": {
+        "name": "Last Night in Paradise",
+        "url": "https://open.spotify.com/album/3EODcvQF1Rhn6O0OlOIlSs"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148605,
+      "name": "Last Night in Paradise",
+      "url": "https://open.spotify.com/track/7hRtGpf7en7OtfEGdTShuo"
     },
     {
       "album": {
@@ -4309,6 +4433,28 @@
     },
     {
       "album": {
+        "name": "maipfi",
+        "url": "https://open.spotify.com/album/5OPMKtE4DAxDdwXPM1JUh1"
+      },
+      "artists": [
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "maipfi",
+      "url": "https://open.spotify.com/track/4IsZWBSV0kkpmKG2FhM0Dg"
+    },
+    {
+      "album": {
         "name": "Mended Dreams",
         "url": "https://open.spotify.com/album/2qFn1tpZeMBN2JX8RM1l2j"
       },
@@ -4580,7 +4726,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 164831,
       "name": "MURDER MY FEELINGS",
       "url": "https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav"
@@ -4714,6 +4860,24 @@
       "duration_ms": 228000,
       "name": "Ndi a Ni Funa",
       "url": "https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1"
+    },
+    {
+      "album": {
+        "name": "next to me",
+        "url": "https://open.spotify.com/album/73G06P0MgohwfkY9Attppu"
+      },
+      "artists": [
+        {
+          "name": "aidin",
+          "url": "https://open.spotify.com/artist/49zJIP0xR8T2B1hrzm4fcL"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "next to me",
+      "url": "https://open.spotify.com/track/21GXvxNrCD86TOCJSAy7wC"
     },
     {
       "album": {
@@ -5618,6 +5782,24 @@
       "duration_ms": 247520,
       "name": "Quarry",
       "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
+    },
+    {
+      "album": {
+        "name": "Quarter Life Crisis",
+        "url": "https://open.spotify.com/album/5bTGBed0FKungdHiISflgl"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183524,
+      "name": "Quarter Life Crisis",
+      "url": "https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ"
     },
     {
       "album": {
@@ -6625,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1NFkXm5FE4zCRZo2YEledF"
+      },
+      "artists": [
+        {
+          "name": "Gothe",
+          "url": "https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/6qNZb2B2C0G8fmz5CjwM93"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/7a3hMYwWTJRxnvw3JLrBAK"
       },
@@ -6640,7 +6840,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 225000,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2NggrkJnz1hFOV3uXSI1m8"
@@ -7034,6 +7234,24 @@
       "duration_ms": 186640,
       "name": "The Caring",
       "url": "https://open.spotify.com/track/2L8AxY1xtptdIkjbjaxHtH"
+    },
+    {
+      "album": {
+        "name": "hopeless&romantic",
+        "url": "https://open.spotify.com/album/17zYP01z2IOiCF4nXJRjCd"
+      },
+      "artists": [
+        {
+          "name": "CHXRL",
+          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169458,
+      "name": "The Girl Next Door",
+      "url": "https://open.spotify.com/track/0SmbxaUGQ39XPF1fDP2uBD"
     },
     {
       "album": {
@@ -7668,7 +7886,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 164000,
       "name": "VIDEO GIRL",
       "url": "https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9"
@@ -7838,7 +8056,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
@@ -8398,7 +8616,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 141035,
       "name": "You've Been On My Mind",
       "url": "https://open.spotify.com/track/0S4nrCR1kjMp8y32OEd5Ch"

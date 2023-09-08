@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: AK4:20.",
-  "num_followers": 148812,
+  "num_followers": 148845,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAyYmI0Y2ZjZWE3ZGI4MmEzMzYwYzBjN2ViOGYxYzk3YzlmNDkw",
+  "snapshot_id": "MCxjMzMwYWZiZGRjYzc3MTlmN2FkZjUzMmI0ZWJlODYzMTdkMjgwOGVh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:06:06",
@@ -691,42 +691,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Cauty VS Young Cauty",
-        "url": "https://open.spotify.com/album/00op2xzUMjsxCj6aCmcnFJ"
-      },
-      "artists": [
-        {
-          "name": "Cauty",
-          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 304859,
-      "name": "Ta To Gucci (Remix)",
-      "url": "https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -763,6 +727,42 @@
       "duration_ms": 366613,
       "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
       "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Cauty VS Young Cauty",
+        "url": "https://open.spotify.com/album/00op2xzUMjsxCj6aCmcnFJ"
+      },
+      "artists": [
+        {
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 304859,
+      "name": "Ta To Gucci (Remix)",
+      "url": "https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Freestyle Session #12",
+        "url": "https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 203735,
+      "name": "Freestyle Session #12",
+      "url": "https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 213652,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Freestyle Session #12",
-        "url": "https://open.spotify.com/album/2RFsr5fSzS90LLVD1hzdBi"
-      },
-      "artists": [
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 203735,
-      "name": "Freestyle Session #12",
-      "url": "https://open.spotify.com/track/1igEUoKTRQCqu7yGfmhzOr"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1567,22 +1567,18 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Deseos",
-        "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
+        "name": "GRACIAS X",
+        "url": "https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
         }
       ],
-      "duration_ms": 203070,
-      "name": "Deseos",
-      "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
+      "duration_ms": 170731,
+      "name": "El Papi",
+      "url": "https://open.spotify.com/track/6NqQDbkgW05BV3GcBFipPs"
     }
   ],
   "unique_name": "Rimas y Perreo",

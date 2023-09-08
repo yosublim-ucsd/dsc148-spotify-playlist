@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Invisible Me",
+        "url": "https://open.spotify.com/album/5QAMdfV1T3X7eRhgkWv711"
+      },
+      "artists": [
+        {
+          "name": "Zoe Rei",
+          "url": "https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235827,
+      "name": "Invisible Me",
+      "url": "https://open.spotify.com/track/1J54TjMEUE01G7trDlIU3h"
+    },
+    {
+      "album": {
         "name": "It Aint Necessary So",
         "url": "https://open.spotify.com/album/3HowxMF6pSrpsQJF4EpAgh"
       },

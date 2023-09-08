@@ -5839,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "What Was I Made For?",
+        "url": "https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK"
+      },
+      "artists": [
+        {
+          "name": "Bea Westphal",
+          "url": "https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "What Was I Made For?",
+      "url": "https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6"
+    },
+    {
+      "album": {
         "name": "When I Held Ya",
         "url": "https://open.spotify.com/album/0SK2OyGdMTXcayeC3M4X3v"
       },

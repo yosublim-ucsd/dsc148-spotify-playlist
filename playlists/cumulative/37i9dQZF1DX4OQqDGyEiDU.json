@@ -730,7 +730,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 206274,
       "name": "DARLING DANCE",
       "url": "https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 234181,
       "name": "Henceforth",
       "url": "https://open.spotify.com/track/0IrFbhdGbgz9NemUAzaNi1"
@@ -3707,6 +3707,28 @@
     },
     {
       "album": {
+        "name": "\u3084\u3063\u3061\u3083\u3063\u305f\u308f\u306d",
+        "url": "https://open.spotify.com/album/0YI6zJDroDT2dNzG0HwW1M"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "\u3084\u3063\u3061\u3083\u3063\u305f\u308f\u306d",
+      "url": "https://open.spotify.com/track/7qUfyNwU250GflMZ5M633i"
+    },
+    {
+      "album": {
         "name": "\u3086\u3089\u308a",
         "url": "https://open.spotify.com/album/2NHJXvP2SpJaHoHxHvCrSk"
       },
@@ -4563,6 +4585,28 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30e9\u30ad\u30e9\u30ad\u30e9",
+        "url": "https://open.spotify.com/album/0dt8HhmDyL9TM2BMmnsEIe"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183586,
+      "name": "\u30ad\u30e9\u30ad\u30e9\u30ad\u30e9",
+      "url": "https://open.spotify.com/track/5B6lFLmKyXJBste5Tdp6Ar"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30e9\u30fc\u30b9\u30d1\u30a4\u30c0\u30fc",
         "url": "https://open.spotify.com/album/5N67rxoBZBzHGO93RfVNBC"
       },
@@ -4820,6 +4864,28 @@
       "duration_ms": 189347,
       "name": "\u30b7\u30cb\u30ab\u30eb\u30c7\u30a3\u30b9\u30c8\u30d4\u30a2",
       "url": "https://open.spotify.com/track/23wqWxi7wfnHx0RF3mzLoA"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c3\u30c8\u30c0\u30a6\u30f3\u30fb\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/130UTu6tmXGi94RFQdHtFX"
+      },
+      "artists": [
+        {
+          "name": "\u30c4\u30df\u30ad",
+          "url": "https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237746,
+      "name": "\u30b7\u30e3\u30c3\u30c8\u30c0\u30a6\u30f3\u30fb\u30b7\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/0LWiX4H7Xyqhy2qcsUUXNs"
     },
     {
       "album": {
@@ -6219,6 +6285,28 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30e9\u30f3\u30b1\u30f3\u30fb\u30c7\u30a3\u30b6\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/39ThiLQqgdOEmguUO0dX0P"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "\u30d5\u30e9\u30f3\u30b1\u30f3\u30fb\u30c7\u30a3\u30b6\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/753D3ImhdVGspqM8x03fNw"
+    },
+    {
+      "album": {
         "name": "sissy songs",
         "url": "https://open.spotify.com/album/5vYgdhX3b3o6yQQHiUC9lf"
       },
@@ -7532,7 +7620,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
@@ -9394,7 +9482,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 192440,
       "name": "\u8133\u6f3f\u70b8\u88c2\u30ac\u30fc\u30eb 2015ver.",
       "url": "https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906"

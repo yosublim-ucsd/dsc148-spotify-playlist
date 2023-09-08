@@ -1,12 +1,12 @@
 {
-  "description": "Just chill.",
-  "num_followers": 2455307,
+  "description": "Just chill, and potentially disassociate. ",
+  "num_followers": 2455500,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E3YjE4OTIwOTE5Yjc0YmY2ODk5YmQ3ODZmODQzNGQ4Yjg2M2M2",
+  "snapshot_id": "MCxjMTU1MDc4ODY0NDk3ZjUwNTdjMWZiNWY4ZmNlMmZiMzYzMzg3MGZk",
   "tracks": [
     {
       "added_at": "2023-08-11 14:14:09",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
+      "added_at": "2023-09-07 23:56:51",
+      "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
       "added_at": "2023-07-21 19:04:33",
       "album": {
         "name": "Sing Spaceship, Sing!",
@@ -165,20 +181,36 @@
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
-      "added_at": "2023-05-26 21:24:55",
+      "added_at": "2023-09-07 21:02:42",
       "album": {
-        "name": "Call It Home: Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE"
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 220186,
-      "name": "In My Baby's Arms",
-      "url": "https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz"
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "added_at": "2023-09-07 23:56:51",
+      "album": {
+        "name": "What's Even Real Anymore",
+        "url": "https://open.spotify.com/album/0V2M8ekAk65ZSYK33TsfJL"
+      },
+      "artists": [
+        {
+          "name": "Old Man Canyon",
+          "url": "https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx"
+        }
+      ],
+      "duration_ms": 249548,
+      "name": "What's Even Real Anymore",
+      "url": "https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp"
     },
     {
       "added_at": "2023-08-11 14:14:09",
@@ -211,6 +243,22 @@
       "duration_ms": 258536,
       "name": "Pool",
       "url": "https://open.spotify.com/track/49FHYvCtxzbtvEVZqHOBHE"
+    },
+    {
+      "added_at": "2023-09-07 23:56:51",
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
     },
     {
       "added_at": "2023-08-11 14:14:09",
@@ -263,6 +311,38 @@
       "duration_ms": 256000,
       "name": "seasons",
       "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
+    },
+    {
+      "added_at": "2023-05-26 21:24:55",
+      "album": {
+        "name": "Call It Home: Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "In My Baby's Arms",
+      "url": "https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz"
+    },
+    {
+      "added_at": "2023-09-07 21:02:42",
+      "album": {
+        "name": "Going Steady",
+        "url": "https://open.spotify.com/album/26P67Eiu9rHgW52g3vsRrY"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 126283,
+      "name": "Stanley",
+      "url": "https://open.spotify.com/track/3oEygw3VoOhoqPn6EoCw9n"
     },
     {
       "added_at": "2023-07-21 19:04:33",
@@ -327,6 +407,22 @@
       "duration_ms": 276317,
       "name": "Kimosab\u00e8",
       "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
+    },
+    {
+      "added_at": "2023-09-07 23:56:51",
+      "album": {
+        "name": "I Think I Lost My Number Can I Have Yours?",
+        "url": "https://open.spotify.com/album/4b0zKPaz51p8EgPHksKoAn"
+      },
+      "artists": [
+        {
+          "name": "milk.",
+          "url": "https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq"
+        }
+      ],
+      "duration_ms": 208820,
+      "name": "I Think I Lost My Number Can I Have Yours?",
+      "url": "https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -721,22 +817,6 @@
       "url": "https://open.spotify.com/track/6J4yoT7dIza5gkFIfPLs4O"
     },
     {
-      "added_at": "2023-05-22 15:33:02",
-      "album": {
-        "name": "Futbol",
-        "url": "https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe"
-      },
-      "artists": [
-        {
-          "name": "Rahill",
-          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Futbol",
-      "url": "https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT"
-    },
-    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Waiting to Spill",
@@ -891,6 +971,22 @@
       "duration_ms": 202369,
       "name": "Leap Of Faith",
       "url": "https://open.spotify.com/track/60RaJR9WDuED6orXYyXOAR"
+    },
+    {
+      "added_at": "2023-05-22 15:33:02",
+      "album": {
+        "name": "Futbol",
+        "url": "https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Futbol",
+      "url": "https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT"
     },
     {
       "added_at": "2023-06-02 13:35:22",
@@ -1115,26 +1211,6 @@
       "duration_ms": 201556,
       "name": "ocean free",
       "url": "https://open.spotify.com/track/3EhiNSWu5AeWHn2eUOp5Ve"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Love Without Conditions",
-        "url": "https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej"
-      },
-      "artists": [
-        {
-          "name": "Zombie Juice",
-          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Terpalation",
-      "url": "https://open.spotify.com/track/2ItI24yglCAAnbiVCclgEp"
     },
     {
       "added_at": "2023-04-28 05:07:49",
@@ -1439,22 +1515,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "2 Oceans",
         "url": "https://open.spotify.com/album/1KsD536VfBAiqRASMt6VdL"
       },
@@ -1515,22 +1575,6 @@
       "duration_ms": 183600,
       "name": "safety",
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "J'aime les filles",
-        "url": "https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "J'aime les filles",
-      "url": "https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1639,22 +1683,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lundy",
-          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
-        }
-      ],
-      "duration_ms": 147933,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "COMETA",
         "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
       },
@@ -1699,26 +1727,6 @@
       "duration_ms": 202368,
       "name": "Table for Two",
       "url": "https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1943,26 +1951,6 @@
       "duration_ms": 194157,
       "name": "Slowdiving",
       "url": "https://open.spotify.com/track/4oqyzxXvzHTptWo5l2tlpz"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "You Never Loved",
-        "url": "https://open.spotify.com/album/6RPe8BJlSPpw7bPGzbyKfp"
-      },
-      "artists": [
-        {
-          "name": "Daniele Luppi",
-          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
-        },
-        {
-          "name": "Greg Gonzalez",
-          "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "You Never Loved",
-      "url": "https://open.spotify.com/track/0ruRHROLpJygqJ8g6BdTZ1"
     },
     {
       "added_at": "2023-08-11 14:14:09",

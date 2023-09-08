@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-1,825 songs - 4 day 3 hr 18 min
+1,826 songs - 4 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1523,6 +1523,7 @@
 | [Tell Your Mama Hi](https://open.spotify.com/track/1SwpfwNCw4WwyoFTWew0Vz) | [American Blonde](https://open.spotify.com/artist/39YDuE2oHcTxsAKLncyenN) | [Tell Your Mama Hi](https://open.spotify.com/album/3aFUWfXIFxsZf52X7xcFpD) | 3:54 | 2022-04-13 | 2022-05-26 |
 | [Tell Yourself](https://open.spotify.com/track/0a6trIYsKWfrpvpzYzXfsp) | [PJ North](https://open.spotify.com/artist/6NWptU8WArewy8NBT9JN7B) | [Tell Yourself](https://open.spotify.com/album/2J6UGyiJLZkmzqkJAyTuBR) | 3:31 | 2022-03-02 | 2022-04-14 |
 | [Tempted](https://open.spotify.com/track/177lOKmEqC9DuZo5zRV00D) | [Justin Legacy](https://open.spotify.com/artist/0PaE9CZDcuNWOwE0SBaq7R), [Domino Santantonio](https://open.spotify.com/artist/6Iup40sdxmsN5QtqKt1XKX) | [Tempted](https://open.spotify.com/album/4BqJGgQ032Zn8wdd2ePFrd) | 2:50 | 2023-03-22 | 2023-04-20 |
+| [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 | 2023-09-07 |  |
 | [Tennessee Drinkin'](https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Tennessee Drinkin'](https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY) | 3:02 | 2023-05-24 | 2023-07-27 |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-07 | 2022-12-18 |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-11-30 | 2023-01-12 |

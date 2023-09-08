@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Eden's Grass",
+        "url": "https://open.spotify.com/album/2ZRy5reecRQg9hfQCFJNmJ"
+      },
+      "artists": [
+        {
+          "name": "The Piano Hive",
+          "url": "https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92741,
+      "name": "Eden's Grass",
+      "url": "https://open.spotify.com/track/0DBFljDvAjeIStakv8HASX"
+    },
+    {
+      "album": {
         "name": "Eeny Meeny Miny Moe",
         "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
@@ -4520,7 +4538,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 84521,
       "name": "Hubert, the magic dog",
       "url": "https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6"
@@ -5388,6 +5406,24 @@
       "duration_ms": 67072,
       "name": "Kaninvisan",
       "url": "https://open.spotify.com/track/3Fauu3cPoiqBOXu8ThM0kx"
+    },
+    {
+      "album": {
+        "name": "Karen The Kangaroo",
+        "url": "https://open.spotify.com/album/29DLEV261Y1nETEOwtiuHb"
+      },
+      "artists": [
+        {
+          "name": "Leo Button",
+          "url": "https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81500,
+      "name": "Karen The Kangaroo",
+      "url": "https://open.spotify.com/track/4uvQn1mLKqkGlrVNmd4Sd8"
     },
     {
       "album": {
@@ -6896,7 +6932,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 70006,
       "name": "Mors lilla Olle",
       "url": "https://open.spotify.com/track/1i8LQzvz0N8hO55lVGgGdf"
@@ -7220,7 +7256,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 85043,
       "name": "My Island",
       "url": "https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q"
@@ -7904,7 +7940,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-08",
       "duration_ms": 114391,
       "name": "Open, Shut Them",
       "url": "https://open.spotify.com/track/65c8jRrH1mxOMbm47H2bT5"

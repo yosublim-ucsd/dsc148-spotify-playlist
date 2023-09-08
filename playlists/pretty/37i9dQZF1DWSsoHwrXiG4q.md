@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,512 likes - 84 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,576 likes - 84 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Land, Sea and Sky](https://open.spotify.com/track/0lKz06k1SJmOXwxL2HhV2N) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 5:28 |
+| 1 | [Land, Sea and Sky](https://open.spotify.com/track/5IPt7Letf5gCtOzk8D5XiS) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/4mziXwuYX66HXbJTHgGfS0) | 5:28 |
 | 2 | [Dreamless Sleep \- Nostre Remix](https://open.spotify.com/track/7H71r6qDOroGG4QSR1r9h8) | [Fishy](https://open.spotify.com/artist/5p4DMSX1fKl07ogZewmRp0), [Nostre](https://open.spotify.com/artist/0YPx2M7Ty3rAYJnCzzRB5t) | [Osiris EP](https://open.spotify.com/album/2MKjIUyf2hly994DlN6ULX) | 5:06 |
 | 3 | [Life is Permanent](https://open.spotify.com/track/5bkCrvLTsLuJU7sb9xSBBM) | [Random Movement](https://open.spotify.com/artist/7qQ7CInf5wCUojxvfhflfW) | [Life is Permanent EP](https://open.spotify.com/album/5A3i69kid9wL4p8bwQm7dK) | 5:19 |
 | 4 | [Believe If You Want](https://open.spotify.com/track/3f1DQmKY9IdmNcWvQMEQ8Z) | [Eastcolors](https://open.spotify.com/artist/0yJJHicyYpeDFfliRVqhsC) | [Vaska EP](https://open.spotify.com/album/4qb0wodiBVQQfWUWRU8D8q) | 6:08 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 | 48 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
 | 49 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 |
 | 50 | [Eastern Surprise](https://open.spotify.com/track/64EFUJbhplwsrM315SFMyv) | [Artificial Intelligence](https://open.spotify.com/artist/3dfQn1ijJNptfREJB2rRd2) | [Eastern Surprise](https://open.spotify.com/album/42uvb5jtA1JhjpP8eEGg2A) | 4:32 |
-| 51 | [Fire Lit Sky](https://open.spotify.com/track/2qDokZ8quVAjzfeBLF6hDY) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [In Stillness](https://open.spotify.com/album/2o7x8GHrOfI0kosqwo9qlF) | 5:16 |
+| 51 | [Fire Lit Sky](https://open.spotify.com/track/1IgrS40KAa153OPwELpGOb) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [In Stillness](https://open.spotify.com/album/6botq8TvAm5F9sd0N99qwy) | 5:16 |
 | 52 | [Spears](https://open.spotify.com/track/7dgLWx5S5G0eehexaKY5qR) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Longshanks](https://open.spotify.com/album/2xW3yWkUKGORKWR7JjVveX) | 4:20 |
 | 53 | [Her Room](https://open.spotify.com/track/6GxItxR3jbx4WjYi7tFAb4) | [Leniz](https://open.spotify.com/artist/1qHvK5Yi7L8CUDuK9HahoX), [Qumulus](https://open.spotify.com/artist/2SPHhbUppZ3hQULJI1gE8T) | [Her Room](https://open.spotify.com/album/7MvGTXzbm57VVFMPdOsoQs) | 4:51 |
 | 54 | [Lost \- Pola & Bryson Remix](https://open.spotify.com/track/7uI90KliRDd8egscd650jj) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Lost \(Pola & Bryson Remix\)](https://open.spotify.com/album/5VgTlXbwBgqQgfQX7Pwdpn) | 5:36 |
 | 55 | [Recollection](https://open.spotify.com/track/51RQWDo2qhcL0py5n916hi) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Crying on the Way Home](https://open.spotify.com/album/03HOXmFMDN2HFkbrt9kmqj) | 3:01 |
 | 56 | [Leave](https://open.spotify.com/track/4G74xnV7PxsFIp2gjIspNo) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 5](https://open.spotify.com/album/56V1KL4fYyq4Ju8eF6gqQ7) | 5:58 |
-| 57 | [Rituals](https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Hospital Mixtape: Lens](https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h) | 4:34 |
+| 57 | [Rituals](https://open.spotify.com/track/6Pkfvv0wWmKjL4k6WCVIDu) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Rituals](https://open.spotify.com/album/5Z3BtN63NnMMukzSlyTVpg) | 4:34 |
 | 58 | [Liquid State](https://open.spotify.com/track/1k2aAIKpYm7rxjixio081y) | [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Liquid State](https://open.spotify.com/album/0Nlg9XWk6V5mO7OZNjezE2) | 5:46 |
 | 59 | [Magnetic](https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2) | [Magnetic](https://open.spotify.com/album/74zXp1spwIlWwm5rGOffjq) | 3:46 |
 | 60 | [Secrets \- Original Mix](https://open.spotify.com/track/4HPyU3q3NVYXxaXuMz3Vmq) | [Degster](https://open.spotify.com/artist/0kDJt5Y9QyCfcO0yS0tZxw) | [Secrets of Levity](https://open.spotify.com/album/3bsLHTve64VfqVBqXbmaOj) | 5:37 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 | 73 | [Watercolours](https://open.spotify.com/track/36C8hUGIuj1P9IARALVfUn) | [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u) | [Hospitality 2016](https://open.spotify.com/album/5YjeFnZfs3rck35FhyEOH6) | 5:36 |
 | 74 | [Nothing Remains](https://open.spotify.com/track/4TJYeiZ1jPpEwpsn4DXkJc) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Nothing Remains](https://open.spotify.com/album/2alTN2IjDGsAF8qum8zrls) | 5:22 |
 | 75 | [Departure](https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Captivate](https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo) | [Fade Into Dust / Departure](https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8) | 4:36 |
-| 76 | [Circle](https://open.spotify.com/track/66GMztxOitMz2i16xt1iU6) | [imo\-Lu](https://open.spotify.com/artist/5H13I6EsiXG7ZuZcqE6Ihg) | [Future Symptoms Vol.2](https://open.spotify.com/album/4sgf4yovJ06aDNlHsCcodH) | 5:13 |
+| 76 | [Circle](https://open.spotify.com/track/3wKz8Z3wmbmx6reF7Cr2gb) | [imo\-Lu](https://open.spotify.com/artist/5H13I6EsiXG7ZuZcqE6Ihg) | [Circle](https://open.spotify.com/album/5TrLAADzqt1LfLMbtO54AI) | 5:13 |
 | 77 | [Night](https://open.spotify.com/track/2oo1yQzULJz4jcaL0Ncipb) | [Eloran](https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b) | [Night](https://open.spotify.com/album/6EmnaVIQ99hVSlSTxGQ7OD) | 3:33 |
 | 78 | [Nothin But Love \- Original Mix](https://open.spotify.com/track/5rtGhin74wxFojrPqgTpdY) | [Dave Owen](https://open.spotify.com/artist/4YtxzfRdAhFuhylm1O3gYn) | [Nothin But Love](https://open.spotify.com/album/40C9wHFoQ09IPM4Nw0jUon) | 6:40 |
 | 79 | [Vivid Vibes](https://open.spotify.com/track/2TW12PMlCXbnWHTuNxxqTw) | [Floatational](https://open.spotify.com/artist/0n71HQhO8y90tbTIQzVRHY) | [Vivid Vibes](https://open.spotify.com/album/3IYhlB1VWARl3caQX12eNq) | 2:37 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsoHwrXiG4q.md) - [plain]
 | 83 | [Move On](https://open.spotify.com/track/7FbeLqRaDdLJrCk2P5XWHX) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Deeper Vibe \- EP](https://open.spotify.com/album/34kmVOEBV2gjnayjnTSwyv) | 6:16 |
 | 84 | [sensitivity](https://open.spotify.com/track/2fMhhLIxKzG6FjBYKMTgvo) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [sensitivity](https://open.spotify.com/album/5v51rnyBdJ5jCnMQtOk2le) | 2:04 |
 
-Snapshot ID: `MCw4NTZhMDk1ZjMwNTY0ZDlhYjI4NzhhZDk5NDY2OTE2MWI4ZWRjOTEw`
+Snapshot ID: `MCwyMDBkYTU1Y2MxMmJjZDQwMTY0Y2E2M2JlZjc5NWNiZTU3ZmYyNjgx`

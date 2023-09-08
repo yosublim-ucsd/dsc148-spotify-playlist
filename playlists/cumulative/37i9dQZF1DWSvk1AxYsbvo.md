@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-158 songs - 9 hr 16 min
+159 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 | 2022-07-08 |  |
 | [Air Con 에어컨](https://open.spotify.com/track/2MgcZfdQun0WQvp1BIofHL) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Air Con 에어컨](https://open.spotify.com/album/5Qq7LWvoUnJYjuy3Zyg0C8) | 3:05 | 2022-05-03 | 2022-07-18 |
 | [All at Sea](https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5) | [Ha Yang Su](https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA) | [All at Sea](https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe) | 3:28 | 2022-08-18 | 2022-10-12 |
+| [all day](https://open.spotify.com/track/2Es42gZ3Rj0F7hOZ5876Go) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/4Kc0FgDjHs0iB3TGSAOoEl) | 3:32 | 2023-08-24 |  |
 | [all day](https://open.spotify.com/track/4Y8J7oYuDjYfj1dKaiIhBq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/2oosC0NuRLprOFIN87SpYE) | 3:32 | 2022-07-08 | 2022-12-08 |
 | [all day](https://open.spotify.com/track/5Jsx16qY3PjJWGfiGkMYJj) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/4UeBISIWBzbzjo8CKWK0jv) | 3:32 | 2022-05-03 | 2022-07-29 |
 | [all day](https://open.spotify.com/track/5yOTx1AhzdCpOLUHqdCpAW) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/3WeWXeKbF9dj2qZOSBoh1f) | 3:32 | 2022-11-09 | 2023-09-06 |
@@ -79,7 +80,7 @@
 | [Mm Mm \- Acoustic Version](https://open.spotify.com/track/428iUXlTZHt72HsrP0FbVX) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/0NS9viwwEi04L7H8ObWJMD) | 2:54 | 2022-05-03 | 2022-07-29 |
 | [Monologue](https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Monologue \(unplugged.\)](https://open.spotify.com/track/6jq9HQzudzT17QuXfH4Ebv) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 2:52 | 2022-05-03 | 2022-07-24 |
-| [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 | 2022-05-03 |  |
+| [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 | 2022-05-03 | 2023-09-08 |
 | [Moontanroad \- solo version](https://open.spotify.com/track/2jmaU2iOeMaQ4cM9wYS1Cb) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 3:30 | 2022-05-03 | 2022-07-19 |
 | [More](https://open.spotify.com/track/6RLU0sBE445FdnxoXr7kYT) | [Around](https://open.spotify.com/artist/30imnk1KS3eh6441SlwbGt) | [More](https://open.spotify.com/album/5jJdbTjdiwPyjVCJjOQbKY) | 2:36 | 2022-07-04 | 2022-07-06 |
 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 | 2022-05-03 | 2023-09-03 |

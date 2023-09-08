@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-86 songs - 6 hr 7 min
+87 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Little Darling](https://open.spotify.com/track/6a8cXlaywnIqM9i5e9CQ1I) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/6Mei0SlN9JC0ndjc6j85lW) | 3:40 | 2023-01-06 |  |
 | [Lone Lee](https://open.spotify.com/track/456Hy3jnUpaJCd1pYbdqSa) | [Wesky](https://open.spotify.com/artist/2Qe7rgMOTEP0nIJdY6mqVn) | [Lone Lee](https://open.spotify.com/album/6K6Zy1aiJoQJEPKeYBaw8e) | 3:24 | 2023-01-06 |  |
 | [Lonely Night](https://open.spotify.com/track/7kvs3o12r8O88rJL727YWB) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Lonely Night](https://open.spotify.com/album/5SijFh7slOdvypBK269Be6) | 4:18 | 2023-01-06 |  |
+| [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 | 2023-09-08 |  |
 | [Lotus \- Club Mix](https://open.spotify.com/track/2SIbyyyKMYeZUrNgXMAl88) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Lotus \(Club Mix\)](https://open.spotify.com/album/2aeejn2J3EFcjihtTDNOIj) | 4:19 | 2023-01-06 |  |
 | [Malfunction](https://open.spotify.com/track/3D4jG7Y8X8McysevNpy8Cj) | [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho) | [Malfunction](https://open.spotify.com/album/5Qrv5ulhZrnvhrUdKthVwO) | 4:37 | 2023-01-06 |  |
 | [Marble](https://open.spotify.com/track/7w2Uz5hNCkrKjfgzvvNe6i) | [Miss Melera](https://open.spotify.com/artist/3P7dBiGBrfbqVE1Etbr9f1) | [Nocturnal 008](https://open.spotify.com/album/1zO69WjJDc7QBGpDbscldx) | 4:16 | 2023-01-06 |  |

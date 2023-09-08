@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Nonpalidece
 
-297 songs - 19 hr 49 min
+298 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alerta](https://open.spotify.com/track/4fXzJ9jV41ZM0k6O5EyT89) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS), [Maxi Vargas](https://open.spotify.com/artist/1FtPGO6iOU4CTmJ5YCTWPy) | [Alerta](https://open.spotify.com/album/5XbDOpQwBvecKkdyh43rHO) | 4:28 | 2023-08-18 |  |
 | [Algo Mejor](https://open.spotify.com/track/68gpEjXas61xmdZin01DcQ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Algo Mejor](https://open.spotify.com/album/7xyf2OQgFuQnwbvaCi8QwX) | 3:58 | 2021-12-10 | 2022-07-28 |
 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 | 2022-07-08 | 2023-01-21 |
-| [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 | 2022-07-08 |  |
+| [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 | 2022-07-08 | 2023-09-08 |
 | [All Night Long \- \(Feat\. Winter\)](https://open.spotify.com/track/3SLNuRB8CPWqROnNSrMyIX) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/1AvMKhiMKsVD8zLJ9kWBQg) | [All Night Long](https://open.spotify.com/album/1BRO6M2xb5cW63PfoIRbzS) | 4:20 | 2022-03-11 | 2022-04-29 |
 | [Alucinando](https://open.spotify.com/track/15Fm8P03dEoOvDnRaK10Bx) | [Surco Pando](https://open.spotify.com/artist/6QLmWuLP0FV8gMTpVDai9a) | [Alucinando](https://open.spotify.com/album/3Z21WX0UmirXTGlIeGFNec) | 4:03 | 2023-08-18 |  |
 | [Antonia](https://open.spotify.com/track/5EHhnNnk7amaXgx9OnG2v0) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 4:14 | 2021-12-10 | 2023-07-22 |
@@ -147,6 +147,7 @@
 | [La Tierra del Desencanto](https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc) | [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [La Tierra del Desencanto](https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn) | 4:09 | 2022-09-30 | 2022-10-23 |
 | [La Vida](https://open.spotify.com/track/5aAvy2RfmvUphbEIApBGbk) | [Jamaram](https://open.spotify.com/artist/1ZorPJMjMj569PdFp8Ildc), [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM), [Elena Salguero](https://open.spotify.com/artist/1c9P73X3n8wQ81h9zYP2gO) | [La Vida](https://open.spotify.com/album/1ouwnzpy0jziwqwSAOXXRP) | 3:19 | 2023-03-03 | 2023-05-06 |
 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 | 2021-12-10 | 2023-01-21 |
+| [Las Ganas de Vivir](https://open.spotify.com/track/3ZtGBBtfUyfV1KYiIZSf35) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/4U7KLrIBFClFnQ4v7jKj4O) | 3:53 | 2023-08-18 |  |
 | [Las Ganas de Vivir](https://open.spotify.com/track/5JKsY1CEoZhfg5KAqu7eML) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Las Ganas de Vivir](https://open.spotify.com/album/7DbFbonfYLMLt1etSjftAH) | 3:53 | 2021-12-10 | 2022-07-29 |
 | [Las Ganas de Vivir](https://open.spotify.com/track/7CUnSaxzKJT5ntbqBKz1fr) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/0IGW3ipP3z1PXooqMX403Q) | 3:53 | 2022-07-08 | 2023-08-02 |
 | [LEGENDS](https://open.spotify.com/track/1Stfpri3EjoPHMHFMWmDfB) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [King Reyes](https://open.spotify.com/artist/5leoG4KvKjeYNkUzNF27Ci), [RickRocket](https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [LEGENDS](https://open.spotify.com/album/5rtXvb4KNWJjRsuHyM5v4E) | 5:10 | 2023-07-21 |  |
