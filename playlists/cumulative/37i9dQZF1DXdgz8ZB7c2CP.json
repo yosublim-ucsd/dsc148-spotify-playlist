@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 272509,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
@@ -1080,6 +1080,24 @@
       "duration_ms": 197386,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
+    },
+    {
+      "album": {
+        "name": "Blow Out",
+        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216070,
+      "name": "Blow Out",
+      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
     },
     {
       "album": {
@@ -3805,6 +3823,32 @@
     },
     {
       "album": {
+        "name": "Go Ahead (with BKAYE & Kevin George)",
+        "url": "https://open.spotify.com/album/6Edx0YkgBhVSj0pmVr8WGK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        },
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Go Ahead (with BKAYE & Kevin George)",
+      "url": "https://open.spotify.com/track/6bRN5rydcVIaLavxqMwZEm"
+    },
+    {
+      "album": {
         "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
@@ -4242,7 +4286,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 172991,
       "name": "High",
       "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
@@ -5228,7 +5272,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 178285,
       "name": "KEEP ME IN MIND (ft. Lyrah)",
       "url": "https://open.spotify.com/track/4f84AMUxmYGFp9ddjEK3bG"
@@ -5356,7 +5400,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 331034,
       "name": "kindness in spite of it all",
       "url": "https://open.spotify.com/track/72z6AxKGmhBtZckjtsxDmz"
@@ -5804,6 +5848,28 @@
       "duration_ms": 224000,
       "name": "Lost Someone",
       "url": "https://open.spotify.com/track/1ay9kjKoplo5f0FBCkVkTG"
+    },
+    {
+      "album": {
+        "name": "Love Like This (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/270xDX1gI4F98Hli76aDdP"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163322,
+      "name": "Love Like This - Mura Masa Remix",
+      "url": "https://open.spotify.com/track/1wgYKTumhfVTlanuSQ67Jx"
     },
     {
       "album": {
@@ -6802,7 +6868,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 223714,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
@@ -8685,6 +8751,28 @@
     },
     {
       "album": {
+        "name": "Stay With Me (with Absolutely)",
+        "url": "https://open.spotify.com/album/5IcJs3auFFMiIxrDqqweC6"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206964,
+      "name": "Stay With Me (with Absolutely)",
+      "url": "https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh"
+    },
+    {
+      "album": {
         "name": "Stellar",
         "url": "https://open.spotify.com/album/6FqyPnrQSVjsrWxUUNh49g"
       },
@@ -8770,6 +8858,36 @@
       "duration_ms": 161600,
       "name": "Streams",
       "url": "https://open.spotify.com/track/6oJVlyGstF1A14mo5NNCQZ"
+    },
+    {
+      "album": {
+        "name": "STRINGS (feat. JVKE & Bazzi) [Moore Kismet Remix]",
+        "url": "https://open.spotify.com/album/2FfLf0N4Miq1gRnkGtDkx9"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        },
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "STRINGS (feat. JVKE & Bazzi) - Moore Kismet Remix",
+      "url": "https://open.spotify.com/track/26fcNHcIFxaNEK3AfecLtU"
     },
     {
       "album": {

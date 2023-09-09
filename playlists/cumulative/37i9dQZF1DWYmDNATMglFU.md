@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. NOAHFINNCE
+> it's a generation ⛓ ft\. Måneskin
 
-621 songs - 1 day 7 hr 3 min
+624 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 | 2022-10-20 | 2022-11-01 |
 | [Anything Goes](https://open.spotify.com/track/7HiUxhv8kfKJ3c5CWDm02K) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Anything Goes](https://open.spotify.com/album/08TiSpHuYW6BIWcZhGess3) | 3:19 | 2022-09-22 | 2022-11-18 |
 | [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-02-17 | 2023-03-25 |
+| [Arguing With Thermometers](https://open.spotify.com/track/4rTSKgvC9qCLTaDa0hmaCq) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Arguing With Thermometers](https://open.spotify.com/album/1QbUgjq2jT0ZHDCjIOzKxE) | 3:22 | 2023-09-08 |  |
 | [Armageddon](https://open.spotify.com/track/0rvjUlPX1JmwzfiYJ4JdLY) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [Armageddon](https://open.spotify.com/album/0g2QDrVJOiMVBTtPGHtR6I) | 2:32 | 2022-02-11 | 2022-07-22 |
 | [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:31 | 2022-06-16 | 2022-08-05 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-01-20 | 2023-07-28 |
@@ -224,6 +225,7 @@
 | [Garden](https://open.spotify.com/track/00JfiKSB2Ne3dWu6EGcec9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Garden](https://open.spotify.com/album/7z7oHIPniqVIRGhU5AiI1a) | 3:40 | 2022-10-20 | 2022-11-01 |
 | [gen x boyfriend!!](https://open.spotify.com/track/2WUqtiE91VirDuwFZ93QXv) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the fourth ep](https://open.spotify.com/album/7h1ExZHmKyLZ61ZC6zpHOR) | 1:44 | 2023-05-04 | 2023-05-26 |
 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 | 2022-08-25 | 2023-04-28 |
+| [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 |  |
 | [girls just wanna have sex](https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [girls just wanna have sex](https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg) | 2:04 | 2022-11-18 | 2023-07-28 |
 | [Give It Up](https://open.spotify.com/track/21fSMdEQpQaJlqPkTPkH3t) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Give It Up](https://open.spotify.com/album/2SHm3jnAHPZJwU1kLa5HfF) | 2:56 | 2023-07-20 |  |
 | [God give me a car](https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [God give me a car](https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST) | 2:56 | 2023-06-15 |  |
@@ -507,6 +509,7 @@
 | [Stop it](https://open.spotify.com/track/21K4Irg91lZvVifnBxVdVZ) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Stop it](https://open.spotify.com/album/3us1VOBUhYMEdUcHVeoM71) | 3:48 | 2022-04-07 | 2022-05-13 |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-24 | 2023-05-20 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-07 | 2023-03-10 |
+| [Strangers](https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Strangers](https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1) | 2:34 | 2023-09-08 |  |
 | [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 | 2023-08-03 |  |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-14 | 2022-11-18 |
 | [Such Small Hands](https://open.spotify.com/track/0tksWgMFUovmWxDAnkebtO) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan) | 1:35 | 2022-10-20 | 2022-11-01 |

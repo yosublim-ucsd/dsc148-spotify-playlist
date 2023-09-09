@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Problema Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216105,
+      "name": "Problema Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs"
+    },
+    {
+      "album": {
         "name": "Protocolo",
         "url": "https://open.spotify.com/album/4DEjk8Hu1JxL7o8Y17vHJR"
       },

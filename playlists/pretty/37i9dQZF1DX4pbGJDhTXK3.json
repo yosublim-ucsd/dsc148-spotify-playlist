@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 130351,
+  "num_followers": 130376,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk",
+  "snapshot_id": "MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Pax Americana",
-        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/0a8YaBpZkRFwqlsFyfAMKF"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
         }
       ],
-      "duration_ms": 291018,
-      "name": "HS",
-      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
+      "duration_ms": 388569,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/2QQUDbP66s6xGINZZNkICG"
     }
   ],
   "unique_name": "Space Disco",

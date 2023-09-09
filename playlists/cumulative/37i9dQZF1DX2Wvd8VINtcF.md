@@ -4,7 +4,7 @@
 
 > Sampha takeover! Listen to his new single and his personal favorites!
 
-822 songs - 1 day 21 hr 37 min
+823 songs - 1 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,7 +710,8 @@
 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 | 2023-05-11 | 2023-08-04 |
 | [Teasing The Thread](https://open.spotify.com/track/253LmvRIHO9bfUZ5E6Ihdc) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Teasing The Thread](https://open.spotify.com/album/1FOTqhruDFNtsYB5QUSsFx) | 2:55 | 2023-06-08 | 2023-06-30 |
 | [TELEPROMPTER](https://open.spotify.com/track/7hEzvp2pZoN3wyypz6ttQB) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [TELEPROMPTER](https://open.spotify.com/album/3CJzg4C1y6BqWBNlxUd58P) | 2:24 | 2023-03-30 | 2023-05-05 |
-| [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 |  |
+| [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-07 |  |
+| [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 | 2023-09-09 |
 | [Tell Me \(Anew\)](https://open.spotify.com/track/5fLsfYHZMuXzrIe4mkhi86) | [ford.](https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18) | [Tell Me \(Anew\)](https://open.spotify.com/album/7fogql5ZEoEIsazLKAl7S0) | 2:25 | 2023-04-06 | 2023-05-19 |
 | [Tell Me What To Do](https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:17 | 2023-09-07 |  |
 | [Tequila](https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Pah!](https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz) | 1:45 | 2023-08-09 | 2023-08-17 |

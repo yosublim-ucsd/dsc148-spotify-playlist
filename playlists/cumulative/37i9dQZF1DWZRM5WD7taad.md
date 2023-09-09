@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Mon Laferte en Portada
 
-216 songs - 11 hr 4 min
+217 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 | 2023-05-19 |  |
 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 | 2021-12-13 |  |
 | [Pueblo Chico](https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Pueblo Chico](https://open.spotify.com/album/3u0Lrsim4vXAW8kkW4nX90) | 3:02 | 2021-12-13 | 2023-07-01 |
+| [PULLIN' UP](https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [LAS MORRAS TAMBIÉN HACEN TR444P](https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt) | 2:00 | 2023-09-08 |  |
 | [Punto](https://open.spotify.com/track/5Y35DJ1fe2ZKS7CRfvhEdY) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Punto](https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi) | 2:50 | 2023-06-09 |  |
 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 | 2023-06-23 |  |
 | [Que Oso](https://open.spotify.com/track/1nVSfJ9XDIJlEzLkAz798P) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Que Oso](https://open.spotify.com/album/429h9tb0MJpTopIfr2h5uF) | 2:30 | 2021-12-13 |  |

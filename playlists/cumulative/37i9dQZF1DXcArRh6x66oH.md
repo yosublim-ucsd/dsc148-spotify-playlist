@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-185 songs - 11 hr 5 min
+186 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Jesse](https://open.spotify.com/track/7qb6DlOmbPOllTfCvmmkH6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 3:51 | 2023-05-05 |  |
 | [Kentucky Sky](https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Kentucky Sky](https://open.spotify.com/album/5CMjTjCvOAMzNDGP9tL4gF) | 3:49 | 2023-03-03 |  |
 | [Kiss Me In The Dark](https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 3:48 | 2023-02-24 | 2023-07-28 |
+| [Kudzu Wild](https://open.spotify.com/track/4j1l5Rg4CWNcxkn8ufyaaU) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Kudzu Wild EP](https://open.spotify.com/album/2whtcaldUmd7gStU8c01th) | 3:28 | 2023-09-08 |  |
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2023-02-24 |  |
 | [Last Call](https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:28 | 2023-02-24 | 2023-08-21 |
 | [Leave this Bar](https://open.spotify.com/track/2cE1UhKqdVPjdKs4FxrXSj) | [Hannah Dasher](https://open.spotify.com/artist/60JD0JML3KiTHFkKNGv16e) | [The Half Record](https://open.spotify.com/album/69WcfcouKmEUlFfdQUfPVH) | 3:14 | 2023-02-24 | 2023-03-25 |

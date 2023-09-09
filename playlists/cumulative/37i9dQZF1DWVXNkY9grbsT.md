@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-354 songs - 1 day 5 hr 45 min
+355 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Cry Me A Blizzard \- AFRODEUTSCHE I'm Here Remix](https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [AFRODEUTSCHE](https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m) | [Cry Me A Blizzard \(AFRODEUTSCHE I'm Here Remix\)](https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3) | 3:29 | 2021-12-26 | 2023-08-12 |
 | [Crypt](https://open.spotify.com/track/3aRW4dPpIzTOVoLm9aIT2A) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Keep Going..\. Under](https://open.spotify.com/album/0V6ZruB2SwjUuN2AaFJG4p) | 5:10 | 2021-12-26 | 2023-08-12 |
 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-18 |  |
-| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 |  |
+| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 | 2023-09-09 |
 | [Cycles](https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 4:11 | 2023-05-05 |  |
 | [daltabaix](https://open.spotify.com/track/4oT3HoWaRhOLkxmVFbeDbH) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/6MbMttWnGjUDCwdfjEQf31) | 4:40 | 2022-01-23 | 2023-08-12 |
 | [Decay Time \- Extended Mix](https://open.spotify.com/track/2X1mzN8hQoSRzHtVOC4Z9z) | [Maxwell Sterling](https://open.spotify.com/artist/0bXOAY3HryVuSfQLmip6VR) | [Decay Time \(Extended Mix\)](https://open.spotify.com/album/5qHAzo402psMmFfOfvLL0W) | 6:21 | 2022-04-01 | 2023-05-13 |
@@ -185,6 +185,7 @@
 | [MD 2](https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Past and Future Tense](https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR) | 3:44 | 2022-08-05 |  |
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2021-12-26 | 2023-08-12 |
 | [Melting Hazard](https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Melting Hazard](https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9) | 5:06 | 2022-03-25 |  |
+| [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/track/1fpuphYAwKaoVxYGWkNaV7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour: Movement 2 \- Excerpt](https://open.spotify.com/album/54OHjqMfotsJPkVWnRqkts) | 3:38 | 2023-09-08 |  |
 | [Mir](https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR) | 6:39 | 2023-04-21 |  |
 | [Mir](https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e) | 6:39 | 2022-07-15 | 2023-04-29 |
 | [miu](https://open.spotify.com/track/1GSoTgzYMRYI8yZM056Sml) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [miu](https://open.spotify.com/album/2wnxhsvtfuzDH1ETN0pr8p) | 4:03 | 2021-12-26 | 2023-08-12 |

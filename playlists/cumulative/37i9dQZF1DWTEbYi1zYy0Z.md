@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-375 songs - 1 day 2 hr 29 min
+377 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24 Hours](https://open.spotify.com/track/515E4Cch8F8903AZqr1gMP) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [J Funk City](https://open.spotify.com/album/7bdm8TNgtQwmlHYiJHSSmy) | 3:54 | 2020-10-30 | 2022-03-15 |
 | [A Brighter Day](https://open.spotify.com/track/5NbqBSwhgnd601B9lu80U6) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [A Brighter Day](https://open.spotify.com/album/74rVku2kW6XDWv5eTO72we) | 3:51 | 2021-06-11 | 2022-07-29 |
 | [A Little Kiss](https://open.spotify.com/track/1ZVwUblLEKUAL18HYg9pFa) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Love Is Everywhere](https://open.spotify.com/album/16whuBxT0JiUKbQFKISVbA) | 3:48 | 2023-04-07 |  |
+| [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 | 2023-09-08 |  |
 | [A New Beginning](https://open.spotify.com/track/4C8rJHteqStazKn82dxlFl) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [A New Beginning](https://open.spotify.com/album/5FAUJjQTeALruMhXWDMFR1) | 6:05 | 2020-12-04 | 2022-03-17 |
 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 | 2022-06-17 | 2023-07-22 |
 | [A to Z](https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF), [Rob Zinn](https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65) | [A to Z](https://open.spotify.com/album/0bZqdeW8LqD3GTNnYuxGzB) | 4:09 | 2021-06-11 | 2022-09-17 |
@@ -221,6 +222,7 @@
 | [Midnight Sun](https://open.spotify.com/track/5SKkiQf5txTOdaxGJI4xUs) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Midnight Sun](https://open.spotify.com/album/5WutXamGne2s2rzOHpCptd) | 3:54 | 2021-04-30 | 2022-03-18 |
 | [Missing You](https://open.spotify.com/track/4KLpRFRn11BiQHeODY6EeU) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Missing You](https://open.spotify.com/album/6HlGorHFMS1vH536EJhCyv) | 4:16 | 2023-04-14 |  |
 | [Mo Jazzin](https://open.spotify.com/track/6CYUFaUjnGAlBGjVCl44ud) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Mo Jazzin](https://open.spotify.com/album/3wHmVl5lU7Rt8PyT1jvCW9) | 3:40 | 2020-10-30 | 2022-03-17 |
+| [Monalisa](https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Monalisa](https://open.spotify.com/album/1cHZpnvW34ebs0IcH0iMta) | 3:37 | 2023-09-08 |  |
 | [Monday](https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm) | [Philip Patterson](https://open.spotify.com/artist/3UgSv7DzbUESf5H4WPzaU7) | [Monday](https://open.spotify.com/album/1FnCDL2O2WM57ZdbE3Jmbu) | 4:14 | 2021-07-23 | 2022-09-06 |
 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 | 2023-03-24 |  |
 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 | 2022-10-07 | 2023-08-26 |
@@ -318,7 +320,7 @@
 | [Summer Cool](https://open.spotify.com/track/6NNomm02RjhU5I87qcegN1) | [Gary Honor](https://open.spotify.com/artist/3aqXxbZKJl9CRFZABtpXdp) | [Summer Cool](https://open.spotify.com/album/4CEKyxig8BDRyuMz2DOJks) | 4:10 | 2021-08-06 | 2022-07-28 |
 | [Summer Feelin'](https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Summer Feelin'](https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45) | 3:58 | 2020-10-30 | 2022-03-16 |
 | [Summer In Blue](https://open.spotify.com/track/1X9xJud9FozGpsPYbkfkG2) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/3GiuAKDTRdfBVHwBEBnVAU) | 4:29 | 2022-03-25 | 2022-07-29 |
-| [Summer In Blue](https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o) | 4:29 | 2022-03-25 |  |
+| [Summer In Blue](https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o) | 4:29 | 2022-03-25 | 2023-09-09 |
 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 | 2022-04-15 | 2023-08-12 |
 | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summertime in Nyc \(Instrumental Mix\)](https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0) | 3:30 | 2022-05-20 |  |
 | [Sunday Strut](https://open.spotify.com/track/451RvCzCLBxkO6IP40UWD8) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Color and Passion](https://open.spotify.com/album/4QFO64XTOZsX5bVXhME53N) | 4:27 | 2020-10-30 | 2022-03-16 |
@@ -376,7 +378,7 @@
 | [When and Where](https://open.spotify.com/track/1VR8txe3fStPrSSzqeDOPc) | [Rob Zinn](https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [When and Where](https://open.spotify.com/album/3W8rYwj9jh0X6kZGJ1js0O) | 3:59 | 2023-02-10 |  |
 | [When We Dance](https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Into the Light](https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR) | 4:24 | 2020-10-30 | 2022-03-18 |
 | [With Every Turn](https://open.spotify.com/track/1wIkjr0Bkyng3CF2LIqp8t) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/7a97kS2X6XptzrTBK23Ea9) | 4:52 | 2021-03-26 | 2022-03-13 |
-| [Woman](https://open.spotify.com/track/1EnUrGLxtwhKiaPeo8jsUq) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Woman](https://open.spotify.com/album/3cNseKEug7IIPOoZ47PPS7) | 2:44 | 2023-08-18 |  |
+| [Woman](https://open.spotify.com/track/1EnUrGLxtwhKiaPeo8jsUq) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Woman](https://open.spotify.com/album/3cNseKEug7IIPOoZ47PPS7) | 2:44 | 2023-08-18 | 2023-09-09 |
 | [Won't Let Go](https://open.spotify.com/track/4OxljjJyAU0FhvjincStMP) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp) | [Phillip Doc Martin](https://open.spotify.com/album/58r40GhiWWH5oCZ29CWcD1) | 4:08 | 2020-10-30 | 2022-03-18 |
 | [Workin'](https://open.spotify.com/track/1XggkknnMxiR3X3WJSD8ha) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/7ixjw73GQAtsHWOm62sBF7) | 4:06 | 2022-05-20 |  |
 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 | 2022-05-13 | 2023-03-29 |

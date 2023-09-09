@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 376094,
+  "num_followers": 376197,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzdmZDBmYzVmZjRjY2E5YTcwMTljMDBjZDg4MTUxMTQwYTliNjll",
+  "snapshot_id": "MCxmMWY3YjFmMzJkNTM0MDAzZDBjZTY4NDNlMmJmYTRmYTQ1ODkxYzlh",
   "tracks": [
     {
       "added_at": "2023-09-06 21:49:51",
@@ -200,7 +200,7 @@
       "added_at": "2023-09-06 21:49:51",
       "album": {
         "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
       },
       "artists": [
         {
@@ -214,7 +214,7 @@
       ],
       "duration_ms": 166600,
       "name": "Orange (feat. MC. waka)",
-      "url": "https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1"
+      "url": "https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -235,8 +235,8 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
-        "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
-        "url": "https://open.spotify.com/album/2o67tneHxUqu03nqENYij1"
+        "name": "I Refuse",
+        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
       },
       "artists": [
         {
@@ -245,8 +245,8 @@
         }
       ],
       "duration_ms": 227800,
-      "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
-      "url": "https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x"
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
-        "name": "more than words",
-        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 289720,
-      "name": "more than words",
-      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
+        "name": "We'll be fine (English Version)",
+        "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
+      },
+      "artists": [
+        {
+          "name": "ReN",
+          "url": "https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus"
+        }
+      ],
+      "duration_ms": 197029,
+      "name": "We'll be fine - English Version",
+      "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
+    },
+    {
+      "added_at": "2023-09-06 21:49:51",
+      "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
-    },
-    {
-      "added_at": "2023-09-06 21:49:51",
-      "album": {
-        "name": "We'll be fine (English Version)",
-        "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
-      },
-      "artists": [
-        {
-          "name": "ReN",
-          "url": "https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus"
-        }
-      ],
-      "duration_ms": 197029,
-      "name": "We'll be fine - English Version",
-      "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
-        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
-        }
-      ],
-      "duration_ms": 150903,
-      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
-    },
-    {
-      "added_at": "2023-09-06 21:49:51",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 187157,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
+    },
+    {
+      "added_at": "2023-09-06 21:49:51",
+      "album": {
+        "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 150903,
+      "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
-        "name": "TOMATO",
-        "url": "https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 192036,
-      "name": "TOMATO",
-      "url": "https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt"
-    },
-    {
-      "added_at": "2023-09-06 21:49:51",
-      "album": {
         "name": "Peel (feat. miida)",
         "url": "https://open.spotify.com/album/2G9PCqtBdxkoze7pTV2TFy"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 182027,
       "name": "Peel (feat. miida)",
       "url": "https://open.spotify.com/track/6dtcmIjH4wh7nIn4amUs44"
+    },
+    {
+      "added_at": "2023-09-06 21:49:51",
+      "album": {
+        "name": "TOMATO",
+        "url": "https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 192036,
+      "name": "TOMATO",
+      "url": "https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
+        "name": "\u81ea\u7531",
+        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
+      },
+      "artists": [
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "\u81ea\u7531",
+      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
+    },
+    {
+      "added_at": "2023-09-06 21:49:51",
+      "album": {
         "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
         "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
       },
@@ -1647,42 +1663,6 @@
       "duration_ms": 157924,
       "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
-    },
-    {
-      "added_at": "2023-09-06 21:49:51",
-      "album": {
-        "name": "honomekashi",
-        "url": "https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        },
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 221728,
-      "name": "honomekashi",
-      "url": "https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq"
-    },
-    {
-      "added_at": "2023-09-06 21:49:51",
-      "album": {
-        "name": "\u81ea\u7531",
-        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
-      },
-      "artists": [
-        {
-          "name": "tofubeats",
-          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "\u81ea\u7531",
-      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -1719,6 +1699,26 @@
       "duration_ms": 136866,
       "name": "ANGRY ANGRY",
       "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
+    },
+    {
+      "added_at": "2023-09-06 21:49:51",
+      "album": {
+        "name": "The Swallow (feat. Midories)",
+        "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        },
+        {
+          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "The Swallow (feat. Midories)",
+      "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
     },
     {
       "added_at": "2023-09-06 21:49:51",
@@ -1767,22 +1767,18 @@
     {
       "added_at": "2023-09-06 21:49:51",
       "album": {
-        "name": "The Swallow (feat. Midories)",
-        "url": "https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq"
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        },
-        {
-          "name": "\u30df\u30c9\u30ea\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 217428,
-      "name": "The Swallow (feat. Midories)",
-      "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
+      "duration_ms": 236213,
+      "name": "how many times",
+      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
     }
   ],
   "unique_name": "Tokyo Rising",

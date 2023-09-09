@@ -4,7 +4,7 @@
 
 > Just chill, and potentially disassociate.
 
-560 songs - 1 day 8 hr 18 min
+561 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,8 @@
 | [idc](https://open.spotify.com/track/1wjoepBCP3UGg8iOVic3nn) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/5blZ7qGfVOC8yglUn3A9Lg) | 2:23 | 2022-08-19 | 2023-04-22 |
 | [IDK](https://open.spotify.com/track/6NrwVoFmjeNsEtrgZTMo4T) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [Pale Blue](https://open.spotify.com/album/5VTDwmPmnnDecdsd374oye) | 3:33 | 2019-10-25 | 2023-05-23 |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2020-03-04 | 2022-11-12 |
-| [In My Baby's Arms](https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home: Vol\. 1 & 2](https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE) | 3:40 | 2023-05-26 |  |
+| [In My Baby's Arms](https://open.spotify.com/track/22HkJCoxlrEoc27tloXvl4) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home: Vol\. 2](https://open.spotify.com/album/16UazilSTmacGJxSJhBcwt) | 3:40 | 2023-05-26 |  |
+| [In My Baby's Arms](https://open.spotify.com/track/3dRNtsuVKk0gbmUCW41eCz) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Call It Home: Vol\. 1 & 2](https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE) | 3:40 | 2023-05-26 | 2023-09-09 |
 | [In The Rear View](https://open.spotify.com/track/4kgXwktpr7IqnhPo84v6ul) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:04 | 2023-03-17 |  |
 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 | 2023-03-09 |  |
 | [interested](https://open.spotify.com/track/1Ubu0Ux7X3QpsMUYIt3HFT) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/5KNHwv9svU4LlNBNBinxda) | 3:13 | 2021-06-07 | 2022-09-03 |

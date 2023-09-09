@@ -3429,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "Summer Like Before",
+        "url": "https://open.spotify.com/album/1B6DLJW9CVPPGXysmpVrA2"
+      },
+      "artists": [
+        {
+          "name": "Vee Jay",
+          "url": "https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158391,
+      "name": "Summer Like Before",
+      "url": "https://open.spotify.com/track/4QHsDrQJ4IPH5DG9Y9A61B"
+    },
+    {
+      "album": {
         "name": "Sun Glitches",
         "url": "https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h"
       },

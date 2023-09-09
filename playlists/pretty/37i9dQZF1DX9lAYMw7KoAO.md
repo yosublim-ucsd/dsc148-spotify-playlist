@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=c1UgoHcnT0KV2QwyKm6DYQ">Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,934 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,228 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 45 | [Mo Gbona \(I'm hot\)](https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Mo Gbona \(I'm hot\)](https://open.spotify.com/album/4QOsrr8w2oTsebpruGJyP9) | 5:33 |
 | 46 | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/track/5pIM4uYNroyQPTgQnnvZzs) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Hewale Lala\(Song of Strength\)](https://open.spotify.com/album/0eHwsy7wGdv6Ch4rqqdtTu) | 4:40 |
 | 47 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 |
-| 48 | [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 |
+| 48 | [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 |
 | 49 | [Worship Afro](https://open.spotify.com/track/06Wy8q5reyDMr0nfd0rxIR) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:48 |
 | 50 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 |
 
-Snapshot ID: `MCw2NDkzNjgzMjFiNTMzZTZiNGFiMjA2ZWM1NTkzOTI0NTQwNDllZDcz`
+Snapshot ID: `MCxmNTVjNWYyMTNlNzRlZDkxNTQyNTc5ZWFkNzNlYjNmOWVhYzkwOGEy`

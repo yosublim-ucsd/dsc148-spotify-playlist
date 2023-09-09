@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > The Rugby World Cup is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,438 likes - 30 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,599 likes - 30 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 29 | [Get Ready](https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Get Ready](https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV) | 3:42 |
 | 30 | [Siya Kolisi](https://open.spotify.com/track/2GeRTXdpGmPIDBTW7maEnK) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Siya Kolisi](https://open.spotify.com/album/0ANG5WFHxrm0UsyOiR4x7U) | 3:49 |
 
-Snapshot ID: `MCxiMTMyYWVhMTA1MGJiOWFkNTI4YTUzMmJiODEzMTUxNzhkNmUwZjc1`
+Snapshot ID: `MCw5ZTA0YjJiZTc0MzM3OGRkYjBjZWEzYmZkNzU1NjQwMjhkYzNmZmM5`

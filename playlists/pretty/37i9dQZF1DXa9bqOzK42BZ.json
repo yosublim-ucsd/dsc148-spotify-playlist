@@ -1,13 +1,29 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: Bahati",
-  "num_followers": 3595,
+  "num_followers": 3602,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWZiYWRlZDcyNjUyOTQyZTQ2NjZlZjliNWVlZjY2MGUwZThiZDI3",
+  "snapshot_id": "MCw4OWZlYjNmZTIxZWQ5M2M0ZDdkMDJhYWFiMjU4OTAyOTFhOWY5MGUw",
   "tracks": [
+    {
+      "added_at": "2023-09-08 00:01:00",
+      "album": {
+        "name": "Unarudi Lini",
+        "url": "https://open.spotify.com/album/6hmRcQImi46W5HcArJEkzO"
+      },
+      "artists": [
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "duration_ms": 212457,
+      "name": "Unarudi Lini",
+      "url": "https://open.spotify.com/track/61Zc74od47dj7dXVuKxsO9"
+    },
     {
       "added_at": "2023-06-09 00:01:00",
       "album": {

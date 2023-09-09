@@ -1,13 +1,77 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 985797,
+  "num_followers": 985829,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGQ1ZWNiZTY3ZWY2YzRmYzk4NjI5ODkyZGY2NzM5Mzc2YzNiZjFh",
+  "snapshot_id": "MCxmMDdkZWUxNTgxZjBmNTgwYjRlMjA4OWQxMTEyODY3MWJhNmM5YzY1",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 200305,
+      "name": "21 Days",
+      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7sFLLJXz8uVbEvnbTwNGI1"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 209218,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2E5pFaZicddHQmFcgu6xVb"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Reasons Why",
+        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 213248,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -25,20 +89,20 @@
       "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+        "name": "Dancing For The Moon",
+        "url": "https://open.spotify.com/album/3MRZCLznDdjCVl00AfivWj"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+      "duration_ms": 284511,
+      "name": "Closer To You",
+      "url": "https://open.spotify.com/track/4KoMeILLdIvlSaFxsoKmYr"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1565,22 +1629,6 @@
       "url": "https://open.spotify.com/track/3VJhOglZvjVlpA4V5r3cQT"
     },
     {
-      "added_at": "2023-01-31 15:46:41",
-      "album": {
-        "name": "Come Get Your Wife",
-        "url": "https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Love Go By",
-      "url": "https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6"
-    },
-    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "Ribbons",
@@ -1683,54 +1731,6 @@
       "duration_ms": 158362,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4vZvJQwSd7dYw6iNr6r5h7"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/53tM3SgIOr8w2p5Qv2CMiP"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hawley",
-          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
-        }
-      ],
-      "duration_ms": 214274,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/6dRTgr0gVZB17BEpTvi8gJ"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "though the world will tell me so, vol. 1",
-        "url": "https://open.spotify.com/album/1nht2bWHhw4ke6nUJwUkBB"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 211886,
-      "name": "Running from the Dawn",
-      "url": "https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Angels In Science Fiction",
-        "url": "https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Sea Star",
-      "url": "https://open.spotify.com/track/6alJoblCCJSKIxicui9cIv"
     }
   ],
   "unique_name": "Morning Commute",

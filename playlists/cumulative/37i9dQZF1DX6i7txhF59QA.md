@@ -2,9 +2,9 @@
 
 ### [K\-Trot Stars](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> Let's party with cheerful Korean trot medley\. Cover: Jeong Dong Won\(정동원\) \(신나는 트로트 멜로디를 즐겨보세요!\)
+> Let's party with cheerful Korean trot medley\. Cover: Nahee Kim\(김나희\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-810 songs - 1 day 22 hr 19 min
+811 songs - 1 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [I collapse](https://open.spotify.com/track/0B1UGyhwmxjkAPXfXuWhU0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:16 | 2022-05-03 | 2022-05-10 |
 | [I cried](https://open.spotify.com/track/4OQyfnMZhVGGqeCX9bpol1) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 2:53 | 2022-05-03 | 2022-05-30 |
 | [I don't know yet what love is](https://open.spotify.com/track/5MenhS1Q4C4gPjfT8N0NJW) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 3:46 | 2022-05-03 | 2022-07-25 |
-| [I happened to see her](https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 3:10 | 2022-04-07 |  |
+| [I happened to see her](https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 3:10 | 2022-04-07 | 2023-09-09 |
 | [I hate you](https://open.spotify.com/track/34VcCwGcGHUksaf36NawUa) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART28](https://open.spotify.com/album/5KgKaiW0GORPs45M6Ewp2v) | 2:55 | 2022-04-22 | 2022-05-25 |
 | [I hate you\. I hate you\. I hate you](https://open.spotify.com/track/6qet57OeIlqqs0zt9UNd3G) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 2:43 | 2022-05-03 | 2022-07-27 |
 | [I have to live today, too](https://open.spotify.com/track/69rAk8oQxtgL3cSDLN1KVG) | [TAE JIN A](https://open.spotify.com/artist/7Hm7HaPth1NwFOU9BJXbhG) | [I have to live today, too](https://open.spotify.com/album/62lm0gN9Drss5R8uIJLLXb) | 3:18 | 2022-05-03 | 2022-07-17 |
@@ -386,7 +386,7 @@
 | [Love, that is](https://open.spotify.com/track/7DCRMaAG59Bej6MnzHPKxf) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART6](https://open.spotify.com/album/6KGaEQMf5pYF7NEpw9DWco) | 3:38 | 2022-04-07 | 2022-05-16 |
 | [Lovesick](https://open.spotify.com/track/0BoYGfzrC5qok8tHU3Zbzx) | [SUNGMIN](https://open.spotify.com/artist/2O46GIp2cr4sZaVPcP0ket) | [Lovesick](https://open.spotify.com/album/3jCR3tVuPnnvu3KwMW9Gs1) | 3:11 | 2023-05-10 |  |
 | [Loving You](https://open.spotify.com/track/0fMs0Dj0iHhNZ2X4aLksyo) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:32 | 2022-05-03 | 2022-07-29 |
-| [Loving You](https://open.spotify.com/track/1IvOxLYTstsq5Z6pN3l3zm) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:32 | 2022-07-22 |  |
+| [Loving You](https://open.spotify.com/track/1IvOxLYTstsq5Z6pN3l3zm) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:32 | 2022-07-22 | 2023-09-09 |
 | [Lumberjack](https://open.spotify.com/track/20r5BPzN1H4GzFZ7ucu7Xo) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART1](https://open.spotify.com/album/37u0R2yo6C6LkVnaLsQ3Bh) | 3:22 | 2022-05-03 | 2022-06-14 |
 | [Lying in the sea](https://open.spotify.com/track/2gKY26DX94bSWqwNXaMlwH) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5), [Seo Ji O](https://open.spotify.com/artist/1uVuF0PPhx2DALjfsRuPgy) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 3:02 | 2022-04-07 | 2022-07-29 |
 | [Macho man](https://open.spotify.com/track/4mH9UN981op5GwpPERjJXD) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Na Taeju](https://open.spotify.com/artist/7I9b0wtsZYnGXxGTN92XnP) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:37 | 2022-04-22 | 2022-07-22 |
@@ -426,7 +426,7 @@
 | [My mother](https://open.spotify.com/track/5Nro6kO4zLko9F79p5EIt6) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 3:44 | 2022-05-03 | 2022-06-20 |
 | [My mother](https://open.spotify.com/track/1NiTl5qglca4syyXgnQLcL) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART4](https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB) | 3:13 | 2022-05-03 | 2022-07-11 |
 | [My one person is leaving](https://open.spotify.com/track/5nkWYpoS27kaneUgVDlRME) | [Young Ji](https://open.spotify.com/artist/2QbyHFJW5QoKsUYx96SiEy) | [MISS TROT2 PRELIMINARY BEST PART2](https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx) | 3:09 | 2022-04-22 | 2022-07-28 |
-| [My Starry Love](https://open.spotify.com/track/0NPR33dSDeDdlWS4aaN3dc) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [My Starry Love](https://open.spotify.com/album/66WeYtXB47dducuj4UJ6YQ) | 3:50 | 2022-05-03 | 2023-07-06 |
+| [My Starry Love](https://open.spotify.com/track/0NPR33dSDeDdlWS4aaN3dc) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [My Starry Love](https://open.spotify.com/album/66WeYtXB47dducuj4UJ6YQ) | 3:50 | 2022-05-03 |  |
 | [My Starry Love](https://open.spotify.com/track/3VqbKLaNHIe7LcHpCSn16m) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Thanks for You](https://open.spotify.com/album/7lE9he8DZC1xrTPER4lLfA) | 3:50 | 2022-04-22 | 2022-07-28 |
 | [My Way](https://open.spotify.com/track/2IoVBSuWGFJYhcjyjr30TR) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 3:19 | 2022-04-22 | 2022-07-24 |
 | [MY Way](https://open.spotify.com/track/4Nnzzc5Ff37XxJsXPloEVp) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART11](https://open.spotify.com/album/04bfMKJM8TmBmuB4uhAaMW) | 4:26 | 2022-04-22 | 2022-07-16 |
@@ -619,6 +619,7 @@
 | [Together in the rain](https://open.spotify.com/track/1zSzl0XZ6ZTrOqETlxQ5AV) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 3:20 | 2022-04-22 | 2022-07-12 |
 | [Traditional Market](https://open.spotify.com/track/7imk0My0UHl3DSG3XJ4rN4) | [KangNam, Tae Jin\-Ah](https://open.spotify.com/artist/5q65ClodpGOfxXtRxNnbf8) | [Traditional Market](https://open.spotify.com/album/58oRrFuBlJXlQCKkg8AEhS) | 3:24 | 2022-04-22 | 2022-07-19 |
 | [Tralalala](https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz) | [UV](https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 6:18 | 2022-04-22 |  |
+| [Tree ring love](https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0) | [김나희](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tree ring love](https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w) | 3:04 | 2023-09-08 |  |
 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2022-04-07 |  |
 | [Trust In Me](https://open.spotify.com/track/6Z0toNuGB1udzChz2UqeOp) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Hae Ri Lee](https://open.spotify.com/artist/1fnxcrQySdeFQwbOR5wd5I) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 4:02 | 2022-04-22 | 2022-07-13 |
 | [Trust in Me \(Piano by Cho Youngsoo\)](https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Trust in Me \(Piano by Cho Youngsoo\)](https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy) | 4:01 | 2022-04-07 | 2022-07-24 |

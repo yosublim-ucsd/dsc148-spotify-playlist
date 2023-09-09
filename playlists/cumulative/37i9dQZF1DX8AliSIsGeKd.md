@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Stella Bossi
 
-2,418 songs - 9 day 0 hr 20 min
+2,419 songs - 9 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2037,7 +2037,8 @@
 | [Tavira Silky Sky](https://open.spotify.com/track/3EDipG1f4V8Egf4UkZHsas) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Circulate \- EP](https://open.spotify.com/album/5NCmLBjMJMkNQX7PMgRP0t) | 5:24 | 2023-04-27 | 2023-05-12 |
 | [Techno Cat](https://open.spotify.com/track/21amtP6z3VyP6alx74ise0) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Techno Cat](https://open.spotify.com/album/086ZUe2w4gXGwk0U4X0en6) | 4:24 | 2022-11-03 | 2022-11-25 |
 | [Tell Me](https://open.spotify.com/track/6VkEyJbgKPyXtweiYsEPcj) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Feral Garden](https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK) | [Tell Me](https://open.spotify.com/album/1O5xnJpHgn1KeCKf4lII0G) | 4:11 | 2023-02-02 | 2023-02-17 |
-| [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 |  |
+| [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-07 |  |
+| [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 | 2023-09-09 |
 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 | 2022-10-20 | 2022-11-11 |
 | [Tell Me](https://open.spotify.com/track/6Cnj9gUbIrhkMAsKKv4qkg) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Tell Me](https://open.spotify.com/album/3MznWOMINFIhV5BZCBOdRw) | 3:58 | 2023-08-17 | 2023-09-01 |
 | [Tembo](https://open.spotify.com/track/76cHbnVJV2quhQEKWPW1E6) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/3XdccBgLl7C8kqfHTZBe0Z) | 8:41 | 2022-06-23 | 2022-07-15 |

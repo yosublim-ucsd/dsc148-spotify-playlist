@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-96 songs - 5 hr 38 min
+97 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Flame Trees](https://open.spotify.com/track/2co9PSsx9Iya7fjpP90tpy) | [Loren Ryan](https://open.spotify.com/artist/7feL5IApbaRD52R2efI9NG) | [Flame Trees](https://open.spotify.com/album/1EjnQlHUJ3goSocfydn1bK) | 4:30 | 2023-06-15 |  |
 | [Fly On The Wall](https://open.spotify.com/track/6W3JjPwkdUBB8h467l6wfW) | [Caitlyn Shadbolt](https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC) | [Fly On The Wall](https://open.spotify.com/album/06wQFpjorX15jtHc7ECtK1) | 2:43 | 2023-06-15 |  |
 | [For A Day](https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 2:48 | 2023-06-15 |  |
+| [For The Both of Us](https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [For The Both of Us](https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN) | 2:45 | 2023-09-07 |  |
 | [Ghost](https://open.spotify.com/track/0cqeoWk0PP2UDTYVfii9fB) | [Hunter & Jordan](https://open.spotify.com/artist/1jXNRIUmYp5nKQ96Szehou) | [Ghost](https://open.spotify.com/album/7aCQ8ykn17ablkh4ys2xTJ) | 2:52 | 2023-06-15 |  |
 | [Ghosts](https://open.spotify.com/track/6TjzdRCPdXruPXte8J9zPD) | [Jeremy Edwards](https://open.spotify.com/artist/6jvroIfVd4uDH2i1aBQmaF), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Ghosts](https://open.spotify.com/album/2kyZSVnyyYzdUuYUFNagtW) | 4:36 | 2023-07-07 |  |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2023-06-15 | 2023-08-08 |

@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-180 songs - 11 hr 9 min
+181 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 | 2019-10-31 |  |
 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/4rt5TvPSn69Y50Dmzjt4qW) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/7Jn1h8E5aT96pdyrPxrLWi) | 3:27 | 2019-10-31 | 2022-07-29 |
 | [Take You Back \(The Iron Hoof Cattle Call\)](https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:27 | 2022-01-27 |  |
+| [Tattoo](https://open.spotify.com/track/47suLdSKXh90M64RQ0mysO) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Tattoo](https://open.spotify.com/album/44CMNYBErq78rg9sICZuL0) | 4:13 | 2023-09-08 |  |
 | [The Angry River \- From The HBO Series True Detective](https://open.spotify.com/track/6QrEMjyqNXkBPST3SEN575) | [S.I\. Istwa](https://open.spotify.com/artist/23DkZl7xuseePWZqXE1qUr), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [True Detective \(Music From The HBO Series\)](https://open.spotify.com/album/0LWE1LoGRUmfXZpnWBWVRo) | 2:55 | 2019-10-31 |  |
 | [The Ballad Of Minnie Dean](https://open.spotify.com/track/0giHz6O5iah8tfmiitmn9p) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad But True \(Vol.3\)](https://open.spotify.com/album/7wKgeIs0pu6jctgW348TB3) | 2:48 | 2022-01-27 |  |
 | [The Ballad of Minnie Dean](https://open.spotify.com/track/2lcaBh1OHW8SDQRhABRMAu) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad but True, Vol.3](https://open.spotify.com/album/4GLf1w9i9JHo3gTVJHDlYk) | 2:48 | 2019-10-31 | 2022-07-29 |

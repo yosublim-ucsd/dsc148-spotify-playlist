@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Zuza Baum \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,015 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,016 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [wakacyjny bit \(lato w mieście\)](https://open.spotify.com/track/4uGvlDJAocjHIisNoo1LRv) | [jaś&małgosia](https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq) | [wakacyjny bit \(lato w mieście\)](https://open.spotify.com/album/67zcPB1McE0euWxMYQFvum) | 2:11 |
 | 100 | [Spadając](https://open.spotify.com/track/4A8HAMHoBTexAJSeRAHIyz) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Spadając](https://open.spotify.com/album/4GExXV7y60hlFN5OhjIKlv) | 3:17 |
 
-Snapshot ID: `MCxiYTNhZWRkNmUzM2E2NTNiZDFlM2FhNzA5YmQ3YzlkNmUyMTAyZTc5`
+Snapshot ID: `MCxlOGRiN2Q0ZWUyOGVmZTkzN2ZhNDg2ZjhmODM1NDVhZjY0MzY4MDUy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "Pop para refrescarte los d\u00edas, featuring Marc Segu\u00ed & Pablo Albor\u00e1n.",
+  "description": "Pop para refrescarte los d\u00edas, featuring Urb\u00f8i.",
   "name": "Crema Pop",
   "tracks": [
     {
@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Felicidad y Otros Mitos",
+        "url": "https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201182,
+      "name": "Palabras De Papel (Veneno)",
+      "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
+    },
+    {
+      "album": {
         "name": "Parece Mentira",
         "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
       },
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 160493,
       "name": "\u00bfC\u00f3mo Es Que T\u00fa?",
       "url": "https://open.spotify.com/track/4baS2oyw8UwFMgoZt58vkS"

@@ -2,7 +2,7 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: SKA 86
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Kalia Siska
 
 212 songs - 17 hr 25 min
 

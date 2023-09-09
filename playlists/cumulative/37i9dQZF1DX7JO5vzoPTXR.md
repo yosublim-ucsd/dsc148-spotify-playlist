@@ -4,7 +4,7 @@
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:151OS9nfrfYQ8UlnakRMek">Baaba J</a>,  <a href="spotify:artist:0yGRgPiwbWQcQsMf7H7DmK">Yimeeka</a>, <a href="spotify:artist:2hVWBpjLW4Q7fboYz2pVYK">Moliy</a> + Mēl.
 
-704 songs - 1 day 14 hr 50 min
+705 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,8 @@
 | [Say Yes \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Homegrown \(Deluxe\)](https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa) | 3:53 | 2022-03-08 | 2022-04-07 |
 | [say you hate me](https://open.spotify.com/track/6k7d4dI0wosZtZB5l7XZOW) | [Hazel Gerson](https://open.spotify.com/artist/1uRBu9kctlIqTMQCvv3BGf) | [say you hate me](https://open.spotify.com/album/4olbGXTabunRdlNwKEoTQC) | 4:02 | 2023-04-05 | 2023-05-04 |
 | [Selfish](https://open.spotify.com/track/75YvyGsNc32Ip2Ct17W1Vj) | [Emma Gerson](https://open.spotify.com/artist/6fdclqjSC1tdBYTqU8i7TT) | [Selfish](https://open.spotify.com/album/19hA0cAebAkumBDmBsXbIp) | 3:23 | 2022-04-06 | 2022-05-05 |
-| [Selfish](https://open.spotify.com/track/4nV8bV7vQGVoWGyyoJUxbG) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Selfish](https://open.spotify.com/album/3azT3VDRZvCI09HzqTcQlD) | 4:19 | 2022-03-08 |  |
+| [Selfish](https://open.spotify.com/track/4DXC7r7FFFJLGxfibGkECV) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Selfish](https://open.spotify.com/album/0pZGUFm8WEsPRJGkiHBOlG) | 4:19 | 2023-09-06 |  |
+| [Selfish](https://open.spotify.com/track/4nV8bV7vQGVoWGyyoJUxbG) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Selfish](https://open.spotify.com/album/3azT3VDRZvCI09HzqTcQlD) | 4:19 | 2022-03-08 | 2023-09-09 |
 | [Serial](https://open.spotify.com/track/3Ts8bPl2nq7N1mGDiGo8sY) | [Tiger Darrow](https://open.spotify.com/artist/0puZlZEEhsXbDMTsreiHJr) | [Serial](https://open.spotify.com/album/1rXhIsqHUDdove54HaFdXg) | 3:13 | 2023-03-01 | 2023-04-06 |
 | [Sex With Me](https://open.spotify.com/track/4o7l8mhu38km4KdQvKbBko) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [Sex With Me](https://open.spotify.com/album/4iq1quQNDvzEKPj3sHy3EK) | 2:55 | 2023-02-01 | 2023-03-02 |
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-08-02 | 2023-09-07 |

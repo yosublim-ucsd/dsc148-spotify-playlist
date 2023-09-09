@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-434 songs - 1 day 6 hr 42 min
+435 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Love Is a Stranger \- 2018 Remastered](https://open.spotify.com/track/1BbNPyaEztUnqz2Gh1L7Sq) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \[\(Are Made of This\) \[2018 Remastered\]\]](https://open.spotify.com/album/4aS9TfMz2ZlDGPzCqxxvJi) | 3:43 | 2020-02-17 | 2022-07-29 |
 | [Love is a Wonderful Colour](https://open.spotify.com/track/4OeQU7mkWYN9zGJZAa8YuL) | [The Icicle Works](https://open.spotify.com/artist/39afGThIZjTTMH5enuLXYI) | [The Icicle Works](https://open.spotify.com/album/7GuwNVfFIwktQCtPVovvjG) | 4:13 | 2019-08-02 | 2022-07-16 |
 | [Love Like Blood](https://open.spotify.com/track/1zkQJfNo2KpqqCKOOvWPF4) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Laugh? I Nearly Bought One!](https://open.spotify.com/album/0HkrY28rXvdAX5K15W2zdK) | 4:25 | 2018-12-12 | 2022-07-29 |
+| [Love Like Blood](https://open.spotify.com/track/6VzXOkU7pVXaVMR6e4hRAg) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Laugh? I Nearly Bought One!](https://open.spotify.com/album/1NslVOXC1oGYPKfsgpdbqn) | 4:25 | 2023-05-03 |  |
 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 | 2021-01-22 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 | 2018-12-12 | 2022-07-29 |
 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 | 2018-12-12 |  |
@@ -389,7 +390,7 @@
 | [Troy](https://open.spotify.com/track/6m3kJ6d7Ypd1eoBoGP2qZN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 6:31 | 2021-07-27 | 2022-07-20 |
 | [True Faith \- 2015 Remaster](https://open.spotify.com/track/5uyJ7fbjk6xZzt5UL5jcQg) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 4:12 | 2019-08-02 |  |
 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 | 2018-12-12 | 2022-04-20 |
-| [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2018-12-12 |  |
+| [Tugboat](https://open.spotify.com/track/2wSmwBjoS5skbNYAMBi5qG) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 3:56 | 2018-12-12 | 2023-09-09 |
 | [Turning Japanese \- Non Stop Edit](https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr) | [The Vapors](https://open.spotify.com/artist/4K3NWDwBIxgktui14SccR2) | [New Clear Days](https://open.spotify.com/album/0vAu0PT8xKotNhKDzYXJHA) | 3:44 | 2019-08-07 |  |
 | [Tv Treated](https://open.spotify.com/track/2ovclAhfM1T6ulu3CNDQ8J) | [The Neon Judgement](https://open.spotify.com/artist/6mB1JVYIIk1NuBNBXcwrbk) | [1981\-1984](https://open.spotify.com/album/1AD5iuEEGePZR4YQJ0Wf2t) | 6:31 | 2019-08-07 | 2022-04-21 |
 | [Twenty Four Hour Party People](https://open.spotify.com/track/5ay7lvuij2y4KFf3jThDsG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Squirrel And G\-Man Twenty Four Hour Party People Plastic Face Carnt Smile \(White Out\)](https://open.spotify.com/album/0HBTwVE0e8hhVKBYi6JlVT) | 4:40 | 2018-12-12 | 2022-11-13 |

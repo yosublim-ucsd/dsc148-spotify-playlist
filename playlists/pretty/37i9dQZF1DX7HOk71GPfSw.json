@@ -1,13 +1,29 @@
 {
   "description": "Cover: A. G. Cook",
-  "num_followers": 419495,
+  "num_followers": 419833,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODYxNDQwODc5YzFlYTMyODZmYTc2OGM2ZTI3ZDgxNjdhZjEwM2Q5",
+  "snapshot_id": "MCxjOWY0NTIyZGNiZDhlZWQ5MjU0MGQ5OGE5YTYwNzgzZGQ0MzM1ODZj",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/6pLp4hzV5WX3jvBgYD2q3r"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 143921,
+      "name": "BITE BACK",
+      "url": "https://open.spotify.com/track/5pedH2sXKvKCYaL51uzCpS"
+    },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
@@ -41,6 +57,98 @@
       "url": "https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN"
     },
     {
+      "added_at": "2023-07-28 14:33:00",
+      "album": {
+        "name": "Beautiful (2023 Edit)",
+        "url": "https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Beautiful (2023 Edit)",
+      "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "SXC",
+        "url": "https://open.spotify.com/album/1g315Bsyof6KGwGPIdqfMY"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "SXC",
+      "url": "https://open.spotify.com/track/1Rnf34dNuOVfc5TCr6yE9d"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "dopamine crash!",
+        "url": "https://open.spotify.com/album/19F2a71NgelD8GOua6Olt7"
+      },
+      "artists": [
+        {
+          "name": "han.irl <3",
+          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
+        }
+      ],
+      "duration_ms": 155122,
+      "name": "dopamine crash!",
+      "url": "https://open.spotify.com/track/4d8CJ0PFqz8jWr2nZWT7ik"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "dreamZzz",
+        "url": "https://open.spotify.com/album/4bSC0cw4btO25Z0nghP9Wt"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "dreamZzz",
+      "url": "https://open.spotify.com/track/7cf3o0yzUsA10Azn0DEuqt"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Every Summer",
+        "url": "https://open.spotify.com/album/1HZWU6NhcwXiOu2Ki01kfm"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Nation",
+          "url": "https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ"
+        },
+        {
+          "name": "Varg\u00b2\u2122",
+          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
+        }
+      ],
+      "duration_ms": 111360,
+      "name": "Every Summer",
+      "url": "https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "4ever1",
@@ -71,22 +179,6 @@
       "duration_ms": 165236,
       "name": "I H8 FC",
       "url": "https://open.spotify.com/track/22edau8DZYqRNelfdlK1QY"
-    },
-    {
-      "added_at": "2023-07-28 14:33:00",
-      "album": {
-        "name": "Beautiful (2023 Edit)",
-        "url": "https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Beautiful (2023 Edit)",
-      "url": "https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -135,6 +227,22 @@
       "duration_ms": 102007,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "leaving shibuya for once [>\ufe4f< ]",
+        "url": "https://open.spotify.com/album/0bsHDJkudQlYyNJRLiadQl"
+      },
+      "artists": [
+        {
+          "name": "Deko",
+          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
+        }
+      ],
+      "duration_ms": 166017,
+      "name": "leaving shibuya for once [>\ufe4f< ]",
+      "url": "https://open.spotify.com/track/4qTUJy6jQ36THWBxJOV1QN"
     },
     {
       "added_at": "2023-08-05 11:58:21",

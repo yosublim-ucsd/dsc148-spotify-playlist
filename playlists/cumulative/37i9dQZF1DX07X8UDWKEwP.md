@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Gente de Zona
+> Lo nuevo del mundo tropical\. Cover: Joey Montana
 
-309 songs - 18 hr 12 min
+310 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Fátima](https://open.spotify.com/track/75B7zCDMdOHkhUwrI4XZzm) | [Alméstica](https://open.spotify.com/artist/4cIhymlEkd4afP2e1rJ6oJ) | [Fátima](https://open.spotify.com/album/1LsGoVW1Tx1388Y3lysP3Z) | 4:38 | 2022-01-01 | 2022-06-30 |
 | [Gitana](https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Gitana](https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW) | 4:29 | 2022-08-12 | 2023-02-17 |
 | [Goza Pelota](https://open.spotify.com/track/47ojnruXrJxBoc8R5XcvxR) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Goza Pelota](https://open.spotify.com/album/6E2uYyBQkfIMQVHX1ENKva) | 3:17 | 2022-01-01 | 2022-03-26 |
-| [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 | 2023-02-10 |  |
+| [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 | 2023-02-10 | 2023-09-09 |
 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 | 2023-03-24 |  |
 | [Hoy en Dia](https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Hoy en Dia](https://open.spotify.com/album/6LaKlyiwH8L2DH49eGXBgu) | 3:46 | 2022-03-04 | 2022-06-30 |
 | [Incomparable \(feat\. El Revulú\)](https://open.spotify.com/track/65MT3EZxqOxnLhiGo9VqIe) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Las Salsas](https://open.spotify.com/album/4mkfaIk2LDSQwRaxz7osID) | 2:53 | 2023-02-10 | 2023-02-25 |
@@ -289,6 +289,7 @@
 | [Tu y Yo](https://open.spotify.com/track/06hD30iJU6ZumfH0k4YyIi) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY), [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Tu y Yo](https://open.spotify.com/album/1iftc4u0mOHPH5cdkZb9eO) | 4:32 | 2022-01-01 | 2022-04-29 |
 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-01-01 | 2022-06-30 |
 | [Tuki Tuki \- Remix](https://open.spotify.com/track/7gmR3coJOnqOyflVzSUrw0) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk) | [Tuki Tuki \(Remix\)](https://open.spotify.com/album/5h1TiL97try0MmWV5zNLuz) | 3:32 | 2022-06-29 | 2023-03-25 |
+| [Tus Mentiras](https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Tus Mentiras](https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ) | 2:43 | 2023-09-08 |  |
 | [Tú Me Quieres Más \- Bachata Remix](https://open.spotify.com/track/0o5FygOsXEEfHlLOc7d5oL) | [Techy Fatule](https://open.spotify.com/artist/6qpTu1AzEuiBommRAqk3Xe), [YouMaico](https://open.spotify.com/artist/192QJ1f1rDbTrroEg5rSaf), [La Oreja Media Group](https://open.spotify.com/artist/20gslJcxWkQ2p36TBrAdwS) | [Tú Me Quieres Más \(Bachata Remix\)](https://open.spotify.com/album/3fMfrqdTQt0wYIlqtKbYSA) | 3:18 | 2022-02-11 | 2022-06-30 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-04-29 | 2022-06-30 |

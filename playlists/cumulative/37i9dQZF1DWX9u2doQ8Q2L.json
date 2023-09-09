@@ -5298,7 +5298,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 221728,
       "name": "honomekashi",
       "url": "https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq"
@@ -5410,7 +5410,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 236213,
       "name": "how many times",
       "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
@@ -5668,6 +5668,24 @@
       "duration_ms": 217500,
       "name": "I Need U ~\u541b\u306b\u983c\u3063\u3066\u3082\u3044\u3044?~",
       "url": "https://open.spotify.com/track/5UyJogrgcVhrP3auoMpRVI"
+    },
+    {
+      "album": {
+        "name": "I Refuse",
+        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
     },
     {
       "album": {
@@ -9224,10 +9242,32 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 166600,
       "name": "Orange (feat. MC. waka)",
       "url": "https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1"
+    },
+    {
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "MC. waka",
+          "url": "https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Orange (feat. MC. waka)",
+      "url": "https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI"
     },
     {
       "album": {
@@ -15792,7 +15832,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 227800,
       "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
       "url": "https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x"

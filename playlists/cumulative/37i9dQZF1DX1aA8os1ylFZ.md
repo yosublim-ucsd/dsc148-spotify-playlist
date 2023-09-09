@@ -4,13 +4,14 @@
 
 > get into your feels with some r&b magic
 
-384 songs - 20 hr 14 min
+385 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1+1](https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [1+1](https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4) | 2:52 | 2023-04-06 | 2023-04-24 |
 | [10,000 Tears \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Conflict Of Interest](https://open.spotify.com/album/4GJnb2XwVlS2HrVsBa9fI4) | 4:34 | 2023-01-12 | 2023-05-13 |
 | [17 \(feat\. Giulia Be\)](https://open.spotify.com/track/6HzoyVSUu5MSYZikhYQ8u7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [17 \(feat\. Giulia Be\)](https://open.spotify.com/album/4wDCjWGkL360hLUkiBadgC) | 2:40 | 2021-12-16 | 2022-01-21 |
+| [2 Am](https://open.spotify.com/track/3pg7RawLH4HlNJ75BwprlL) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [2 Am](https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu) | 2:40 | 2023-09-07 |  |
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 | 2023-01-13 |
 | [2 Good 2B True](https://open.spotify.com/track/6q9aC2jOvVegF3kbs0LcHG) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B), [Aaria](https://open.spotify.com/artist/6wQhJatwZHWgRTz2gtWVbc), [SYPS](https://open.spotify.com/artist/0n6Dxt9W4fUDlCqLCRLwqt) | [2 Good 2B True](https://open.spotify.com/album/29WwuOvEB24YGOtqjruY2s) | 4:28 | 2021-12-16 | 2022-07-29 |
 | [2 Good 2B True](https://open.spotify.com/track/6m150Wsv4TFOAaOABANgLS) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B), [SYPS](https://open.spotify.com/artist/0n6Dxt9W4fUDlCqLCRLwqt), [Aaria](https://open.spotify.com/artist/6wQhJatwZHWgRTz2gtWVbc) | [2 Good 2B True](https://open.spotify.com/album/4GcW67cyojCQm97aUe9Erd) | 4:27 | 2022-07-22 | 2023-01-13 |
@@ -66,7 +67,7 @@
 | [Changes](https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Changes](https://open.spotify.com/album/1DpF83ld572jojmymv9J8P) | 2:33 | 2023-01-12 | 2023-06-22 |
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-08-31 |  |
 | [Check Myself](https://open.spotify.com/track/4Oz1Aw9TEyuNljkUAaY8mw) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [Check Myself](https://open.spotify.com/album/2WmIdURIvY3eZctc92T6Ma) | 2:16 | 2023-09-07 |  |
-| [Cheetos](https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz) | [Mael](https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7) | [Cheetos](https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM) | 2:32 | 2023-08-31 |  |
+| [Cheetos](https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz) | [Mael](https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7) | [Cheetos](https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM) | 2:32 | 2023-08-31 | 2023-09-09 |
 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 | 2023-08-31 |  |
 | [Comfortable](https://open.spotify.com/track/7GZCvyXbdMq9mRhf5lNQgI) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Comfortable](https://open.spotify.com/album/2tJSVkMzgZxqP4GXHljomJ) | 2:29 | 2021-12-16 | 2022-01-21 |
 | [Connexion](https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 3:16 | 2021-12-16 | 2023-05-13 |

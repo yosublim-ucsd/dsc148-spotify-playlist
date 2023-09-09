@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico. \n#FestivalEQUAL \u2022 16 de septiembre \u2022 Hip\u00f3dromo de Palermo ",
-  "num_followers": 35458,
+  "num_followers": 35521,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2FiNTViMzBkY2JiN2E2NGRmNGU0YjRkZTA0YmYwNGU1Y2ZmODRj",
+  "snapshot_id": "MCw4NTE3YzA5NTgzMTcxYzNkZTc5ZTE4OTgyNmUwZTg4MDE5YmZlNmMx",
   "tracks": [
     {
       "added_at": "2023-09-07 01:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
+        "name": "No Lo Pienses M\u00e1s",
+        "url": "https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "No Lo Pienses M\u00e1s",
+      "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
         "name": "Esta podr\u00eda ser la se\u00f1al",
         "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 126146,
       "name": "Pal Tiempo Del Carnaval",
       "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
-        "name": "No Lo Pienses M\u00e1s",
-        "url": "https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK"
-      },
-      "artists": [
-        {
-          "name": "Luz Gaggi",
-          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "No Lo Pienses M\u00e1s",
-      "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Mariposa Azul",
-        "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 201382,
-      "name": "Mariposa Azul",
-      "url": "https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Hasta El Cielo Mi Alma",
         "url": "https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 144000,
       "name": "Chacarera Pal Trichaco",
       "url": "https://open.spotify.com/track/5Kz1mW7iVOBpbohYaj1Hpl"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Mariposa Azul",
+        "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 201382,
+      "name": "Mariposa Azul",
+      "url": "https://open.spotify.com/track/30A9i0eGYhLESSFRQBHuX9"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Autobiograf\u00eda",
-        "url": "https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Pedro Canoero",
-      "url": "https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Llorando en la Fiesta",
         "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 191278,
       "name": "Rothmans",
       "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Autobiograf\u00eda",
+        "url": "https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Pedro Canoero",
+      "url": "https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 186245,
       "name": "BSOS",
       "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Canciones de tapa blanca y negra",
         "url": "https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 116924,
       "name": "Canci\u00f3n Cauce",
       "url": "https://open.spotify.com/track/5BDAyGoE29547It73XxbqQ"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
+        "name": "Tu Mejor Plan",
+        "url": "https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/415KSDXNeBLBGMgsu5aIWV"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
         "name": "Menos Mierda",
         "url": "https://open.spotify.com/album/6R7sheQVYhx0mGCkoSzJLr"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 218470,
       "name": "Menos Mierda",
       "url": "https://open.spotify.com/track/6I4RfnGgotxBNN5ucshR0Z"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
-        "name": "Tu Mejor Plan",
-        "url": "https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/415KSDXNeBLBGMgsu5aIWV"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
-        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 157066,
-      "name": "Como La Cigarra",
-      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "SUELTO",
         "url": "https://open.spotify.com/album/4sbivM4b9qHO8Lr9rJyEXN"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 157720,
       "name": "SUELTO",
       "url": "https://open.spotify.com/track/1wGRgZ53XqiTNmwJCYiudy"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
+        "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Como La Cigarra",
+      "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "CHIN CHIN",
-        "url": "https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx"
-      },
-      "artists": [
-        {
-          "name": "Oriana",
-          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "CHIN CHIN",
-      "url": "https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Es Mi Culpa",
         "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 215067,
       "name": "Es Mi Culpa",
       "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "CHIN CHIN",
+        "url": "https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "CHIN CHIN",
+      "url": "https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 249797,
-      "name": "Coraz\u00f3n Lic\u00e1ntropo",
-      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Lo Que Tenias Conmigo",
         "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
       },
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 249797,
+      "name": "Coraz\u00f3n Lic\u00e1ntropo",
+      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
         "name": "UN N\u00daMERO",
         "url": "https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
-      },
-      "artists": [
-        {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Adonde No Me Llaman",
         "url": "https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 256416,
       "name": "Gusto de Vos",
       "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+      },
+      "artists": [
+        {
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
     },
     {
       "added_at": "2023-09-07 01:00:00",

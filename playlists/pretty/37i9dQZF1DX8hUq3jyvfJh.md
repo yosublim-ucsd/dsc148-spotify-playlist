@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Juliette e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,189 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,233 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 13 | [Tudo Seu](https://open.spotify.com/track/3DkC02GRxCISS2mo0MwQYd) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:32 |
 | 14 | [Funk Rave](https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:27 |
 | 15 | [Bomzão](https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:09 |
-| 16 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 4:55 |
-| 17 | [5 contra 1 \- Live](https://open.spotify.com/track/1io4V9LDLXZwEglQZKq8zO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ LIVE](https://open.spotify.com/album/0E3HbvHoAFMaYVKExpTQnP) | 2:53 |
-| 18 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
-| 19 | [danos colaterais](https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [danos colaterais](https://open.spotify.com/album/3HqcMHOo5q5TKiW758pE9y) | 2:41 |
-| 20 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
+| 16 | [5 contra 1 \- Live](https://open.spotify.com/track/1io4V9LDLXZwEglQZKq8zO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ LIVE](https://open.spotify.com/album/0E3HbvHoAFMaYVKExpTQnP) | 2:53 |
+| 17 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 4:55 |
+| 18 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
+| 19 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
+| 20 | [danos colaterais](https://open.spotify.com/track/6NpyaGzRIy3ZAyrWp7GAiC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [danos colaterais](https://open.spotify.com/album/3HqcMHOo5q5TKiW758pE9y) | 2:41 |
 | 21 | [INÍCIO DO FIM](https://open.spotify.com/track/1xJV8NLJOXS9X0gLw2KDqv) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 3:06 |
 | 22 | [A.N.A.N.D.A.](https://open.spotify.com/track/19N3cwfpPVn61lTNLPlG8X) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A.N.A.N.D.A.](https://open.spotify.com/album/6Sanh4zYrUafHTxedmfea1) | 2:27 |
 | 23 | [Desfruta](https://open.spotify.com/track/2DLAjolKrLcgS0776mg9OO) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Desfruta](https://open.spotify.com/album/3DqQXeeEpBPP8MzSadczqB) | 3:14 |
-| 24 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 |
-| 25 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [Priscilla](https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
-| 26 | [Amigos Não Se Pegam](https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Amigos Não Se Pegam](https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr) | 2:45 |
+| 24 | [Bomba](https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3) | [Priscilla](https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV) | [Bomba](https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo) | 2:16 |
+| 25 | [Amigos Não Se Pegam](https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [Amigos Não Se Pegam](https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr) | 2:45 |
+| 26 | [desculpa, qualquer coisa](https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [tudo, eu, enfim.](https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq) | 3:54 |
 | 27 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 |
 | 28 | [Libera a Pressão](https://open.spotify.com/track/1XbEcV9RjfGy3nUoya9yvA) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Libera a Pressão](https://open.spotify.com/album/3gMEKirJ3O9aHoZCxUSkeK) | 2:00 |
 | 29 | [ainda te busco](https://open.spotify.com/track/2kvGNBQ5Sf1Sh2ojXbwxoX) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [KARUMA](https://open.spotify.com/album/5UBuUGbxBmntnQLvkJNg1i) | 2:25 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 41 | [Agora Só Falta Você \- Acústico MTV](https://open.spotify.com/track/60pTIQ2Jxoa7KQjFYaND6r) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 3:46 |
 | 42 | [Horácio](https://open.spotify.com/track/6T6Iuxl05PMJQ6F0i7ZiHQ) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [Horácio](https://open.spotify.com/album/1TCeo3HIw9XXpe3bUkzoxb) | 2:12 |
 | 43 | [ele diz que me ama s2](https://open.spotify.com/track/1bSdi72OmWuFJgmgO1oDuM) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ELE DIZ QUE ME AMA](https://open.spotify.com/album/59Begox0CEkhGX66PfKGoM) | 4:01 |
-| 44 | [Não Faz Sentido](https://open.spotify.com/track/2eM9onQmHmiMb1cajcsdkK) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Não Faz Sentido](https://open.spotify.com/album/5BPPcyeRsLO5JSzCoet6qc) | 2:55 |
+| 44 | [tchau, baby!](https://open.spotify.com/track/3EMoc2oDerAUssHFRFjL5S) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:15 |
 | 45 | [Me Liga](https://open.spotify.com/track/5MeN8EKithLDziSvLOv8h9) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce \(Deluxe\)](https://open.spotify.com/album/5VMHt7P4UGFaX2grV23vKf) | 2:52 |
-| 46 | [tchau, baby!](https://open.spotify.com/track/3EMoc2oDerAUssHFRFjL5S) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [AMAR](https://open.spotify.com/album/2BNNeYztxm3YUL93ry9nhh) | 3:15 |
+| 46 | [Não Faz Sentido](https://open.spotify.com/track/2eM9onQmHmiMb1cajcsdkK) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Não Faz Sentido](https://open.spotify.com/album/5BPPcyeRsLO5JSzCoet6qc) | 2:55 |
 | 47 | [Antes de ir](https://open.spotify.com/track/6T90KYnHUhA7fRx6lDljm4) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [Antes de ir](https://open.spotify.com/album/3QKeAAJe5ZhXFSWoQ2Fz2I) | 2:31 |
 | 48 | [Se Você Não Me Queria](https://open.spotify.com/track/7dtv689PA2U8naN1kUQC5h) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Se Você Não Me Queria](https://open.spotify.com/album/5s8ET4e3AxTXSQDHtVRnHi) | 3:26 |
 | 49 | [ATÉ O AMANHECER](https://open.spotify.com/track/65ZF0SDgHrIhSYXLYaZ47S) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [ATÉ O AMANHECER](https://open.spotify.com/album/6i8zv9CCuIszeZZxa3i6Uo) | 3:29 |
 | 50 | [Sem Tédio](https://open.spotify.com/track/6LIOqJseCbEpEVLkMkjp7U) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:00 |
 
-Snapshot ID: `MCxmZWI3ODg5ZDVlZDIwYTNjMDZkNmMyNjY0ODg2NzBjMGQzNmMyZWIy`
+Snapshot ID: `MCw2NDc3ODM0MWI0MzU4MjIzMjc3YjQ0NWI4ZWZkMGQ1YjQxYTc1YzEy`

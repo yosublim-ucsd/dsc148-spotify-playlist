@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-102 songs - 6 hr 6 min
+103 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [La Mujer Que Amas](https://open.spotify.com/track/6qq3vgo9RQ1YhX8qDNSKLE) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [La Mujer Que Amas](https://open.spotify.com/album/0W6tsKF0lp12OWYV45Jkr3) | 3:56 | 2023-08-25 |  |
 | [La Tortuga Vacilona](https://open.spotify.com/track/6ugIHliLvfqeh3WVn3gLEE) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [La Terrible Pulenta](https://open.spotify.com/album/0RildIXfukQ6fFuNtkpgX4) | 3:41 | 2023-08-25 |  |
 | [Loca](https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 3:07 | 2023-08-25 |  |
-| [Los Que Toman Como Rey](https://open.spotify.com/track/5WSqDw6NzRY89kiAUM3gxV) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Rey Mambo](https://open.spotify.com/album/076BEqIB8d6JYX8Cky7LKI) | 2:50 | 2023-08-25 |  |
+| [Los Que Toman Como Rey](https://open.spotify.com/track/5WSqDw6NzRY89kiAUM3gxV) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Rey Mambo](https://open.spotify.com/album/076BEqIB8d6JYX8Cky7LKI) | 2:50 | 2023-08-25 | 2023-09-09 |
 | [Lost On You](https://open.spotify.com/track/3LSsTxosuhe9p4rBSjcRfX) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Lost On You](https://open.spotify.com/album/1rFtCRMzbussMVKQOFdQ2I) | 3:06 | 2023-08-25 |  |
 | [Mala](https://open.spotify.com/track/4BmzxkfJ6ov6oiJ6ZKWqOI) | [Tu Vicio](https://open.spotify.com/artist/6TMOhNUfIadpsB0YAavKGN), [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Mala](https://open.spotify.com/album/7JfYUOyxFouERULu71ruv6) | 3:23 | 2023-08-25 |  |
 | [Mala de Adentro](https://open.spotify.com/track/0qYARD1KjEnMbmjdAUpOz3) | [Combo Ginebra](https://open.spotify.com/artist/2L5b3yHGpn7RQi4wd3vcU2) | [Cumbias de Sangre y Oro](https://open.spotify.com/album/1pxG4hB9LuTke7H7GnrBtm) | 4:19 | 2023-08-25 |  |
@@ -64,7 +64,7 @@
 | [No Podre Olvidarme](https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:15 | 2023-08-25 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2023-08-25 |  |
 | [No te lo puedo creer](https://open.spotify.com/track/2mtlU0zHtox2WJPMdfZzyr) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [La Pasión Florece](https://open.spotify.com/album/3ajxuhibornCsqd160ASSU) | 3:48 | 2023-08-25 |  |
-| [No Tomo Más](https://open.spotify.com/track/2bNO2GXxVXQUmdEc3ldjly) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Prohibido](https://open.spotify.com/album/2yK1FtavuzNVvyNy6PbsnM) | 4:24 | 2023-08-25 |  |
+| [No Tomo Más](https://open.spotify.com/track/2bNO2GXxVXQUmdEc3ldjly) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Prohibido](https://open.spotify.com/album/2yK1FtavuzNVvyNy6PbsnM) | 4:24 | 2023-08-25 | 2023-09-09 |
 | [Ordenando unas cosas](https://open.spotify.com/track/49CxApahWbmQ2Gu9wZnkcr) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 3:47 | 2023-08-25 |  |
 | [Para dormir contigo otra vez](https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk) | 3:01 | 2023-08-25 |  |
 | [Pare de Sufrir](https://open.spotify.com/track/3T8rlIKT1bbbT0xftzQ4HJ) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Cumbia E' Plaza](https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj) | 5:45 | 2023-08-25 |  |
@@ -99,6 +99,7 @@
 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 | 2023-08-25 |  |
 | [Una Villera Más](https://open.spotify.com/track/3PuoX1VLgKfstN9ACNCyQh) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Seguimos Vacilando](https://open.spotify.com/album/5haOD8BT0MxCdZQhs2JVoV) | 4:44 | 2023-08-25 |  |
 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 | 2023-08-25 |  |
+| [Volar y Volar](https://open.spotify.com/track/5JwWwa7tEBqlOEhHBmoM1q) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo) | [Volar y Volar](https://open.spotify.com/album/4oU2XR6eERJhkMtJk4355g) | 3:32 | 2023-09-08 |  |
 | [Voluntad Heredada](https://open.spotify.com/track/3GFubkKHTeHuOvAy0sXgmg) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 4:32 | 2023-08-25 |  |
 | [Volvemos a Caer](https://open.spotify.com/track/2v6EvuXgKWGeFK2HukTKT9) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Gonzalo Yañez](https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA) | [Volvemos a Caer](https://open.spotify.com/album/1m9EeBYrwdJouDQ6YbI8SB) | 3:16 | 2023-08-25 |  |
 | [Volvemos a Caer \(Sesión Cajón del Maipo\)](https://open.spotify.com/track/4P8DwlDIgkv5J5SafRn4Ni) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Gonzalo Yañez](https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA) | [Sesión Cajón del Maipo \(En Vivo\)](https://open.spotify.com/album/3GezkvFcPKrSdRrRbtk9Ry) | 3:18 | 2023-08-25 |  |

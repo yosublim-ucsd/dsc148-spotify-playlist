@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: BETWEEN FRIENDS",
+  "description": "New and approved indie pop. Cover: boyish",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 165916,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
@@ -662,6 +662,24 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
+    },
+    {
+      "album": {
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
     },
     {
       "album": {
@@ -3698,6 +3716,24 @@
       "duration_ms": 142596,
       "name": "Boy Bi",
       "url": "https://open.spotify.com/track/3OWK4KWwpo7prKUk8ytwCp"
+    },
+    {
+      "album": {
+        "name": "Boy Scout",
+        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200261,
+      "name": "Boy Scout",
+      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
     },
     {
       "album": {
@@ -7718,7 +7754,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 268432,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
@@ -8046,7 +8082,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 229804,
       "name": "drive ME crazy!",
       "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
@@ -9790,7 +9826,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
@@ -11586,7 +11622,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
@@ -12056,7 +12092,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 146179,
       "name": "Holy Havoc",
       "url": "https://open.spotify.com/track/0BUkSJTTfwFTQywUrvjWtu"
@@ -13510,7 +13546,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
@@ -14200,7 +14236,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 150533,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/15ooUT2BqringLAgnx9n3O"
@@ -14746,7 +14782,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 221493,
       "name": "It\u2019s Euphoric",
       "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
@@ -15038,7 +15074,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 168960,
       "name": "JUST ME & FRIENDS",
       "url": "https://open.spotify.com/track/110C4JUqwl9bAxr830GaaI"
@@ -20996,7 +21032,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 225613,
       "name": "Peanut Butter & Tears",
       "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
@@ -21674,10 +21710,28 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 216374,
       "name": "Pretty In Possible",
       "url": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199422,
+      "name": "pretty isn\u2019t pretty",
+      "url": "https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X"
     },
     {
       "album": {
@@ -22230,7 +22284,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 176546,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
@@ -22996,6 +23050,24 @@
       "duration_ms": 160445,
       "name": "Sandals",
       "url": "https://open.spotify.com/track/08mbmCSc6wEUNlMvi0Ukzu"
+    },
+    {
+      "album": {
+        "name": "Satan Loves You",
+        "url": "https://open.spotify.com/album/6xrANcAOKHnc8SMRRh3FBn"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00eb Doucet",
+          "url": "https://open.spotify.com/artist/4wKCXloIwBDiO9eUGe1QpW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195936,
+      "name": "Satan Loves You",
+      "url": "https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE"
     },
     {
       "album": {
@@ -25024,6 +25096,24 @@
       "duration_ms": 172559,
       "name": "Spinning (with Charli XCX & The 1975)",
       "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
+    },
+    {
+      "album": {
+        "name": "Little Demon Boy",
+        "url": "https://open.spotify.com/album/1DubHATL9RqfbfD6Y1lAWa"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147178,
+      "name": "Split Up",
+      "url": "https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9"
     },
     {
       "album": {
@@ -28761,6 +28851,24 @@
     },
     {
       "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
+    },
+    {
+      "album": {
         "name": "Rancho Catastrophe",
         "url": "https://open.spotify.com/album/5mEz2wLWBXDB76mAv5qW6T"
       },
@@ -30538,7 +30646,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 177957,
       "name": "You Tear Me Apart",
       "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"

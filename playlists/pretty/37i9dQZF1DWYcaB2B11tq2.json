@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 383076,
+  "num_followers": 383327,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTFjYjhlZDYzOTM2MDY3ZTQ3MzhlMTg4ZjMyOGY2YjM0MDNiZjRj",
+  "snapshot_id": "MCwxZWM0YjQ0MTZkMTAwOTg3OGVhY2VmMjgwOTQzOWUyMGQyMzEyYjM2",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Incontrolable Amor",
+        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 333120,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Ama A Dios Y A Tu Vecino",
         "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 206133,
       "name": "Ama A Dios Y A Tu Vecino",
       "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Incontrolable Amor",
-        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
-      },
-      "artists": [
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 333120,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+        "name": "Lo Peor de Mi",
+        "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 210932,
-      "name": "Soy Libre",
-      "url": "https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM"
+      "duration_ms": 280450,
+      "name": "Lo Peor de Mi",
+      "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
     }
   ],
   "unique_name": "Creo En Ti",

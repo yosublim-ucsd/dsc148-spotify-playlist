@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Forest",
+        "url": "https://open.spotify.com/album/4BhTyKanan6VmTQrj00r2E"
+      },
+      "artists": [
+        {
+          "name": "Adelina Somerset",
+          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127142,
+      "name": "Ethereal Forest",
+      "url": "https://open.spotify.com/track/0FMykEh5eCRUwfAWq7MTCZ"
+    },
+    {
+      "album": {
         "name": "Ethereal Waves",
         "url": "https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY"
       },
@@ -712,6 +730,24 @@
       "duration_ms": 182812,
       "name": "Forest Symphony",
       "url": "https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK"
+    },
+    {
+      "album": {
+        "name": "Forest Winds",
+        "url": "https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe"
+      },
+      "artists": [
+        {
+          "name": "Verala Lux",
+          "url": "https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Forest Winds",
+      "url": "https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X"
     },
     {
       "album": {

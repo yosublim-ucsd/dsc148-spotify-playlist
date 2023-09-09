@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 363960,
       "name": "Anything Else Feat. Alix Edwards",
       "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 268717,
       "name": "New Nkalo",
       "url": "https://open.spotify.com/track/5kNWbTd20m5zeLEoRafalx"
@@ -3481,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "Sensitive People",
+        "url": "https://open.spotify.com/album/1m8CNgwbEokMBLyDn3GL2Z"
+      },
+      "artists": [
+        {
+          "name": "Erik Ellmann",
+          "url": "https://open.spotify.com/artist/00X51QLtLhAPByQdOXsT9s"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308446,
+      "name": "Sensitive People",
+      "url": "https://open.spotify.com/track/4w4Qvb4Eyrq6kG3IS8ebCE"
+    },
+    {
+      "album": {
         "name": "SETRA",
         "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
       },
@@ -3575,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "Shallow Waters",
+        "url": "https://open.spotify.com/album/5uCELkdK05EwUsPrAzdJh4"
+      },
+      "artists": [
+        {
+          "name": "Ams",
+          "url": "https://open.spotify.com/artist/7zJyf7OS6Vw8gyrphYLyt7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402592,
+      "name": "Shallow Waters",
+      "url": "https://open.spotify.com/track/1l8oVb7DDpCTubrKchdRgl"
+    },
+    {
+      "album": {
         "name": "Signals EP",
         "url": "https://open.spotify.com/album/1BDRViteUf8jflNGqrW08c"
       },
@@ -3662,6 +3698,24 @@
       "duration_ms": 134213,
       "name": "Songs to Stay Home To, Pt. I",
       "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
+    },
+    {
+      "album": {
+        "name": "New Life EP",
+        "url": "https://open.spotify.com/album/3XBiYgj9hSwH9Joehq5NCL"
+      },
+      "artists": [
+        {
+          "name": "Kai Alce",
+          "url": "https://open.spotify.com/artist/7rltPaQHdstifwqWcQtSgh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374856,
+      "name": "Space Skat N Dat",
+      "url": "https://open.spotify.com/track/4HIlZhKWz2WXYcGXiZFXqe"
     },
     {
       "album": {
@@ -4056,7 +4110,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 287767,
       "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
       "url": "https://open.spotify.com/track/1n1786JvfDmDCQYF47PZS0"

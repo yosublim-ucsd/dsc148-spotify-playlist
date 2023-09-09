@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200305,
+      "name": "21 Days",
+      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
+    },
+    {
+      "album": {
         "name": "400 Trillion",
         "url": "https://open.spotify.com/album/3nu8vM1n4tAuHPDzkxlN8H"
       },
@@ -2182,6 +2200,24 @@
       "duration_ms": 168857,
       "name": "Close To The Edge",
       "url": "https://open.spotify.com/track/5cKXWL2gO6VUwMey396Uqu"
+    },
+    {
+      "album": {
+        "name": "Dancing For The Moon",
+        "url": "https://open.spotify.com/album/3MRZCLznDdjCVl00AfivWj"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284511,
+      "name": "Closer To You",
+      "url": "https://open.spotify.com/track/4KoMeILLdIvlSaFxsoKmYr"
     },
     {
       "album": {
@@ -6888,7 +6924,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 222680,
       "name": "Love Go By",
       "url": "https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6"
@@ -8148,7 +8184,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 214274,
       "name": "On Hold",
       "url": "https://open.spotify.com/track/6dRTgr0gVZB17BEpTvi8gJ"
@@ -9383,6 +9419,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7sFLLJXz8uVbEvnbTwNGI1"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209218,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2E5pFaZicddHQmFcgu6xVb"
+    },
+    {
+      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -9416,7 +9470,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 211886,
       "name": "Running from the Dawn",
       "url": "https://open.spotify.com/track/7jb6FDwrUuTgcgeE1iMGi4"
@@ -9600,7 +9654,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 207786,
       "name": "Sea Star",
       "url": "https://open.spotify.com/track/6alJoblCCJSKIxicui9cIv"
@@ -9918,6 +9972,24 @@
       "duration_ms": 228553,
       "name": "So Caught Up",
       "url": "https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh"
+    },
+    {
+      "album": {
+        "name": "Reasons Why",
+        "url": "https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213248,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
     },
     {
       "album": {

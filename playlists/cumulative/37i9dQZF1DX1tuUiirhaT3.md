@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-276 songs - 14 hr 40 min
+279 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Enter](https://open.spotify.com/track/3zmaWVi1TqIsXLSIPHgtSe) | [Milo Heart](https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1) | [Enter](https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn) | 3:50 | 2021-12-17 | 2022-07-29 |
 | [Equilibrium](https://open.spotify.com/track/1ZcQnf6WQyZK3kl3rSsd0m) | [Alina Hill](https://open.spotify.com/artist/2Ok5dXrKJa8fs1vSoOMHlQ) | [Equilibrium](https://open.spotify.com/album/6wIxeFFgRbTgKQXuvUnny3) | 3:06 | 2021-12-17 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-02-16 |  |
+| [Ethereal Rain](https://open.spotify.com/track/26ZOVa1ptC1ZDhH5K5QtQ5) | [Aurora Avery](https://open.spotify.com/artist/1PnqJKNlsztufhgWQKb8C0) | [Ethereal Rain](https://open.spotify.com/album/6JL6xio7jdQu6RjX55Fjwu) | 2:20 | 2023-09-08 |  |
 | [Eucalyptus Breeze](https://open.spotify.com/track/41uYACY72buj6Bfp1BNDKP) | [Peaceful Clarity](https://open.spotify.com/artist/6FRjMYGzCyUD97xeWPWWq4) | [Eucalyptus Breeze](https://open.spotify.com/album/0gRSqJ6Wz9IgqVY5LTLTRr) | 2:49 | 2021-12-17 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-02-16 |  |
@@ -91,7 +92,7 @@
 | [Flow](https://open.spotify.com/track/4u6b51YsNscUjljuiy9JzU) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Flow](https://open.spotify.com/album/0udfQBmswmEv3Noa7E976j) | 3:17 | 2022-05-06 | 2023-01-14 |
 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 | 2023-06-30 |  |
 | [Forensia](https://open.spotify.com/track/2WtgSzDE0rAjr5T4bZT3Yz) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Forensia](https://open.spotify.com/album/4GvUzLdBV8aLCHTiU0iC9x) | 2:56 | 2021-12-17 |  |
-| [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2022-12-02 |  |
+| [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2022-12-02 | 2023-09-09 |
 | [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2021-12-17 | 2023-03-10 |
 | [Friendly Fall](https://open.spotify.com/track/5h2vwZOiGeBXbV1FwiZKaQ) | [New Orange](https://open.spotify.com/artist/2r2zkeCT8RoBKJw25mYnUL) | [Silhouette Stone](https://open.spotify.com/album/2I7EznUk8JyuJMsozVKVlu) | 3:05 | 2021-12-17 |  |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2022-03-04 |  |
@@ -147,7 +148,7 @@
 | [Meditation Rain](https://open.spotify.com/track/05ZOl73J8mzcUcW4JNKYy5) | [Pär Canze](https://open.spotify.com/artist/7b0idtdDzwzvjrPB5JY7TF) | [Meditation Rain](https://open.spotify.com/album/1qvax3EeGaSZFMsYKzqkOu) | 2:51 | 2021-12-17 |  |
 | [Meditation: By The Stream](https://open.spotify.com/track/1XQ0gGJiVhKqdLf9uhO571) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Meditation Relaxation](https://open.spotify.com/album/0DC493rP2yoV43EMGaxnux) | 2:57 | 2021-12-17 |  |
 | [Meditation: Waves Pads](https://open.spotify.com/track/0giLrtDJbkxXJSqe6Xdo1v) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Spiritual Healing](https://open.spotify.com/album/09AjC4yhv87os7DbSAWlfL) | 2:40 | 2021-12-17 | 2023-01-21 |
-| [Midnight Symphony](https://open.spotify.com/track/3H2NnnXlA7smMlxuKmCAtD) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Midnight Symphony](https://open.spotify.com/album/3OpBphxbJzFfoWxOp1IBmI) | 3:05 | 2023-04-21 |  |
+| [Midnight Symphony](https://open.spotify.com/track/3H2NnnXlA7smMlxuKmCAtD) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Midnight Symphony](https://open.spotify.com/album/3OpBphxbJzFfoWxOp1IBmI) | 3:05 | 2023-04-21 | 2023-09-09 |
 | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/track/7ytJp03Bb2wkKPYD01Y3Yg) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Miracle Tone 528 Hz Solfeggio](https://open.spotify.com/album/0l88CPrZMuhAnMwdd3MP4k) | 2:14 | 2022-09-30 |  |
 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 | 2021-12-17 |  |
 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
@@ -242,8 +243,10 @@
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-03-10 |  |
 | [Submerged](https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 3:01 | 2021-12-17 | 2023-08-12 |
 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 | 2021-12-17 |  |
+| [Sun\-drenched Greenery](https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Sun\-drenched Greenery](https://open.spotify.com/album/0mF5YSe2ziMY1EpNX4im50) | 3:24 | 2023-09-08 |  |
 | [Surface Waves](https://open.spotify.com/track/4UHi5CXJIGrVUkzKdnWdOA) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Surface Waves](https://open.spotify.com/album/2VBFOXN47dcTG77m5o7Gir) | 3:01 | 2021-12-17 | 2023-01-21 |
 | [Surrounded](https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lonely Planet](https://open.spotify.com/album/2WrxpI2N2kHCkKqKN0Xbjq) | 2:52 | 2021-12-17 |  |
+| [Take a Breath](https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Take a Breath](https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu) | 2:50 | 2023-09-08 |  |
 | [Tantra](https://open.spotify.com/track/16oB4C6uTdcJBU5FJYXKpR) | [Catch Your Dream](https://open.spotify.com/artist/3Vj6U9oLAjY6TVcpxl8DFX) | [Tantra](https://open.spotify.com/album/5xrAysMOBsKJRSZ0h2soYY) | 3:27 | 2021-12-17 |  |
 | [Temples of Qufu](https://open.spotify.com/track/33Pu5YVliAyFlf7aB7e8Q9) | [Zhu Lin](https://open.spotify.com/artist/5kVqstdlRUQK3cIHbOsyF0) | [Temples of Qufu](https://open.spotify.com/album/1MlXDeOHaH3Xb5uNUW6vBL) | 2:51 | 2021-12-17 |  |
 | [The Awakening](https://open.spotify.com/track/3smuAxUIVqSgUJMS9BDVqx) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [The Awakening](https://open.spotify.com/album/5069FBAkMxYSz6KzGsm0Tr) | 2:00 | 2022-10-14 |  |

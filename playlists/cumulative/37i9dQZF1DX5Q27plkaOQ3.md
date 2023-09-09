@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Subtronics & HOL!
 
-398 songs - 22 hr 43 min
+399 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/track/6ivBy5kKmL1rbz0RTgH8KZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM), [Tvbuu](https://open.spotify.com/artist/5g88TrER5HETb6uDHUASGv) | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/album/39jpXJv2tcnolZ0Ch67D94) | 4:04 | 2023-05-12 | 2023-08-05 |
 | [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 | 2022-10-01 |
 | [Demisaur](https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Demisaur](https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF) | 3:32 | 2021-12-17 | 2022-05-07 |
-| [Deranged](https://open.spotify.com/track/5GuFNblmTTazW0UKhf0d34) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Deranged / Monster](https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd) | 3:24 | 2023-05-19 |  |
+| [Deranged](https://open.spotify.com/track/5GuFNblmTTazW0UKhf0d34) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Deranged / Monster](https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd) | 3:24 | 2023-05-19 | 2023-09-09 |
 | [Desire](https://open.spotify.com/track/2qp4mhHWTXn0KC6a7ZRIKu) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Revive EP](https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r) | 3:08 | 2022-07-22 | 2023-06-10 |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 | 2022-10-08 |
 | [Destiny](https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Destiny](https://open.spotify.com/album/2Z2FA1PG9oa7LpxBZRXGBm) | 4:28 | 2021-12-17 | 2022-05-07 |
@@ -362,6 +362,7 @@
 | [T.O.A.D.](https://open.spotify.com/track/255aqjr60zsuqvu7yJPUZM) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [T.O.A.D.](https://open.spotify.com/album/0Qb8vmQGWo0UYTF3oc3iya) | 2:58 | 2023-02-10 |  |
 | [Tactix](https://open.spotify.com/track/4qx3idnPftLmV1XmDWiIGP) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Tactix](https://open.spotify.com/album/3cfVMh4rTeeJZbeHRjoWCV) | 4:04 | 2023-04-21 |  |
 | [Take A Trip](https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Take A Trip](https://open.spotify.com/album/5HMJ6OOT8Z6WjNbdK61P2u) | 4:22 | 2022-04-15 | 2023-05-13 |
+| [TEARDOWN](https://open.spotify.com/track/0XNxBse9Wk2rBEJOHR9RuY) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [TEARDOWN](https://open.spotify.com/album/3zzksqIuu6nqp0rJAlZz8W) | 2:20 | 2023-09-08 |  |
 | [Teardrop](https://open.spotify.com/track/7ztFTiaEtc1TF5AV9909Bb) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Teardrop](https://open.spotify.com/album/3CNLbkYxHTAHaryZmy8oCo) | 4:25 | 2022-09-09 |  |
 | [Technicolour Psychic Vision](https://open.spotify.com/track/0L7sgiVeptb1JBYdlGowEE) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Technicolour Psychic Vision](https://open.spotify.com/album/3paOlnwvgkaKB8yej7GfLQ) | 2:54 | 2022-11-18 |  |
 | [Tekno](https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 3](https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr) | 2:58 | 2022-04-15 | 2022-11-19 |

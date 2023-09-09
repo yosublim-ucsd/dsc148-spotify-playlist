@@ -1,12 +1,12 @@
 {
   "description": "My love language is all of em, do all that $#*!",
-  "num_followers": 161344,
+  "num_followers": 161423,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGJjZWU3NzMxY2IyMDk5ZmJlOTZlYTJkNDIwOTZmYjZkNTI3Njgw",
+  "snapshot_id": "MCxjMzAyMzA4Zjc1M2E2ZDQ3ZThkZTQwNTkzNDk1ZDY0NjRiM2JiODhh",
   "tracks": [
     {
       "added_at": "2023-02-13 19:41:30",
@@ -635,6 +635,22 @@
       "duration_ms": 235906,
       "name": "No Better Love",
       "url": "https://open.spotify.com/track/0K7XjmTNFwQ2qwHn4MjlDx"
+    },
+    {
+      "added_at": "2023-02-10 07:49:32",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2023-02-10 07:49:32",

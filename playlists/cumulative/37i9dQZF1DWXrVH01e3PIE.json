@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Seven Kayne en la casa del Trap Argentino.",
+  "description": "Tu d\u00fao favorito en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 184131,
       "name": "AYER",
       "url": "https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s"
@@ -1616,6 +1616,32 @@
       "duration_ms": 197014,
       "name": "Flashbacks",
       "url": "https://open.spotify.com/track/14HsxR2IvAGURKm3LOSV9a"
+    },
+    {
+      "album": {
+        "name": "TU DUO FAVORITO",
+        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185241,
+      "name": "FLECHAZO EN EL CENTRO",
+      "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
     },
     {
       "album": {
@@ -3559,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Roberto Perfumo",
+        "url": "https://open.spotify.com/album/2rq6aaauxZ4uGCzZ7DBW9Q"
+      },
+      "artists": [
+        {
+          "name": "Chiki Wanted",
+          "url": "https://open.spotify.com/artist/33jFO9W9LzOFYLwdPcs97O"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125567,
+      "name": "Roberto Perfumo",
+      "url": "https://open.spotify.com/track/74aKFQ2gPjm9UawHPyoni5"
+    },
+    {
+      "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt"
       },
@@ -4040,6 +4084,32 @@
       "duration_ms": 162214,
       "name": "Solo en la Capital",
       "url": "https://open.spotify.com/track/17buDxmd7vsHfSiHChazkS"
+    },
+    {
+      "album": {
+        "name": "TU DUO FAVORITO",
+        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169614,
+      "name": "SONIDO DEL A\u00d1O",
+      "url": "https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d"
     },
     {
       "album": {
@@ -5212,6 +5282,28 @@
       "duration_ms": 133403,
       "name": "Y ustedes?",
       "url": "https://open.spotify.com/track/6UdKndtKQUPWeYNkcUbikU"
+    },
+    {
+      "album": {
+        "name": "Zona Caliente",
+        "url": "https://open.spotify.com/album/0pTEjQ7S1a4dMi6WcTWhDL"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160434,
+      "name": "Zona Caliente",
+      "url": "https://open.spotify.com/track/3QeW2fc6jJsoh7rK926Lq7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXrVH01e3PIE"

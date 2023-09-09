@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/1kX74857084y9kaHHjS7z0"
+      },
+      "artists": [
+        {
+          "name": "One Astra",
+          "url": "https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/1bUXKZBvJjxG2GizStYDHr"
+    },
+    {
+      "album": {
         "name": "Cantrip",
         "url": "https://open.spotify.com/album/3hFMnCyEI7uKEEgxPxmGNL"
       },
@@ -8926,7 +8944,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 235250,
       "name": "Promise Don't Forget",
       "url": "https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul"
@@ -9456,6 +9474,24 @@
       "duration_ms": 269268,
       "name": "Ritual Two",
       "url": "https://open.spotify.com/track/0hXvQ0bFIAkJtp2fIWjpM0"
+    },
+    {
+      "album": {
+        "name": "Rodolex",
+        "url": "https://open.spotify.com/album/4yft3TXCdLTbHSg1TjJD1T"
+      },
+      "artists": [
+        {
+          "name": "Tom Blacksmith",
+          "url": "https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159295,
+      "name": "Rodolex",
+      "url": "https://open.spotify.com/track/2xbgIcJoOCn8CksOxpNRpo"
     },
     {
       "album": {

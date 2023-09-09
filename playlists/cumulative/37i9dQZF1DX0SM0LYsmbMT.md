@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,631 songs - 5 day 19 hr 11 min
+3,632 songs - 5 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Carpe Diem](https://open.spotify.com/track/3i1cfiDvK3Yg34l7GESQfE) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Carpe Diem](https://open.spotify.com/album/2cSiEfiPKKAbAsCTFYgwH0) | 2:02 | 2021-07-24 | 2021-09-03 |
 | [Carrots & Tomatoes](https://open.spotify.com/track/2gehouzWK9NlPMpPUXa7Wg) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Carrots & Tomatoes](https://open.spotify.com/album/4S6BCC1nifNNcD2tHxP4kp) | 2:24 | 2022-12-08 | 2023-02-17 |
 | [Carwash](https://open.spotify.com/track/0W9PbTHjnrlhfEFX8g1Irn) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Tom Doolie](https://open.spotify.com/artist/5JshGIunTNL0tNCoqlzWrZ) | [Carwash](https://open.spotify.com/album/41Tv65YzFtuCkF8ajqzjRK) | 2:03 | 2019-08-09 | 2020-02-11 |
+| [Casa da Praia](https://open.spotify.com/track/4HMVLYPL4QkO3zj2rble7j) | [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Jonah Brooks](https://open.spotify.com/artist/38Zp3DIfdT9K3kd65Unxfl) | [Casa da Praia](https://open.spotify.com/album/6GQiIrIVndbf4SfCY7Iefm) | 2:11 | 2023-08-31 |  |
 | [Casablanca](https://open.spotify.com/track/5YQxSoa9DJvbRz49X9BTc8) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Casablanca](https://open.spotify.com/album/3jhucNSJo6W1gzn2IHSaQr) | 2:26 | 2021-08-14 | 2021-10-22 |
 | [Cashmere](https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Cashmere](https://open.spotify.com/album/1MtYJCV0I8jNyWabqS7t3M) | 2:23 | 2022-05-05 | 2023-04-21 |
 | [Cashmere Canopy](https://open.spotify.com/track/6CWZjq6bg4U9BrNwMgKkrP) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Canopy](https://open.spotify.com/album/0wbmXJtXiaTjgKd8SG6JK1) | 2:54 | 2021-03-27 | 2021-07-16 |
@@ -1934,7 +1935,7 @@
 | [Mendoza](https://open.spotify.com/track/5g9X1q45qVLRIdQ4ZVI0We) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Mendoza](https://open.spotify.com/album/1HvA0nGOnb0X6lwdtpiGxx) | 3:45 | 2021-07-02 | 2021-08-06 |
 | [Mercury](https://open.spotify.com/track/2atKWG7T0S9994lfDWaHfC) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [High Hats](https://open.spotify.com/album/2KCXMMTBgstZEjj8rE2hFS) | 2:33 | 2021-06-27 | 2021-11-26 |
 | [Merhaba](https://open.spotify.com/track/6qDTNdB4DfWGaEI4hb4BJL) | [Qadir Bijoux](https://open.spotify.com/artist/26dpXNQaUiknQXGV3zQqzQ) | [M](https://open.spotify.com/album/25EY8GXedHWxDYTdXqB5YV) | 3:03 | 2020-04-24 | 2020-06-29 |
-| [Meridian](https://open.spotify.com/track/1akZQhUlTJH9giqLJkUlVH) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Meridian](https://open.spotify.com/album/6hMN7AQidElCryhqSzOvLM) | 2:45 | 2023-08-31 |  |
+| [Meridian](https://open.spotify.com/track/1akZQhUlTJH9giqLJkUlVH) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Meridian](https://open.spotify.com/album/6hMN7AQidElCryhqSzOvLM) | 2:45 | 2023-08-31 | 2023-09-09 |
 | [Mermaid's Garden](https://open.spotify.com/track/6GL6TKpg1RkYstOcNqhY8e) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg) | [Mermaid's Garden](https://open.spotify.com/album/3FubTRqOiK5q3P78OVmnv8) | 2:23 | 2020-09-18 | 2021-04-09 |
 | [metelkova](https://open.spotify.com/track/2102AdMDG3ye0LXVGe0TyB) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [metelkova / lángos](https://open.spotify.com/album/0sEAKrB7hBSGBFhY2ujgxa) | 1:58 | 2020-04-18 | 2020-06-19 |
 | [Metropolis](https://open.spotify.com/track/5TycMfS6hwjtK0stjkHLnZ) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Metropolis](https://open.spotify.com/album/7blESGfeNdB9KhjQ6avpq3) | 2:14 | 2021-11-19 | 2022-04-08 |

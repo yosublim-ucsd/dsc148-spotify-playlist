@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Soul Glo
 
-146 songs - 6 hr 8 min
+147 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,11 +65,12 @@
 | [Human Condition Above Human Opinion](https://open.spotify.com/track/0UuWYnVAiIlKE7Y7nphiYY) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Heaven is Here](https://open.spotify.com/album/4ehKSfXDueVpMXqUTnWbme) | 2:39 | 2023-02-24 |  |
 | [Human Offense](https://open.spotify.com/track/6k7vSzPJY4oZrd9VP4aXhE) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Human Offense](https://open.spotify.com/album/5MvOWaEEjhHJshnwoqsJGl) | 2:24 | 2023-08-25 |  |
 | [Idealized](https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Idealized](https://open.spotify.com/album/1I00QM6BWuhWaFKVGuFWjq) | 3:41 | 2023-05-19 |  |
+| [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/track/2YB9zdlis5KT7v9CA4Iha2) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/album/3CfmxDJ95NdqqHdDumeYt1) | 2:37 | 2023-09-08 |  |
 | [Imperalist Reign](https://open.spotify.com/track/3wTLbr8a8xUuaBbmFSJ24U) | [Move BHC](https://open.spotify.com/artist/0k0hZC312UEzXUseFlboyZ) | [Imperialist Reign / Summer Trend](https://open.spotify.com/album/0ZcAEVm9B7eLqB3LWRX5lL) | 2:19 | 2023-08-11 |  |
 | [In The City](https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j) | 3:12 | 2023-02-24 |  |
 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 | 2023-02-24 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2023-02-24 |  |
-| [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0SIF3BX8DeyijHhQiF7g40) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:26 | 2023-08-11 |  |
+| [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0SIF3BX8DeyijHhQiF7g40) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:26 | 2023-08-11 | 2023-09-09 |
 | [Killing Wage](https://open.spotify.com/track/4V3F6sf0U3DkIgoZlPeeGT) | [Enemy](https://open.spotify.com/artist/4jJEXN720s7o5vBPEJjvOD) | [Maladjusted](https://open.spotify.com/album/5C8PwVl2pPjnpGf68dV8PD) | 1:03 | 2023-07-18 |  |
 | [Knife in the Dirt](https://open.spotify.com/track/4rY2Go6E34ZI09LX21Ko3v) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Knife in the Dirt](https://open.spotify.com/album/2t1hUmT2rDFi5s0P85wyTj) | 3:32 | 2023-03-10 |  |
 | [Life's Cold Grasp](https://open.spotify.com/track/2LPIlwH2FVqDXJZuffexj5) | [Domain](https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk) | [2022 Promo](https://open.spotify.com/album/2hoK0gIkA5qLjBoGH6mfiN) | 2:55 | 2023-02-24 |  |

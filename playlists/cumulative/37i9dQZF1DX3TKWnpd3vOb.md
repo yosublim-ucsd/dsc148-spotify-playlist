@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Pettinellis
 
-256 songs - 16 hr 17 min
+259 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amaneciendo](https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr) | [Saiko](https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry) | [Amaneciendo](https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd) | 4:48 | 2023-08-18 |  |
 | [Amar en Silencio](https://open.spotify.com/track/1VzT9tQGhJIxfPo6ydPBiV) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Amar en Silencio](https://open.spotify.com/album/6hoovBhEVxWz74nN37ZCoU) | 3:11 | 2022-04-08 | 2022-12-17 |
 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 | 2022-04-08 |  |
+| [Arauco Tiene una Pena](https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD), [Juanita Parra](https://open.spotify.com/artist/1cHf0iGXPhUQLfdkoE29Cj) | [Arauco Tiene una Pena](https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9) | 5:48 | 2023-09-08 |  |
 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 | 2023-06-23 | 2023-09-08 |
 | [Autodaño](https://open.spotify.com/track/5hn4Hto1X3BKt8zqNQ6Cn2) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/0vMvyrCPhbm7gYDhUYr9Nu) | 3:09 | 2022-04-08 | 2023-02-01 |
 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 | 2023-03-03 | 2023-06-03 |
@@ -58,9 +59,9 @@
 | [Despacio \- Bonus Track Migra](https://open.spotify.com/track/4x2HBispFiJkuu5jtIv0Py) | [El Ultimo Viaje](https://open.spotify.com/artist/6fpbLCQo7cLpMV1g397HWL) | [Despacio \(Bonus Track Migra\)](https://open.spotify.com/album/46a0OY25sTGfKXaSxQnOl1) | 6:19 | 2022-04-08 | 2022-07-28 |
 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 | 2022-04-08 | 2023-05-30 |
 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 | 2022-04-08 | 2023-04-20 |
-| [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-04-08 |  |
+| [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-04-08 | 2023-09-09 |
 | [Digan Lo Que Digan](https://open.spotify.com/track/4bULkLH35pHeVl0NzlVzid) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Digan Lo Que Digan](https://open.spotify.com/album/2zmRkOB16XBx0QNXvlr469) | 2:41 | 2022-04-08 | 2023-03-03 |
-| [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 | 2022-04-08 |  |
+| [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 | 2022-04-08 | 2023-09-09 |
 | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/track/6hMwYF9yok533cqZB631MN) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [DIME COMO ES QUE NO GOZAS](https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv) | 2:49 | 2023-08-11 |  |
 | [Discojapi](https://open.spotify.com/track/6mevK2IlIU5rmvkfqxCFWT) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Rindanse Terricolas](https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS) | 4:08 | 2022-04-08 | 2022-12-17 |
 | [Dispárame](https://open.spotify.com/track/1HoAtTDd5RLmg7Cxrpqado) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ) | [Era Luz](https://open.spotify.com/album/0d8R4U0j0ZemcWxkHL0Yb5) | 3:46 | 2022-04-08 | 2022-12-17 |
@@ -93,6 +94,7 @@
 | [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 | 2023-06-09 |  |
 | [Fantasma](https://open.spotify.com/track/3yIxTNMdFmzBHFszi9Muju) | [Franklin](https://open.spotify.com/artist/4z4fHgRk195uGlbBfYJMRc) | [Fantasma](https://open.spotify.com/album/0UmnKHtvruemxAzyiGpiuj) | 4:47 | 2022-04-08 | 2023-03-03 |
 | [Fantasías Animadas de Ayer y Hoy](https://open.spotify.com/track/5XCMOdOQye1SbZhFbjDA33) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 2:11 | 2022-04-08 | 2022-12-17 |
+| [Fiesta En El Barrio](https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ), [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [PORTAL](https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H) | 4:53 | 2023-09-08 |  |
 | [Flores de cartón \- Radio Edit](https://open.spotify.com/track/5SpqY1Aqv6hFt7QbiiHqm2) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Flores de cartón \(Radio Edit\)](https://open.spotify.com/album/5VIQuT9iAnVQQs5CYOBzJq) | 3:27 | 2022-04-08 | 2022-07-29 |
 | [Fuego y Mar](https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe) | [Jawar](https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS), [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Fuego y Mar](https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ) | 3:44 | 2022-04-08 | 2023-06-11 |
 | [Fuegos de Artificio 2.0](https://open.spotify.com/track/5CX7s2RUcpCwZg9XWTR5qM) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3) | [Fuegos de Artificio 2.0](https://open.spotify.com/album/4apeFsL6k0TlfFVJi90zQz) | 2:44 | 2022-04-08 | 2022-07-19 |
@@ -128,6 +130,7 @@
 | [La Torre de Babel](https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Fome](https://open.spotify.com/album/0BP7icmUBO6wGRTtEGVDmY) | 3:30 | 2022-04-08 | 2022-12-17 |
 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 | 2022-04-08 | 2022-07-29 |
 | [Las Balas](https://open.spotify.com/track/3XTUDJ6KL5UMBLyKVDoL0Q) | [AncestroSiniestro](https://open.spotify.com/artist/1WG7GKQajwekEpWivRO5Fk) | [Las Balas](https://open.spotify.com/album/6RQrXELYuwBV5kLVqzoez8) | 3:49 | 2022-04-08 | 2023-03-03 |
+| [Let Me Fly](https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:42 | 2023-09-08 |  |
 | [León](https://open.spotify.com/track/0zwGBLvZJejp7C1wZbI1je) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF) | [León](https://open.spotify.com/album/0g5yUK56Za7kEZBQ9HcEYs) | 3:01 | 2022-04-08 | 2023-03-03 |
 | [Libido](https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm) | [María Tyrana](https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu) | [Libido](https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr) | 2:55 | 2022-04-08 | 2023-03-03 |
 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/2bQn1ATsEIWwswbsPpOrp9) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida de Perros](https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4) | 3:56 | 2022-04-08 | 2022-11-30 |
@@ -255,7 +258,7 @@
 | [Volver](https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof) | 5:15 | 2023-03-17 | 2023-08-19 |
 | [Volveremos](https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Volveremos](https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7) | 2:34 | 2022-04-08 | 2023-03-03 |
 | [Voy Saliendo](https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Voy Saliendo](https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa) | 3:16 | 2022-04-08 | 2023-03-03 |
-| [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 | 2022-04-08 |  |
+| [Vueltas y Vueltas](https://open.spotify.com/track/7v6l4Wa1SE7L26HQSj06ty) | [Noiz](https://open.spotify.com/artist/5NpCexmiedqpm9vOpdf5jW) | [Vueltas y Vueltas](https://open.spotify.com/album/6j9IY5ciee6ujWB671w2vl) | 3:15 | 2022-04-08 | 2023-09-09 |
 | [Y Es Verdad](https://open.spotify.com/track/61l0LK7CU4fzifB7nUPKoI) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Y Es Verdad](https://open.spotify.com/album/1StejThSepSyQ6158JaC4Z) | 3:40 | 2022-04-08 | 2023-01-28 |
 | [Y Si No Quiero?](https://open.spotify.com/track/0WE2xvSSJo89qqtIHm4V7L) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Y Si No Quiero?](https://open.spotify.com/album/1UjEZihN2GjSDvzO57Ub1h) | 3:26 | 2022-04-08 | 2023-02-17 |
 | [Ya No Estamos para Mentiras](https://open.spotify.com/track/28obcE8LjmeZ0Z1De2rK02) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Ya No Estamos para Mentiras](https://open.spotify.com/album/6iSH7Ha0Clp1v8cDefpNbn) | 3:16 | 2022-04-08 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,313 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,361 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 3 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 |
 | 4 | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x) | 2:53 |
 | 5 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 |
-| 6 | [Reckless](https://open.spotify.com/track/6DQcmJrSZCH9nCtLtilcXP) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Reckless](https://open.spotify.com/album/4Qs52IAZsGBXM854MEkfXE) | 5:06 |
+| 6 | [Reckless](https://open.spotify.com/track/6DQcmJrSZCH9nCtLtilcXP) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Reckless](https://open.spotify.com/album/4Qs52IAZsGBXM854MEkfXE) | 5:06 |
 | 7 | [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 |
 | 8 | [DISCO COWBOY](https://open.spotify.com/track/4ShbZVBX250TtUHH4PN88P) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [DISCO COWBOY](https://open.spotify.com/album/45P82N0aw6NUaDH8OyCPUm) | 2:39 |
 | 9 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 |
-| 10 | [Never Last](https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Never Last](https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx) | 2:46 |
+| 10 | [Never Last](https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Never Last](https://open.spotify.com/album/4EX4DGxYcU5nlDUPvlitUx) | 2:46 |
 | 11 | [WORK](https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [WORK](https://open.spotify.com/album/7rFFhUon9lIWtvSSH5XYHy) | 2:44 |
 | 12 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 |
 | 13 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 |
 | 50 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 
-Snapshot ID: `MCxhMzNiMmFlZjQxZmZkMWNjZTczZjMyMWVjODY0YTljOTBiYjBiNTRm`
+Snapshot ID: `MCw0NzQwNzdjMDc0OTFhMGRmNDNiMzliYmZmNjY4MDliZGEwODNjZDMz`

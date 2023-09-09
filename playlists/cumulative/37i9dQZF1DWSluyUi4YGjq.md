@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-431 songs - 1 day 4 hr 26 min
+436 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Outdoors](https://open.spotify.com/track/5Rp7jLS83L4jtJkfb7jKO4) | [Surf Friends](https://open.spotify.com/artist/2PCdqzx2232QAlYYZ04V9p) | [Doing Your Thing](https://open.spotify.com/album/26i8JdQlQhCmiquVVMIqx7) | 5:30 | 2021-10-19 | 2022-06-14 |
 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 | 2022-12-15 | 2023-07-01 |
 | [Ouverture](https://open.spotify.com/track/2ONwyCrocSyMLAQsfzFtoa) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [Just Fade Away](https://open.spotify.com/album/63bqZkUPl7zD8FFyFE7lzh) | 2:47 | 2023-06-02 |  |
+| [Over](https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Over](https://open.spotify.com/album/3Z7kvXoVeOtj9KcR0JzLKe) | 3:01 | 2023-09-08 |  |
 | [Overkill](https://open.spotify.com/track/0lfTM5zpxZmwWiCt9f8FJq) | [bosses](https://open.spotify.com/artist/5RXw4AOgoIM7BVTH3axA3Z) | [Overkill](https://open.spotify.com/album/0fwN6Jbr64cWigx8H1naNc) | 4:45 | 2023-05-25 |  |
 | [Panic Song](https://open.spotify.com/track/41enh722WYrH5i2rJTXCxP) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Panic Song](https://open.spotify.com/album/6gnfEqQYoJqG0FqWYIHANY) | 3:01 | 2022-04-05 | 2022-08-04 |
 | [Panic Song](https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 3:01 | 2022-04-05 | 2023-01-02 |
@@ -348,6 +349,7 @@
 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-21 |  |
 | [skipping tiles](https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pushing daisies](https://open.spotify.com/album/07naAGnFibTManFY20vcUL) | 2:16 | 2023-01-12 |  |
 | [Slide Back](https://open.spotify.com/track/4C2nwt9F6B0T1HMBzOjrhV) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Slide Back](https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV) | 3:06 | 2023-09-01 |  |
+| [Soft Fall](https://open.spotify.com/track/6ThKjKr31pQA2odkt8J2Ev) | [My Transparent Eye](https://open.spotify.com/artist/6D9BQI3d6y8lOkC6EB7lkU), [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Soft Fall](https://open.spotify.com/album/2tP4Avv1sieu303wzLGPNN) | 3:04 | 2023-09-08 |  |
 | [Soltar](https://open.spotify.com/track/6JJyABXU4ABVFjTUEpT8xZ) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Soltar](https://open.spotify.com/album/70B6sLcsi9H7ozR3FuuPuh) | 3:54 | 2022-02-04 | 2022-07-28 |
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2023-02-09 | 2023-07-29 |
 | [Sometimes](https://open.spotify.com/track/1bd7Jt9jIg3mKe2AT08RJI) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes](https://open.spotify.com/album/1blwMKDfziJJU9R14pQ5iD) | 3:04 | 2023-08-04 | 2023-08-19 |
@@ -380,6 +382,7 @@
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 | 2023-06-17 |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 | 2023-06-08 |
 | [The Luck You Had](https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [The Luck You Had](https://open.spotify.com/album/5ys6y6yA21dn4kIZ5ud0T2) | 4:24 | 2023-06-23 |  |
+| [The One You Need](https://open.spotify.com/track/5WFLb3UkZ0ojXkj4B4RjzF) | [Pizza Daddy](https://open.spotify.com/artist/31inVyE27qKCD4w0Kt32q4) | [The One You Need](https://open.spotify.com/album/6WLlEcM5oGTFOtuw7hHgUF) | 4:21 | 2023-09-08 |  |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-22 | 2023-01-20 |
 | [The Run I\. & II\. \- Extended single edit](https://open.spotify.com/track/2jmt8JiT7IPRzdWf4Diz6N) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn), [Alcest](https://open.spotify.com/artist/7FqjTmfXMXDYDAvRX5KYZd), [JK Flesh](https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3) | [The Run I\. & II.](https://open.spotify.com/album/3NybIjX2h7PO0kc6cjiqm6) | 6:47 | 2022-12-15 | 2023-01-13 |
 | [The Skin And The Glove](https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Skin And The Glove](https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ) | 6:02 | 2023-07-17 | 2023-08-28 |
@@ -401,6 +404,7 @@
 | [Two Girls](https://open.spotify.com/track/4MlTLBpeNYRTkjx35eQfMe) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/5K5UsJA8QsC33ozOZkVf8s) | 2:58 | 2021-10-19 | 2022-07-29 |
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2021-10-19 | 2023-06-08 |
 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 | 2021-10-19 | 2022-07-29 |
+| [Unresponsive](https://open.spotify.com/track/074XXIChzoiocYGqS221a4) | [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz) | [Unresponsive](https://open.spotify.com/album/4pwc73Mkfv0btdy3MOGeFU) | 2:22 | 2023-09-08 |  |
 | [Upperz](https://open.spotify.com/track/0UOgMU9A0koecYi1lkpN7j) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Upperz](https://open.spotify.com/album/20vb5dF2cRaE3lcSUUgn8X) | 1:53 | 2023-06-16 | 2023-06-21 |
 | [Vacation](https://open.spotify.com/track/5F1gAs2j6FLTITQ1FJni0O) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Computerwife](https://open.spotify.com/album/5xGfEYzVfcPYPrTE6FqfyP) | 3:32 | 2023-08-04 |  |
 | [Vacation](https://open.spotify.com/track/5VieQH9z7lj6UIGfTkkmiM) | [Computerwife](https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ) | [Vacation](https://open.spotify.com/album/4nteDNfkJVsJuWQhOnnHFN) | 3:32 | 2023-08-04 | 2023-08-20 |
@@ -411,6 +415,7 @@
 | [Violet Blue](https://open.spotify.com/track/6rnrsEZeAMsSl7biIauLSt) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Violet Blue](https://open.spotify.com/album/6IPvQyKAQR7Ijmhwkd8oN4) | 4:24 | 2021-10-19 | 2022-07-29 |
 | [Virgo](https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Lucky Me, Lucky Mud](https://open.spotify.com/album/3kYFCZhHZEhPGdMYj12blw) | 3:28 | 2023-03-10 | 2023-07-20 |
 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 | 2022-08-31 | 2022-09-29 |
+| [Waiting Around](https://open.spotify.com/track/4nyqv670J2KLyF6dw68Vo0) | [Lilts](https://open.spotify.com/artist/1FIiuU3QEVE9BolZFEL5FG) | [Waiting Around](https://open.spotify.com/album/3FhDSxuLJNOJKe6YZZgIUA) | 2:39 | 2023-09-08 |  |
 | [Wanting War](https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 3:36 | 2021-10-19 | 2022-12-16 |
 | [Waste My Mind](https://open.spotify.com/track/6NP8HBlNKQzsq8K9O5dK0f) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Waste My Mind](https://open.spotify.com/album/6HO2c5VcuxYJ8Akh9N0HUT) | 2:42 | 2023-06-16 | 2023-06-21 |
 | [Watchers](https://open.spotify.com/track/7qnvCyjTg93bXo2pD2yrkx) | [Small Black](https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds) | [Small Black](https://open.spotify.com/album/6KIjE0i0JM6fiM46YBUV8s) | 4:06 | 2023-04-14 |  |

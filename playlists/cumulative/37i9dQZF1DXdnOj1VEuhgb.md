@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Borqy
+> Türkiye'nin en sıkı çalma listesi\. Kapak: cakal
 
-186 songs - 8 hr 1 min
+188 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [AĞZI BOZUK](https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [AĞZI BOZUK](https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN) | 2:06 | 2023-07-27 |  |
 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 | 2023-06-08 |  |
 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 | 2023-06-15 |  |
-| [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 | 2023-08-24 |  |
+| [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 | 2023-08-24 | 2023-09-09 |
 | [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-10 | 2023-09-01 |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-13 | 2023-08-18 |
 | [BALENCIAGA](https://open.spotify.com/track/2HQpdd5cVGGfyX1khL5BQP) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [BALENCIAGA](https://open.spotify.com/album/2rRbt9F9234nmA7LBWkwkt) | 2:08 | 2023-06-29 | 2023-07-21 |
@@ -94,6 +94,7 @@
 | [İSTEMEM](https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [İSTEMEM](https://open.spotify.com/album/3CUU4TFr7UowburX1Au22f) | 3:18 | 2023-01-10 | 2023-03-31 |
 | [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 | 2023-07-08 |  |
 | [Jurassic Park](https://open.spotify.com/track/3xWQkZCyuRyo8s1QGUon0b) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Jurassic Park](https://open.spotify.com/album/49wygB8XrpyS7fG8XdGkZ6) | 3:21 | 2023-01-10 | 2023-03-03 |
+| [KAFAMA GÖRE](https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [KAFAMA GÖRE](https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD) | 2:45 | 2023-09-07 |  |
 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 | 2023-01-10 | 2023-06-24 |
 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 | 2023-01-10 |  |
 | [Kalite](https://open.spotify.com/track/6MHB3t0exyn1Ru5Xc3MSWJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/1fRw3jb22U6mI286bNCQ9X) | 2:08 | 2023-01-10 | 2023-01-27 |
@@ -137,6 +138,7 @@
 | [ORMAN](https://open.spotify.com/track/5l98UTqZFOoNaKWzgOtNkr) | [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [ORMAN](https://open.spotify.com/album/0IfwuvQaScScjTfbcEOQ7C) | 2:16 | 2023-06-29 | 2023-07-14 |
 | [OU LA LA](https://open.spotify.com/track/24FZ92GqBPpb0mGjxFGFm3) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [OU LA LA](https://open.spotify.com/album/442jC8YPEqRlSceqb9hQiD) | 2:14 | 2023-03-30 | 2023-04-14 |
 | [Oynar](https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Oynar](https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm) | 2:47 | 2023-06-15 | 2023-07-28 |
+| [PA$$$A VIBES V](https://open.spotify.com/track/5zjHGCU8Zq6X8bx7gmqYC1) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI) | [PA$$$A VIBES V](https://open.spotify.com/album/36h6r9fxJXD9keKaDZi0rw) | 1:41 | 2023-09-07 |  |
 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2023-01-10 | 2023-05-05 |
 | [Paspartu](https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Paspartu](https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc) | 4:34 | 2023-03-16 | 2023-08-11 |
 | [Patron](https://open.spotify.com/track/7HBvkEYHY8rhn4puR1TcjV) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 1:50 | 2023-01-10 | 2023-01-13 |
@@ -151,7 +153,7 @@
 | [Rol](https://open.spotify.com/track/5ouX13VSFgp5XGawCTprLW) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [23](https://open.spotify.com/album/13NE1E45YnswgHArQL1SrN) | 2:12 | 2023-04-27 | 2023-05-16 |
 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-08 |  |
 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 | 2023-03-23 | 2023-04-28 |
-| [SANA NE](https://open.spotify.com/track/44wJznydk7liXuhYExo19u) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [SANA NE](https://open.spotify.com/album/5Pj9XsRe6EC94uVdz9IAPc) | 2:42 | 2023-08-24 |  |
+| [SANA NE](https://open.spotify.com/track/44wJznydk7liXuhYExo19u) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [SANA NE](https://open.spotify.com/album/5Pj9XsRe6EC94uVdz9IAPc) | 2:42 | 2023-08-24 | 2023-09-09 |
 | [Sanrı](https://open.spotify.com/track/76eX8w7u3if9mc7DkTWa6g) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sanrı](https://open.spotify.com/album/2aw9aPehxFaGsSOF7gvokf) | 2:23 | 2023-04-13 | 2023-04-28 |
 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 | 2023-08-17 |  |
 | [Sen Oyna](https://open.spotify.com/track/7dKd6AWwnaduoFOM7WyB0E) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90), [Tuğberk Işık](https://open.spotify.com/artist/6eFwPe1OeeV4gE2VZ6607p) | [Bi Taksi Çağırın](https://open.spotify.com/album/5tJWGF02xJbtZb0iJ5rzKn) | 2:56 | 2023-07-27 | 2023-08-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Grupo Marca Registrada",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: El Frizian",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Corridos Mafiosos",
+        "url": "https://open.spotify.com/album/0qhfRkzOTz62P3n1PLUZ39"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        },
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207173,
+      "name": "B\u00e9lica R6",
+      "url": "https://open.spotify.com/track/4TDLG9dtkbSMm4086IxAbv"
+    },
+    {
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/7v1XFpws6JNWe5fwOC8vPZ"
       },
@@ -674,6 +696,24 @@
       "duration_ms": 167381,
       "name": "Corleone",
       "url": "https://open.spotify.com/track/7m4eDXrp2QXWFc9kxb6Xdo"
+    },
+    {
+      "album": {
+        "name": "Paso Fino",
+        "url": "https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192048,
+      "name": "Cuando Hacemos El Amor",
+      "url": "https://open.spotify.com/track/0Avb2Bw8X21301JitpEhaq"
     },
     {
       "album": {
@@ -884,6 +924,42 @@
       "duration_ms": 215572,
       "name": "Disfrutando Lo Mejor",
       "url": "https://open.spotify.com/track/1mLIKXenzgkz5z0xpzVLxJ"
+    },
+    {
+      "album": {
+        "name": "Obsessed Pt. 2",
+        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197365,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
+    },
+    {
+      "album": {
+        "name": "Obsessed Pt. 2",
+        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141538,
+      "name": "Dubai",
+      "url": "https://open.spotify.com/track/3PjBpkbEefSVJjD7zMiiLZ"
     },
     {
       "album": {
@@ -1451,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Paso Fino",
+        "url": "https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198624,
+      "name": "Estoy A Punto",
+      "url": "https://open.spotify.com/track/2GOUo9145jxWT8hhe7yVuL"
+    },
+    {
+      "album": {
         "name": "Fruta Prohibida (En Vivo)",
         "url": "https://open.spotify.com/album/6YdurIed4b8G10sqyiRi5Y"
       },
@@ -1586,6 +1680,24 @@
       "duration_ms": 178546,
       "name": "Hay Cicatrices - En Vivo",
       "url": "https://open.spotify.com/track/1qjG8dpE7RrJo2vFlMg5dL"
+    },
+    {
+      "album": {
+        "name": "Corridos Mafiosos",
+        "url": "https://open.spotify.com/album/0qhfRkzOTz62P3n1PLUZ39"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157866,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/2QlXMea5DOWrt84shdi1s4"
     },
     {
       "album": {
@@ -2469,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Corridos Mafiosos",
+        "url": "https://open.spotify.com/album/0qhfRkzOTz62P3n1PLUZ39"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153320,
+      "name": "Nac\u00ed Solo",
+      "url": "https://open.spotify.com/track/0MR7lmNAdZ1fiyoHn1An1C"
+    },
+    {
+      "album": {
         "name": "Bienvenidos A Casa (En Vivo)",
         "url": "https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr"
       },
@@ -2977,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Paso Fino",
+        "url": "https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212088,
+      "name": "Que Bonito!",
+      "url": "https://open.spotify.com/track/19iICG6VLZIk42wFfmAIO8"
+    },
+    {
+      "album": {
         "name": "Desde La Capital Del Corrido, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q"
       },
@@ -3126,6 +3274,24 @@
       "duration_ms": 239500,
       "name": "R1",
       "url": "https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW"
+    },
+    {
+      "album": {
+        "name": "Obsessed Pt. 2",
+        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157775,
+      "name": "Rositas",
+      "url": "https://open.spotify.com/track/3M6Hgrfs2NQaIMs050UaZF"
     },
     {
       "album": {

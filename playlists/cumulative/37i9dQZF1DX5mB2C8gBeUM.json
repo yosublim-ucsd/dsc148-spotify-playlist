@@ -4837,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Muddy Water Rockstar",
+        "url": "https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Muddy Water Rockstar",
+      "url": "https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k"
+    },
+    {
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR"
       },

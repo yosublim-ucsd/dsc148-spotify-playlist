@@ -4,7 +4,7 @@
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-131 songs - 5 hr 43 min
+138 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,9 @@
 | [Above Ground 32808 ft](https://open.spotify.com/track/6306yRSui0vW7aDiMXXu7Q) | [Crackling ASMR](https://open.spotify.com/artist/2I5u2mH0DBw7gO1nCAQ6Pe) | [Flying Non\-Stop](https://open.spotify.com/album/19aRQNrTb3WHH7THMR9dSh) | 2:59 | 2023-06-29 |  |
 | [Above The Clouds](https://open.spotify.com/track/4Iw1akg0jFjkE52LSGR5dr) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Above The Clouds](https://open.spotify.com/album/2T6N06lvJ5dHdoQgdLyapI) | 1:58 | 2023-05-26 | 2023-06-17 |
 | [Addormentarsi](https://open.spotify.com/track/5CJwgyuXlhfXiZzJI53BUw) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Rumori Di Notte](https://open.spotify.com/album/1S9SdBPsQCziWWoXSO8azE) | 2:30 | 2023-05-26 |  |
+| [Aerial Dreamscape \- White Noise](https://open.spotify.com/track/4qrdMEB8P5Ikkyw0iEK5wd) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Aerial Dreamscape White Noise](https://open.spotify.com/album/5UULsyEl7BwKHKjdPO5COa) | 2:50 | 2023-09-08 |  |
 | [Aeroplane Deep White Noise](https://open.spotify.com/track/08wEhIRItJ46wJU0lsELya) | [Hybrid Treasure](https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J) | [Aeroplane Deep White Noise](https://open.spotify.com/album/4suN8JpqLQuK476GSOyRDW) | 3:00 | 2023-05-26 |  |
+| [Airplane Brown Noise](https://open.spotify.com/track/4uCkmEUbPytlQH08l22wEL) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Brown Noise Nap Time](https://open.spotify.com/album/22OZbDOiL4G3I4UYNGeT4F) | 3:42 | 2023-09-08 |  |
 | [Airplane Relax \(Noise\)](https://open.spotify.com/track/5yh88R4EWfiCR5u4k4hXyh) | [Prompt Unlax](https://open.spotify.com/artist/50GmiI9vOP54gPjuaHe82U) | [Airplane Mode](https://open.spotify.com/album/4wbmOUDGhTXz0WxiqoAgaH) | 2:48 | 2023-06-29 |  |
 | [Airplane Sleep Pt.1](https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 | 2023-05-26 |  |
 | [Airplane Sleep Pt.2](https://open.spotify.com/track/1ndKFw4DNNeLUnoHlwaVWo) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 | 2023-05-26 |  |
@@ -32,10 +34,12 @@
 | [Cabin Noise Focus](https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs) | [XL Noise Factory](https://open.spotify.com/artist/4E9wpcO4hg9Pkd61RzWYkv) | [XL Pink Noise](https://open.spotify.com/album/7vKkd6YadyH1rwfZWzm2e7) | 2:09 | 2023-05-26 |  |
 | [Cabin Noise Melody](https://open.spotify.com/track/4TVbi0QfkzKCvLeIIPfKqb) | [Minorie HD](https://open.spotify.com/artist/4s3zLaJUhGoYhcFHwlnIgw) | [Cabin Noise Melody](https://open.spotify.com/album/11uCdzSWLtGVOjm0Vk4AZh) | 2:01 | 2023-05-26 |  |
 | [Cabination Noise](https://open.spotify.com/track/0BHUIuLE8ZqojV6LqswBgS) | [Noise Project](https://open.spotify.com/artist/7K3z2X4heN5Ce5SGX71Tk0) | [Cabination Noise](https://open.spotify.com/album/2jc10ym0IheRE96y87ndm7) | 2:02 | 2023-05-26 |  |
+| [Calm Cabin Brown Noise](https://open.spotify.com/track/2XEQccrJMjT9fiEs961oQI) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Calm Cabin Brown Noise](https://open.spotify.com/album/06ZKtT1IeqO59cGiztagQd) | 4:00 | 2023-09-08 |  |
 | [Cloud Nine](https://open.spotify.com/track/73SaqaNVj3xY5VMUgKHXmQ) | [Ventilate](https://open.spotify.com/artist/7vcZrTl9VTexsr8GcJF3wA) | [Cabin Noise For Resting](https://open.spotify.com/album/6l4VdG6fFQiOFybBGREuVY) | 2:58 | 2023-06-29 |  |
 | [Clouds And Skies Of Noise](https://open.spotify.com/track/0UTGHh9VnitJlnetXr7nhF) | [Digilake](https://open.spotify.com/artist/0036ceq10ETP3tGK3AHNcr) | [Smooth White Noise](https://open.spotify.com/album/2u2aAsVpfA82HMXXyw8nfY) | 2:05 | 2023-05-26 |  |
 | [Coloring Noise](https://open.spotify.com/track/0orPiXXARcGIvIiW7t7OWc) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Sleep Cabin Noise](https://open.spotify.com/album/0kSj3zyXSBqTMvNdpSzTbp) | 1:40 | 2023-05-26 | 2023-06-17 |
 | [Cruising Altitude Noise](https://open.spotify.com/track/646T7jzCs6vIKhtVuklRVO) | [White Noise Doctor](https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag) | [Taxiing Away](https://open.spotify.com/album/2GwLE8pmgXH0gqs0Z1W6MX) | 2:41 | 2023-06-29 |  |
+| [Cruising Altitude Pink Noise](https://open.spotify.com/track/0KB87m56PFfrmQuDFuApKo) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Cruising Altitude Pink Noise](https://open.spotify.com/album/7uSkbptBSaCKHU4pujLghE) | 2:56 | 2023-09-08 |  |
 | [Deep & Dark \- Seamless](https://open.spotify.com/track/2iZAAO5JEjMvClQ2W7VmSM) | [Mentatranque](https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7) | [White Dreams](https://open.spotify.com/album/6VUONBGFiGg8rrHmbLVzmb) | 2:52 | 2023-06-29 |  |
 | [Deep Space Endless Noise](https://open.spotify.com/track/50JQD1ToN9gqC2uZyUAGrO) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol I](https://open.spotify.com/album/6R0QWZi79djGcOPj6iyFKG) | 3:29 | 2023-05-26 |  |
 | [Deep Space Voyage](https://open.spotify.com/track/6PvAlp8pKy23Bff6tUjhl0) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 | 2023-05-26 |  |
@@ -82,8 +86,10 @@
 | [Noise Retreat](https://open.spotify.com/track/1semCv93hKMaT2QWfmIfn2) | [Alpha Noise](https://open.spotify.com/artist/3D11xwI7KbEPyQxdYCoyI6) | [Noise Retreat](https://open.spotify.com/album/1qctlFwyhq1EhpukkZCrkR) | 2:15 | 2023-06-16 | 2023-06-30 |
 | [Noises of Tranquility](https://open.spotify.com/track/7E0R5QTRAo3yzvz7leQJSH) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Noises of Tranquility](https://open.spotify.com/album/2vKGMmHbJWCMC7JAuV9jyS) | 2:21 | 2023-06-16 |  |
 | [Oasis of Noise](https://open.spotify.com/track/1bATVhkkqvBULMLyRm40Cs) | [Winds From Desert](https://open.spotify.com/artist/6s9vWEldPm6IapU00pJZxe) | [Oasis of Noise](https://open.spotify.com/album/6P8yn44PpL5b6KiQ6LIZRn) | 1:30 | 2023-05-26 | 2023-06-17 |
+| [Oasis Retreat \- Pink Noise](https://open.spotify.com/track/5HP00aqrhpoX5Su88KAm8p) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Oasis Retreat Pink Noise](https://open.spotify.com/album/0R6wHy5D98CrVff4vNTIM3) | 4:04 | 2023-09-08 |  |
 | [Office Canceling Noise](https://open.spotify.com/track/2oFm8HbzGMCRnOozyIonRB) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Momentary Repose](https://open.spotify.com/album/1giBQuyDOKrKsgt3WcYzNo) | 2:23 | 2023-05-26 |  |
 | [On Clouds](https://open.spotify.com/track/2UneuqCy8nRzNyAl8xuIDY) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [White Magic](https://open.spotify.com/album/5ge7IkYrqpNu6A68ECyNcK) | 3:08 | 2023-05-26 |  |
+| [Open Window Brown Noise](https://open.spotify.com/track/1b8Bd43WaDKxc01QPlXlNG) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Calm Cabin Brown Noise](https://open.spotify.com/album/06ZKtT1IeqO59cGiztagQd) | 4:00 | 2023-09-08 |  |
 | [Over The Clouds White Noise](https://open.spotify.com/track/5Wdp9jmSOnwnqNaus5hnTT) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Over The Clouds White Noise](https://open.spotify.com/album/3qZo7vN14fjqMYtBH8HAuK) | 3:01 | 2023-05-26 |  |
 | [Perfect Oxygen](https://open.spotify.com/track/1p7UBh3Aaq2EUKcWxUJlGn) | [Crackling ASMR](https://open.spotify.com/artist/2I5u2mH0DBw7gO1nCAQ6Pe) | [Flying Non\-Stop](https://open.spotify.com/album/19aRQNrTb3WHH7THMR9dSh) | 3:04 | 2023-06-29 |  |
 | [Pink Cloud Nine](https://open.spotify.com/track/7o4bNY3FD413QkOw1kc3zj) | [Pink Noise Orchestra](https://open.spotify.com/artist/5ArL02BGaSy7C4lrXl9U0s) | [Pink Noise Lullaby](https://open.spotify.com/album/4x6m8vrXN3PI9JBzSxTNu7) | 2:06 | 2023-06-16 |  |
@@ -99,6 +105,7 @@
 | [Reverie White Noise](https://open.spotify.com/track/2m3nqd70klWytX8tQmKTzR) | [Skyline FX](https://open.spotify.com/artist/0Bk22etDRvzrog9780hCXb) | [Beautiful White Noise](https://open.spotify.com/album/4DmO0KwXz2l4iAdUwUJZaM) | 2:28 | 2023-05-26 |  |
 | [Ruido Blanco Por La Mañana](https://open.spotify.com/track/3fzhpLNMFSey1z987S7F15) | [Vizzionz](https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w) | [Ruido Blanco Por La Manana](https://open.spotify.com/album/0zCv1FyCb2wliOS71nydNd) | 2:20 | 2023-05-26 |  |
 | [Scandinavian Air](https://open.spotify.com/track/7c0H5pm4XvkhYyyxk4Ifm3) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [Scandinavian Air](https://open.spotify.com/album/1tIESKGMhbQcXshU8z8rYz) | 2:29 | 2023-05-26 |  |
+| [Sky Flight Pink Noise](https://open.spotify.com/track/59Nn0I9ccaYySnfkrDdAwq) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Cruising Altitude Pink Noise](https://open.spotify.com/album/7uSkbptBSaCKHU4pujLghE) | 4:21 | 2023-09-08 |  |
 | [Sky High Noise \- White Noise](https://open.spotify.com/track/7JvXSvWg3R0TeglnG1O1oX) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Aerial Dreamscape White Noise](https://open.spotify.com/album/5UULsyEl7BwKHKjdPO5COa) | 3:08 | 2023-08-11 |  |
 | [Sleep Cabin Noise](https://open.spotify.com/track/0I10SiGzRCQokFy9DUJAxf) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Sleep Cabin Noise](https://open.spotify.com/album/0kSj3zyXSBqTMvNdpSzTbp) | 2:18 | 2023-05-26 |  |
 | [Sleep Machine](https://open.spotify.com/track/76XzFvQ33HSifgaRBGipU3) | [Buka](https://open.spotify.com/artist/3rUoChxYEhIRmwJvDSg24A) | [Noise Generator](https://open.spotify.com/album/1fckNlClKXniSGA5DTfWdB) | 2:40 | 2023-06-29 |  |

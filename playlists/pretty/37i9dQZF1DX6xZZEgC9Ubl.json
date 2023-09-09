@@ -1,13 +1,49 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Chri$tian Gate$",
-  "num_followers": 1512699,
+  "num_followers": 1513075,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzBlNTVlYzhiNTg4ZjY1OGFjNzY2NTg0NjQwNzBmNWU2MDAwZTFi",
+  "snapshot_id": "MCwwNTYzMWQ4MjVjOTVmYjBkNGZhNTY2MGFmY2MwYmRhZjQxNzc5NDU2",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "DIAMONDS",
+        "url": "https://open.spotify.com/album/3kzwY2NyciGzUmvPOHciap"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        }
+      ],
+      "duration_ms": 269786,
+      "name": "Prove My Love",
+      "url": "https://open.spotify.com/track/7xsZCOPVVcZTVQ36PvCpN5"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "You Don't Even",
+        "url": "https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "You Don't Even",
+      "url": "https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3"
+    },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
@@ -43,26 +79,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/38VElclB7ox9roQRFq7yq6"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        },
-        {
-          "name": "ILOVEMAKONNEN",
-          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "November",
-      "url": "https://open.spotify.com/track/6KLz3dlWkK58oinCPrQUl1"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "TROUBLED MEMORIES!",
         "url": "https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q"
       },
@@ -75,6 +91,22 @@
       "duration_ms": 137806,
       "name": "MEMORIES!",
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "FALLING DOWN",
+        "url": "https://open.spotify.com/album/5FnohciwH81y7LwEZFT1Jx"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "FALLING DOWN",
+      "url": "https://open.spotify.com/track/2B5TeT7cCgvKOrpORd6f4k"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -239,6 +271,46 @@
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "no balls",
+        "url": "https://open.spotify.com/album/51OFL9msaRtzUMJX9fprp3"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Skinny Atlas",
+          "url": "https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "no balls",
+      "url": "https://open.spotify.com/track/78DZVe1ynTxQx8sk1DMWGE"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/38VElclB7ox9roQRFq7yq6"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "November",
+      "url": "https://open.spotify.com/track/6KLz3dlWkK58oinCPrQUl1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2487,74 +2559,6 @@
       "duration_ms": 125753,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "don't change the channel",
-        "url": "https://open.spotify.com/album/0UO2ggBcfUbwZwjWR7JTWO"
-      },
-      "artists": [
-        {
-          "name": "yung van",
-          "url": "https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b"
-        },
-        {
-          "name": "guardin",
-          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
-        }
-      ],
-      "duration_ms": 181727,
-      "name": "I can't save myself",
-      "url": "https://open.spotify.com/track/44o1dpWuXgNN56hKOJLnUX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/2Vnlr8eneohCPtFtWdYxDz"
-      },
-      "artists": [
-        {
-          "name": "Zai1k",
-          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
-        }
-      ],
-      "duration_ms": 141825,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4xdt5NCPEgprn33MOLXhOx"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/0Y00jCq3YmCqjmZKmIXjYB"
-      },
-      "artists": [
-        {
-          "name": "Memoria XI",
-          "url": "https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN"
-        }
-      ],
-      "duration_ms": 163948,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/6FUwkDkUbkrZQdS1s4uNnM"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "WHY NOT",
-        "url": "https://open.spotify.com/album/1RoIk52mQZdGkPd0AFw3Kz"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 180578,
-      "name": "Everything You Want",
-      "url": "https://open.spotify.com/track/6siRNZnRBTnuDIHBNCCeZ9"
     }
   ],
   "unique_name": "tear drop",

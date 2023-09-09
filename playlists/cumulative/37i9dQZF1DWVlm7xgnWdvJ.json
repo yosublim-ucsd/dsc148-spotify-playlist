@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Bielzinho / Bielzinho (Xinobi Remix)",
+        "url": "https://open.spotify.com/album/3wkqhIDME6aHAhaIcMm8ko"
+      },
+      "artists": [
+        {
+          "name": "O Terno",
+          "url": "https://open.spotify.com/artist/2TuVzZPwEPqpstqmA0qLl6"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327967,
+      "name": "Bielzinho / Bielzinho - Xinobi Extended Remix",
+      "url": "https://open.spotify.com/track/0ZKlR8Bmj0l0jntD9t44JQ"
+    },
+    {
+      "album": {
         "name": "Birds (feat. Emmanuel Jal)",
         "url": "https://open.spotify.com/album/6yYFiDyjQeQbAf52eArJh8"
       },
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 280327,
       "name": "Merchants - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/520mMFaIht3gpQTDKFWV9q"
@@ -2074,7 +2096,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 370839,
       "name": "The Plant Paradox",
       "url": "https://open.spotify.com/track/6ctMw60Nt3gHORqxfkRmWZ"

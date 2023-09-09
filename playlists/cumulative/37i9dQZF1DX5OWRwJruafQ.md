@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-194 songs - 9 hr 22 min
+195 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Kalakaar](https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Kalakaar](https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx) | 2:39 | 2023-05-24 | 2023-05-27 |
 | [Kheti](https://open.spotify.com/track/1hMyjH2oMJFxvSCCrPZZJu) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Kheti](https://open.spotify.com/album/3e3Q7c1GmicU3kxmU9WWg8) | 2:15 | 2023-06-09 | 2023-07-13 |
 | [La La La La](https://open.spotify.com/track/07NxMfatGTEK0P5gZPFKd2) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx) | [La La La La](https://open.spotify.com/album/4emZDlp8foAyMAScjiZmjQ) | 2:39 | 2023-07-20 | 2023-08-04 |
+| [Lifestyle](https://open.spotify.com/track/4hcvwZ4iw6H7To1IgTxaYq) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [First of a Kind \(From the Amazon Original Series\)](https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu) | 2:45 | 2023-09-08 |  |
 | [Loaded Freestyle](https://open.spotify.com/track/0dyHsSc5TAK2COrNxSiIUH) | [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN) | [Loaded Freestyle](https://open.spotify.com/album/3HLvVCZKSJ4ZRlgT1NV5q9) | 1:56 | 2023-06-09 | 2023-06-14 |
 | [Look At Me](https://open.spotify.com/track/3Om27K297aRPV9I5GRw9F7) | [Karn Sekhon](https://open.spotify.com/artist/3xOt6ZsKiyP9p8hmFNiYNz), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Look At Me](https://open.spotify.com/album/7ArPNvpEQHvUPb7tqBAd6s) | 2:25 | 2023-04-26 | 2023-05-06 |
 | [Lucifer](https://open.spotify.com/track/38RA9VH12NmpiVBamNJtSy) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Mr\. Rubal](https://open.spotify.com/artist/36UOJCmUrSwImCKV47F3Iy) | [Lucifer](https://open.spotify.com/album/6CYRc3WOonWttx4O1VJh1q) | 3:13 | 2023-08-28 |  |

@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/7jJgMxaUWkvoHaE4uwDrwg"
+      },
+      "artists": [
+        {
+          "name": "People Safari",
+          "url": "https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141947,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/59q8vvH0Eo4Wi1MhgUhtl0"
+    },
+    {
+      "album": {
         "name": "Higher Fun",
         "url": "https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl"
       },
@@ -2898,6 +2916,24 @@
       "duration_ms": 197047,
       "name": "Sumatra",
       "url": "https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3"
+    },
+    {
+      "album": {
+        "name": "Summer Like Before",
+        "url": "https://open.spotify.com/album/1B6DLJW9CVPPGXysmpVrA2"
+      },
+      "artists": [
+        {
+          "name": "Vee Jay",
+          "url": "https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158391,
+      "name": "Summer Like Before",
+      "url": "https://open.spotify.com/track/4QHsDrQJ4IPH5DG9Y9A61B"
     },
     {
       "album": {

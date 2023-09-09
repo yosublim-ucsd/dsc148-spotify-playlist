@@ -4,7 +4,7 @@
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-84 songs - 5 hr 1 min
+85 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Smoke](https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz) | [AJ McLean](https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl) | [Smoke](https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw) | 1:58 | 2022-11-30 |  |
 | [Snack Food](https://open.spotify.com/track/6az0kHKIfpXnVtDwt7tUwy) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Trance Thompson](https://open.spotify.com/artist/4BTloNqFLLzwrLSrmCEqfJ) | [Family Business](https://open.spotify.com/album/5sUx84YHw7x4rH5wUnXPv3) | 3:46 | 2022-11-30 |  |
 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 | 2022-11-30 |  |
-| [Sweet Tooth](https://open.spotify.com/track/2PSissBzTet0WdjuFXU6A5) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT), [Morris Alan](https://open.spotify.com/artist/0wV8rN7GYDVKh1zcAWa9ZI) | [Sweet Tooth](https://open.spotify.com/album/45CGUxginHlvey2BY8E2pE) | 4:10 | 2022-11-30 |  |
+| [Sweet Tooth](https://open.spotify.com/track/1uQxCy79USGfh1Ods7FtXR) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Sweet Tooth](https://open.spotify.com/album/3Xwe07iTn0BPBiyzLtVCqr) | 4:10 | 2022-11-30 |  |
+| [Sweet Tooth](https://open.spotify.com/track/2PSissBzTet0WdjuFXU6A5) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT), [Morris Alan](https://open.spotify.com/artist/0wV8rN7GYDVKh1zcAWa9ZI) | [Sweet Tooth](https://open.spotify.com/album/45CGUxginHlvey2BY8E2pE) | 4:10 | 2022-11-30 | 2023-09-09 |
 | [Talking Fast](https://open.spotify.com/track/2KguYnpztKqNOlSQ7017qQ) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Roboti Niro](https://open.spotify.com/artist/6F6xHCnBygWXQO5VSnSRAS) | [Nowadays](https://open.spotify.com/album/7M3R9UUicn3y1vHwQgqXsg) | 3:47 | 2022-11-30 |  |
 | [The Power of the One](https://open.spotify.com/track/3HUE2LkLoZNyxUPVGClp1k) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [The Williams Singers](https://open.spotify.com/artist/1KRYQkqH6DhWJ05AzMhGME) | [The Power of the One](https://open.spotify.com/album/0HiqFidTpNyPKiaW8B0lwg) | 4:58 | 2022-11-30 |  |
 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 | 2022-11-30 |  |

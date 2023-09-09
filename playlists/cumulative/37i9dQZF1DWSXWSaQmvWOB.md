@@ -2,9 +2,9 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of soul\-infused music! Cover: Joy Denalane
+> Your daily dose of soul\-infused music! Cover: Teddy Swims
 
-747 songs - 1 day 21 hr 58 min
+748 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,7 @@
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2021-04-17 | 2022-09-23 |
 | [Switch](https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:16 | 2020-10-30 | 2021-12-01 |
 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-28 | 2023-03-31 |
-| [Take Me Down To The River](https://open.spotify.com/track/6AtEB1oeOrQGuz8KeWzB8a) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Take Me Down To The River](https://open.spotify.com/album/705402Mi0vhq9gD2QVgbVp) | 2:43 | 2023-06-07 |  |
+| [Take Me Down To The River](https://open.spotify.com/track/6AtEB1oeOrQGuz8KeWzB8a) | [Flo Naegeli](https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa) | [Take Me Down To The River](https://open.spotify.com/album/705402Mi0vhq9gD2QVgbVp) | 2:43 | 2023-06-07 | 2023-09-09 |
 | [Take Me Higher](https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Take Me Higher](https://open.spotify.com/album/3rJ1uoo2TS4CqPE49XOzeT) | 4:04 | 2021-01-23 | 2022-04-29 |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-30 | 2023-06-20 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-06-07 |  |
@@ -671,8 +671,8 @@
 | [Too Perfect To Be Loved](https://open.spotify.com/track/5YuEVtQpx9bS4wBLeeBsQN) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Too Perfect To Be Loved](https://open.spotify.com/album/5ZyWcitUKa4Om03m6yP2Vu) | 3:44 | 2022-05-12 | 2022-07-01 |
 | [Traingazing](https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Traingazing](https://open.spotify.com/album/5r9C08yALmCzzArnWeoxHC) | 3:34 | 2020-03-25\* | 2021-04-23 |
 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 | 2022-08-25 | 2023-06-08 |
-| [Trippin](https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Trippin](https://open.spotify.com/album/1BM3o9El9FetciNldM3t94) | 3:20 | 2023-01-19 |  |
-| [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-07-14 |  |
+| [Trippin](https://open.spotify.com/track/3TqBbuo1anl1h6eesNiLYc) | [Edward Rogers](https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1) | [Trippin](https://open.spotify.com/album/1BM3o9El9FetciNldM3t94) | 3:20 | 2023-01-19 | 2023-09-09 |
+| [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-07-14 | 2023-09-09 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2021-07-02 | 2022-05-20 |
 | [Trouble](https://open.spotify.com/track/0KxTUGzVVI2HOrYO0hwK7y) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Bad Behaviour](https://open.spotify.com/album/6KKXC69rkVFOnVYEi9SnUB) | 3:17 | 2023-06-07 |  |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-10-29 | 2021-12-01 |
@@ -694,7 +694,8 @@
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/6sBErahr0v0QRvwboz1oSl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Vehicle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1kGXvzn5iUfVOUl1jNyNeh) | 2:55 | 2022-06-30 | 2022-07-15 |
 | [Venom of Angels](https://open.spotify.com/track/6CZT7NYQ6dAHDtGWRf9dJz) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Venom of Angels](https://open.spotify.com/album/3xlrnbjsSvw1gaNkdP4Qey) | 3:42 | 2020-03-25\* | 2020-07-03 |
 | [Vice City](https://open.spotify.com/track/0NqVf6pfPPXJVBn3sfOJEX) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [Goodbye To Yesterday](https://open.spotify.com/album/5tCUAjeaElhReOrCvqfgjv) | 4:48 | 2021-12-14 | 2022-02-04 |
-| [Wait For The Summer](https://open.spotify.com/track/6ZV4dfKmO4oJEi1uSkNFOD) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Wait For The Summer](https://open.spotify.com/album/6gIbXS0BOPX00WE5LLfQBs) | 3:00 | 2023-08-15 |  |
+| [Wait For The Summer](https://open.spotify.com/track/6ZV4dfKmO4oJEi1uSkNFOD) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Wait For The Summer](https://open.spotify.com/album/6gIbXS0BOPX00WE5LLfQBs) | 3:00 | 2023-08-15 | 2023-09-09 |
+| [Wait For The Summer \(Bonus Track\)](https://open.spotify.com/track/6dZIvN4IlyzQX0UD9PLsqF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 3:00 | 2023-09-08 |  |
 | [Waiting](https://open.spotify.com/track/6hHMFYsc4MM3VZJVtLt8QD) | [Noah Jaora](https://open.spotify.com/artist/55MeT25PvYzT71z71eWxVx) | [Waiting](https://open.spotify.com/album/2uTyteX0vPPmi0LQVXVgVx) | 2:29 | 2020-07-18 | 2021-04-17 |
 | [Wake up Everybody \(feat\. Common & Melanie Fiona\)](https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 4:24 | 2020-06-02 | 2020-06-12 |
 | [Wanna Love You](https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Wanna Love You](https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB) | 2:50 | 2022-02-24 | 2022-09-30 |

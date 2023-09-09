@@ -1,63 +1,311 @@
 {
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
-  "num_followers": 8447,
+  "num_followers": 8474,
   "original_name": "Jazzia Suomesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGFhZWNjNThkOGVkOTgyMjlkNzlhYjQ5YzY3MDQxZDI3ZmFjMDg2",
+  "snapshot_id": "MCwxM2ZjMDM4NGQ5NDgyMWMyNzk5NDJhYzhhYzMyYzY4YzY5MTYzODYw",
   "tracks": [
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/0BhsEeLJT2lLMaEUWK2eCG"
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/05o6US7XdwkkfJwJoZofcJ"
       },
       "artists": [
         {
-          "name": "VIRTA",
-          "url": "https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b"
+          "name": "Peela",
+          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
+        },
+        {
+          "name": "Rafa Postel",
+          "url": "https://open.spotify.com/artist/6CthIuM1u1D6GRTdP3Aqsm"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/7dLT70xFb21N9Un90stelN"
+      "duration_ms": 378839,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/57bfuyhyiUI3clhgozihNJ"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
-        "name": "Two Shadows of You",
-        "url": "https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W"
+        "name": "Little Demons",
+        "url": "https://open.spotify.com/album/28kDetPEgpkO15Lid6d2jk"
       },
       "artists": [
         {
-          "name": "Janne Huttunen",
-          "url": "https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA"
+          "name": "Ida Alanen Trio",
+          "url": "https://open.spotify.com/artist/3gElqj8hulfTVD9xclvbkn"
         }
       ],
-      "duration_ms": 449093,
-      "name": "Two Shadows of You",
-      "url": "https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt"
+      "duration_ms": 408424,
+      "name": "Little Demons",
+      "url": "https://open.spotify.com/track/02eNiKAOY0VYSA1iVAtp7S"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
-        "name": "The Complete Loft Sessions",
-        "url": "https://open.spotify.com/album/76OAO96nHjX9b2zSwYa0pE"
+        "name": "Births Today",
+        "url": "https://open.spotify.com/album/5Cu7wpoRwOErMpUfJWQA3X"
       },
       "artists": [
         {
-          "name": "Salesvuo Syncopation",
-          "url": "https://open.spotify.com/artist/2dN3cwSujoBLOUvVxQBSY6"
+          "name": "RinneRadio",
+          "url": "https://open.spotify.com/artist/4qjNgDN11K9KIhXSNbMQPt"
+        },
+        {
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
         }
       ],
-      "duration_ms": 274064,
-      "name": "Syncopation",
-      "url": "https://open.spotify.com/track/6szbDS2fOgav2PnB9fizou"
+      "duration_ms": 210146,
+      "name": "Births Today",
+      "url": "https://open.spotify.com/track/3daOwvvlyswZiRgw6Spb3j"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Horror Vacui",
+        "url": "https://open.spotify.com/album/4NvSV7hcWuNEVKLjrsLZjC"
+      },
+      "artists": [
+        {
+          "name": "Selma Savolainen",
+          "url": "https://open.spotify.com/artist/6TevDwYMUhsBwWNugUModU"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Der Hacker",
+        "url": "https://open.spotify.com/album/2cBlpBWtJLMIcIOoAsn548"
+      },
+      "artists": [
+        {
+          "name": "Turku Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3h0163xqtTl2XIAisrYZSV"
+        },
+        {
+          "name": "Tero Lindberg",
+          "url": "https://open.spotify.com/artist/2PK6WedjSwfpSVyVZN4T5f"
+        }
+      ],
+      "duration_ms": 354786,
+      "name": "Der Hacker",
+      "url": "https://open.spotify.com/track/422a4puuho0yE1XMHEQ1yx"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "demolish, transform",
+        "url": "https://open.spotify.com/album/7inP2RNk891EPvKCeJojEu"
+      },
+      "artists": [
+        {
+          "name": "Silva Kallionp\u00e4\u00e4 Quartet",
+          "url": "https://open.spotify.com/artist/5NiJ3sFkmmxyhLFr1NpLTd"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "demolish, transform",
+      "url": "https://open.spotify.com/track/689sPjFknUEvyyQvXHqEfA"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Siskolle",
+        "url": "https://open.spotify.com/album/6R9scIfEiM51YThGUw1zue"
+      },
+      "artists": [
+        {
+          "name": "Riitta Paakki Quartet",
+          "url": "https://open.spotify.com/artist/5bRcSELkt9fC6omXgIaE66"
+        },
+        {
+          "name": "Joonas Riippa",
+          "url": "https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO"
+        },
+        {
+          "name": "Antti L\u00f6tj\u00f6nen",
+          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
+        },
+        {
+          "name": "Manuel Dunkel",
+          "url": "https://open.spotify.com/artist/7j2FF5LqjO8mB3iT2PxnV8"
+        }
+      ],
+      "duration_ms": 491152,
+      "name": "Siskolle",
+      "url": "https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Viile\u00e4ss\u00e4 virrassa",
+        "url": "https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k"
+      },
+      "artists": [
+        {
+          "name": "Emma Salokoski",
+          "url": "https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U"
+        },
+        {
+          "name": "Jarmo Saari",
+          "url": "https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn"
+        }
+      ],
+      "duration_ms": 340706,
+      "name": "Veden alla - 2023",
+      "url": "https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Circus/Citadel",
+        "url": "https://open.spotify.com/album/1b0W2gMVRQEFW5ITFt25EZ"
+      },
+      "artists": [
+        {
+          "name": "Antti L\u00f6tj\u00f6nen",
+          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
+        },
+        {
+          "name": "Mikko Innanen",
+          "url": "https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj"
+        },
+        {
+          "name": "Jussi Kannaste",
+          "url": "https://open.spotify.com/artist/5MrinOzalbDrw6L1AvPmbV"
+        },
+        {
+          "name": "Verneri Pohjola",
+          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
+        },
+        {
+          "name": "Joonas Riippa",
+          "url": "https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO"
+        }
+      ],
+      "duration_ms": 411893,
+      "name": "It Goes On.",
+      "url": "https://open.spotify.com/track/0klGXE46DplZMqL8gD3z96"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Avanto",
+        "url": "https://open.spotify.com/album/7mlcm953YiLSKkF39a0V6n"
+      },
+      "artists": [
+        {
+          "name": "Juho Peltoniemi Trio",
+          "url": "https://open.spotify.com/artist/4Sbu45UJpAypGbK9u1QBKa"
+        }
+      ],
+      "duration_ms": 404265,
+      "name": "Avanto",
+      "url": "https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Big Push",
+        "url": "https://open.spotify.com/album/0trbA2SbGyvjpGim97zxfe"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Heinola Quartet",
+          "url": "https://open.spotify.com/artist/1wqgTdQxJwz27q0AjYJAMp"
+        }
+      ],
+      "duration_ms": 385408,
+      "name": "Big Push",
+      "url": "https://open.spotify.com/track/4igcQEY87rKolBPqiWZKvs"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "A Thing With Feathers",
+        "url": "https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Kinnunen",
+          "url": "https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU"
+        },
+        {
+          "name": "Aki Himanen",
+          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 465964,
+      "name": "A Thing With Feathers",
+      "url": "https://open.spotify.com/track/25patDyUz6247RVEzsEOpx"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Potsdam",
+        "url": "https://open.spotify.com/album/3QyROvaV6jKq8GIEIzUwop"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 201369,
+      "name": "Somewhere - Live",
+      "url": "https://open.spotify.com/track/4xKzPEenA1MQHpbwG7xCy7"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/2gHx8geEkqUEXmlAGy0hLw"
+      },
+      "artists": [
+        {
+          "name": "Ville Tomminen",
+          "url": "https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD"
+        }
+      ],
+      "duration_ms": 74300,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0Z4RxzJm1v3Vu9bvTQP8IA"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Kosmoksen erakko",
+        "url": "https://open.spotify.com/album/0Wt5pnCwuRsNxv2grDTVFF"
+      },
+      "artists": [
+        {
+          "name": "The Mystic Revelation of Teppo Repo",
+          "url": "https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR"
+        }
+      ],
+      "duration_ms": 288254,
+      "name": "Reida",
+      "url": "https://open.spotify.com/track/1pBHNnt6bort4V7QH1urYK"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T"
@@ -93,7 +341,75 @@
       "url": "https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/0BhsEeLJT2lLMaEUWK2eCG"
+      },
+      "artists": [
+        {
+          "name": "VIRTA",
+          "url": "https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7dLT70xFb21N9Un90stelN"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Two Shadows of You",
+        "url": "https://open.spotify.com/album/4zUjsY7rKNOMdqcQKt2e7W"
+      },
+      "artists": [
+        {
+          "name": "Janne Huttunen",
+          "url": "https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA"
+        }
+      ],
+      "duration_ms": 449093,
+      "name": "Two Shadows of You",
+      "url": "https://open.spotify.com/track/2zobyQH3iCld0ZOVpibSXt"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "Valkoinen hevonen",
+        "url": "https://open.spotify.com/album/3QYbmO7p0T1eIIHo2n6ZLP"
+      },
+      "artists": [
+        {
+          "name": "Minsku Tammela",
+          "url": "https://open.spotify.com/artist/6aREkURkJ8VvNZBh9sJKw5"
+        },
+        {
+          "name": "Joakim Bergh\u00e4ll",
+          "url": "https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Valkoinen hevonen",
+      "url": "https://open.spotify.com/track/7xkSKRKEjSBo306GBzhO8Y"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
+      "album": {
+        "name": "The Complete Loft Sessions",
+        "url": "https://open.spotify.com/album/76OAO96nHjX9b2zSwYa0pE"
+      },
+      "artists": [
+        {
+          "name": "Salesvuo Syncopation",
+          "url": "https://open.spotify.com/artist/2dN3cwSujoBLOUvVxQBSY6"
+        }
+      ],
+      "duration_ms": 274064,
+      "name": "Syncopation",
+      "url": "https://open.spotify.com/track/6szbDS2fOgav2PnB9fizou"
+    },
+    {
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Something About Us",
         "url": "https://open.spotify.com/album/1TboFMYUz8WDPJYIbMpRsW"
@@ -109,7 +425,7 @@
       "url": "https://open.spotify.com/track/4LFzdxh0KGkjfZlFeRSsoG"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "P\u00f6ll\u00f6",
         "url": "https://open.spotify.com/album/6kPy7rOuH5WO1rOVRI2ZBU"
@@ -125,7 +441,7 @@
       "url": "https://open.spotify.com/track/058ODZGnIEka63MaKmwj7Z"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Ultralum",
         "url": "https://open.spotify.com/album/6rF08IvdvgQymJVPQ8f9Cb"
@@ -153,7 +469,7 @@
       "url": "https://open.spotify.com/track/21fpqfJHEbFfndoFzCBAz0"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Duke",
         "url": "https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN"
@@ -169,27 +485,7 @@
       "url": "https://open.spotify.com/track/412Ze3X4P5Bndx4XnWAJwG"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/05o6US7XdwkkfJwJoZofcJ"
-      },
-      "artists": [
-        {
-          "name": "Peela",
-          "url": "https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA"
-        },
-        {
-          "name": "Rafa Postel",
-          "url": "https://open.spotify.com/artist/6CthIuM1u1D6GRTdP3Aqsm"
-        }
-      ],
-      "duration_ms": 378839,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/57bfuyhyiUI3clhgozihNJ"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Syntax",
         "url": "https://open.spotify.com/album/45CGm3hNDfYcacvfukU2Ee"
@@ -205,27 +501,23 @@
       "url": "https://open.spotify.com/track/7MMdO6NliB7AtFjefzFPd4"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
-        "name": "Births Today",
-        "url": "https://open.spotify.com/album/5Cu7wpoRwOErMpUfJWQA3X"
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0nut26etVcSuXsuHhMYHqc"
       },
       "artists": [
         {
-          "name": "RinneRadio",
-          "url": "https://open.spotify.com/artist/4qjNgDN11K9KIhXSNbMQPt"
-        },
-        {
-          "name": "Juha M\u00e4ki-Patola",
-          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
+          "name": "Northern gospel project",
+          "url": "https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9"
         }
       ],
-      "duration_ms": 210146,
-      "name": "Births Today",
-      "url": "https://open.spotify.com/track/3daOwvvlyswZiRgw6Spb3j"
+      "duration_ms": 329213,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/4r0L6EqxsSsVAYU0vZmGcx"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Kev\u00e4t",
         "url": "https://open.spotify.com/album/1Us0cdS58DFuVqItyz2LpM"
@@ -241,23 +533,7 @@
       "url": "https://open.spotify.com/track/3rWFDscuVW07OAnF2prqeR"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Little Demons",
-        "url": "https://open.spotify.com/album/28kDetPEgpkO15Lid6d2jk"
-      },
-      "artists": [
-        {
-          "name": "Ida Alanen Trio",
-          "url": "https://open.spotify.com/artist/3gElqj8hulfTVD9xclvbkn"
-        }
-      ],
-      "duration_ms": 408424,
-      "name": "Little Demons",
-      "url": "https://open.spotify.com/track/02eNiKAOY0VYSA1iVAtp7S"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Songs From Suspended Times",
         "url": "https://open.spotify.com/album/1yrS6PV6y0ke5h1hqjbg7D"
@@ -273,7 +549,7 @@
       "url": "https://open.spotify.com/track/22JUahfpObguJJ71Pool8M"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/1YWqNNUthr7skfCHUpHv4P"
@@ -293,7 +569,7 @@
       "url": "https://open.spotify.com/track/4bgK6O1AkJFTzYHntUnidF"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Pedro's Dream",
         "url": "https://open.spotify.com/album/5f0bPe67qzTpt5wDTIx9Ld"
@@ -321,43 +597,7 @@
       "url": "https://open.spotify.com/track/7aEFckazRHgF1NkdWlXn4N"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Horror Vacui",
-        "url": "https://open.spotify.com/album/4NvSV7hcWuNEVKLjrsLZjC"
-      },
-      "artists": [
-        {
-          "name": "Selma Savolainen",
-          "url": "https://open.spotify.com/artist/6TevDwYMUhsBwWNugUModU"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Der Hacker",
-        "url": "https://open.spotify.com/album/2cBlpBWtJLMIcIOoAsn548"
-      },
-      "artists": [
-        {
-          "name": "Turku Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3h0163xqtTl2XIAisrYZSV"
-        },
-        {
-          "name": "Tero Lindberg",
-          "url": "https://open.spotify.com/artist/2PK6WedjSwfpSVyVZN4T5f"
-        }
-      ],
-      "duration_ms": 354786,
-      "name": "Der Hacker",
-      "url": "https://open.spotify.com/track/422a4puuho0yE1XMHEQ1yx"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Made in Finland",
         "url": "https://open.spotify.com/album/49Fi3MgqfxOr16AnpIa9M7"
@@ -377,23 +617,7 @@
       "url": "https://open.spotify.com/track/3tshGD2GGqWYPPnB5L9DL7"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "demolish, transform",
-        "url": "https://open.spotify.com/album/7inP2RNk891EPvKCeJojEu"
-      },
-      "artists": [
-        {
-          "name": "Silva Kallionp\u00e4\u00e4 Quartet",
-          "url": "https://open.spotify.com/artist/5NiJ3sFkmmxyhLFr1NpLTd"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "demolish, transform",
-      "url": "https://open.spotify.com/track/689sPjFknUEvyyQvXHqEfA"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "The Wheel",
         "url": "https://open.spotify.com/album/0kKU0PwlEvOxTVgQLs1Qj9"
@@ -417,87 +641,7 @@
       "url": "https://open.spotify.com/track/1rqk8yEMJ0R1oPvPjbM7Sv"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Siskolle",
-        "url": "https://open.spotify.com/album/6R9scIfEiM51YThGUw1zue"
-      },
-      "artists": [
-        {
-          "name": "Riitta Paakki Quartet",
-          "url": "https://open.spotify.com/artist/5bRcSELkt9fC6omXgIaE66"
-        },
-        {
-          "name": "Joonas Riippa",
-          "url": "https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO"
-        },
-        {
-          "name": "Antti L\u00f6tj\u00f6nen",
-          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
-        },
-        {
-          "name": "Manuel Dunkel",
-          "url": "https://open.spotify.com/artist/7j2FF5LqjO8mB3iT2PxnV8"
-        }
-      ],
-      "duration_ms": 491152,
-      "name": "Siskolle",
-      "url": "https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Viile\u00e4ss\u00e4 virrassa",
-        "url": "https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k"
-      },
-      "artists": [
-        {
-          "name": "Emma Salokoski",
-          "url": "https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U"
-        },
-        {
-          "name": "Jarmo Saari",
-          "url": "https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn"
-        }
-      ],
-      "duration_ms": 340706,
-      "name": "Veden alla - 2023",
-      "url": "https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Circus/Citadel",
-        "url": "https://open.spotify.com/album/1b0W2gMVRQEFW5ITFt25EZ"
-      },
-      "artists": [
-        {
-          "name": "Antti L\u00f6tj\u00f6nen",
-          "url": "https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR"
-        },
-        {
-          "name": "Mikko Innanen",
-          "url": "https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj"
-        },
-        {
-          "name": "Jussi Kannaste",
-          "url": "https://open.spotify.com/artist/5MrinOzalbDrw6L1AvPmbV"
-        },
-        {
-          "name": "Verneri Pohjola",
-          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
-        },
-        {
-          "name": "Joonas Riippa",
-          "url": "https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO"
-        }
-      ],
-      "duration_ms": 411893,
-      "name": "It Goes On.",
-      "url": "https://open.spotify.com/track/0klGXE46DplZMqL8gD3z96"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "L\u00f6yly",
         "url": "https://open.spotify.com/album/4rlRsxnaAZusRH6DtiLrQc"
@@ -513,23 +657,7 @@
       "url": "https://open.spotify.com/track/5PajsYtW5p4Ouut9qxesuZ"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Avanto",
-        "url": "https://open.spotify.com/album/7mlcm953YiLSKkF39a0V6n"
-      },
-      "artists": [
-        {
-          "name": "Juho Peltoniemi Trio",
-          "url": "https://open.spotify.com/artist/4Sbu45UJpAypGbK9u1QBKa"
-        }
-      ],
-      "duration_ms": 404265,
-      "name": "Avanto",
-      "url": "https://open.spotify.com/track/5LyLPzWnFNxv42Hwi3ARph"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Junassa",
         "url": "https://open.spotify.com/album/43RH8KMHg3VtQrOWH4aDgY"
@@ -545,67 +673,7 @@
       "url": "https://open.spotify.com/track/2hPQcgfs8FPUEtFmqRRqaV"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Big Push",
-        "url": "https://open.spotify.com/album/0trbA2SbGyvjpGim97zxfe"
-      },
-      "artists": [
-        {
-          "name": "Aleksi Heinola Quartet",
-          "url": "https://open.spotify.com/artist/1wqgTdQxJwz27q0AjYJAMp"
-        }
-      ],
-      "duration_ms": 385408,
-      "name": "Big Push",
-      "url": "https://open.spotify.com/track/4igcQEY87rKolBPqiWZKvs"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "A Thing With Feathers",
-        "url": "https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH"
-      },
-      "artists": [
-        {
-          "name": "Aleksi Kinnunen",
-          "url": "https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU"
-        },
-        {
-          "name": "Aki Himanen",
-          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 465964,
-      "name": "A Thing With Feathers",
-      "url": "https://open.spotify.com/track/25patDyUz6247RVEzsEOpx"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Potsdam",
-        "url": "https://open.spotify.com/album/3QyROvaV6jKq8GIEIzUwop"
-      },
-      "artists": [
-        {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 201369,
-      "name": "Somewhere - Live",
-      "url": "https://open.spotify.com/track/4xKzPEenA1MQHpbwG7xCy7"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/5AWHqcIYnZh5uI56sL81Um"
@@ -621,7 +689,7 @@
       "url": "https://open.spotify.com/track/70DGWD6Cyl1iuKoEF0e0Sp"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Jazz Noir",
         "url": "https://open.spotify.com/album/0npOnrkaxOXKdFZ8FusvQ4"
@@ -649,23 +717,7 @@
       "url": "https://open.spotify.com/track/1Iaf7PGbWPofZiSGEu3nPt"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "Kosmoksen erakko",
-        "url": "https://open.spotify.com/album/0Wt5pnCwuRsNxv2grDTVFF"
-      },
-      "artists": [
-        {
-          "name": "The Mystic Revelation of Teppo Repo",
-          "url": "https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR"
-        }
-      ],
-      "duration_ms": 288254,
-      "name": "Reida",
-      "url": "https://open.spotify.com/track/1pBHNnt6bort4V7QH1urYK"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/3PWjcHNKxKXs2uGGOCRVqO"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/4mPtjZ3GTE6vrjo20YcQ2b"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "One small step",
         "url": "https://open.spotify.com/album/0GY9ODHnnp43DXGAIrjiap"
@@ -697,7 +749,7 @@
       "url": "https://open.spotify.com/track/0oXgF2YDoQ9o4GgYWjHz5F"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Kullankaivaja",
         "url": "https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572"
@@ -713,7 +765,7 @@
       "url": "https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Almost Standards (Doctoral Edition)",
         "url": "https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb"
@@ -729,7 +781,7 @@
       "url": "https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Diversity",
         "url": "https://open.spotify.com/album/2Z8qjhaLu9SYLtt7YuKNgD"
@@ -745,7 +797,7 @@
       "url": "https://open.spotify.com/track/5MaNwKdorJTKEMzKr4cL3i"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Hustoi",
         "url": "https://open.spotify.com/album/3cKJHD8OgLeYnQJpW355SO"
@@ -761,7 +813,7 @@
       "url": "https://open.spotify.com/track/5DIox0mCNo1bzbCWrOwZ8f"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Atte Aho",
         "url": "https://open.spotify.com/album/2sy1yT0aK3Bg3UV8xyuqbp"
@@ -777,7 +829,7 @@
       "url": "https://open.spotify.com/track/43p6GKAUMfmhdlmAC6PN8i"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "My Finnish Soul",
         "url": "https://open.spotify.com/album/6qiOxwnfwtnuVBgwU9NR9l"
@@ -793,7 +845,7 @@
       "url": "https://open.spotify.com/track/40YB7af2XRxHzO8AYThAnQ"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Agatha 2",
         "url": "https://open.spotify.com/album/0Z0wyJ2AhSoqihYUpCCCvC"
@@ -817,7 +869,7 @@
       "url": "https://open.spotify.com/track/2Ut23DFEzsvCywpleGYDXv"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Trial by Fire",
         "url": "https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK"
@@ -833,7 +885,7 @@
       "url": "https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Ask Me Now",
         "url": "https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf"
@@ -849,7 +901,7 @@
       "url": "https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "In Belgium 1967",
         "url": "https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph"
@@ -865,7 +917,7 @@
       "url": "https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Hiljainen",
         "url": "https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3"
@@ -881,7 +933,7 @@
       "url": "https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Rag",
         "url": "https://open.spotify.com/album/7mgH9Xu4xGvMaizxeTUeSf"
@@ -897,7 +949,7 @@
       "url": "https://open.spotify.com/track/1U2g56MOsv3yZ6g70OhwGk"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Ketunnokka",
         "url": "https://open.spotify.com/album/2592dCUKaQyPcmgUP4gszv"
@@ -913,7 +965,7 @@
       "url": "https://open.spotify.com/track/3YvK6bdj8mGao5f2CCVBdz"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Meze",
         "url": "https://open.spotify.com/album/74JJd6RmHqD3deWsTIHEGq"
@@ -929,7 +981,7 @@
       "url": "https://open.spotify.com/track/2yeGxLeOGTlQKZSUK2Mni7"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Poncho",
         "url": "https://open.spotify.com/album/7n4lTJfOOXLAb5QqkvdfR1"
@@ -945,7 +997,7 @@
       "url": "https://open.spotify.com/track/5l2mlrojPLmgdfMkgVxvCn"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Saami Rights",
         "url": "https://open.spotify.com/album/2J9YdrWUDPck5CxKBXs92d"
@@ -961,7 +1013,7 @@
       "url": "https://open.spotify.com/track/28KzeO7Wres2CmdmMjoXoi"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Chapter 3",
         "url": "https://open.spotify.com/album/47vB3iATxOUV7TMNkBV66G"
@@ -993,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5zTYrVDnEN2MdEEgxef44P"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Both Only",
         "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
@@ -1009,7 +1061,7 @@
       "url": "https://open.spotify.com/track/3U7QS0oySVgb5vL3ZJsD3P"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Karjalan Poikia",
         "url": "https://open.spotify.com/album/1txoN5voopFmu3MDID7MG8"
@@ -1025,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1QKRrMtm4qo22TGO5qjMF1"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/5W92tmMDBBOg4d30rMLPWu"
@@ -1045,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4L8MDfYP5EF61dDjkEtcat"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Vanhatie",
         "url": "https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN"
@@ -1061,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Moon over Mysore",
         "url": "https://open.spotify.com/album/3ErQYvguy4PL1uTzdjXxPT"
@@ -1077,7 +1129,7 @@
       "url": "https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "D\u00e4g\u00e4 D\u00e4g\u00e4",
         "url": "https://open.spotify.com/album/5ZhvBUKPpFqFrNAAQaTIfi"
@@ -1093,7 +1145,7 @@
       "url": "https://open.spotify.com/track/1ClFUVHYgThdnktoMhcDVE"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Diamond Back",
         "url": "https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A"
@@ -1109,23 +1161,7 @@
       "url": "https://open.spotify.com/track/5vPBcZIGc4sttgZR9kM3VR"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "What Will We Leave Behind",
-        "url": "https://open.spotify.com/album/7cfIfqeymxfXyvt69grQaO"
-      },
-      "artists": [
-        {
-          "name": "Iro Haarla Electric Ensemble",
-          "url": "https://open.spotify.com/artist/2ox7NvapOauh4QfGYJKDe8"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "A Song We Loaned From Our Children",
-      "url": "https://open.spotify.com/track/746oExBG42IBd7Q3ifotmM"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Murhatarina",
         "url": "https://open.spotify.com/album/3w0Jwd36FrbWfN3VQMnu2i"
@@ -1141,7 +1177,7 @@
       "url": "https://open.spotify.com/track/1RexGZx3oC1elDsP1UqiGb"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Brand New Games",
         "url": "https://open.spotify.com/album/73Yk3EqWeBP7MhHKRQohEL"
@@ -1157,7 +1193,7 @@
       "url": "https://open.spotify.com/track/1rbRTcz5o8BrewfMPTLbZk"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Let's Call This",
         "url": "https://open.spotify.com/album/48O5U5LlrkYPYXSh5W0MOe"
@@ -1185,7 +1221,7 @@
       "url": "https://open.spotify.com/track/1f4elItJX2wwG1AmeVzV3O"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Side Effect",
         "url": "https://open.spotify.com/album/5iaRtB7KTg8xSCoNIl4EiS"
@@ -1205,7 +1241,7 @@
       "url": "https://open.spotify.com/track/3wIKPsBqmjf4vYqiNw8Z8t"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/5O6bsK4isDbbcr6Sp7bTqD"
@@ -1221,7 +1257,7 @@
       "url": "https://open.spotify.com/track/0yjKisEQNn4guL4s8HpABJ"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Unituulia",
         "url": "https://open.spotify.com/album/4ea1eOXdoToRal6XqcSoci"
@@ -1241,7 +1277,7 @@
       "url": "https://open.spotify.com/track/3M7VQWhLMGX1HxnErLvpNs"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Scenes",
         "url": "https://open.spotify.com/album/4SgIdBAzCLmLCm9il7eWZj"
@@ -1257,7 +1293,7 @@
       "url": "https://open.spotify.com/track/3ELSoIARBzDrqpbTav5DAD"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Cameroonian Sky",
         "url": "https://open.spotify.com/album/3xCzRWB159GSRsgZ8dXmuh"
@@ -1293,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6IQ5o2ur6q1DXoRUfk2Cb1"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Fusionations",
         "url": "https://open.spotify.com/album/481Z3DQ5wwJ6i0J8mPq9HI"
@@ -1309,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0ZTd2wJwhdlSURtYv0XHIb"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Blue & Golden",
         "url": "https://open.spotify.com/album/07uM6sL7Usdi3pHcwQunsc"
@@ -1325,7 +1361,7 @@
       "url": "https://open.spotify.com/track/2t6JgAAry6wez10HnkJWvP"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Chickenhawk",
         "url": "https://open.spotify.com/album/4N4x0IBcxWuTManseuPm0W"
@@ -1345,7 +1381,7 @@
       "url": "https://open.spotify.com/track/6340Rw7wgSjcJdx8ymzbXG"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/1wf2PGDEaRQcc8NUIOX0lH"
@@ -1369,27 +1405,7 @@
       "url": "https://open.spotify.com/track/5bfUURRfjsXDhicXAXMGUG"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/3qOl5KWXYlKBZTJhI4Lz9j"
-      },
-      "artists": [
-        {
-          "name": "Sylvain Rifflet",
-          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
-        },
-        {
-          "name": "Verneri Pohjola",
-          "url": "https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX"
-        }
-      ],
-      "duration_ms": 215812,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/4euYzAGkmIbdykP4wYxAQq"
-    },
-    {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Mountain Man Exit",
         "url": "https://open.spotify.com/album/2HeNwpxn83O3GoMtIf4EUQ"
@@ -1405,7 +1421,7 @@
       "url": "https://open.spotify.com/track/7xKRYjwpDJHiWBSRNFscJ0"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Ilmiliekki Quartet",
         "url": "https://open.spotify.com/album/6STx4DRg71CIIy5w8mEiMC"
@@ -1437,7 +1453,7 @@
       "url": "https://open.spotify.com/track/5v0y5dl1jFmnLLjLsbRVlE"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Pinetree Song",
         "url": "https://open.spotify.com/album/4SjXdNETKs0gfhElhsnWoZ"
@@ -1453,7 +1469,7 @@
       "url": "https://open.spotify.com/track/5d1Zu6beu4sUzj2j01eol0"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7wBPnoHvTAXNkPTuAmgCbU"
@@ -1469,7 +1485,7 @@
       "url": "https://open.spotify.com/track/5g7R1HYpEUNtD1G0yYadAI"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "Prog Fu!",
         "url": "https://open.spotify.com/album/6iB3uOyipKFssd9E5jAJK7"
@@ -1485,7 +1501,7 @@
       "url": "https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf"
     },
     {
-      "added_at": "2023-08-25 07:28:12",
+      "added_at": "2023-09-08 10:38:24",
       "album": {
         "name": "PROCEED",
         "url": "https://open.spotify.com/album/3obWDfutVLhbtbF4iaSM7P"

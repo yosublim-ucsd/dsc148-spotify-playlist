@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 147857,
       "name": "Ace",
       "url": "https://open.spotify.com/track/42SQxZPBS9pNGDAk5ZRY4V"
@@ -302,6 +302,32 @@
       "duration_ms": 144000,
       "name": "Badmos Chora",
       "url": "https://open.spotify.com/track/1J8WBxWTvYlmFSoQyQWoN9"
+    },
+    {
+      "album": {
+        "name": "Balak Gaama Ke",
+        "url": "https://open.spotify.com/album/4fPKkFkpNkPo7752kqqfbk"
+      },
+      "artists": [
+        {
+          "name": "Hallu Mandiaala",
+          "url": "https://open.spotify.com/artist/5hXwj2AU0GkQlBvj6rLPLE"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        },
+        {
+          "name": "Micky Arora",
+          "url": "https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156519,
+      "name": "Balak Gaama Ke",
+      "url": "https://open.spotify.com/track/1ze9e3pkjdU9z6R7jPKuvN"
     },
     {
       "album": {
@@ -671,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Ghaav",
+        "url": "https://open.spotify.com/album/7LQxbxLKaennHRN23E6Soi"
+      },
+      "artists": [
+        {
+          "name": "Guru Gera",
+          "url": "https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa"
+        },
+        {
+          "name": "Its Aghori",
+          "url": "https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176868,
+      "name": "Ghaav",
+      "url": "https://open.spotify.com/track/0E88ez0AnFBNkcMEcO9wAa"
+    },
+    {
+      "album": {
         "name": "Ghani Syaani",
         "url": "https://open.spotify.com/album/6XMfzJDG7d0IedtJLfWDdc"
       },
@@ -828,7 +876,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 147374,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/4dlDoH3H44W5X0y8lG99mX"

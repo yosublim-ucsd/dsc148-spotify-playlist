@@ -3809,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "Richy Boy",
+        "url": "https://open.spotify.com/album/2Yx4vSgssvJu3qZR09iEH4"
+      },
+      "artists": [
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102306,
+      "name": "Richy Boy",
+      "url": "https://open.spotify.com/track/4ymyKoEPJmHyxjQmECBZSs"
+    },
+    {
+      "album": {
         "name": "POST MORTEM",
         "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
       },

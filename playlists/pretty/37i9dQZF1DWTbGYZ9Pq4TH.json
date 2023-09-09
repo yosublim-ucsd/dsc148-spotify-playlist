@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 170887,
+  "num_followers": 170934,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1",
+  "snapshot_id": "MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Sindrome di Stendhal",
-        "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Aloia",
-          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Il bacio di Klimt",
-      "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/4nq7ji9BCTkKjqZ2SQ8MLW"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 193573,
       "name": "Sopra",
       "url": "https://open.spotify.com/track/4EWRqLKdXgr0lPjAv6mxc4"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Sindrome di Stendhal",
+        "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Il bacio di Klimt",
+      "url": "https://open.spotify.com/track/5B1lKU2g7tcVaKaPwU4uc6"
     },
     {
       "added_at": "2023-02-20 09:56:57",

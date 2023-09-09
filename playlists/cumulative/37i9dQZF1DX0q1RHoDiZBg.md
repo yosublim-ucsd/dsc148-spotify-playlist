@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-132 songs - 10 hr 11 min
+133 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Wicked Messenger](https://open.spotify.com/track/6L6ny8iKcFYdvA6CN3AKCR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:48 | 2018-08-02 |  |
 | [With God On Our Side](https://open.spotify.com/track/73e4ndrkfGIxqXAWm9PFvx) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 5:11 | 2018-08-02 |  |
 | [You Ain't Goin' Nowhere \- Live at Madison Square Garden, New York, NY \- October 1992](https://open.spotify.com/track/0tZczyOySxAxOxa5mjoZga) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [Bob Dylan \- 30th Anniversary Concert Celebration \[\(Deluxe Edition\) \[Remastered\]\]](https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu) | 3:24 | 2018-08-02 |  |
+| [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/1X6f0IXbnRK1qVVgGoav0I) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Kiddie Folk Jams](https://open.spotify.com/album/1GZLtcNJTm5MYykURY8byA) | 3:31 | 2018-08-02 |  |
 | [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/4elbVXqYcmvakKQKpJ0ZUP) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/7n6OTzqfqzeMUSVSaTODT0) | 3:31 | 2018-08-02 | 2022-07-29 |
-| [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/5EazaacsECVBEBgZ4PP8s5) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Folk For Kids](https://open.spotify.com/album/1YFazXCNk4rEFdirMrVorj) | 3:31 | 2018-08-02 |  |
+| [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/5EazaacsECVBEBgZ4PP8s5) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Folk For Kids](https://open.spotify.com/album/1YFazXCNk4rEFdirMrVorj) | 3:31 | 2018-08-02 | 2023-09-09 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

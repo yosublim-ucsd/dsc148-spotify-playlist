@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Confusion",
+        "url": "https://open.spotify.com/album/1CtdMaGqi53KABHx4vx03A"
+      },
+      "artists": [
+        {
+          "name": "polymorphic messenger",
+          "url": "https://open.spotify.com/artist/0a3zIMo3r14RuhDT0SJh1G"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Confusion",
+      "url": "https://open.spotify.com/track/3a1fF0sxUWqQ6MPA7rJhKc"
+    },
+    {
+      "album": {
         "name": "Contemplation",
         "url": "https://open.spotify.com/album/2kk849IDiM7iBiDv3KVF35"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 157250,
       "name": "Dark Lights",
       "url": "https://open.spotify.com/track/7hb9cJh5t16WJiRWVPbzMZ"

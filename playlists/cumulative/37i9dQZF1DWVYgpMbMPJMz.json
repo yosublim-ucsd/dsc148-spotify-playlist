@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq?si=dc9f862aded24e20\">LO Worship<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB?si=oEx1sLF5QH-b2Qr_h7gSpQ\">Gateway Worship<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 589677,
       "name": "Beauty / We Fall Down - Live",
       "url": "https://open.spotify.com/track/6qk2m4FLAsWT5BaaTqhddH"
@@ -1694,6 +1694,28 @@
       "duration_ms": 256986,
       "name": "Creator",
       "url": "https://open.spotify.com/track/49RAhI3UshYWW7RSh66XRu"
+    },
+    {
+      "album": {
+        "name": "Crowns Down (Live)",
+        "url": "https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406671,
+      "name": "Crowns Down - Live",
+      "url": "https://open.spotify.com/track/6I8T8GS5oMRuxgFzxnOkBG"
     },
     {
       "album": {
@@ -3463,6 +3485,32 @@
     },
     {
       "album": {
+        "name": "I Set My Hope On Jesus",
+        "url": "https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255796,
+      "name": "I Set My Hope (Hymn For A Deconstructing Friend)",
+      "url": "https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx"
+    },
+    {
+      "album": {
         "name": "I Speak Jesus (Live from Urbana)",
         "url": "https://open.spotify.com/album/7zzpTTAVuufUTPirifA3zU"
       },
@@ -4020,7 +4068,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 284833,
       "name": "Jesus Always",
       "url": "https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO"
@@ -4148,7 +4196,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 589891,
       "name": "Jesus The Beloved - Live",
       "url": "https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD"
@@ -6307,6 +6355,28 @@
     },
     {
       "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/01Bdh6eWt3Vp6pjyVf3qFk"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221403,
+      "name": "Rescue (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM"
+    },
+    {
+      "album": {
         "name": "Rest On Us",
         "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
       },
@@ -7028,6 +7098,28 @@
       "duration_ms": 294280,
       "name": "Surrounded By Holy",
       "url": "https://open.spotify.com/track/3oHBQsiTAi3FHCL2zKXvpf"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Holy",
+        "url": "https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455529,
+      "name": "Surrounded By Holy - Live",
+      "url": "https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc"
     },
     {
       "album": {
@@ -8530,7 +8622,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 290894,
       "name": "Who Else - Live",
       "url": "https://open.spotify.com/track/7gNM9aohgou9HSYbm7QU7H"

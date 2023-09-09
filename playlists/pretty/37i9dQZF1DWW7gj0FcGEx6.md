@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,450 likes - 187 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,568 likes - 187 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 17 | [Underneath](https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Liebes Kind \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y) | 2:03 |
 | 18 | [You Are One of Us](https://open.spotify.com/track/0pMuFnl4nOtuFSoC9PI0GI) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 1 \(Chapters 17\-20\) \[Original Score\]](https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b) | 3:55 |
 | 19 | [Spider\-Man 2099 \(Miguel O'Hara\)](https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Spider\-Man: Across the Spider\-Verse \(Original Score\)](https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO) | 1:02 |
-| 20 | [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/25VaTouvJUmUkIccRJfTGG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Egwene al'Vere \(from The Wheel of Time: Season 2, a Prime Video Original Series\)](https://open.spotify.com/album/6PDzQ3pZl8CRTcOMwk5gPU) | 3:02 |
+| 20 | [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/1pUpYWRubFMzugCP4jIcdi) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Wheel of Time: Season 2, Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/71lPSpzDgHtwW8oM6933EX) | 3:02 |
 | 21 | [The Ride of the Witcher \(feat\. Percival Schuttenbach\) \- from The Witcher: Season 3](https://open.spotify.com/track/5F4hjWU7HVUK8i0pNlDRhM) | [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Ride of the Witcher \(feat\. Percival Schuttenbach\) \[from The Witcher: Season 3\]](https://open.spotify.com/album/4CuY2DkWhEAdOoD6VO7xR6) | 3:23 |
 | 22 | [This Is How I Fight](https://open.spotify.com/track/3M0Q7Zf7WIWA3DErPigGg8) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 2:40 |
 | 23 | [Monarch Butterfly](https://open.spotify.com/track/0MoNYYWAsCs5DjJrDvql9h) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3) | [A Year On Planet Earth \(Original Television Soundtrack\)](https://open.spotify.com/album/0LUY6DKJaFhoL0coG7rZ3k) | 5:08 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 186 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 187 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCxmNmNmNzdjNTkzYjVkN2I4OGIyMTRhZGViMjA3NDQxNzg5YjU1Zjg0`
+Snapshot ID: `MCxkYzhjY2I1NzVmYWEwYzM3NzU5MjJkOWQwYzZjODc4Mjk5MmZkZDQz`

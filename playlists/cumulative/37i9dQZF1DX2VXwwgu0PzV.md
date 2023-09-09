@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=JVS0nSqOQgqGlEDNyvU\_nw">Naffymar</a>
 
-375 songs - 22 hr 31 min
+376 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,8 +310,8 @@
 | [Sai Gobe](https://open.spotify.com/track/4D2QqTimqvIqQ6yzXFgZbq) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Sai Gobe](https://open.spotify.com/album/5Q0O0phQDKQ4HOpjRkizlO) | 2:55 | 2023-05-26 | 2023-07-14 |
 | [Say That I Love You](https://open.spotify.com/track/7zIey2GWC3a7dpRN9oVz70) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [My Beautiful Reality](https://open.spotify.com/album/1wNaIjk7zTye6VNdn3E2F1) | 2:00 | 2023-06-16 |  |
 | [See Through](https://open.spotify.com/track/2sfe0Khk1sfs2oErNb3j1n) | [Kiara June](https://open.spotify.com/artist/2S4vQOSLKWXr8m9DC1LISx), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [See Through](https://open.spotify.com/album/1FMC6QVrilzxAK4KDiqcdd) | 3:18 | 2023-03-10 | 2023-05-13 |
-| [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 | 2023-08-14 |
-| [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-05-12 |  |
+| [Selense](https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Selense](https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO) | 3:45 | 2023-05-12 |  |
+| [Selense](https://open.spotify.com/track/4vU2BSASlEcX6pBP5RVIjJ) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [THE AFRO GOSPEL](https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry) | 3:45 | 2023-05-12 | 2023-09-09 |
 | [Shambala](https://open.spotify.com/track/1xBdv3TshuzaYAwgxKRdP0) | [Dami Maverick](https://open.spotify.com/artist/6FIUDnNzGgE2mXUccDeCQh), [Kaytez Kanu](https://open.spotify.com/artist/71MHEN2IhGu83J66Fle4vD), [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn) | [Shambala](https://open.spotify.com/album/416S4BiBdjC3TcVBT0sT12) | 2:32 | 2023-02-02 | 2023-04-28 |
 | [Show Dem](https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc) | [Paul Chisom](https://open.spotify.com/artist/3EuZi8lRLkF7cQnI1hb2MV), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Show Dem](https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD) | 3:26 | 2023-02-02 | 2023-03-25 |
 | [Show Me](https://open.spotify.com/track/31yBW2Xp3GmUsZ2Ae1xpv1) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Show Me](https://open.spotify.com/album/0KLXJRTfekaxpXRzNTPYJa) | 2:27 | 2023-08-04 | 2023-08-12 |
@@ -326,6 +326,7 @@
 | [Suo Mé](https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Suo Mé](https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv) | 3:14 | 2023-09-01 |  |
 | [Superhuman](https://open.spotify.com/track/6sAMFS7czcl6ihDbJ4y58R) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Superhuman](https://open.spotify.com/album/2KYPWeT65fGWtc2wTT0clI) | 4:24 | 2023-08-18 |  |
 | [Superman](https://open.spotify.com/track/7dCp9hIWqx0PitT2TLbpqT) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Superman](https://open.spotify.com/album/0SRH0lP8hdHHR8pqMl7sMB) | 2:07 | 2023-02-02 | 2023-06-09 |
+| [Sure](https://open.spotify.com/track/01FtMwaMpdiZypiSPQ70UP) | [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Sure](https://open.spotify.com/album/0qT9CmMcFf6QbfCSmQDOyz) | 3:01 | 2023-09-08 |  |
 | [Surrender](https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Surrender](https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X) | 3:27 | 2023-09-01 |  |
 | [Surrender](https://open.spotify.com/track/1QZMDkHXdP5xzBD2l0bjrH) | [Vannou Enomana](https://open.spotify.com/artist/6LlibAGDFj1d9pLbAcYF9K) | [Surrender](https://open.spotify.com/album/4Yd4urJkYtdKwFxSFBQGLG) | 4:52 | 2023-06-09 | 2023-06-23 |
 | [Sword](https://open.spotify.com/track/411fOJODnOqnGM84vgo5Xp) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sword](https://open.spotify.com/album/5d2QLLemHkPVzuAUKJan4P) | 2:52 | 2023-03-23 | 2023-05-12 |

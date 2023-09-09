@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 279408,
+  "num_followers": 279618,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzVjZWE0OTM4MDBjMTNmMzU4OTU4NTYzZDJjZTIyZjgyNGRmZjZh",
+  "snapshot_id": "MCxmODI0NmQwMTZiODI1ODA0MTQ2ZGI5YWRmMGI4NDYzNDlhZmE4Nzdi",
   "tracks": [
     {
       "added_at": "2023-08-29 06:11:23",
@@ -543,22 +543,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "My Name Is Tokyo",
-        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
+        "name": "I Lost You",
+        "url": "https://open.spotify.com/album/3JHjeBkB7ouscnfXrhnPh8"
       },
       "artists": [
         {
-          "name": "Ilkan Gunuc",
-          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+          "name": "Havana",
+          "url": "https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I"
         },
         {
-          "name": "Emrah Turken",
-          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
+          "name": "Yaar",
+          "url": "https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll"
         }
       ],
-      "duration_ms": 172216,
-      "name": "My Name Is Tokyo",
-      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
+      "duration_ms": 225558,
+      "name": "I Lost You - Radio Edit",
+      "url": "https://open.spotify.com/track/05rm5OoJaVWImXZ4GMkekr"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "I Lost You",
-        "url": "https://open.spotify.com/album/3JHjeBkB7ouscnfXrhnPh8"
+        "name": "My Name Is Tokyo",
+        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
       },
       "artists": [
         {
-          "name": "Havana",
-          "url": "https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I"
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
         },
         {
-          "name": "Yaar",
-          "url": "https://open.spotify.com/artist/34KdXwVrhwtbEQQ2aKk2ll"
+          "name": "Emrah Turken",
+          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
         }
       ],
-      "duration_ms": 225558,
-      "name": "I Lost You - Radio Edit",
-      "url": "https://open.spotify.com/track/05rm5OoJaVWImXZ4GMkekr"
+      "duration_ms": 172216,
+      "name": "My Name Is Tokyo",
+      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -759,26 +759,18 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
       },
       "artists": [
         {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
         }
       ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -803,18 +795,26 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
       "artists": [
         {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
         }
       ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Lala",
-        "url": "https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6"
-      },
-      "artists": [
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        }
-      ],
-      "duration_ms": 394280,
-      "name": "Lala",
-      "url": "https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 219202,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/40fLzSAhU3F0x5tSaZtVt6"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        }
+      ],
+      "duration_ms": 394280,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/5FJiSLoCEAV9fkX4oZd2ou"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
@@ -1367,22 +1347,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
       "artists": [
         {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
         },
         {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
         }
       ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1399,6 +1379,26 @@
       "duration_ms": 323720,
       "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
       "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     }
   ],
   "unique_name": "mosaic",

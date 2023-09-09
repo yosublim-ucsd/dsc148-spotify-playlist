@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 883082,
+  "num_followers": 883414,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU4ZTE1MzIxZjU4YWM0YWVhNWQ2ODE5MDlmOTllMWQ1YjQ0ZTI1",
+  "snapshot_id": "MCw1YzUwOWZjMjYyNDNjNDg0OWNlZmYyNmRjMmJhZWE0OTkzYzBmODlm",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Honest Offering (Live)",
-        "url": "https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 277347,
-      "name": "Honest Offering / I Surrender All - Live",
-      "url": "https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 147945,
       "name": "Growing Pains Pt. 2",
       "url": "https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Honest Offering (Live)",
+        "url": "https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 277347,
+      "name": "Honest Offering / I Surrender All - Live",
+      "url": "https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Plead The Blood + The Dove (Live)",
-        "url": "https://open.spotify.com/album/39du73MQ23fX3ts4CqMFqE"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 441083,
-      "name": "Plead The Blood - Live",
-      "url": "https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "The Dove (Live)",
         "url": "https://open.spotify.com/album/5zaE1TfsrPEiIy7ymSznyV"
       },
@@ -455,38 +439,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Sunday Is Coming",
-        "url": "https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Sunday Is Coming",
-      "url": "https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Psalms, Hymns, and Spiritual Songs (Live)",
         "url": "https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv"
       },
@@ -503,6 +455,54 @@
       "duration_ms": 239857,
       "name": "All Creatures (Sing the Harmony) - Live",
       "url": "https://open.spotify.com/track/4Z70URI5AhohYZRp96AYwa"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Sunday Is Coming",
+      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Plead The Blood + The Dove (Live)",
+        "url": "https://open.spotify.com/album/39du73MQ23fX3ts4CqMFqE"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 441083,
+      "name": "Plead The Blood - Live",
+      "url": "https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "The Land I'm Livin' In (Live)",
-        "url": "https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V"
-      },
-      "artists": [
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 503383,
-      "name": "Sound Mind - Live",
-      "url": "https://open.spotify.com/track/61tocgks0qcsTuShYOJq0y"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Moments: Near 007",
         "url": "https://open.spotify.com/album/4WAhiiG3HkSMh7OvFMGqRA"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 691343,
       "name": "Pour My Love On You",
       "url": "https://open.spotify.com/track/0THyR6FIUIrWVOQIYePq2p"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "The Land I'm Livin' In (Live)",
+        "url": "https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V"
+      },
+      "artists": [
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 503383,
+      "name": "Sound Mind - Live",
+      "url": "https://open.spotify.com/track/61tocgks0qcsTuShYOJq0y"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Be Glad",
-        "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 299658,
-      "name": "Be Glad",
-      "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "The Joy (Live)",
         "url": "https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO"
       },
@@ -747,6 +731,102 @@
       "duration_ms": 443833,
       "name": "The Joy - Live",
       "url": "https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Team Night (Live)",
+        "url": "https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 273245,
+      "name": "Never Walk Alone - Live At Team Night",
+      "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Moments: 011 (Live)",
+        "url": "https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        },
+        {
+          "name": "Nick Gaggero",
+          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
+        }
+      ],
+      "duration_ms": 696887,
+      "name": "This Is My Shepherd - Live",
+      "url": "https://open.spotify.com/track/1PTVHxjA9dsK0z4O2XXwTl"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "LION: Live From The Loft",
+        "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 413276,
+      "name": "Lamb (feat. Tiffany Hudson) - Live",
+      "url": "https://open.spotify.com/track/0RG4tDb9PCACXsbzxBcxUa"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Be Glad",
+        "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 299658,
+      "name": "Be Glad",
+      "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Gratitude - LIVE from Miracle Nights",
+        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 418333,
+      "name": "Gratitude - LIVE from Miracle Nights",
+      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -779,86 +859,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "LION: Live From The Loft",
-        "url": "https://open.spotify.com/album/3NuWIiW4HolOWYQFYiJ5eg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 413276,
-      "name": "Lamb (feat. Tiffany Hudson) - Live",
-      "url": "https://open.spotify.com/track/0RG4tDb9PCACXsbzxBcxUa"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Moments: 011 (Live)",
-        "url": "https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        },
-        {
-          "name": "Nick Gaggero",
-          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
-        }
-      ],
-      "duration_ms": 696887,
-      "name": "This Is My Shepherd - Live",
-      "url": "https://open.spotify.com/track/1PTVHxjA9dsK0z4O2XXwTl"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Gratitude - LIVE from Miracle Nights",
-        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 418333,
-      "name": "Gratitude - LIVE from Miracle Nights",
-      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Team Night (Live)",
-        "url": "https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 273245,
-      "name": "Never Walk Alone - Live At Team Night",
-      "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Starlight (Live)",
         "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 337956,
       "name": "Starlight - Live",
       "url": "https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -919,6 +899,26 @@
       "duration_ms": 374546,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1003,6 +1003,70 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Praise Opens Prison Doors (Live)",
+        "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 323051,
+      "name": "Praise Opens Prison Doors - Live",
+      "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Look To The Lamb",
+        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 414391,
+      "name": "Look To The Lamb",
+      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Put Your Name On Me",
+        "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        },
+        {
+          "name": "Tony Fresh",
+          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
+        }
+      ],
+      "duration_ms": 507068,
+      "name": "Put Your Name On Me (feat. Tony Fresh)",
+      "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Miracle in Me",
         "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
       },
@@ -1035,70 +1099,6 @@
       "duration_ms": 292440,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Look To The Lamb",
-        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 414391,
-      "name": "Look To The Lamb",
-      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Praise Opens Prison Doors (Live)",
-        "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 323051,
-      "name": "Praise Opens Prison Doors - Live",
-      "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Put Your Name On Me",
-        "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Forward City",
-          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
-        },
-        {
-          "name": "Tony Fresh",
-          "url": "https://open.spotify.com/artist/5BJZBZPCDAMJKwRIriGO3I"
-        }
-      ],
-      "duration_ms": 507068,
-      "name": "Put Your Name On Me (feat. Tony Fresh)",
-      "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Our God Will See Us Through (Live)",
-        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        }
-      ],
-      "duration_ms": 253652,
-      "name": "This Is My Song - Live",
-      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Our God Will See Us Through (Live)",
+        "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        }
+      ],
+      "duration_ms": 253652,
+      "name": "This Is My Song - Live",
+      "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "I Saw The Lord (Live)",
         "url": "https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw"
       },
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Lord Of My Life (Live)",
-        "url": "https://open.spotify.com/album/17R7cY13uwIKsRlQ1FNum6"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Andrew Holt",
-          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
-        }
-      ],
-      "duration_ms": 516833,
-      "name": "Lord Of My Life - Live",
-      "url": "https://open.spotify.com/track/47qnyAuNrEmRNjrELtGJxx"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 243800,
       "name": "The Lord Almighty Reigns - Live",
       "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Lord Of My Life (Live)",
+        "url": "https://open.spotify.com/album/17R7cY13uwIKsRlQ1FNum6"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        }
+      ],
+      "duration_ms": 516833,
+      "name": "Lord Of My Life - Live",
+      "url": "https://open.spotify.com/track/47qnyAuNrEmRNjrELtGJxx"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Steady Light (Live from LO Conference) [Deluxe]",
-        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        },
-        {
-          "name": "Chidima",
-          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
-        }
-      ],
-      "duration_ms": 625955,
-      "name": "Open (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "God, Turn It Around",
         "url": "https://open.spotify.com/album/20AhTaDSeFLbEz38z3rQjv"
       },
@@ -1431,6 +1407,30 @@
       "duration_ms": 380964,
       "name": "Beautiful (Hidden Worlds) - Live",
       "url": "https://open.spotify.com/track/3bnvYVdaSgf2NBVPz1aqUE"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Steady Light (Live from LO Conference) [Deluxe]",
+        "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        }
+      ],
+      "duration_ms": 625955,
+      "name": "Open (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1471,46 +1471,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Because Of You (Live)",
-        "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        },
-        {
-          "name": "Aodhan King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 361027,
-      "name": "Because Of You - Live",
-      "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Pour Over Me (Live)",
-        "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 598000,
-      "name": "Pour Over Me - Live",
-      "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "I've Got Good News (Live)",
         "url": "https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd"
       },
@@ -1531,6 +1491,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Because Of You (Live)",
+        "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "duration_ms": 361027,
+      "name": "Because Of You - Live",
+      "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Who Is This Man (Live)",
         "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 599374,
       "name": "Who Is This Man - Live",
       "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Pour Over Me (Live)",
+        "url": "https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "duration_ms": 598000,
+      "name": "Pour Over Me - Live",
+      "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "A King Like No Other (Live)",
         "url": "https://open.spotify.com/album/7p7bRCJkZUAOPaRfhp52Fi"
       },
@@ -1699,6 +1699,26 @@
       "duration_ms": 482355,
       "name": "Come And Behold - Live",
       "url": "https://open.spotify.com/track/5k5jMmyP88T81vwcg1OOGJ"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Take Me to the River (I Will Swim) [Live]",
+        "url": "https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr"
+      },
+      "artists": [
+        {
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
+        },
+        {
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Take Me to the River (I Will Swim) - Live",
+      "url": "https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1735,42 +1755,6 @@
       "duration_ms": 289398,
       "name": "Comfort - Live",
       "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Take Me to the River (I Will Swim) [Live]",
-        "url": "https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr"
-      },
-      "artists": [
-        {
-          "name": "Alex Yurkiv",
-          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
-        },
-        {
-          "name": "Thelma Costolo",
-          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Take Me to the River (I Will Swim) - Live",
-      "url": "https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
-      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1823,26 +1807,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Easy to Worship (Live in New Orleans)",
-        "url": "https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8"
+        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
       },
       "artists": [
         {
-          "name": "Bethany Music",
-          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
-        },
-        {
-          "name": "Danielle Burns",
-          "url": "https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         }
       ],
-      "duration_ms": 349560,
-      "name": "Easy to Worship (Live in New Orleans)",
-      "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
+      "duration_ms": 237466,
+      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
+      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1887,6 +1863,30 @@
       "duration_ms": 335849,
       "name": "Lamb of God - Live",
       "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Easy to Worship (Live in New Orleans)",
+        "url": "https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8"
+      },
+      "artists": [
+        {
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        },
+        {
+          "name": "Danielle Burns",
+          "url": "https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "Easy to Worship (Live in New Orleans)",
+      "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
     },
     {
       "added_at": "2023-08-11 11:00:34",

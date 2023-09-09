@@ -7080,7 +7080,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 202025,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/5s2wmEvIgB7AcqLSVJF8UY"
@@ -10248,7 +10248,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "give it a whirl",
       "url": "https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF"
@@ -12689,6 +12689,28 @@
     },
     {
       "album": {
+        "name": "Into The Unknown",
+        "url": "https://open.spotify.com/album/3wcBHJ4HLjelIoxd7qrJ2A"
+      },
+      "artists": [
+        {
+          "name": "Natasha Ghosh",
+          "url": "https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z"
+        },
+        {
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171670,
+      "name": "Into The Unknown",
+      "url": "https://open.spotify.com/track/1Fafr7uDbeM6V4UoA9BtNC"
+    },
+    {
+      "album": {
         "name": "Iron Pan Love",
         "url": "https://open.spotify.com/album/1FdWrYSVPdYzE1WK9LpDTc"
       },
@@ -13058,7 +13080,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 168000,
       "name": "Julia's piano",
       "url": "https://open.spotify.com/track/44XpcWIWhlmOCOldVljTpe"
@@ -18218,7 +18240,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 138082,
       "name": "Ocean Cry",
       "url": "https://open.spotify.com/track/0tO6Tg0xW8ufmdXI8Cp4CO"
@@ -18792,7 +18814,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Orb",
       "url": "https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1"
@@ -18828,7 +18850,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 85714,
       "name": "orchid",
       "url": "https://open.spotify.com/track/6bUKrVPt01nwmIC543H6fx"
@@ -26606,6 +26628,24 @@
       "duration_ms": 218437,
       "name": "TONE DEF",
       "url": "https://open.spotify.com/track/4xA7eEHYHApi4tZvbqYqk7"
+    },
+    {
+      "album": {
+        "name": "Topinamborough",
+        "url": "https://open.spotify.com/album/0FaS0SL2A8oWhO9zCxRM59"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184658,
+      "name": "Topinamborough",
+      "url": "https://open.spotify.com/track/64S00l6oDW4AYs7yXb0SLD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "La bande sonore de ton \u00e9t\u00e9 2023!",
+  "description": "De la vitamine D en musique!",
   "name": "Sp\u00e9cial soleil",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 201409,
       "name": "80's",
       "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 163253,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 155047,
       "name": "Dames",
       "url": "https://open.spotify.com/track/2CBNpnSiBJCvil3fsPZ3S7"
@@ -3034,7 +3034,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 195882,
       "name": "LOST IN YOU (feat. Sun)",
       "url": "https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok"
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
@@ -3896,6 +3896,28 @@
       "duration_ms": 200000,
       "name": "On cherche plus on trouve",
       "url": "https://open.spotify.com/track/7esseRRJK3Nzb4J8mGXrPs"
+    },
+    {
+      "album": {
+        "name": "On Connait \u00c7a",
+        "url": "https://open.spotify.com/album/1SMzPQnV8UqT4WKbGPWhqK"
+      },
+      "artists": [
+        {
+          "name": "Randy Raymond",
+          "url": "https://open.spotify.com/artist/4lWRGWFZssgySjWbfXwv5g"
+        },
+        {
+          "name": "Ghenda",
+          "url": "https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "On Connait \u00c7a",
+      "url": "https://open.spotify.com/track/0O3Mi19xHsIt4uM3qc462I"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Jungeli",
-  "num_followers": 820659,
+  "num_followers": 821207,
   "original_name": "Afro Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjUyNDNiZTI3YWE0YmQ4OTYyNTZmMDVlMjczZjBhZDdmMmJmNzg0",
+  "snapshot_id": "MCxhNjQ0Y2UyNGUwODlhNWE3NTg5ZTQ1ZmE0OTk1ODkwYjAzZjIzNzVm",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -199,6 +199,30 @@
       "duration_ms": 172394,
       "name": "Tour",
       "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Yo Fam!",
+        "url": "https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 161111,
+      "name": "Yo Fam!",
+      "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"
     },
     {
       "added_at": "2023-09-07 22:00:00",

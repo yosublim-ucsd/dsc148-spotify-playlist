@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=ff28a136fe734631\">Xenia Manasseh</a> ",
+  "description": "New music breaking waves.  Cover:   <a href=\"https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk?si=reGe_ti5QJ-5X5Mwq_TjUg\">Missy Elliot</a>, <a href=\"https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S?si=KTWCX6R1R-SsPmlxEAXgmQ\">Flyana Boss</a> and <a href=\"https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL?si=agsNgccIQ2C07zYhjj3ujQ\">Kaliii</a>",
   "name": "RIPPLE EFFECT",
   "tracks": [
     {
@@ -568,6 +568,28 @@
       "duration_ms": 169846,
       "name": "Bands On You",
       "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
+    },
+    {
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/24dNsKnZXTFyyw2QzwRek1"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "KES the Band",
+          "url": "https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3r5fGWOFozVnOPW4FSdjzP"
     },
     {
       "album": {
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 95306,
       "name": "Damn, Crazy",
       "url": "https://open.spotify.com/track/2OJQNNnEiXyXiNRfl9Q0a2"
@@ -2398,7 +2420,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 72741,
       "name": "Feel Like Pat",
       "url": "https://open.spotify.com/track/4gHFYjqiHw51ig3MDihxkV"
@@ -2518,7 +2540,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 140094,
       "name": "hallelujah",
       "url": "https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7"
@@ -3817,6 +3839,28 @@
     },
     {
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203464,
+      "name": "Kolo Kolo",
+      "url": "https://open.spotify.com/track/4105eJHPqLaEDmdCo6qUUq"
+    },
+    {
+      "album": {
         "name": "LA (feat. Kalan.FrFr)",
         "url": "https://open.spotify.com/album/4zJBbY1UShBglrvjJGMMIU"
       },
@@ -4064,7 +4108,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 193136,
       "name": "Look Alive (Netic)",
       "url": "https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI"
@@ -4173,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Love Scars",
+        "url": "https://open.spotify.com/album/50uTpYwF0NxvC0b1IUJz4H"
+      },
+      "artists": [
+        {
+          "name": "YSN Fab",
+          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Love Scars",
+      "url": "https://open.spotify.com/track/1ZOicMXzkTORfXWhV3g6lO"
+    },
+    {
+      "album": {
         "name": "LOVE / HATE Pt. 1",
         "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
       },
@@ -4206,6 +4268,24 @@
       "duration_ms": 123053,
       "name": "LOVE4FREE",
       "url": "https://open.spotify.com/track/3zoXpiq5f5q87a2xnGdAdQ"
+    },
+    {
+      "album": {
+        "name": "LUCKY",
+        "url": "https://open.spotify.com/album/6phKf8kkkCdpHZDunVepYa"
+      },
+      "artists": [
+        {
+          "name": "Kavale",
+          "url": "https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157451,
+      "name": "LUCKY",
+      "url": "https://open.spotify.com/track/3OmQETOVbKRGtBFqGMpOQY"
     },
     {
       "album": {
@@ -4408,6 +4488,24 @@
       "duration_ms": 137195,
       "name": "Mind Of Da Crook",
       "url": "https://open.spotify.com/track/2aEGXP9uo45DD1ejzegyAl"
+    },
+    {
+      "album": {
+        "name": "Bad Girl Bible, Vol. 1",
+        "url": "https://open.spotify.com/album/2qLe59dgsNs1DqpK7DKpmp"
+      },
+      "artists": [
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189425,
+      "name": "Miranda",
+      "url": "https://open.spotify.com/track/6N4gbJIDfW7cwolK2mYjSJ"
     },
     {
       "album": {
@@ -4640,10 +4738,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 158876,
       "name": "Need It",
       "url": "https://open.spotify.com/track/3ToKJRK12KPRqsdg8XvnkG"
+    },
+    {
+      "album": {
+        "name": "negative edge",
+        "url": "https://open.spotify.com/album/5QDxi3G6wR7amgFIHJN88W"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150452,
+      "name": "negative edge",
+      "url": "https://open.spotify.com/track/4GFI3J7tA4tRbyAk7S5YfL"
     },
     {
       "album": {
@@ -4698,6 +4814,24 @@
       "duration_ms": 169602,
       "name": "Never Look Back",
       "url": "https://open.spotify.com/track/1oR5Ow17MqtjNoAYAIvNOy"
+    },
+    {
+      "album": {
+        "name": "Next Best Exit",
+        "url": "https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Next Best Exit",
+      "url": "https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y"
     },
     {
       "album": {
@@ -5042,7 +5176,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 105750,
       "name": "Oysters n' sparklin' water",
       "url": "https://open.spotify.com/track/4oNy9UwKYH13qf1Ze4q2oy"
@@ -5380,7 +5514,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 129429,
       "name": "Pound Town (and Tay Keith)",
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
@@ -5982,7 +6116,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 208097,
       "name": "SHOULD I STAY",
       "url": "https://open.spotify.com/track/3THYtsHcDQO30uHMRXf5R4"
@@ -7051,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "MEMO",
+        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211687,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2VMJVvyNzFhZWCu0cxGmQj"
+    },
+    {
+      "album": {
         "name": "UR SO FULL OF IT",
         "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
       },
@@ -7190,7 +7342,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 178254,
       "name": "Wetin No Good (Remix)",
       "url": "https://open.spotify.com/track/4i7WFJtcQYZEY2gIqz6pBN"
@@ -7487,6 +7639,24 @@
     },
     {
       "album": {
+        "name": "You Don't Even",
+        "url": "https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138013,
+      "name": "You Don't Even",
+      "url": "https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3"
+    },
+    {
+      "album": {
         "name": "You Got It",
         "url": "https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81"
       },
@@ -7542,10 +7712,36 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 120015,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
+    },
+    {
+      "album": {
+        "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+        "url": "https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157508,
+      "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+      "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
     },
     {
       "album": {

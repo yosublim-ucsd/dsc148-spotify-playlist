@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-87 songs - 1 day 1 hr 7 min
+88 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Durga Mantra](https://open.spotify.com/track/2M3U3LxFTNj3gKcYPSkM34) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde) | 43:59 | 2022-01-24 | 2022-07-29 |
 | [Ganesh Mantra](https://open.spotify.com/track/16nKhvMOqdeGrYQF3vurog) | [Raghav Sarangal](https://open.spotify.com/artist/6670l7bZPECHs6RgUhLLu9) | [Ganesh Mantra](https://open.spotify.com/album/5CVVbGzAkku6oG0AI7bE4B) | 26:40 | 2023-05-04 |  |
 | [Ganesha Gayatri: For Success in Anything](https://open.spotify.com/track/2fHWrCwPVLjpJb2ibPFDjr) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 3:44 | 2022-01-24 |  |
+| [Ganesha Pancharatnam](https://open.spotify.com/track/7c8xzpPAMGus1cM6lV4u5H) | [Om Voices Junior](https://open.spotify.com/artist/2AWAl66rPSpY6zi905a9wD) | [Ganesha Pancharatnam](https://open.spotify.com/album/1MKhRxd0kLwWR1UaL5W1xj) | 4:03 | 2023-09-08 |  |
 | [Gayatri Mantra](https://open.spotify.com/track/6pgkNVyeOaCUXmzRbXFNSt) | [Chetna Bhardwaj](https://open.spotify.com/artist/4LTxsVoN6Rkd0l5vw8QTYx) | [Gayatri Mantra](https://open.spotify.com/album/06azPdWYhUcCLbgEyEeVdI) | 41:02 | 2023-06-22 |  |
 | [Gayatri Mantra](https://open.spotify.com/track/1eFNVWquDgTQHAo2lBnztM) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:06 | 2022-01-24 |  |
 | [Gayatri Mantra](https://open.spotify.com/track/6VLGI7ZeWgcAEIgK6xiA5i) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:06 | 2022-08-05 | 2022-11-13 |
@@ -76,7 +77,7 @@
 | [Resonance Meditation with Omkaar \- at 432 Hz](https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p), [Rupa Tiwary](https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm) | [Chants of Moksha \- Omkaar \- at 432 Hz](https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s) | 9:57 | 2022-01-24 |  |
 | [Restorative Mantras](https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d) | [Morpheus Ascending](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0OZgLEU0uhjVxIPpNlrIfL) | 1:39 | 2022-08-05 |  |
 | [Restorative Mantras](https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo) | 1:39 | 2022-01-24 | 2022-10-09 |
-| [Saraswati Rhythm](https://open.spotify.com/track/1AwW1ElTc2Gb844Or8nmcu) | [Bass Rebellion](https://open.spotify.com/artist/7D2HBoOVlNYCwvIXLWALXe) | [Saraswati Rhythm](https://open.spotify.com/album/4ulkvp5UVQf3DI0FHF8bmR) | 3:05 | 2023-05-23 |  |
+| [Saraswati Rhythm](https://open.spotify.com/track/1AwW1ElTc2Gb844Or8nmcu) | [Bass Rebellion](https://open.spotify.com/artist/7D2HBoOVlNYCwvIXLWALXe) | [Saraswati Rhythm](https://open.spotify.com/album/4ulkvp5UVQf3DI0FHF8bmR) | 3:05 | 2023-05-23 | 2023-09-09 |
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/10hYBr0KXyCNtuvc388Rn8) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7) | 45:17 | 2022-01-24 | 2022-07-29 |
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/3wPDOm3yUZdZtxjkDTIUcm) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:17 | 2022-08-05 | 2022-11-13 |
 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 | 2022-01-24 |  |

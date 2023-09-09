@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263250,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
+    },
+    {
+      "album": {
         "name": "bad day",
         "url": "https://open.spotify.com/album/7vTPUsgBPNHmB3T1hoQOJO"
       },
@@ -7499,6 +7517,24 @@
     },
     {
       "album": {
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+    },
+    {
+      "album": {
         "name": "In My Bag",
         "url": "https://open.spotify.com/album/2oXWsC6HbR7tuMOkPgdZBJ"
       },
@@ -11566,7 +11602,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 200411,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/7EKWWTPclVRF5iQatYe5Zz"
@@ -16046,7 +16082,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 169134,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/5WIMzFD706brPJqjLkumg7"

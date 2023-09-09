@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Autumn Crossing",
+        "url": "https://open.spotify.com/album/1B3bnB6E5Vf3L4aAq7azYQ"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247833,
+      "name": "Travelers I",
+      "url": "https://open.spotify.com/track/4UsXwZxYdCkYGsfukhVQwf"
+    },
+    {
+      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },

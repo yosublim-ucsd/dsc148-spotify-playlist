@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 214738,
       "name": "Bitcha",
       "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 224737,
       "name": "Lo Que Queda",
       "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
@@ -6078,7 +6078,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 187874,
       "name": "NO ME ATRAE",
       "url": "https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP"
@@ -6176,10 +6176,32 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Nocturno",
       "url": "https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9"
+    },
+    {
+      "album": {
+        "name": "Nos Pasa Lo Mismo",
+        "url": "https://open.spotify.com/album/0S052giv0KheknU0PiEY5C"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181790,
+      "name": "Nos Pasa Lo Mismo",
+      "url": "https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri"
     },
     {
       "album": {
@@ -6282,7 +6304,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 181243,
       "name": "Nubil",
       "url": "https://open.spotify.com/track/3zsRHcAWaSSFKM9vVEeagj"
@@ -7143,6 +7165,24 @@
     },
     {
       "album": {
+        "name": "Sobre habitar la depresi\u00f3n intermedia",
+        "url": "https://open.spotify.com/album/3jF9U4Zd7HdiRyvYrpJvaC"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222257,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/4p9iPAQ5q3twlJJ0x8HInz"
+    },
+    {
+      "album": {
         "name": "Polvo de Estrellas",
         "url": "https://open.spotify.com/album/29wM86WH6LmH3F7AtQN3Eh"
       },
@@ -7284,7 +7324,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 156363,
       "name": "Pussy Pancake",
       "url": "https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM"
@@ -7793,6 +7833,24 @@
     },
     {
       "album": {
+        "name": "Sacate",
+        "url": "https://open.spotify.com/album/1Mb5H6c78tWubxOw3XvcyN"
+      },
+      "artists": [
+        {
+          "name": "Norma",
+          "url": "https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173507,
+      "name": "Sacate",
+      "url": "https://open.spotify.com/track/4chakHsDAQ68Pn2ul2mBYl"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/4KFc9asML3zShZKOuqEvUN"
       },
@@ -8296,6 +8354,24 @@
       "duration_ms": 266020,
       "name": "Tanta Data",
       "url": "https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId"
+    },
+    {
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6hOeOUCzqeWwdawU79U6sj"
+      },
+      "artists": [
+        {
+          "name": "Malta Caramelo",
+          "url": "https://open.spotify.com/artist/4nMH5OWOUdGltvRpXDydPm"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/6IFhWqaQzokNivDjSiHpc0"
     },
     {
       "album": {
@@ -8896,7 +8972,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 172250,
       "name": "Un Secreto",
       "url": "https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ"
@@ -9432,7 +9508,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 91500,
       "name": "Zona de Fumadores",
       "url": "https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f"

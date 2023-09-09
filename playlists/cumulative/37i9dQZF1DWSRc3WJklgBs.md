@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,193 songs - 2 day 21 hr 56 min
+1,194 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Heaven](https://open.spotify.com/track/09wrW4mdaoBrOFY6KSR94h) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Dancehall](https://open.spotify.com/album/6WbMZYQ1SAU8HrgZSuH0xJ) | 3:39 | 2019-08-09\* | 2019-08-27 |
 | [Heavenly Side](https://open.spotify.com/track/1xddmaN7Ivc2SQ940oBskZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Heavenly Side](https://open.spotify.com/album/5zboD55XbkrZ3JJkvXC2EE) | 4:00 | 2021-07-10 | 2022-12-03 |
 | [Heavy Metal Love](https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [Heavy Metal Love](https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH) | 2:12 | 2022-07-08 | 2023-04-09 |
-| [Helium](https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Helium](https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ) | 3:11 | 2023-06-16 |  |
+| [Helium](https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Helium](https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ) | 3:11 | 2023-06-16 | 2023-09-09 |
 | [Here](https://open.spotify.com/track/1rAlHGfpnHz3kF2WwLGXw6) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Here](https://open.spotify.com/album/4hQ3OP8m5ZIV7IlqfSiwmC) | 3:14 | 2021-09-25 | 2022-05-14 |
 | [Here For You \(feat\. sad alex\)](https://open.spotify.com/track/3PIjrbCjKKNmR84vPf172R) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 2:47 | 2019-08-09\* | 2020-03-29 |
 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2019-08-20 | 2020-10-30 |
@@ -623,6 +623,7 @@
 | [Lost](https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Lost](https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a) | 3:14 | 2023-07-14 |  |
 | [Lost on You](https://open.spotify.com/track/6c14PL4z50pRfwHxtNktK8) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 3:20 | 2019-08-09\* | 2020-03-29 |
 | [LOVE](https://open.spotify.com/track/3ptICUK13Io2zxloCk2l1r) | [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [NDR8](https://open.spotify.com/artist/5iIIC0E6BovYgTBmd2Pwsy) | [LOVE](https://open.spotify.com/album/7vM6IqAZRV4JGE6sMzTfdj) | 3:04 | 2019-08-09\* | 2020-03-29 |
+| [Love](https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Love](https://open.spotify.com/album/31UkJWhnRd88KsL0PiD4G2) | 2:50 | 2023-09-08 |  |
 | [Love](https://open.spotify.com/track/3u7WB6o8qiJCsAgLZ6fiWW) | [DJ DLG](https://open.spotify.com/artist/3r3jiKdeCOhcI7NcHjOP7Z) | [Love](https://open.spotify.com/album/2wmOhtIZE2S2Aj8o12th19) | 3:03 | 2020-06-04 | 2021-07-17 |
 | [Love & Devotion](https://open.spotify.com/track/5mtaO4OWy9n2smVSNzkR7A) | [Jenaux](https://open.spotify.com/artist/4pWvD2wQ6paqieVN9bE8yv), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Love & Devotion](https://open.spotify.com/album/2SFvFikMXnsVUdKrKGqJuc) | 4:10 | 2019-08-09\* | 2020-03-29 |
 | [Love Affair](https://open.spotify.com/track/078RYWTtCzEcNCjvdP4yHL) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq) | [001 EP](https://open.spotify.com/album/3uYSVjEDYM4sgw6G9txJkL) | 3:48 | 2021-10-23 | 2022-05-14 |

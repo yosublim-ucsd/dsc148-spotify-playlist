@@ -1693,6 +1693,24 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/04jYznyMPGDRW0SxmsvywD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245619,
+      "name": "More",
+      "url": "https://open.spotify.com/track/0gXTRiC1YckfXlxP8KexYk"
+    },
+    {
+      "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 184653,
       "name": "Walking Song",
       "url": "https://open.spotify.com/track/7faNYwo9q4rEdneW1sBJYj"

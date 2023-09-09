@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-335 songs - 16 hr 48 min
+336 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Danger Zone](https://open.spotify.com/track/48gfj7REhcvZjASWAPEo68) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Danger Zone](https://open.spotify.com/album/2AFI0lCU0ILKZW9Plkno6n) | 2:52 | 2019-10-04 | 2022-02-12 |
 | [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-01-06 |  |
 | [DayNight](https://open.spotify.com/track/2avFBTHnq0gF9Rd1M0Rrs9) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [DayNight](https://open.spotify.com/album/1BE0wCj8cXgr2N6q1ozNhV) | 2:43 | 2022-09-16 |  |
-| [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 |  |
+| [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 | 2023-09-09 |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2021-10-12 | 2022-02-12 |
 | [Distance](https://open.spotify.com/track/6F1xfWVgC2lPvNWQdC99s6) | [Ömer Bükülmezoğlu](https://open.spotify.com/artist/13RGY36nTZw0ezEedQp7rs) | [Distance](https://open.spotify.com/album/0zm3CGDdiATjjDNfybeXEl) | 3:58 | 2022-10-14 |  |
 | [Distant Dream](https://open.spotify.com/track/74PDnsWKhsouVvvr6d9xg7) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Distant Dream](https://open.spotify.com/album/5Np5GiGMga97adU4oSvtma) | 2:42 | 2022-11-25 |  |
@@ -131,6 +131,7 @@
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2022-02-11 |  |
 | [Heartbeat](https://open.spotify.com/track/6GRpj6J1fpVqtUgnsth0Ea) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Heartbeat](https://open.spotify.com/album/2avjmz9VXH5vcXrjrHy1Yv) | 4:25 | 2021-10-12 | 2022-02-12 |
 | [Hearts](https://open.spotify.com/track/5stT80YwtT97Lj24NVzGmS) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Hearts](https://open.spotify.com/album/1X0liVnRw1YTEbb1vGz8yl) | 3:38 | 2022-02-11 |  |
+| [Heat Wave](https://open.spotify.com/track/59q8vvH0Eo4Wi1MhgUhtl0) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Heat Wave](https://open.spotify.com/album/7jJgMxaUWkvoHaE4uwDrwg) | 2:21 | 2023-09-08 |  |
 | [Hidden Village](https://open.spotify.com/track/1XlLmcGawSaHSysOg5YPbq) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [Hidden Village](https://open.spotify.com/album/3vr5I9Jb9vgRuFsRfTfhnQ) | 2:37 | 2021-10-12 | 2022-02-12 |
 | [HONEST ENOUGH](https://open.spotify.com/track/4AYTCusq44mkt5Vzbm1YBO) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [HONEST ENOUGH](https://open.spotify.com/album/3lsv1KP0pNAdNqXRenFQVu) | 2:56 | 2019-10-04 | 2022-02-12 |
 | [Hot Sand](https://open.spotify.com/track/3QwAIXZNTwWCGQCB1Mq25D) | [Neon Zebra](https://open.spotify.com/artist/6wql856Fi2nCHEqpdCGiUq), [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS) | [Summer Thoughts](https://open.spotify.com/album/6aeUpiVY8eoW8L4OA7lFBg) | 2:56 | 2022-02-11 |  |

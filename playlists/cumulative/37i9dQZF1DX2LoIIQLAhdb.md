@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Lynda
 
-182 songs - 8 hr 51 min
+183 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Colombe](https://open.spotify.com/track/5TABk5YGMSEzSfiY4wml4j) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Colombe](https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq) | 2:42 | 2023-03-30 | 2023-04-28 |
 | [Comme avant \(feat\. Low Jay\)](https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:53 | 2023-02-02 |  |
 | [Comme mon ex](https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Comme mon ex](https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh) | 2:40 | 2023-04-06 | 2023-05-19 |
-| [Comme toi \(Acoustique\)](https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s) | 2:34 | 2023-09-07 |  |
+| [Comme toi \(Acoustique\)](https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s) | 2:34 | 2023-09-07 | 2023-09-09 |
+| [Comme toi \- Acoustique](https://open.spotify.com/track/1Hc4GdYRgEZIPpdmopnAui) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/30Zdh9wOGIaWvotg9Cno5e) | 2:34 | 2023-09-07 |  |
 | [Confiance](https://open.spotify.com/track/1xeaSWiXWVHj34wvcE0ZXI) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Confiance](https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt) | 2:57 | 2022-11-24 | 2023-02-17 |
 | [Corps Chaud](https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [CAMELLIA](https://open.spotify.com/album/6g6FiZNOFZ29EMnCDKG4s4) | 2:34 | 2023-02-16 | 2023-03-10 |
 | [CV \(feat\. RK\)](https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Enchanté](https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu) | 2:54 | 2023-03-30 |  |

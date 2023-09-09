@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-104 songs - 6 hr 8 min
+105 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 | 2023-06-02 |  |
 | [Slow Movin' Outlaw \(with Lacy J\. Dalton\) \(with Lacy J\. Dalton\)](https://open.spotify.com/track/08ec3DeBtsxHgfo4JpIgvo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Half Nelson](https://open.spotify.com/album/5aiJhTHf9AaDptNpOrAwyE) | 3:32 | 2023-04-14 |  |
 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 | 2023-04-14 |  |
+| [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-09-08 |  |
 | [Somewhere South of Macon](https://open.spotify.com/track/72J7xbHVfQNB4WMqzHqutu) | [Marshall Chapman](https://open.spotify.com/artist/10NyEvFwxog3iXO1IBYla9) | [Me, I'm Feelin' Free](https://open.spotify.com/album/6bdiWNrvbYmojW1IYQ2bXc) | 3:26 | 2023-04-14 |  |
 | [Southern Babylon](https://open.spotify.com/track/5ElasZohobE6WPwvP5YT5S) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 4:05 | 2023-04-14 |  |
 | [Stone](https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 5:35 | 2023-04-14 |  |

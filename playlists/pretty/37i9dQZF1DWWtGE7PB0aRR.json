@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 123857,
+  "num_followers": 123931,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTIyZTdmY2Q2ODI4NmQ3ODJhYmJiNmFhMDBmZTdlYzQ1YTFiNDU5",
+  "snapshot_id": "MCwwZWYxMzg1NWZhMDVhNmY5ODgwNDIwNTI4MjNlMmI3NTMxZTliZDQ2",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Who Do You Love - The Anthology",
-        "url": "https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb"
-      },
-      "artists": [
-        {
-          "name": "Juicy Lucy",
-          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Who Do You Love?",
-      "url": "https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "12 X 5",
         "url": "https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 167226,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Who Do You Love - The Anthology",
+        "url": "https://open.spotify.com/album/5k8WOyyBWIkB2egLehwOPb"
+      },
+      "artists": [
+        {
+          "name": "Juicy Lucy",
+          "url": "https://open.spotify.com/artist/7pngx7BrbiM6QFuaHyw0RY"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "Who Do You Love?",
+      "url": "https://open.spotify.com/track/7bX0AR2q50IfDu0TnmTdwP"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -561,6 +561,22 @@
       "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
     },
     {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "The Rolling Stones",
+        "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Little By Little - Mono Version",
+      "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Precious Little",
@@ -577,36 +593,20 @@
       "url": "https://open.spotify.com/track/7tPJRpGrQow5dUO1xJijy0"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
-        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 208493,
-      "name": "The Train Kept A-Rollin'",
-      "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "The Rolling Stones",
-        "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Little By Little - Mono Version",
-      "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
+      "duration_ms": 225125,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -625,20 +625,20 @@
       "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         }
       ],
-      "duration_ms": 225125,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI"
+      "duration_ms": 208493,
+      "name": "The Train Kept A-Rollin'",
+      "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Blues Power",
-      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 500626,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Blues Power",
+      "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
     },
     {
       "added_at": "2021-04-22 22:35:02",

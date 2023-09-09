@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-277 songs - 13 hr 32 min
+279 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Carpet Care](https://open.spotify.com/track/2QFdlJGilcv9oxFfFvsL9x) | [GRNY](https://open.spotify.com/artist/0QAkOxdHSnNUsk1WlTXKOu) | [Carpet Care](https://open.spotify.com/album/0v0fIWyDKeQiSANpojIncc) | 2:40 | 2023-05-22 |  |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-11-11 | 2022-10-07 |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2021-11-11 |  |
+| [Chamomile](https://open.spotify.com/track/6RG9iT0BaXGFgqJGVz0Bli) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Chamomile](https://open.spotify.com/album/0EJvZ56RhbTwzzkIePeCPi) | 2:18 | 2023-09-08 |  |
 | [Chapterhouse](https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv) | [Haze Doe](https://open.spotify.com/artist/3Dnz1jt5f6SvtnxTsW9qKe) | [Chapterhouse](https://open.spotify.com/album/22loNe3xQRDMAbzp3KDNrJ) | 2:50 | 2021-11-11 | 2022-05-11 |
 | [Chillity](https://open.spotify.com/track/4aR5l7Ry6NqflPVgxzxLfH) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Chillity](https://open.spotify.com/album/4dbLYtRaYIZCLountdyt4I) | 2:36 | 2022-05-20 | 2022-09-09 |
 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 | 2021-11-11 | 2022-09-02 |
@@ -248,6 +249,7 @@
 | [Techo Con Sol](https://open.spotify.com/track/7rhR91DX8o2nx7e8BvSlZS) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Techo Con Sol / Caprice](https://open.spotify.com/album/1cWXNpUajWvpJaWLpMavr1) | 3:08 | 2022-12-09 |  |
 | [Tenacious Aura](https://open.spotify.com/track/5KNESkEEm92UTYQ5psdIK6) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [Tenacious Aura](https://open.spotify.com/album/445wpYYsV11OvhiMIcIjLJ) | 4:09 | 2022-05-20 | 2022-07-29 |
 | [Thanks To You](https://open.spotify.com/track/1a3kjYRNW9vrvn8VG7wmv5) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [Thanks To You](https://open.spotify.com/album/0lHve23h4PTqyf9L9b53Uy) | 3:07 | 2023-03-10 |  |
+| [The Lagoon](https://open.spotify.com/track/4IMYKdOmUjOxsYKHZ4Ufbl) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [The Lagoon](https://open.spotify.com/album/014h15avf8lcxBMYKl1rA4) | 2:56 | 2023-09-08 |  |
 | [The Lighthouse](https://open.spotify.com/track/4C8vDZVeXTs4coyFq914Wh) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [The Lighthouse](https://open.spotify.com/album/5jVus1wCuzCbYKI8VFA9IN) | 2:12 | 2021-11-11 |  |
 | [The Propeller \- Chill out Mix](https://open.spotify.com/track/10ydbGi9AazOlYGrr1MgHU) | [Deep Diggaz](https://open.spotify.com/artist/5cYytmWSIOZxcTcid2FQ7c) | [The Propeller \(Chill out Mix\)](https://open.spotify.com/album/4CP3pAgRpDrPRa6QhufeSu) | 2:48 | 2021-11-11 | 2023-08-12 |
 | [Tidal Coasts](https://open.spotify.com/track/2zSahxci13KeL5m8ec3yOf) | [Under Neon Skies](https://open.spotify.com/artist/1VU82xmzJyRHGD4IqNKC2H) | [Tidal Coasts](https://open.spotify.com/album/4NYj1xsoq63bVA7mCGm99F) | 3:08 | 2021-11-11 |  |

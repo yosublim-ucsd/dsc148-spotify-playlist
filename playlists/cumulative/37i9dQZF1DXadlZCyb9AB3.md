@@ -2,9 +2,9 @@
 
 ### [Riot Grrrl](https://open.spotify.com/playlist/37i9dQZF1DXadlZCyb9AB3)
 
-> The defining songs of the riot grrrl era, and the bands keeping their spirit alive\. Cover: Sleater\-Kinney
+> The defining songs of the riot grrrl era, and the artists keeping their spirit alive\. Cover: Sleater\-Kinney
 
-137 songs - 6 hr 43 min
+145 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [And Breeding](https://open.spotify.com/track/2AD0AAd4bIU6sLOVGkdejy) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Bodies and Control and Money and Power](https://open.spotify.com/album/6SzzcE8YBk0KsMoIZ5jVg4) | 3:11 | 2021-06-11 | 2023-05-01 |
 | [And Breeding](https://open.spotify.com/track/3pYiZe0qoZBmJqqqBmXwFm) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Bodies and Control and Money and Power](https://open.spotify.com/album/7utZxewdKg098arjQSCuXS) | 3:11 | 2021-06-11 | 2022-07-29 |
 | [And Breeding](https://open.spotify.com/track/68Azu5ktU8uFdyQ3pixt7H) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Bodies and Control and Money and Power](https://open.spotify.com/album/5KY1mOFqNlgSyn5Y2gQ4oA) | 3:11 | 2021-06-11 |  |
+| [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 | 2023-09-08 |  |
 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 | 2021-06-11 |  |
 | [Be Yr Mama](https://open.spotify.com/track/6j3lskGn1FgtR9MmGp5M4t) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/1lcVEQrUSbGl7qRacBxTav) | 2:52 | 2021-06-11 | 2022-07-29 |
 | [Becky](https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Get Damaged](https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk) | 3:00 | 2021-06-11 |  |
@@ -86,6 +87,7 @@
 | [I Live off You](https://open.spotify.com/track/13AjlzBBQUhU5j34e5LEyc) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/7nZ0F572fluFD4tQCFf3z7) | 2:09 | 2021-06-11 |  |
 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/17ICAeG7PWammUBEqexai8) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/41ouIzBfFmNZGUlQgp3IGi) | 2:36 | 2021-06-11 | 2022-07-29 |
 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 | 2021-06-11 |  |
+| [i'm not crying you're crying](https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 2:49 | 2023-09-08 |  |
 | [In the Summer](https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf) | [Fastbacks](https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT) | [Very, Very Powerful Motor](https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi) | 3:18 | 2021-06-11 |  |
 | [Let Go of the Past](https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ) | [The Tuts](https://open.spotify.com/artist/034JSYadRJsXRgY61c7HSq) | [Update Your Brain](https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD) | 3:14 | 2021-06-11 |  |
 | [Let's Make Out](https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 2:55 | 2021-06-11 |  |
@@ -112,6 +114,7 @@
 | [Photobooth](https://open.spotify.com/track/3QrZ60PrEfFXbmaVXcfpXH) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Wednesday](https://open.spotify.com/album/0cLTNLKqv7a71ohMsGKY7h) | 2:28 | 2021-06-11 |  |
 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 | 2021-06-11 |  |
 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 | 2021-06-11 |  |
+| [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 | 2023-09-08 |  |
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2021-06-11 |  |
 | [Seafood](https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 2:32 | 2023-06-02 |  |
 | [Second Skin](https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching the Bully](https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO) | 2:57 | 2021-06-11 |  |
@@ -119,9 +122,11 @@
 | [Semiserious](https://open.spotify.com/track/4NkWrgXMQfZA2VeSAd9z7u) | [Mocket](https://open.spotify.com/artist/3SPRKuovzRrpWnvlr1KQrU) | [Fanfare](https://open.spotify.com/album/1zygk2FNA6jzCXkGAXOB21) | 1:40 | 2021-06-11 |  |
 | [Shadow](https://open.spotify.com/track/0LXibkUgRjhgjl6LIBvMpk) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL) | 2:40 | 2021-06-11 |  |
 | [Shadow](https://open.spotify.com/track/3WLxWQTE7bIYQ6ceZww7Mm) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/1MF35ofwAGikdUzvhIFr7Z) | 2:40 | 2021-06-11 | 2023-04-29 |
+| [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-09-08 |  |
 | [Shitlist](https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:55 | 2021-06-11 |  |
 | [Shove \- Remastered](https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Smell the Magic](https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB) | 3:13 | 2021-06-11 |  |
 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 | 2021-06-11 |  |
+| [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 | 2023-09-08 |  |
 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 | 2021-06-11 |  |
 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 | 2021-06-11 | 2023-04-29 |
 | [Standing In the Way of Control](https://open.spotify.com/track/76rCrPvrlLO4CyqAeaLu4o) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/0yj50hXLNjoNbluZJgwMrR) | 4:16 | 2021-06-11 | 2022-07-29 |
@@ -129,6 +134,7 @@
 | [Strawberry Gashes](https://open.spotify.com/track/6BbUeBm35cYoGUy70rqsG8) | [Jack Off Jill](https://open.spotify.com/artist/5ybsLFsFrRFXgdklfMryWD) | [Clear Hearts Grey Flowers](https://open.spotify.com/album/7GmU3mfzXDwS68kpuFMczP) | 3:43 | 2021-06-11 |  |
 | [Super Crush](https://open.spotify.com/track/1rflg5WUTBLztF4xeFQTmh) | [Tiger Trap](https://open.spotify.com/artist/0hTUZPp1ELWpYFuSYoNPgB) | [Tiger Trap](https://open.spotify.com/album/6H872imO1XZ8Hner8kUa0M) | 2:12 | 2021-06-11 | 2022-07-29 |
 | [Super Crush](https://open.spotify.com/track/2u8rJwKu3r9P5M6ocsXKJW) | [Tiger Trap](https://open.spotify.com/artist/0hTUZPp1ELWpYFuSYoNPgB) | [Tiger Trap](https://open.spotify.com/album/5iSD3c3dhnsGdgKu0cPhQX) | 2:12 | 2021-06-11 |  |
+| [superiority complex \(big noise\)](https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [FREE I.H: This Is Not the One You've Been Waiting For](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw) | 1:34 | 2023-09-08 |  |
 | [Supermodel \- Superficial](https://open.spotify.com/track/54tgCeaVykmuV0Ood4KHvy) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/5gSgZywooEonjKhqCirXD7) | 3:20 | 2021-06-11 |  |
 | [Supermodel \- Superficial](https://open.spotify.com/track/7a6Dhd4897ZBnlkA9H6BYe) | [Voodoo Queens](https://open.spotify.com/artist/713dOrzih7UQvUmok0Hft4) | [Kenuwee Head](https://open.spotify.com/album/1OHILieJzT08QXlAvPXcKc) | 3:20 | 2021-06-11 | 2022-07-29 |
 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 | 2021-06-11 |  |
@@ -138,6 +144,7 @@
 | [Volcano Girls](https://open.spotify.com/track/6ifDwKH8OlIWPcXuWMyST2) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [Eight Arms To Hold You](https://open.spotify.com/album/1hqpIXsb19ux5c0rXNlJbq) | 3:18 | 2021-06-11 | 2022-07-29 |
 | [Volcano Girls](https://open.spotify.com/track/3cMliO9emUSa4d1Ap2MbfW) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [Eight Arms To Hold You](https://open.spotify.com/album/5ZqOSlcQ0fA7MZOgvpOJT5) | 3:18 | 2021-06-11 |  |
 | [We Don't Play Guitars](https://open.spotify.com/track/6gftydYIenhPZnox95KU7N) | [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV) | [99 Cents](https://open.spotify.com/album/6BUmp9iDaIOCJZwZ5riq0q) | 3:55 | 2021-06-11 |  |
+| [Where's My Wife](https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv) | [Willow](https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0) | 3:48 | 2023-09-08 |  |
 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 | 2021-06-11 |  |
 | [Worry With You](https://open.spotify.com/track/4wDQgrs6Ymm6Ufpu5qWb7N) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/2EQxYuMIrAs2SjeSZ4iwxA) | 3:51 | 2021-06-11 | 2023-06-03 |
 | [Worry With You](https://open.spotify.com/track/61gZVgJwD8TYKQXkTX3pJg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Path of Wellness](https://open.spotify.com/album/1eUPlL6mb3jmAOJGylGgK1) | 3:51 | 2021-06-11 | 2022-07-29 |
@@ -145,5 +152,6 @@
 | [Wrap It Up](https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 3:25 | 2021-06-11 |  |
 | [You](https://open.spotify.com/track/0T4QLWiZMgwjqkyHTky3P1) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/2vurTwlVL3loAEGFN5p6z0) | 2:49 | 2021-06-11 |  |
 | [You](https://open.spotify.com/track/67YmlYsvLQNzTxmtf34Edk) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line: The Anthology](https://open.spotify.com/album/7zLCnZO3DvbqFKciE2i726) | 2:49 | 2021-06-11 | 2022-07-29 |
+| [Your Mom](https://open.spotify.com/track/1RYYWpZAFqkRKAjyp8EKzW) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [THICK](https://open.spotify.com/album/3gfufUzwziwEigzdC507KP) | 1:24 | 2023-09-08 |  |
 
 \*This playlist was first scraped on 2022-02-20. Prior content cannot be recovered.

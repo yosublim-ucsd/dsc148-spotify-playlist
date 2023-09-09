@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. ",
-  "num_followers": 238922,
+  "num_followers": 239085,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDI4M2NkNjdkZGU2MjVkN2IyYzc0NjY3NWExYTk1ODBhZWU0ZmEz",
+  "snapshot_id": "MCwxNzc3ZTdlOWM0MDA2YWU1OTVhZjIzMWNkMzI1MWE2Zjk5NDc0ODMy",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Broken Window Serenade",
-      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 204352,
       "name": "Something to Talk About",
       "url": "https://open.spotify.com/track/7ptJYMKI7Y1iWdqEZtBMGE"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Broken Window Serenade",
+      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+      "duration_ms": 197997,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy"
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 335622,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd"
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy"
       },
       "artists": [
         {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 197997,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
+      "duration_ms": 335622,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Less Wise",
-        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 300680,
-      "name": "Hippies and Cowboys",
-      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Love Me Instead",
         "url": "https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 181560,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Less Wise",
+        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Hippies and Cowboys",
+      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Ballad Of A Southern Man",
-      "url": "https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 177866,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Ballad Of A Southern Man",
+      "url": "https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Lifers",
-        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Must Be The Whiskey",
-      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 176226,
       "name": "Troubadour",
       "url": "https://open.spotify.com/track/4qjmnM1aYvayCTDd0uuRKH"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Lifers",
+        "url": "https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Must Be The Whiskey",
+      "url": "https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 254653,
-      "name": "Dear Rodeo",
-      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
+      "duration_ms": 254653,
+      "name": "Dear Rodeo",
+      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Broke Ass Kid",
-        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 242325,
-      "name": "Broke Ass Kid",
-      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 223062,
       "name": "Love",
       "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Broke Ass Kid",
+        "url": "https://open.spotify.com/album/2HfPwB24BxVvoZJf6aDVAP"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 242325,
+      "name": "Broke Ass Kid",
+      "url": "https://open.spotify.com/track/22NJ4gaxcMI4j5Fg8dbnug"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Humble Folks",
-        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 231146,
-      "name": "One I Want",
-      "url": "https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 241786,
       "name": "Tequila Does",
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Humble Folks",
+        "url": "https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 231146,
+      "name": "One I Want",
+      "url": "https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Wicked Twisted Road",
-        "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
-      },
-      "artists": [
-        {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Wicked Twisted Road",
-      "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Good Ones Never Last (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 206643,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Wicked Twisted Road",
+        "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
+      },
+      "artists": [
+        {
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Wicked Twisted Road",
+      "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Snake Farm",
-        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Snake Farm",
-      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "The Last Resort: Greetings From",
         "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 207773,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Snake Farm",
+        "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Snake Farm",
+      "url": "https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR"
     },
     {
       "added_at": "2023-09-01 04:00:00",

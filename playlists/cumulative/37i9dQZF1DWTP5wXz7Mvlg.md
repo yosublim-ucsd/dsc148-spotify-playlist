@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-104 songs - 7 hr 55 min
+105 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Call In Me](https://open.spotify.com/track/0QyBzJDGe81YNJXu4hmW5x) | [Phase](https://open.spotify.com/artist/3VNrSQLu9M0oEoybY7mL53), [Grey Code](https://open.spotify.com/artist/7KzRXWiO7ggx1pbXccMSTm) | [Call In Me](https://open.spotify.com/album/3YHIA65weRT7thGIrOsedL) | 6:24 | 2022-07-11 | 2023-07-22 |
 | [Camels](https://open.spotify.com/track/6Dvbm1h0w7fRcRnqxPOPqo) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 4:30 | 2023-07-21 |  |
 | [Candy Bass](https://open.spotify.com/track/19PlTpVVLSInv7o92X9WND) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [Stranger Danger / Candy Bass](https://open.spotify.com/album/1gCCiszgUt4WZESdnxTzYI) | 3:44 | 2022-07-11 | 2023-07-22 |
-| [Caramel](https://open.spotify.com/track/7iWLJWtzihu0xrJGDk8jQR) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Caramel](https://open.spotify.com/album/4b7NaIi0vnorprCkLjr2q1) | 4:34 | 2023-07-21 |  |
+| [Caramel](https://open.spotify.com/track/3woSieU9aSdXUQsRUmnDsp) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/4nBPbiPjcXskHFjQ3IE63T) | [500](https://open.spotify.com/album/0kV6vns2tdbfSXgq3woZUy) | 4:34 | 2023-07-21 |  |
+| [Caramel](https://open.spotify.com/track/7iWLJWtzihu0xrJGDk8jQR) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX), [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV) | [Caramel](https://open.spotify.com/album/4b7NaIi0vnorprCkLjr2q1) | 4:34 | 2023-07-21 | 2023-09-09 |
 | [Changing Moods](https://open.spotify.com/track/65GTRsXRYgSh6Se0ziQ6ep) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Innerground 100](https://open.spotify.com/album/51VA7pPbQh9AZxv8LDchbS) | 4:29 | 2022-07-11 |  |
 | [CHICA](https://open.spotify.com/track/4Bg8cLW1mKbLmag6WcN0zM) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [CHICA](https://open.spotify.com/album/2qyjqgcVZIFkPMyYD5PFc6) | 3:19 | 2023-07-21 |  |
 | [Come Back](https://open.spotify.com/track/5eBLyfMZMbm6xa69h3LvPU) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:27 | 2023-07-21 |  |

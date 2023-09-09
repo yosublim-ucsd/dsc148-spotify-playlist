@@ -9105,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "My Jesus",
+        "url": "https://open.spotify.com/album/5L2lNa1YbBt0wqX45C6d2C"
+      },
+      "artists": [
+        {
+          "name": "Ehiz d king",
+          "url": "https://open.spotify.com/artist/214ehuQR59ZQabMxJNwZcI"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154539,
+      "name": "My Jesus",
+      "url": "https://open.spotify.com/track/3XOmMhDzaVb4tTah2lUptl"
+    },
+    {
+      "album": {
         "name": "My Light Has Come",
         "url": "https://open.spotify.com/album/1wCsbPQP7vLGq7H97xh1fb"
       },
@@ -9594,6 +9612,28 @@
       "duration_ms": 180271,
       "name": "No dey taya",
       "url": "https://open.spotify.com/track/7BvNh4qb2bZ26zQ5k2k4rp"
+    },
+    {
+      "album": {
+        "name": "No Jokes",
+        "url": "https://open.spotify.com/album/4BxnOXktlEg0qc8vpH6LnX"
+      },
+      "artists": [
+        {
+          "name": "IceberG",
+          "url": "https://open.spotify.com/artist/7x6uIE3cF02iPqfgA9NTQh"
+        },
+        {
+          "name": "LC Beatz",
+          "url": "https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165953,
+      "name": "No Jokes",
+      "url": "https://open.spotify.com/track/2RTWBnTMjfPOjzdgvRJ3lS"
     },
     {
       "album": {
@@ -13192,6 +13232,24 @@
       "duration_ms": 371707,
       "name": "ULINIJUA - Special Version",
       "url": "https://open.spotify.com/track/314xMaImh9biPpmK0pnrs2"
+    },
+    {
+      "album": {
+        "name": "Unarudi Lini",
+        "url": "https://open.spotify.com/album/6hmRcQImi46W5HcArJEkzO"
+      },
+      "artists": [
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212457,
+      "name": "Unarudi Lini",
+      "url": "https://open.spotify.com/track/61Zc74od47dj7dXVuKxsO9"
     },
     {
       "album": {

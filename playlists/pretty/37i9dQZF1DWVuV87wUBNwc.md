@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Doja Cat au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,181,768 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,182,282 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
 | 50 | [Dernière](https://open.spotify.com/track/4dEIdPutdmGRP2zxIXCB4S) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:23 |
 
-Snapshot ID: `MCwyZDRmNjJkMzBhMjg2YWVjZWNiMjdlNTNhMzY2MzJmNWZjMjA0MDRk`
+Snapshot ID: `MCw5ZDM0OTUwMjFhMWY5ZTY3MGMxOWFmMjMyOTJmY2JiMzkwYzlmMWIx`

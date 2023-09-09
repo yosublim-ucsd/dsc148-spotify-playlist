@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. MPH",
-  "num_followers": 198189,
+  "num_followers": 198238,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDUyM2Q1OWE1YjE0Mjk0MGYwYjEwMjZjMmUzMjdkY2JmMTU0MGJj",
+  "snapshot_id": "MCxmM2M4MzBhMzgyM2VmMTliZmEwODc3NDQ2ZDFiMGQ5NjkzZDE4YWRm",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
         "name": "Badman Riddim (feat. Sweetie Irie)",
         "url": "https://open.spotify.com/album/5ELEn4lSOs1X23nVQzcbFK"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 137910,
       "name": "Badman Riddim (feat. Sweetie Irie)",
       "url": "https://open.spotify.com/track/339XYqVhOTiU94uiNHYm6t"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -819,6 +819,26 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Behind the Scenes / Reeces Pieces",
+        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Jess Spink",
+          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
+        }
+      ],
+      "duration_ms": 282890,
+      "name": "Behind the Scenes (feat. Jess Spink)",
+      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 227189,
       "name": "Skanker",
       "url": "https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Behind the Scenes / Reeces Pieces",
-        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Jess Spink",
-          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
-        }
-      ],
-      "duration_ms": 282890,
-      "name": "Behind the Scenes (feat. Jess Spink)",
-      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1355,26 +1355,18 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Hot Flush",
-        "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
       "artists": [
         {
-          "name": "My Nu Leng",
-          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
-        },
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
         }
       ],
-      "duration_ms": 317538,
-      "name": "Hot Flush",
-      "url": "https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225"
+      "duration_ms": 166153,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
     }
   ],
   "unique_name": "Bassline Bangers",

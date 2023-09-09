@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest songs in today's Rock scene. Cover: The Beaches",
+  "description": "The biggest songs in today's Rock scene. Cover: The Glorious Sons",
   "name": "Rock Now",
   "tracks": [
     {
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
+    },
+    {
+      "album": {
         "name": "I Wish You Were Here",
         "url": "https://open.spotify.com/album/79rdMg18u6pvwJLTEFQ8cy"
       },
@@ -584,6 +602,24 @@
       "duration_ms": 165792,
       "name": "Alligator",
       "url": "https://open.spotify.com/track/7Ji5WgryQfftdi7zN4BPUM"
+    },
+    {
+      "album": {
+        "name": "I Am Not Myself",
+        "url": "https://open.spotify.com/album/4EkxYHb1fbV5f4qRYbcE8V"
+      },
+      "artists": [
+        {
+          "name": "Hotel Mira",
+          "url": "https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216471,
+      "name": "Alone In America",
+      "url": "https://open.spotify.com/track/6c9u8M19i0ldTvVULlVVYb"
     },
     {
       "album": {
@@ -695,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Angry",
+        "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226735,
+      "name": "Angry",
+      "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
+    },
+    {
+      "album": {
         "name": "Blink Once",
         "url": "https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT"
       },
@@ -782,7 +836,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
@@ -5750,7 +5804,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 139549,
       "name": "Let's Do Drugs",
       "url": "https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh"
@@ -6648,7 +6702,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 184462,
       "name": "Mama",
       "url": "https://open.spotify.com/track/7C6bJAOyLNZ8UYdNyhIYn1"
@@ -6872,10 +6926,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
+    },
+    {
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/2uc6CdABEnLfz9T6BtAgbQ"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1xXeuTUxxquUoRIMTgBeJi"
     },
     {
       "album": {
@@ -7104,7 +7176,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 186196,
       "name": "Mountains At Midnight",
       "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
@@ -7692,7 +7764,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 210760,
       "name": "Nothing Is Perfect",
       "url": "https://open.spotify.com/track/1dxbQnO42DK5ApHpOMC8n2"
@@ -9428,6 +9500,24 @@
       "duration_ms": 185573,
       "name": "Shine On (feat. The Skints)",
       "url": "https://open.spotify.com/track/2UvbqkBevaTAeiRCafyDrz"
+    },
+    {
+      "album": {
+        "name": "Back To The Water Below",
+        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207849,
+      "name": "Shiner In The Dark",
+      "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
     },
     {
       "album": {
@@ -12342,6 +12432,24 @@
       "duration_ms": 231411,
       "name": "White Buffalo",
       "url": "https://open.spotify.com/track/3joNS4BBA0MW3PhFB3ywFL"
+    },
+    {
+      "album": {
+        "name": "Who Would You Be For Me",
+        "url": "https://open.spotify.com/album/1PedVMTwt52VHigoA1eqac"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Who Would You Be For Me",
+      "url": "https://open.spotify.com/track/10QMwOs8ichrT1LIzDnlXD"
     },
     {
       "album": {

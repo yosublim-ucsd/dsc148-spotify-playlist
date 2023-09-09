@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف :حاتم العراقي
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,513 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,550 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 5 | [من فدوه لضحكته](https://open.spotify.com/track/4DG0ry7yjuSn8MVRgbLwys) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [حاتم العراقي ٢٠٢٣ \- الجزءالأول](https://open.spotify.com/album/7ug9CI0dD9otnTYpQ0Ng6K) | 3:30 |
 | 6 | [Eish Hayatak](https://open.spotify.com/track/4hK51YeHEbVb5dsM27Gnqx) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Eish Hayatak](https://open.spotify.com/album/2f640PgnXmEFaTBzGOCk4Z) | 3:41 |
 | 7 | [Enta Al Houb](https://open.spotify.com/track/1wEBbzQry9zlhJeuXaBapa) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Enta Al Houb](https://open.spotify.com/album/5pgBxuVTiZEzLPx01VULti) | 3:09 |
-| 8 | [Qalby Youhdthni](https://open.spotify.com/track/1GQUH9SXf60kx1Pv6iHqTu) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:15 |
+| 8 | [Qalby Youhdthni](https://open.spotify.com/track/1GQUH9SXf60kx1Pv6iHqTu) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:12 |
 | 9 | [مو حرام](https://open.spotify.com/track/65j4yTnvmKkcNCvRmXfqjA) | [مهند المرسومي](https://open.spotify.com/artist/7xzXw59hc1bIsERylCT2Tu) | [مو حرام](https://open.spotify.com/album/1aJXH3vn38aCw2Yx547PLl) | 2:57 |
 | 10 | [Ana Bedonek](https://open.spotify.com/track/1D9h2XfySn0sRVlbyR1YGJ) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ana Bedonek](https://open.spotify.com/album/2OzInnyE7d9zhDechIBN2k) | 3:32 |
 | 11 | [Kol Hayaty](https://open.spotify.com/track/4WHn7lvzx5azWQsfw8yB9J) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Kol Hayaty](https://open.spotify.com/album/4dqxjgz2aeyDoXUdIGlw8G) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 49 | [Gissah](https://open.spotify.com/track/6i7tFmWmfP0Un7nPIkSpaY) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Gissah](https://open.spotify.com/album/2mWcaTK4MDGlSDrvOnPy9x) | 0:59 |
 | 50 | [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 |
 
-Snapshot ID: `MCxkOWUzZGM3YTA4NGFjMGEwNWY4NmNiMGNiOGQwYjZlMjg4MjY3Yjk0`
+Snapshot ID: `MCw3ODYyZjJiNzA1ZjUyNDY0YmVhMWU5N2FjODJjYjU0MDAwN2E0MmFh`

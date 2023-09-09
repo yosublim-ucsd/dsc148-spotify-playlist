@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-299 songs - 1 day 4 hr 39 min
+300 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Marijuanaut's Theme](https://open.spotify.com/track/7uDRYzCgOPTYDuTSfNpuxo) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [The Sciences](https://open.spotify.com/album/790MeSzafcgXNCoY2AagnP) | 6:39 | 2021-11-30 | 2022-07-25 |
 | [Marijuanaut's Theme](https://open.spotify.com/track/6zIcwUvXpw1cTJWYGYdpX4) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [The Sciences](https://open.spotify.com/album/6X0ErPKlQAxQDhWKNprz7u) | 6:40 | 2022-04-28 | 2023-03-23 |
 | [Master Of The Sky](https://open.spotify.com/track/7IDflO9LXzeeUX2DiW3P1G) | [Moon Coven](https://open.spotify.com/artist/6Ktl9VWpqA6DwgrQQpdwFd) | [Haramukh High / Master Of The Sky](https://open.spotify.com/album/3iPfYwvyUleBF8z4y1cPE0) | 5:34 | 2021-11-30 | 2021-12-28 |
+| [Megalomania](https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h), [Firestone](https://open.spotify.com/artist/0TEi1w5vnsyb25Kz1sObbp) | [Fuzzsplit of the Century](https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04) | 3:57 | 2023-08-11 |  |
 | [Messiah](https://open.spotify.com/track/52gU2shOCmGDbLlyHDpBCH) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Holy Shit](https://open.spotify.com/album/7AHwo06htB7Lz6zNGkdy3P) | 4:28 | 2022-01-14 | 2022-01-15 |
 | [Mirrors](https://open.spotify.com/track/1IsXC78RKIQr7AhGEDE9zM) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Mirrors](https://open.spotify.com/album/3ElBCupbHmxzXTpzoz6pwe) | 7:16 | 2021-11-30 | 2022-07-27 |
 | [Mississippi King](https://open.spotify.com/track/0N6c8BDycvkW7clYOIMCuP) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/4hltq2QquwWvTOUtgGdVXQ) | 3:34 | 2021-11-30 | 2022-07-24 |
@@ -251,7 +252,7 @@
 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 | 2021-11-30 | 2022-07-29 |
 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:56 | 2022-04-28 |  |
 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 | 2021-11-30 |  |
-| [Superjudge](https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt) | 6:49 | 2023-03-22 |  |
+| [Superjudge](https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt) | 6:49 | 2023-03-22 | 2023-09-09 |
 | [Sweet Leaf \- 2014 Remaster](https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2014 Remaster\)](https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D) | 5:04 | 2022-02-22 |  |
 | [SXSPLXN](https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6) | [Nicola Wincenc](https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI) | [SXSPLXN](https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM) | 3:07 | 2022-01-14 | 2023-06-01 |
 | [Ten](https://open.spotify.com/track/620pwLOTHYveFujH6sCK0s) | [Karma To Burn](https://open.spotify.com/artist/1tMtHqVsdmW0Yj9f4YnnHq) | [Karma to Burn – Slight Reprise](https://open.spotify.com/album/6SMnndppV6rNjRSneBvvtf) | 2:57 | 2022-01-14 | 2022-02-13 |

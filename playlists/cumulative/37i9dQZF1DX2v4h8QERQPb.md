@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-224 songs - 11 hr 31 min
+225 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [REPRESENA](https://open.spotify.com/track/7b3gQL4a0Zf7rErbM0xcgv) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [REPRESENA](https://open.spotify.com/album/3NU76dVD7TjFVDzXuq3lA9) | 2:44 | 2021-11-26 |  |
 | [REQUIEM](https://open.spotify.com/track/1SKytz4jM5DELEFWSo7yoi) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [REQUIEM](https://open.spotify.com/album/3rzin0QPEuq4EZXmSQd4nK) | 3:35 | 2021-11-26 | 2023-05-13 |
 | [Resurgir](https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Resurgir](https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx) | 2:32 | 2023-07-14 |  |
+| [Richy Boy](https://open.spotify.com/track/4ymyKoEPJmHyxjQmECBZSs) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3) | [Richy Boy](https://open.spotify.com/album/2Yx4vSgssvJu3qZR09iEH4) | 1:42 | 2023-09-08 |  |
 | [RILI RILI](https://open.spotify.com/track/1J48l5Y8USDVLR5uBfFZ5l) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 2:19 | 2022-05-10 |  |
 | [Román](https://open.spotify.com/track/3dZgq59mteQDkpsj9rFF7O) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [Román](https://open.spotify.com/album/3xfN6Yf5GGJsn3yEaoNnWh) | 3:58 | 2022-04-11 |  |
 | [Rubíes Rubios Vol\. 02](https://open.spotify.com/track/36csr9jNjoqz53hwAvTCVZ) | [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [Rubíes Rubios Vol\. 02](https://open.spotify.com/album/7s1QehRZl7zWNKl5J84fcv) | 1:41 | 2021-11-26 | 2023-08-12 |

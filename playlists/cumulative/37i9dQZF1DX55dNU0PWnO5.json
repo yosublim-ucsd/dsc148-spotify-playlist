@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 213192,
       "name": "Bubblegum Dreams",
       "url": "https://open.spotify.com/track/2OQ7ETKkq9b11qNKzpBJR5"
@@ -2310,6 +2310,24 @@
       "duration_ms": 188326,
       "name": "ENTRACTE",
       "url": "https://open.spotify.com/track/0IpxDJ7BDaxPPpKeAi4qSv"
+    },
+    {
+      "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/07Ehnt6vUeLzcL6tjAMs67"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/6fvjWDduFww2xtnGDvoIqb"
     },
     {
       "album": {

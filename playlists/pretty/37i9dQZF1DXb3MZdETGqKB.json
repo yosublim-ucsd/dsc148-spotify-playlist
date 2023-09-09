@@ -1,13 +1,49 @@
 {
   "description": "All new, all blues. Cover: C.S. Armstrong",
-  "num_followers": 141133,
+  "num_followers": 141228,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWEwOTQ0YWJkZDNmOTViZjNkMTRmNDdjNzA3ZTQ4MTgyNWUzZTQ4",
+  "snapshot_id": "MCxkODk2MTRkNzFkMWQ0MjY0ZjA4OWVlMjQ1MjcxMWYzYzUzZGVlNWI1",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Dirty Shine",
+        "url": "https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 196791,
+      "name": "OverdoZZe",
+      "url": "https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "BIG BOSS",
+        "url": "https://open.spotify.com/album/0OCfRsE8CwqK5p3btp1EBv"
+      },
+      "artists": [
+        {
+          "name": "T.Howell",
+          "url": "https://open.spotify.com/artist/4CzJiPo76fJ1a5Rm2bwxP3"
+        },
+        {
+          "name": "Jeter Jones",
+          "url": "https://open.spotify.com/artist/66cHA84K27hhCReCYTgQVF"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "BIG BOSS",
+      "url": "https://open.spotify.com/track/49lBwbL8cwLErPMGUqrcgV"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -159,22 +195,6 @@
       "duration_ms": 215093,
       "name": "You're Gonna Need Somebody on Your Bond",
       "url": "https://open.spotify.com/track/2nXFk9alD2vg2qKGaewctG"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/3pvVrSVs7UPLe6dlaKGQOa"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/7rijhdaZILNVlSQSfPOOky"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1507,22 +1527,6 @@
       "duration_ms": 191973,
       "name": "Darkness I Feel",
       "url": "https://open.spotify.com/track/43haQPyxARYypn8u8ocsym"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Please Take My Hand",
-        "url": "https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Please Take My Hand",
-      "url": "https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi"
     },
     {
       "added_at": "2022-03-04 05:01:00",

@@ -4,12 +4,13 @@
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-49 songs - 3 hr 19 min
+50 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Again & Again](https://open.spotify.com/track/5FUNk47hbkiL7mxLOo5CYc) | [Basto](https://open.spotify.com/artist/2BJTwV4IpFe2gWL46KKlji) | [Live Tonight](https://open.spotify.com/album/3hOBPmTdfmrdcLOMAzw5xl) | 3:01 | 2021-12-22 |  |
-| [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2021-12-22 |  |
+| [Animals \- Radio Edit](https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 2:56 | 2021-12-22 |  |
+| [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2021-12-22 | 2023-09-09 |
 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 | 2021-12-22 |  |
 | [Beast \(All as One\)](https://open.spotify.com/track/3wSrPtJpnGaUC2hOmJy0BV) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Beast \(All as One\)](https://open.spotify.com/album/7jcGJ20TXkDOwe5rfOm2Gg) | 3:09 | 2021-12-22 |  |
 | [Bigroom Never Dies](https://open.spotify.com/track/0g7r4J268kF71T7ChFu8kI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Mitch Crown](https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm) | [Bigroom Never Dies](https://open.spotify.com/album/4WiCeMODFI3uMXTTHribR5) | 2:55 | 2021-12-22 |  |

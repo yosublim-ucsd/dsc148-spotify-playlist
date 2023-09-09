@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-47 songs - 1 hr 36 min
+48 songs - 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dil Chori](https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Ishers](https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:46 | 2023-02-15 |  |
 | [Dj Waley Babu \(feat\. Aastha Gill\)](https://open.spotify.com/track/2SRv30X7NoYRZB62dX0UzH) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Dj Waley Babu \(feat\. Aastha Gill\)](https://open.spotify.com/album/0Md3x45nETTF6TQ0r6b0tJ) | 2:49 | 2023-02-15 |  |
 | [DNA Bhaukali](https://open.spotify.com/track/27OFRkLUNAQr1ZtpfBjg1P) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Nihal Shetty](https://open.spotify.com/artist/49ApJ981RngiSpTGiZdrwd), [Debanjali B Joshi](https://open.spotify.com/artist/4h4AVggCiQMvEwddTyjxlD), [Shellee](https://open.spotify.com/artist/24t83KaFZJjxJQIlGcUR0O) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 2:36 | 2023-06-23 |  |
+| [Ganda Banda \(From "Chamak"\)](https://open.spotify.com/track/7FuzvOjW800pbpujSrfKT7) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Shekhar Astitwa](https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l) | [Ganda Banda \(From "Chamak"\)](https://open.spotify.com/album/28EdhRMtXEKJOkkTUmhXUt) | 2:41 | 2023-09-08 |  |
 | [Garmi \(From "Street Dancer 3D"\) \(feat\. Varun Dhawan\)](https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Varun Dhawan](https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O) | [Garmi \(From "Street Dancer 3D"\)](https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7) | 3:02 | 2023-02-15 |  |
 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 | 2023-02-15 | 2023-05-31 |
 | [Ghere](https://open.spotify.com/track/1Fg54KvZh02xX035gzsCVQ) | [Parag Chhabra](https://open.spotify.com/artist/6Yf6U4iCrJta8g2dX1Al2v), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez) | [An Action Hero](https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er) | 3:29 | 2023-02-15 |  |

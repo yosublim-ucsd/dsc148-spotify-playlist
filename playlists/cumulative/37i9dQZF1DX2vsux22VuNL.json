@@ -2465,6 +2465,28 @@
     },
     {
       "album": {
+        "name": "GEMINIANA",
+        "url": "https://open.spotify.com/album/1V3NL0ZzXRXle86DaoKHrH"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "Two Records",
+          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146848,
+      "name": "GEMINIANA",
+      "url": "https://open.spotify.com/track/2wyFw9zIMvm86zFqC9IAHl"
+    },
+    {
+      "album": {
         "name": "Golpe Baixo",
         "url": "https://open.spotify.com/album/3JTHIZV0FUtTD8gCpSCu10"
       },
@@ -2748,6 +2770,28 @@
       "duration_ms": 195692,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/6MKxhmCHZ9hungkk20LlDe"
+    },
+    {
+      "album": {
+        "name": "Lili",
+        "url": "https://open.spotify.com/album/51W9VxFae3lbK4AhwLzB0L"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Terra Preta",
+          "url": "https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Lili",
+      "url": "https://open.spotify.com/track/50xFGBuVecb9LQ6a5evQJg"
     },
     {
       "album": {
@@ -3233,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "Meu Fechamento",
+        "url": "https://open.spotify.com/album/3vsrbA8dwUeoeo8QQs2xR8"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208725,
+      "name": "Meu Fechamento",
+      "url": "https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr"
+    },
+    {
+      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -3278,7 +3344,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 154734,
       "name": "MINHA CURA - REMIX",
       "url": "https://open.spotify.com/track/3LxUi6dRPOza6BFcM6xXdW"
@@ -4131,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Pena Que Acabou",
+        "url": "https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Pena Que Acabou",
+      "url": "https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA"
+    },
+    {
+      "album": {
         "name": "Penelope",
         "url": "https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD"
       },
@@ -4884,6 +4968,28 @@
       "duration_ms": 225898,
       "name": "Roda Gigante",
       "url": "https://open.spotify.com/track/27fmExabEQJg00wcotSRIb"
+    },
+    {
+      "album": {
+        "name": "R\u00e1dio do Caribe",
+        "url": "https://open.spotify.com/album/0bSi1ec77NSWjBCZZSK1u0"
+      },
+      "artists": [
+        {
+          "name": "Cronixta",
+          "url": "https://open.spotify.com/artist/5BGPgNyveXI7oJlXOVuSWc"
+        },
+        {
+          "name": "Felipe Cordeiro",
+          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109260,
+      "name": "R\u00e1dio do Caribe",
+      "url": "https://open.spotify.com/track/19g8PZ080d83ibFIDdqu3k"
     },
     {
       "album": {

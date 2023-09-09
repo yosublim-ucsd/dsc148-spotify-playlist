@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:151OS9nfrfYQ8UlnakRMek">Baaba J</a>,  <a href="spotify:artist:0yGRgPiwbWQcQsMf7H7DmK">Yimeeka</a>, <a href="spotify:artist:2hVWBpjLW4Q7fboYz2pVYK">Moliy</a> + Mēl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,752 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,783 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 18 | [I Miss You](https://open.spotify.com/track/1vMj09CQbopXMnDZQtLEdT) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 4:20 |
 | 19 | [Un minuto](https://open.spotify.com/track/4pHrwNUVTi8uRmRzMqgx2p) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Un minuto](https://open.spotify.com/album/0DAahj2hayoE3vXq5LawsQ) | 3:22 |
 | 20 | [Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Still Miss U](https://open.spotify.com/album/6Twb7nEWGMHnKHB4RKIHNu) | 3:47 |
-| 21 | [Selfish](https://open.spotify.com/track/4nV8bV7vQGVoWGyyoJUxbG) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Selfish](https://open.spotify.com/album/3azT3VDRZvCI09HzqTcQlD) | 4:19 |
+| 21 | [Selfish](https://open.spotify.com/track/4DXC7r7FFFJLGxfibGkECV) | [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Selfish](https://open.spotify.com/album/0pZGUFm8WEsPRJGkiHBOlG) | 4:19 |
 | 22 | [Kind Of Girl](https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:06 |
 | 23 | [How \- demo](https://open.spotify.com/track/2lO8mP1QvI7RizGcBYQ7Mx) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:07 |
 | 24 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Down The Hall](https://open.spotify.com/track/6gTPIdCMVPosz8p2BlNLFM) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 4:30 |
 | 40 | [In Ur Hands](https://open.spotify.com/track/3QKxBY6NKDPWAFGkno3MYg) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [In Ur Hands](https://open.spotify.com/album/65lpMM2ywOlQ0MK3Sjp804) | 2:29 |
 
-Snapshot ID: `MCxlMTdlMDA0OTgzM2VhNzhmODE3ZjVkZDQyYWJhOGE4M2Q2YTUyY2Fj`
+Snapshot ID: `MCxmODlhZDJmMmU4MDZjN2NmZGMyNmFlNjA0M2I3YjViODZjZmE4YTMw`

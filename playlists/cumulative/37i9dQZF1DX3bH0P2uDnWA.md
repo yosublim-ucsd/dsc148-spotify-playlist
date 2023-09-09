@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-314 songs - 18 hr 5 min
+315 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Twenties](https://open.spotify.com/track/7FQyzz3MRRyIHB2xuPjQhL) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Loredana Grimaudo](https://open.spotify.com/artist/1TgSFLGyPHVMMJkEJqZq73) | [Twenties](https://open.spotify.com/album/7413jwxa7Q2UbGbegbuMBj) | 3:10 | 2020-10-30 | 2023-05-07 |
 | [Twilight Tone / Twilight Zone \(Wolfgang Lohr Radio Remix\)](https://open.spotify.com/track/3Da7xxefIAVHITIN3q5X4f) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Bart&Baker Music Presents Twilight Tone / Twilight Zone \(New Remixes\)](https://open.spotify.com/album/0HPlYRauLtjEFJDM8M4cnK) | 3:08 | 2022-10-12 | 2022-11-08 |
 | [Twitch \- Original Mix](https://open.spotify.com/track/5ITcJAeOZZusqXHBeKuLcm) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Rosie Rascal](https://open.spotify.com/artist/0Akm5rhDpUGYemttj18Pq3) | [Grandiose](https://open.spotify.com/album/6v6qs1gSFdK1hsUGgD624U) | 4:02 | 2022-10-12 | 2022-11-08 |
+| [Under the Sun](https://open.spotify.com/track/2WazRu5GyihTNM0wqr8QzB) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [Under the Sun](https://open.spotify.com/album/7p5mEeF0uRsBVe3kOMgTrq) | 2:52 | 2023-09-08 |  |
 | [Upside Down](https://open.spotify.com/track/2pAkvdCFORWTiFJHVjojdC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Do You Want the Truth or Something Beautiful?](https://open.spotify.com/album/7zzHLsTPVTgBLXHbZFve33) | 3:09 | 2020-10-30 |  |
 | [Upside Down](https://open.spotify.com/track/7wTmnOSpVJcIzj5FIz2I04) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Do You Want The Truth Or Something Beautiful?](https://open.spotify.com/album/2Nux29fvtv1jlTuXPT28E0) | 3:09 | 2020-10-30 | 2022-05-14 |
 | [Upside Down \(Radio Edit\)](https://open.spotify.com/track/0qwvMH35Y5pm5U5xXqYauT) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Upside Down \(Electro Swing\)](https://open.spotify.com/album/1lGS38xrdrmdo2iYTOnEA3) | 2:56 | 2020-10-30 | 2022-07-28 |

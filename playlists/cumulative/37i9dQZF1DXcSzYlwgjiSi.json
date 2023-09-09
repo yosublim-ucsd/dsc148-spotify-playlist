@@ -1781,6 +1781,28 @@
     },
     {
       "album": {
+        "name": "HEAVEN HAS A BAR (with Zac Brown)",
+        "url": "https://open.spotify.com/album/0YzBztGGfR2i1TucxB2K0x"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        },
+        {
+          "name": "Zac Brown",
+          "url": "https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "HEAVEN HAS A BAR (with Zac Brown)",
+      "url": "https://open.spotify.com/track/3NfLxTFZRLb8WGVeeG3e8i"
+    },
+    {
+      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },

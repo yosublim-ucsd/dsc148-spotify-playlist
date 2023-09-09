@@ -1,12 +1,12 @@
 {
   "description": "time to confess your crush ",
-  "num_followers": 7714,
+  "num_followers": 7740,
   "original_name": "Slow Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTBlM2ZmODE3YTJiMDY4NjBlMjAxMTRkNWRmNmMwMmEzYzZkZDdm",
+  "snapshot_id": "MCw4NWQyZDA4YjI0NjFiMzhmNmI3YTdiY2M5YzcxNTkzZmNmOWJiNzNl",
   "tracks": [
     {
       "added_at": "2023-05-01 15:18:42",
@@ -139,6 +139,22 @@
       "duration_ms": 201882,
       "name": "pov",
       "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+    },
+    {
+      "added_at": "2023-05-01 15:18:42",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2023-05-01 15:18:42",

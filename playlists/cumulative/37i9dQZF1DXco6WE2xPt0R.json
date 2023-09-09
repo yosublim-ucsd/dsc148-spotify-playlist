@@ -4198,7 +4198,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 237573,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
@@ -4322,6 +4322,24 @@
       "duration_ms": 187541,
       "name": "Type Of Day",
       "url": "https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI"
+    },
+    {
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182278,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: DEKKO
 
-537 songs - 1 day 4 hr 9 min
+540 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,11 +148,13 @@
 | [don't liE](https://open.spotify.com/track/7GpSrZ9BAnu5l5ahjRS8KC) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 3:33 | 2023-07-14 |  |
 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 | 2023-09-01 |  |
 | [Dos Días en la Vida \- EADDA9223 \(feat\. Lali & Nicki Nicole\)](https://open.spotify.com/track/4oDx5VoqSQJCduO5J5A8MB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 | 2023-06-02 |  |
+| [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2023-09-08 |  |
 | [Dos Locos](https://open.spotify.com/track/6xI2oRtvOrf4YQVyHbrToe) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:00 | 2023-07-28 |  |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/15WUEbZiVlMktscw1mse4X) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 2:55 | 2023-07-14 | 2023-07-26 |
 | [DOS PRIMAVERAS](https://open.spotify.com/track/4OpzznhpDY6UfXbapDEAJF) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [COSTA RICA](https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L) | 2:55 | 2023-07-21 |  |
 | [Down](https://open.spotify.com/track/55SBsj6T7muoDtMcUX5feZ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:44 | 2023-05-05 | 2023-07-29 |
 | [Drip Splash \(feat\. Polimá Westcoast & ARON\)](https://open.spotify.com/track/4sIQDTbwH0G3ebd0mtGaQd) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 4:38 | 2023-03-31 | 2023-07-08 |
+| [Dubai](https://open.spotify.com/track/3PjBpkbEefSVJjD7zMiiLZ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:21 | 2023-09-08 |  |
 | [Duele](https://open.spotify.com/track/4bCfD61StOPPtrBWQ5bitp) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Décimo Cuarto](https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2) | 3:33 | 2023-06-02 |  |
 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 | 2023-05-26 | 2023-06-03 |
 | [Déjame Llorarte](https://open.spotify.com/track/1OFhbeqPjDD3jR9tGYj6UT) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [A Ciegas](https://open.spotify.com/album/6iLktFdW6hFXyDKh7RSDuA) | 3:09 | 2023-05-19 | 2023-05-27 |
@@ -422,6 +424,7 @@
 | [rimas del verbo amar](https://open.spotify.com/track/6KN5CpFdYW50Nd0pDXCIXy) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7pOc6WF4NzYgX99UoxVRP5) | 4:10 | 2023-05-12 | 2023-06-07 |
 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 | 2023-06-23 |  |
 | [Rompa \(feat\. Kris Floyd\)](https://open.spotify.com/track/5Xyc1MK3toy2Mso3CdTmqL) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 3:02 | 2023-04-28 | 2023-07-29 |
+| [Rositas](https://open.spotify.com/track/3M6Hgrfs2NQaIMs050UaZF) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 2:37 | 2023-09-08 |  |
 | [Run](https://open.spotify.com/track/3tTJkSgyRkQfKvf5CblNPZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 2:43 | 2023-08-04 |  |
 | [Run](https://open.spotify.com/track/76poUArBkxrtsBzqXcaAnc) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:43 | 2023-07-07 | 2023-08-06 |
 | [Rápido](https://open.spotify.com/track/0v8w8V48lEUeNNMpxZvBR9) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Asimétrico](https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn) | 2:24 | 2023-01-20 | 2023-05-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8615,
+  "num_followers": 8622,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTNiZDhmZmFiODhhZWE1YmIwMjFiZWEwMDU3MDJkODdiZjNiYTg2",
+  "snapshot_id": "MCw5MTdmYTU4ZWFkY2JlOWQ4YjhkMzc0YjQ1MDJiM2NlYzg4ZjhiMDVl",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Mess",
-        "url": "https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Fix Me",
         "url": "https://open.spotify.com/album/5FfFt9AtFfhg2hUzntBNZk"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 205291,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/6e2DOhlAU5sO56eHhnEmgJ"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
-      },
-      "artists": [
-        {
-          "name": "LEADR",
-          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
-        }
-      ],
-      "duration_ms": 174295,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "K I'm Mortal",
         "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 220253,
       "name": "K I'm Mortal",
       "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn"
+      },
+      "artists": [
+        {
+          "name": "LEADR",
+          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
+        }
+      ],
+      "duration_ms": 174295,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK"
     },
     {
       "added_at": "2023-06-30 23:59:00",

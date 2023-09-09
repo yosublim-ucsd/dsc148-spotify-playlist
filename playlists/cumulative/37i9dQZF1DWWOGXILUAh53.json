@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Joel Corry, MK, Rita Ora",
+  "description": "The hottest new pop with all the drops. Cover: Emilia",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Catch Me (Beautiful Fall)",
+        "url": "https://open.spotify.com/album/4EsvEffXkdatx6a7ZqUGZA"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Catch Me (Beautiful Fall)",
+      "url": "https://open.spotify.com/track/1Ibb0sjzCNzhHGe3V1RakV"
+    },
+    {
+      "album": {
         "name": "Catching A Dream (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO"
       },
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 180000,
       "name": "Don't Say Love",
       "url": "https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK"
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 172379,
       "name": "Don't Talk to Me",
       "url": "https://open.spotify.com/track/3ilFtzVTwXQ7n1EpKiZBLr"
@@ -3526,6 +3544,24 @@
       "duration_ms": 161929,
       "name": "Drinks on MI",
       "url": "https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr"
+    },
+    {
+      "album": {
+        "name": "Drip Drop",
+        "url": "https://open.spotify.com/album/3Q711uLnVZ9ufizLWrXUn5"
+      },
+      "artists": [
+        {
+          "name": "Erika Jayne",
+          "url": "https://open.spotify.com/artist/3jgs1QD0amFu2y6bqSK36Y"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224756,
+      "name": "Drip Drop",
+      "url": "https://open.spotify.com/track/13Oms7rPHZlvGz1ny1F2FO"
     },
     {
       "album": {
@@ -4108,6 +4144,24 @@
       "duration_ms": 190609,
       "name": "Feels This Good",
       "url": "https://open.spotify.com/track/1TytykMo9zFzNdRbqTxfep"
+    },
+    {
+      "album": {
+        "name": "FEMININE ENERGY",
+        "url": "https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171265,
+      "name": "FEMININE ENERGY",
+      "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
     },
     {
       "album": {
@@ -4760,6 +4814,24 @@
       "duration_ms": 231333,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh"
+    },
+    {
+      "album": {
+        "name": "GTA.mp3",
+        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
     },
     {
       "album": {
@@ -6141,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "IL0V3Y0U",
+        "url": "https://open.spotify.com/album/3f2hRnl0alXw9bz8PpQSWz"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "IL0V3Y0U",
+      "url": "https://open.spotify.com/track/0MdcE5oHji8C8XCJCR5o3z"
+    },
+    {
+      "album": {
         "name": "ILYAF (I love you always forever)",
         "url": "https://open.spotify.com/album/3NUVzJfg1NL9d1QJ9lm6PO"
       },
@@ -6196,6 +6286,10 @@
         {
           "name": "ACRAZE",
           "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
         }
       ],
       "date_added": "2023-07-07",
@@ -6528,7 +6622,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 171080,
       "name": "King of Hearts",
       "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
@@ -6630,7 +6724,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 134160,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep"
@@ -6838,7 +6932,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 191239,
       "name": "Let You Down (feat. Deza)",
       "url": "https://open.spotify.com/track/1JRG26WhgNNt2bg4SCXtuE"
@@ -6856,7 +6950,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 180877,
       "name": "Let's Go MIA",
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
@@ -8147,6 +8241,28 @@
     },
     {
       "album": {
+        "name": "My Love (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176187,
+      "name": "My Love (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
+    },
+    {
+      "album": {
         "name": "My Love (Dave Glass Animals Remix)",
         "url": "https://open.spotify.com/album/5dd31rqNnOvoVDvSt5ajdG"
       },
@@ -8560,7 +8676,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 163364,
       "name": "No Plans",
       "url": "https://open.spotify.com/track/7utHPuTZiXGbWq0yCksPm0"
@@ -8728,7 +8844,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 207500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/34xBhUgjCTUxe1BuypLL0X"
@@ -9230,7 +9346,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
@@ -9516,6 +9632,24 @@
       "duration_ms": 200267,
       "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
       "url": "https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI"
+    },
+    {
+      "album": {
+        "name": "Pain/Pleasure",
+        "url": "https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199460,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4"
     },
     {
       "album": {
@@ -10833,6 +10967,28 @@
     },
     {
       "album": {
+        "name": "sick of myself",
+        "url": "https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141919,
+      "name": "sick of myself",
+      "url": "https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o"
+    },
+    {
+      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
       },
@@ -11117,6 +11273,32 @@
     },
     {
       "album": {
+        "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
+    },
+    {
+      "album": {
         "name": "One Night in Nashville",
         "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
       },
@@ -11230,7 +11412,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 117809,
       "name": "Speed Drive (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
@@ -11366,6 +11548,28 @@
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
+    },
+    {
+      "album": {
+        "name": "Stay With Me (with Absolutely)",
+        "url": "https://open.spotify.com/album/5IcJs3auFFMiIxrDqqweC6"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206964,
+      "name": "Stay With Me (with Absolutely)",
+      "url": "https://open.spotify.com/track/1p8R6ArQGBFpzoaLJiLvJh"
     },
     {
       "album": {
@@ -11594,6 +11798,24 @@
       "duration_ms": 180600,
       "name": "Summer Feeling",
       "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
+    },
+    {
+      "album": {
+        "name": "Summertime Friends",
+        "url": "https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136586,
+      "name": "Summertime Friends",
+      "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
     },
     {
       "album": {
@@ -12577,6 +12799,24 @@
     },
     {
       "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/0AV0Iov13auiWBGxyGQuXZ"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149516,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/54m4uPOVyjzxgh81Dr4rxS"
+    },
+    {
+      "album": {
         "name": "tqum (feat. Kim Petras) [Remix]",
         "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
       },
@@ -12658,7 +12898,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 200655,
       "name": "True Colors (Spotify Singles)",
       "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
@@ -12906,7 +13146,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 146736,
       "name": "UNTZ UNTZ",
       "url": "https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv"

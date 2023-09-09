@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=hidDn0uTRKGYBXMNqGIfKg">Mercy Chinwo </a>
 
-727 songs - 2 day 11 hr 14 min
+730 songs - 2 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [My Dey](https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [My Dey](https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT) | 2:11 | 2023-06-30 | 2023-07-14 |
 | [My Dey, Pt\. 2](https://open.spotify.com/track/1W2QdIOWrApLDdGdLN2y4c) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [My Dey, Pt\. 2](https://open.spotify.com/album/5au4QTcdoTw5WKuJljl7Nz) | 2:19 | 2023-09-08 |  |
 | [My Father \- Live](https://open.spotify.com/track/1VOnW9NWi0eLxSsDENiuWc) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [The Declaration \(Live\)](https://open.spotify.com/album/61ORlXf6oUCesajS1E6FfQ) | 5:55 | 2023-09-08 |  |
+| [My Jesus](https://open.spotify.com/track/3XOmMhDzaVb4tTah2lUptl) | [Ehiz d king](https://open.spotify.com/artist/214ehuQR59ZQabMxJNwZcI) | [My Jesus](https://open.spotify.com/album/5L2lNa1YbBt0wqX45C6d2C) | 2:34 | 2023-09-08 |  |
 | [My Light Has Come](https://open.spotify.com/track/70CJ9ZTgeXYv67yXhyIkfA) | [Obed Flames](https://open.spotify.com/artist/3zcRPJjUIXHBPa2QEUgEtr) | [My Light Has Come](https://open.spotify.com/album/1wCsbPQP7vLGq7H97xh1fb) | 3:19 | 2023-08-04 | 2023-08-18 |
 | [My Lover](https://open.spotify.com/track/0m0zQyM823lkGBmaPJGr0t) | [Elem C](https://open.spotify.com/artist/6kvQxADMdvRXh2M44dKNbd) | [My Lover](https://open.spotify.com/album/7j6Gaxe0IxFQHR4L2f78z4) | 3:12 | 2023-07-07 | 2023-07-21 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 | 2023-09-01 |
@@ -486,6 +487,7 @@
 | [Nkosi Sikelela uBaba](https://open.spotify.com/track/3DovCSCmydiBY6Tdu90imJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Sikelela uBaba](https://open.spotify.com/album/4Jf2doGSsYsb0TI32fmvBB) | 6:26 | 2023-08-04 | 2023-08-18 |
 | [Nkosi Yethu Simakade](https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Yethu Simakade](https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE) | 7:51 | 2023-06-16 | 2023-06-30 |
 | [No dey taya](https://open.spotify.com/track/7BvNh4qb2bZ26zQ5k2k4rp) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [No dey taya](https://open.spotify.com/album/3bdFaRKOFEssqJNaJfyyL3) | 3:00 | 2023-07-28 | 2023-08-11 |
+| [No Jokes](https://open.spotify.com/track/2RTWBnTMjfPOjzdgvRJ3lS) | [IceberG](https://open.spotify.com/artist/7x6uIE3cF02iPqfgA9NTQh), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [No Jokes](https://open.spotify.com/album/4BxnOXktlEg0qc8vpH6LnX) | 2:45 | 2023-09-08 |  |
 | [No Limit](https://open.spotify.com/track/3Uhr4IQ0nIHix153cy3yeI) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [No Limit](https://open.spotify.com/album/4E81YM3V5QOwOeWldadMwQ) | 2:11 | 2023-08-25 | 2023-09-08 |
 | [No Limit](https://open.spotify.com/track/1mGqR4nXz6I7ZmzlNYH991) | [Monsieur Kophi](https://open.spotify.com/artist/4q5b1wQYY7KGgijSmQ8DTG), [YeDija](https://open.spotify.com/artist/6H85yVxU78UQ6zWCCndbN2), [Rick Doxa](https://open.spotify.com/artist/3TYiyVXQqmrbqp4JiU5kkR), [Lambertini](https://open.spotify.com/artist/5S7YCTb7JDhkaHCZrCPckg) | [No Limit](https://open.spotify.com/album/1iVT8BU9Ia5of4FTJoOARK) | 3:13 | 2023-09-01 |  |
 | [No Longer a Captive](https://open.spotify.com/track/5zyAK7OFZwRqZbMDh36RJa) | [Dambassador](https://open.spotify.com/artist/0YFiexKRVtVG6tFQHQnLUl) | [No Longer a Captive](https://open.spotify.com/album/5m1WcGJm2uBheVsthub7hE) | 2:04 | 2023-07-14 | 2023-07-21 |
@@ -663,6 +665,7 @@
 | [Ukuhlala Kuye](https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI) | [Kea Studios](https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU) | [Ukuhlala Kuye](https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE) | 4:01 | 2023-07-21 | 2023-08-04 |
 | [Ukunxanela Komoya Wakho](https://open.spotify.com/track/0WeTsHx1DqIdPF51XGbAGa) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ukunxanela Komoya Wakho](https://open.spotify.com/album/566j14AsYwCWJW4GrjUVWi) | 3:50 | 2023-06-09 | 2023-06-16 |
 | [ULINIJUA \- Special Version](https://open.spotify.com/track/314xMaImh9biPpmK0pnrs2) | [Money Magnet Aqui](https://open.spotify.com/artist/0nHRq547zFyGXHDsloSnV0) | [ULINIJUA \(Special Version\)](https://open.spotify.com/album/6iloq9rUZqq3d7clUjBbXP) | 6:11 | 2023-08-25 | 2023-09-08 |
+| [Unarudi Lini](https://open.spotify.com/track/61Zc74od47dj7dXVuKxsO9) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Unarudi Lini](https://open.spotify.com/album/6hmRcQImi46W5HcArJEkzO) | 3:32 | 2023-09-08 |  |
 | [Unchangeable God](https://open.spotify.com/track/3E726QsMcCd8Vbh0CyFhpS) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Unchangeable God](https://open.spotify.com/album/5N3QZsWwI4DweMAx1v3Q05) | 4:43 | 2023-09-01 |  |
 | [Unitembeze](https://open.spotify.com/track/2oBx3ML3o6KPiMNz5f2XcL) | [Anitha Musoki](https://open.spotify.com/artist/3y4i8BE5rQEfmjXid5kcmf) | [Unitembeze](https://open.spotify.com/album/2IFh10dWlXvgSvUmLMCeMg) | 4:08 | 2023-07-14 | 2023-07-21 |
 | [Unjalo wena Kuphakama](https://open.spotify.com/track/4v0USK76OtYzuZ73g4FcZm) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Unjalo wena Kuphakama](https://open.spotify.com/album/6mlXloaetu8glEQSiVsROw) | 2:48 | 2023-08-18 | 2023-09-01 |

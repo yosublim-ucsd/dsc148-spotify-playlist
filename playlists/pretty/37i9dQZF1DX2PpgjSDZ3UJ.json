@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21288,
+  "num_followers": 21291,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWM1YWM0YTdkNThiNzhhZmUzZWUxOGE1MmVhYjc4ODgzM2NkY2Fk",
+  "snapshot_id": "MCw1MzEwMTNmMzgzOWZmNTkyNWZhYWMxMTcyMGRhY2NjM2FhOGU1NDEx",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Cristales",
         "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 225362,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Cara De Idiota",
-        "url": "https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae"
-      },
-      "artists": [
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 153302,
-      "name": "Cara De Idiota",
-      "url": "https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Mol\u00e9cula",
         "url": "https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 214661,
       "name": "Mol\u00e9cula",
       "url": "https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Cara De Idiota",
+        "url": "https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "duration_ms": 153302,
+      "name": "Cara De Idiota",
+      "url": "https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Se Parece A",
-        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 228574,
-      "name": "Alguien Detra\u0301s de Mi",
-      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "ELET\u00c9",
         "url": "https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 225240,
       "name": "Honestidad",
       "url": "https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Se Parece A",
+        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 228574,
+      "name": "Alguien Detra\u0301s de Mi",
+      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
     },
     {
       "added_at": "2020-12-01 05:03:00",

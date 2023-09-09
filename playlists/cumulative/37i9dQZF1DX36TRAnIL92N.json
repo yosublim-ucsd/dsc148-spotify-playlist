@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 220488,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 231437,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z"
@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Losing Gravity",
+        "url": "https://open.spotify.com/album/3WJC7hFCWhLXkDw0lrf85s"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363953,
+      "name": "Losing Gravity",
+      "url": "https://open.spotify.com/track/2lCJlVxUXg7hE187mVPLZm"
+    },
+    {
+      "album": {
         "name": "Love Is Free",
         "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
       },
@@ -2081,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "Perfect Disorder (Roger Lavelle Remix)",
+        "url": "https://open.spotify.com/album/2oq8lReFxV7zlV8lKRWPvI"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Roger Lavelle",
+          "url": "https://open.spotify.com/artist/3ZHqvLocrTfSbtm9DDJnqT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354626,
+      "name": "Perfect Disorder - Roger Lavelle Remix",
+      "url": "https://open.spotify.com/track/5SQ6u2IJsbgGkS9PDoIwCY"
+    },
+    {
+      "album": {
         "name": "Platia",
         "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
       },
@@ -2462,6 +2502,28 @@
       "duration_ms": 207272,
       "name": "Say It Again",
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "album": {
+        "name": "Scriptio Continua",
+        "url": "https://open.spotify.com/album/6LvAgGpJbpzHEC44b080ZN"
+      },
+      "artists": [
+        {
+          "name": "Brennen Grey",
+          "url": "https://open.spotify.com/artist/342JB4Bfj8Q7qdOraq3nMz"
+        },
+        {
+          "name": "Spartaque",
+          "url": "https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Scriptio Continua",
+      "url": "https://open.spotify.com/track/5RkVKl0tsoVSXTigQ4bS0a"
     },
     {
       "album": {

@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "ACTiVO",
+        "url": "https://open.spotify.com/album/0RmN5d0FNhPuisN9oWOdnc"
+      },
+      "artists": [
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151295,
+      "name": "ACTiVO",
+      "url": "https://open.spotify.com/track/2FVWJLzBTCIYn1txnGXdQK"
+    },
+    {
+      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV"
       },

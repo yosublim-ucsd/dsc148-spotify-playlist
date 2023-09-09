@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: Bahati
 
-111 songs - 10 hr 48 min
+112 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Umenitendea](https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Tangu Mwanzo](https://open.spotify.com/album/70AH9ZkKrDBzoB8lRs6pL9) | 6:17 | 2022-06-24 | 2023-06-09 |
 | [Umezungukwa Na Sifa](https://open.spotify.com/track/6vR5SlKDAVTPGVfgtxR0Qs) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 9:58 | 2022-06-24 |  |
 | [Umezungushwa Na Sifa](https://open.spotify.com/track/28W0lPWcA0mhpqlNJglxKF) | [Paul Clement](https://open.spotify.com/artist/3Z9HW7fckNI8pKKuYcOaTg) | [Usiyeshindwa](https://open.spotify.com/album/1UHqfMQCDTRHXhdvWVaSvQ) | 9:58 | 2022-06-24 | 2022-07-29 |
+| [Unarudi Lini](https://open.spotify.com/track/61Zc74od47dj7dXVuKxsO9) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Unarudi Lini](https://open.spotify.com/album/6hmRcQImi46W5HcArJEkzO) | 3:32 | 2023-09-08 |  |
 | [Uniongoze Yesu](https://open.spotify.com/track/3Ide09ppPsNh2rI7bVcGgY) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol\. 4](https://open.spotify.com/album/1RHHM6zh03RBlS16N4Fl6Y) | 8:10 | 2022-06-24 | 2023-04-06 |
 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-06-24 | 2023-05-12 |
 | [Unitembeze](https://open.spotify.com/track/2oBx3ML3o6KPiMNz5f2XcL) | [Anitha Musoki](https://open.spotify.com/artist/3y4i8BE5rQEfmjXid5kcmf) | [Unitembeze](https://open.spotify.com/album/2IFh10dWlXvgSvUmLMCeMg) | 4:08 | 2023-07-14 |  |

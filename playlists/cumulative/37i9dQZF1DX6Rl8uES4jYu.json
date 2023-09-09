@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182026,
       "name": "Be Easy",
       "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "ART DEALERS",
+        "url": "https://open.spotify.com/album/2XfhNWUapZroQcaGTVwPrJ"
+      },
+      "artists": [
+        {
+          "name": "Low Cut Connie",
+          "url": "https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229866,
+      "name": "DON'T GET FRESH WITH ME",
+      "url": "https://open.spotify.com/track/29XRnZlN9nf6Z3BaAZ61My"
+    },
+    {
+      "album": {
         "name": "Don't Go Chasing",
         "url": "https://open.spotify.com/album/3GcqHzKzEcV8xjEYgAiVrj"
       },
@@ -2746,6 +2764,28 @@
     {
       "album": {
         "name": "Golden",
+        "url": "https://open.spotify.com/album/6okG7bZpTzeVJiyp6pKik4"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Tim Myers",
+          "url": "https://open.spotify.com/artist/44BkC9lJfLmhcRB4NV7Z38"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0K4oZ2Pt2VJ55nA5LX3rTH"
+    },
+    {
+      "album": {
+        "name": "Golden",
         "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
       },
       "artists": [
@@ -3410,7 +3450,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 187618,
       "name": "ITS ALL GOOD",
       "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
@@ -3936,6 +3976,24 @@
       "duration_ms": 212841,
       "name": "Lost a Little",
       "url": "https://open.spotify.com/track/41sV7uznvg52Cp9MDI9sqa"
+    },
+    {
+      "album": {
+        "name": "Lottery",
+        "url": "https://open.spotify.com/album/5CR4kLfeiqEWry1PiILEHM"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127933,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2RiDOCxcDkPCX7cko2YvBY"
     },
     {
       "album": {
@@ -5970,7 +6028,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 177735,
       "name": "SNOW",
       "url": "https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf"

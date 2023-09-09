@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 47278,
+  "num_followers": 47338,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjgzMjJjNjlkYTMxN2IzNTE1MTFhOTFkOGE5NTJiYWFhNzJlMjFl",
+  "snapshot_id": "MCxkYzc1YWIxY2JkYWFmOTdhNGE4Y2UyMTE3OGQ1NmRmNzgzNGJlNTZh",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 367542,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "Ultralight",
         "url": "https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 367542,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -879,22 +879,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Shaolin Fist",
-        "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
+        "name": "Kickons",
+        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
       },
       "artists": [
         {
-          "name": "Original Sin",
-          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 241687,
-      "name": "Headshot",
-      "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
+      "duration_ms": 235862,
+      "name": "Kickons",
+      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -915,18 +911,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Kickons",
-        "url": "https://open.spotify.com/album/1feFNzuO4vDCFGA7OuqKM9"
+        "name": "Shaolin Fist",
+        "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
         }
       ],
-      "duration_ms": 235862,
-      "name": "Kickons",
-      "url": "https://open.spotify.com/track/2jWC2T3dNIn5vHdyW7MvCZ"
+      "duration_ms": 241687,
+      "name": "Headshot",
+      "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
     },
     {
       "added_at": "2022-08-12 16:34:51",

@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304228,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/0A9mHc7oYUoCECqByV8cQR"
+    },
+    {
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/2eBWEtVvAtX1Ajoh0VKogz"
       },
@@ -380,7 +398,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 180937,
       "name": "Battlefield",
       "url": "https://open.spotify.com/track/4L8tAFBftTAOo5pjeXVW9g"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 194062,
       "name": "Bring Me Down",
       "url": "https://open.spotify.com/track/7FhOYhjnqPPlm0LTOMnJLy"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 183281,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/18vGqlZqxpAwlepFrqIkOG"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 233495,
       "name": "Coming Alive - Jeffrey Sutorius Remix",
       "url": "https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 188796,
       "name": "Dancing With Tears In My Eyes",
       "url": "https://open.spotify.com/track/4rNuVWdkLkT6x175WXMteB"
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 179062,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/1zow991U4NRHThdjkWzLJK"
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 183461,
       "name": "Kings - Shogun Remix",
       "url": "https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh"
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 208658,
       "name": "Neon Skies (Forever)",
       "url": "https://open.spotify.com/track/6HKiW0mzPPVsvwAEgaAbgK"
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 196875,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2InkR3RbQnVc9EMHP9VRqY"
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182977,
       "name": "Pull Me Through",
       "url": "https://open.spotify.com/track/2T1aCo4H9ojFkUxDU758oZ"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 189000,
       "name": "Setting Like The Sun",
       "url": "https://open.spotify.com/track/4NrQGc4bfqtuGphg1IC3k6"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/0qgTXonHDCfh8QdqbTclRM"
@@ -4140,7 +4158,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 173333,
       "name": "That I Know",
       "url": "https://open.spotify.com/track/4zWQ4iwYNZRauECeHhMs0b"
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 180000,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/42lP15vqZBDGbWxe4QcbSE"
@@ -4852,7 +4870,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 163548,
       "name": "Wish We Never Met",
       "url": "https://open.spotify.com/track/7nE1Oo0I6ojq1TSxQ1oZCY"

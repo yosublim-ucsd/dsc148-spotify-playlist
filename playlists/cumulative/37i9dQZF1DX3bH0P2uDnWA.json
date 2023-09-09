@@ -5795,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/7p5mEeF0uRsBVe3kOMgTrq"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Breakfast",
+          "url": "https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/2WazRu5GyihTNM0wqr8QzB"
+    },
+    {
+      "album": {
         "name": "Do You Want the Truth or Something Beautiful?",
         "url": "https://open.spotify.com/album/7zzHLsTPVTgBLXHbZFve33"
       },

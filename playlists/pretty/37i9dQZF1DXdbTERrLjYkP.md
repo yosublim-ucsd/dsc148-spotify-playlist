@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: eee gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,807 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,980 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 15 | [Pools and Palm Trees](https://open.spotify.com/track/5D5sk1frNM4Ypsgvxa8SaB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Pools and Palm Trees](https://open.spotify.com/album/357UpZKMD6Ar47ULSVhYpi) | 3:06 |
 | 16 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 |
 | 17 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 |
-| 18 | [Me to You](https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Well Here We Are](https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s) | 3:03 |
+| 18 | [Me to You](https://open.spotify.com/track/4lW9Uvw8MP5hxwzO7Rp94v) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Well Here We Are \- EP](https://open.spotify.com/album/2RjoJH522YdcMLFK3sBg1s) | 3:03 |
 | 19 | [Like Me, Like Me](https://open.spotify.com/track/4O49IKbCszP1tUKQFhJ2xS) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Like Me, Like Me](https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO) | 2:25 |
 | 20 | [Again and Again](https://open.spotify.com/track/2ZvlfOqzdSDPpXFJL6ETNj) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Again and Again](https://open.spotify.com/album/3wxJOOmjsc7CMeCHnjo20b) | 3:27 |
 | 21 | [cheater](https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [cheater](https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw) | 2:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 69 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 |
 | 70 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
 
-Snapshot ID: `MCwyMmQyYTM3ODMxZWQ4OTEzMmE4YzQxNzcwZjA0MGNkODRmMjdmZWIy`
+Snapshot ID: `MCw2NDRjYzg5YjczZDhkMjIxNmNkY2E1YTEwZjY4Mzc5MjdjYjZlMGI2`

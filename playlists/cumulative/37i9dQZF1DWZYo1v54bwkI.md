@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-230 songs - 11 hr 39 min
+231 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Heaven Sent](https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:24 | 2022-07-15 |  |
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-07-15 |  |
 | [Hidden Lotus](https://open.spotify.com/track/2GT3QE7CaEISpaRl9GmgXG) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Hidden Lotus](https://open.spotify.com/album/5TMotCnHIeHXI5gz2Tfugq) | 2:55 | 2022-07-15 |  |
+| [Hir](https://open.spotify.com/track/1j5jXzbjr34PbSmXEPFEnL) | [Lee Azalea](https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y) | [Hir](https://open.spotify.com/album/4NfnyvYhG8epCPJw7eY4s2) | 2:49 | 2023-09-08 |  |
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2022-07-15 | 2023-03-10 |
 | [Huzurlu](https://open.spotify.com/track/5AE2Q5ecdUUPxjNbIknTNW) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Huzurlu](https://open.spotify.com/album/4vsCehW0aBcrsCeTWodFYa) | 3:03 | 2022-07-15 |  |
 | [Imagine Nuvem](https://open.spotify.com/track/0BjyXBAXWTvEOgX1KPhadD) | [Clémence Alheoux](https://open.spotify.com/artist/3ciGAvpM5PtG4bvpTF6wdK) | [Imagine Nuvem](https://open.spotify.com/album/0GlOjrFZe7mT9XC2TRPvcu) | 3:09 | 2022-07-15 |  |
@@ -237,6 +238,6 @@
 | [Zeit zu schlafen](https://open.spotify.com/track/6BDciTeYRejg7wi9F63k4H) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Zeit zu schlafen](https://open.spotify.com/album/2imLIpOy9hSqRx2SAszBoa) | 1:47 | 2022-07-15 | 2023-07-29 |
 | [Équilibre](https://open.spotify.com/track/1kY64LDhpgy30XGXj5c7Qa) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Équilibre](https://open.spotify.com/album/3ue6f4Rru74OH3ozKrFnU3) | 3:21 | 2022-10-15 |  |
 | [和 Harmony](https://open.spotify.com/track/578WQbtlCaB1LBoPYZLECn) | [Shunya Koyanagi](https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4) | [和 Harmony](https://open.spotify.com/album/2xqsxjexOjRgS8lYOpoKKU) | 3:04 | 2022-07-15 | 2023-02-25 |
-| [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2022-07-15 |  |
+| [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [星星之火可以燎原 \- Where there is life, there is hope](https://open.spotify.com/album/7fbFR0qZouklk3kM5voFNw) | 3:09 | 2022-07-15 | 2023-09-09 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

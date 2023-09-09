@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-144 songs - 8 hr 47 min
+145 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 | 2022-07-18 |  |
 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 | 2022-07-18 |  |
 | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/track/1rMOh1plvSA7HTgXc1c4zT) | [Praveen Kumar Banavathu](https://open.spotify.com/artist/3gVvcQXv1lmZr5iWhNXW7E), [Rajashekar Parsha](https://open.spotify.com/artist/7k0oRtPlbMSdf5ZyESXTqM) | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/album/6tIj7YcWkgn4eA8vuq14JI) | 4:34 | 2023-07-10 | 2023-09-05 |
-| [Ni Valle](https://open.spotify.com/track/62tvZlylMVwe71V1mw47tU) | [D'strucT](https://open.spotify.com/artist/533mt65nKDRf5XfTNgawj8), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Ni Valle](https://open.spotify.com/album/4hlJkbygiMvHm1mIQBIWbc) | 2:28 | 2023-08-18 |  |
+| [Ni Valle](https://open.spotify.com/track/62tvZlylMVwe71V1mw47tU) | [D'strucT](https://open.spotify.com/artist/533mt65nKDRf5XfTNgawj8), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Ni Valle](https://open.spotify.com/album/4hlJkbygiMvHm1mIQBIWbc) | 2:28 | 2023-08-18 | 2023-09-09 |
 | [Ninne Ne Choosina Nimishana](https://open.spotify.com/track/6AxR54ZY7DawzNWrFhoptL) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Ninne Ne Choosina Nimishana](https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP) | 4:19 | 2023-05-18 | 2023-05-26 |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 |  |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |
@@ -119,6 +119,7 @@
 | [Prasthanam](https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:56 | 2023-08-21 |  |
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |
 | [Premaga](https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm) | [Varun Raghavan](https://open.spotify.com/artist/4NkVbFtRfMRioCkzZ6gg2C), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Premaga](https://open.spotify.com/album/03K7rbDgmaJmCflM6BzkrS) | 2:58 | 2023-05-02 |  |
+| [Preme](https://open.spotify.com/track/4GN3kyhteAgfCPqcZYx6wV) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Preme](https://open.spotify.com/album/3xAIfUpFgshmPDO97ZwnNB) | 4:01 | 2023-09-08 |  |
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |
 | [Priyamvadha](https://open.spotify.com/track/2EGJx8mbYurKtFtu1JvPlZ) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Priyamvadha](https://open.spotify.com/album/6CpYGQNXbnaWwNcOmenKpr) | 3:30 | 2023-04-10 | 2023-06-06 |
 | [Raagalani](https://open.spotify.com/track/5ooUFuCNdvbD2LwHDjgzYZ) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8), [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Raagalani](https://open.spotify.com/album/6p34UCvj2FvN01JaNxIIq1) | 2:38 | 2022-07-18 | 2023-06-21 |

@@ -5858,7 +5858,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 201951,
       "name": "Lw",
       "url": "https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb"
@@ -10276,7 +10276,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"
@@ -11835,6 +11835,24 @@
     },
     {
       "album": {
+        "name": "\u062d\u0644\u0648\u0629 \u0645\u0646\u0643 (\u0645\u0646 \u0641\u064a\u0644\u0645 \"\u0641\u0648\u064a! \u0641\u0648\u064a! \u0641\u0648\u064a!\")",
+        "url": "https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210219,
+      "name": "\u062d\u0644\u0648\u0629 \u0645\u0646\u0643 (\u0645\u0646 \u0641\u064a\u0644\u0645 \"\u0641\u0648\u064a! \u0641\u0648\u064a! \u0641\u0648\u064a!\")",
+      "url": "https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY"
+    },
+    {
+      "album": {
         "name": "\u062d\u0645\u0631\u0627",
         "url": "https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe"
       },
@@ -12882,7 +12900,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 206132,
       "name": "\u0644\u0645\u0648\u0646 \u0646\u0639\u0646\u0627\u0639",
       "url": "https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM"

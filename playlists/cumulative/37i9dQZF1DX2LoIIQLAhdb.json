@@ -610,10 +610,28 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 154285,
       "name": "Comme toi (Acoustique)",
       "url": "https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX"
+    },
+    {
+      "album": {
+        "name": "Comme toi (Acoustique)",
+        "url": "https://open.spotify.com/album/30Zdh9wOGIaWvotg9Cno5e"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Comme toi - Acoustique",
+      "url": "https://open.spotify.com/track/1Hc4GdYRgEZIPpdmopnAui"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: SYTË
 
-3,132 songs - 6 day 15 hr 25 min
+3,133 songs - 6 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2368,7 +2368,8 @@
 | [Seen](https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Seen](https://open.spotify.com/album/4pQgKTITrIp8lNGKwNWjWg) | 3:27 | 2022-03-02 | 2022-04-28 |
 | [Self Love](https://open.spotify.com/track/395N8kaDiSMOxX1O88j8Pa) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Self Love](https://open.spotify.com/album/1tsUsjbpk5TFwbyWWzxv8E) | 2:24 | 2020-10-29 | 2020-12-08 |
 | [Self Worth](https://open.spotify.com/track/1ScAQLROZ2D8GwJB32Pofn) | [Cam Blake](https://open.spotify.com/artist/7GFlYYbakjTUZam601uH3f), [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1), [MXTN](https://open.spotify.com/artist/3ZuRzzyBTd26JejlKXdUGM) | [Self Worth](https://open.spotify.com/album/1UGbuprEb1TOvU5B8bPZ8x) | 3:42 | 2020-11-27 | 2020-12-08 |
-| [Selfish](https://open.spotify.com/track/1Wf7dRAvAqd9ljdK7nQm6u) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Selfish](https://open.spotify.com/album/7ueosuOsr1inTBJ9Q0UZ2e) | 3:08 | 2023-08-16 |  |
+| [Selfish](https://open.spotify.com/track/0eULUaJUMtoydP0Lnh4kM3) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Selfish](https://open.spotify.com/album/7GxlYeupeHHAttLZFBARef) | 3:08 | 2023-08-16 |  |
+| [Selfish](https://open.spotify.com/track/1Wf7dRAvAqd9ljdK7nQm6u) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Selfish](https://open.spotify.com/album/7ueosuOsr1inTBJ9Q0UZ2e) | 3:08 | 2023-08-16 | 2023-09-09 |
 | [Selfish](https://open.spotify.com/track/7eWHF1vaNW7W8W8GotYrlq) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Selfish](https://open.spotify.com/album/67pLH9BcT0kwLCfFErRuvO) | 2:30 | 2022-03-23 | 2022-05-05 |
 | [send me to rehab](https://open.spotify.com/track/03p1bfqwZOA9ZEDZRikgBz) | [Leo IV](https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN), [Nicolas Sales](https://open.spotify.com/artist/33D93tU7fXP3fBpKjgRJz7) | [send me to rehab](https://open.spotify.com/album/7fz35wjWKOSAbaN7WJX8ua) | 2:37 | 2021-02-25 | 2021-03-25 |
 | [Send Nudes](https://open.spotify.com/track/2QK0BfzedC7H271NaXIFM9) | [Cameron Forbes](https://open.spotify.com/artist/3Uc9JxIQcr0yZeDIS3KFuz) | [Send Nudes](https://open.spotify.com/album/25UuVIt1z3QR3l1KfE0ppQ) | 2:45 | 2021-08-05 | 2021-09-30 |

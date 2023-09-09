@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-197 songs - 11 hr 20 min
+198 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Dueto](https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt) | [Caravanas](https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu) | 3:22 | 2022-04-01 | 2023-08-23 |
 | [E Então? \(Boa Pergunta\)](https://open.spotify.com/track/3ii68HhzAGofvCf4cX8fhM) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Mondocane](https://open.spotify.com/album/1KGJuy2cDtQhtmXjshHhfH) | 2:20 | 2022-04-01 | 2022-04-19 |
 | [Ela \- Unpeeled](https://open.spotify.com/track/3Vxt4RJ00AdZ8f7aKtrPXx) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Ela \(Unpeeled\)](https://open.spotify.com/album/4cM3ItMRm0LK4LVS7km9Hi) | 2:59 | 2022-04-01 | 2022-04-19 |
+| [Em Você](https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Em Você](https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz) | 2:22 | 2023-09-08 |  |
 | [Esotérico](https://open.spotify.com/track/7uFykXsw7lchBQj2B4UbNR) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:22 | 2022-04-01 | 2022-04-20 |
 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 | 2022-02-18 | 2023-05-05 |
 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 | 2022-04-01 | 2022-04-21 |
@@ -182,7 +183,7 @@
 | [Todo Dia](https://open.spotify.com/track/5llLJnrQq6shUp9uptOkPx) | [Carol Mainá](https://open.spotify.com/artist/36Ttpg703LUOHbSL9iohXu) | [Carol Mainá](https://open.spotify.com/album/440jJk2ORhCL2O50ZTvpDR) | 2:39 | 2022-04-01 | 2022-04-18 |
 | [Todo Espaço](https://open.spotify.com/track/0lQtqENLpEIWna5RDpqBRe) | [Gisele De Santi](https://open.spotify.com/artist/54CaNC4xD1O3wD2dQzbuDn) | [Todo Espaço](https://open.spotify.com/album/44ir5gqTZztaYb0e3tElfR) | 3:31 | 2022-04-01 | 2022-06-27 |
 | [Todo Fim É Recomeço](https://open.spotify.com/track/7vu1g2hGpNOONfzWfcTqCt) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Todo Fim É Recomeço](https://open.spotify.com/album/5AV92uLFFtuuF5HuzLGkNy) | 2:23 | 2022-04-01 | 2022-04-21 |
-| [Transforma\(dor\)](https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Transforma\(dor\)](https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc) | 2:23 | 2022-02-18 |  |
+| [Transforma\(dor\)](https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Transforma\(dor\)](https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc) | 2:23 | 2022-02-18 | 2023-09-09 |
 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 | 2022-02-18 |  |
 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 | 2022-02-18 |  |
 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 | 2023-08-25 |  |

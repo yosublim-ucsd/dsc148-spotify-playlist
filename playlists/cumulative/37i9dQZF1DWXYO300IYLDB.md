@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-281 songs - 16 hr 49 min
+282 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [From Gold](https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs) | 3:34 | 2023-04-13 | 2023-07-19 |
 | [From My Side](https://open.spotify.com/track/0MtwU2O5WxNXzE9UeFNqXg) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [From My Side](https://open.spotify.com/album/5qqmp9a4tJjR6vNphVdTYA) | 4:01 | 2023-02-28 | 2023-03-22 |
 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 | 2022-10-20 | 2022-12-14 |
-| [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 | 2023-09-05 |  |
+| [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 | 2023-09-05 | 2023-09-09 |
+| [Grateful](https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 3:40 | 2023-09-07 |  |
 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 | 2022-10-20 |  |
 | [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 | 2023-05-02 | 2023-06-11 |
 | [Guessing](https://open.spotify.com/track/3PQ1bonWWQ3qvnT8ptF8jf) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 5:03 | 2023-06-08 | 2023-08-18 |

@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-195 songs - 9 hr 17 min
+196 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [I'm Me And You're You](https://open.spotify.com/track/3y0p9bvdMT8hGZzRseZXEb) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Under A Shady Tree](https://open.spotify.com/album/6f7pFWEwVTTivCKpD9F54q) | 1:38 | 2022-04-15 |  |
 | [I\-M\-A\-G\-I\-N\-A\-T\-I\-O\-N](https://open.spotify.com/track/4JMgVTrx79cya7i4Go8WTy) | [Walter Martin](https://open.spotify.com/artist/1HvCWUrKX1xKeT3yQXjPeI), [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [We're All Young Together](https://open.spotify.com/album/1Fg8KIAfk2W05tRhSwaAbg) | 3:42 | 2022-04-15 |  |
 | [I\-M\-a\-G\-I\-n\-a\-T\-I\-O\-n \(feat\. Kat Edmonson\)](https://open.spotify.com/track/6xKr3ZNPYxW4oHhRwPX3un) | [Walter Martin](https://open.spotify.com/artist/1HvCWUrKX1xKeT3yQXjPeI), [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [We're All Young Together](https://open.spotify.com/album/0eUVVjxzoiLSq9LH979pcH) | 3:42 | 2022-04-15 | 2022-07-29 |
+| [If I Had A Hammer](https://open.spotify.com/track/4kVycyVbscsthECqKbPEt1) | [Emily Arrow](https://open.spotify.com/artist/0kUpZhl1fznhuvszZ4g0C9) | [Sing\-Along with Emily Arrow](https://open.spotify.com/album/0FNmutc36Ui3m8oLUg20Ji) | 2:44 | 2023-09-08 |  |
 | [If You Want a Song](https://open.spotify.com/track/3bBfxubsXAAuBGZBUpVijm) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [If You Want a Song](https://open.spotify.com/album/3zTVV2mDRYt3QZYx7TVZ3i) | 2:01 | 2022-04-15 | 2022-07-29 |
 | [If You Want a Song](https://open.spotify.com/track/58sw5NvBcQsvxOCtjXuq6N) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:01 | 2022-04-15 | 2023-04-30 |
 | [If You Want a Song](https://open.spotify.com/track/7m3kQphnCskJCwKhjUayBd) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:01 | 2023-02-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Suzan & Freek en Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,602 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,685 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Het Is Oké](https://open.spotify.com/track/7eNPGRuvBe9QIMCg8iADqM) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Het Is Oké](https://open.spotify.com/album/20mUdY2uXTDQN9TglefuWu) | 2:34 |
 | 80 | [Voel Jij Dat Ook](https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Voel Jij Dat Ook](https://open.spotify.com/album/2KHhOp8mQfdJRdvtr3953D) | 2:43 |
 
-Snapshot ID: `MCwyYjhhZGJhZWY2ZGI5MDUxMmI5YWI1ZmU3MGFiM2QxOWMzMzc4Mzlm`
+Snapshot ID: `MCxjNjAzYjU2ZGIxODlmZmY4NTkyZjc0OTJiMGIyYTJlZDg1MzQ1OTNh`

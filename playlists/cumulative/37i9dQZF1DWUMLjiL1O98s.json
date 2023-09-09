@@ -2247,6 +2247,32 @@
     },
     {
       "album": {
+        "name": "SPANISH TETEO",
+        "url": "https://open.spotify.com/album/5LcKv1TwB32BLjtvkKYbA0"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "SPANISH TETEO",
+      "url": "https://open.spotify.com/track/5qYEnemubz0o1cXwdhaQel"
+    },
+    {
+      "album": {
         "name": "Sugarcane (Latin Remix)",
         "url": "https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366"
       },

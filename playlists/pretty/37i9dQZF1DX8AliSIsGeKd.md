@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Stella Bossi
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,782 likes - 90 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,034 likes - 90 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 8 | [Nummer Eins](https://open.spotify.com/track/5PFpv3JOwU4uFGNd5RGSgk) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Nummer Eins](https://open.spotify.com/album/11vG10q2t5kurUck0csM99) | 3:16 |
 | 9 | [Scriptio Continua](https://open.spotify.com/track/5RkVKl0tsoVSXTigQ4bS0a) | [Brennen Grey](https://open.spotify.com/artist/342JB4Bfj8Q7qdOraq3nMz), [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Scriptio Continua](https://open.spotify.com/album/6LvAgGpJbpzHEC44b080ZN) | 3:56 |
 | 10 | [Metropolis](https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Metropolis](https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj) | 4:33 |
-| 11 | [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 |
+| 11 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 |
 | 12 | [I Am Human](https://open.spotify.com/track/1AUmprQhFQT2iEijMQOxIX) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [I Am Human](https://open.spotify.com/album/4EBT8zKxfovEcG7J85jSgF) | 5:00 |
 | 13 | [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/track/2NHygo6Jm4sUgKw76WvaJp) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Your Love \(feat\. House Gospel Choir\) \(Helsloot Remix\)](https://open.spotify.com/album/6MoSADkkX59Vn5RDrNcDyw) | 4:13 |
 | 14 | [Vision](https://open.spotify.com/track/19lFvHpkfrYqRPmMikJkCc) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo) | [Interstellar VA](https://open.spotify.com/album/0zLp1X5Lu6SA5r9Ui9EWuS) | 5:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Old School](https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Old School EP](https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw) | 5:31 |
 | 90 | [Higher](https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Raredub](https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4) | [HIGHER](https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT) | 5:41 |
 
-Snapshot ID: `MCw3Y2E4OWQwOWRhYjI5N2FkODViNDZjNmEwZjMyMmFmYWM1YTViZTNm`
+Snapshot ID: `MCw4NTJhMzY3NmY3Yjc5MmMyZTFiMWNhNTYwYjdjNjhiOThkMDFjZmFl`

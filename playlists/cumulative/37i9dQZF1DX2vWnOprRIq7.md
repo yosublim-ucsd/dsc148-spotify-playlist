@@ -2,9 +2,9 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado fluorescente del indie latino featuring Peces Raros.
+> El lado fluorescente del indie latino featuring Laika Perra Rusa.
 
-185 songs - 11 hr 9 min
+186 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [ACAPULCO GOLD](https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [ACAPULCO GOLD](https://open.spotify.com/album/6uNd8ONIK8m3CBHlOcSv7x) | 2:58 | 2023-03-17 | 2023-05-20 |
 | [ACUARIO](https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [ACUARIO](https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr) | 4:32 | 2023-07-14 |  |
 | [Affaire de Colección \- Remix](https://open.spotify.com/track/0dHpIAezpDGLW27v6g7ek0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Cherry Blossom Season](https://open.spotify.com/artist/2aPmfWsTvrWOsVPFlCDwX7) | [Affaire](https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt) | 3:36 | 2023-04-21 | 2023-05-14 |
+| [Alaska](https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb), [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [Matanza](https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3) | 4:09 | 2023-09-08 |  |
 | [Altar](https://open.spotify.com/track/3WyJCG5TITCX9XlgIkD3oj) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf) | [Altar](https://open.spotify.com/album/6gxBp3aafZ9LzXD1M2Remx) | 3:55 | 2023-03-17 | 2023-07-09 |
 | [Amor de Verano \- Remix](https://open.spotify.com/track/17JNR3nqwbVAJf9dA5Eklk) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz), [Polska](https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk) | [Amor de Verano \(Remix\)](https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc) | 2:54 | 2023-07-21 |  |
 | [Amor Perfecto \- Reprise](https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Amor Perfecto \(Reprise\)](https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7) | 3:02 | 2023-03-17 | 2023-06-28 |
@@ -78,7 +79,7 @@
 | [Extraño ser](https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Extraño ser](https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU) | 4:07 | 2023-03-17 | 2023-05-18 |
 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 | 2023-07-07 |  |
 | [Fiebre](https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF) | [DEFENSA](https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [7 canciones antes de que nos corten la luz](https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm) | 3:43 | 2023-03-17 |  |
-| [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 | 2023-03-25 |  |
+| [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 | 2023-03-25 | 2023-09-09 |
 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 | 2023-08-18 |  |
 | [FRONTERAS](https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH) | [Yuls](https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS) | [FRONTERAS](https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8) | 3:33 | 2023-03-17 | 2023-08-31 |
 | [Fuerte](https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Fuerte](https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5) | 3:49 | 2023-08-25 |  |

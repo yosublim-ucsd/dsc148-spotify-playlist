@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-419 songs - 1 day 1 hr 46 min
+420 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Absentee](https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Tip of the Sphere](https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG) | 2:48 | 2022-12-12 |  |
 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 | 2022-05-25 |  |
 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-01 | 2022-07-20 |
-| [All My Dreams](https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:23 | 2023-03-24 |  |
+| [All My Dreams](https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:23 | 2023-03-24 | 2023-09-09 |
 | [all of my lessons](https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [all of my lessons](https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO) | 2:56 | 2023-04-14 |  |
 | [All Of The Women \[Feat\. Sa\-Roc\] \- dim star remix](https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg), [dim star](https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3) | [All Of The Women \[Feat\. Sa\-Roc\] \(dim star remix\)](https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK) | 4:39 | 2022-04-01 | 2022-07-15 |
 | [All Or Nothing](https://open.spotify.com/track/6EX51OpDu9WQ7NW4HWg6Ma) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [All Or Nothing](https://open.spotify.com/album/5kLPrwpClELL49c0bLc7hn) | 3:55 | 2021-11-12 | 2022-01-15 |
@@ -408,6 +408,7 @@
 | [Under the Concrete](https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Into the Depths of Hell](https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c) | 3:25 | 2021-11-12 | 2023-09-04 |
 | [Upside Down](https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:08 | 2021-11-12 | 2022-07-29 |
 | [Valentine Shmalentine](https://open.spotify.com/track/05clJaG0NPoowlJR4sUknK) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Valentine Shmalentine](https://open.spotify.com/album/4wJfdMhH8mTiEr2e9wGWT4) | 3:58 | 2021-11-12 | 2022-01-01 |
+| [Was Always You](https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj) | [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Was Always You](https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS) | 3:16 | 2023-09-08 |  |
 | [We Cannot Resist \- Edit](https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [We Cannot Resist](https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW) | 3:13 | 2021-11-12 | 2022-07-29 |
 | [We Watch The Stars \- Berlin Session](https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [We Watch The Stars](https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY) | 3:45 | 2021-11-12 | 2022-07-27 |
 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 | 2021-11-12 | 2023-07-19 |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-1,687 songs - 4 day 13 hr 6 min
+1,688 songs - 4 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [HAPPY DATE](https://open.spotify.com/track/47YZnM5mDLO3r4223yZnbA) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [HAPPY DATE](https://open.spotify.com/album/18DFTh569GXJJqvziu7hQD) | 2:55 | 2023-04-11 | 2023-04-19 |
 | [Happy Ending](https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Ending](https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny) | 3:49 | 2023-06-13 | 2023-08-30 |
 | [happy ending](https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ending](https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP) | 3:49 | 2023-06-13 | 2023-06-15 |
+| [Harajuku Boy](https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL) | [City Cyndrome](https://open.spotify.com/artist/3rW1Y4T5r97bJBG7b2HqjY) | [Harajuku Boy](https://open.spotify.com/album/2UaG3U6D0jXC898hXNUbow) | 5:11 | 2023-09-08 |  |
 | [Hatati20](https://open.spotify.com/track/61WBPwkpN6CKIWcVZJBHIM) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [Hatati20](https://open.spotify.com/album/6dGShhrVFOCyc1Ovbhqmbw) | 4:38 | 2023-05-09 | 2023-05-17 |
 | [Hateshinai Futari](https://open.spotify.com/track/4nIDnd8FurNoauKpwUEg1y) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:42 | 2023-03-30 | 2023-04-05 |
 | [Hateshinai Futari](https://open.spotify.com/track/6leWYHCjGa8xdExUj5DtR1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Hateshinai Futari](https://open.spotify.com/album/5MBxq5TrnTGAsQD77RU5k2) | 4:44 | 2022-10-06 | 2023-04-01 |
@@ -805,7 +806,7 @@
 | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/track/63pfEg9b672lMq3ToiKCwp) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [Structure Of Romance \(feat\. Kyoko Koizumi\)](https://open.spotify.com/album/4PuC95zmLCAs0BKSDMgwBu) | 3:14 | 2023-02-14 | 2023-02-16 |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-22 | 2022-11-24 |
 | [Stuck Wit U](https://open.spotify.com/track/5nDIBUarJMA7qlpuiryATA) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Stuck Wit U](https://open.spotify.com/album/29vqF5DQuNIzcYM0tept6C) | 3:33 | 2023-05-11 | 2023-05-17 |
-| [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 |  |
+| [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 | 2023-09-09 |
 | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/track/754uqLwH2sy5PlVSjluNRB) | [Tomoko Ikeda × TENDRE](https://open.spotify.com/artist/2OFTI9ZTwbhY8cT0k7HU2P) | [Suisei × Konyawa Boogie Back nice vocal](https://open.spotify.com/album/0feblWhwtVCFblpekmrmjJ) | 5:01 | 2022-08-02 | 2023-05-31 |
 | [suitcase](https://open.spotify.com/track/22Mu9Hru4V2M8o3PqTnDxU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [suitcase](https://open.spotify.com/album/0VTiDNmwC9dKN6JPzvyahk) | 3:48 | 2022-05-29 | 2022-07-19 |
 | [Suki](https://open.spotify.com/track/4EwFfgL6ljn9ihPw82uENo) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Suki](https://open.spotify.com/album/4FSCl70qEsQocSVjyuvE6v) | 2:52 | 2022-07-28 | 2022-09-09 |

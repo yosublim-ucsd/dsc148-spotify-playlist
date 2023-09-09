@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Hedgehog
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,011 likes - 109 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 109 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 108 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 109 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxiYjY5MGQzOTIyZmY5MTM4NWMyYWY3NTRmMDgwOTgxODYyMGUwY2Nj`
+Snapshot ID: `MCxhM2I5OWZlOTRkYjVkZTQwMTc5OTBhNGZjOGQ3ODc0ODAxNTViNDBl`

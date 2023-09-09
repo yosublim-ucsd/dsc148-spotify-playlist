@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: SPIRIT OF THE BEEHIVE. ",
+  "description": "Underground indie rock gems. Cover: Blondshell. ",
   "name": "undercurrents",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 170708,
       "name": "Alone In December",
       "url": "https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 98000,
       "name": "Brian's Song",
       "url": "https://open.spotify.com/track/7hOzRvvBx8DP72zGUxBVl8"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 208640,
       "name": "Crimson to Chrome",
       "url": "https://open.spotify.com/track/4L8vpnqvHQucS2jakCHztD"
@@ -6452,6 +6452,24 @@
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
+    },
+    {
+      "album": {
+        "name": "fool for you",
+        "url": "https://open.spotify.com/album/4CpWJqS8wfTKf3Osp4uwoz"
+      },
+      "artists": [
+        {
+          "name": "yuronono",
+          "url": "https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199879,
+      "name": "fool for you",
+      "url": "https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz"
     },
     {
       "album": {
@@ -9703,6 +9721,24 @@
     },
     {
       "album": {
+        "name": "Jesse",
+        "url": "https://open.spotify.com/album/1z1QZIgQgVOby69R7KjA1Q"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175108,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d"
+    },
+    {
+      "album": {
         "name": "WANDERKID",
         "url": "https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs"
       },
@@ -10590,6 +10626,24 @@
       "duration_ms": 202433,
       "name": "Liminal Bliss",
       "url": "https://open.spotify.com/track/0FREubimbOKkZtEVbdy9f5"
+    },
+    {
+      "album": {
+        "name": "Everyone is a Light",
+        "url": "https://open.spotify.com/album/5ODMhLWkrPj2QRK22zyWdU"
+      },
+      "artists": [
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304258,
+      "name": "Lingr",
+      "url": "https://open.spotify.com/track/6bvcW9B4iwgGesSCoS7iPX"
     },
     {
       "album": {
@@ -15491,6 +15545,24 @@
     },
     {
       "album": {
+        "name": "Little Demon Boy",
+        "url": "https://open.spotify.com/album/1DubHATL9RqfbfD6Y1lAWa"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147178,
+      "name": "Split Up",
+      "url": "https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9"
+    },
+    {
+      "album": {
         "name": "Spring Bug",
         "url": "https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L"
       },
@@ -15751,6 +15823,24 @@
     },
     {
       "album": {
+        "name": "Street Rat",
+        "url": "https://open.spotify.com/album/1dSWDvAoExxAwJj2Hf7kTB"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Street Rat",
+      "url": "https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q"
+    },
+    {
+      "album": {
         "name": "Am I sinking or Am I swimming?",
         "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
       },
@@ -15906,7 +15996,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 204253,
       "name": "Sun In",
       "url": "https://open.spotify.com/track/3Rz9sSI0He1TfqcvQliaA2"
@@ -18632,7 +18722,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 294000,
       "name": "winter prayer",
       "url": "https://open.spotify.com/track/1E5dzu6VFqQKRERcOy3ake"

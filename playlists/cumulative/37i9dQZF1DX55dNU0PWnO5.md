@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: berlioz
 
-374 songs - 22 hr 46 min
+375 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Brighton](https://open.spotify.com/track/6Xl0JyVz25vWDIFfLERYQz) | [Phil Spankler](https://open.spotify.com/artist/7H9nvRwzRw3cWKrAWoY6Pj), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Brighton](https://open.spotify.com/album/6R1oCkivYasjO8mmzZre9B) | 3:15 | 2021-09-03 |  |
 | [Brighton](https://open.spotify.com/track/7CrqU9028RFFNCGvVLERWy) | [Phil Spankler](https://open.spotify.com/artist/7H9nvRwzRw3cWKrAWoY6Pj), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Brighton](https://open.spotify.com/album/5Gx1g7YcTlOzF9fEbbwCep) | 3:15 | 2021-08-27 | 2022-07-19 |
 | [BUBBA](https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [FACING](https://open.spotify.com/album/5vfsrL6HaXht2KP08gbxmk) | 2:02 | 2022-11-04 |  |
-| [Bubblegum Dreams](https://open.spotify.com/track/2OQ7ETKkq9b11qNKzpBJR5) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Bubblegum Dreams](https://open.spotify.com/album/12Mlypu8Vj37LF8MNmTGeq) | 3:33 | 2023-05-26 |  |
+| [Bubblegum Dreams](https://open.spotify.com/track/2OQ7ETKkq9b11qNKzpBJR5) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Bubblegum Dreams](https://open.spotify.com/album/12Mlypu8Vj37LF8MNmTGeq) | 3:33 | 2023-05-26 | 2023-09-09 |
 | [Buckle Up](https://open.spotify.com/track/6B1TQPyyswTiskhWurN1Rs) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk) | [Buckle Up](https://open.spotify.com/album/4mBCq5MffoxUYKJFx4aU1U) | 5:02 | 2021-01-29 | 2022-03-26 |
 | [By Your Side](https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [By Your Side](https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX) | 2:50 | 2022-07-05 |  |
 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-11 |  |
@@ -118,6 +118,7 @@
 | [Elias](https://open.spotify.com/track/7gypKFtIpctPB9CjofGdEC) | [pyxis](https://open.spotify.com/artist/6Hb29cwvtPMH6wThCBqGQ5) | [Gradients Part One](https://open.spotify.com/album/2Cyt2GG3bGywzFbgOt2y7k) | 4:56 | 2022-07-29 |  |
 | [Endless Thoughts](https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd) | [Modha](https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK) | [Endless Thoughts](https://open.spotify.com/album/14rKM6D986UMKoXe62UCNb) | 3:57 | 2022-11-18 |  |
 | [ENTRACTE](https://open.spotify.com/track/0IpxDJ7BDaxPPpKeAi4qSv) | [Adavity](https://open.spotify.com/artist/7Jm9YJi9PVizGnyZefPbnm), [Camille Duboisset](https://open.spotify.com/artist/6Oskmwind5cp2CFslM6iUQ) | [ENTRACTE](https://open.spotify.com/album/0FcdXLZUlCV950vNyREfiQ) | 3:08 | 2022-04-15 |  |
+| [Envy](https://open.spotify.com/track/6fvjWDduFww2xtnGDvoIqb) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Envy](https://open.spotify.com/album/07Ehnt6vUeLzcL6tjAMs67) | 2:57 | 2023-09-08 |  |
 | [Event Horizon](https://open.spotify.com/track/2atQCpkWypd5udIH44jeZW) | [JZZPLSN](https://open.spotify.com/artist/43dLnx1uxeGzDna4It4ZBS), [The Calle Stenman Quintet](https://open.spotify.com/artist/33HmwOuCQt9l75KLBR557Y), [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Event Horizon](https://open.spotify.com/album/2Q6rIISCqrxSMfbKTvIWKu) | 3:41 | 2022-06-10 |  |
 | [Existential Being](https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Virtual Essence](https://open.spotify.com/album/6lTeR0g2ksvePonTWXQ0U8) | 2:38 | 2022-01-28 | 2022-07-29 |
 | [Expedition](https://open.spotify.com/track/5xCeDshnYgGftDALYye1EQ) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Expedition](https://open.spotify.com/album/42rnoZ9GP4PYb31JO4vvd4) | 2:50 | 2023-05-12 |  |

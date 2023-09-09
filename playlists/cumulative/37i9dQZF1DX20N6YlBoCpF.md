@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=xhqsEMvkSOGLmiT6ebA5gw">Marno van der Merwe</a>
 
-509 songs - 1 day 4 hr 54 min
+510 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 | 2022-12-27 | 2023-01-02 |
 | [Hey Zonnebloem](https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Zonnebloem](https://open.spotify.com/album/7lHVCPQO5bkTAdU7b9l3oN) | 3:27 | 2023-05-04 | 2023-06-02 |
 | [Heyto Tarentaal](https://open.spotify.com/track/52t66isWqxRYfK9JbmGQyR) | [Min\-Gespin](https://open.spotify.com/artist/4H5JirQylmftbVgorviv7r) | [Heyto Tarentaal](https://open.spotify.com/album/6dgm4oTca86Db4GUiREyDG) | 2:54 | 2023-02-16 | 2023-03-10 |
+| [Hiep hiep hoera](https://open.spotify.com/track/2Z0yydrGeU24bvSsBeVAU9) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Hiep hiep hoera](https://open.spotify.com/album/0O8aeEdjVkgRFsPm9OPQAx) | 3:21 | 2023-09-08 |  |
 | [Hier](https://open.spotify.com/track/29ljVoGeYTwLcytT8K3aHN) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Hier](https://open.spotify.com/album/4kkdagS5B8Ovx6QvOQnHP0) | 4:15 | 2023-08-10 | 2023-08-25 |
 | [Hier Gaat Ons Alweer](https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv) | [Pieter Koen](https://open.spotify.com/artist/42MoeGwwUSE0x4u9PHvSif) | [Hier Gaat Ons Alweer](https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3) | 3:14 | 2022-10-06 | 2022-12-02 |
 | [Hier Staan Ons Nou](https://open.spotify.com/track/4i2py4zqO0pIYRFcQEcZy1) | [Ruth](https://open.spotify.com/artist/43Cmk2gCV7s1erB5VtXQbl) | [Hier Staan Ons Nou](https://open.spotify.com/album/0Olcj5gwF5R1l6HxjJmN66) | 2:59 | 2023-06-08 | 2023-06-23 |
@@ -284,7 +285,7 @@
 | [Mal](https://open.spotify.com/track/4A2O8W7Khl31dJqn4wzzUk) | [Juan Griffith](https://open.spotify.com/artist/1Vwl9rslnh9TO7Y05EgbgN) | [Mal](https://open.spotify.com/album/4KuUIE12ZsBqM62DiHljNI) | 4:16 | 2023-08-24 | 2023-09-08 |
 | [Mal Maandagaande](https://open.spotify.com/track/6oW7y2wkmHiO95rwinPANA) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Mal Maandagaande](https://open.spotify.com/album/0XUoQmK7E5z2Dql7QMkCOp) | 2:13 | 2023-05-04 | 2023-06-30 |
 | [Man so na my hart](https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL) | [Elizma Theron](https://open.spotify.com/artist/63XPx0RP7mfLOJ1BJ3HoMU) | [Man so na my hart](https://open.spotify.com/album/5R7biF12QJgeuIpZzqVc3C) | 3:17 | 2023-02-09 | 2023-06-10 |
-| [Marakas](https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Marakas](https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs) | 4:01 | 2023-08-03 |  |
+| [Marakas](https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Marakas](https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs) | 4:01 | 2023-08-03 | 2023-09-09 |
 | [Medals For Mothers](https://open.spotify.com/track/4G7vWcAoCZzjldPtXmyBmD) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Medals For Mothers](https://open.spotify.com/album/45VghDmrR2mKGhxTJnELoE) | 2:45 | 2023-05-11 | 2023-05-30 |
 | [Meisie Van Fraserburg](https://open.spotify.com/track/2TwzvxiOUxwC1FGrrzAamc) | [Francois Boyce](https://open.spotify.com/artist/0Hyqs3YkRrCLahzGsb8qk3) | [Meisie van Fraserburg](https://open.spotify.com/album/73e09G7FUYUGzXlktr5I5g) | 3:04 | 2022-09-22 | 2022-10-07 |
 | [Meisiesfontein](https://open.spotify.com/track/5LDGLm6yYpeol850thZVJg) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Meisiesfontein](https://open.spotify.com/album/27EC0xnYStcjdqFkCgRfmk) | 3:58 | 2022-12-27 | 2023-01-02 |

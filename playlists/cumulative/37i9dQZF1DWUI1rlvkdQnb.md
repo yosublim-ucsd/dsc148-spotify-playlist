@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-176 songs - 9 hr 18 min
+177 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Relaxar](https://open.spotify.com/track/517MFgG7lzEZn286TL5F74) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:57 | 2021-12-10 | 2022-08-13 |
 | [Repetetive Chattering Mind](https://open.spotify.com/track/6l8Xxuu9DMIEzZqfvedNZA) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Findings Inside](https://open.spotify.com/album/4kyzuLwgaOBwVrpMI9hBXH) | 3:13 | 2021-12-10 |  |
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 |  |
+| [Resonance](https://open.spotify.com/track/2BvNx9meCJYzVXHVKdSL7X) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Resonance](https://open.spotify.com/album/3AQyZpDhvOtnL602e3W5z2) | 2:52 | 2023-09-08 |  |
 | [Sajama](https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Sajama](https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6) | 3:06 | 2021-12-10 |  |
 | [Salaio](https://open.spotify.com/track/3JtiHgyAOj8mvHUi5zR3Sq) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Salaio](https://open.spotify.com/album/1wp9I2G3CzvuTB8LpBQ52k) | 2:36 | 2021-12-10 |  |
 | [Salamanca](https://open.spotify.com/track/04NXOnaOXZdHPYkldpqcCg) | [Salvador Vega](https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs) | [La Mancha 34](https://open.spotify.com/album/0T7TfOC2jHTwFFT0Spdkz9) | 3:30 | 2022-06-29 | 2022-09-15 |

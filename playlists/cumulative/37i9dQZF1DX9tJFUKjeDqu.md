@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-134 songs - 8 hr 27 min
+135 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 | 2022-07-08 | 2023-07-22 |
 | [Blues for Rj](https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Geoff Bartley](https://open.spotify.com/artist/2B6pHv1CQAmCQBN7OrTlGB) | [Folk & Blues Guitar](https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2) | 1:52 | 2022-05-27 | 2023-08-24 |
 | [Blues For Ruthie Foster](https://open.spotify.com/track/6DVDYuQPe6XIC21qDUKhzR) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 5:23 | 2022-04-15 |  |
-| [Blues On 5th Avenue](https://open.spotify.com/track/2AmEPE041ByXKpMuNGlfPf) | [Patrick Yandall](https://open.spotify.com/artist/4sdBlhjR2yhvidXrNrzimI) | [Of Two Cities](https://open.spotify.com/album/7iWSzyoy9SrCmIIRAY9s1w) | 5:14 | 2022-04-15 |  |
+| [Blues On 5th Avenue](https://open.spotify.com/track/2AmEPE041ByXKpMuNGlfPf) | [Patrick Yandall](https://open.spotify.com/artist/4sdBlhjR2yhvidXrNrzimI) | [Of Two Cities](https://open.spotify.com/album/7iWSzyoy9SrCmIIRAY9s1w) | 5:14 | 2022-04-15 | 2023-09-09 |
 | [Bourbon Please](https://open.spotify.com/track/3udysyynIpSz9II7pDJITA) | [PC Soares](https://open.spotify.com/artist/4kAqX4WBKDxCuyykSu0WMt) | [Bourbon Please](https://open.spotify.com/album/4O01Xv4ikVGTb45Lnhw5uR) | 5:16 | 2022-04-15 |  |
 | [Carrot Blues](https://open.spotify.com/track/258O8WGN7xeiaID4eNESGi) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Carrot Blues](https://open.spotify.com/album/3smwLdvA2PWj7VYTsA9W8J) | 2:19 | 2023-01-27 |  |
 | [Coffee Break Blues](https://open.spotify.com/track/69xc8xiEWlKE4ughhki1uA) | [Benji Strings](https://open.spotify.com/artist/69rJuPwfPst9467Mm44hHs) | [Coffee Break Blues](https://open.spotify.com/album/4UNwW6wGi9XIKupflS2cnj) | 1:53 | 2023-02-24 | 2023-08-24 |
@@ -80,7 +80,7 @@
 | [Le Blues de Berthe](https://open.spotify.com/track/4zZ6FWlCPoKFsbC1147cPZ) | [Luc Allieres](https://open.spotify.com/artist/0LLXba8OeYOYa0e6u4439z) | [Marcelino](https://open.spotify.com/album/0GFbJOOm84hvz0svAuxyuu) | 2:00 | 2022-04-15 | 2022-09-30 |
 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 | 2022-04-15 | 2023-08-05 |
 | [Lenny](https://open.spotify.com/track/1hTcUTeQTIPXK3d91BLVof) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 4:57 | 2022-04-15 | 2022-06-15 |
-| [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-04-15 |  |
+| [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-04-15 | 2023-09-09 |
 | [Little Wing](https://open.spotify.com/track/5108X2u7A5haUtghBXBOJL) | [Brooklyn Casey](https://open.spotify.com/artist/7vdPBmEFfs7UdQIF7j1rhJ) | [Little Wing](https://open.spotify.com/album/1j5ZyGDzl6VD8QMIKLkPhd) | 2:48 | 2023-06-23 | 2023-08-24 |
 | [Marje's Melody](https://open.spotify.com/track/3ZewawA5h2yP6RvhWlBdFq) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:45 | 2022-04-15 | 2022-07-29 |
 | [Marje's Melody](https://open.spotify.com/track/36SpII7Y7MzXhuQe5Xu097) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:45 | 2022-07-08 |  |
@@ -90,6 +90,7 @@
 | [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 | 2022-07-29 |  |
 | [Nowhere But Here](https://open.spotify.com/track/1uPUxTTro7aqDlURkwJoUr) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Nowhere But Here](https://open.spotify.com/album/4jt8PTQTPQapkQJvKGrd4p) | 2:14 | 2023-03-03 |  |
 | [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 | 2022-04-15 |  |
+| [Past and Present](https://open.spotify.com/track/6WavI8LQ7DdAuuYN4IuDOV) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Past and Present](https://open.spotify.com/album/2Ro7ot6kaTFHKToSombkLV) | 2:15 | 2023-09-08 |  |
 | [Pete's Blue](https://open.spotify.com/track/6u4NXJuuZDVQ8QXE8UJ45R) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 7:18 | 2022-04-15 | 2023-08-05 |
 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 | 2022-04-15 |  |
 | [Planet Caravan](https://open.spotify.com/track/0CMXruCTkGen9gLpsTH8xH) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 7:48 | 2022-04-15 |  |
@@ -101,7 +102,7 @@
 | [Rainy Day Blues](https://open.spotify.com/track/3s6ezi7niuEzr1xgqERNsj) | [Michael Fix](https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci) | [Rainy Day Blues](https://open.spotify.com/album/01zVpYm27HjF8DCcCLDn34) | 3:03 | 2022-04-15 |  |
 | [Rainy Day Blues \- Instrumental](https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Rainy Day Blues \(Instrumental\)](https://open.spotify.com/album/6I4k1yLhMfuJGl7j680IXi) | 2:28 | 2022-04-15 |  |
 | [Red Dirt](https://open.spotify.com/track/3z1rYUvrX29vA2thDTTNBs) | [Torbjörn Sörenson](https://open.spotify.com/artist/6hy4IkbbvbRXoXREwZpw4i) | [Red Dirt](https://open.spotify.com/album/1wByxDUH6YkilEPLyvTt3G) | 4:29 | 2022-04-15 |  |
-| [Rememberin' Stevie](https://open.spotify.com/track/2x6sAQFBhY5eqp0yqA0vBD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Baddest: The Best Of Buddy Guy](https://open.spotify.com/album/4dzFJPnPuJT2gjZNfkYkWO) | 6:59 | 2022-04-15 |  |
+| [Rememberin' Stevie](https://open.spotify.com/track/2x6sAQFBhY5eqp0yqA0vBD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Baddest: The Best Of Buddy Guy](https://open.spotify.com/album/4dzFJPnPuJT2gjZNfkYkWO) | 6:59 | 2022-04-15 | 2023-09-09 |
 | [Riviera Paradise](https://open.spotify.com/track/2Pv7Vi2OY2ZTsrZlqZ8k8A) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 8:50 | 2022-04-15 | 2023-08-05 |
 | [Roads](https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Roads](https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz) | 3:15 | 2023-02-17 |  |
 | [Rope Hill](https://open.spotify.com/track/2zdoyrxAfhJcEHRmPW0mFk) | [The Realist](https://open.spotify.com/artist/4xvutMUL908zZKXnq32ObZ) | [The Heart of the Delta](https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx) | 1:25 | 2022-07-29 | 2023-08-24 |

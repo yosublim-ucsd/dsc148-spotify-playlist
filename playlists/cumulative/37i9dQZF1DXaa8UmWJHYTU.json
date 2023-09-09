@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 187221,
       "name": "Campfire Lights Up the Forest Skies",
       "url": "https://open.spotify.com/track/2CEcpa9XRIkz5VwFxcIHYv"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 185125,
       "name": "Fire Burning Sounds",
       "url": "https://open.spotify.com/track/43EwNhgWUo7TDo0fPKk6LC"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 128016,
       "name": "Fireplace Crackle",
       "url": "https://open.spotify.com/track/0votT9A3bI6CTdb4TLUhzA"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 242250,
       "name": "Fireplace Cure",
       "url": "https://open.spotify.com/track/19VVXxS1vHheKAUPepjFnW"
@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Soot Yourself",
+        "url": "https://open.spotify.com/album/2vW5dq1sThlJimbd84lzM2"
+      },
+      "artists": [
+        {
+          "name": "My Cozy Heat",
+          "url": "https://open.spotify.com/artist/4X6uyTlH2FvQLwY0wbnuEM"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Soot Yourself",
+      "url": "https://open.spotify.com/track/7IzUkwdP06HcyuUIP0EuRd"
+    },
+    {
+      "album": {
         "name": "Sound of Flame",
         "url": "https://open.spotify.com/album/6JHv3LN4QdmwYJF5HEYjqf"
       },
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 300373,
       "name": "The Steady Fire and the Small Crackles",
       "url": "https://open.spotify.com/track/5YAWkPz4uaQCkpJ2N1HHQT"

@@ -2,9 +2,9 @@
 
 ### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
 
-> Let the songs speak\. Cover: Fridayy
+> Let the songs speak\. Cover: Hylan Starr
 
-552 songs - 1 day 4 hr 58 min
+554 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-02-18 | 2022-07-15 |
 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 | 2022-03-25 | 2022-07-28 |
 | [Goodbye](https://open.spotify.com/track/1LyHrn75GOF559UF4MNNnv) | [Rachel Foxx](https://open.spotify.com/artist/0t1kdZKkHiXCdjQBVbnN0a) | [Goodbye](https://open.spotify.com/album/075Ohnab70smeOqL80Ykne) | 2:50 | 2021-12-15 | 2022-01-18 |
-| [Gotta Have Faith](https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo) | [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Gotta Have Faith](https://open.spotify.com/album/2tLEHiMTj20zImH3zI3QuL) | 3:25 | 2023-05-26 |  |
+| [Gotta Have Faith](https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo) | [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Gotta Have Faith](https://open.spotify.com/album/2tLEHiMTj20zImH3zI3QuL) | 3:25 | 2023-05-26 | 2023-09-09 |
 | [Gotta Move On](https://open.spotify.com/track/4E8NdFfprLwbouZ46bv75o) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Gotta Move On](https://open.spotify.com/album/0gLmWMI0fbHGPj2fnEl6Yg) | 4:18 | 2021-12-15 | 2022-06-29 |
 | [Grand Rising](https://open.spotify.com/track/1QAZDfOQHp63hkoJqKSM6n) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Toxicity At It's Finest \(Deluxe Version\)](https://open.spotify.com/album/1NgMOYIBY8EvNWNGNoT8Gf) | 3:18 | 2023-04-28 | 2023-05-06 |
 | [Green Eyes](https://open.spotify.com/track/6qvtiA4wQQliK6K7oRdovk) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 10:04 | 2022-03-25 | 2022-04-21 |
@@ -241,6 +241,7 @@
 | [Icarus](https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:30 | 2022-07-15 | 2023-01-28 |
 | [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2021-12-15 | 2022-10-13 |
 | [IDGAF](https://open.spotify.com/track/2bNXO8JjQZY2PkIFJ3XyuB) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Twenties \(Deluxe\)](https://open.spotify.com/album/0bD5bkHCUBQcf6sNg8aRcd) | 2:48 | 2021-12-15 | 2022-04-06 |
+| [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 | 2023-09-08 |  |
 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-09-30 | 2023-01-01 |
 | [If I Get Caught](https://open.spotify.com/track/4Ovm6d3qx2fKyDDq2uVb6K) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:06 | 2022-09-30 | 2023-01-28 |
 | [If Pretty Was A Person](https://open.spotify.com/track/1j7fU1ptLBpN6l6ZjBxgvo) | [Hylan Starr](https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [If Pretty Was A Person](https://open.spotify.com/album/59A7ehBvw2UQRurkZsrk7T) | 2:36 | 2022-11-18 | 2023-02-01 |
@@ -323,6 +324,7 @@
 | [Mistreated \(feat\. Queen Naija\)](https://open.spotify.com/track/58zfAqutz6jGnEbHdyz8G7) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [MOVIE](https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6) | 3:22 | 2021-12-15 | 2022-04-19 |
 | [Money](https://open.spotify.com/track/114OVh0TxTsEnyMQNAd74t) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Money](https://open.spotify.com/album/6igqszsHOnDaH8Y0HR8z63) | 2:48 | 2021-12-15 | 2022-07-27 |
 | [More Than Anything](https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI) | 2:20 | 2023-07-21 | 2023-08-19 |
+| [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 | 2023-09-08 |  |
 | [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 | 2023-07-21 | 2023-09-08 |
 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 | 2022-02-04 | 2023-01-28 |
 | [Motions](https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Motions](https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY) | 3:28 | 2023-02-10 | 2023-03-18 |
@@ -457,7 +459,7 @@
 | [Spin the Block](https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:49 | 2022-11-11 |  |
 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-09 | 2022-12-03 |
 | [Stand By Me](https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:03 | 2023-08-25 |  |
-| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 |  |
+| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 | 2023-09-09 |
 | [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 | 2023-06-02 |  |
 | [Stay Mad](https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Stay Mad](https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V) | 2:11 | 2021-12-15 | 2022-01-27 |
 | [Step 2 Me](https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Soulection](https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft) | [Soulection Takeover: 2K23 Edition](https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1) | 1:50 | 2023-01-27 |  |

@@ -4,7 +4,7 @@
 
 > music to help you \~ focus \~
 
-173 songs - 9 hr 14 min
+176 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2022-11-07 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-24 |  |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-04-19 | 2022-07-09 |
-| [clouds](https://open.spotify.com/track/2jLM1EZ02W1dfenyJUj7Sb) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [clouds](https://open.spotify.com/album/2tAgkFFnifV9TsSdicHDyg) | 3:46 | 2022-04-19 |  |
+| [clouds](https://open.spotify.com/track/2jLM1EZ02W1dfenyJUj7Sb) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [clouds](https://open.spotify.com/album/2tAgkFFnifV9TsSdicHDyg) | 3:46 | 2022-04-19 | 2023-09-09 |
 | [Come Here and Leave Me Alone](https://open.spotify.com/track/0NDx2QYoEdgH9HTn5yfXeA) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/7r7JeEo8jY8QTZvSCLOwir) | 3:06 | 2022-04-19 | 2022-06-24 |
 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab) | 3:30 | 2022-04-19 | 2022-06-16 |
 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 | 2022-04-19 | 2023-03-27 |
@@ -135,6 +135,7 @@
 | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/track/5thDxhqcKA5q8Opd6INQp8) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Notice Me \(feat\. Ruel\)](https://open.spotify.com/album/0ED0HGQmkmWR3o1Uw5Zp5w) | 2:38 | 2022-04-19 | 2022-06-16 |
 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-12 | 2022-11-25 |
 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/7sCdIXPcYIzYmPEl7FdloT) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:17 | 2022-11-17 |  |
+| [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-08 |  |
 | [One Step Back](https://open.spotify.com/track/0PbcYz8RagS1XubUiECkSr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [One Step Back](https://open.spotify.com/album/6IZFt0FKBjYHftD03Sfimc) | 3:34 | 2022-06-23 | 2023-05-20 |
 | [One Step Back](https://open.spotify.com/track/5qoEg8mIXDbEy6pwWZjEF0) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/2UlxAQMoQOarg3nnSkGUzF) | 3:34 | 2023-03-26 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2022-04-19 | 2022-11-18 |
@@ -158,6 +159,7 @@
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-11-07 |  |
 | [Sooner](https://open.spotify.com/track/45z1TVyovToPnkuEKSgTPx) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Sooner](https://open.spotify.com/album/5786eFf3UrHXrA1KEnuYDM) | 2:38 | 2022-04-19 | 2022-06-24 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-04-19 | 2022-07-29 |
+| [Suit Of Blue](https://open.spotify.com/track/76g5SD45yHjayKyX5yr13L) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [You'll Never Know Me Sober](https://open.spotify.com/album/1U8qsvZObGgMMWCKSX3Ch4) | 3:06 | 2023-09-08 |  |
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-08-22 |  |
 | [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 | 2022-08-18 | 2022-10-14 |
 | [Superspreader](https://open.spotify.com/track/7FaIUgTqeTJuoCJRDVsrK9) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/12u39OKDmbqClm1M5JhkHS) | 3:20 | 2022-09-12 |  |
@@ -166,6 +168,7 @@
 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2023-01-26 |  |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-04-19 | 2022-07-09 |
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2022-04-19 | 2023-03-27 |
+| [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-08 |  |
 | [the internet](https://open.spotify.com/track/2oXwBL6QlB7sYBXbvahZke) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [the internet](https://open.spotify.com/album/1Cmb2nNZWbB84xwfESSVYf) | 3:27 | 2022-04-19 | 2023-03-04 |
 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 | 2022-04-19 |  |
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2022-04-19 | 2023-01-25 |
@@ -179,7 +182,7 @@
 | [Wish You Well](https://open.spotify.com/track/6I56gU6RR784U5Tus65qet) | [jas.](https://open.spotify.com/artist/35m7eRKwhoNWAGSPop4m8J) | [Wish You Well](https://open.spotify.com/album/0RzEG0VIBLIEI4FWpS3Wpv) | 2:50 | 2022-04-19 | 2023-03-27 |
 | [Would You](https://open.spotify.com/track/3sDqm2FtWL48tXFavboG6T) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Would You](https://open.spotify.com/album/6Ytj4NLJnepEE2IBqhPHfm) | 2:53 | 2022-04-19 | 2022-06-24 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-04-19 | 2022-09-13 |
-| [You'll Never Know Me Sober](https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [You'll Never Know Me Sober](https://open.spotify.com/album/4VC6vdo96S3JOJmeUYW88U) | 3:13 | 2023-08-22 |  |
+| [You'll Never Know Me Sober](https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [You'll Never Know Me Sober](https://open.spotify.com/album/4VC6vdo96S3JOJmeUYW88U) | 3:13 | 2023-08-22 | 2023-09-09 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-19 | 2023-08-23 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

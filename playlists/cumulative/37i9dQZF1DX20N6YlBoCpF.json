@@ -3125,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "Hiep hiep hoera",
+        "url": "https://open.spotify.com/album/0O8aeEdjVkgRFsPm9OPQAx"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Hiep hiep hoera",
+      "url": "https://open.spotify.com/track/2Z0yydrGeU24bvSsBeVAU9"
+    },
+    {
+      "album": {
         "name": "Hier",
         "url": "https://open.spotify.com/album/4kkdagS5B8Ovx6QvOQnHP0"
       },
@@ -5224,7 +5242,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 241063,
       "name": "Marakas",
       "url": "https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF"

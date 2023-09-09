@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,811 likes - 111 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,831 likes - 111 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 17 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2cYRS293yoUntnfqyzsUrf) | [Huey](https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf), [Dewey](https://open.spotify.com/artist/2baibcPB54ZviMVMj8w25N), [Louie](https://open.spotify.com/artist/7zMwSfJMdl84Ai26VJr8VK), [Daisy Duck](https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB) | [Disney Holiday Magic](https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy) | 2:40 |
 | 18 | [Carol of the Bells](https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:33 |
 | 19 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Stolen Jars](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r) | [Noelle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) | 2:52 |
-| 20 | [Christmas Is Coming](https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb) | [Ross Lynch and R5](https://open.spotify.com/artist/0TGVDRh15yJI04We1mSdt9) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 3:08 |
+| 20 | [Christmas Is Coming](https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb) | [Ross Lynch and R5](https://open.spotify.com/artist/5pqZ35N7W2L1naGMgOddVW) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 3:08 |
 | 21 | [Rise Up \(Joy to the World\)](https://open.spotify.com/track/1We0BQ3tzm1BxJSw4xxMkq) | [Jillian Shea](https://open.spotify.com/artist/6MG9ZA7bWygcE92TnXrTP4) | [Godmothered \(Original Soundtrack\)](https://open.spotify.com/album/2hq50mdkzgz6UEeqnePnGb) | 2:37 |
 | 22 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3xnbm32H80upWWCEY20RQd) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Matt Cornett](https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:18 |
 | 23 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 110 | [Hearts Full of Cheer \- From "Elena of Avalor"](https://open.spotify.com/track/30LsNscPjAU2uzAfMMbrx9) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music Holiday Hits](https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg) | 2:16 |
 | 111 | [Audrey's Christmas Rewind](https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf) | [Sarah Jeffery](https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K), [Jadah Marie](https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz) | [Audrey's Christmas Rewind](https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S) | 2:13 |
 
-Snapshot ID: `MCwyNzAwNjExZDUxZTQ4NWZmNGQzYmNjNGNjNjc3OWIzOThlYWFkZTgx`
+Snapshot ID: `MCw2MzVhZDM3YWI4OGEyMzYxYmNkM2VhYmRmYjQ3NjViMzhjYjFiYmYz`

@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 44309,
+  "num_followers": 44358,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2IzYTJmN2IzN2Q2ZWNlMTgwOGMwNGFlY2FlMTlkZWY4ODU2OWUy",
+  "snapshot_id": "MCxjNTAwNDUzZTJjYjFjZmEzM2EzNWIyOWRkODU1N2MzZGJiZDVhNGRj",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
+      "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Ain't Nobody (Pain)",
-        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
+        "name": "Light Rail Blues (Heart Attack)",
+        "url": "https://open.spotify.com/album/0SjzyBUxbepqv4WXjO7551"
       },
       "artists": [
         {
@@ -36,9 +36,25 @@
           "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
         }
       ],
-      "duration_ms": 207789,
-      "name": "Ain't Nobody (Pain)",
-      "url": "https://open.spotify.com/track/6tS0Y2R790LQSSoepR6wlW"
+      "duration_ms": 191530,
+      "name": "Light Rail Blues (Heart Attack)",
+      "url": "https://open.spotify.com/track/2pspoYRhdCfYleXneEqp9i"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Don't You Touch The Radio",
+        "url": "https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R"
+      },
+      "artists": [
+        {
+          "name": "The Wanton Bishops",
+          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
+        }
+      ],
+      "duration_ms": 219585,
+      "name": "Don't You Touch The Radio",
+      "url": "https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -87,6 +103,22 @@
       "duration_ms": 184733,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Jesse",
+        "url": "https://open.spotify.com/album/1z1QZIgQgVOby69R7KjA1Q"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 175108,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d"
     },
     {
       "added_at": "2022-08-31 19:53:08",
@@ -415,22 +447,6 @@
     {
       "added_at": "2022-08-31 19:53:08",
       "album": {
-        "name": "Chocolate Samurai",
-        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
         "name": "Tell Your Mother",
         "url": "https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 180432,
       "name": "Satellite Man",
       "url": "https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I"
-      },
-      "artists": [
-        {
-          "name": "Beware Of Darkness",
-          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
-        }
-      ],
-      "duration_ms": 298751,
-      "name": "Kingdom Will Come",
-      "url": "https://open.spotify.com/track/2ONh8m8VMZc0uBlxghOTsp"
     },
     {
       "added_at": "2022-08-31 19:53:08",

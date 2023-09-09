@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-135 songs - 13 hr 48 min
+137 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,9 @@
 | [Morning Glory \- Live](https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Morning Glory \(Live\)](https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1) | 4:19 | 2023-01-27 |  |
 | [Motorcycle Mama \- Live](https://open.spotify.com/track/0GBC4jxEV07r9OxayQ0ETx) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Motorcycle Mama \(Live\)](https://open.spotify.com/album/5QtOw2FNaafcYqPJZvZT34) | 6:29 | 2023-07-21 |  |
 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 | 2021-09-17 |  |
+| [New Used Car](https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [New Used Car](https://open.spotify.com/album/6UA7yjMQHFu7yw3RmEOkI8) | 3:47 | 2023-09-08 |  |
 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 | 2020-10-30 |  |
+| [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/track/2sthMcGvt0sLw7sImcEPVL) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/album/7draBVSdExn7m8osrjm1q9) | 4:41 | 2023-09-08 |  |
 | [No Time For Cryin' \- Live](https://open.spotify.com/track/656eVNjToos4nqR0ZzUyUB) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [No Time For Cryin'](https://open.spotify.com/album/4WbqBP0zeGsnfSm3FEDvNw) | 5:22 | 2020-10-30 | 2022-07-29 |
 | [No Time For Cryin' \- Live](https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Live in London](https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX) | 5:22 | 2020-10-30 |  |
 | [Nobody Knows You When You're Down And Out \- Live at LOCKN' / 2019](https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Nobody Knows You When You're Down And Out \(Live at LOCKN' / 2019\)](https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu) | 4:59 | 2021-05-21 | 2022-07-29 |

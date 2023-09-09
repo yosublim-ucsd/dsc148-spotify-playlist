@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "Gloriax",
+        "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "Tadu V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Gloriax",
+      "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
+    },
+    {
+      "album": {
         "name": "Primavera En La Ant\u00e1rtida",
         "url": "https://open.spotify.com/album/5vdtmRkfN2Lfm5J44yjjKm"
       },
@@ -1484,6 +1510,28 @@
       "duration_ms": 173858,
       "name": "Vengan a Salvarnos",
       "url": "https://open.spotify.com/track/4aKgj60NDge3F9sM22LNdV"
+    },
+    {
+      "album": {
+        "name": "Viendo el Sol",
+        "url": "https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH"
+      },
+      "artists": [
+        {
+          "name": "Despu\u00e9s de la fiesta",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97953,
+      "name": "Viendo el Sol",
+      "url": "https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8"
     },
     {
       "album": {

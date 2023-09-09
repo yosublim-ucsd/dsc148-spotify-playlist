@@ -4,7 +4,7 @@
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-263 songs - 15 hr 22 min
+265 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [En Mis Sueños](https://open.spotify.com/track/50jjeuQ5UrW3RQqDl0KYpy) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [CRIOLLA](https://open.spotify.com/album/2rEdpXG1A8hydOB1ThvGHX) | 4:10 | 2022-06-29 | 2022-07-20 |
 | [Encontrándote](https://open.spotify.com/track/4BomFhepIWf4HTiAQrgnKJ) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Temor](https://open.spotify.com/album/04x545owsC3bnx17iQdnMj) | 2:37 | 2023-06-02 | 2023-06-09 |
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-07-19 | 2023-05-20 |
+| [ES TIEMPO](https://open.spotify.com/track/2DCChX8EUuSAtlhdILQCos) | [Kid Munni](https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL), [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [ES TIEMPO](https://open.spotify.com/album/3bzOjrVIwXHqJR7jYGc6iC) | 2:29 | 2023-09-08 |  |
 | [Es Tiempo](https://open.spotify.com/track/47SFtWMILr2P82FGBjrnAB) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [¿Qué Hacemos Con Todo Este Dinero?](https://open.spotify.com/album/4WOB6QazFzRe1bDopMFfjX) | 4:17 | 2023-05-19 |  |
 | [Escalera](https://open.spotify.com/track/2DfhgJeqYOurNo4BWla1uE) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Cesar Ezequiel Borra](https://open.spotify.com/artist/0KQLZkOAG2qTDm8RB7c7rB), [Dani Ferretti](https://open.spotify.com/artist/38Ne8IR8NhCEk4tE9eeelj) | [Tuy](https://open.spotify.com/album/1tVav7LGyDau9Ie7foUNgb) | 3:44 | 2022-07-19 | 2022-07-29 |
 | [Escalera](https://open.spotify.com/track/6gvns4SQCT5VeCmtcT14XP) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Cesar Ezequiel Borra](https://open.spotify.com/artist/0KQLZkOAG2qTDm8RB7c7rB), [Dani Ferretti](https://open.spotify.com/artist/38Ne8IR8NhCEk4tE9eeelj) | [¡Tuy!](https://open.spotify.com/album/6fK9evvpTCwqtTXa6zWZIm) | 3:44 | 2022-07-22 | 2023-05-20 |
@@ -211,6 +212,7 @@
 | [Pool, Averna y Papusa](https://open.spotify.com/track/5YMoQXGtn0cBUQQZX77NrL) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48) | 4:55 | 2023-05-30 | 2023-06-09 |
 | [Preguntame](https://open.spotify.com/track/3dMYfIeVVdaY9U9GLTG9PK) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/21qw6k8y7iO77WUFXPaGLx) | 3:24 | 2022-07-22 | 2022-10-15 |
 | [Preguntame](https://open.spotify.com/track/7BdzqCXydkS6l1wwMvCxS5) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Preguntame](https://open.spotify.com/album/3pk0T946c4iXSPjaFTaVGD) | 3:24 | 2022-06-29 | 2022-07-29 |
+| [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 | 2023-09-08 |  |
 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 | 2023-05-30 | 2023-06-09 |
 | [Pucho](https://open.spotify.com/track/4cYDDzsxSSn1RZmCmNMYNg) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:04 | 2023-05-19 |  |
 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 | 2022-07-19 | 2023-05-20 |

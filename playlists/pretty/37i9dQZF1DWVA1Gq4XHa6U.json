@@ -1,83 +1,15 @@
 {
   "description": "Taking it way back! Cover: OutKast",
-  "num_followers": 3584598,
+  "num_followers": 3585673,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmE5NGZiMGZiYzM1ODg4MGMzMWJiN2U1NWU3ZTYzZDc3MjI3Njc4",
+  "snapshot_id": "MCwxMjRiODRlZWE3NTE1NzQ4YTgwYTM0MGQyZjRkNzMxNzExZGExMGU5",
   "tracks": [
     {
-      "added_at": "2023-09-01 04:05:07",
-      "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2023-09-01 04:05:07",
-      "album": {
-        "name": "Life In 1472 (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "Money Ain't a Thang (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
-    },
-    {
-      "added_at": "2023-09-01 04:05:07",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2023-09-01 04:05:07",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
-    },
-    {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
@@ -101,7 +33,7 @@
       "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
@@ -121,7 +53,7 @@
       "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
@@ -137,7 +69,7 @@
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
@@ -157,7 +89,75 @@
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": "2023-09-08 20:55:20",
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 324373,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
+    },
+    {
+      "added_at": "2023-09-08 20:55:20",
+      "album": {
+        "name": "Life In 1472 (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "Money Ain't a Thang (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
+    },
+    {
+      "added_at": "2023-09-08 20:55:20",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Aquemini",
         "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/4V3N5LvUOh3yDPP16cwAhE"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "The Love Movement",
         "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Don Cartagena",
         "url": "https://open.spotify.com/album/3Qaicj7ce34Ltp5b9j9ICE"
@@ -253,7 +253,23 @@
       "url": "https://open.spotify.com/track/7wpXvwGmn5U8DIU8HtEnX1"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
+      "album": {
+        "name": "Can-i-bus",
+        "url": "https://open.spotify.com/album/2zpK7MRI8rVdm5qdZcOEPi"
+      },
+      "artists": [
+        {
+          "name": "Canibus",
+          "url": "https://open.spotify.com/artist/2lQvoGjN6jJfsAkaywtgrB"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Second Round K.O.",
+      "url": "https://open.spotify.com/track/0xKmDKOEbwRSgH0BXA6IzX"
+    },
+    {
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Aquemini",
         "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "E. 1999 Eternal",
         "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/1FkgoPdajl8gwC1hlyvHtC"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Foundation",
         "url": "https://open.spotify.com/album/5O5I3JbBPsODCmghkVr6dg"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/5wwLfjdiSHsgKyEO6V5rDe"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Extinction Level Event: The Final World Front",
         "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Ready to Die (The Remaster)",
         "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "N.O.R.E",
         "url": "https://open.spotify.com/album/1aFS9Pa88Gl3QH1gNNVyzR"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/2FaZoB6xQohJKWmq8KlYke"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/6904O7JrAxFybd4yu3Sz2V"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Conspiracy (PA)",
         "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Black Reign",
         "url": "https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Strictly 4 My N.I.G.G.A.Z...",
         "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "La Bella Mafia",
         "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "ANUTHAFUNKDAFIEDTANTRUM",
         "url": "https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/3VXdEVTbT6SLTrOLEX7MCr"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
@@ -853,7 +869,7 @@
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Stakes Is High",
         "url": "https://open.spotify.com/album/0jIXYQfUtkvn1BYYUOBEmE"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/135z3i5CjKr3H4BCT4lGPg"
     },
     {
-      "added_at": "2023-09-01 04:05:07",
+      "added_at": "2023-09-08 20:55:20",
       "album": {
         "name": "Terrorist Threats",
         "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
@@ -883,26 +899,6 @@
       "duration_ms": 293053,
       "name": "Gangsta Nation",
       "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
-    },
-    {
-      "added_at": "2023-09-01 04:05:07",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     }
   ],
   "unique_name": "Gold School",

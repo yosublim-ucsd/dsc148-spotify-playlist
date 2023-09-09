@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Vondré en portada.
 
-101 songs - 5 hr 32 min
+103 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 | 2022-03-25 |  |
 | [Cuarzo](https://open.spotify.com/track/7BfEoUL8MA6kEL2Wgo30Mn) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Mar Rojo](https://open.spotify.com/album/0nhIXD1q9Yi2SocNaHUfR0) | 3:26 | 2022-03-25 |  |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-03-25 |  |
+| [Cállate La Boca](https://open.spotify.com/track/4ck93bVIVf9yMwjs8CjSve) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Cállate La Boca](https://open.spotify.com/album/3s9LUzvbeqfQWeNKZ3TTut) | 3:37 | 2023-09-08 |  |
 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-03-25 | 2023-04-29 |
 | [Danza de Sol](https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y) | 3:10 | 2022-03-25 |  |
 | [Desde Afuera](https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Ni siquiera estamos listos para hablar](https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH) | 2:16 | 2023-05-19 |  |
@@ -47,6 +48,7 @@
 | [Hombre Animal](https://open.spotify.com/track/31mpricQVCFX9EnGmNcJ9L) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [El Refugio](https://open.spotify.com/album/2ArUrVghLI8caKOMlW7mtF) | 3:27 | 2022-03-25 |  |
 | [Hordes of Punks](https://open.spotify.com/track/4rDZC2Pnzjh0Nw887SR2So) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Hordes of Punks](https://open.spotify.com/album/5zGN83v425LfWJEqqM9cTP) | 2:05 | 2023-06-16 |  |
 | [Hoy No](https://open.spotify.com/track/7z9mN39lIQgPKkGliAQYCt) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Maleza](https://open.spotify.com/album/6HJm0w7q1ockTAIpw53YY7) | 2:07 | 2022-03-25 |  |
+| [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 | 2023-09-08 |  |
 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 | 2022-03-25 |  |
 | [i/O](https://open.spotify.com/track/1wd9Niui5BNBP1gGEiJ7v0) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/5EJdLmm3AohQThveyYrsQN) | 3:18 | 2022-03-25 | 2022-12-12 |
 | [La Excusa Perfecta](https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [La Excusa Perfecta](https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5) | 3:00 | 2023-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring TAICHU.",
-  "num_followers": 30551,
+  "num_followers": 30580,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODA4NWU5NDI0OTEyODNiYjAwZmVkYjA2OGVlOGQ0ZmQzYzg2NWY3",
+  "snapshot_id": "MCwxN2E0ZGZiNGE4OTY2YTliMWFjNGE2YjE2YTg0YjQ2YzJjNmZiMDVk",
   "tracks": [
     {
       "added_at": "2023-08-24 18:49:51",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
+        "name": "La Piti",
+        "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd"
+    },
+    {
+      "added_at": "2023-08-24 18:49:51",
+      "album": {
         "name": "EST\u00c1S BUEN\u00cdSIMO",
         "url": "https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "La Piti",
-        "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
+        "name": "Whos That B!Tch?",
+        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
       },
       "artists": [
         {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
         }
       ],
-      "duration_ms": 173653,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd"
+      "duration_ms": 153624,
+      "name": "Whos That B!Tch?",
+      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
     },
     {
       "added_at": "2023-08-24 18:49:51",
@@ -1419,24 +1435,8 @@
     {
       "added_at": "2023-08-24 18:49:51",
       "album": {
-        "name": "Whos That B!Tch?",
-        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
-      },
-      "artists": [
-        {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
-        }
-      ],
-      "duration_ms": 153624,
-      "name": "Whos That B!Tch?",
-      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
-    },
-    {
-      "added_at": "2023-08-24 18:49:51",
-      "album": {
-        "name": "Peligrosa",
-        "url": "https://open.spotify.com/album/0zIzGFpdewLtEFH5iofXtU"
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
       },
       "artists": [
         {
@@ -1444,9 +1444,9 @@
           "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/3LZpREjBfKM1y53OrCBlX1"
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
     },
     {
       "added_at": "2023-08-24 18:49:51",

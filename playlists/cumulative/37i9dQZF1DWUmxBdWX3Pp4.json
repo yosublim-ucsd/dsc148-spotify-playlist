@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 237459,
       "name": "100 MILLONES",
       "url": "https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 163000,
       "name": "Afuera Que Tengan Miedo",
       "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 213333,
       "name": "AP",
       "url": "https://open.spotify.com/track/5tOwamKuMmkGdjLhPldKDb"
@@ -6557,6 +6557,28 @@
     },
     {
       "album": {
+        "name": "LAS MORRAS TAMBI\u00c9N HACEN TR444P",
+        "url": "https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "PULLIN' UP",
+      "url": "https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk"
+    },
+    {
+      "album": {
         "name": "The Good Trip",
         "url": "https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY"
       },
@@ -7406,6 +7428,32 @@
       "duration_ms": 240049,
       "name": "Somos O No Somos",
       "url": "https://open.spotify.com/track/7B2Ys0dtRpVrGd3fliBGsu"
+    },
+    {
+      "album": {
+        "name": "TU DUO FAVORITO",
+        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169614,
+      "name": "SONIDO DEL A\u00d1O",
+      "url": "https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d"
     },
     {
       "album": {
@@ -8596,6 +8644,32 @@
       "duration_ms": 176567,
       "name": "Zona Pistola",
       "url": "https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf"
+    },
+    {
+      "album": {
+        "name": "TU DUO FAVORITO",
+        "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "\u00bfCUANTAS VECES?",
+      "url": "https://open.spotify.com/track/1akpNpmjtTlLxwTnkM8uvC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4"

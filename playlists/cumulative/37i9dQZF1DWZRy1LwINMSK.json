@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 175998,
       "name": "Aborrecio",
       "url": "https://open.spotify.com/track/0z2Z7f3Osa9lZm3od9A47Y"
@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/74I5QkFGAkIPBaXFCPwU6H"
+      },
+      "artists": [
+        {
+          "name": "Droow",
+          "url": "https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221443,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4ornlDArKwc3lubymSdCPt"
+    },
+    {
+      "album": {
         "name": "D\u00cdGITOS",
         "url": "https://open.spotify.com/album/5PYMBq2SnHpPVG6QkYvjHc"
       },
@@ -1290,6 +1308,24 @@
       "duration_ms": 214644,
       "name": "Generaciones (feat. OldPurp & Left Behind)",
       "url": "https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h"
+    },
+    {
+      "album": {
+        "name": "GIRO 180",
+        "url": "https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266925,
+      "name": "GIRO 180",
+      "url": "https://open.spotify.com/track/2GWFiSNw8elbIt0emwTbyg"
     },
     {
       "album": {
@@ -3444,7 +3480,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 226280,
       "name": "Tierra y Venus",
       "url": "https://open.spotify.com/track/5p9qC7CUghVEBPObrkLP1c"

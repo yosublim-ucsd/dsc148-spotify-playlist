@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "I Speak Jesus",
+        "url": "https://open.spotify.com/album/2ISEjONNCTvcbD6zhrozzy"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289459,
+      "name": "I Speak Jesus",
+      "url": "https://open.spotify.com/track/29XwTIdOFLnQoU3KfMt5Jh"
+    },
+    {
+      "album": {
         "name": "I Will Worship",
         "url": "https://open.spotify.com/album/1Yzm9l3a0c46rVo3lRR2r1"
       },

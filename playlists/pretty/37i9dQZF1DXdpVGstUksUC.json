@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 529195,
+  "num_followers": 529800,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzhhNzMwMjZjODNmYjYxMzUxNjUwYTkyMmFiMmVmNDBiODE3MmMw",
+  "snapshot_id": "MCw3NjRhOTc3YWE3MGJmODE2MjBjODRmZDBjM2U0Y2VkNDJjNWViYmFh",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
       },
       "artists": [
         {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
         }
       ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
       },
       "artists": [
         {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
         }
       ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 301840,
       "name": "I'll Cut You Down",
       "url": "https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
-      },
-      "artists": [
-        {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
-        }
-      ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Dead Roots Stirring",
-        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 580237,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Dead Roots Stirring",
+        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 580237,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+        "name": "Busse Woods",
+        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
       "artists": [
         {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+          "name": "Acid King",
+          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
         }
       ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+      "duration_ms": 384866,
+      "name": "Electric Machine",
+      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -827,50 +827,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Busse Woods",
-        "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
       "artists": [
         {
-          "name": "Acid King",
-          "url": "https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct"
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
         }
       ],
-      "duration_ms": 384866,
-      "name": "Electric Machine",
-      "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Unemployment Office",
-        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Unemployment Office",
-      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -891,6 +859,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Old Growth",
         "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
       },
@@ -907,22 +891,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Elephant Tree",
-        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
-      },
-      "artists": [
-        {
-          "name": "Elephant Tree",
-          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
-        }
-      ],
-      "duration_ms": 367879,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 508293,
       "name": "Big Sky Theory",
       "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Unemployment Office",
+        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Unemployment Office",
+      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Elephant Tree",
+        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
+      },
+      "artists": [
+        {
+          "name": "Elephant Tree",
+          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
+        }
+      ],
+      "duration_ms": 367879,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The No. 6 Dance",
         "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
       },
@@ -1079,38 +1079,6 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Beneath The Rose",
-        "url": "https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k"
-      },
-      "artists": [
-        {
-          "name": "Baroness",
-          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
-        }
-      ],
-      "duration_ms": 334306,
-      "name": "Beneath the Rose",
-      "url": "https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "From the Ages",
-        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
-      },
-      "artists": [
-        {
-          "name": "Earthless",
-          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
-        }
-      ],
-      "duration_ms": 848346,
-      "name": "Uluru Rock",
-      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "From the Ages",
+        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
+      },
+      "artists": [
+        {
+          "name": "Earthless",
+          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
+        }
+      ],
+      "duration_ms": 848346,
+      "name": "Uluru Rock",
+      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
+        "name": "Beneath The Rose",
+        "url": "https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k"
       },
       "artists": [
         {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
         }
       ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
+      "duration_ms": 334306,
+      "name": "Beneath the Rose",
+      "url": "https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1179,34 +1163,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
       },
       "artists": [
         {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
         }
       ],
-      "duration_ms": 290949,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
-      },
-      "artists": [
-        {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+      },
+      "artists": [
+        {
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Damned by Fate",
         "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
       },
       "artists": [
         {
-          "name": "Somali Yacht Club",
-          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
         }
       ],
-      "duration_ms": 492508,
-      "name": "Up in the Sky",
-      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
+      "duration_ms": 290949,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
       },
       "artists": [
         {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+          "name": "Somali Yacht Club",
+          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
         }
       ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
+      "duration_ms": 492508,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 251973,
       "name": "So Come On",
       "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
-      },
-      "artists": [
-        {
-          "name": "Doctor Smoke",
-          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
+      },
+      "artists": [
+        {
+          "name": "Doctor Smoke",
+          "url": "https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Acid Roulette",
-        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
-      },
-      "artists": [
-        {
-          "name": "Scorpion Child",
-          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
-        }
-      ],
-      "duration_ms": 349466,
-      "name": "Acid Roulette",
-      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "To the Center",
         "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Acid Roulette",
+        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
+      },
+      "artists": [
+        {
+          "name": "Scorpion Child",
+          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
+        }
+      ],
+      "duration_ms": 349466,
+      "name": "Acid Roulette",
+      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Buffalo Fuzz",
         "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 325313,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "John Garcia and the Band of Gold",
-        "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
-      },
-      "artists": [
-        {
-          "name": "John Garcia",
-          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
-        }
-      ],
-      "duration_ms": 222169,
-      "name": "Jim's Whiskers",
-      "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 312746,
       "name": "Lust Queen",
       "url": "https://open.spotify.com/track/0fQAn3EQkl2iNQuwjS3nrd"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "John Garcia and the Band of Gold",
+        "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
+      },
+      "artists": [
+        {
+          "name": "John Garcia",
+          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
+        }
+      ],
+      "duration_ms": 222169,
+      "name": "Jim's Whiskers",
+      "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1595,18 +1595,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Superjudge",
-        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
+        "name": "Fuzzsplit of the Century",
+        "url": "https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04"
       },
       "artists": [
         {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        },
+        {
+          "name": "Firestone",
+          "url": "https://open.spotify.com/artist/0TEi1w5vnsyb25Kz1sObbp"
         }
       ],
-      "duration_ms": 409466,
-      "name": "Superjudge",
-      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
+      "duration_ms": 237360,
+      "name": "Megalomania",
+      "url": "https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K"
     }
   ],
   "unique_name": "Stoner Rock",

@@ -4,7 +4,7 @@
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-23 songs - 1 hr 1 min
+24 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Faster Please](https://open.spotify.com/track/1E8WiCruTiJgwFUTCuhSIh) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [Faster Please](https://open.spotify.com/album/5CEefcfGyvum65f2J73YRM) | 3:03 | 2022-03-18 |  |
 | [First Class Bitch](https://open.spotify.com/track/5wIuzHBxFEM6TXwAvg6Xxo) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [First Class Bitch](https://open.spotify.com/album/7EgYldvSDOCj4DBJm7JJgk) | 3:01 | 2022-03-18 |  |
 | [Google Me \(feat\. Alika & Ms Banks\)](https://open.spotify.com/track/6fg2qWBpF8vz2Ywj1TSyx2) | [CLiQ](https://open.spotify.com/artist/2IQIEHvL14Tj7vOKHbIMMj), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Google Me](https://open.spotify.com/album/4QaqcmUSSTeYFu0kx5UhTn) | 2:38 | 2022-03-18 |  |
-| [I'm Good](https://open.spotify.com/track/2JHnZr94NIAJ2Klv8LyeeU) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/7J0ZIqCXonETepPyPf1Eka) | 2:28 | 2022-03-18 |  |
+| [I'm Good](https://open.spotify.com/track/2JHnZr94NIAJ2Klv8LyeeU) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/7J0ZIqCXonETepPyPf1Eka) | 2:28 | 2022-03-18 | 2023-09-09 |
+| [I'm Good](https://open.spotify.com/track/3JAO7zhWvneqJNfJAhe1tz) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/3AioZn41yELB0tkoTfhRVK) | 2:28 | 2022-03-18 |  |
 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 | 2022-03-18 |  |
 | [New York, New York \- Cover](https://open.spotify.com/track/4PKBnHyHqXGjVXFuiGK0Jp) | [Bermuda Kills](https://open.spotify.com/artist/77xksHBmH0nrQ8kTUZmwH6) | [New York, New York \(Cover\)](https://open.spotify.com/album/64Gy446NyhC2CmbVMac8v4) | 3:23 | 2022-03-18 |  |
 | [No Sweat](https://open.spotify.com/track/2p1FYe6RRNm7xl3xy6j1gv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [No Sweat](https://open.spotify.com/album/7uMPr1RFVVffsjyQ2j3zWZ) | 2:17 | 2022-03-18 |  |

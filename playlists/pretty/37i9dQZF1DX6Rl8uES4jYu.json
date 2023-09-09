@@ -1,13 +1,65 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240655,
+  "num_followers": 240649,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTY1NDZjMzJlMWIwMTA2MTNhMzRmYWExOWNjODlkNGFkMGYyNTUy",
+  "snapshot_id": "MCxkNmQ2YTdlY2NiMDFlZjBkOGU0YTZkMTRhZjQ2OWYyMmNiOWUxZjRl",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "ART DEALERS",
+        "url": "https://open.spotify.com/album/2XfhNWUapZroQcaGTVwPrJ"
+      },
+      "artists": [
+        {
+          "name": "Low Cut Connie",
+          "url": "https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "DON'T GET FRESH WITH ME",
+      "url": "https://open.spotify.com/track/29XRnZlN9nf6Z3BaAZ61My"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6okG7bZpTzeVJiyp6pKik4"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Tim Myers",
+          "url": "https://open.spotify.com/artist/44BkC9lJfLmhcRB4NV7Z38"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0K4oZ2Pt2VJ55nA5LX3rTH"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Lottery",
+        "url": "https://open.spotify.com/album/5CR4kLfeiqEWry1PiILEHM"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "duration_ms": 127933,
+      "name": "Lottery",
+      "url": "https://open.spotify.com/track/2RiDOCxcDkPCX7cko2YvBY"
+    },
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
@@ -1661,22 +1713,6 @@
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "ITS ALL GOOD",
-        "url": "https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn"
-      },
-      "artists": [
-        {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        }
-      ],
-      "duration_ms": 187618,
-      "name": "ITS ALL GOOD",
-      "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
-    },
-    {
       "added_at": "2022-08-08 19:18:25",
       "album": {
         "name": "Dreamboat",
@@ -1695,22 +1731,6 @@
       "duration_ms": 187412,
       "name": "Monica",
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5m8KQeuqk1u11hlXBST1CY"
-      },
-      "artists": [
-        {
-          "name": "KWAYE",
-          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/0T4BJnnf1Ru4EqGZl5kEN2"
     },
     {
       "added_at": "2022-08-19 04:02:00",
@@ -1747,34 +1767,6 @@
       "duration_ms": 255604,
       "name": "When Someone Loves You",
       "url": "https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "SNOW",
-        "url": "https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc"
-      },
-      "artists": [
-        {
-          "name": "FLY BOY JACK",
-          "url": "https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ"
-        },
-        {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
-        },
-        {
-          "name": "Dallas Woods",
-          "url": "https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH"
-        },
-        {
-          "name": "JUJO",
-          "url": "https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF"
-        }
-      ],
-      "duration_ms": 177735,
-      "name": "SNOW",
-      "url": "https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf"
     },
     {
       "added_at": "2022-10-28 04:01:00",

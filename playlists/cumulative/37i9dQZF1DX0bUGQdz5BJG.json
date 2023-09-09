@@ -4169,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/5Zs6as6dChgeVIYpGopcdE"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209109,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/4k6zSLCDhm0pjLAVbLrF5P"
+    },
+    {
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4YcvK5zZBzAa06iLuwuPEb"
       },
@@ -8522,7 +8540,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 165099,
       "name": "Girl in the Mirror",
       "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
@@ -9790,7 +9808,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 165044,
       "name": "Hating Everything She Tries On",
       "url": "https://open.spotify.com/track/5KrsNsqaygJcwLSZm8fBcy"
@@ -10233,6 +10251,24 @@
     },
     {
       "album": {
+        "name": "Heaven In You",
+        "url": "https://open.spotify.com/album/0cbiiIWA5Gfg4GD3raILD5"
+      },
+      "artists": [
+        {
+          "name": "Matt Cooper",
+          "url": "https://open.spotify.com/artist/3p6my89rn8STAqtZohziRM"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205492,
+      "name": "Heaven In You",
+      "url": "https://open.spotify.com/track/32f4VEMljTRYeXbixyFDD4"
+    },
+    {
+      "album": {
         "name": "Heaven's Like a Hometown",
         "url": "https://open.spotify.com/album/4G979dCowqLmMhIfK44Btj"
       },
@@ -10432,6 +10468,24 @@
       "duration_ms": 189918,
       "name": "Her On Out",
       "url": "https://open.spotify.com/track/2zP9v1DeorQeZx1Z3EA3pu"
+    },
+    {
+      "album": {
+        "name": "Her To Here",
+        "url": "https://open.spotify.com/album/1L1YLlqDbm86g3XEdUBer6"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Her To Here",
+      "url": "https://open.spotify.com/track/7JxCeAdqeyT6zeXJjZt8LW"
     },
     {
       "album": {
@@ -10652,6 +10706,24 @@
       "duration_ms": 220035,
       "name": "Highway Boys",
       "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
+    },
+    {
+      "album": {
+        "name": "Highway Sound",
+        "url": "https://open.spotify.com/album/1TMNIpAWRoRCBugUNcnfTj"
+      },
+      "artists": [
+        {
+          "name": "A Thousand Horses",
+          "url": "https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215186,
+      "name": "Highway Sound",
+      "url": "https://open.spotify.com/track/3gthb7zCLSdeQ4KZsGTGFR"
     },
     {
       "album": {
@@ -11828,6 +11900,24 @@
       "duration_ms": 187986,
       "name": "I Feel Fine",
       "url": "https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D"
+    },
+    {
+      "album": {
+        "name": "I Got A Problem",
+        "url": "https://open.spotify.com/album/4kBEIGrzwLM9J4hQnmjynt"
+      },
+      "artists": [
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147356,
+      "name": "I Got A Problem",
+      "url": "https://open.spotify.com/track/5d9Sr7MXI5wSo6I53oW8Hx"
     },
     {
       "album": {
@@ -13406,6 +13496,24 @@
       "duration_ms": 168839,
       "name": "Just Kids",
       "url": "https://open.spotify.com/track/6PyXmo88J8FRmMb1CfUDoD"
+    },
+    {
+      "album": {
+        "name": "Just Like Us",
+        "url": "https://open.spotify.com/album/1GTIsu7qhVmm2j07hpaCnH"
+      },
+      "artists": [
+        {
+          "name": "Jordan James",
+          "url": "https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163687,
+      "name": "Just Like Us",
+      "url": "https://open.spotify.com/track/3al1r7yWb8KoaX7IOCmwbX"
     },
     {
       "album": {
@@ -17154,7 +17262,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 230093,
       "name": "Needed The Rain",
       "url": "https://open.spotify.com/track/2YPgBZVNqvBprMbJ23UPUk"
@@ -18770,7 +18878,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 230736,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/23iScQD5yKB0WB6NEWFfp6"
@@ -19568,7 +19676,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 231253,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/1nfWdG0o19AZ09RQvJO0Gh"
@@ -20106,6 +20214,24 @@
       "duration_ms": 273271,
       "name": "Ready",
       "url": "https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE"
+    },
+    {
+      "album": {
+        "name": "Ready for a Fight",
+        "url": "https://open.spotify.com/album/5qgC7UghCvvwRlHKu30JpQ"
+      },
+      "artists": [
+        {
+          "name": "Clare Dunn",
+          "url": "https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222675,
+      "name": "Ready for a Fight",
+      "url": "https://open.spotify.com/track/7DtIakvgVlK1jXNJQ81p23"
     },
     {
       "album": {
@@ -21772,6 +21898,24 @@
       "duration_ms": 172910,
       "name": "Singing In A Beer",
       "url": "https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe"
+    },
+    {
+      "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Single At The Same Time",
+      "url": "https://open.spotify.com/track/2UrZkvkjjhdtqPiIi6fEjA"
     },
     {
       "album": {
@@ -24909,6 +25053,24 @@
     },
     {
       "album": {
+        "name": "The Whiskey's Gone",
+        "url": "https://open.spotify.com/album/3B5ICHgHiMeBUq0xmH2Ntm"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "The Whiskey's Gone",
+      "url": "https://open.spotify.com/track/1zSpONTt43MyPpw53vdfj2"
+    },
+    {
+      "album": {
         "name": "The Wolves",
         "url": "https://open.spotify.com/album/0kdZPFWdg3o2H4jCfAHOyP"
       },
@@ -26508,7 +26670,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 190080,
       "name": "Wasting Your Words",
       "url": "https://open.spotify.com/track/5fWDR48LVsc9YKrA9l3YhV"
@@ -28596,7 +28758,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 155168,
       "name": "Yee To The Haw",
       "url": "https://open.spotify.com/track/0NhKoIFQ1JDKgKoUvYAZQF"
@@ -29120,6 +29282,24 @@
       "duration_ms": 236320,
       "name": "You, Me & The River (with Eric Church)",
       "url": "https://open.spotify.com/track/614CpYxHPv9IA0C0t6GuEU"
+    },
+    {
+      "album": {
+        "name": "Young & Hungry",
+        "url": "https://open.spotify.com/album/4vzl6sDzw1y0D0490NvALa"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194378,
+      "name": "Young & Hungry",
+      "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"
     },
     {
       "album": {

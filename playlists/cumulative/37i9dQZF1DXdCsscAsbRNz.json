@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/07LcjkBfFqAT4Pb1B2oppa"
+      },
+      "artists": [
+        {
+          "name": "Lectus",
+          "url": "https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/3C3wt6jV0gKX2k1GPYedKm"
+    },
+    {
+      "album": {
         "name": "Curiosity",
         "url": "https://open.spotify.com/album/5FbnGcGNWnjufAuOrXss3k"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 193726,
       "name": "Frontiers Are Where You Find Them",
       "url": "https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf"
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 168916,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2BCqoaveLAckZysaXtFObx"

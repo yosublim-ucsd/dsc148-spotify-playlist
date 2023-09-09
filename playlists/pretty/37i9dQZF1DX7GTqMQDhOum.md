@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,501 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,503 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 56 | [The Song of Baron](https://open.spotify.com/track/0dFWSt8dmEe9l76I8IphBU) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [Whisper of the Heart Soundtrack](https://open.spotify.com/album/0yOhYn348rz2j3mUne0fpH) | 2:42 |
 | 57 | [The Path of the Wind \- Instrumental](https://open.spotify.com/track/2KLjcZ67h7Dad8QjW1IvE4) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [My Neighbor Totoro Soundtrack Collection](https://open.spotify.com/album/2Dn4ABFUYJbrlMF7K12RT3) | 3:16 |
 | 58 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 2:49 |
-| 59 | [Don't Disturb Me](https://open.spotify.com/track/09JaBZbKtzK6bMTU3dFFIW) | [Satoshi Takebe](https://open.spotify.com/artist/0pWDwAU3grBQc9GAIQOP2N), [Kiyokazu Takano](https://open.spotify.com/artist/2iCysvbBhENXdZCFiaDuuz), [Hiroki Kamemoto](https://open.spotify.com/artist/2iyOIvrSLST7xUJjKty733), [Kavka Shishido](https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8), [Sherina Munaf](https://open.spotify.com/artist/53kLEmDh4Oytgfp5sIz7Rt) | [Earwig and the Witch Songbook 13 Lime Avenue](https://open.spotify.com/album/0Hr5VHPpCQMpvPRP9T52zl) | 3:41 |
+| 59 | [Don't Disturb Me](https://open.spotify.com/track/09JaBZbKtzK6bMTU3dFFIW) | [Satoshi Takebe](https://open.spotify.com/artist/0pWDwAU3grBQc9GAIQOP2N), [Kiyokazu Takano](https://open.spotify.com/artist/2iCysvbBhENXdZCFiaDuuz), [Hiroki Kamemoto](https://open.spotify.com/artist/2iyOIvrSLST7xUJjKty733), [Kavka Shishido](https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8), [Sherina Munaf](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp) | [Earwig and the Witch Songbook 13 Lime Avenue](https://open.spotify.com/album/0Hr5VHPpCQMpvPRP9T52zl) | 3:41 |
 | 60 | [Welcome to the Cat Business Office](https://open.spotify.com/track/6L8prMAcSjis2Tvuyy6MLE) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [The Cat Returns \(Original Soundtrack\)](https://open.spotify.com/album/1KDCap6BtIiJsmvilIA9oG) | 1:51 |
 | 61 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/5LLMUx9GcRSpkOqOIBIONw) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:58 |
 | 62 | [祈りのうた\(産屋\)](https://open.spotify.com/track/5A6THTmN1X0P7QaKiUpyo6) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 3:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 69 | [Ponyo on the Cliff by the Sea \- from 'Ponyo on the Cliff by the Sea'](https://open.spotify.com/track/1ZH2eyqwewJj7wAAyzjeky) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:16 |
 | 70 | [いつでも誰かが](https://open.spotify.com/track/3naMRyLXw84R6USrfjgc7E) | [Shang Shang Typhoon](https://open.spotify.com/artist/2jpbrxvQN2UIqmZEb5pOhF) | [GREATEST HiTS 上々颱風](https://open.spotify.com/album/29WA2huritEuEDi03P3klA) | 5:06 |
 
-Snapshot ID: `MCxhYTg1Y2U1MDY4NDA4NTRkYjY3ZTAyMjJkOGUwNDliOGRiZmQyNjk4`
+Snapshot ID: `MCwzOGI4NmI4ZGYzMGI5Mzc2OWI5OGYxYWZhNWM4ODk4MjVhMTcyNGFl`

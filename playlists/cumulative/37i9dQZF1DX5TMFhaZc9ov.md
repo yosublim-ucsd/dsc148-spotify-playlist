@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-167 songs - 10 hr 27 min
+169 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hope There's Someone](https://open.spotify.com/track/416EHtY9ysWtXLeasImLR4) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Turning](https://open.spotify.com/album/32PMUnVUGlL0V4vuzUKvUe) | 4:42 | 2021-06-01 | 2022-07-29 |
 | [Hope There's Someone \- Live](https://open.spotify.com/track/0B4hF7YOkUIud1AJUR3kPO) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Turning](https://open.spotify.com/album/6mpAk967R6Oo9dyxi149Eb) | 4:42 | 2022-06-10 |  |
 | [Hot Scary Summer](https://open.spotify.com/track/5my2Ptm6rl9gsTMgtRYKGM) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Darling Arithmetic](https://open.spotify.com/album/1rwks602GtqNzZGjc62rIQ) | 4:20 | 2021-06-01 | 2022-06-01 |
+| [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-09-08 |  |
 | [Hurt People \(feat\. Cam\)](https://open.spotify.com/track/0OZzCxO9IY126tDm2aBRHe) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Hurt People \(feat\. Cam\)](https://open.spotify.com/album/7wRWbV6A7J1y7nIY63ImzP) | 3:29 | 2021-06-01 |  |
 | [I Built a Fire](https://open.spotify.com/track/7FQSs4owsx8rP4JJPaROAn) | [Indiana Queen](https://open.spotify.com/artist/3qHYX4FhICcNzTzbyJdBMC) | [I Built a Fire](https://open.spotify.com/album/3X4ielSlohvGH3d0ee8xo3) | 5:23 | 2021-06-01 |  |
 | [I Can't Shake the Stranger Out of You](https://open.spotify.com/track/1ibyE2YZCyQUXgbVeclTCY) | [Lavender Country](https://open.spotify.com/artist/3UAkA4R9JwTDsWSvtKqJtP) | [Lavender Country](https://open.spotify.com/album/50DlqQtKUTx7zv4RHbCk7R) | 2:39 | 2021-06-01 | 2022-07-29 |
@@ -149,6 +150,7 @@
 | [The Great Escape](https://open.spotify.com/track/0WsSXk2OfaCewniK3v5fcN) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [With People](https://open.spotify.com/album/4XshpR196ijJkK2N9kOhGG) | 2:50 | 2022-06-01 | 2022-12-01 |
 | [The Great Escape](https://open.spotify.com/track/3AUBLZk7wQX0GzG5BsZNYk) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [With People](https://open.spotify.com/album/75FTQkt4wpNKujeOb3L8ID) | 2:50 | 2022-06-10 |  |
 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 | 2021-06-01 | 2022-06-01 |
+| [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 | 2023-09-08 |  |
 | [The Rose Gardener](https://open.spotify.com/track/2AOREe0skCzK3eN7uBBr3q) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/7Ee56Uw8pfwPWSej8GGGpL) | 3:44 | 2023-04-04 |  |
 | [The Rose Gardener](https://open.spotify.com/track/37m6V2rYD5OaZp9EfFZYYk) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/34OI8CDvpCev2oLuUXkK6X) | 3:44 | 2022-06-10 | 2022-11-13 |
 | [The Rose Gardener](https://open.spotify.com/track/4UHbVjSTsFrsn4h4igBPpo) | [Bellows](https://open.spotify.com/artist/6UkJGwmg0AXAbGBNtzs7My) | [The Rose Gardener](https://open.spotify.com/album/5XfgTVzJfSdlQEh6dv4GQR) | 3:44 | 2021-06-01 | 2022-07-29 |

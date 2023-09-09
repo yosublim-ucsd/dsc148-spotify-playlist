@@ -4,14 +4,15 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-202 songs - 13 hr 41 min
+203 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#SELFIE](https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [\#SELFIE](https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI) | 3:03 | 2021-04-16 |  |
 | [A Sky Full of Stars \- Hardwell Remix](https://open.spotify.com/track/0WZVGXO8FYpK8v1IDxlOyE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [A Sky Full of Stars \(Hardwell Remix\)](https://open.spotify.com/album/0CvMcLab5Xb0KL7gsQfhhv) | 5:13 | 2021-04-16 |  |
 | [Alive](https://open.spotify.com/track/59mrqUmhpmcfUns8BKkV30) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:48 | 2021-04-16 |  |
-| [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2021-04-16 |  |
+| [Animals \- Radio Edit](https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 2:56 | 2022-06-09 |  |
+| [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2021-04-16 | 2023-09-09 |
 | [Apollo](https://open.spotify.com/track/7EdxI2Yro4AW2HH3akwqms) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [I Am Hardwell \(Original Soundtrack\)](https://open.spotify.com/album/1c8VPF74qax6iaGsf74cQ8) | 3:29 | 2022-06-09 |  |
 | [Apollo \- Radio Edit](https://open.spotify.com/track/5v54ZQ0glzbB9XUPTaX0cj) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Apollo](https://open.spotify.com/album/4ajH0rrtQDiVCY3wKFei55) | 3:29 | 2021-04-16 | 2022-10-19 |
 | [Atmosphere](https://open.spotify.com/track/79BziE0cPQD2MZBJwXsB1P) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 3:51 | 2021-04-16 |  |

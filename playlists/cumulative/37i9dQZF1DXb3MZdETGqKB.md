@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: C.S\. Armstrong
 
-238 songs - 13 hr 58 min
+240 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bees Making Honey](https://open.spotify.com/track/08VbstN22j4jlgMemYE2xk) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Bees Making Honey](https://open.spotify.com/album/2BIa0ZW6IpukvlDfRrhhH4) | 2:49 | 2022-08-26 | 2023-05-13 |
 | [Better Be Lonely](https://open.spotify.com/track/70EjHDvkFck4j5LZvVzt1Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Better Be Lonely](https://open.spotify.com/album/2k4PfJnRc2kv6o0V7i4J6P) | 3:40 | 2021-08-30 | 2023-03-25 |
 | [Better Days](https://open.spotify.com/track/4XW0ZZJ2avabVMuHUkwonG) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Better Days](https://open.spotify.com/album/4cKtG81r37U4b3vDHxPxRo) | 4:34 | 2021-07-02 | 2022-06-25 |
+| [BIG BOSS](https://open.spotify.com/track/49lBwbL8cwLErPMGUqrcgV) | [T.Howell](https://open.spotify.com/artist/4CzJiPo76fJ1a5Rm2bwxP3), [Jeter Jones](https://open.spotify.com/artist/66cHA84K27hhCReCYTgQVF) | [BIG BOSS](https://open.spotify.com/album/0OCfRsE8CwqK5p3btp1EBv) | 2:35 | 2023-09-08 |  |
 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 | 2022-03-11 |  |
 | [Bitter Taste](https://open.spotify.com/track/0S88eFYO7gSJKxdwGHGKrs) | [Jordan Run](https://open.spotify.com/artist/77n5FV29Cq5bbukhovCofj) | [Bitter Taste](https://open.spotify.com/album/0BZOtVXIS9jshHxwLXVJhS) | 3:06 | 2021-05-14 | 2022-05-07 |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-01-07 | 2023-08-19 |
@@ -72,7 +73,7 @@
 | [Flying \#evolution](https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Evolution of Joy](https://open.spotify.com/album/3ZbnbSZwJooq41MPNH3iEC) | 4:17 | 2023-01-27 |  |
 | [Follow Me](https://open.spotify.com/track/0sgSnT7ltGmbtDk6oYCORs) | [Jessarae](https://open.spotify.com/artist/6g09G6rt0abMMLVp4xyKx6) | [Follow Me](https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M) | 3:54 | 2021-04-09 | 2022-05-07 |
 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 | 2022-03-25 |  |
-| [Forget About Us](https://open.spotify.com/track/7rijhdaZILNVlSQSfPOOky) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Forget About Us](https://open.spotify.com/album/3pvVrSVs7UPLe6dlaKGQOa) | 2:45 | 2023-06-16 |  |
+| [Forget About Us](https://open.spotify.com/track/7rijhdaZILNVlSQSfPOOky) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Forget About Us](https://open.spotify.com/album/3pvVrSVs7UPLe6dlaKGQOa) | 2:45 | 2023-06-16 | 2023-09-09 |
 | [Freedom on My Mind](https://open.spotify.com/track/2z81pLfGo2YFPs6SEQnz2t) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [Freedom on My Mind](https://open.spotify.com/album/1eud6Bh9tfW68cYCw5xGqb) | 4:44 | 2022-10-21 | 2023-01-14 |
 | [Full Time Blues](https://open.spotify.com/track/3MHxUKi1ZhUlhlf7IILBs8) | [Alexander Wren](https://open.spotify.com/artist/6f6oMcKG2GzGjfejpsD7e7) | [Full Time Blues](https://open.spotify.com/album/3196K46EuN8qp90dviepzS) | 3:21 | 2023-03-24 |  |
 | [Get By](https://open.spotify.com/track/0Dr3V5fTEZyyGHcCu7yDBX) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Get By](https://open.spotify.com/album/2n73mSrnTYW28UjTf5pc47) | 3:41 | 2023-03-10 | 2023-05-13 |
@@ -148,9 +149,10 @@
 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 | 2022-08-26 |  |
 | [Only Woman](https://open.spotify.com/track/1iOAaTWVHSTnRTTyNOAIVg) | [Ed Staal](https://open.spotify.com/artist/34t2yk9P5vrHBWLXlZlGrC) | [Only Woman](https://open.spotify.com/album/5WDdEO0SxvJnhhq68N0wUw) | 2:58 | 2023-05-19 |  |
 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 | 2023-06-30 |  |
+| [OverdoZZe](https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine](https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m) | 3:16 | 2023-09-08 |  |
 | [OZARK](https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [OZARK](https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6) | 3:44 | 2021-05-14 | 2022-05-07 |
 | [Parade](https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Parade](https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB) | 2:16 | 2021-03-09 | 2022-03-26 |
-| [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 | 2022-01-14 |  |
+| [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 | 2022-01-14 | 2023-09-09 |
 | [Po'Boy](https://open.spotify.com/track/04ibCVdEfOcScBSwmAWAAN) | [Downsyde](https://open.spotify.com/artist/5IYhAFrGFVMdr7KONm9dy4), [Flewnt](https://open.spotify.com/artist/1Z7NTJcWCg7WUuVLVxK9SW), [Harts](https://open.spotify.com/artist/59l7wEof90AF2qIrpuQlLp) | [Po'Boy](https://open.spotify.com/album/3fsDoBxHUFylgxmNNNtzC3) | 3:55 | 2022-03-25 | 2022-06-19 |
 | [Practice What You Preach](https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Practice What You Preach](https://open.spotify.com/album/5FtVDZRzGwWzBqcsC0bmXf) | 2:45 | 2022-02-25 | 2022-09-03 |
 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 | 2022-02-25 |  |

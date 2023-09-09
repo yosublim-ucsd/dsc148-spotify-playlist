@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 79779,
+  "num_followers": 81599,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWRkYTgzNjUzMmU2N2IzNmI4YTg4N2U1NjZmMzhhOTIwNTk5ZjRm",
+  "snapshot_id": "MCw1YTJmM2FlZTk5MGYyMzM1NDFiN2E1NzQ0NzU4YWNkZDQyMTZkNjkz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -63,6 +63,26 @@
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
+    },
+    {
+      "added_at": "2023-09-08 14:49:15",
+      "album": {
+        "name": "ON THE FLOOR!",
+        "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "duration_ms": 119895,
+      "name": "ON THE FLOOR",
+      "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -165,6 +185,26 @@
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
     },
     {
+      "added_at": "2023-09-08 14:49:15",
+      "album": {
+        "name": "KNOW WHAT YOU WANT",
+        "url": "https://open.spotify.com/album/6opVAqg6oX15LDGKoa4Yh4"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "KNOW WHAT YOU WANT",
+      "url": "https://open.spotify.com/track/6fSaAUqapniPZmOBiFPCaG"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Fluxxwave",
@@ -223,8 +263,8 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "go_hard",
-        "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
+        "name": "party addict",
+        "url": "https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A"
       },
       "artists": [
         {
@@ -232,17 +272,17 @@
           "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
         },
         {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
         },
         {
-          "name": "WASTY",
-          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+          "name": "kojo",
+          "url": "https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV"
         }
       ],
-      "duration_ms": 126766,
-      "name": "go_hard",
-      "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
+      "duration_ms": 125861,
+      "name": "party addict",
+      "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -291,30 +331,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "party addict",
-        "url": "https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A"
-      },
-      "artists": [
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        },
-        {
-          "name": "kojo",
-          "url": "https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV"
-        }
-      ],
-      "duration_ms": 125861,
-      "name": "party addict",
-      "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "GOOD LOYAL THOTS",
         "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
       },
@@ -327,30 +343,6 @@
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Sassy Scene",
-        "url": "https://open.spotify.com/album/5jBSw53XwT6G0slLxKSZLl"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Pixel Hood",
-          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "Hands up!",
-      "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -387,6 +379,30 @@
       "duration_ms": 121899,
       "name": "crystallize",
       "url": "https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "go_hard",
+        "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "duration_ms": 126766,
+      "name": "go_hard",
+      "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -497,6 +513,26 @@
       "url": "https://open.spotify.com/track/4TlKDSXQtHkDJIa5v6gB8A"
     },
     {
+      "added_at": "2023-09-08 14:49:15",
+      "album": {
+        "name": "let's get paid!",
+        "url": "https://open.spotify.com/album/3DT2GwPBHlcdQMTgHkqbyw"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "let's get paid!",
+      "url": "https://open.spotify.com/track/3uMDzjC36gRF3zWbxAc705"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "masquerade",
@@ -539,6 +575,30 @@
       "duration_ms": 187009,
       "name": "Melody and bars - Remix",
       "url": "https://open.spotify.com/track/0RcIgGcoomCgXRK7nvGZLn"
+    },
+    {
+      "added_at": "2023-09-08 14:49:15",
+      "album": {
+        "name": "6izarre RAVE (with 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "6izarre RAVE (with 6arelyhuman)",
+      "url": "https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -715,6 +775,22 @@
       "duration_ms": 93701,
       "name": "change",
       "url": "https://open.spotify.com/track/1ll5tr64qJ7uuupyNgcgN2"
+    },
+    {
+      "added_at": "2023-09-08 14:49:15",
+      "album": {
+        "name": "Blow Up!",
+        "url": "https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 150965,
+      "name": "Blow Up!",
+      "url": "https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL"
     },
     {
       "added_at": "2023-09-01 04:00:00",

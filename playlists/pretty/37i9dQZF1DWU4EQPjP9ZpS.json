@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 278999,
+  "num_followers": 279182,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmExYWRiMTQxYjM1YjY5NDNjMTljODQ4MzlhOTkyZDkwMTY4YWM1",
+  "snapshot_id": "MCw0Nzc5YjYxYTU3OWU2N2MxNzA2MDYwN2MyYTRmYWY5YjRmMmJiMWE1",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Nu.wav Hallucinations",
-        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
-      },
-      "artists": [
-        {
-          "name": "Nmesh",
-          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
-        }
-      ],
-      "duration_ms": 359410,
-      "name": "A Face Without Eyes",
-      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "New World Disciples",
         "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 389189,
       "name": "Follow Him, For He Is the One",
       "url": "https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Nu.wav Hallucinations",
+        "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
+      },
+      "artists": [
+        {
+          "name": "Nmesh",
+          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
+        }
+      ],
+      "duration_ms": 359410,
+      "name": "A Face Without Eyes",
+      "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sessions: Star Guardian Taliyah",
-        "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 212079,
-      "name": "Courtwalk",
-      "url": "https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Things That Fade",
         "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
       },
@@ -843,6 +823,22 @@
       "duration_ms": 251779,
       "name": "Hibiscus Pacific",
       "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Based On Misunderstandings 05",
+        "url": "https://open.spotify.com/album/71xlJoKwGWihm3biLx13pn"
+      },
+      "artists": [
+        {
+          "name": "Phil Gerus",
+          "url": "https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd"
+        }
+      ],
+      "duration_ms": 191804,
+      "name": "Don't Kiss Me While I'm Swimming",
+      "url": "https://open.spotify.com/track/0F5eixGJ2CASTBwqBlM7yD"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Based On Misunderstandings 05",
-        "url": "https://open.spotify.com/album/71xlJoKwGWihm3biLx13pn"
+        "name": "Sessions: Star Guardian Taliyah",
+        "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
       "artists": [
         {
-          "name": "Phil Gerus",
-          "url": "https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd"
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "3d Blast",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
-      "duration_ms": 191804,
-      "name": "Don't Kiss Me While I'm Swimming",
-      "url": "https://open.spotify.com/track/0F5eixGJ2CASTBwqBlM7yD"
+      "duration_ms": 212079,
+      "name": "Courtwalk",
+      "url": "https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Goodbye, 5o 5oon...",
-        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
-      },
-      "artists": [
-        {
-          "name": "Pan!c Pop",
-          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
-        }
-      ],
-      "duration_ms": 176015,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Dragonball Wave",
         "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 214401,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Goodbye, 5o 5oon...",
+        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
+      },
+      "artists": [
+        {
+          "name": "Pan!c Pop",
+          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
+        }
+      ],
+      "duration_ms": 176015,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sever",
-        "url": "https://open.spotify.com/album/6K5SSoqA3aDUHjlxUgqnnt"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/0xKwqVyNXbJhebBphoG6kT"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Information Superhighway",
         "url": "https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 107604,
       "name": "Playback",
       "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Sever",
+        "url": "https://open.spotify.com/album/6K5SSoqA3aDUHjlxUgqnnt"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/0xKwqVyNXbJhebBphoG6kT"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 227462,
       "name": "\u5929\u4f7f",
       "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Street Smarts",
-        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
       },
       "artists": [
         {
-          "name": "VHS LOGOS",
-          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
         }
       ],
-      "duration_ms": 86400,
-      "name": "Telefunken",
-      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     }
   ],
   "unique_name": "vaporwave",

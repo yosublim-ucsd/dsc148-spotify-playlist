@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 103181,
+  "num_followers": 103233,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzNlNGMxZTI3NGU5NThlMTc3NzQ4OTg3YWQyNTJkZWE0M2Q2ZDFi",
+  "snapshot_id": "MCxjODM0NDI1NDk5NjEyYjQ5NTM5OTdjMmUwMmVlOTIxNjJlMmY4YjM1",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Los Querendones de la Cumbia, Vol. 1",
+        "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
+      },
+      "artists": [
+        {
+          "name": "Los Ecos",
+          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
+        }
+      ],
+      "duration_ms": 287503,
+      "name": "No Se Puede Amar a Dos",
+      "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 215344,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
-        "name": "Los Querendones de la Cumbia, Vol. 1",
-        "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
-      },
-      "artists": [
-        {
-          "name": "Los Ecos",
-          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
-        }
-      ],
-      "duration_ms": 287503,
-      "name": "No Se Puede Amar a Dos",
-      "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Los Amos del Ritmo Caliente, Vol. 2",
+        "url": "https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md"
+      },
+      "artists": [
+        {
+          "name": "Los Ecos",
+          "url": "https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Tres Cruces",
+      "url": "https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "El Tirul\u00e1",
         "url": "https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 191085,
       "name": "Si Saben Como Me Pongo Pa Que Me Invitan",
       "url": "https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
-        "name": "Me Enamor\u00e9 y Qu\u00e9",
-        "url": "https://open.spotify.com/album/0XBPJbBVGFN97nv9jVCOda"
-      },
-      "artists": [
-        {
-          "name": "Maricarmen Marin",
-          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Me Enamor\u00e9 y Qu\u00e9 - Cover",
-      "url": "https://open.spotify.com/track/5EMjx5ziUTeOY32D8Hv2RB"
     }
   ],
   "unique_name": "Cumbias de Oro",

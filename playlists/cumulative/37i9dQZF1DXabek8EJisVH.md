@@ -4,7 +4,7 @@
 
 > Soothing ambient and Hang to gently focus the mind.
 
-101 songs - 6 hr 41 min
+102 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Follow The Sun \- Osmosis Version](https://open.spotify.com/track/0MlYCFWI0oduT11W6O8ptJ) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Alexander Mercks](https://open.spotify.com/artist/1GykWQWG7xcdwxdLiX40jL) | [Osmosis](https://open.spotify.com/album/5EekI9jcgWfjPITMAHWEnh) | 4:03 | 2022-08-25 |  |
 | [Four Hands](https://open.spotify.com/track/73VykcsEsmYRR5Dt05fOOe) | [Malte Marten Konstantin Rössler](https://open.spotify.com/artist/3bDE5iUjo1oj7G6aNEKNs4), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj), [Konstantin Rössler](https://open.spotify.com/artist/4qedSQHMODqYZOTF10C8le), [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x) | [Four Hands](https://open.spotify.com/album/1trhsHyc6e8mgJrczNcpv0) | 12:17 | 2022-08-25 |  |
 | [G Minor](https://open.spotify.com/track/0ppLOssRHODtzfCC6MjC9b) | [Yatao](https://open.spotify.com/artist/4BYqP4YTwWGpi4q94QkW2x), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj) | [The Journey](https://open.spotify.com/album/3jpONAMVwLuzRR2A4DOK75) | 5:28 | 2022-09-08 |  |
+| [Gentle Rhythms](https://open.spotify.com/track/11dpbBP364SzOkNEqbClbl) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Gentle Rhythms](https://open.spotify.com/album/7HL6P1kM1b9LU4aaBcLMZI) | 2:04 | 2023-09-08 |  |
 | [Golden Eye](https://open.spotify.com/track/1BlImCCSiLjejaci1xSkSb) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:11 | 2022-03-03 |  |
 | [Handpan Deep Meditation](https://open.spotify.com/track/2R4BrD6q9nE4fCQF9nhV4t) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Handpan Meditation](https://open.spotify.com/album/2u3DomPFGlzlYXQp8LTog0) | 4:55 | 2022-03-03 | 2022-07-29 |
 | [Handpan Deep Meditation](https://open.spotify.com/track/5htnDUjLYHnFWpeUEfY7lv) | [Hang Drum Player](https://open.spotify.com/artist/6iEUfmAL9SUMhxpWHwzIHb) | [Handpan Meditation](https://open.spotify.com/album/1DjSqR5Jo3rFsXqpd4UKde) | 4:55 | 2022-06-29 |  |

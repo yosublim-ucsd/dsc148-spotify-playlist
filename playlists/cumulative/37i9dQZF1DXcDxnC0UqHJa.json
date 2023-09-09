@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 234917,
       "name": "Lakes of Pontchartrain (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV"
@@ -2768,6 +2768,24 @@
       "duration_ms": 234917,
       "name": "Lakes of Pontchartrain - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a"
+    },
+    {
+      "album": {
+        "name": "Late Night Talking",
+        "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195936,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
     },
     {
       "album": {
@@ -3680,6 +3698,24 @@
       "duration_ms": 220466,
       "name": "Something About What Happens When We Talk",
       "url": "https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU"
+    },
+    {
+      "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL"
     },
     {
       "album": {

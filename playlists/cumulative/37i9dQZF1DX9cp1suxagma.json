@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: TIM\u00d8",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Ventino",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+    },
+    {
+      "album": {
         "name": "Conquistar El Planeta",
         "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 175194,
       "name": "DONDE SEA (feat. C\u00e9sar Pinz\u00f3n)",
       "url": "https://open.spotify.com/track/61YWfGz2h2GKLz7MikpxC9"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 172546,
       "name": "En Qu\u00e9 Planeta",
       "url": "https://open.spotify.com/track/4oEfPKL5ccBOR0wQhhpNX0"
@@ -768,6 +786,24 @@
       "duration_ms": 189200,
       "name": "ENERO",
       "url": "https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67"
+    },
+    {
+      "album": {
+        "name": "ERES (Acto IV: S\u00e1lvese quien pueda)",
+        "url": "https://open.spotify.com/album/4MhdAyDEfQTFG3FP1prddY"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176397,
+      "name": "ERES (Acto IV: S\u00e1lvese quien pueda)",
+      "url": "https://open.spotify.com/track/57lu7hXebjTcjw8QKvYzuM"
     },
     {
       "album": {
@@ -862,6 +898,24 @@
       "duration_ms": 178373,
       "name": "Fantas\u00eda",
       "url": "https://open.spotify.com/track/3vytOevJomYPaAZM2OXwn5"
+    },
+    {
+      "album": {
+        "name": "Feo",
+        "url": "https://open.spotify.com/album/3TGo55A7DUHR2tJ7Inot2y"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Feo",
+      "url": "https://open.spotify.com/track/0zZzASdqR6KoTbwcSKplma"
     },
     {
       "album": {
@@ -1896,7 +1950,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 143737,
       "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
@@ -1968,7 +2022,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 204856,
       "name": "Roca",
       "url": "https://open.spotify.com/track/2zujvi2Jef8V014b9ev3Ll"
@@ -2788,6 +2842,24 @@
       "duration_ms": 156666,
       "name": "\u00bfQu\u00e9 Hubiera Pasado?",
       "url": "https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Si Eras T\u00fa?",
+        "url": "https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "\u00bfY Si Eras T\u00fa?",
+      "url": "https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma"

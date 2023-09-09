@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,523 likes - 70 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,548 likes - 70 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 69 | [The Beat Just Goes Straight on and On](https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight on and On](https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE) | 9:53 |
 | 70 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
 
-Snapshot ID: `MCxmNjBkNGIwNGRkZGYwZTI4MDVhNTBhMmY5Njk5Y2E2YjZiNDBmNWMy`
+Snapshot ID: `MCxjODc3ODBlYWVkYzJkYzEyZmE4NWZkYzU2N2RkNTMxODU0OGFjNTUy`

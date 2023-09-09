@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Progressive & Melodic House desde Argentina, by Surface.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,709 likes - 50 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,778 likes - 50 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 34 | [Plexo](https://open.spotify.com/track/1GtBfYQR8FJig0YiYNjedr) | [FunkState](https://open.spotify.com/artist/6V83rdyRMOwknBz8d4UKng) | [Plexo](https://open.spotify.com/album/7e0MJ7cxWWFKAwkzMUui6J) | 7:04 |
 | 35 | [Dogma \- Original Mix](https://open.spotify.com/track/05W1NW68MEKEEefEVjGKRE) | [Paul Deep \(AR\)](https://open.spotify.com/artist/6xxlOO67SHYReIUQ2Jd2IJ) | [Dogma](https://open.spotify.com/album/5FrVcqShI72lMOdO1MaHbe) | 8:10 |
 | 36 | [Fem Up](https://open.spotify.com/track/70NRqUiwH12vHtQd7TZWgp) | [Nicolas Buccafusca](https://open.spotify.com/artist/72VS5a1a3ReXYh7EPiEZPc), [Julian Rocchi](https://open.spotify.com/artist/2PKhyWF1kMugS2qL9WdMix) | [Two Stories About A Lie](https://open.spotify.com/album/4mjhi9ClXEV7pJkiyMUrPz) | 6:13 |
-| 37 | [Apocalyptic Love](https://open.spotify.com/track/3hThqI5UeSRg5xiLkRn6H6) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/0cY0qRmL8wmJZ4xWpjF4yP) | 7:32 |
+| 37 | [Apocalyptic Love](https://open.spotify.com/track/6hiLV1fEZaUw6x9XGmrKM0) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/2fIF7zGwcpAJeAbEMnxDUH) | 7:32 |
 | 38 | [Voltaire](https://open.spotify.com/track/2qNyupNqF0BTrEXAu8DWwy) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire EP](https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn) | 10:41 |
 | 39 | [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 7:40 |
 | 40 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 49 | [Over](https://open.spotify.com/track/1qqUb6n3fPzIjegshaVZ3p) | [Lucefora](https://open.spotify.com/artist/6GKpX2YtbMOIQVpv3DpFBv) | [13 Years of Akbal Music](https://open.spotify.com/album/1TElv6fUEh66qMzQzerrbk) | 8:19 |
 | 50 | [Oceans](https://open.spotify.com/track/2fLFM5BRyrhrEQMFtY7FeI) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came To Reality EP](https://open.spotify.com/album/6kHffsbCuRXWw5Kpt0ytYx) | 6:31 |
 
-Snapshot ID: `MCw3YzdkMGRkZTZhMGU4NzQ3NDA0NTE2M2M1ZTk0NTYyNjhlMzI4NzM3`
+Snapshot ID: `MCxjZjFlZGE3ZDkwNjBmMDFkMzc4MmQ3MDIzODhkM2EzZDA3MTQ3OWJj`

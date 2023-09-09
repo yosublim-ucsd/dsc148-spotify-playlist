@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Still as the Night",
+        "url": "https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197239,
+      "name": "Still as the Night",
+      "url": "https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF"
+    },
+    {
+      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },

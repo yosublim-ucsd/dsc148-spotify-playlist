@@ -1388,6 +1388,24 @@
     {
       "album": {
         "name": "Ave Sangria",
+        "url": "https://open.spotify.com/album/1RF1bfPvdoLs20NpmmqKI3"
+      },
+      "artists": [
+        {
+          "name": "Ave Sangria",
+          "url": "https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Hei! Man",
+      "url": "https://open.spotify.com/track/6wlOl6tQDgKJbvGP9319rg"
+    },
+    {
+      "album": {
+        "name": "Ave Sangria",
         "url": "https://open.spotify.com/album/2Kds5PBWka7pcAIay7qp6w"
       },
       "artists": [
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 166200,
       "name": "Maracangalha",
       "url": "https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX"

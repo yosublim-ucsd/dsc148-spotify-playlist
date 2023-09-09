@@ -4,7 +4,7 @@
 
 > Easy on the ears for when forest greens pass your eyes.
 
-684 songs - 1 day 17 hr 48 min
+685 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-09-01 | 2022-09-15 |
 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 | 2023-01-01 | 2023-08-02 |
 | [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 | 2022-09-13 | 2022-10-02 |
+| [Since September](https://open.spotify.com/track/1bB04geBJPO5dLx51CWj5V) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Since September](https://open.spotify.com/album/6lvciV8L3fuHDz2bxPrbHg) | 3:02 | 2023-09-08 |  |
 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 | 2022-09-13 | 2022-09-16 |
 | [Sitting In The Park](https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [I Do Love You](https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU) | 3:14 | 2023-09-01 |  |
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2022-11-01 | 2022-12-02 |
@@ -593,7 +594,7 @@
 | [There Is a Mountain \- Single Version](https://open.spotify.com/track/4cOt4yXLpE0i24ZudX8qFC) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Donovan's Greatest Hits](https://open.spotify.com/album/5e5IDfnzjsYXQPnWk6CggM) | 2:35 | 2022-09-13 | 2022-09-16 |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2023-01-01 | 2023-02-02 |
 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 | 2023-03-14 | 2023-04-04 |
-| [Thirteen](https://open.spotify.com/track/3BQLTtpQOYGXQY2lT3ZZeU) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [\#1 Record](https://open.spotify.com/album/1BumwwIEw1EC3xAHyf1ive) | 2:34 | 2023-09-01 |  |
+| [Thirteen](https://open.spotify.com/track/3BQLTtpQOYGXQY2lT3ZZeU) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [\#1 Record](https://open.spotify.com/album/1BumwwIEw1EC3xAHyf1ive) | 2:34 | 2023-09-01 | 2023-09-09 |
 | [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 | 2022-12-01 | 2023-01-02 |
 | [This Feeling](https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:28 | 2023-09-01 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2023-03-14 | 2023-04-04 |

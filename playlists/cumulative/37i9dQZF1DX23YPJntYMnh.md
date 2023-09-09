@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-118 songs - 8 hr 7 min
+119 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 | 2020-01-08 |  |
 | [Drifting Away](https://open.spotify.com/track/3paZJ9ZfDEQYp5d3SvBfdz) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Wanted](https://open.spotify.com/album/7BoDAUUVu2xqWTyYVkDG9m) | 3:30 | 2022-02-25 |  |
 | [Drifting Away](https://open.spotify.com/track/6dTK3myeKGWomdNhtMK59Y) | [Five Points Gang](https://open.spotify.com/artist/0vZOdMJGMaCZ8SJCzciy0B) | [Drifting Away](https://open.spotify.com/album/0V01bdeXh5WOTLBNSOeCj9) | 3:30 | 2022-02-04 | 2022-04-21 |
+| [Eating Ghosts](https://open.spotify.com/track/5kOaodJwNPeDnKEkAsGrRo) | [A.D.A.M\. MUSIC PROJECT](https://open.spotify.com/artist/19NbQWCfWWDi4gNidk4ooe), [No More Kings](https://open.spotify.com/artist/71ayJn19k4ENbNmOmKKgfi) | [Eating Ghosts](https://open.spotify.com/album/01spKnSlTjvWfdtfk6NuUN) | 3:10 | 2023-09-08 |  |
 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2022-09-23 |  |
 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 | 2020-01-08 |  |
 | [Fire](https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR) | [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [Mother's Finest](https://open.spotify.com/album/2u7SLLZRvtRIPcKnYjMj0H) | 4:07 | 2020-01-08 |  |
@@ -90,7 +91,7 @@
 | [Show Me Your Soul](https://open.spotify.com/track/7eCYyli4U6ZuOxHiT5NqxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [What Hits!?](https://open.spotify.com/album/2tPDuNTakdxcbfhHSi7Rc6) | 4:23 | 2020-01-08 |  |
 | [Sister Midnight](https://open.spotify.com/track/7LzUOUXKmE6QdApk8T0XTc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/7vCU9jvSESwQNQr6SB9JyS) | 4:19 | 2020-01-08 | 2022-07-29 |
 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 | 2022-02-04 |  |
-| [So Many Millions](https://open.spotify.com/track/0iXIEH3MpE2jJby5fAdczW) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Reality Of My Surroundings](https://open.spotify.com/album/40M114gHgnKCmUQh2xaTzt) | 5:48 | 2020-01-08 |  |
+| [So Many Millions](https://open.spotify.com/track/0iXIEH3MpE2jJby5fAdczW) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Reality Of My Surroundings](https://open.spotify.com/album/40M114gHgnKCmUQh2xaTzt) | 5:48 | 2020-01-08 | 2023-09-09 |
 | [Something in the Water](https://open.spotify.com/track/6gsDzEHPRTzviRlh8x9oRP) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 5:17 | 2022-03-18 |  |
 | [Something in the Water](https://open.spotify.com/track/7kg6YIkVubmkmRnmMJ77pS) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/6gbUvc1jbDjI5rkGRnsm98) | 5:17 | 2022-03-11 | 2022-04-20 |
 | [Spanish Castle Magic](https://open.spotify.com/track/4lV33seMIyqGM7iFPWCYWx) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Kim Nalley](https://open.spotify.com/artist/1OOAu1X5HrDva4l9ESNUT5), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL) | [Spanish Castle Magic](https://open.spotify.com/album/3lWc1lTWJd4cARMSOhtwWW) | 3:57 | 2022-05-20 |  |

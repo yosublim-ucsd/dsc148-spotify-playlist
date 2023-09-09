@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Lefty Sm, Santa Fe Klan, Dharius, C\-Kan, MC Davo, y Neto Peña en la casa.
 
-415 songs - 1 day 0 hr 37 min
+416 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 | 2022-07-14 |  |
 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 | 2023-03-17 | 2023-05-13 |
 | [Agua de Grifo](https://open.spotify.com/track/3oJdoVXcGrt6BtAl5TTfpI) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Agua de Grifo](https://open.spotify.com/album/3N8W501coseorcBIgHLTrr) | 2:56 | 2022-04-20 |  |
-| [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 | 2023-05-19 |  |
+| [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 | 2023-05-19 | 2023-09-09 |
 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 | 2022-10-04 |  |
 | [Ahí Nací](https://open.spotify.com/track/721PP2J5zjvLgZB2dd2jEr) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ahí Nací](https://open.spotify.com/album/7d9bjauhvnNz9YKj27opID) | 4:45 | 2022-01-28 | 2022-10-08 |
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-09-16 | 2023-07-01 |
@@ -306,6 +306,7 @@
 | [Puesta a Punto](https://open.spotify.com/track/2s7PgpafvRvsBGOAgJN6Pd) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Puesta a Punto](https://open.spotify.com/album/1iZWwAhTs7yRvC29yIiX8r) | 2:12 | 2022-04-15 | 2022-05-14 |
 | [Pura Borrachera](https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pura Borrachera](https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6) | 3:24 | 2022-01-28 | 2022-10-15 |
 | [Pyrena](https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Pyrena](https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B) | 3:46 | 2023-04-28 |  |
+| [Pólvora](https://open.spotify.com/track/5APKIKW8ptXpHd868lOElb) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Pólvora](https://open.spotify.com/album/7dpnBTXwqTWNzSG40bm4Ev) | 2:40 | 2023-09-08 |  |
 | [Que Si Fumo Tanto](https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL) | 3:40 | 2022-07-25 | 2022-09-30 |
 | [Que Si Fumo Tanto](https://open.spotify.com/track/7AZH7Vn8THaOuaCmrKlMAk) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/1UsVwNTkhyn85UWR6RBbam) | 3:40 | 2022-01-28 | 2022-07-29 |
 | [Quién Ganará?](https://open.spotify.com/track/7uZQXmWOuvBYDTnH0l5BO0) | [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Quién Ganará?](https://open.spotify.com/album/6pjL3hvLxhizEOEDOw1DGp) | 3:09 | 2022-02-09 | 2023-04-09 |

@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
+    },
+    {
+      "album": {
         "name": "Embriagado de Saudade",
         "url": "https://open.spotify.com/album/2MgoX7Y7rP0JCb6Q3K5SUX"
       },
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 195033,
       "name": "Estrela do Mar",
       "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 190507,
       "name": "isso \u00e9 t\u00e3o a gente :)",
       "url": "https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V"
@@ -5435,6 +5453,24 @@
     },
     {
       "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Luana Berti",
         "url": "https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy"
       },
@@ -5732,7 +5768,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 166073,
       "name": "Porta Retrato - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7aVJS9Y99bHeZ2Q4ji2PqK"
@@ -6531,6 +6567,28 @@
     },
     {
       "album": {
+        "name": "sem base",
+        "url": "https://open.spotify.com/album/6uYCuHfr2wkkxBBxN2mbwc"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152626,
+      "name": "sem base",
+      "url": "https://open.spotify.com/track/58CcRbsAdGuIuj5Umad7XG"
+    },
+    {
+      "album": {
         "name": "Sem Filtro",
         "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
       },
@@ -7126,6 +7184,28 @@
       "duration_ms": 202154,
       "name": "Tenha do Seu Lado",
       "url": "https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs"
+    },
+    {
+      "album": {
+        "name": "Tenta",
+        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        },
+        {
+          "name": "Annalu",
+          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Tenta",
+      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
     },
     {
       "album": {
@@ -7930,7 +8010,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 156818,
       "name": "Viciado em Voc\u00ea",
       "url": "https://open.spotify.com/track/6ICvI9uVJefqGANLOSwrTt"

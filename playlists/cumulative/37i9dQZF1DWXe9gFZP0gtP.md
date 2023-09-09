@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient music.
 
-367 songs - 18 hr 6 min
+368 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Hope Street](https://open.spotify.com/track/2GW2FdCD7NePDJ4GFaEnpP) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Hope Street](https://open.spotify.com/album/0lYW6kBdZvNW532PyGPUSY) | 3:28 | 2021-12-22 |  |
 | [Hopeful](https://open.spotify.com/track/6pnhLxKJShRqP5YeXdtkWc) | [Asher Francis](https://open.spotify.com/artist/7A3PJ0HRctOwwSLMIwFDte) | [Hopeful](https://open.spotify.com/album/5qNrPIDJil1rGVkiO8LI9A) | 2:11 | 2021-12-17 |  |
 | [Hopeful](https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Hopeful](https://open.spotify.com/album/1u7Xlr1lUkCBPyiE2U6Z7n) | 2:42 | 2021-12-17 |  |
-| [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-12-17 |  |
+| [Huitussi](https://open.spotify.com/track/5gDjNqBVupjXg9FpgVQ68c) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Huitussi](https://open.spotify.com/album/64u7zy3JliXzjqK9T3H4Zd) | 2:57 | 2021-12-17 | 2023-09-09 |
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2021-12-17 |  |
 | [I din nærhet](https://open.spotify.com/track/04QbFy5NlBOJVvQEGlRwsm) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [I din nærhet](https://open.spotify.com/album/4LVIubO2hb2qzRGQHA8R2G) | 2:59 | 2021-12-17 |  |
 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 | 2022-01-05 |  |
@@ -272,6 +272,7 @@
 | [Release](https://open.spotify.com/track/3WvLmahT84IZwXfK5S8cIb) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Release](https://open.spotify.com/album/4jBVlTEpIx48NPGSxfBAKr) | 2:17 | 2022-09-13 |  |
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2021-12-17 | 2022-01-06 |
 | [Reposante](https://open.spotify.com/track/5utH8lQiqEXyndW36K1z8z) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Reposante](https://open.spotify.com/album/6PAY62o3vEOZ0mfhzP9GIr) | 3:03 | 2023-04-06 |  |
+| [Resonance](https://open.spotify.com/track/2BvNx9meCJYzVXHVKdSL7X) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Resonance](https://open.spotify.com/album/3AQyZpDhvOtnL602e3W5z2) | 2:52 | 2023-09-08 |  |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-12-17 |  |
 | [Returning](https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:08 | 2021-12-17 | 2023-01-07 |
 | [Revealing The Unreal](https://open.spotify.com/track/2zJmgxEcBUKtrfjfCn1UMM) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Suburban Call For Concrete Dreams](https://open.spotify.com/album/3kFtOGZWe1iJnIOw0Df37m) | 3:32 | 2021-12-17 | 2022-04-22 |

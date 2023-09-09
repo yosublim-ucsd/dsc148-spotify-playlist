@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Por Un Amor / Melodrama",
+        "url": "https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169786,
+      "name": "Por Un Amor",
+      "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
+    },
+    {
+      "album": {
         "name": "Efecto Domin\u00f3",
         "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
       },

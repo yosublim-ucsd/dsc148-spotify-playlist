@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 120816,
+  "num_followers": 120874,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTc2OWZkZGQ5ODA3MmM4ODY4NGNmNDQwOTJkNTc2NmE3MDU2YjRi",
+  "snapshot_id": "MCxhMDgwYWNjZGZjMGUwZjM1MGU4NDc5YzA4YTdhZmY4ZGYxNDAzNTUw",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Trap de Cria",
+        "url": "https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 117867,
+      "name": "Trap de Cria",
+      "url": "https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 139636,
       "name": "Menino Ney",
       "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Trap de Cria",
-        "url": "https://open.spotify.com/album/2GzS8QreFNrXifx59Jh8Ww"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 117867,
-      "name": "Trap de Cria",
-      "url": "https://open.spotify.com/track/4UWCqKIWKAmdahy3X4xDkA"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "\u00c9TPM?!",
+        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 139014,
+      "name": "Rambo",
+      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Antigolpe",
         "url": "https://open.spotify.com/album/32BpbaukPvEWLVnJQ7mp6a"
       },
@@ -1871,42 +1887,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "\u00c9TPM?!",
-        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+        "name": "Como a chuva cai",
+        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
       },
       "artists": [
         {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        }
-      ],
-      "duration_ms": 139014,
-      "name": "Rambo",
-      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Modo Trapa\u00e7a",
-        "url": "https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
         },
         {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        },
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Modo Trapa\u00e7a",
-      "url": "https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR"
+      "duration_ms": 152086,
+      "name": "Como a chuva cai",
+      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1943,22 +1939,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Como a chuva cai",
-        "url": "https://open.spotify.com/album/4RF07dFHIZhmBLFU9kUU4R"
+        "name": "Modo Trapa\u00e7a",
+        "url": "https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         },
         {
-          "name": "Hungria Hip Hop",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
         }
       ],
-      "duration_ms": 152086,
-      "name": "Como a chuva cai",
-      "url": "https://open.spotify.com/track/26dxrRJqzLXS6PTtOq7zgm"
+      "duration_ms": 192000,
+      "name": "Modo Trapa\u00e7a",
+      "url": "https://open.spotify.com/track/3OAOGZwWMzP24qefZmPYWR"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -2203,6 +2203,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Suco de Fruta",
+        "url": "https://open.spotify.com/album/5RzwJ40yPtUgANPoEmP7wr"
+      },
+      "artists": [
+        {
+          "name": "Mikezin",
+          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "Suco de Fruta",
+      "url": "https://open.spotify.com/track/4sbR19WEgjJUfRsU1z2DY2"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Ouro Ros\u00e9",
         "url": "https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL"
       },
@@ -2235,26 +2255,6 @@
       "duration_ms": 290000,
       "name": "Ouro Ros\u00e9",
       "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Suco de Fruta",
-        "url": "https://open.spotify.com/album/5RzwJ40yPtUgANPoEmP7wr"
-      },
-      "artists": [
-        {
-          "name": "Mikezin",
-          "url": "https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "Suco de Fruta",
-      "url": "https://open.spotify.com/track/4sbR19WEgjJUfRsU1z2DY2"
     },
     {
       "added_at": "2023-09-01 03:01:00",

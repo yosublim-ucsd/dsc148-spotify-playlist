@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=ABWOCesUQZS5YxyjBmAjcAA\"> Black Sherif</a>",
+  "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP?si=tRBSWovKSuG6VFIZuUg3vg\"> Cassper Nyovest</a>",
   "name": "No Wahala",
   "tracks": [
+    {
+      "album": {
+        "name": "018",
+        "url": "https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195492,
+      "name": "018",
+      "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
+    },
     {
       "album": {
         "name": "Sex Over Love (Deluxe Edition)",
@@ -220,7 +242,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 192153,
       "name": "All the smoke",
       "url": "https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG"
@@ -416,7 +438,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
@@ -566,7 +588,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 137806,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
@@ -2233,6 +2255,36 @@
     },
     {
       "album": {
+        "name": "Mafia Remix",
+        "url": "https://open.spotify.com/album/3wi79X5P45HE42FdpBZ4VX"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        },
+        {
+          "name": "Navio",
+          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Mafia - Remix",
+      "url": "https://open.spotify.com/track/2vpZU8eaDjZe4Hu8mnd7pG"
+    },
+    {
+      "album": {
         "name": "As Above, So Below (Deluxe)",
         "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
       },
@@ -2836,6 +2888,28 @@
       "duration_ms": 121558,
       "name": "Problem No Dey Finish",
       "url": "https://open.spotify.com/track/2N7hk4ffi927drqdKkbQSy"
+    },
+    {
+      "album": {
+        "name": "Prosper In Peace",
+        "url": "https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "Prosper In Peace (with Benny The Butcher)",
+      "url": "https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd"
     },
     {
       "album": {

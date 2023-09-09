@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 207309,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
@@ -12000,7 +12000,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 228855,
       "name": "Ranjha (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -12756,7 +12756,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -15988,6 +15988,32 @@
       "duration_ms": 328421,
       "name": "WOH",
       "url": "https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN"
+    },
+    {
+      "album": {
+        "name": "Kisna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/17RWh0VqIZTUR0LmA6g7gw"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Ayesha Darbar",
+          "url": "https://open.spotify.com/artist/04Z0eGz8f3oRz1AolSNtvf"
+        },
+        {
+          "name": "S. P. Sailaja",
+          "url": "https://open.spotify.com/artist/2kS7t5vt2L9Zruax48K1tH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357186,
+      "name": "Woh Kisna Hai",
+      "url": "https://open.spotify.com/track/5Se9PXWc57LRT0zthjI5cG"
     },
     {
       "album": {

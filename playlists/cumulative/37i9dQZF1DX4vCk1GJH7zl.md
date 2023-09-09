@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bloc Party
 
-87 songs - 5 hr 14 min
+89 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [acordar](https://open.spotify.com/track/7LxFmCfhILQ0zWFWEqxs09) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [acordar](https://open.spotify.com/album/7H5zUnptzblSjqmu6feq72) | 4:26 | 2023-07-21 |  |
 | [Acrobata](https://open.spotify.com/track/6orBIiTmqWyGI21IkACaAA) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Pescador / Acrobata](https://open.spotify.com/album/56j6hEFyQdQCINw9rINDKP) | 3:16 | 2023-07-21 |  |
 | [Across The Universe](https://open.spotify.com/track/1oM1aPwxsXeDlstW1r6SOM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/2WNelmpjFLNWWRhrgefbsi) | 3:42 | 2023-07-21 |  |
+| [Adormecendo](https://open.spotify.com/track/44bcg7n1OAR75lSsN8beqZ) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Adormecendo](https://open.spotify.com/album/43jkcPvacrtGm26JjE6QCb) | 4:09 | 2023-09-08 |  |
 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 | 2023-07-21 |  |
 | [Antes do Nada](https://open.spotify.com/track/1VSBy96DsRTiv7c44dJtdH) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [Antes do Nada](https://open.spotify.com/album/4DqZL9kZ0FyueNdj0KhYNa) | 3:45 | 2023-07-21 |  |
 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 | 2023-07-21 |  |
@@ -38,7 +39,7 @@
 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 | 2023-07-21 | 2023-08-26 |
 | [Dois Mundos](https://open.spotify.com/track/0yWPnJ50IOP1Vbzf3jYxbX) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Tulio Freitas](https://open.spotify.com/artist/1jDI5QIP2tPVrFDqwQY4Dj) | [Dois Mundos](https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv) | 4:17 | 2023-07-21 |  |
 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 | 2023-07-21 |  |
-| [Eu Deixo](https://open.spotify.com/track/4kysCKNjDUK1WrSDdfzW2X) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Eu Deixo](https://open.spotify.com/album/00gv0XAlY69dAePHdTNisw) | 4:14 | 2023-07-21 |  |
+| [Eu Deixo](https://open.spotify.com/track/4kysCKNjDUK1WrSDdfzW2X) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Eu Deixo](https://open.spotify.com/album/00gv0XAlY69dAePHdTNisw) | 4:14 | 2023-07-21 | 2023-09-09 |
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2023-07-21 |  |
 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 | 2023-07-21 |  |
 | [I Can't Live Without Your Love](https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig) | [Dan Torres](https://open.spotify.com/artist/0iS20B6yWWj6zaNXdry2fd) | [I Can't Live Without Your Love](https://open.spotify.com/album/2Dony1m2zhoMSDmmdrqj9B) | 3:34 | 2023-07-21 |  |
@@ -90,10 +91,11 @@
 | [Tons De Blue \- Faixa Bônus](https://open.spotify.com/track/0ZYkFogckBfd6142gFg3pV) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Marshmallow Flor De Sal \(Deluxe\)](https://open.spotify.com/album/5GvOW673J6ctNmV7a23nNm) | 4:01 | 2023-07-21 |  |
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2023-07-21 |  |
 | [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 | 2023-07-21 |  |
-| [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2023-07-21 |  |
+| [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2023-07-21 | 2023-09-09 |
 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 | 2023-07-21 |  |
 | [Você Gosta Dela \(Versão Alternativa\)](https://open.spotify.com/track/7e4KJGvzSZqk2c83BarqDZ) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Docefuga](https://open.spotify.com/album/1FdOa6QJz3jyhFDnfzOMfO) | 2:39 | 2023-07-21 |  |
 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 | 2023-07-21 |  |
+| [Wishbone](https://open.spotify.com/track/5kmyEZWbvN68yERmQq3PM5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wishbone](https://open.spotify.com/album/3epsVwCw6BGWKBa3kplHRr) | 2:52 | 2023-09-08 |  |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2023-07-21 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

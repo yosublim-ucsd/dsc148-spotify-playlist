@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+    },
+    {
+      "album": {
         "name": "Como En El Cine",
         "url": "https://open.spotify.com/album/0c3RX7proUtcTvEgjPKwnq"
       },
@@ -1066,10 +1084,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 149657,
       "name": "Debut",
       "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3VUsHzJ9rtyRNMliIPo3CY"
+      },
+      "artists": [
+        {
+          "name": "Tinu x Emi",
+          "url": "https://open.spotify.com/artist/4jj6yiPO9GV5q1ciyBSBew"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185321,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0oxIDAezR6gXBGlOzNWNcL"
     },
     {
       "album": {
@@ -1084,7 +1120,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 176207,
       "name": "Dementes",
       "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
@@ -1675,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "HAPPY-SAD",
+        "url": "https://open.spotify.com/album/4tuLATxI7pPpORhkUamSxE"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202240,
+      "name": "HAPPY-SAD",
+      "url": "https://open.spotify.com/track/4Pb0ezBbTRZolymTLRdrYK"
+    },
+    {
+      "album": {
         "name": "Hola Senpai",
         "url": "https://open.spotify.com/album/4nBF01igPVDxFJ4bcQPbJ4"
       },
@@ -1686,7 +1740,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 110285,
       "name": "Hola Senpai",
       "url": "https://open.spotify.com/track/03fMuuJqzL9ZqqeKxGEJRc"
@@ -1748,7 +1802,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 169539,
       "name": "hot wheels",
       "url": "https://open.spotify.com/track/3Luh6sz1FHuGEv1HFhIR0m"
@@ -1810,7 +1864,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 184000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh"
@@ -1944,6 +1998,46 @@
       "duration_ms": 158483,
       "name": "Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/37pwL5ZBHAq5juetHeFyt4"
+      },
+      "artists": [
+        {
+          "name": "Madre Tribu",
+          "url": "https://open.spotify.com/artist/4vstyk846BlrimFAOyyfE5"
+        },
+        {
+          "name": "Joel Alonso",
+          "url": "https://open.spotify.com/artist/1XumMCEvo5nrwVxbylrAqa"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186753,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3hlour26oqaPGvUeuRxwtl"
+    },
+    {
+      "album": {
+        "name": "Lovelove U",
+        "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175479,
+      "name": "Lovelove U",
+      "url": "https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B"
     },
     {
       "album": {
@@ -2220,6 +2314,28 @@
       "duration_ms": 190666,
       "name": "Menta",
       "url": "https://open.spotify.com/track/1a7BzukLRIIsOvJGozrFja"
+    },
+    {
+      "album": {
+        "name": "Mentiiira",
+        "url": "https://open.spotify.com/album/0H7P5EiyRcRalskbMv1Vw1"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mentiiira",
+      "url": "https://open.spotify.com/track/2zppHPDwkbCtBaAjSocBOV"
     },
     {
       "album": {
@@ -2517,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "No Digas Nada",
+        "url": "https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "No Digas Nada",
+      "url": "https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL"
+    },
+    {
+      "album": {
         "name": "No Eres T\u00fa",
         "url": "https://open.spotify.com/album/6mid7zTX6Ba7MabucYA6zN"
       },
@@ -2612,7 +2746,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 191360,
       "name": "No Puede Ser - con Eladio Carrion",
       "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
@@ -2841,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
+        "url": "https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
+      "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
+    },
+    {
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/5DGSn1ipSRxFMgleIALTXL"
       },
@@ -3018,7 +3170,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 167360,
       "name": "Psycho B**ch",
       "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
@@ -3112,7 +3264,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 159497,
       "name": "Qui\u00e9n lo dir\u00eda",
       "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"

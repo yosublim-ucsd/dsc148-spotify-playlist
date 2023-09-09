@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with SAFE.",
+  "description": "This is R&B in Canada, elevate your aura with JAHKOY.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -180,6 +180,28 @@
       "duration_ms": 193500,
       "name": "3AM",
       "url": "https://open.spotify.com/track/1lpKb41TytHt799qHYImCT"
+    },
+    {
+      "album": {
+        "name": "Pretty Conversation",
+        "url": "https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        },
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "4 Letter Word",
+      "url": "https://open.spotify.com/track/1us5FXqtcrJUAaIINwMOhs"
     },
     {
       "album": {
@@ -918,7 +940,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 163636,
       "name": "Astro Travel",
       "url": "https://open.spotify.com/track/0Z4IvS7EA9rKtFKTeay1aV"
@@ -2428,6 +2450,24 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/3AvImpd15i4D8rlNjhrCIs"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151041,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2Ia9EoSjHDx1bN37rayUJm"
     },
     {
       "album": {
@@ -3962,7 +4002,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 137872,
       "name": "Feels",
       "url": "https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd"
@@ -4563,6 +4603,24 @@
     },
     {
       "album": {
+        "name": "SongBird, Vol. 1",
+        "url": "https://open.spotify.com/album/5DIEF8x4r8KOnueyP4TDlq"
+      },
+      "artists": [
+        {
+          "name": "Zweii",
+          "url": "https://open.spotify.com/artist/6CuMYTUOoMFxqOf4E5iX7p"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213869,
+      "name": "Godiva",
+      "url": "https://open.spotify.com/track/5bHIPAiHcWMeBMkchlJtY1"
+    },
+    {
+      "album": {
         "name": "GoFundMe",
         "url": "https://open.spotify.com/album/61926vlloaBAq9IQXVKGY4"
       },
@@ -4958,7 +5016,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 107389,
       "name": "Healing",
       "url": "https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp"
@@ -5358,6 +5416,24 @@
       "duration_ms": 337028,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM"
+    },
+    {
+      "album": {
+        "name": "Mellifluous",
+        "url": "https://open.spotify.com/album/5A1mjQLNChJIbN8rTXIX3t"
+      },
+      "artists": [
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260868,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7GF8Hx6SBAgui986dNeGYQ"
     },
     {
       "album": {
@@ -6076,7 +6152,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 241932,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS"
@@ -7194,7 +7270,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 174000,
       "name": "Love isn't a Game",
       "url": "https://open.spotify.com/track/4FYcqOoJJnGYgQLGgDYzYx"
@@ -7818,7 +7894,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 140474,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No"
@@ -9295,6 +9371,32 @@
     },
     {
       "album": {
+        "name": "Oyster",
+        "url": "https://open.spotify.com/album/19wYgVlKnIZLtT33X81U54"
+      },
+      "artists": [
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "Eric Ryan",
+          "url": "https://open.spotify.com/artist/7zFbJFKex3lnJNDj8cWeKp"
+        },
+        {
+          "name": "Julles",
+          "url": "https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Oyster",
+      "url": "https://open.spotify.com/track/5dVfBpvcz0LYoY6KFyitCk"
+    },
+    {
+      "album": {
         "name": "Pain, no Percocet",
         "url": "https://open.spotify.com/album/21NMZv3MRj4nw6O75v5hha"
       },
@@ -10566,7 +10668,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
@@ -11809,6 +11911,24 @@
     },
     {
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/7s6RxNVhw4gVU9cWLUK0x2"
+      },
+      "artists": [
+        {
+          "name": "Nicole Chambers",
+          "url": "https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164620,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/1mC3szr3FGsSzPBcvjweEI"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5RnbqtjGXDUJGNuevnJG83"
       },
@@ -11918,6 +12038,24 @@
       "duration_ms": 188960,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
     },
     {
       "album": {
@@ -12792,7 +12930,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182486,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/2qP6SxFe1uNYqyAsfTZbVF"
@@ -13606,6 +13744,24 @@
       "duration_ms": 197941,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/0FbxG4ozdUkNv6S3GbJ4B3"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/4BMiFFKjL6kDjgEsdmAn2s"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195278,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/35CjECBbcR7MU75NpTGd4a"
     },
     {
       "album": {

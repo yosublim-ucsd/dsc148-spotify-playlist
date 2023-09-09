@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-190 songs - 9 hr 52 min
+192 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Hands Up High](https://open.spotify.com/track/6RYUGpSQxQSuV1GbylEB8k) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Forever Friends](https://open.spotify.com/album/5LnNzlXIpyPa5kW1q2c3Qg) | 2:53 | 2021-11-11 |  |
 | [Harbor](https://open.spotify.com/track/3XnfMD4VpGq6BGnMloX6vj) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Harbor](https://open.spotify.com/album/4uqyetNhdGQQyZ1OtRjA05) | 2:22 | 2022-11-25 | 2023-08-05 |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2021-11-11 | 2022-02-11 |
+| [Heat Wave](https://open.spotify.com/track/59q8vvH0Eo4Wi1MhgUhtl0) | [People Safari](https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z) | [Heat Wave](https://open.spotify.com/album/7jJgMxaUWkvoHaE4uwDrwg) | 2:21 | 2023-09-08 |  |
 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 | 2022-01-21 |  |
 | [Holding Anchor](https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Mango Love](https://open.spotify.com/album/1MgbQTIcNtBnGoemdnQL8u) | 3:08 | 2021-11-11 | 2022-02-11 |
 | [Honey Bee](https://open.spotify.com/track/7iM8XlrP0vRWZ7IMnFChtc) | [Don Battina](https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X) | [Honey Bee](https://open.spotify.com/album/3dd4xMb3GxR1oqTgbBnHqN) | 3:19 | 2021-11-11 | 2022-01-22 |
@@ -168,6 +169,7 @@
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-11-11 | 2023-06-03 |
 | [Storm Trap](https://open.spotify.com/track/5R6je2hMSX75YAKP5t4CvE) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Storm Trap](https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n) | 3:52 | 2022-06-17 | 2022-09-09 |
 | [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-19 | 2023-02-25 |
+| [Summer Like Before](https://open.spotify.com/track/4QHsDrQJ4IPH5DG9Y9A61B) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Summer Like Before](https://open.spotify.com/album/1B6DLJW9CVPPGXysmpVrA2) | 2:38 | 2023-09-08 |  |
 | [Summer Youth](https://open.spotify.com/track/2nj2H3Eq1BhxBkJIomPlIZ) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Summer Youth](https://open.spotify.com/album/4HpLAXUjv7qQiDkYRb0LFH) | 2:37 | 2023-06-23 |  |
 | [Sun Time](https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF) | [Yelloo Hill](https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke) | [Sun Time](https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad) | 2:09 | 2021-11-11 |  |
 | [Sunflower](https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 4:04 | 2021-11-11 | 2022-04-06 |

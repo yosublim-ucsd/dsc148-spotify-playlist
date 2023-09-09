@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 64647,
+  "num_followers": 64740,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTFhNTA0MzYyYzljOTcyMjYwMWE2YmJiYzdkOWRkYmUxZmRjYWZl",
+  "snapshot_id": "MCw3OTZiNTBiNDllZDc4MDllNjcyMTUxMDUwOWU2MTdlZjc5MmMwYzMz",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:23",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 329400,
+      "name": "Lifetime - Remastered 2021",
+      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 200686,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 329400,
-      "name": "Lifetime - Remastered 2021",
-      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Return To The 37th Chamber",
-        "url": "https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 127587,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 229403,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "Return To The 37th Chamber",
+        "url": "https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 127587,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Soul Revolution",
         "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 199520,
       "name": "Positivity",
       "url": "https://open.spotify.com/track/0wo02vddAWnvU6nJAwv4Wz"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Feels So Good (Don\u2019t It)",
-        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
-      },
-      "artists": [
-        {
-          "name": "Secret Rendezvous",
-          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
-        }
-      ],
-      "duration_ms": 209524,
-      "name": "Feels So Good Don\u2019t It",
-      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 286960,
       "name": "True",
       "url": "https://open.spotify.com/track/12Coc139hXMlwp2CinTQ2N"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
+      },
+      "artists": [
+        {
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
+        }
+      ],
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "The SunRoom",
-        "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
       },
       "artists": [
         {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
         }
       ],
-      "duration_ms": 271794,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3"
+      "duration_ms": 214666,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/4kWmZoSHYtMxvejnCwv3ID"
+        "name": "The SunRoom",
+        "url": "https://open.spotify.com/album/3XR4GTqZQ1eiVULjHQd38N"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Movin' On",
-      "url": "https://open.spotify.com/track/7uqDPKBvbsyFigZjaS9wHn"
+      "duration_ms": 271794,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2KuATlpFox2DKUkRxViBH3"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
         "name": "Bless My Soul",
         "url": "https://open.spotify.com/album/1rI2tm2skLmDF8Gmj4vjoN"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 226290,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0DIcHQUp4f9j4Gym2Kn8nm"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": "2023-08-15 12:19:23",

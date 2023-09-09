@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Oliver Tree",
-  "num_followers": 209044,
+  "num_followers": 209086,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjAyMmE5NjFjNWMxZmUyMzU4OGEwYjVhZWY4N2UyZmNjZjdiYjlm",
+  "snapshot_id": "MCwxMGI4OTBkNzk4ZjcwN2I4ZWRhMzA1ZWEyMDE1OTBmMWI4NWNjNjIw",
   "tracks": [
     {
       "added_at": "2023-09-01 04:36:34",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 199422,
+      "name": "pretty isn\u2019t pretty",
+      "url": "https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X"
+    },
+    {
       "added_at": "2023-09-01 04:36:34",
       "album": {
         "name": "If I'm Honest",
@@ -59,6 +75,22 @@
       "duration_ms": 162701,
       "name": "If I'm Honest",
       "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Loud Music",
+        "url": "https://open.spotify.com/album/7kzBVQLVedU12XiBI2jQ56"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 176094,
+      "name": "Loud Music",
+      "url": "https://open.spotify.com/track/52awPPpUDk2wunBLwrHcQY"
     },
     {
       "added_at": "2023-09-01 04:36:34",
@@ -93,6 +125,22 @@
       "url": "https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "You Don't Even",
+        "url": "https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "You Don't Even",
+      "url": "https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3"
+    },
+    {
       "added_at": "2023-09-01 04:36:34",
       "album": {
         "name": "Used To This",
@@ -125,6 +173,22 @@
       "url": "https://open.spotify.com/track/4gBrsChuCwPofDjaF4O16S"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Wes Anderson",
+        "url": "https://open.spotify.com/album/7EcpVfeDmP8W7TKIEGypgE"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 167448,
+      "name": "Wes Anderson",
+      "url": "https://open.spotify.com/track/20U991Kupnf6EwVGxFshgJ"
+    },
+    {
       "added_at": "2023-09-01 04:36:34",
       "album": {
         "name": "SEASONS",
@@ -139,6 +203,22 @@
       "duration_ms": 160776,
       "name": "SEASONS",
       "url": "https://open.spotify.com/track/0LewCveaX3x2WWdJr0OQVu"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Boy Scout",
+        "url": "https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 200261,
+      "name": "Boy Scout",
+      "url": "https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL"
     },
     {
       "added_at": "2023-09-01 04:36:34",
@@ -187,6 +267,22 @@
       "duration_ms": 170000,
       "name": "Second to Last",
       "url": "https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "chuck taylors",
+        "url": "https://open.spotify.com/album/4liRxZ74LiRx6k8WzAW1pf"
+      },
+      "artists": [
+        {
+          "name": "Scott Helman",
+          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
+        }
+      ],
+      "duration_ms": 162645,
+      "name": "chuck taylors",
+      "url": "https://open.spotify.com/track/4tGb9FSVHRKmUIWsXxf7o6"
     },
     {
       "added_at": "2023-09-01 04:36:34",
@@ -289,6 +385,22 @@
       "url": "https://open.spotify.com/track/28E1szJlW78BvA6HpCybgH"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Givin Up",
+        "url": "https://open.spotify.com/album/63RtHHVvzPc2dXa8fdq3f9"
+      },
+      "artists": [
+        {
+          "name": "Saint Blonde",
+          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Givin Up",
+      "url": "https://open.spotify.com/track/3ioUU8TzRPMsN8C4sFi1fz"
+    },
+    {
       "added_at": "2023-09-01 04:36:34",
       "album": {
         "name": "fckboys",
@@ -383,22 +495,6 @@
       "duration_ms": 155733,
       "name": "See You Later",
       "url": "https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs"
-    },
-    {
-      "added_at": "2023-09-01 04:36:34",
-      "album": {
-        "name": "Making Diamonds",
-        "url": "https://open.spotify.com/album/4vTpspvnRsiGe66saR77sG"
-      },
-      "artists": [
-        {
-          "name": "ZEE MACHINE",
-          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
-        }
-      ],
-      "duration_ms": 200036,
-      "name": "Making Diamonds",
-      "url": "https://open.spotify.com/track/6gxb1PNLlRWs2F8QFw4lbX"
     },
     {
       "added_at": "2023-09-01 04:36:34",
@@ -1187,26 +1283,6 @@
       "duration_ms": 203888,
       "name": "I Don't Feel Alive",
       "url": "https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd"
-    },
-    {
-      "added_at": "2023-09-01 04:36:34",
-      "album": {
-        "name": "Till Next Time",
-        "url": "https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        },
-        {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
-        }
-      ],
-      "duration_ms": 128464,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ"
     },
     {
       "added_at": "2023-09-01 04:36:34",

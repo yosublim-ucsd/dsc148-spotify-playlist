@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 35970,
+  "num_followers": 36123,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMxZDgyZTBiM2RiMzliYTVkZTI3NTg4ZDMxZjUyMWU0ODY4N2U0",
+  "snapshot_id": "MCxmZmRlMjhhMzQ4NWUzMjdhZGEwNzQ4ZTFmZDcyYmFmMmM1OTI1NThk",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "The Sea",
         "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/2ccjGxAs64dv32oh45iE91"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Like The River",
+        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Like The River",
+      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "The Boys Of Summer",
         "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 137142,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Like The River",
-        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
-      },
-      "artists": [
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        },
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "Like The River",
-      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Waves (feat. Grace Tither)",
-        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Grace Tither",
-          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
-        }
-      ],
-      "duration_ms": 202501,
-      "name": "Waves (feat. Grace Tither)",
-      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Waves (feat. Grace Tither)",
+        "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Grace Tither",
+          "url": "https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa"
+        }
+      ],
+      "duration_ms": 202501,
+      "name": "Waves (feat. Grace Tither)",
+      "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/6VJVnkUcj3AyOx6cRM2UqR"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 159845,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
+      },
+      "artists": [
+        {
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+        },
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        }
+      ],
+      "duration_ms": 189421,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Summer Stars",
         "url": "https://open.spotify.com/album/4sbmy9qzug63y1u8kX9UG3"
       },
@@ -1187,30 +1207,6 @@
       "duration_ms": 150394,
       "name": "Summer Stars",
       "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "ASTIR",
-          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        }
-      ],
-      "duration_ms": 206384,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1239,22 +1235,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
       },
       "artists": [
         {
-          "name": "Skye Holland",
-          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         },
         {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+          "name": "ASTIR",
+          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
         }
       ],
-      "duration_ms": 189421,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+      "duration_ms": 206384,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1475,26 +1475,18 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Feel Alive (feat. PollyAnna)",
-        "url": "https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
       },
       "artists": [
         {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+          "name": "Cogitation",
+          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
         }
       ],
-      "duration_ms": 157401,
-      "name": "Feel Alive (feat. PollyAnna)",
-      "url": "https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS"
+      "duration_ms": 171944,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1515,18 +1507,26 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT"
+        "name": "Feel Alive (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM"
       },
       "artists": [
         {
-          "name": "Cogitation",
-          "url": "https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq"
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
         }
       ],
-      "duration_ms": 171944,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
+      "duration_ms": 157401,
+      "name": "Feel Alive (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS"
     },
     {
       "added_at": "2023-09-07 22:00:00",

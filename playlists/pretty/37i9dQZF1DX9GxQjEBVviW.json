@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 213667,
+  "num_followers": 213758,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWY4YjMwNjI2YjIzNGVmNDI0YWM1YjM4MmNhZjVlNTcyMmI1M2Jk",
+  "snapshot_id": "MCw4NWVmMDY5ODllZGM0MmRlOWNjNmQzMDA0ZmY3NTg0M2JkOGQwZDFm",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Coasters",
         "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 196466,
       "name": "Down in Mexico",
       "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "The Magic Touch: An Anthology",
         "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 141306,
-      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Dreams Of Contentment (Special Deluxe Collection)",
         "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 169706,
       "name": "Get a Job",
       "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -539,22 +555,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "The Best Of The Cleftones",
         "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 113640,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -603,6 +587,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Echoes Of A Rock Era",
+        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
+      },
+      "artists": [
+        {
+          "name": "The Crows",
+          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -651,22 +667,6 @@
       "duration_ms": 149733,
       "name": "Goin' Out Of My Head",
       "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Echoes Of A Rock Era",
-        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
-      },
-      "artists": [
-        {
-          "name": "The Crows",
-          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Gee",
-      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
     },
     {
       "added_at": "2021-02-12 10:06:47",

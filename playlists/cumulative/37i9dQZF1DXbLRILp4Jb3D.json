@@ -342,7 +342,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 162973,
       "name": "Canci\u00f3n de Cuna",
       "url": "https://open.spotify.com/track/7douQtrRKnSyVPVFqNOJJL"
@@ -418,6 +418,24 @@
       "duration_ms": 169240,
       "name": "Cinco Ranas Con Pequitas",
       "url": "https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya"
+    },
+    {
+      "album": {
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/7G58iqTIn2qInGCYAfJFoM"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/3kDeZkH9kk9VEHlEZBy49v"
     },
     {
       "album": {

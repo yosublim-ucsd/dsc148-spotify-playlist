@@ -4,7 +4,7 @@
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-1,598 songs - 3 day 16 hr 24 min
+1,599 songs - 3 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,8 @@
 | [Hitosu Hitotsu Pt.2](https://open.spotify.com/track/5MhUYkIDr6kLfERpX5IKYd) | [DJ KRUTCH](https://open.spotify.com/artist/6quCZUk219wxHsLw2yt08t), [LIBRO](https://open.spotify.com/artist/0GkJMOLrKbRiOreBfbpyER), [DAG FORCE](https://open.spotify.com/artist/2E6KQnEyl3W4tUUomqU3kr), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [COOL](https://open.spotify.com/artist/70sSngMfiQYIxWSDWSHzyh) | [SOPHIC2 \(DELUXE EDITION\)](https://open.spotify.com/album/6k9yDqhQ09xFOJVmNYYIUR) | 3:56 | 2023-05-01 | 2023-05-08 |
 | [Hoarsely Cry](https://open.spotify.com/track/4taKjUGdjOotBxLuaaCw5F) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [Hoarsely Cry](https://open.spotify.com/album/2N66e5YhtkiwenkgfuvCFd) | 3:40 | 2023-04-03 | 2023-04-10 |
 | [Hocus Pocus](https://open.spotify.com/track/6hc0ZU7JZCiDCrMzqs8nVt) | [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [Hocus Pocus](https://open.spotify.com/album/4D1u6eboY3iSNIDY4uUdpu) | 3:33 | 2023-06-18 | 2023-06-26 |
-| [Hokorobi](https://open.spotify.com/track/7LGavKdtUnLb4ecucXHQV8) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Hokorobi](https://open.spotify.com/album/3JRIKJYDCSy3NkmY9h8hYz) | 4:35 | 2023-09-04 |  |
+| [Hokorobi](https://open.spotify.com/track/0hfykuPLwt0C546ancAxBS) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [CURVE](https://open.spotify.com/album/2B1Cak3GKIk4PlMVjd9IEe) | 4:35 | 2023-09-04 |  |
+| [Hokorobi](https://open.spotify.com/track/7LGavKdtUnLb4ecucXHQV8) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Hokorobi](https://open.spotify.com/album/3JRIKJYDCSy3NkmY9h8hYz) | 4:35 | 2023-09-04 | 2023-09-09 |
 | [Hold You](https://open.spotify.com/track/2IZzpKwU7Ow0ol6zq4QcGn) | [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ) | [Hold You](https://open.spotify.com/album/5CJoCPH230bf82sK8knFwY) | 3:41 | 2023-04-23 | 2023-05-02 |
 | [Hollow](https://open.spotify.com/track/6WzP4guTS9GQkbH1K2qpMB) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Hollow](https://open.spotify.com/album/1HHsQs9j63RbS5dwPiO5Ng) | 3:45 | 2023-04-09 | 2023-04-17 |
 | [Home Is Where The Food Is](https://open.spotify.com/track/6w2Vnrk7qRul3m5XBx9pLs) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Home Is Where The Food Is](https://open.spotify.com/album/7dhC5EnQhwXKGNNMLzyuJg) | 3:04 | 2023-03-26 | 2023-04-04 |

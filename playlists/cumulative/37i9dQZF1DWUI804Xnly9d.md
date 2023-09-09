@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-166 songs - 9 hr 18 min
+167 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [DESTINY](https://open.spotify.com/track/2skHjbqgYwr83621d9phrL) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 3:02 | 2023-08-03 |  |
 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 | 2023-05-17 | 2023-07-25 |
 | [Dheemi](https://open.spotify.com/track/09yLuL7dXwPvHykgfXvBZz) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Dheemi](https://open.spotify.com/album/39Br7xTBLeUQaZ8JPg2J9S) | 3:55 | 2023-05-17 | 2023-06-01 |
-| [Dhuaan](https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Dhuaan](https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4) | 3:30 | 2023-07-28 |  |
+| [Dhuaan](https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Dhuaan](https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4) | 3:30 | 2023-07-28 | 2023-09-09 |
 | [Dil Bawra \- Acoustic](https://open.spotify.com/track/74REMfDydJQMVQvFfMzch4) | [Anirudh Deshmukh](https://open.spotify.com/artist/3HiO5a3yy7KtslxTJrBLNL) | [Dil Bawra \(Acoustic\)](https://open.spotify.com/album/22b6VAH3yYUmT9a1VMcWsu) | 4:08 | 2023-05-17 | 2023-06-03 |
 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 | 2023-05-17 |  |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-17 |  |
@@ -55,6 +55,7 @@
 | [Doobie Do](https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6) | [Divyansh Kacholia \(DVK\)](https://open.spotify.com/artist/4Q5YiZsfq10SLigxOjG5oV) | [Doobie Do](https://open.spotify.com/album/333sIAKoYJ09tNV3vcpJTz) | 2:42 | 2023-05-26 | 2023-06-15 |
 | [Duniya Meri](https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY) | [Abhinav Singh](https://open.spotify.com/artist/6SCpJdNbMI3NHc8fMAOOg8) | [Duniya Meri](https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg) | 3:57 | 2023-09-01 |  |
 | [Ek Hi Toh Dil](https://open.spotify.com/track/3R8doGdVk3wSQonbXmuKGs) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Dilwala](https://open.spotify.com/artist/0OOLsvPq7vqGvLoQQJuvjC) | [Ek Hi Toh Dil](https://open.spotify.com/album/4Ge5dVfaOy3ghqzkbgR6Vm) | 3:12 | 2023-05-25 | 2023-06-29 |
+| [Ek Sheher](https://open.spotify.com/track/4IRryIKKfcEFvKgfcCTSGc) | [Alok](https://open.spotify.com/artist/3y7LfP3vkL9HrOItlNblh9), [Zion Mathew](https://open.spotify.com/artist/5f47cgKSrce8l22c8bZQ8X) | [Ek Sheher](https://open.spotify.com/album/7aX7q7EJb4cko8NLfzhMne) | 3:52 | 2023-09-08 |  |
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |
 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 |  |
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-05-17 | 2023-07-29 |

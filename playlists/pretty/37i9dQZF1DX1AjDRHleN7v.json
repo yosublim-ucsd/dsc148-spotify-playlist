@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 278560,
+  "num_followers": 278667,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGI1MTgxMGVkZDc2NmY2MzcwZjgyYWQ2ZjM4NTA5OWUzZjExNDE0",
+  "snapshot_id": "MCxhNzcwOWYwOGVkNjEyNmY0ZmVlYWZiN2RiZDI2YTc1YTBjYmE5ZTIw",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "V\u00e1rias Ondas",
-        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 193205,
-      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
-      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Rindo \u00c0 Toa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 195118,
       "name": "Rindo \u00c0 Toa - Ao Vivo",
       "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 193205,
+      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
+      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Donavi",
-        "url": "https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD"
-      },
-      "artists": [
-        {
-          "name": "Ms\u00e1rio",
-          "url": "https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az"
-        },
-        {
-          "name": "Karina Buhr",
-          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Donavi",
-      "url": "https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Saquarema (Remix)",
         "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
       },
@@ -575,6 +555,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Donavi",
+        "url": "https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD"
+      },
+      "artists": [
+        {
+          "name": "Ms\u00e1rio",
+          "url": "https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az"
+        },
+        {
+          "name": "Karina Buhr",
+          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Donavi",
+      "url": "https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Me Beija",
         "url": "https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179816,
       "name": "Me Beija",
       "url": "https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 173269,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Por A\u00ed",
         "url": "https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 268706,
       "name": "Esot\u00e9rico - Regrava\u00e7\u00e3o Take 01",
       "url": "https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Frequ\u00eancia do Amor",
+        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 161107,
+      "name": "Frequ\u00eancia do Amor",
+      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Volta pra Casa.",
         "url": "https://open.spotify.com/album/4LhRECtSYSozf5WQTYTZ8c"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 219980,
       "name": "Volta pra Casa.",
       "url": "https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Frequ\u00eancia do Amor",
-        "url": "https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 161107,
-      "name": "Frequ\u00eancia do Amor",
-      "url": "https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
-      },
-      "artists": [
-        {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
-        }
-      ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 223157,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+      },
+      "artists": [
+        {
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "O Amor Venceu",
         "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 187884,
       "name": "O Amor Venceu",
       "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     }
   ],
   "unique_name": "Praiana",

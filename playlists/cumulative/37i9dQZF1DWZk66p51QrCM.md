@@ -4,7 +4,7 @@
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-36 songs - 2 hr 19 min
+38 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,10 @@
 | [Freefall](https://open.spotify.com/track/335TidS5KZQjXfWkOZ6W4a) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [500](https://open.spotify.com/album/0kV6vns2tdbfSXgq3woZUy) | 3:44 | 2023-06-05 |  |
 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 | 2023-06-05 |  |
 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 | 2023-06-05 |  |
-| [If You Like That](https://open.spotify.com/track/39u52p0pgk76Ukq3e0c815) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [If You Like That](https://open.spotify.com/album/7s5tZT1opeQmfuy5s9XZhm) | 4:34 | 2023-06-05 |  |
-| [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-06-05 |  |
+| [If You Like That](https://open.spotify.com/track/39u52p0pgk76Ukq3e0c815) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [If You Like That](https://open.spotify.com/album/7s5tZT1opeQmfuy5s9XZhm) | 4:34 | 2023-06-05 | 2023-09-09 |
+| [If You Like That](https://open.spotify.com/track/2KTvZCyt2EeFS6r9VPCsWi) | [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Lens](https://open.spotify.com/artist/2J9d6EeUlp1VyuJFdfAl3n), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [If You Like That](https://open.spotify.com/album/7sEpy6vfhJ0dUL28sZ31XD) | 4:34 | 2023-06-05 |  |
+| [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-06-05 | 2023-09-09 |
+| [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 | 2023-06-05 |  |
 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 | 2023-06-05 |  |
 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 | 2023-06-05 |  |
 | [Oceans](https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/5momdt5jI4owNpsBqNhfwm) | 4:53 | 2023-06-05 |  |

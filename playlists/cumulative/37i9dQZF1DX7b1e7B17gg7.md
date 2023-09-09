@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-82 songs - 5 hr 53 min
+83 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 | 2022-11-30 |  |
 | [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 | 2023-02-24 |  |
 | [Five Star Day](https://open.spotify.com/track/4aKLpPhtOiNV0mhSQmhBvr) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Tales of the Delta](https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3) | 2:57 | 2023-07-21 |  |
+| [Georgia On My Mind](https://open.spotify.com/track/4xw5x0bo3i3Ftq14LgzvP4) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Georgia On My Mind](https://open.spotify.com/album/2lWVsmy4HxIJiDgiKYj6As) | 2:19 | 2023-09-08 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/3IXfelfYGAlNhpj2PAOIb7) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:10 | 2022-11-30 |  |
 | [Gospel Groove](https://open.spotify.com/track/5QHdraJnSVp0vnXGMefg3d) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:13 | 2022-11-30 |  |
 | [How Long Blues](https://open.spotify.com/track/17DzqYtuUdSSg1HbQ9i5Wd) | [Tor Einar Bekken](https://open.spotify.com/artist/3J30JgVNLzuCA6uaRasNoq), [Richard Gjems](https://open.spotify.com/artist/3NgCfexdR7Or1rhp9GJ5XU) | [Songs from a Forest](https://open.spotify.com/album/5iQVzqrwsj45S7jf6PfqwS) | 4:36 | 2022-11-30 |  |
@@ -73,7 +74,7 @@
 | [Sittin on Top of the World](https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 | 2022-11-30 |  |
 | [Skyman](https://open.spotify.com/track/013yxuTbh3mfL0Qjtaykqj) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 8:19 | 2022-11-30 | 2023-08-24 |
 | [Slow Blues](https://open.spotify.com/track/0amfQAlygBi3JTf1qph861) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Homemade](https://open.spotify.com/album/5kdbWGmr1nzhXpzlDTf497) | 3:25 | 2022-11-30 |  |
-| [Slow Blues \- Instrumental](https://open.spotify.com/track/338gCLHS88lPUfCClKkPam) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 6:48 | 2022-11-30 |  |
+| [Slow Blues \- Instrumental](https://open.spotify.com/track/338gCLHS88lPUfCClKkPam) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 6:48 | 2022-11-30 | 2023-09-09 |
 | [Slow Down](https://open.spotify.com/track/6L6ViSIMeZUOBpnHzIXxwh) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [Slow Down](https://open.spotify.com/album/27cTrUA7BIxBDBwwaTBpLH) | 2:58 | 2023-05-26 |  |
 | [Slow Moan](https://open.spotify.com/track/6mofQlbW19indEQ5XysQOR) | [Mel Brown](https://open.spotify.com/artist/2ncZrdRpyOoLiAFzgrkXvZ) | [Love, Lost and Found](https://open.spotify.com/album/07hE2feivwgHnjpfGkdWlY) | 3:21 | 2022-11-30 |  |
 | [Small Steps](https://open.spotify.com/track/4OrusLuxg3UWIrnrNjqjEH) | [Lenny Carr](https://open.spotify.com/artist/6gD9OrQdOh7VIuURzoFadV) | [For Elli](https://open.spotify.com/album/4Q9BQAQ35HMHEFmdG4LwgW) | 3:01 | 2023-03-17 |  |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,511 likes - 64 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,563 likes - 64 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
-| 2 | [解答者 \(Live Session\)](https://open.spotify.com/track/3fFZ2JYJxvZvNLefOpy7gP) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:37 |
-| 3 | [仲間はずれ \(Live Session\)](https://open.spotify.com/track/1ntXyakVwav6cNBJRmYpH1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 1:56 |
-| 4 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:46 |
-| 5 | [しかたなく踊る \(Live Session\)](https://open.spotify.com/track/0Ajxm63ciUR7KdbbBMN86s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 2:23 |
-| 6 | [Mad Hope \- Short \(feat\. Louis Cole, Sam Gendel\)](https://open.spotify.com/track/5A91wBqBR10Zbp2BiraThi) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 0:35 |
+| 1 | [Lighthouse \(Live Session\)](https://open.spotify.com/track/2kXbQ8jhtZqwXs9rnrWrE4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:07 |
+| 2 | [Responder \(Live Session\)](https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:37 |
+| 3 | [Outcast \(Live Session\)](https://open.spotify.com/track/3iu6xaMIQHEP9mZMv7Nyew) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 1:56 |
+| 4 | [Orange \(feat\. MC\. waka\)](https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [MC\. waka](https://open.spotify.com/artist/4uvNPr3LaMg1wxztHPn4My) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 2:46 |
+| 5 | [Dancing Reluctantly \(Live Session\)](https://open.spotify.com/track/0obw6jSxnUV5zvrQDgE8or) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 2:23 |
+| 6 | [Mad Hope \- Short \(feat\. Louis Cole, Sam Gendel\)](https://open.spotify.com/track/4t7pE7Au1BciptoSBOQqLU) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 0:35 |
 | 7 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 |
 | 8 | [Idea](https://open.spotify.com/track/30QnX1bcrFYqWQNKfWclr8) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 4:40 |
 | 9 | [Pop Virus](https://open.spotify.com/track/6hDBkm6B8HF9B4oATW28YN) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [POP VIRUS](https://open.spotify.com/album/7oFLY1YL5bBI32UHsmQO6q) | 3:02 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 63 | [Moshimo](https://open.spotify.com/track/0hFTQDCIK3CVSivCzBuM8v) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Film](https://open.spotify.com/album/20B8tfOi3zX4Fi1Qm3f5CY) | 3:27 |
 | 64 | [Cube](https://open.spotify.com/track/0KS2Tet5hEKRYrsLJkVILV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Cube](https://open.spotify.com/album/5PEW5e7jELgzt5QH0dHHpx) | 3:25 |
 
-Snapshot ID: `MCw4NjEwNTA0MzZjOGQ4ZWY1MTUxNTA2NjlhZjI3MDc1ZjYxNTRmNDYx`
+Snapshot ID: `MCwwYWFhZDY4NDlhNGExNThlYTljZDQ2MTczY2ViOTEyM2ZiZTZiMzU0`

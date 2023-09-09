@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-88 songs - 5 hr 34 min
+90 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Back On The Music!](https://open.spotify.com/track/5QALJWWpHnigY6CRPdQqhu) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:27 | 2022-10-21 |  |
 | [Back On The Music!](https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:27 | 2022-10-21 | 2023-04-30 |
 | [Back To Me](https://open.spotify.com/track/3Pko6euCnCPuwGy4TVK7o3) | [Super db](https://open.spotify.com/artist/6Fsj5gGio0BcLbbgrKh5IY) | [Back To Me](https://open.spotify.com/album/0d2wOE8aJIRJp6RJO5PJGd) | 4:31 | 2023-03-17 |  |
+| [Better Than Ever](https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Better Than Ever](https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh) | 3:56 | 2023-09-08 |  |
 | [Big Brown Eyes](https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 4:11 | 2022-10-21 | 2023-01-14 |
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2022-10-21 |  |
 | [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 | 2022-10-21 | 2023-04-30 |
@@ -28,7 +29,7 @@
 | [Fool](https://open.spotify.com/track/5OKT7iKJqQAjTK2Q3BLxHY) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/37hBvmWBhITeg8dYwzBWhN) | 3:49 | 2023-05-26 | 2023-07-28 |
 | [Fool](https://open.spotify.com/track/6Jc3ep7zW6mgLKg0ZJhbnZ) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/6LNtiLvgjUpGFSHA5RZFAR) | 3:49 | 2023-05-26 | 2023-08-07 |
 | [Free](https://open.spotify.com/track/6kAOOamDflxqkrAWI6wZRR) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 5:27 | 2022-10-21 |  |
-| [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pop Therapy](https://open.spotify.com/album/4VvY6HIl5iFIAGhiFGamNR) | 3:43 | 2022-10-21 |  |
+| [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pop Therapy](https://open.spotify.com/album/4VvY6HIl5iFIAGhiFGamNR) | 3:43 | 2022-10-21 | 2023-09-09 |
 | [Hottie & the Yachty](https://open.spotify.com/track/1RXRgsZKh7arq9vB7Dt1Es) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 2](https://open.spotify.com/album/1TKNnr6wdF5OVEnVMAlDwf) | 3:18 | 2022-10-21 |  |
 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/5fGWdNGGnvKrrHL6U7c1Vp) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Humility \(feat\. George Benson\)](https://open.spotify.com/album/3S41zT1PsTvoqHHEUv7xCc) | 3:17 | 2022-10-21 |  |
 | [Hypnosis](https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 3:51 | 2022-10-21 |  |
@@ -41,6 +42,7 @@
 | [I Wonder](https://open.spotify.com/track/6QsnUuIH1eWCmZ3Du1hzFJ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [I Wonder](https://open.spotify.com/album/07vvTjXpmDxTVulZkXrK6p) | 4:11 | 2022-10-21 |  |
 | [In Love Again](https://open.spotify.com/track/19wX7jFn6EsJmvbOhQpnaj) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [In Love Again](https://open.spotify.com/album/7g0rtDedv83hrOX65g9dtX) | 4:07 | 2023-08-18 |  |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-10-21 | 2022-10-29 |
+| [Just My Type](https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7) | [Swoodeasu](https://open.spotify.com/artist/187GxxpJNas11L79Z6SAvD), [TSUYO](https://open.spotify.com/artist/5AVe36Y90V3yjqeKtBvMCW) | [Just My Type](https://open.spotify.com/album/6c6w8VVedHHCiARs8hHV3W) | 3:20 | 2023-09-08 |  |
 | [Kenny Blues](https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0) | [Rubber Band](https://open.spotify.com/artist/2XHnoChNd8VueTILbmnOlu) | [Kenny Blues](https://open.spotify.com/album/4Srn0HSrvlC9XuElk3izQT) | 3:08 | 2023-01-06 |  |
 | [Konichiwa](https://open.spotify.com/track/5qY5MMXsrlCmYj9X4qKqBX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [The Don](https://open.spotify.com/album/0drE0Xqo5yrSPirL3edUuX) | 4:37 | 2022-10-21 |  |
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2022-10-21 | 2023-05-27 |
@@ -71,7 +73,7 @@
 | [Somewhere in New York](https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Somewhere in New York](https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035) | 2:31 | 2022-11-18 |  |
 | [Step](https://open.spotify.com/track/4tSfW5rFL596C52yfvygz2) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Hot Dads in Tight Jeans](https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6) | 4:02 | 2022-10-21 |  |
 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-01-13 |  |
-| [Strawberry Soju](https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Strawberry Soju](https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9) | 2:51 | 2023-04-07 |  |
+| [Strawberry Soju](https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Strawberry Soju](https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9) | 2:51 | 2023-04-07 | 2023-09-09 |
 | [Surrender](https://open.spotify.com/track/2lbfgYWkeW7rQRYlixgkAZ) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Surrender](https://open.spotify.com/album/2RknVcT1UWgRzNEJyRpLPn) | 4:38 | 2023-05-05 |  |
 | [Sway](https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Sway](https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh) | 2:40 | 2023-09-01 |  |
 | [Takeoff](https://open.spotify.com/track/6Rg1H1aIrg99gsOKCEEDjh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 4:07 | 2022-10-21 |  |

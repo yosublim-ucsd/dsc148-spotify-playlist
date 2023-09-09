@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > Easy on the ears for when forest greens pass your eyes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,429 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,820 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 40 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
 | 41 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 42 | [Harvest Moon](https://open.spotify.com/track/2uUCCzxbK2oxUMayYqGhdd) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [From the Basement](https://open.spotify.com/album/2PSwjqY1zKkO2jdY9kwZZj) | 3:50 |
-| 43 | [Thirteen](https://open.spotify.com/track/3BQLTtpQOYGXQY2lT3ZZeU) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [\#1 Record](https://open.spotify.com/album/1BumwwIEw1EC3xAHyf1ive) | 2:34 |
+| 43 | [Since September](https://open.spotify.com/track/1bB04geBJPO5dLx51CWj5V) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Since September](https://open.spotify.com/album/6lvciV8L3fuHDz2bxPrbHg) | 3:02 |
 | 44 | [Honey](https://open.spotify.com/track/3d86YYHRKkUzc9gGbSq1MB) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Raw Honey](https://open.spotify.com/album/1hThDZlz21oHnb09tBxKp6) | 4:28 |
 | 45 | [The Gardener](https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:57 |
 | 46 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 49 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 |
 | 50 | [Jesus, Etc\. \- 2022 Remaster](https://open.spotify.com/track/5JuYLzlxsSewBjO4v9a04U) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot \(2022 Remaster\)](https://open.spotify.com/album/6PanEvuo9ZNvGT39v50xp6) | 3:51 |
 
-Snapshot ID: `MCxhY2RmMTdmYmExNDcwYmY4Yjk5MGZiYTBiY2RjMGQzZmRmYTFhODAw`
+Snapshot ID: `MCxkNmRkY2E4NzhiNTk1ZWZjODc4YzQ4MjViNzM0ZjQ2ZWVjNjg5MzFh`

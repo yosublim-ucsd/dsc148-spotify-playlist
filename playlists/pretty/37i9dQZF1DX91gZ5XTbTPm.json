@@ -1,28 +1,116 @@
 {
   "description": "The Midwest is always on time. Cover: Sexyy Red",
-  "num_followers": 112011,
+  "num_followers": 112088,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Nzg4YWM0YmRjMmMyNjI3Y2M4Zjk1MWIyZDg1YWNjZTc1MTIxNjc3",
+  "snapshot_id": "MCw2ZTY3OWMwMTc1MmU3OTk1ZDQwMjcyNmY1ZGJmY2NiNjVmY2ExZTU5",
   "tracks": [
     {
-      "added_at": "2023-09-01 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Got Me Hot",
-        "url": "https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j"
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 170748,
-      "name": "Got Me Hot",
-      "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Gorgeous Remix (feat. City Girls)",
+        "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "Gorgeous Remix (feat. City Girls)",
+      "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Ganger",
+        "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "Not a Drill",
+      "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/7FkBKLKqVCRoqJziqh7ExA"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 234047,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/4FjuYI27ToM2hATy6NsJv0"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -61,60 +149,76 @@
       "url": "https://open.spotify.com/track/79rneIpoGKwhqE1MSaw4Ls"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
       },
       "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 157125,
-      "name": "SkeeYee",
-      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Ganger",
-        "url": "https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2"
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
       "artists": [
         {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 224470,
-      "name": "Not a Drill",
-      "url": "https://open.spotify.com/track/0fjJon7hJQ6nH6Cz4w0AcT"
+      "duration_ms": 204800,
+      "name": "From The Hood",
+      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Gorgeous Remix (feat. City Girls)",
-        "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/2C3DJlTvAPNU20L0HhUug7"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
         }
       ],
-      "duration_ms": 214468,
-      "name": "Gorgeous Remix (feat. City Girls)",
-      "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
+      "duration_ms": 116755,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4xWMEQ524bQkqVcI5ZC3HS"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 179231,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -135,18 +239,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "E3",
-        "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja"
+        "name": "Got Me Hot",
+        "url": "https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j"
       },
       "artists": [
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
         }
       ],
-      "duration_ms": 226000,
-      "name": "heartache blues",
-      "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
+      "duration_ms": 170748,
+      "name": "Got Me Hot",
+      "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -233,6 +337,26 @@
       "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "All Type",
+        "url": "https://open.spotify.com/album/39isb9gdHccdoLFebx0CZW"
+      },
+      "artists": [
+        {
+          "name": "Lil 50",
+          "url": "https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "All Type",
+      "url": "https://open.spotify.com/track/7mETmdLtRz7Cgx6tnfYQe1"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "F*ck U Thought",
@@ -263,26 +387,6 @@
       "duration_ms": 146075,
       "name": "Raw ASL",
       "url": "https://open.spotify.com/track/5lCXJ1n0JQPJM4SgSp054k"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Grandson",
-        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "From The Hood",
-      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -405,6 +509,22 @@
       "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "E3",
+        "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "heartache blues",
+      "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "4 The Trenches",
@@ -423,22 +543,6 @@
       "duration_ms": 144000,
       "name": "Need Prescriptions (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 179231,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -497,26 +601,6 @@
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Owe It To Myself",
-        "url": "https://open.spotify.com/album/78IUjNkNcWvE6IdJJaAq3Q"
-      },
-      "artists": [
-        {
-          "name": "G.T.",
-          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
-        },
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "City ID (feat. LUCKI)",
-      "url": "https://open.spotify.com/track/6g5JGCl0IKGnkzehCwPnQ3"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Little Spoon",
@@ -531,22 +615,6 @@
       "duration_ms": 131424,
       "name": "Little Spoon",
       "url": "https://open.spotify.com/track/1fpP0O41Ktl5e9IUft6EBd"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/1PxIYmT2QbHzkLe9FJMo1Y"
-      },
-      "artists": [
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 175483,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/0p2GhuTjC2j75hvOvqEaai"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -567,22 +635,6 @@
       "duration_ms": 168293,
       "name": "Phil Jackson",
       "url": "https://open.spotify.com/track/5myFWvWVb4ZZW91GiMgE8B"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Rambo",
-        "url": "https://open.spotify.com/album/5f4G7z7WnhVKWhOgrHILG1"
-      },
-      "artists": [
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 157991,
-      "name": "Rambo",
-      "url": "https://open.spotify.com/track/2bdgPhHgCu5fezngPfKCnG"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -725,22 +777,6 @@
       "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Guapanese",
-        "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Point Me 2 (with Cardi B)",
@@ -759,22 +795,6 @@
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "BING BONG",
-        "url": "https://open.spotify.com/album/72oJIo7Fv9AsbB1QupYR0m"
-      },
-      "artists": [
-        {
-          "name": "BlakeIANA",
-          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
-        }
-      ],
-      "duration_ms": 107329,
-      "name": "BING BONG",
-      "url": "https://open.spotify.com/track/0tqEPec1ZeHm0R2Vvn3AXz"
     },
     {
       "added_at": "2023-05-05 04:00:00",

@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-288 songs - 13 hr 31 min
+289 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Corinne](https://open.spotify.com/track/5C7NbwyZvvGVu8wTxzgg8p) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Corinne](https://open.spotify.com/album/1rZC9cRFPOo0ouBM7fVMSR) | 2:37 | 2022-02-25 |  |
 | [Cosa Succede Se](https://open.spotify.com/track/00Z7iLsR10x9y00gAZ2Nx3) | [Lucio Francesco](https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN) | [Pensieri](https://open.spotify.com/album/12vugt6x4fyG5Uz1enF7zP) | 3:03 | 2021-12-10 |  |
 | [Counting Days](https://open.spotify.com/track/6ICbjz9nRT7tRGDrkabqc6) | [Twilight Time](https://open.spotify.com/artist/3TMpH9YDPUAnGeC5oEtq21) | [Counting Days](https://open.spotify.com/album/6XuscYT9AD9Q45AbvswZVA) | 2:37 | 2022-11-11 |  |
+| [Crystal](https://open.spotify.com/track/3C3wt6jV0gKX2k1GPYedKm) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Crystal](https://open.spotify.com/album/07LcjkBfFqAT4Pb1B2oppa) | 2:33 | 2023-09-08 |  |
 | [Crystal Clear](https://open.spotify.com/track/0e0z6ymF9TCNEJqvunBVT5) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [KEEN: Peace & Calm Vol\. 1](https://open.spotify.com/album/6Y3wbX1sgVdf2KAVJ0nPt7) | 2:07 | 2021-12-10 | 2022-07-29 |
 | [Crystal Clear](https://open.spotify.com/track/1Z5UON4QasVDZHr52LVg1B) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:07 | 2022-07-12 | 2022-10-15 |
 | [Crépuscule](https://open.spotify.com/track/4FE9jhuatcOZZYoHdBDN8T) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Crépuscule](https://open.spotify.com/album/4XWPYDTAaQvjhDSKWbsHP9) | 4:05 | 2021-12-10 | 2022-08-13 |
@@ -83,7 +84,7 @@
 | [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2022-12-20 |  |
 | [Eternal Divide](https://open.spotify.com/track/03YjqSYOKjETRbSyRuVXSn) | [Planet Pi](https://open.spotify.com/artist/6mdD8pnh12ENYpp2xIfJqg) | [Eternal Divide](https://open.spotify.com/album/6ivJ2Ybm4CuF6Ass8L0DGQ) | 3:21 | 2021-12-10 |  |
 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 | 2021-12-10 |  |
-| [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2021-12-10 |  |
+| [Evening's peace](https://open.spotify.com/track/2JvLy4Sn0HHPMDY3zAx3nE) | [Ann Windsor](https://open.spotify.com/artist/0v2xcXKJMnxbrBP3d83evx) | [Evening's peace](https://open.spotify.com/album/6ejJZyYDesDEeTmnKbwj41) | 3:25 | 2021-12-10 | 2023-09-09 |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2021-12-10 |  |
 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 | 2021-12-10 |  |
 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 | 2021-12-10 |  |

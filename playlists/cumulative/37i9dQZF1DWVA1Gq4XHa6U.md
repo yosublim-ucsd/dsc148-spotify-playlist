@@ -4,7 +4,7 @@
 
 > Taking it way back! Cover: OutKast
 
-254 songs - 18 hr 13 min
+255 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 | 2022-02-11 | 2023-04-21 |
 | [Kiss Me Thru The Phone](https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Sammie](https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg) | [iSouljaBoyTellem](https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu) | 3:13 | 2022-02-11 | 2022-03-14 |
 | [Knock Yourself Out](https://open.spotify.com/track/4jCio4LNO1eZbl09ed4ZFn) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Kiss Tha Game Goodbye](https://open.spotify.com/album/0w0pkKJYucpsDacKMKZ3SR) | 3:32 | 2021-08-12 | 2022-02-12 |
-| [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 | 2022-02-11 |  |
+| [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 | 2022-02-11 | 2023-09-09 |
 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 | 2023-02-01 | 2023-06-11 |
 | [Let's Play House](https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Dogg Food](https://open.spotify.com/album/37VmP0VgIeJWHMurcTMeJL) | 3:24 | 2022-02-11 | 2022-03-14 |
 | [Like A Pimp](https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Mississippi: The Album](https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7) | 4:14 | 2022-03-13 | 2022-05-27 |
@@ -200,6 +200,7 @@
 | [Run This Town](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:27 | 2023-02-14 | 2023-09-02 |
 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2022-08-05 | 2022-09-07 |
 | [Ryde Or Die, B\*\*\*\*](https://open.spotify.com/track/28TaYSTqNY96c2oyUyAwwg) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [We Are The Streets](https://open.spotify.com/album/6nHyCP4Vr02kFvuwmxhBHC) | 4:49 | 2022-02-11 | 2022-03-14 |
+| [Second Round K.O.](https://open.spotify.com/track/0xKmDKOEbwRSgH0BXA6IzX) | [Canibus](https://open.spotify.com/artist/2lQvoGjN6jJfsAkaywtgrB) | [Can\-i\-bus](https://open.spotify.com/album/2zpK7MRI8rVdm5qdZcOEPi) | 4:37 | 2023-09-08 |  |
 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 | 2021-03-05 | 2022-02-12 |
 | [Shorty Wanna Ride](https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT) | [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Straight Outta Cashville](https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ) | 4:21 | 2022-02-11 | 2022-03-14 |
 | [Shut Up \(feat\. Duece Poppito of 24 Karatz, Trina, & Co of Tre +\)](https://open.spotify.com/track/66MsAs4nVj68t6va1lygIm) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Duece Poppito](https://open.spotify.com/artist/76ir7a6NKz1Cx5nixMtUxB), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Co of Tre +6](https://open.spotify.com/artist/6OM5vgzcjqfl2LzRO0ECF3) | [Book of Thugs: Chapter AK Verse 47](https://open.spotify.com/album/3GOuHgx0OeU8IIaDd5s9JG) | 4:22 | 2021-03-05 | 2022-02-12 |

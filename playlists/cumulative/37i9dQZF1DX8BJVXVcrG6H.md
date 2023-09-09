@@ -4,7 +4,7 @@
 
 > Representantes de la rima Charrúa\. Foto: Los Buenos Modales.
 
-75 songs - 3 hr 55 min
+77 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Feel It](https://open.spotify.com/track/2XVVefkBPHoETC4c4OWpyO) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO) | [Feel It](https://open.spotify.com/album/75NVRDaIKp5a7Q05AUhm5H) | 3:12 | 2023-06-16 |  |
 | [Fruta Dulce](https://open.spotify.com/track/14DbTsH86wjp9AqRWzWkdp) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [Bruno Cammá](https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE), [Gabino](https://open.spotify.com/artist/0BIT9nxBlhSRe8DsreQmcN), [Chukky](https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL) | [Fruta Dulce](https://open.spotify.com/album/3OR62X9GdsUyNw9GvFBOuq) | 3:36 | 2023-06-16 |  |
 | [FUEGO EN LA DISCO](https://open.spotify.com/track/0rYaiBVTnblFpuMQ2Hp5is) | [AFC](https://open.spotify.com/artist/5EOi4iopwT7JCvwft1knJl) | [MURGANG](https://open.spotify.com/album/2JPXbVVsNb3xz6QhL9uYO7) | 3:28 | 2023-06-16 |  |
+| [Gloriax](https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [Gloriax](https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7) | 3:26 | 2023-09-08 |  |
 | [Guan Lof](https://open.spotify.com/track/1daKUvD5sEGXJEUKzfCzg4) | [Hache Souza](https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW) | [Primavera En La Antártida](https://open.spotify.com/album/5vdtmRkfN2Lfm5J44yjjKm) | 3:17 | 2023-06-16 |  |
 | [HH](https://open.spotify.com/track/3hWAIDAqz0l77XuL7Rpxf2) | [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Hh](https://open.spotify.com/album/1viYmmP8TxjIT7btfy54gi) | 2:54 | 2023-06-16 |  |
 | [Hide n Seek](https://open.spotify.com/track/2dImtUL1LreOGxrqmjZtgH) | [JT](https://open.spotify.com/artist/6W1LDJkNoToXXK1w6SB1NW), [Rxdri](https://open.spotify.com/artist/2Ih4Ih8PVFoAZmXFChOwAR) | [Hide n Seek](https://open.spotify.com/album/2olBfZgujpOZlFFmMdrigt) | 3:19 | 2023-06-16 |  |
@@ -79,6 +80,7 @@
 | [Turn Back the Clock \(Hoodíos Latinos\)](https://open.spotify.com/track/7i4F6NvyBrnvGd7ooifIWq) | [Hip Hop Hoodíos](https://open.spotify.com/artist/4XCsXbYymp4llp1QsK5aEm), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Santi Mostaffa](https://open.spotify.com/artist/3oVa1dCIWhoJ4cTFgrEgWG) | [Turn Back the Clock \(Hoodíos Latinos\)](https://open.spotify.com/album/5u95qNGZqZ11JzmIJF6C7o) | 3:33 | 2023-06-16 |  |
 | [Técnica Obscena \- En Vivo](https://open.spotify.com/track/2Lc7n3K69QSFEPlPNm1sks) | [AFC](https://open.spotify.com/artist/5EOi4iopwT7JCvwft1knJl), [Luciano Supervielle](https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC) | [Técnica Obscena \(En Vivo\)](https://open.spotify.com/album/7LCqgX5cZIkfk0yWXrO71X) | 3:27 | 2023-06-16 |  |
 | [Vengan a Salvarnos](https://open.spotify.com/track/4aKgj60NDge3F9sM22LNdV) | [Agustin Casulo](https://open.spotify.com/artist/1MIfUzoY2n15mLL9NAfcUR) | [Lázaro](https://open.spotify.com/album/7jnbMGDFvFfegFs3Z46en1) | 2:53 | 2023-06-16 |  |
+| [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 | 2023-09-08 |  |
 | [Vuela](https://open.spotify.com/track/7Mejmj7iPL8AYSLyh74T3z) | [Clipper](https://open.spotify.com/artist/4PhnJWDcUEUsW8Q2kZ8JZO) | [No Hay Nadie](https://open.spotify.com/album/6E8jcbcQtzVYbbCQlFpTOP) | 2:41 | 2023-06-16 |  |
 | [Vuela](https://open.spotify.com/track/0Aq07QYEr4iGSXM0xF2GYq) | [Gula](https://open.spotify.com/artist/0z6vMOXncHabKtz4zNC7dB) | [Vuela](https://open.spotify.com/album/2KK25VnDng1cc5gGSxwKHu) | 3:14 | 2023-06-16 |  |
 | [Zeballos](https://open.spotify.com/track/5cM1JVoxmgoKSRnyPXhS3S) | [ControlR](https://open.spotify.com/artist/2eqc0oNquGG1T92b988m5x), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Nanomc](https://open.spotify.com/artist/1bAqkZBpOpdEnjtU9ZyMAd) | [Cyphers, Vol\. 2](https://open.spotify.com/album/1X2q5A45zLYpFRRHQ1ZE7h) | 2:52 | 2023-06-16 |  |

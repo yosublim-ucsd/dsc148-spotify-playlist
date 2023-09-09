@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-812 songs - 2 day 0 hr 31 min
+815 songs - 2 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Easy Kill](https://open.spotify.com/track/2uvLSa0yqELzhyi5QpTvbJ) | [Salt Water Baby](https://open.spotify.com/artist/2MKCNIDwizYWkhSGwKotAj) | [Easy Kill](https://open.spotify.com/album/5Iw9VIeKWeUUNnnDhfL8k1) | 3:14 | 2023-01-11 | 2023-03-09 |
 | [EC](https://open.spotify.com/track/1tcHeyygqS0RkNh6hq6j9W) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 1:53 | 2023-04-12 | 2023-05-11 |
 | [EC](https://open.spotify.com/track/4ara6WrjgXw8brIIigyRNR) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [EC](https://open.spotify.com/album/58gMbwi6r3hOpkbcBsqVcO) | 1:53 | 2023-03-22 | 2023-04-30 |
+| [Eidolon](https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Act 2 \(Their God\)](https://open.spotify.com/album/20tEagJfooo80QqJND3FMR) | 3:30 | 2023-09-06 |  |
 | [Ekarma](https://open.spotify.com/track/3ceGIldgRSCz4YRNdwp2F1) | [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Ekarma](https://open.spotify.com/album/0ZWGdKVXtDzqT0ZOgXsOzL) | 4:01 | 2023-04-12 | 2023-05-24 |
 | [Elegy](https://open.spotify.com/track/4D5M3terA4yUIQ9s74wTgh) | [Theo Kandel](https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q) | [Elegy](https://open.spotify.com/album/1ZnayDv7vFbhYvPOR8Xc98) | 3:10 | 2022-07-20 | 2023-01-12 |
 | [Elephant Sky](https://open.spotify.com/track/3RgplntVOyI8ZqYF0LVlyr) | [Lo Pony](https://open.spotify.com/artist/6m3M0XbCIlNCigyvruLkC1) | [Elephant Sky](https://open.spotify.com/album/74PvSos7mNAu5Ggp9jLrpH) | 3:22 | 2023-01-18 | 2023-03-09 |
@@ -398,7 +399,8 @@
 | [If You Were a Bird](https://open.spotify.com/track/3CpKbo3f0taPTHxSaYx6iQ) | [Jenny Mitchell](https://open.spotify.com/artist/4nuqPXV9cR0OGDbYw0Zwj9) | [Tug of War](https://open.spotify.com/album/3pAtFj7qKN9EqQJPDA70VW) | 3:46 | 2022-10-26 | 2022-12-01 |
 | [Impartial](https://open.spotify.com/track/0a60kCUF4K4sLsgSsGiZQD) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Impartial](https://open.spotify.com/album/6L1NShIjujCWgvzVVZ1FO2) | 1:51 | 2023-06-21 | 2023-08-24 |
 | [in my car](https://open.spotify.com/track/5OC5iFVDl3pRfThoTbs817) | [ella ruby](https://open.spotify.com/artist/2LqBqyJQJJgt2bvjdSyY04) | [baby blue](https://open.spotify.com/album/1TeqZ0X8hqCQNELMmVivks) | 3:30 | 2022-10-19 | 2022-12-01 |
-| [In the Grip of Something](https://open.spotify.com/track/0vfSlVsLVRlOALYukTKe6S) | [Alexander Gow](https://open.spotify.com/artist/1P2aZv2Cir0xZf8x325nxT), [Oh Mercy](https://open.spotify.com/artist/6nW8EmkqenJdq09o2jER53) | [In the Grip of Something](https://open.spotify.com/album/1zlAADoZGPnwnoEcyBv91h) | 3:32 | 2023-07-26 |  |
+| [In the Grip of Something](https://open.spotify.com/track/1Nn785uOp4hu1omoRlJZdw) | [Alexander Gow](https://open.spotify.com/artist/1P2aZv2Cir0xZf8x325nxT) | [In the Grip of Something](https://open.spotify.com/album/1chA5tHZiKoQwLq6FMn2u6) | 3:32 | 2023-09-06 |  |
+| [In the Grip of Something](https://open.spotify.com/track/0vfSlVsLVRlOALYukTKe6S) | [Alexander Gow](https://open.spotify.com/artist/1P2aZv2Cir0xZf8x325nxT), [Oh Mercy](https://open.spotify.com/artist/6nW8EmkqenJdq09o2jER53) | [In the Grip of Something](https://open.spotify.com/album/1zlAADoZGPnwnoEcyBv91h) | 3:32 | 2023-07-26 | 2023-09-09 |
 | [in the rain](https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [let them eat grass](https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca) | 3:25 | 2023-08-30 |  |
 | [In The Thick Of It](https://open.spotify.com/track/3jKm53mOmCum509Z0eOKT3) | [Will Sheff](https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5) | [Nothing Special](https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM) | 6:06 | 2023-06-14 | 2023-08-17 |
 | [Indigo](https://open.spotify.com/track/0du9zbRI7wC1qLjvYDMfIE) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Indigo](https://open.spotify.com/album/370N5kvwlAJ00bFXROxi50) | 3:06 | 2023-03-22 | 2023-05-04 |
@@ -578,6 +580,7 @@
 | [Out of Body](https://open.spotify.com/track/7jMnEpPgvHmFBdLuDnQqVl) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Out of Body](https://open.spotify.com/album/777GvXKChmKi4NWTLyis2O) | 1:54 | 2023-02-01 | 2023-03-23 |
 | [Out of Phase](https://open.spotify.com/track/4GG49U8YQtn540h1s73ZGA) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Ceremony](https://open.spotify.com/album/4tBpKBm6L4eBnueME7lIaD) | 3:33 | 2023-05-03 | 2023-06-29 |
 | [Out the Sun](https://open.spotify.com/track/5IxV60b9I4WIcxHVDh02K1) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Mending](https://open.spotify.com/album/34iFpOtXBv4hhHQ275AyJi) | 2:43 | 2023-02-22 | 2023-04-06 |
+| [Outlaw For Your Love](https://open.spotify.com/track/6rxpuNReYOaTU3cQ3yf1gr) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Outlaw For Your Love](https://open.spotify.com/album/7xAoY366mPkh86kggCR2gs) | 2:37 | 2023-09-06 |  |
 | [Oven](https://open.spotify.com/track/1kB7OK4ndAtaW459dAs6ck) | [Mal](https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL) | [Oven](https://open.spotify.com/album/0h2bTf7HUQNeWyynmo2KSR) | 2:02 | 2022-08-10 | 2022-11-10 |
 | [Over My Head](https://open.spotify.com/track/09drCTMXn1mMBEemI6AJeL) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Over My Head](https://open.spotify.com/album/1xZRvm07pp4SBxFUUitaqj) | 3:32 | 2023-06-21 | 2023-08-24 |
 | [owlz](https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Diagonal](https://open.spotify.com/album/6uY20cDnA4MsRjrAFtDYfb) | 3:15 | 2023-01-11 | 2023-03-16 |

@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Dookie (30th Anniversary Outtakes)",
+        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "409 in Your Coffeemaker - Outtake",
+      "url": "https://open.spotify.com/track/06z0dseukmGwZ5OFMoYe9D"
+    },
+    {
+      "album": {
         "name": "432 Hz Lofi Guitar",
         "url": "https://open.spotify.com/album/4mdSkgakPVNFrMagalCmSi"
       },
@@ -530,7 +548,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2qWOTKZpovfDaiqfwa78G5"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 188000,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 201235,
       "name": "Burning Down the House (Metal Version)",
       "url": "https://open.spotify.com/track/6iVeRgRXppzzMlgfCZq6HR"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -1806,6 +1824,24 @@
       "duration_ms": 208694,
       "name": "Cha Cha Cha (Metal Version)",
       "url": "https://open.spotify.com/track/2hNDgPEWvIj7xC8lJDrnEU"
+    },
+    {
+      "album": {
+        "name": "Live In Tokyo",
+        "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "Chain Reaction - Live",
+      "url": "https://open.spotify.com/track/7ADzRdI3TmUwBiHViCHCG8"
     },
     {
       "album": {
@@ -2586,6 +2622,24 @@
       "duration_ms": 199008,
       "name": "Diferente ft CNCO",
       "url": "https://open.spotify.com/track/02dJRtnDdqon7U1CQD5BpH"
+    },
+    {
+      "album": {
+        "name": "Dirty Diana (Metal Version)",
+        "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260495,
+      "name": "Dirty Diana (Metal Version)",
+      "url": "https://open.spotify.com/track/5JB0Ejgsq7Unv4JAzFPyHW"
     },
     {
       "album": {
@@ -4370,7 +4424,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 329160,
       "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
       "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
@@ -4581,6 +4635,28 @@
     },
     {
       "album": {
+        "name": "Good Brother",
+        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
+      },
+      "artists": [
+        {
+          "name": "Justus West",
+          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193390,
+      "name": "Good Brother",
+      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
       },
@@ -4728,7 +4804,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 137945,
       "name": "Harlem World 97 (feat. Estelle)",
       "url": "https://open.spotify.com/track/26R9jIj6avrEzoIGrRz5ub"
@@ -5644,7 +5720,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 242573,
       "name": "In Your Love - Live From Radio City Music Hall",
       "url": "https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio"
@@ -5842,7 +5918,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 164911,
       "name": "JUMPIN - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
@@ -6076,7 +6152,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 155668,
       "name": "Koala",
       "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
@@ -6142,7 +6218,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 185412,
       "name": "Last a While",
       "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
@@ -6204,6 +6280,28 @@
       "duration_ms": 198549,
       "name": "Last Nite - Rough Trade Version - The Modern Age B-Side",
       "url": "https://open.spotify.com/track/0V40nmTfhHj1PznhO0dDho"
+    },
+    {
+      "album": {
+        "name": "Le d\u00e9part",
+        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175020,
+      "name": "Le d\u00e9part",
+      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
     },
     {
       "album": {
@@ -6326,7 +6424,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 188186,
       "name": "Like It Like That (feat. Chief Adjuah)",
       "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
@@ -6674,7 +6772,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 144056,
       "name": "MANSA MUSA",
       "url": "https://open.spotify.com/track/4WX2fdICHuZevsl6NS0tWz"
@@ -6828,7 +6926,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
@@ -7454,7 +7552,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
@@ -7871,6 +7969,28 @@
     },
     {
       "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/6I5IlEokrrRc7JE06R6R3n"
+      },
+      "artists": [
+        {
+          "name": "Gangman",
+          "url": "https://open.spotify.com/artist/5ggH1sWqm8IFkr1df1QXQB"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211894,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/2j5J8ywEvdkXIPL8bjzaOz"
+    },
+    {
+      "album": {
         "name": "Nuke's Blues",
         "url": "https://open.spotify.com/album/2OE3m8C7REzAtHKsDJk6h8"
       },
@@ -8021,6 +8141,50 @@
     },
     {
       "album": {
+        "name": "one of one (feat. PawPaw Rod)",
+        "url": "https://open.spotify.com/album/0JEX5oLdEBXZEEszBXmXdF"
+      },
+      "artists": [
+        {
+          "name": "Drewbyrd",
+          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "one of one (feat. PawPaw Rod)",
+      "url": "https://open.spotify.com/track/79jxfE4mZToAneAv2C7Dng"
+    },
+    {
+      "album": {
+        "name": "One Week",
+        "url": "https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
       },
@@ -8058,7 +8222,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 297624,
       "name": "Origin Story",
       "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
@@ -8102,7 +8266,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
@@ -8596,7 +8760,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 215717,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/3wyBkA7dOMJX0zqW3iIKu8"
@@ -9063,6 +9227,24 @@
     },
     {
       "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216226,
+      "name": "Rustin' In The Rain",
+      "url": "https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9"
+    },
+    {
+      "album": {
         "name": "Sacred The Thread",
         "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
       },
@@ -9356,6 +9538,28 @@
       "duration_ms": 125518,
       "name": "Shaolin's Revenge",
       "url": "https://open.spotify.com/track/6LN4koIhyYzlVTCYTPhK7h"
+    },
+    {
+      "album": {
+        "name": "She Listen To Trap",
+        "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
+      },
+      "artists": [
+        {
+          "name": "A.M",
+          "url": "https://open.spotify.com/artist/38thHiXEE2yx8OacMf89Sq"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143103,
+      "name": "She Listen To Trap",
+      "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
     },
     {
       "album": {
@@ -9949,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/7g09Qn1ZsVdk4V8KusjWUn"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226203,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4TpluNCju4d7QVaRQouPCg"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/4SUZUsDERmGX6pUtDSBmEK"
       },
@@ -10020,7 +10242,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 443464,
       "name": "Stella Blue (Take 5) [Not Slated] - 8/7/73",
       "url": "https://open.spotify.com/track/5N1zOclIabkCcRcRAyWaQc"
@@ -10068,7 +10290,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 172981,
       "name": "Stimulation - Audiotree Live version",
       "url": "https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ"
@@ -10785,6 +11007,24 @@
     },
     {
       "album": {
+        "name": "Rumours Live",
+        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358253,
+      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
+    },
+    {
+      "album": {
         "name": "Death Below",
         "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
       },
@@ -10814,7 +11054,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 90647,
       "name": "The Cliff Poop Song",
       "url": "https://open.spotify.com/track/0aM3j7Wb80SnNeudqQRGxq"
@@ -11150,6 +11390,24 @@
       "duration_ms": 121855,
       "name": "The Ria Poop Song",
       "url": "https://open.spotify.com/track/0jNxyGW3Lal2b3ZpFgmIJM"
+    },
+    {
+      "album": {
+        "name": "Superb Superb Name Poop Songs Songs",
+        "url": "https://open.spotify.com/album/3zcTAjURGQsqqtGx8YvdVM"
+      },
+      "artists": [
+        {
+          "name": "The Odd Man Who Sings About Poop, Puke and Pee",
+          "url": "https://open.spotify.com/artist/7zM4smYl6oC7yMLzfpK7I4"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "The Romi Poop Song",
+      "url": "https://open.spotify.com/track/03wPWydpPuUv28DrRpXV9I"
     },
     {
       "album": {
@@ -11819,6 +12077,28 @@
     },
     {
       "album": {
+        "name": "Nature at Play: J.S. Bach's Cello Suite No. 1 (Live from the Great Smoky Mountains)",
+        "url": "https://open.spotify.com/album/3NGKzPTT6anTfj7qb9QtYq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153360,
+      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/3t0yleDo23gh9vEjAfDbgX"
+    },
+    {
+      "album": {
         "name": "Workingman\u2019s Dead (2023 Mickey Hart Mix)",
         "url": "https://open.spotify.com/album/5C5SWfvEGPnbcasiePuPov"
       },
@@ -12444,7 +12724,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 796202,
       "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
       "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
@@ -12556,7 +12836,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 121441,
       "name": "When I Come Around - 4-track demo",
       "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"
@@ -12720,7 +13000,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 132858,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/3Mz00Nif49qbRP44Vexdp9"
@@ -12800,7 +13080,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 293122,
       "name": "Witchcraft (feat. Robert Glasper)",
       "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"

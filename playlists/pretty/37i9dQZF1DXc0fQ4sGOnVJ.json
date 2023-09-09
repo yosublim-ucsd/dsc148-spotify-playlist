@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150241,
+  "num_followers": 150252,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy",
+  "snapshot_id": "MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -147,22 +147,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Body Language (Deluxe)",
-        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Fire up the Night (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+      "duration_ms": 189258,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -183,18 +179,22 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
       },
       "artists": [
         {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 189258,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
     },
     {
       "added_at": "2023-08-21 15:41:01",

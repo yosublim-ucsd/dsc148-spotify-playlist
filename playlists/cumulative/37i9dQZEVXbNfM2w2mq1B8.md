@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,215 songs - 2 day 20 hr 18 min
+1,216 songs - 2 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-30 | 2022-08-02 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-01 | 2022-08-11 |
 | [Brianstorm](https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:50 | 2022-08-13 | 2022-08-15 |
-| [Broad Daylight](https://open.spotify.com/track/72MyLa7PJ2GQ99rI1AldXC) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Broad Daylight](https://open.spotify.com/album/7oFDDJ0NSZwJow9MCOsKDL) | 2:51 | 2023-09-07 |  |
+| [Broad Daylight](https://open.spotify.com/track/72MyLa7PJ2GQ99rI1AldXC) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Broad Daylight](https://open.spotify.com/album/7oFDDJ0NSZwJow9MCOsKDL) | 2:51 | 2023-09-07 | 2023-09-09 |
 | [Broke Boys](https://open.spotify.com/track/45pUWUeEWGoSdH6UF162G8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:45 | 2022-11-05 | 2022-11-14 |
 | [Brush Em \(feat\. Rah Swish\)](https://open.spotify.com/track/3MmvQKMKdN3UhVS3eGzJIW) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:30 | 2021-07-18 | 2021-07-22 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-05-23 | 2021-06-26 |
@@ -259,6 +259,7 @@
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2021-04-26 | 2021-05-03 |
 | [Donda](https://open.spotify.com/track/2TJ1FOCmCBkKm418MjVw5D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:08 | 2021-08-31 | 2021-09-02 |
 | [Donda Chant](https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 0:52 | 2021-08-31 | 2021-09-01 |
+| [Dont Trust Them](https://open.spotify.com/track/4vpGteeuaJ7aZVcquJ9AB8) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Dont Trust Them](https://open.spotify.com/album/7ryvuCI2iOAsvlgRPSD1ik) | 2:38 | 2023-09-08 |  |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-05-30 | 2022-06-24 |
 | [Don’t Break My Heart](https://open.spotify.com/track/0iZ7MgaUedNHqlqg9PMqsY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 3:25 | 2022-01-08 | 2022-01-10 |
 | [Don’t Break My Heart](https://open.spotify.com/track/6a4GH1gljLL7VvmO9u5O92) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:25 | 2022-01-09 | 2022-01-15 |
@@ -996,7 +997,7 @@
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-31 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-03-27\* | 2021-07-16 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-26 | 2023-08-28 |
-| [Ustnite ti mrasni](https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Ustnite ti mrasni](https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP) | 3:07 | 2022-10-20 | 2023-09-08 |
+| [Ustnite ti mrasni](https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Ustnite ti mrasni](https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP) | 3:07 | 2022-10-20 |  |
 | [V tvoeto leglo](https://open.spotify.com/track/2PHiwLEX0TfWfhbRgHIf3n) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [V tvoeto leglo](https://open.spotify.com/album/6Oec55eGUaHWeBuUe7VQxj) | 3:38 | 2021-05-06 | 2022-01-04 |
 | [Vaccine](https://open.spotify.com/track/5Qs6gTnyrG0KGYbuCzoK5k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:41 | 2021-06-13 | 2021-06-14 |
 | [Vamos, Vamos](https://open.spotify.com/track/42tt3VB9GQKotTy0HAjaEa) | [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1) | [Vamos, Vamos](https://open.spotify.com/album/3WAoA7EmefWlEaIBJ6LK89) | 3:52 | 2023-01-22 | 2023-01-24 |
@@ -1114,7 +1115,7 @@
 | [Единствено](https://open.spotify.com/track/1jmwXsqCLABS1RNUtcz7GC) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [DENIS TEOFIKOV](https://open.spotify.com/artist/5QO5nSTzmwGYnTFsJb8Gq6) | [Единствено](https://open.spotify.com/album/2IOxdLl1FzyGEzNIYwdAv4) | 3:47 | 2022-04-19 | 2022-08-03 |
 | [Едно си пожелавам](https://open.spotify.com/track/0unwwudnsmwECyhTncRAA8) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Едно си пожелавам](https://open.spotify.com/album/6OnkmJVLcW3pS79gtIiQHB) | 3:15 | 2022-11-13 | 2022-11-20 |
 | [Ела, Хабиби](https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Ела, Хабиби](https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD) | 2:51 | 2023-07-08 |  |
-| [Ергенът](https://open.spotify.com/track/03bI9QgaNNzCmtwSnhOKsY) | [Emrah](https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Чар](https://open.spotify.com/artist/31wm402BlJEVmT6IXtcgfJ) | [Ергенът](https://open.spotify.com/album/6B5fRlZmYySSwijGswmJ1g) | 4:32 | 2023-06-10 |  |
+| [Ергенът](https://open.spotify.com/track/03bI9QgaNNzCmtwSnhOKsY) | [Emrah](https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Чар](https://open.spotify.com/artist/31wm402BlJEVmT6IXtcgfJ) | [Ергенът](https://open.spotify.com/album/6B5fRlZmYySSwijGswmJ1g) | 4:32 | 2023-06-10 | 2023-09-09 |
 | [Женен](https://open.spotify.com/track/0yxnBa0bqbDE87o1wQswIs) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Gabriella](https://open.spotify.com/artist/5KHGNMZtf5BjebLwFGqYxT) | [Женен](https://open.spotify.com/album/4GMKfkyDYJqvL3wUo8OCzq) | 3:10 | 2022-02-10 | 2022-05-06 |
 | [Жестоко е](https://open.spotify.com/track/70PkUpUzOf1RI7pJE9roM4) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA), [Lusi](https://open.spotify.com/artist/0hJ4aIczqam9dEguU4OvXa) | [Жестоко е](https://open.spotify.com/album/4Zq6EJBFQkC2yerxYLi1Wg) | 2:40 | 2023-05-25 | 2023-07-02 |
 | [Живей, мило мое](https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Живей, мило мое](https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc) | 3:09 | 2023-04-30 |  |

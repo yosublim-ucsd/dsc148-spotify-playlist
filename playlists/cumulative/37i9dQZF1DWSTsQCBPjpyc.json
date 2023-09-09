@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Hope You Realize It (Goodbye Again)",
+        "url": "https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "Hope You Realize It (Goodbye Again)",
+      "url": "https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw"
+    },
+    {
+      "album": {
         "name": "Turn The Heat Up!",
         "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
       },

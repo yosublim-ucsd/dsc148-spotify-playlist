@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Scrapper (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2GlXSNqKRkzRS0cxIlJJFM"
+      },
+      "artists": [
+        {
+          "name": "Patrick Jonsson",
+          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Painting Clouds",
+      "url": "https://open.spotify.com/track/6bsTXhrzAq1PAqo1LQMWGJ"
+    },
+    {
+      "album": {
         "name": "Donnie Darko (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1mSv7EACPPrgNTlKDo32Kk"
       },

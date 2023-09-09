@@ -1823,6 +1823,32 @@
     },
     {
       "album": {
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
+      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
@@ -2196,6 +2222,24 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "album": {
+        "name": "Look At My Way",
+        "url": "https://open.spotify.com/album/5TXaiqWoFsx3lWNmYfPqJy"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Look At My Way",
+      "url": "https://open.spotify.com/track/2YPhR03n4I4KtttHwxVYTo"
     },
     {
       "album": {
@@ -3443,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -4198,7 +4260,7 @@
     {
       "album": {
         "name": "U&I",
-        "url": "https://open.spotify.com/album/6ujIK3SB4u66NTut9q6jjw"
+        "url": "https://open.spotify.com/album/2n1WDOBNxKAmBwY4YH3Lo8"
       },
       "artists": [
         {
@@ -4213,6 +4275,28 @@
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 175388,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/2KGEge5X5RYjOnSH5e4dMu"
+    },
+    {
+      "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/6ujIK3SB4u66NTut9q6jjw"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        },
+        {
+          "name": "Flower.far",
+          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
       "duration_ms": 175388,
       "name": "U&I",
       "url": "https://open.spotify.com/track/7KhbmlDu8zEi2RZU1hS8z5"
@@ -4650,7 +4734,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 229426,
       "name": "\u770b\u5411\u6211\u5427",
       "url": "https://open.spotify.com/track/1pYY763SGLQGqslKOXbtzn"

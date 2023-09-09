@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Ashley Kutcher
 
-205 songs - 11 hr 19 min
+207 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [everything i wanted](https://open.spotify.com/track/7dj0cmssIZuJVj5BoGldRO) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [ACOUSTIC](https://open.spotify.com/album/3QOQBzwIpD6Xpg8RXxBc1R) | 4:34 | 2022-10-14 | 2022-11-13 |
 | [Everytime \(Cover\)](https://open.spotify.com/track/0LbOiJLqqVStCVdO8lX1IR) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Everytime \(Cover\)](https://open.spotify.com/album/6BUQxlgMnt6sDXkfcm7Clm) | 2:28 | 2022-01-28 | 2022-07-02 |
 | [Fall Into Me \- Acoustic](https://open.spotify.com/track/3tb8o3JQwicRSkbaB2uUcG) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me \(Acoustic\)](https://open.spotify.com/album/72yeKeLsex6CggzAfQ2mKz) | 3:55 | 2022-01-28 |  |
-| [Fear Of Being Alone \- Acoustic](https://open.spotify.com/track/2yT9NODpTJU5baYzEUTW38) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One\. \(Alternate Versions\)](https://open.spotify.com/album/7ANFds5bgqG6WycfbGlFfD) | 2:43 | 2022-01-28 |  |
+| [Fear Of Being Alone \- Acoustic](https://open.spotify.com/track/2yT9NODpTJU5baYzEUTW38) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One\. \(Alternate Versions\)](https://open.spotify.com/album/7ANFds5bgqG6WycfbGlFfD) | 2:43 | 2022-01-28 | 2023-09-09 |
 | [Feels This Good \(feat\. Stefflon Don\) \- Acoustic](https://open.spotify.com/track/2mzEYOnypTxiC5WVDZR6ZE) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Feels This Good \(feat\. Stefflon Don\) \[Acoustic\]](https://open.spotify.com/album/7GnaLWzyYTxpcRRnEQhrJd) | 3:27 | 2023-04-14 | 2023-08-19 |
 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 | 2023-04-14 | 2023-06-10 |
 | [Fly Away \- RIP King T](https://open.spotify.com/track/5l4rlMRDBwWBchh6phCXte) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(RIP King T\)](https://open.spotify.com/album/5L0hCFPh4J7M77QYu2OltJ) | 2:53 | 2022-01-28 | 2022-07-16 |
@@ -109,6 +109,7 @@
 | [Intentions \- Acoustic](https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Intentions \(Acoustic\)](https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc) | 2:40 | 2022-01-28 |  |
 | [Is It Just Me? \(feat\. JP Cooper\) \(Acoustic\)](https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz) | 3:33 | 2022-01-28 | 2023-05-10 |
 | [IT'S YOU \(feat\. keshi\) \- Stripped Version](https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\) \[Stripped Version\]](https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP) | 2:38 | 2022-10-08 |  |
+| [It’s My Birthday](https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [It’s My Birthday](https://open.spotify.com/album/1glQYqG0CJxmYONoz04LVU) | 2:38 | 2023-09-08 |  |
 | [Joke's On You \- Acoustic](https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Joke's On You \(Acoustic\)](https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ) | 3:09 | 2022-01-28 | 2023-04-15 |
 | [July \- Spotify Singles](https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 2:37 | 2022-01-28 |  |
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2022-01-28 |  |
@@ -205,7 +206,7 @@
 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/65qUxWlmERiGKra1tteQyB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1wJymTwoSi9WFWkLwlc0P6) | 3:36 | 2022-10-08 | 2023-04-29 |
 | [When You're Gone \- Acoustic](https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone \(Acoustic\)](https://open.spotify.com/album/3xlMYD2dXpt1EF0xQIA2lj) | 3:08 | 2022-05-13 |  |
 | [willow \- lonely witch version](https://open.spotify.com/track/0U0etHtpARihOUUY8Akc7y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(lonely witch version\)](https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc) | 3:34 | 2022-01-28 |  |
-| [Wish It Would Rain \- Piano Version](https://open.spotify.com/track/1N0VH1ox2VN1u19j0HkIVP) | [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [Wish It Would Rain \(Piano Version\)](https://open.spotify.com/album/34bQ1ACZOV5ynaJuePpqVr) | 3:46 | 2022-01-28 |  |
+| [Wish It Would Rain \- Piano Version](https://open.spotify.com/track/1N0VH1ox2VN1u19j0HkIVP) | [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [Wish It Would Rain \(Piano Version\)](https://open.spotify.com/album/34bQ1ACZOV5ynaJuePpqVr) | 3:46 | 2022-01-28 | 2023-09-09 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-06-09 |  |
 | [Without Me \- Stripped](https://open.spotify.com/track/7EwVFWY45ClBKUV93a76db) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:02 | 2022-01-28 |  |
 | [Wonder \- Acoustic](https://open.spotify.com/track/3Plgpbvrf4pS7dVeUmzyK9) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/1xKftSvUbbwou80OuiQZFt) | 2:53 | 2022-01-28 | 2022-05-14 |
@@ -213,5 +214,6 @@
 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 | 2022-01-28 |  |
 | [You Could Start A Cult](https://open.spotify.com/track/3iVmzeoFR0AZrn8EYFnEsB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:20 | 2023-06-09 |  |
 | [You should be sad \- Acoustic](https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:18 | 2022-01-28 |  |
+| [Zuma Beach](https://open.spotify.com/track/5APKmJ6uRNPyq8CvclpgDP) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Zuma Beach](https://open.spotify.com/album/712mCVzBMjXOoIl45cmj1N) | 3:54 | 2023-09-08 |  |
 
 \*This playlist was first scraped on 2022-02-05. Prior content cannot be recovered.

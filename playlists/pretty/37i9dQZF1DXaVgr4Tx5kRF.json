@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 628627,
+  "num_followers": 628889,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdiYWUwOGExMjU5MjY2ZWYzODY5NjBjYTUxOWZjY2I4YjIxYmNk",
+  "snapshot_id": "MCxlOTRiNjgyMzdiZTBmOTYzNWMwNjE0NzUwNjFlMmFkNThjNDgyZjMz",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Parklife (Special Edition)",
-        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Parklife - 2012 Remaster",
-      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Different Class",
         "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 273573,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Parklife (Special Edition)",
+        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Parklife - 2012 Remaster",
+      "url": "https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Walkaway",
-      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "Sense",
         "url": "https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 245000,
       "name": "The Life of Riley",
       "url": "https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+      },
+      "artists": [
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Walkaway",
+      "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Jollification",
-        "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
-      },
-      "artists": [
-        {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Lucky You",
-      "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "All Change",
         "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 217293,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Jollification",
+        "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Lucky You",
+      "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "House Of Love",
         "url": "https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 240066,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2022-05-04 17:11:49",

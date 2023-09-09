@@ -4,7 +4,7 @@
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-121 songs - 5 hr 58 min
+122 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,12 @@
 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 | 2020-07-16 |  |
 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 | 2023-04-27 |  |
 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 | 2023-04-27 |  |
-| [Canción de Cuna](https://open.spotify.com/track/7douQtrRKnSyVPVFqNOJJL) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 2:42 | 2020-07-16 |  |
+| [Canción de Cuna](https://open.spotify.com/track/7douQtrRKnSyVPVFqNOJJL) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 2:42 | 2020-07-16 | 2023-09-09 |
 | [Carita de Luna](https://open.spotify.com/track/0zAI2qtXyhwuTDClivPG7a) | [Claudia Acuna](https://open.spotify.com/artist/48gcFrdOekqkGyMxJTWWJ9) | [Luna](https://open.spotify.com/album/6fDZnoNPdfQbjylzcxe4fy) | 3:35 | 2020-07-16 | 2022-07-24 |
 | [Cheap Thrills](https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:31 | 2023-04-27 |  |
 | [Chuchuwá \- Remasterizado 2016](https://open.spotify.com/track/2IpvzISpbaoqTErnNGS4ec) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 2:58 | 2020-07-16 |  |
 | [Cinco Ranas Con Pequitas](https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya) | [Luis Pescetti](https://open.spotify.com/artist/1G1eDCwDbEX8SQwhq7fPmJ) | [Él Empezó Primero \(Show En Vivo\)](https://open.spotify.com/album/2zbm5CRq6JE8AU1OOMYSzQ) | 2:49 | 2020-07-16 | 2023-04-28 |
+| [Contenta](https://open.spotify.com/track/3kDeZkH9kk9VEHlEZBy49v) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Contenta](https://open.spotify.com/album/7G58iqTIn2qInGCYAfJFoM) | 2:30 | 2023-09-08 |  |
 | [Cumbia del Monstruo](https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Nada en Su Lugar](https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ) | 3:27 | 2020-07-16 |  |
 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 | 2023-04-27 |  |
 | [Daydream by Design](https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:40 | 2020-07-16 | 2023-04-28 |

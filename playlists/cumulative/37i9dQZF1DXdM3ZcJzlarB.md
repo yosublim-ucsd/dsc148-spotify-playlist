@@ -4,13 +4,14 @@
 
 > Progressive & Melodic House desde Argentina, by Surface.
 
-59 songs - 7 hr 49 min
+60 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [38 & 46](https://open.spotify.com/track/58q8fCZzu1d7hkfeEazOSI) | [Baunder](https://open.spotify.com/artist/744syf9NAt7tUG1cXCiKog) | [Balance presents The Soundgarden \(Unmixed Version\)](https://open.spotify.com/album/6EbpbxMyd4PGHyn908dpYm) | 7:52 | 2020-09-04 |  |
 | [Analog Ghosts \- Original Mix](https://open.spotify.com/track/2mKzqGh8lGQPfFv10eL3jS) | [Matias Chilano](https://open.spotify.com/artist/2LpqyWMwfJfzA0MWYONoLw) | [Red Line](https://open.spotify.com/album/4Fnum52nd6UfjW6fhz8EVr) | 7:30 | 2020-09-04 |  |
-| [Apocalyptic Love](https://open.spotify.com/track/3hThqI5UeSRg5xiLkRn6H6) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/0cY0qRmL8wmJZ4xWpjF4yP) | 7:32 | 2020-09-04 |  |
+| [Apocalyptic Love](https://open.spotify.com/track/3hThqI5UeSRg5xiLkRn6H6) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/0cY0qRmL8wmJZ4xWpjF4yP) | 7:32 | 2020-09-04 | 2023-09-09 |
+| [Apocalyptic Love](https://open.spotify.com/track/6hiLV1fEZaUw6x9XGmrKM0) | [After Burn](https://open.spotify.com/artist/4qxOWkTfAz2n6UHllPAIKX) | [Apocalyptic Love](https://open.spotify.com/album/2fIF7zGwcpAJeAbEMnxDUH) | 7:32 | 2020-09-04 |  |
 | [Assemble](https://open.spotify.com/track/6eK1oTcuQ8WcFOlHFZGKWG) | [Zagitar](https://open.spotify.com/artist/1sLDL9ECqXb7hLQVsykf8d) | [Assemble EP](https://open.spotify.com/album/73okAAeBYmmguLGfgl8GHb) | 7:10 | 2020-09-04 |  |
 | [Astroboy](https://open.spotify.com/track/7fGA2ygZsqYqXpBoW3TKha) | [Ivan Aliaga](https://open.spotify.com/artist/67UXfHRkdnXZ5rh1Ick7Ay) | [FGIX](https://open.spotify.com/album/5NIWox3JztNgZDNsyu5wZl) | 7:40 | 2020-09-04 |  |
 | [Bane \- Original Mix](https://open.spotify.com/track/3nBiBY8DNnJNbquQVoL7Q1) | [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Todo Pasa](https://open.spotify.com/album/6CXmtcXDhZ2LJlQFwhD3m3) | 7:23 | 2020-09-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,673 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,898 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Helen Sancho](https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa) | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D) | 3:11 |
 | 70 | [O Amor é o Segredo \- Dre Guazelli Remix Radio Edit](https://open.spotify.com/track/3AUwUpkVKa1gQ74gxxV49z) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Dre Guazzelli](https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl) | [O Amor é o Segredo \(Dre Guazelli Remix Radio Edit\)](https://open.spotify.com/album/4Ed15mSBTFC3isoPAijpcR) | 2:48 |
 
-Snapshot ID: `MCxhZmEyNjg4NDQwODZlZjAxNzU4ODkzMzhiMjY4NzdmODAxMzYyMWM5`
+Snapshot ID: `MCwyOWI3YTMzNDUxOTBhNzEyMWNkZjBlNWRkNmZhOTdkMjdhZjE4YzI1`

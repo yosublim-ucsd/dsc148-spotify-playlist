@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-526 songs - 1 day 6 hr 4 min
+527 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 | 2022-10-13 |  |
 | [Wonder of Wonder](https://open.spotify.com/track/3Mx9BRnML0cHrdfulaKFfu) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Wonder of Wonder](https://open.spotify.com/album/38tj7VvLfkBEJksWb8DHNP) | 3:45 | 2022-07-14 | 2022-07-20 |
 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 | 2022-06-14 | 2022-06-22 |
+| [yattyattawane](https://open.spotify.com/track/4TUDZrFx0JeSgWRm6Dpr0A) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [yattyattawane](https://open.spotify.com/album/6dBjMTrStkpRgcp7PNByft) | 3:09 | 2023-09-07 |  |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2022-07-26 |  |
 | [YOMI](https://open.spotify.com/track/3Mm9Cx5gCig9qeMm4eaUoI) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [YOMI](https://open.spotify.com/album/4IWge9TEfl1Kdc8P3FWJi2) | 3:37 | 2022-11-24 | 2022-12-14 |
 | [Yorutumugi](https://open.spotify.com/track/2k8j9gut9Sq6WCQNbjzY1U) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Yorutumugi](https://open.spotify.com/album/1LXzmPBHWjcGUlS0Yhm7Ar) | 3:12 | 2022-06-21 | 2022-07-26 |
@@ -201,7 +202,7 @@
 | [ぼくらのレットイットビー](https://open.spotify.com/track/4dlz1drsN4oIhY4Qrr5Jbu) | [HarryP](https://open.spotify.com/artist/4dXpZ1dOV2dyad3ev3Cnm5) | [RESCUE OF RAINBOWS](https://open.spotify.com/album/2Jfj6GczogS1xMDfNn7qVk) | 4:34 | 2022-06-14 | 2022-07-15 |
 | [むかしむかしのきょうのぼく](https://open.spotify.com/track/7rxE7Mgc7HaExs47GpC72B) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [DECO\*27 VOCALOID COLLECTION 2008\~2012](https://open.spotify.com/album/4F8Fq5f3JSTsG5GnJ37Ctc) | 4:48 | 2022-06-09 | 2022-07-20 |
 | [もう生きてるだけで褒めて頂戴](https://open.spotify.com/track/7HvUUwTk8cy8tfdvpiuTTM) | [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [100回吐いたよ!!](https://open.spotify.com/album/3fAXtiIETYk6gGQx5xVJpg) | 4:10 | 2022-06-30 | 2022-07-25 |
-| [やっちゃったわね](https://open.spotify.com/track/7qUfyNwU250GflMZ5M633i) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [やっちゃったわね](https://open.spotify.com/album/0YI6zJDroDT2dNzG0HwW1M) | 3:09 | 2023-09-07 |  |
+| [やっちゃったわね](https://open.spotify.com/track/7qUfyNwU250GflMZ5M633i) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [DREAMERS](https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi) | [やっちゃったわね](https://open.spotify.com/album/0YI6zJDroDT2dNzG0HwW1M) | 3:09 | 2023-09-07 | 2023-09-09 |
 | [ゆらり](https://open.spotify.com/track/6DuGwglxelg3SaMryZupOd) | [マドロミ](https://open.spotify.com/artist/2hr7V7WJnCK6qtL4uGlU1q) | [ゆらり](https://open.spotify.com/album/2NHJXvP2SpJaHoHxHvCrSk) | 0:43 | 2022-06-23 | 2022-06-26 |
 | [よるのまち](https://open.spotify.com/track/6qRwekcRi63FvffBSkg2AH) | [カラムP](https://open.spotify.com/artist/6spDDJv0IYP85Y9EGCO7KE) | [Salad](https://open.spotify.com/album/6P9JnFF4uNFvOjHprhDCQT) | 4:14 | 2022-07-12 | 2022-07-23 |
 | [わたしのアール](https://open.spotify.com/track/6FcvYpbnbVqXKRd3Kl9AvC) | [WADATAKEAKI KurageP](https://open.spotify.com/artist/3N1Bm1zHjxERruWhTsoQXO) | [わたしの未成年観測](https://open.spotify.com/album/49gFmYr9KCdaxCXr2d8HxF) | 3:35 | 2022-07-19 | 2022-07-22 |

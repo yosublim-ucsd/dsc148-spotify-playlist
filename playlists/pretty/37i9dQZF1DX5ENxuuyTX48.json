@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW!  BERCHANDYA! Cover: Sezairi, GANGGA",
-  "num_followers": 15431,
+  "num_followers": 15460,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjM1NjU3YTk3YTc3Yzk2MjAxOWJhMjYwNzljYzZjNDg5MTE5NTYy",
+  "snapshot_id": "MCxkNTIxMDE0Njk5ZTllYWM4MGU1MjNlZjllYTMxNmU5ODhlZmE3M2Ey",
   "tracks": [
     {
       "added_at": "2023-09-07 16:00:00",
@@ -63,6 +63,26 @@
       "duration_ms": 224176,
       "name": "SAYAP-SAYAP CINTA",
       "url": "https://open.spotify.com/track/1WJzQZpQAan2Nwuq28hsF8"
+    },
+    {
+      "added_at": "2023-09-07 16:00:00",
+      "album": {
+        "name": "SEEING PINK",
+        "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "SEEING PINK",
+      "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
     },
     {
       "added_at": "2023-09-07 16:00:00",
@@ -695,22 +715,18 @@
     {
       "added_at": "2023-09-07 16:00:00",
       "album": {
-        "name": "Mengejar Matahari",
-        "url": "https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U"
+        "name": "Flip It Up",
+        "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
       },
       "artists": [
         {
-          "name": "Keisya Levronka",
-          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 247721,
-      "name": "Mengejar Matahari",
-      "url": "https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v"
+      "duration_ms": 186894,
+      "name": "Flip It Up",
+      "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
     },
     {
       "added_at": "2023-09-07 16:00:00",
@@ -731,18 +747,22 @@
     {
       "added_at": "2023-09-07 16:00:00",
       "album": {
-        "name": "Flip It Up",
-        "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
+        "name": "Mengejar Matahari",
+        "url": "https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
         }
       ],
-      "duration_ms": 186894,
-      "name": "Flip It Up",
-      "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
+      "duration_ms": 247721,
+      "name": "Mengejar Matahari",
+      "url": "https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v"
     },
     {
       "added_at": "2023-09-07 16:00:00",
@@ -827,18 +847,18 @@
     {
       "added_at": "2023-09-07 16:00:00",
       "album": {
-        "name": "Mengudara",
-        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
+        "name": "life with u",
+        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
       },
       "artists": [
         {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 187443,
-      "name": "Mengudara",
-      "url": "https://open.spotify.com/track/43bIT4qDSCB6K1PJ314Azp"
+      "duration_ms": 205275,
+      "name": "life with u",
+      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
     }
   ],
   "unique_name": "OTW ",

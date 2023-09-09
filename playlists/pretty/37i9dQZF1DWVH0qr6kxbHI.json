@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 63950,
+  "num_followers": 64087,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGFmNTk5MzFmYzRlNjNlOTM5ZGI4YmQzOWEwMjUwNDY0M2E3Yjc5",
+  "snapshot_id": "MCwzMjAyNTQxMzBiMmQ3YmEyNzI3NjBhN2UyNGZjNDEyYjcyNmU0ZWFi",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Se acabo",
+        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Se acab\u00f3",
+      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 246840,
       "name": "Devuelveme la Vida (with Antonio Orozco)",
       "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Se acabo",
-        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Se acab\u00f3",
-      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "La Inimitable",
-        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
+        "name": "Seguir viviendo",
+        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
       },
       "artists": [
         {
-          "name": "Lola Flores",
-          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
         }
       ],
-      "duration_ms": 208666,
-      "name": "A Tu Vera",
-      "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
+      "duration_ms": 186040,
+      "name": "Se me olvid\u00f3 otra vez",
+      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "20 A\u00f1os De Amor",
-        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
+        "name": "La Inimitable",
+        "url": "https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ"
       },
       "artists": [
         {
-          "name": "Tamara",
-          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
+          "name": "Lola Flores",
+          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
         }
       ],
-      "duration_ms": 266986,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
+      "duration_ms": 208666,
+      "name": "A Tu Vera",
+      "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Gracias A Vosotros",
-        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
+        "name": "20 A\u00f1os De Amor",
+        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
       },
       "artists": [
         {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Miguel Poveda",
-          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
+          "name": "Tamara",
+          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
-      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
+      "duration_ms": 266986,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -667,6 +663,26 @@
       "duration_ms": 198106,
       "name": "Dama Dama (Album Version)",
       "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Gracias A Vosotros",
+        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
+      },
+      "artists": [
+        {
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Miguel Poveda",
+          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
+      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -715,22 +731,6 @@
       "duration_ms": 230186,
       "name": "Amor, Amor",
       "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Seguir viviendo",
-        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Se me olvid\u00f3 otra vez",
-      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
+        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
+        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Ponte la Mano en el Pecho",
+      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
         "name": "Mujeres de M\u00fasica",
         "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Antologia, Vol. 5",
-        "url": "https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14"
-      },
-      "artists": [
-        {
-          "name": "Concha Piquer",
-          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "En tierra extra\u00f1a",
-      "url": "https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 232000,
       "name": "Que seas feliz",
       "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Antologia, Vol. 5",
+        "url": "https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14"
+      },
+      "artists": [
+        {
+          "name": "Concha Piquer",
+          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "En tierra extra\u00f1a",
+      "url": "https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1007,24 +1023,8 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Dec\u00e1logo (Sus 10 Mayores \u00c9xitos)",
-        "url": "https://open.spotify.com/album/1hCgERvuup6uAg45GpwrL7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Ponte la Mano en el Pecho",
-      "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "Carmen Sevilla : Sus Grandes Exitos",
-        "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
+        "name": "Carmen de Espa\u00f1a",
+        "url": "https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn"
       },
       "artists": [
         {
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
         }
       ],
-      "duration_ms": 184693,
+      "duration_ms": 184573,
       "name": "Te Quiero Te Quiero",
-      "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
+      "url": "https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1067,6 +1067,22 @@
       "duration_ms": 192627,
       "name": "Baladilla De Los Tres R\u00edos",
       "url": "https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1107,38 +1123,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Mis Mejores Canciones, Vol. I",
-        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "C\u00e1ntame",
-      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
-        "name": "La Violetera (Remastered)",
-        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 222125,
-      "name": "La Violetera - Remastered",
-      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Carmen Sevilla : Sus Grandes Exitos",
         "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 124466,
       "name": "Cari\u00f1o Trianero",
       "url": "https://open.spotify.com/track/2N5EguFWYgUCc5uiazKLAE"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Mis Mejores Canciones, Vol. I",
+        "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "C\u00e1ntame",
+      "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
     },
     {
       "added_at": "2023-08-28 17:02:49",

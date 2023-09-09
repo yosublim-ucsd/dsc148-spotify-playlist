@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-23",
-  "description": "Estas son las grandes voces del Hip Hop. Foto: Luis7Lunes",
+  "description": "Estas son las grandes voces del Hip Hop. Foto: Tayko",
   "name": "Los Gallos",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 132000,
       "name": "Asi Es la Vida",
       "url": "https://open.spotify.com/track/5BA4WEqUAPHBqx4bxO7Ld5"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 247640,
       "name": "Estrapgos",
       "url": "https://open.spotify.com/track/0NayxfCD9umqeRlllJHO2y"
@@ -692,6 +692,24 @@
       "duration_ms": 186106,
       "name": "For\u00e1neos",
       "url": "https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke"
+    },
+    {
+      "album": {
+        "name": "Ecolocalizaci\u00f3n",
+        "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
+      },
+      "artists": [
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116102,
+      "name": "Freud",
+      "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
     },
     {
       "album": {
@@ -776,6 +794,24 @@
       "duration_ms": 234751,
       "name": "Hierba Mala",
       "url": "https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ"
+    },
+    {
+      "album": {
+        "name": "Home Run",
+        "url": "https://open.spotify.com/album/4gn05yaiJbKqPVtkInIDqi"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156136,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/2G6mHbDVHHYYoPfnvTux8u"
     },
     {
       "album": {
@@ -1050,7 +1086,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182168,
       "name": "LUCHA",
       "url": "https://open.spotify.com/track/6fcOmo8XaZnmkFDyytAQ7u"
@@ -1321,6 +1357,32 @@
     },
     {
       "album": {
+        "name": "Palmar",
+        "url": "https://open.spotify.com/album/15c4KC9VuWmPxjokIDPHYY"
+      },
+      "artists": [
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        },
+        {
+          "name": "Teddy Coldcuts",
+          "url": "https://open.spotify.com/artist/7ojh0jV8kpQ9aGNSVElv1e"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/6kHFzH442PWTxiQWjSag8J"
+    },
+    {
+      "album": {
         "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
         "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
       },
@@ -1530,7 +1592,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 143076,
       "name": "Sancochito",
       "url": "https://open.spotify.com/track/3pbkD8odeOPNdMJj2tkyWE"
@@ -1818,6 +1880,28 @@
       "duration_ms": 180515,
       "name": "Vibrando en Alto",
       "url": "https://open.spotify.com/track/0HoLCZ3G0dbGqtmlmnIMhw"
+    },
+    {
+      "album": {
+        "name": "Vida Buena",
+        "url": "https://open.spotify.com/album/4scpWAsBHsDM0Zual9MUKN"
+      },
+      "artists": [
+        {
+          "name": "VHESE",
+          "url": "https://open.spotify.com/artist/3v9la1GviN9d3oZqdFu4Gz"
+        },
+        {
+          "name": "Komba",
+          "url": "https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213620,
+      "name": "Vida Buena",
+      "url": "https://open.spotify.com/track/2MMlie9z2Huecoyf7pcOYa"
     },
     {
       "album": {

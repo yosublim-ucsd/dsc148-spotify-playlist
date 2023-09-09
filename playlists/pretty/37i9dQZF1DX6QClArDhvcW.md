@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,273 likes - 256 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,442 likes - 256 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 255 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 |
 | 256 | [Misty](https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Misty](https://open.spotify.com/album/28l4AuuySCumrAxCvlic76) | 1:57 |
 
-Snapshot ID: `MCxjMzYwN2MxZTdlMGVhY2NhZmE3ZDc0NzdjOWJjMDY1NTE0OTAzM2Fl`
+Snapshot ID: `MCxjOWUwMzNmY2Y3NjQwMTUxMGExOTA0NjY5MWRhMmM5NmQyYzYzYTY1`

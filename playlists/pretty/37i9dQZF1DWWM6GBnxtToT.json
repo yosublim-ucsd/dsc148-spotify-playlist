@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 572840,
+  "num_followers": 573027,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUyODhiZTFkNGJhZDYxYmVkOTk3NDc1ZDRjNTE1YzFlZTAyM2U5",
+  "snapshot_id": "MCw0NmQzNzA1ZDllODVjMGQ1NGNkNTZiOWE0ZTVlYzI2YTQyZmJmMzA1",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Around The Sun",
-        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Around The Sun",
-      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "minuit",
         "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 225013,
       "name": "minuit",
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Around The Sun",
+        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Around The Sun",
+      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Good Mmornin",
-        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 336506,
-      "name": "Small Worlds",
-      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Right There",
         "url": "https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+        "name": "Good Mmornin",
+        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
+      "duration_ms": 336506,
+      "name": "Small Worlds",
+      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
         }
       ],
-      "duration_ms": 266614,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX"
       },
       "artists": [
         {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
+      "duration_ms": 266614,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1267,6 +1251,22 @@
       "duration_ms": 195982,
       "name": "Adult Movies",
       "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Little Lucille",
+        "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
+      },
+      "artists": [
+        {
+          "name": "Karmic",
+          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
+        }
+      ],
+      "duration_ms": 198510,
+      "name": "Little Lucille",
+      "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Kalif Onya",
         "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Little Lucille",
-        "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
-      },
-      "artists": [
-        {
-          "name": "Karmic",
-          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
-        }
-      ],
-      "duration_ms": 198510,
-      "name": "Little Lucille",
-      "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Red & Blue",
         "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "beautiful day",
         "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 183836,
       "name": "beautiful day",
       "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Aloe Vera (Clear My Mind)",
         "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 206290,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Saltburn",
-        "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
-      },
-      "artists": [
-        {
-          "name": "Future Humans",
-          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
-        }
-      ],
-      "duration_ms": 186704,
-      "name": "Saltburn",
-      "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1679,8 +1663,24 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Get Up!",
-        "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
+        "name": "Saltburn",
+        "url": "https://open.spotify.com/album/5siL9F6fBRgdI2UhHfr2aj"
+      },
+      "artists": [
+        {
+          "name": "Future Humans",
+          "url": "https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl"
+        }
+      ],
+      "duration_ms": 186704,
+      "name": "Saltburn",
+      "url": "https://open.spotify.com/track/1YlvVgYcPQWNYMt23udKuf"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
       },
       "artists": [
         {
@@ -1688,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
         }
       ],
-      "duration_ms": 195653,
-      "name": "Get Up!",
-      "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
+      "duration_ms": 184706,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
     }
   ],
   "unique_name": "Feelgood Indie",

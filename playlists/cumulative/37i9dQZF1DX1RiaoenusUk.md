@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-96 songs - 6 hr 29 min
+97 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Eco en el Silencio](https://open.spotify.com/track/0Uxk4YeBgyqwWSQag0g8LS) | [Orion XL](https://open.spotify.com/artist/5M9UirTedNlelMd00Rv1PP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Kaos & Armonía](https://open.spotify.com/album/7sqQCuwceUleWHIo5BXPKb) | 3:41 | 2023-02-17 |  |
 | [El Cocinero](https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH) | [Metamorfosis](https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC) | 4:56 | 2023-02-17 |  |
 | [El despertar de Kumbhakarna](https://open.spotify.com/track/3BEietAwUm9LOF0xmG57JC) | [Simbio](https://open.spotify.com/artist/0614awxhkDp9HWbseNlNOy) | [Wu Wei](https://open.spotify.com/album/6AnYc5mP9BqEpM7OQEHhF8) | 2:09 | 2023-02-17 |  |
+| [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 | 2023-09-07 |  |
 | [Estoy Contento, Nena](https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt) | [Claudio Taddei](https://open.spotify.com/artist/7nn8SAjbKT0CMqRyRhMpAh), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [La Iguana en el Jardín](https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH) | 3:04 | 2023-02-17 |  |
 | [Eternamente](https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup) | [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Fe](https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym) | 3:14 | 2023-02-17 |  |
 | [Flecha Verde](https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Flecha Verde](https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2) | 3:03 | 2023-02-17 |  |

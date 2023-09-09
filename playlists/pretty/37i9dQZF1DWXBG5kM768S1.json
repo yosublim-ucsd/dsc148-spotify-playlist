@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 70443,
+  "num_followers": 70464,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTIzMjc3MDc1MjY5ZjYwMjI2ZjZkMjgwZmM1YWYyOTFhNGYwODVk",
+  "snapshot_id": "MCw5ZjJhYmY5OGY3ODE4MTNlY2I4MjJlYjk3OGY1N2U5YTRjMTg4OTRk",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Sangen om Gleden",
+        "url": "https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C"
+      },
+      "artists": [
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+        }
+      ],
+      "duration_ms": 323880,
+      "name": "Sangen om Gleden",
+      "url": "https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Imellom to Evigheter",
-        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
-      },
-      "artists": [
-        {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
-        },
-        {
-          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
-      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -787,22 +787,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Sangen om Gleden",
-        "url": "https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C"
+        "name": "Imellom to Evigheter",
+        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
       "artists": [
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
         },
         {
-          "name": "Helen Sj\u00f6holm",
-          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
         }
       ],
-      "duration_ms": 323880,
-      "name": "Sangen om Gleden",
-      "url": "https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx"
+      "duration_ms": 254680,
+      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
+      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     },
     {
       "added_at": "2023-08-31 22:00:00",

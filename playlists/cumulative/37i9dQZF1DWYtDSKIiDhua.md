@@ -2,9 +2,9 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Jorja Smith
+> The R&B and good vibe tracks for your current mood\. Cover: KYLE
 
-520 songs - 1 day 4 hr 6 min
+521 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-06-08 | 2022-07-15 |
 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 | 2022-08-18 | 2022-09-17 |
 | [See You Tonight](https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [See You Tonight](https://open.spotify.com/album/1PGucCJAPXx8aOVX6OW3JM) | 3:05 | 2022-06-23 | 2022-12-17 |
+| [SEEING PINK](https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [SEEING PINK](https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed) | 3:17 | 2023-09-07 |  |
 | [Seem Better](https://open.spotify.com/track/7pU2HsbNzl6GHwJwwXNQRF) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [Seem Better](https://open.spotify.com/album/4VDY9t68UfYCvmZwjyhNRK) | 3:24 | 2022-10-20 | 2023-02-10 |
 | [Settle 4 Less](https://open.spotify.com/track/55TqRwJoKEh7b7ZzNFh1sR) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Settle 4 Less](https://open.spotify.com/album/7eApwkHooJ3YKCfAOaROXq) | 2:36 | 2023-07-27 | 2023-08-18 |
 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 | 2023-03-09 | 2023-04-01 |

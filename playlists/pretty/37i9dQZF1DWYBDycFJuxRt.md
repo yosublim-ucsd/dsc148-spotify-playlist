@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: OZworld \*👉 <a href="https://spice.eplus.jp/articles/321818?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,893 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,943 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 69 | [作り笑いをさせないで](https://open.spotify.com/track/7Fc0jqbfxfqShL7zq4HxSu) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [作り笑いをさせないで](https://open.spotify.com/album/5nFYLgQA824iztGGGGc4I4) | 4:14 |
 | 70 | [雨のシュプール](https://open.spotify.com/track/1OtHmvvdRpPo03fRDanMSb) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [雨のシュプール](https://open.spotify.com/album/0WVIBJPBRw0MjGXSdLqyVi) | 4:16 |
 | 71 | [magic journey](https://open.spotify.com/track/5oCkzlqCyxgLyIVxuI9xl2) | [中川理沙](https://open.spotify.com/artist/4MyrgJ1rFn4ZxeKIH49jDO) | [magic journey](https://open.spotify.com/album/6dVpUHScn5FVA77pziO3Pq) | 4:03 |
-| 72 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |
+| 72 | [Grateful](https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 3:40 |
 | 73 | [SUTEKI](https://open.spotify.com/track/7ukJqd6fmFIPckkIilunXy) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [SUTEKI](https://open.spotify.com/album/4jr9rEDlBFhKjRq7MeJXQr) | 3:17 |
 | 74 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 |
 | 75 | [ナイトミスティパーク \- feat\. Kanna Sato](https://open.spotify.com/track/6NKVkUE6NslKKkWXPTmxNc) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM), [Kanna Sato](https://open.spotify.com/artist/33faWWzPH47L5wBC2mgh6A) | [ナイトミスティパーク \(feat\. Kanna Sato\)](https://open.spotify.com/album/3WoCl4i4YZNjCCinEbuarE) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [本能Dance](https://open.spotify.com/track/0o9bXdLnBNSe0qTSsMyLqZ) | [THE NUGGETS](https://open.spotify.com/artist/0fOhZsgOFCjPpNVKAaO7EC) | [ODD](https://open.spotify.com/album/0bkNANJdWqwvKgQZ9Mku3U) | 3:31 |
 | 80 | [筐体](https://open.spotify.com/track/2ZYSOvpbZ0h8mCc3ofk45K) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [筐体](https://open.spotify.com/album/2CjnCJMG1gaOdFqPDwO6oG) | 2:37 |
 
-Snapshot ID: `MCw3ODI5YjE2NmMzMTYwNjdhYjRlZjE0MmZhZGNhNWE4OWM2NzgwYmRm`
+Snapshot ID: `MCw0YzBlMGM3YmY1NjU2YzM0ODI0NTAzNzAxY2FjYmIyYzdkYzc2YjQ0`

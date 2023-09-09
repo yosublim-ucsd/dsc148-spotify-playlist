@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200305,
+      "name": "21 Days",
+      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
+    },
+    {
+      "album": {
         "name": "22 Make",
         "url": "https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F"
       },
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 187713,
       "name": "Anything",
       "url": "https://open.spotify.com/track/04jQY5VHHilNqaWCabuSzz"
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 248120,
       "name": "Blue Dress",
       "url": "https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 216306,
       "name": "California and Me",
       "url": "https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl"
@@ -4140,6 +4158,24 @@
       "duration_ms": 196277,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl"
+    },
+    {
+      "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/00m3LiJyqbMziKcN5eO67G"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156707,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/4H3S0dQ6g8QwacSCp9W156"
     },
     {
       "album": {
@@ -5202,6 +5238,24 @@
       "duration_ms": 234466,
       "name": "Dangerous Levels of Introspection",
       "url": "https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch"
+    },
+    {
+      "album": {
+        "name": "Dark Heart",
+        "url": "https://open.spotify.com/album/7uvcixcCEUoj07WS4ucdIj"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Shada",
+          "url": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185900,
+      "name": "Dark Heart",
+      "url": "https://open.spotify.com/track/2RjXIOLPcfvA4ggqFPwVNV"
     },
     {
       "album": {
@@ -7100,7 +7154,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
@@ -10782,7 +10836,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
@@ -11455,6 +11509,24 @@
     },
     {
       "album": {
+        "name": "Ignorance Is Bliss",
+        "url": "https://open.spotify.com/album/3ATIN8AumjLClPcoJC0Sfs"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Ignorance Is Bliss",
+      "url": "https://open.spotify.com/track/2Ls8hgQznEczvT0yCaQYdq"
+    },
+    {
+      "album": {
         "name": "ilym (feat. ROSIE)",
         "url": "https://open.spotify.com/album/4GuRdYgybjIWKTD5uPsiqU"
       },
@@ -11926,6 +11998,24 @@
       "duration_ms": 222095,
       "name": "isn't it enough",
       "url": "https://open.spotify.com/track/6LFCiV3TmCozEgy51rp9aa"
+    },
+    {
+      "album": {
+        "name": "it gets better",
+        "url": "https://open.spotify.com/album/2n4coOjSlmABEPg1PTTr3K"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158186,
+      "name": "it gets better",
+      "url": "https://open.spotify.com/track/0omwtUP9Oz4bFYJFoXmPLd"
     },
     {
       "album": {
@@ -12558,6 +12648,24 @@
       "duration_ms": 187162,
       "name": "LA Rain",
       "url": "https://open.spotify.com/track/1UVJrYROtPHfrpIy3Acu5j"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177212,
+      "name": "lacy",
+      "url": "https://open.spotify.com/track/4Jo1lAhjCEAh9JQPW6HbNi"
     },
     {
       "album": {
@@ -14132,6 +14240,24 @@
       "duration_ms": 151836,
       "name": "lover/loner",
       "url": "https://open.spotify.com/track/59ojG0SUFeBbFU7fHw9h2a"
+    },
+    {
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "album": {
@@ -16024,7 +16150,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 180000,
       "name": "No Longer Bound",
       "url": "https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3"
@@ -16292,7 +16418,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 189880,
       "name": "Notes From A Wrist",
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
@@ -16705,6 +16831,24 @@
     },
     {
       "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/7cxeHwDuhQxZeiE5Oxew7d"
       },
@@ -16926,6 +17070,24 @@
       "duration_ms": 141764,
       "name": "one that got away",
       "url": "https://open.spotify.com/track/77sUiJV65TMner3XdAUYaD"
+    },
+    {
+      "album": {
+        "name": "House on a Hill",
+        "url": "https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239320,
+      "name": "Only for a Moment",
+      "url": "https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs"
     },
     {
       "album": {
@@ -17384,7 +17546,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 214133,
       "name": "Parallel Universe",
       "url": "https://open.spotify.com/track/4ax79FbkxYsNHDCz7Hy6TL"
@@ -19406,7 +19568,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 171013,
       "name": "Self Love",
       "url": "https://open.spotify.com/track/3oRT45v51KOyV37KPmemc3"
@@ -22914,7 +23076,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 164494,
       "name": "Think I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
@@ -24036,7 +24198,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
@@ -25684,6 +25846,24 @@
       "duration_ms": 272729,
       "name": "worship",
       "url": "https://open.spotify.com/track/7qPLIptDryZon0PkUmblj9"
+    },
+    {
+      "album": {
+        "name": "Worst Case Scenario",
+        "url": "https://open.spotify.com/album/5ESN9IArIC1Vgj4A8wQdpR"
+      },
+      "artists": [
+        {
+          "name": "Nia Hendricks",
+          "url": "https://open.spotify.com/artist/0EptVj895GIreKBh9IA93J"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160125,
+      "name": "Worst Case Scenario",
+      "url": "https://open.spotify.com/track/3PowhSaonTnJKZrFegrR5Z"
     },
     {
       "album": {

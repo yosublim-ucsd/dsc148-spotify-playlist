@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 351283,
       "name": "Addicted To Bass",
       "url": "https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp"
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "R005",
+        "url": "https://open.spotify.com/album/7AeBk55EN88Zujns38BDTO"
+      },
+      "artists": [
+        {
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282986,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK"
+    },
+    {
+      "album": {
         "name": "Mystic Voices / Butoh",
         "url": "https://open.spotify.com/album/7m5hIO4QBaiyi3q83urXPs"
       },
@@ -1460,6 +1478,24 @@
       "duration_ms": 405439,
       "name": "Choir Of Spirits",
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
+    },
+    {
+      "album": {
+        "name": "Circular EP",
+        "url": "https://open.spotify.com/album/3S2FQUjjtMXY5Lw1U9EN0a"
+      },
+      "artists": [
+        {
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370829,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/5wki473M05c257DxpTwfYm"
     },
     {
       "album": {
@@ -1830,7 +1866,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 356818,
       "name": "Cooper",
       "url": "https://open.spotify.com/track/38hnYtXG45goEMLWKqQ5Il"
@@ -2096,7 +2132,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 150909,
       "name": "Das Boot (V2) - D72 Remix",
       "url": "https://open.spotify.com/track/31dLV0HuyoQJwuF8FiqRWj"
@@ -2662,6 +2698,24 @@
       "duration_ms": 360007,
       "name": "Driving Mad",
       "url": "https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl"
+    },
+    {
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0XXxllyCo8iylhxOqwne94"
+      },
+      "artists": [
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260133,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/0VqzQ7TOqavkEa4uDYkGnH"
     },
     {
       "album": {
@@ -3590,7 +3644,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 369140,
       "name": "Frei",
       "url": "https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG"
@@ -3684,7 +3738,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 410531,
       "name": "Further",
       "url": "https://open.spotify.com/track/1PBh6aYwGLMhguJz9gT6wC"
@@ -3786,7 +3840,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 358022,
       "name": "Getting Close To Me",
       "url": "https://open.spotify.com/track/26MST2xhA9lLY7x0FsDC4Z"
@@ -4353,6 +4407,28 @@
     },
     {
       "album": {
+        "name": "Human Robot",
+        "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416818,
+      "name": "Human Robot",
+      "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
+    },
+    {
+      "album": {
         "name": "Retro Future, Vol. 3",
         "url": "https://open.spotify.com/album/05t0v1yS6XFup4zH1VjR7U"
       },
@@ -4542,6 +4618,24 @@
       "duration_ms": 392727,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2RlFL1FgHR8Kt6Mwkwsg0K"
+    },
+    {
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/1RWjIsK48b5JVLV7Xo1qSo"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376726,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/120IM0v3CnflrIbUSQYHvQ"
     },
     {
       "album": {
@@ -5840,6 +5934,24 @@
     {
       "album": {
         "name": "Mirage",
+        "url": "https://open.spotify.com/album/3TaVHXcasAxVabtg5mLdho"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466243,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3bn6epzA576FcDnDUKynV0"
+    },
+    {
+      "album": {
+        "name": "Mirage",
         "url": "https://open.spotify.com/album/0bUxbKanKPzrUM0kVrjD36"
       },
       "artists": [
@@ -5872,7 +5984,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 283224,
       "name": "Mission",
       "url": "https://open.spotify.com/track/2tUTF4c90ZQKy25Ellez9M"
@@ -7622,7 +7734,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 333134,
       "name": "Rosso Profondo",
       "url": "https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg"
@@ -7988,7 +8100,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 386911,
       "name": "Sexuality (My Reality)",
       "url": "https://open.spotify.com/track/6K8MEkyv4cR6LPngDmsq20"
@@ -8406,6 +8518,24 @@
       "duration_ms": 240744,
       "name": "Substance",
       "url": "https://open.spotify.com/track/7snAq1t8AP9umPVM2F58fG"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6oLiZBCsvY809kLiHLjavA"
+      },
+      "artists": [
+        {
+          "name": "Lisa May (Aus)",
+          "url": "https://open.spotify.com/artist/7rx8RLqLByWexSLqkGhO4p"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391791,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/6T4wDFCjnNpEgNknKh7MHc"
     },
     {
       "album": {
@@ -9197,6 +9327,24 @@
     },
     {
       "album": {
+        "name": "The Unexpected",
+        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Unexpected",
+      "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
+    },
+    {
+      "album": {
         "name": "Goldener Strom Remixes 1",
         "url": "https://open.spotify.com/album/2Oa9B5Rlku6LgDvKahNhSj"
       },
@@ -9288,6 +9436,24 @@
       "duration_ms": 363889,
       "name": "Time",
       "url": "https://open.spotify.com/track/65avt9HtCTofE3r4sYGs48"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254545,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
     },
     {
       "album": {

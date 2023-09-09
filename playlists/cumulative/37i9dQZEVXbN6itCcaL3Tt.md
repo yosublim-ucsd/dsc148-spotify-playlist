@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,301 songs - 2 day 19 hr 0 min
+1,302 songs - 2 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,6 +771,7 @@
 | [NEWCOMER](https://open.spotify.com/track/2GchdjIHiCeH1E4vd70Gdp) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [NEWCOMER EP](https://open.spotify.com/album/6IaR0sOPUhNGXixVl08HBk) | 2:22 | 2023-04-20 | 2023-04-22 |
 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/384lHduuDsrR4HPUwR3fG4) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [sanah śpiewa Poezyje](https://open.spotify.com/album/4SZGigZqeHALaTyIrYisrv) | 3:09 | 2022-11-26 | 2023-06-11 |
 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t) | 3:09 | 2022-10-15 | 2022-11-27 |
+| [Nicea](https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Nicea](https://open.spotify.com/album/561wVB1MRTfJ0muUnsniNU) | 3:37 | 2023-09-08 |  |
 | [Nie lubię Cię](https://open.spotify.com/track/0D4fkUwi4d7Ee0cNx7xx9z) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Lata Dwudzieste](https://open.spotify.com/album/3uRGqDcXI9lulUpYZ3ZFvj) | 3:28 | 2022-10-22 | 2022-11-06 |
 | [Nie lubię ku](https://open.spotify.com/track/1ea8rLjQdHKe7hgpHWTbuJ) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [Diamentowy Las](https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs) | 2:30 | 2021-05-09 | 2021-05-13 |
 | [NIE MA CIĘ](https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [PRELUDIUM](https://open.spotify.com/album/426XdCZCzEN4lA4B7dEHH6) | 2:47 | 2023-07-22 |  |
@@ -1156,7 +1157,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:57 | 2023-07-16 | 2023-07-18 |
 | [TRYB SAMOLOTOWY](https://open.spotify.com/track/0d4SgsJAjJWRXIeeFdCNyh) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp) | [Bufor](https://open.spotify.com/album/6s6xU2GQCElEekW1d566Ri) | 2:33 | 2022-03-12 | 2022-03-26 |
 | [TRYB SAMOLOTOWY](https://open.spotify.com/track/5kXqZe2VBK3fb3jEVWjI6X) | [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp) | [TRYB SAMOLOTOWY](https://open.spotify.com/album/1fxYmqRVRqjAHgvDuiHJ70) | 2:33 | 2022-02-04 | 2022-03-13 |
-| [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 | 2023-08-11 |  |
+| [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 | 2023-08-11 | 2023-09-09 |
 | [Trójkąt Bermudzki](https://open.spotify.com/track/3xyEgP4dQbnQtLoYDCKzEv) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [Nitro](https://open.spotify.com/artist/6qSWMnlKT3MeeXAEJJPdR1), [MASNY BEN](https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU), [mgng](https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc) | [Megalomania](https://open.spotify.com/album/7bPOmqpNy4BMsKS1YcYwNG) | 3:45 | 2022-04-13 | 2022-06-26 |
 | [Trójkąt Bermudzki](https://open.spotify.com/track/6L84MxeCGyg7fjTXzWYdmQ) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [Nitro](https://open.spotify.com/artist/6qSWMnlKT3MeeXAEJJPdR1), [MASNY BEN](https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU), [mgng](https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc) | [Trójkąt Bermudzki](https://open.spotify.com/album/3eejvm9X17uuCloqeGMb3M) | 3:45 | 2022-03-23 | 2022-04-14 |
 | [Tsunami](https://open.spotify.com/track/1yajlpkjdjPfj4XZ3ES140) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy) | [Tsunami](https://open.spotify.com/album/4bqXxTd6RzIQr8QeujIJQI) | 2:07 | 2023-04-29 | 2023-05-01 |

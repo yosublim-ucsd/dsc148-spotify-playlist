@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Blue Days",
+        "url": "https://open.spotify.com/album/5vUGY8BoWFzheTCoP8oR0a"
+      },
+      "artists": [
+        {
+          "name": "Louamin\u00e9",
+          "url": "https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120857,
+      "name": "Blue Days",
+      "url": "https://open.spotify.com/track/5GoYUzWlBQZL7cDROLSeIr"
+    },
+    {
+      "album": {
         "name": "blue dream mountain",
         "url": "https://open.spotify.com/album/5lj0WlCMeuEf6du1Mg2cjd"
       },
@@ -3978,7 +3996,7 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 169000,
       "name": "Hidden Chambers",
       "url": "https://open.spotify.com/track/4iNlPrMJCvBjakWljscabH"
@@ -4792,6 +4810,24 @@
       "duration_ms": 135700,
       "name": "Keep It Together",
       "url": "https://open.spotify.com/track/5IYnFJVBmhQGGluaHAHZaf"
+    },
+    {
+      "album": {
+        "name": "Keeping it together",
+        "url": "https://open.spotify.com/album/4gAeEQvhq9kX2vQP5RhKwP"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188804,
+      "name": "Keeping it together",
+      "url": "https://open.spotify.com/track/7kM1ugB4jojCdoZWWDNrkt"
     },
     {
       "album": {
@@ -5764,7 +5800,7 @@
       ],
       "date_added": "2019-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 192000,
       "name": "Mil Sonidos",
       "url": "https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg"
@@ -6128,6 +6164,24 @@
       "duration_ms": 133090,
       "name": "Needless to Say",
       "url": "https://open.spotify.com/track/3JPbOyccVz2HJDNaXfehiX"
+    },
+    {
+      "album": {
+        "name": "Neon Sky",
+        "url": "https://open.spotify.com/album/5MspkKr60tL5TkK73PZosX"
+      },
+      "artists": [
+        {
+          "name": "Garden Collective",
+          "url": "https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170574,
+      "name": "Neon Sky",
+      "url": "https://open.spotify.com/track/7sXqnZ4wx99TBBr611lPGh"
     },
     {
       "album": {
@@ -6992,7 +7046,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 219130,
       "name": "Portico",
       "url": "https://open.spotify.com/track/0b53tPTqZR1kOv7RoG04kh"

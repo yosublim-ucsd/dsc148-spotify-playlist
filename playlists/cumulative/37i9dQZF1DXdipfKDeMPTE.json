@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 119954,
       "name": "- Inner Peace -",
       "url": "https://open.spotify.com/track/4K5RnFcI0f44AUjUFxztvD"
@@ -310,6 +310,24 @@
       "duration_ms": 92856,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/5Xmis2excSOi2DT4HLJL98"
+    },
+    {
+      "album": {
+        "name": "adjustment",
+        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
+      },
+      "artists": [
+        {
+          "name": "Ryder 003",
+          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "adjustment",
+      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
     },
     {
       "album": {
@@ -798,7 +816,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 172691,
       "name": "Beautiful dreamer",
       "url": "https://open.spotify.com/track/1bHxofYoEVYBNuZT96cYbh"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 196956,
       "name": "Caff\u00e8 de Postillon",
       "url": "https://open.spotify.com/track/0CdsWBtMBIF9uwtYhvFDSO"
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 113608,
       "name": "downtown",
       "url": "https://open.spotify.com/track/68o9Twi8HzTuGPcARJCt87"
@@ -3385,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Heroic",
+        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
+      },
+      "artists": [
+        {
+          "name": "rwethree",
+          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132236,
+      "name": "Heroic",
+      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
+    },
+    {
+      "album": {
         "name": "Hi",
         "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
       },
@@ -3594,7 +3630,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 80000,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/4gpjkwHPHRZVWiohmSLbtK"
@@ -4301,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131766,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
+    },
+    {
+      "album": {
         "name": "leyawiin",
         "url": "https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte"
       },
@@ -4630,7 +4684,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 171000,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0KhkoOaUoG6g8Rb7yb2PAh"
@@ -5064,6 +5118,24 @@
       "duration_ms": 147428,
       "name": "miletones",
       "url": "https://open.spotify.com/track/4vqrhPRaeoJ8pHL6dKTlfW"
+    },
+    {
+      "album": {
+        "name": "Mindfeed",
+        "url": "https://open.spotify.com/album/0qgpvMEpFqBZncu6mDlCwI"
+      },
+      "artists": [
+        {
+          "name": "Chalk Gang",
+          "url": "https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "Mindfeed",
+      "url": "https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA"
     },
     {
       "album": {
@@ -5704,7 +5776,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 168730,
       "name": "Nightride",
       "url": "https://open.spotify.com/track/04ZygyV7zj4h9rdsGzA9gY"
@@ -5956,7 +6028,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 131600,
       "name": "Occlumency",
       "url": "https://open.spotify.com/track/07i8L5OEkbDyYhSBxGJIxV"
@@ -6176,7 +6248,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 132000,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/59Rha4bZILoIIz3RZiBoKM"
@@ -6877,6 +6949,24 @@
     },
     {
       "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
+      },
+      "artists": [
+        {
+          "name": "Trixie Muff",
+          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
+    },
+    {
+      "album": {
         "name": "Jam Session",
         "url": "https://open.spotify.com/album/0Udv2Q7r13MbZIAQ5vuMlu"
       },
@@ -7363,6 +7453,24 @@
     },
     {
       "album": {
+        "name": "shelter",
+        "url": "https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc"
+      },
+      "artists": [
+        {
+          "name": "Kolorama",
+          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "shelter",
+      "url": "https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo"
+    },
+    {
+      "album": {
         "name": "Shinrin-yoku",
         "url": "https://open.spotify.com/album/0IOnDUjJlSqQ1Vy9x6Vbfq"
       },
@@ -7570,6 +7678,24 @@
       "duration_ms": 179483,
       "name": "Sleeping City",
       "url": "https://open.spotify.com/track/2sdtHbNOJLXgOXpE77UzSq"
+    },
+    {
+      "album": {
+        "name": "sleepy hat",
+        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "sleepy hat",
+      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
     },
     {
       "album": {
@@ -7822,6 +7948,24 @@
       "duration_ms": 92080,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0oDKxUVSxtqZ244FiGbcBN"
+    },
+    {
+      "album": {
+        "name": "spinal chords",
+        "url": "https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x"
+      },
+      "artists": [
+        {
+          "name": "fontatron",
+          "url": "https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135558,
+      "name": "spinal chords",
+      "url": "https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi"
     },
     {
       "album": {
@@ -8331,6 +8475,24 @@
     },
     {
       "album": {
+        "name": "The City Weeps",
+        "url": "https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23"
+      },
+      "artists": [
+        {
+          "name": "Kisiaria",
+          "url": "https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139502,
+      "name": "The City Weeps",
+      "url": "https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K"
+    },
+    {
+      "album": {
         "name": "The Hideout",
         "url": "https://open.spotify.com/album/0gqfC6kwsLNsU4WMKuPP3n"
       },
@@ -8498,7 +8660,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 145663,
       "name": "Theme 2",
       "url": "https://open.spotify.com/track/5CqYOOox2kdtE6dC6wijFO"

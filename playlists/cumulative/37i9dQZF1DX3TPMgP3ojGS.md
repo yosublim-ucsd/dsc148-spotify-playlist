@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,736 songs - 3 day 5 hr 48 min
+1,737 songs - 3 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [A Lamenting Song \- From “Taboo” TV Series Soundtrack](https://open.spotify.com/track/3N0c0Tix74B4YiEsoS7tbG) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Lamenting Song \(From “Taboo” TV Series Soundtrack\)](https://open.spotify.com/album/5WiRZUw0Rha5gwCuvDw6BN) | 1:49 | 2021-03-08 | 2022-04-19 |
 | [A Letter](https://open.spotify.com/track/5dUnkSplnv6nM1JMWQbOwt) | [Rebecca Leonard](https://open.spotify.com/artist/5DLGvsb4nrnGyPue6Y6m1G) | [A Letter](https://open.spotify.com/album/6KmLpG31FYe9eYB4VoKM4v) | 2:07 | 2021-03-11 | 2022-04-16 |
 | [A Letter Home](https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [A Letter Home](https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV) | 2:19 | 2021-04-07 | 2022-07-06 |
+| [A Midnight Sun](https://open.spotify.com/track/6FLe5vn84JPgAAiKz6ofkX) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [A Midnight Sun](https://open.spotify.com/album/5j5ZhmEGBX5jMDsRTXb8fh) | 2:34 | 2023-09-05 |  |
 | [A Missing Piece](https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 2:05 | 2021-10-11 | 2022-04-04 |
 | [A New Day](https://open.spotify.com/track/2ZBrOKj7dDANWEA4DcXQ2N) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [A New Day](https://open.spotify.com/album/5lF6GKix1t49qCXs9TASLh) | 2:59 | 2021-03-14 | 2021-12-21 |
 | [A New Path](https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [A New Path](https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw) | 1:53 | 2022-09-13 | 2023-04-16 |
@@ -1551,7 +1552,7 @@
 | [Together Again](https://open.spotify.com/track/5Nx2GkAaDfh18aZ99OyctW) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Together Again](https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X) | 2:01 | 2022-12-22 | 2023-07-10 |
 | [Tokka](https://open.spotify.com/track/22bk8cz4FrIpxR166zmXFk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 1:29 | 2021-03-10 | 2021-04-30 |
 | [Tombant](https://open.spotify.com/track/0hnTw4Zi764pEjRuAyoHdJ) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Tombant](https://open.spotify.com/album/6c9Ki7iHGRFfZOHTqnaAja) | 2:07 | 2021-03-19 | 2022-02-16 |
-| [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-04-15 |  |
+| [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-04-15 | 2023-09-09 |
 | [Tomorrow's Dreams](https://open.spotify.com/track/2aj7eNHqMG4SeF5sBG7idE) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Tomorrow's Dreams](https://open.spotify.com/album/3rEzNYYShOCnaUy8zVa0pA) | 2:44 | 2021-12-18 | 2022-07-23 |
 | [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 | 2021-03-26 | 2022-09-19 |
 | [Too Many Friends](https://open.spotify.com/track/5i1AaGDNgloHkaHqtSPwKD) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Too Many Friends](https://open.spotify.com/album/663tfHb9ki1F6dj3pPOutd) | 3:09 | 2021-03-16 | 2021-03-17 |

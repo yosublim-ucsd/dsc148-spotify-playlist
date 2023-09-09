@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 187051,
+  "num_followers": 187144,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzgyOTY3MTI0ZDgxOGMwZDcwZDQ5MzNmNGQxMThiODY0OTYzYjA1",
+  "snapshot_id": "MCw1ZGVjNTQ1OWRhNWQ3MjgzODhiNjMyMTY5NTJmMGY1YTllZTNlMmZi",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "I Heard It in a Love Song",
-        "url": "https://open.spotify.com/album/6oRiJn7AHJjzFZVpWqCnOY"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "I Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/2pcuQmsar5y3SUF0ifZ1FH"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/3AMyDc8FYYxJ84ogCzJrwB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 264240,
       "name": "I Love You Secretly",
       "url": "https://open.spotify.com/track/2ykNJxkcqdKFl2qJyaRUVr"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "I Heard It in a Love Song",
+        "url": "https://open.spotify.com/album/6oRiJn7AHJjzFZVpWqCnOY"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "I Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/2pcuQmsar5y3SUF0ifZ1FH"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "My Love Is Growing",
-      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Diana & Marvin",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "My Love Is Growing",
+      "url": "https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 276976,
       "name": "My Love Don't Come Easy",
       "url": "https://open.spotify.com/track/1xP1DVB80liHmmL2P55NfJ"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Lift This Hurt b/w You're Being Unfair",
-        "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
-      },
-      "artists": [
-        {
-          "name": "Elvin Spencer",
-          "url": "https://open.spotify.com/artist/6qU8k346Etf0hHeYaAoxk1"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Lift This Hurt",
-      "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Lift This Hurt b/w You're Being Unfair",
+        "url": "https://open.spotify.com/album/1aP4oSMDr2TqgC7nm6cLMj"
+      },
+      "artists": [
+        {
+          "name": "Elvin Spencer",
+          "url": "https://open.spotify.com/artist/6qU8k346Etf0hHeYaAoxk1"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Lift This Hurt",
+      "url": "https://open.spotify.com/track/3LSgGjq8enMTmioZlouR5Q"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Soul Survivors",
         "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 201533,
       "name": "City of Brotherly Love",
       "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
-        "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
-      },
-      "artists": [
-        {
-          "name": "Denise LaSalle",
-          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "A Love Reputation",
-      "url": "https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
+        "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
+      },
+      "artists": [
+        {
+          "name": "Denise LaSalle",
+          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "A Love Reputation",
+      "url": "https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "The Complete Motown Singles, Vol. 1: 1959-1961",
         "url": "https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles Vol. 4: 1964",
-        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Crawford",
-          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "I'll Come Running",
-      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Philly Groove Records Presents: The Early Years, Vol. 3",
         "url": "https://open.spotify.com/album/2QBg8HBgmqdJl4nHsbZtQe"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 174666,
       "name": "Yes, Maybe No",
       "url": "https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles Vol. 4: 1964",
+        "url": "https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Crawford",
+          "url": "https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "I'll Come Running",
+      "url": "https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Detroit Funk Vaults",
-        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
-      },
-      "artists": [
-        {
-          "name": "The Deacons",
-          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "A Drop in the Bucket",
-      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased: 1966",
         "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 137077,
       "name": "Baby I've Got It",
       "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Detroit Funk Vaults",
+        "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
+      },
+      "artists": [
+        {
+          "name": "The Deacons",
+          "url": "https://open.spotify.com/artist/155as8cI348mUAB2F9TnNU"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "A Drop in the Bucket",
+      "url": "https://open.spotify.com/track/5tr22uCdtY1ZoCOFwi0OAc"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Dave Hamilton's Detroit Dancers, Vol. 2",
-        "url": "https://open.spotify.com/album/0JamFpUGYBZ9dULYrdQtEZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Coombs",
-          "url": "https://open.spotify.com/artist/722P3lSrJ7ziSTEozuqb10"
-        }
-      ],
-      "duration_ms": 159186,
-      "name": "Tammie",
-      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Motown Unreleased 1967",
         "url": "https://open.spotify.com/album/2r7vDzVoDH2Q8U5UKc0mZb"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 164324,
       "name": "Hi-Lili - Hi-Lo",
       "url": "https://open.spotify.com/track/5jK3TegUNMon2hUiFqk0km"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Dave Hamilton's Detroit Dancers, Vol. 2",
+        "url": "https://open.spotify.com/album/0JamFpUGYBZ9dULYrdQtEZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Coombs",
+          "url": "https://open.spotify.com/artist/722P3lSrJ7ziSTEozuqb10"
+        }
+      ],
+      "duration_ms": 159186,
+      "name": "Tammie",
+      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Movin' On - The Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft"
-      },
-      "artists": [
-        {
-          "name": "The Joneses",
-          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Travelin' In Heavy Traffic",
         "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 361626,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Movin' On - The Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/7mIldRsXig3Qb5kpusP5ft"
+      },
+      "artists": [
+        {
+          "name": "The Joneses",
+          "url": "https://open.spotify.com/artist/68e5cP09Ecpbvv5pm4zvxK"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/7ufWDOtatuX8McQDQoMDm5"
     },
     {
       "added_at": "2022-05-11 12:29:38",

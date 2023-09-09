@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-714 songs - 1 day 18 hr 40 min
+715 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 | 2021-12-17 | 2022-07-29 |
 | [New York](https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [New York](https://open.spotify.com/album/2MvEZPyhKqA5SdVAmsu2nC) | 3:21 | 2021-12-17 | 2022-07-29 |
 | [Nicole](https://open.spotify.com/track/3Wx92MnUSBSPYGpzXipdkY) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [The Romantic](https://open.spotify.com/album/0RcL6UC5NlnEjd1r9yLYof) | 3:50 | 2021-12-17 | 2022-07-29 |
+| [No California \(Acoustic\)](https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California \(Acoustic\)](https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr) | 3:36 | 2023-09-08 |  |
 | [Nobody Opened The Door](https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Songs From The Ashes \(PT\. 1\)](https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP) | 4:42 | 2022-01-24 | 2022-04-21 |
 | [Normal \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:31 | 2022-01-24 | 2022-04-20 |
 | [Not For Me \- Acoustic](https://open.spotify.com/track/6l5vqh0wxlgC19cvgjggmV) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me \(Acoustic\)](https://open.spotify.com/album/2wTaLM9YcKnQQjHGnyEHU1) | 3:43 | 2022-01-24 | 2022-04-21 |
@@ -602,7 +603,7 @@
 | [That's All](https://open.spotify.com/track/4PDB5SaaRnQiZUMomsg588) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [That's All](https://open.spotify.com/album/3WWqe7YgMDfYe5mmz0zjpW) | 4:34 | 2022-01-24 | 2022-04-21 |
 | [The Art Of Getting By](https://open.spotify.com/track/2PjMTQ9KLmdPtT5IpYXTQo) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/6d9GmtcPSlsisDsJJbfQTy) | 3:39 | 2022-07-29 | 2023-02-14 |
 | [The Art Of Getting By](https://open.spotify.com/track/2vfZqRshDRTKm8unBA0o9W) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/1yCWoMwezzzzqrYueeHi6R) | 3:39 | 2021-12-17 | 2022-07-28 |
-| [The Art Of Getting By](https://open.spotify.com/track/43rWni1MoV8PKPDGjx3cN7) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/359XQJPJCYPhdOWWPiOa4n) | 3:39 | 2023-03-17 |  |
+| [The Art Of Getting By](https://open.spotify.com/track/43rWni1MoV8PKPDGjx3cN7) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The Art Of Getting By](https://open.spotify.com/album/359XQJPJCYPhdOWWPiOa4n) | 3:39 | 2023-03-17 | 2023-09-09 |
 | [The Author](https://open.spotify.com/track/0V26q4wgdvYRHptt9XImAR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/18JkMf41OR94qt1uprcrZW) | 3:37 | 2021-12-17 | 2022-07-29 |
 | [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 | 2022-07-22 |  |
 | [The Bad Guy](https://open.spotify.com/track/4x1Zg2vW3P9rdyJvVnWZFx) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [The Bad Guy](https://open.spotify.com/album/7hyB7Io0wM9KCjGXKustiY) | 3:53 | 2022-03-23 | 2022-04-21 |

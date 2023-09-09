@@ -527,6 +527,28 @@
     },
     {
       "album": {
+        "name": "Ganda Banda (From \"Chamak\")",
+        "url": "https://open.spotify.com/album/28EdhRMtXEKJOkkTUmhXUt"
+      },
+      "artists": [
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        },
+        {
+          "name": "Shekhar Astitwa",
+          "url": "https://open.spotify.com/artist/1o4gJ2P9CYruGrCXoMv36l"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Ganda Banda (From \"Chamak\")",
+      "url": "https://open.spotify.com/track/7FuzvOjW800pbpujSrfKT7"
+    },
+    {
+      "album": {
         "name": "Garmi (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Mick Jenkins",
+  "description": "Chillout hip-hop vibes. Cover: Larry June",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -1746,6 +1746,24 @@
       "duration_ms": 195200,
       "name": "Bobby Boucher",
       "url": "https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj"
+    },
+    {
+      "album": {
+        "name": "Born In A Crash",
+        "url": "https://open.spotify.com/album/0OlUwiZrc1uFlFT0UkQ83H"
+      },
+      "artists": [
+        {
+          "name": "Wale the Sage",
+          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "Born In A Crash",
+      "url": "https://open.spotify.com/track/4e40siVNT0RE5cJLLdDbyk"
     },
     {
       "album": {
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 179264,
       "name": "Fell Into The Moshpit",
       "url": "https://open.spotify.com/track/3ql66fac3b6W2YasHdvKqr"
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 271177,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0FnmE9EqmI43RBJVLZ0RMM"
@@ -5656,7 +5674,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 189026,
       "name": "Hootz",
       "url": "https://open.spotify.com/track/4Q0QCJid9Sg0EKFfewCgw6"
@@ -7279,6 +7297,32 @@
     },
     {
       "album": {
+        "name": "Major",
+        "url": "https://open.spotify.com/album/03zxRT6W8uDaokJEOkJ65F"
+      },
+      "artists": [
+        {
+          "name": "Scotty Atl",
+          "url": "https://open.spotify.com/artist/5kf5KPLB7nXG4xYdI1QXoa"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275294,
+      "name": "Major",
+      "url": "https://open.spotify.com/track/7Dzs4qqiiExHLgLnm8XxD8"
+    },
+    {
+      "album": {
         "name": "Mannequin",
         "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
       },
@@ -7378,6 +7422,36 @@
       "duration_ms": 188658,
       "name": "Matinee",
       "url": "https://open.spotify.com/track/5c5lCOFiMF14K2pzYep4wo"
+    },
+    {
+      "album": {
+        "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
+        "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288018,
+      "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
+      "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
     },
     {
       "album": {
@@ -9423,6 +9497,24 @@
     },
     {
       "album": {
+        "name": "Red Handed",
+        "url": "https://open.spotify.com/album/2nH0QSZxfAkdNPsPDe6WPs"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235066,
+      "name": "Red Handed",
+      "url": "https://open.spotify.com/track/6JtdBQyO9qyY4HnWJY1mnn"
+    },
+    {
+      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/5UiSftvU7SPmgCsz4gCPX6"
       },
@@ -9680,6 +9772,28 @@
       "duration_ms": 230625,
       "name": "Save The Best For Last (Feat. Rick Ross)",
       "url": "https://open.spotify.com/track/6iCZg6uWwwtdJHZ7LzQKxU"
+    },
+    {
+      "album": {
+        "name": "Save Yours",
+        "url": "https://open.spotify.com/album/3aNFCwqjk0FUqTC9ycTxZv"
+      },
+      "artists": [
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189310,
+      "name": "Save Yours",
+      "url": "https://open.spotify.com/track/20ONgMrt1QKEo1xRvyv8Jx"
     },
     {
       "album": {
@@ -12006,7 +12120,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 151360,
       "name": "Turkey Wings - Bonus Track",
       "url": "https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C"
@@ -12898,7 +13012,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 63464,
       "name": "Zelle Transfers",
       "url": "https://open.spotify.com/track/2m5xBIsae4zLxMvSQyISiX"

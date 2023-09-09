@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,807 likes - 61 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,101 likes - 61 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 60 | [Utopia \- Sunroof Mix](https://open.spotify.com/track/5Pirg3m910jqAZOHIcAiVn) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS), [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w) | [Utopia](https://open.spotify.com/album/0b7kSCIX3vzGQSekOQKpOC) | 7:37 |
 | 61 | [Cu cu rru cu cu' paloma](https://open.spotify.com/track/08xzqLZV31VvaixcqZxzZa) | [Patrizia Laquidara](https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9) | [Indirizzo portoghese \(15TH anniversary edition\)](https://open.spotify.com/album/278MQ4EIMVpnB2QlmQrFEX) | 3:45 |
 
-Snapshot ID: `MCw3OWIzN2M3MDhiODA0NmE3YzEwYTg2MmJhMmRiYWU2ODAzYTBkYzYx`
+Snapshot ID: `MCw0Y2Q1MTJjZmM2ZTgzN2Y1ZjAwY2E5NzcwNjg0Y2FjMTRmODBhNjBj`

@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 157387,
       "name": "Auto",
       "url": "https://open.spotify.com/track/35shJ4rnJV0AmcPbTz3p7V"
@@ -2629,6 +2629,28 @@
     },
     {
       "album": {
+        "name": "DIGNIT\u00c9",
+        "url": "https://open.spotify.com/album/44AMN1iAYSq5xAlR2FgUR8"
+      },
+      "artists": [
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170174,
+      "name": "DIGNIT\u00c9",
+      "url": "https://open.spotify.com/track/4QKKKbdXAofomXFIcq9iCc"
+    },
+    {
+      "album": {
         "name": "V POUR",
         "url": "https://open.spotify.com/album/5RbTmbj5TqnxtNHmLO9F5c"
       },
@@ -3194,7 +3216,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 282106,
       "name": "EV2",
       "url": "https://open.spotify.com/track/2RUJJtbGdliDKtsQpw6zDW"
@@ -3328,7 +3350,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 150112,
       "name": "FILATURE",
       "url": "https://open.spotify.com/track/2baZ6gzDzqGckTnbiWisjA"
@@ -4106,7 +4128,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 223714,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj"
@@ -4488,6 +4510,28 @@
       "duration_ms": 144000,
       "name": "J'dois filer",
       "url": "https://open.spotify.com/track/4OTWfA2YAY4cMnvC2cRFwb"
+    },
+    {
+      "album": {
+        "name": "J'Fonce",
+        "url": "https://open.spotify.com/album/5F3UHcdI6u3T3C3l7ujJOM"
+      },
+      "artists": [
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "J'Fonce",
+      "url": "https://open.spotify.com/track/2HondNQ2pnnAYxRrWUDezm"
     },
     {
       "album": {
@@ -5855,6 +5899,24 @@
     },
     {
       "album": {
+        "name": "Montr\u00e9al",
+        "url": "https://open.spotify.com/album/28YignfqPwuUqODQfyt5VE"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98560,
+      "name": "Montr\u00e9al",
+      "url": "https://open.spotify.com/track/3LhkJnY2DFmOSVlit8tuKW"
+    },
+    {
+      "album": {
         "name": "30\u00ba",
         "url": "https://open.spotify.com/album/5cQjwwloSCbzEEFh9fLAuw"
       },
@@ -6348,6 +6410,24 @@
       "duration_ms": 109776,
       "name": "On Est Bless",
       "url": "https://open.spotify.com/track/1qlFKIEznb6aCKtGTSBDN6"
+    },
+    {
+      "album": {
+        "name": "Un jour de plus au paradis",
+        "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141727,
+      "name": "On fait \u00e7a",
+      "url": "https://open.spotify.com/track/3UR8t1sBdR7k0ZozfSw37i"
     },
     {
       "album": {
@@ -8582,7 +8662,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 193303,
       "name": "Trap & Winnin",
       "url": "https://open.spotify.com/track/6mbnhgVJXbX1qHbqqXuBk7"

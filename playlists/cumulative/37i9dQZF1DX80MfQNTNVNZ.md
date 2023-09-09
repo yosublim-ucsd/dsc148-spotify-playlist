@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-427 songs - 1 day 1 hr 29 min
+428 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Elasto](https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ), [Artemis](https://open.spotify.com/artist/1weRXyXXSBxar799mDmQ2v) | [Schwey](https://open.spotify.com/album/46W9GXfRJpQdlYs9cCus0m) | 3:42 | 2021-12-23 | 2022-07-29 |
 | [empties](https://open.spotify.com/track/50RKXiXT8FqHInz2N1AixD) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [empties](https://open.spotify.com/album/4eGoLvI3uw3abndYvmTFsc) | 3:27 | 2022-03-24 | 2022-04-16 |
 | [Evergreen \(You Didn’t Deserve Me At All\) \- Live At NPR's Tiny Desk](https://open.spotify.com/track/2gByHvt8cLpctREvU835gT) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Live At NPR's Tiny Desk\]](https://open.spotify.com/album/1wuLdAWwgUfKx78vR4VXDj) | 4:52 | 2022-10-20 | 2022-11-18 |
+| [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-08 |  |
 | [Fade Out \- FOFU remix](https://open.spotify.com/track/1SJI6TfA3Rc5e2aXnBIDyE) | [fofu](https://open.spotify.com/artist/0s7Hki24pRQahhMRpU7n1U), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [Fade Out \(FOFU remix\)](https://open.spotify.com/album/2r7uJi4YQI4fhWEsYnmVs1) | 3:25 | 2022-03-24 | 2022-04-18 |
 | [FADED](https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [OASIS \(Prelude\)](https://open.spotify.com/album/41YLj80mj5GEaNkZnNLpYx) | 3:36 | 2021-12-23 | 2022-07-28 |
 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 | 2023-04-06 | 2023-07-14 |
@@ -335,7 +336,7 @@
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-07-28 | 2023-07-06 |
 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 | 2021-12-23 | 2022-07-25 |
 | [Talk About It](https://open.spotify.com/track/3mIK4mZ6dZbKNXU6yofkxB) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/4VCxXlazmRGUPkMyir90Jr) | 3:24 | 2022-03-24 | 2022-04-18 |
-| [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-07-20 |  |
+| [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-07-20 | 2023-09-09 |
 | [Tangerine \- Channel Tres Remix](https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tangerine \(Channel Tres Remix\)](https://open.spotify.com/album/2FuMGSJC5lI08kWandk65f) | 4:54 | 2021-12-23 | 2022-06-07 |
 | [Teleport](https://open.spotify.com/track/0Sl0DTpE41cXFwblnBt1UN) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/7H4nESb8FK8bqb7g1e5x0I) | 3:45 | 2022-08-11 | 2022-08-26 |
 | [Tell Him](https://open.spotify.com/track/0XsVWP7NBrKrQpqPJQDVrc) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Starfruit](https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL) | 3:54 | 2022-07-28 | 2022-08-12 |

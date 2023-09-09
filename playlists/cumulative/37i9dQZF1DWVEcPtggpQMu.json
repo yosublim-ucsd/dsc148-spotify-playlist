@@ -57,6 +57,28 @@
     },
     {
       "album": {
+        "name": "018",
+        "url": "https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195492,
+      "name": "018",
+      "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
+    },
+    {
+      "album": {
         "name": "018's Finest (Remix)",
         "url": "https://open.spotify.com/album/1y9ivDdAsmFrti4APZl910"
       },
@@ -403,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Adawise",
+        "url": "https://open.spotify.com/album/7wLpoVIC5jJPCiF1U74VB7"
+      },
+      "artists": [
+        {
+          "name": "ZULO",
+          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202750,
+      "name": "Adawise",
+      "url": "https://open.spotify.com/track/2u9E7r2kQCQxCU0x7SqJXt"
+    },
+    {
+      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/5uHTc3G3hWLoOq93ju4G6X"
       },
@@ -692,7 +732,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 164571,
       "name": "Another",
       "url": "https://open.spotify.com/track/0SB82LlvRKEbwHOcnYA7lu"
@@ -768,6 +808,32 @@
       "duration_ms": 221680,
       "name": "As We Lay",
       "url": "https://open.spotify.com/track/0yTKggaVlnD8DPmcg8AfXT"
+    },
+    {
+      "album": {
+        "name": "4 THE MO$H",
+        "url": "https://open.spotify.com/album/17TGlMTOKVFSxo6HGHQRlD"
+      },
+      "artists": [
+        {
+          "name": "Tae Africa",
+          "url": "https://open.spotify.com/artist/4rT8HuOGuYHDbMH9IsWMAo"
+        },
+        {
+          "name": "DJ Switch",
+          "url": "https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb"
+        },
+        {
+          "name": "Gaffi",
+          "url": "https://open.spotify.com/artist/6aPLtY1GA6d7GKOL266BR2"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Askies Ta",
+      "url": "https://open.spotify.com/track/482GKebxCgfhCaISuCidRV"
     },
     {
       "album": {
@@ -874,6 +940,24 @@
       "duration_ms": 160000,
       "name": "BABY BLUE 4\u2019s",
       "url": "https://open.spotify.com/track/1gFRWEKDNZAtrb1P4g7QHq"
+    },
+    {
+      "album": {
+        "name": "Back In",
+        "url": "https://open.spotify.com/album/3lozEYGZr6W8Q9TwtLX81o"
+      },
+      "artists": [
+        {
+          "name": "Nadia Nakai",
+          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "Back In",
+      "url": "https://open.spotify.com/track/4XTyp3Pw4R1PZm15CPiwVY"
     },
     {
       "album": {
@@ -1368,6 +1452,28 @@
       "duration_ms": 201326,
       "name": "Big Time Sh'lappa",
       "url": "https://open.spotify.com/track/6XAJRqHVGQ9F2w8BFOgMLK"
+    },
+    {
+      "album": {
+        "name": "4 THE MO$H",
+        "url": "https://open.spotify.com/album/17TGlMTOKVFSxo6HGHQRlD"
+      },
+      "artists": [
+        {
+          "name": "Tae Africa",
+          "url": "https://open.spotify.com/artist/4rT8HuOGuYHDbMH9IsWMAo"
+        },
+        {
+          "name": "DJ Switch",
+          "url": "https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201935,
+      "name": "Big Yonkinto",
+      "url": "https://open.spotify.com/track/4IvFWu97HE2SqiMENUWfxs"
     },
     {
       "album": {
@@ -5064,7 +5170,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 201398,
       "name": "Iphupho",
       "url": "https://open.spotify.com/track/0lbuUXHPJF8AFJczbV02Vt"
@@ -5244,7 +5350,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 219435,
       "name": "Jokers",
       "url": "https://open.spotify.com/track/5Vx33ZfYmSl9HHqk5xKwpt"
@@ -5390,6 +5496,28 @@
       "duration_ms": 213213,
       "name": "Kgalemela",
       "url": "https://open.spotify.com/track/4Xtf2Q2LtxwigCd0HIYSPy"
+    },
+    {
+      "album": {
+        "name": "Khaltsha (feat. YoungstaCPT)",
+        "url": "https://open.spotify.com/album/1lwZVx3vYTIaXwdeIIWide"
+      },
+      "artists": [
+        {
+          "name": "Dee Koala",
+          "url": "https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT"
+        },
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168088,
+      "name": "Khaltsha (feat. YoungstaCPT)",
+      "url": "https://open.spotify.com/track/1KpE5cwxbBAnYig1pqygDV"
     },
     {
       "album": {
@@ -11197,6 +11325,24 @@
     },
     {
       "album": {
+        "name": "Barry Marais",
+        "url": "https://open.spotify.com/album/1gRATZaD3nf8yw234CsZ0T"
+      },
+      "artists": [
+        {
+          "name": "Seru the Ellipsis",
+          "url": "https://open.spotify.com/artist/53P7uxJr3YQx2pmEtrSHmA"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192452,
+      "name": "Thuli Phongolo",
+      "url": "https://open.spotify.com/track/74ITSBoDW0XMEGdR5c0dA1"
+    },
+    {
+      "album": {
         "name": "Zolani",
         "url": "https://open.spotify.com/album/7GIaF4BEzHl0kGUfYCyHqz"
       },
@@ -12844,28 +12990,6 @@
       "duration_ms": 251134,
       "name": "Zamalek",
       "url": "https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6"
-    },
-    {
-      "album": {
-        "name": "Zero One Eight",
-        "url": "https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        }
-      ],
-      "date_added": "2023-09-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195492,
-      "name": "Zero One Eight",
-      "url": "https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4"
     },
     {
       "album": {

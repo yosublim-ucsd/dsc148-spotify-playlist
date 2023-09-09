@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Turnpike Troubadours",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
   "name": "Texas Country Now",
   "tracks": [
     {
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 212670,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa"
@@ -2248,6 +2248,24 @@
       "duration_ms": 232933,
       "name": "Devil's Den",
       "url": "https://open.spotify.com/track/3lBvbmPoXdmlDZrHYxxnu0"
+    },
+    {
+      "album": {
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+      },
+      "artists": [
+        {
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "album": {
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 237600,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/4ImB5tDz8EHehkCSLe6Ep7"
@@ -4413,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "If I Had a Dollar",
+        "url": "https://open.spotify.com/album/25Y4FqiX9zxgeWepeu2sd6"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292294,
+      "name": "If I Had a Dollar",
+      "url": "https://open.spotify.com/track/4PDiHpPfI0qr0HhIOyUNQn"
+    },
+    {
+      "album": {
         "name": "Worth the Wait",
         "url": "https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko"
       },
@@ -5024,6 +5060,24 @@
       "duration_ms": 183624,
       "name": "Livin' Like This",
       "url": "https://open.spotify.com/track/39k6k6fJmP1PSU6crfVuyl"
+    },
+    {
+      "album": {
+        "name": "Lonestar Lonely",
+        "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215322,
+      "name": "Lonestar Lonely",
+      "url": "https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj"
     },
     {
       "album": {
@@ -6818,7 +6872,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 267087,
       "name": "She Can't Be Found",
       "url": "https://open.spotify.com/track/0S7JGv7sbJlrr6BBMfRKye"
@@ -7940,7 +7994,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 215533,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/3uNWpnSPJzkQ1lUHeYj30d"
@@ -8760,7 +8814,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 222500,
       "name": "Warning Label",
       "url": "https://open.spotify.com/track/2MQZttVGYDyTEcCXVTdWa7"

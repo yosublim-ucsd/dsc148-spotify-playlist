@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Itzza Primera
 
-133 songs - 7 hr 11 min
+134 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,12 +54,13 @@
 | [El Año Empezo Mal](https://open.spotify.com/track/20NvZKN3wXwvtd2EDoyEPr) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [El Año Empezo Mal](https://open.spotify.com/album/4ZuqUFsNEU1O1yUInzLNjF) | 2:45 | 2022-03-11 | 2022-06-11 |
 | [El Señor \- Interludio](https://open.spotify.com/track/2cA9fp17pUpM96qhJB1gFT) | [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Sr\. Freddy Malaria](https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB) | 1:34 | 2023-07-28 | 2023-08-12 |
 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 | 2022-03-11 |  |
-| [Ella Baila Sola \- Remix](https://open.spotify.com/track/60VKPgWjpGbxeZHg6UIrdb) | [Dani Senay](https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [JAY ROZZ](https://open.spotify.com/artist/7EMWiEZp1AxYBKUVtXs29E) | [Ella Baila Sola \(Remix\)](https://open.spotify.com/album/7iEoLo3IScnBpmN0YYsmPa) | 4:29 | 2022-03-11 |  |
+| [Ella Baila Sola \- Remix](https://open.spotify.com/track/60VKPgWjpGbxeZHg6UIrdb) | [Dani Senay](https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [JAY ROZZ](https://open.spotify.com/artist/7EMWiEZp1AxYBKUVtXs29E) | [Ella Baila Sola \(Remix\)](https://open.spotify.com/album/7iEoLo3IScnBpmN0YYsmPa) | 4:29 | 2022-03-11 | 2023-09-09 |
 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 | 2022-05-11 |  |
 | [Error](https://open.spotify.com/track/2zJ72e7aoDwpyWkw8Ohz9T) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Error](https://open.spotify.com/album/4Iia6he8VBkkbiIXrsmGGN) | 2:53 | 2022-03-11 | 2023-08-12 |
 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 | 2022-03-11 |  |
 | [Espero Que Seas Feliz](https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:35 | 2022-03-11 | 2022-10-22 |
 | [Flixi Flaxi](https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Flixi Flaxi](https://open.spotify.com/album/5kIvpNW9CkRnEINlt9xKPT) | 3:28 | 2022-04-08 | 2022-05-14 |
+| [Freud](https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Ecolocalización](https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P) | 1:56 | 2023-09-08 |  |
 | [Fuego](https://open.spotify.com/track/18hAN4TYNwXERnzAzZu5Tt) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Fuego](https://open.spotify.com/album/1DtyUnwykOKQ6n0UE1Gj1B) | 3:34 | 2022-03-11 | 2022-04-09 |
 | [Halls de Menta](https://open.spotify.com/track/6irAgzFb8mbG8UlKITIMRA) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n) | [Halls de Menta](https://open.spotify.com/album/0dUimFfYkFEWcgzsqc3Oaf) | 3:50 | 2023-04-21 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:29 | 2022-07-08 | 2022-08-06 |

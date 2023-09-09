@@ -1,12 +1,12 @@
 {
   "description": "Country rap hits of today and tomorrow.",
-  "num_followers": 44482,
+  "num_followers": 44734,
   "original_name": "Country Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzE2NjhiNWEwZDZmODQxMGVmYTZkZGM4MWJiNWI0MTZjNDhiNWI3",
+  "snapshot_id": "MCw5ZGMzYWEwNzFiMmEzMWFhYzc2OWI5OGEyOTRjNTdlOWEwODM2YTAx",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -534,10 +534,6 @@
         {
           "name": "Bezz Believe",
           "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
-        },
-        {
-          "name": "Riff Raff",
-          "url": "https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o"
         }
       ],
       "duration_ms": 160941,

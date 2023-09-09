@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S?si=shPnXqyhTT-G7lLUAqHk-Q\">Wendy Shay</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel?si=5_sQXNf4RJCgFeSnPibtWA\">E.L </a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -408,7 +408,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 173526,
       "name": "Balance It (Remix)",
       "url": "https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 154909,
       "name": "Bambambila",
       "url": "https://open.spotify.com/track/0pra2tzfUFD43rP2VwVOHT"
@@ -564,6 +564,24 @@
       "duration_ms": 147272,
       "name": "Blind",
       "url": "https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae"
+    },
+    {
+      "album": {
+        "name": "Bobby Valentino",
+        "url": "https://open.spotify.com/album/1Hqtkum2zn5G7yxbjgG8MN"
+      },
+      "artists": [
+        {
+          "name": "Kweku AFro",
+          "url": "https://open.spotify.com/artist/3He2wkpGl19IUnTixjjntu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Bobby Valentino",
+      "url": "https://open.spotify.com/track/46RVXlIDm1IpyUUJNcFwV7"
     },
     {
       "album": {
@@ -954,6 +972,28 @@
       "duration_ms": 148000,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4KRgjRnrfCrKNJMHdW13yM"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
     },
     {
       "album": {
@@ -1424,7 +1464,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 253043,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L"
@@ -1504,7 +1544,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 166153,
       "name": "Freaky & Naughty",
       "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
@@ -2092,10 +2132,28 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 190839,
       "name": "Kuacha",
       "url": "https://open.spotify.com/track/2gQ4Z9XBBzDDi1EqhOj0K7"
+    },
+    {
+      "album": {
+        "name": "Kwaku Ananse",
+        "url": "https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206051,
+      "name": "Kwaku Ananse",
+      "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
     },
     {
       "album": {
@@ -2850,7 +2908,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 236202,
       "name": "Odo Dede",
       "url": "https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw"
@@ -3108,6 +3166,28 @@
       "duration_ms": 176116,
       "name": "Partey",
       "url": "https://open.spotify.com/track/5kT37vOS7z3VxV6o1B74cw"
+    },
+    {
+      "album": {
+        "name": "Party (feat. Kofi Kinaata)",
+        "url": "https://open.spotify.com/album/3Cfwrr5Gvc9ZvCTOdUsfCf"
+      },
+      "artists": [
+        {
+          "name": "Adina Thembi",
+          "url": "https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173009,
+      "name": "Party (feat. Kofi Kinaata)",
+      "url": "https://open.spotify.com/track/0QJ8rOhtRWBqLFWIogj4Yg"
     },
     {
       "album": {
@@ -4008,7 +4088,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 135625,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x"
@@ -4290,6 +4370,24 @@
       "duration_ms": 203918,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf"
+    },
+    {
+      "album": {
+        "name": "The Teacher",
+        "url": "https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY"
+      },
+      "artists": [
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "Who Say",
+      "url": "https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn"
     },
     {
       "album": {

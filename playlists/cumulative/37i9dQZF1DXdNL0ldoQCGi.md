@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-437 songs - 21 hr 52 min
+438 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Chapadinha na Gaveta](https://open.spotify.com/track/6n7CZFET4ezOR6F5T7J3oC) | [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Vanessa Lopes](https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Chapadinha na Gaveta](https://open.spotify.com/album/5CXtG2sHFTd7odjkLI7ezF) | 1:55 | 2022-11-17 | 2023-01-10 |
 | [Cheio de Vontade de Vencer](https://open.spotify.com/track/6bIJrA42pDDWlnmDcEBVsx) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Cheio de Vontade de Vencer](https://open.spotify.com/album/1llO0usFMPuqCDATxeRZHi) | 2:19 | 2023-01-10 | 2023-03-08 |
 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 | 2022-11-01 |  |
+| [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-08 |  |
 | [Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:18 | 2022-10-07 | 2022-11-08 |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/1ZV8n0wJ4htdpGRBEt25B6) | [intomusic brazil](https://open.spotify.com/artist/7a65BfOit4jjLQiH1jLz9N) | [Coisas Que Eu Sei](https://open.spotify.com/album/6L0TgC0N85KnF2cCL7t0es) | 3:05 | 2023-03-14 | 2023-04-12 |
 | [Colecionador de Porquês](https://open.spotify.com/track/2m1SByxe85M1tzoqmoE6AX) | [Igor Gonçalves](https://open.spotify.com/artist/398xkyrlwVAM4ZQQYdOrpB) | [Colecionador de Porquês](https://open.spotify.com/album/3ncsZ9HHmzLbPzTpA8XhyK) | 2:33 | 2023-06-08 | 2023-07-26 |
@@ -240,7 +241,7 @@
 | [Mega do Akon](https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7) | [DJ Jonatas Felipe](https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr), [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI) | [Mega do Akon](https://open.spotify.com/album/6sLUkJ8lvG5naRIOOF0TJC) | 2:25 | 2022-09-28 | 2022-10-01 |
 | [Meia Noite](https://open.spotify.com/track/09K1zzSVtouqzXBvAlmIG5) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Meia Noite](https://open.spotify.com/album/2A57QH1NYD9kKOvtUWa7k5) | 2:24 | 2022-11-07 | 2023-03-11 |
 | [Meio Pá](https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ), [UNKWN](https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU), [Scotz](https://open.spotify.com/artist/2rb4yUz7taAlwIu5hobMv4), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 2:59 | 2022-12-28 | 2023-03-11 |
-| [Melhor Versão](https://open.spotify.com/track/0Xyclx1QPOCp7YX9xbdgUo) | [JP Mota](https://open.spotify.com/artist/14tie44JCY9sM9OAEEI9UM) | [Melhor Versão](https://open.spotify.com/album/3cRZMW6mwRzgCe1PFhoCY5) | 3:09 | 2023-08-15 |  |
+| [Melhor Versão](https://open.spotify.com/track/0Xyclx1QPOCp7YX9xbdgUo) | [JP Mota](https://open.spotify.com/artist/14tie44JCY9sM9OAEEI9UM) | [Melhor Versão](https://open.spotify.com/album/3cRZMW6mwRzgCe1PFhoCY5) | 3:09 | 2023-08-15 | 2023-09-09 |
 | [Menozin É Abusado](https://open.spotify.com/track/7ED51LMfG28pKMGIW3CEy0) | [021 Richard](https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Menozin É Abusado](https://open.spotify.com/album/4x81PWFB5XqYGgj2KSB80w) | 2:38 | 2023-05-22 | 2023-07-18 |
 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 | 2022-07-28 | 2022-11-29 |
 | [Mimos](https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Mimos](https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF) | 3:20 | 2023-01-30 | 2023-03-14 |

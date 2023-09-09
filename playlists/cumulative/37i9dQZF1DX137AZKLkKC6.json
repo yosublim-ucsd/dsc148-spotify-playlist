@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/5FT5JbCNLUB6SO7eruWV65"
+      },
+      "artists": [
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        },
+        {
+          "name": "Daniel Merak",
+          "url": "https://open.spotify.com/artist/2L6yVNlAxswKK2Lv2qS9BK"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180644,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/7srhcfKVVgCyrBCEmmei90"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -659,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Corro A Tus Brazos",
+        "url": "https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224312,
+      "name": "Corro A Tus Brazos",
+      "url": "https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K"
+    },
+    {
+      "album": {
         "name": "Cupido Fall\u00f3",
         "url": "https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0"
       },
@@ -696,6 +740,28 @@
       "duration_ms": 187930,
       "name": "De Carne Y Hueso",
       "url": "https://open.spotify.com/track/3a4hDTHCAgQaCNUkkBLNq7"
+    },
+    {
+      "album": {
+        "name": "DE LUNES A LUNES",
+        "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "DE LUNES A LUNES",
+      "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
     },
     {
       "album": {
@@ -874,7 +940,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 189093,
       "name": "Direcci\u00f3n Equivocada",
       "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
@@ -896,6 +962,24 @@
       "duration_ms": 181001,
       "name": "Distancia 83",
       "url": "https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK"
+    },
+    {
+      "album": {
+        "name": "Obsessed Pt. 2",
+        "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197365,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
     },
     {
       "album": {
@@ -1070,7 +1154,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 215263,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI"
@@ -1771,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "Malo",
+        "url": "https://open.spotify.com/album/6Stvri2icQltU5XEPRfO2q"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209990,
+      "name": "Malo",
+      "url": "https://open.spotify.com/track/1DcVxDd20Hm4WjYcQRPfH1"
+    },
+    {
+      "album": {
         "name": "MAM\u00c1 PERD\u00d3N",
         "url": "https://open.spotify.com/album/2S7Lc5WX67KGJvlH6xk0ts"
       },
@@ -1800,7 +1902,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 193333,
       "name": "Mas Altas Que Bajadas",
       "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
@@ -2200,7 +2302,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 211523,
       "name": "No Sufrir\u00e9 por Nadie - Remix",
       "url": "https://open.spotify.com/track/4wxik78a6zidW8pshbCviV"
@@ -2396,7 +2498,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"

@@ -4,12 +4,13 @@
 
 > French scene makes some noise!
 
-281 songs - 17 hr 55 min
+282 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2022](https://open.spotify.com/track/2psnj8L3LQG8N4KlRrrXuO) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [2022](https://open.spotify.com/album/4TCcau3EhDdiBdWWL89BFN) | 2:45 | 2023-01-26 | 2023-02-07 |
 | [A Breach To The Cosmos](https://open.spotify.com/track/2u3GG2oC0rBnjCUbHkbRZv) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [A Breach To The Cosmos](https://open.spotify.com/album/2n2jUjEaw8932DlBLoQsRC) | 3:45 | 2023-06-29 | 2023-07-16 |
+| [A Glorious Time](https://open.spotify.com/track/2lDKw5ftLPRDFjwSsCBA81) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/1Ko1UEiwHBr9AMXPi9xALP) | 4:19 | 2023-08-24 |  |
 | [A Glorious Time](https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT) | 4:19 | 2021-12-31 | 2023-08-13 |
 | [A Hooded Witness](https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3) | 4:06 | 2023-07-19 |  |
 | [A Man Oustanding In His Field](https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [We The People Of The Soil](https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR) | 3:53 | 2021-12-15 |  |
@@ -35,7 +36,7 @@
 | [Beware Of Birds](https://open.spotify.com/track/1IOz13EgqA22jojuSD4QAb) | [Jack and the bearded fishermen](https://open.spotify.com/artist/3dA2NIoEt8X4q0KU4QycgJ) | [Beware Of Birds](https://open.spotify.com/album/4KmuhLn1p7YYbWlltDuI4Z) | 3:10 | 2022-01-27 | 2023-03-28 |
 | [Bitter](https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Gone Are The Good Days](https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2) | 3:11 | 2021-12-31 |  |
 | [Black Echoes](https://open.spotify.com/track/6FvVqAYg7ZOMFeRmHo08dv) | [Carmen Sea](https://open.spotify.com/artist/5OY8MWVQqEbhMmmxnBMy1X) | [HISS](https://open.spotify.com/album/78IBBrQjjTWiIkYSIrxtxN) | 2:43 | 2022-03-30 | 2022-07-28 |
-| [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 | 2021-12-15 |  |
+| [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 | 2021-12-15 | 2023-09-09 |
 | [Branque](https://open.spotify.com/track/4IFOzzLYdHxwfo3R8IrUhq) | [Bantam Lyons](https://open.spotify.com/artist/0PYUuiy5K17prjVHYVEhia) | [Branque](https://open.spotify.com/album/7zFdts2b5EzbzC104qgc7H) | 4:41 | 2021-12-15 | 2022-07-29 |
 | [Bride](https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Bride](https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj) | 2:58 | 2022-02-24 |  |
 | [Brother](https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory](https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH) | 3:18 | 2023-01-29 |  |

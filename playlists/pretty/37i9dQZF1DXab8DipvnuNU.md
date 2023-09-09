@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,065 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,179 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 47 | [Never Scared \(feat\. Killer Mike & T.I.\) \- Club Mix](https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC) | [Bone Crusher](https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [AttenCHUN!](https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi) | 5:16 |
 | 48 | [Crush on You](https://open.spotify.com/track/1bb6bROP3OXMHcPw84MtmN) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:35 |
 | 49 | [Shorty Wanna Ride](https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT) | [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Straight Outta Cashville](https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ) | 4:21 |
-| 50 | [Get By](https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Quality](https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg) | 3:47 |
-| 51 | [Danger \(Been So Long\) \(feat\. Nivea\)](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 3:31 |
+| 50 | [Danger \(Been So Long\) \(feat\. Nivea\)](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 3:31 |
+| 51 | [Get By](https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Quality](https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg) | 3:47 |
 | 52 | [Breathe](https://open.spotify.com/track/7fuoqve1SOEBmhc2PoQTF0) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Real Talk \(123\)](https://open.spotify.com/album/0852dsZQyLOGmvotlvOvoA) | 4:28 |
 | 53 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
 | 54 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 73 | [Barre Baby \(feat\. Ronnetta Spencer\)](https://open.spotify.com/track/1NVv0XLVxypQEuoQa4bjAQ) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [City Of Syrup](https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn) | 2:59 |
 | 74 | [25 Lighters](https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Fat Pat](https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh), [DJ DMD](https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL) | [From Coast To Coast](https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx) | 4:47 |
 | 75 | [Trap Or Die](https://open.spotify.com/track/4JHpFKUFC7uVzaXBBhjQeD) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:00 |
-| 76 | [Bout It, Bout It II](https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Mia X](https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu) | [Ice Cream Man](https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL) | 5:08 |
-| 77 | [It's a Party \(feat\. Zhane\)](https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:37 |
+| 76 | [It's a Party \(feat\. Zhane\)](https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:37 |
+| 77 | [Bout It, Bout It II](https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Mia X](https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu) | [Ice Cream Man](https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL) | 5:08 |
 | 78 | [Friends](https://open.spotify.com/track/2GLDYbNCRgsZTBhrBqhdm0) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:39 |
 | 79 | [Southside](https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Don't Mess Wit Texas](https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN) | 4:50 |
 | 80 | [The Way We Ball](https://open.spotify.com/track/5FEBritagmW6iAy5wL5uXg) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Undaground Legend \(Explicit\)](https://open.spotify.com/album/5GkzesERHAJvYGw3L5r4qm) | 4:43 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwwY2IzMjliODBkOGQ5MTIzOWU3NjM1Njc3Y2ZjZmQxNDU3ZGNmZWFk`
+Snapshot ID: `MCwzN2U5MGZiYzA5OTU0ZGU0NzVjODllYjFhNzg3OTRiNmRjNTY0Nzk3`

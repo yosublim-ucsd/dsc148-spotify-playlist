@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Better Than Ever",
+        "url": "https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh"
+      },
+      "artists": [
+        {
+          "name": "Video Age",
+          "url": "https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236188,
+      "name": "Better Than Ever",
+      "url": "https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1"
+    },
+    {
+      "album": {
         "name": "Art (2022 Remastered Deluxe)",
         "url": "https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU"
       },
@@ -392,7 +410,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 223226,
       "name": "Hold On (I Was Wrong)",
       "url": "https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH"
@@ -624,6 +642,28 @@
       "duration_ms": 173862,
       "name": "It Will Come In Time",
       "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
+    },
+    {
+      "album": {
+        "name": "Just My Type",
+        "url": "https://open.spotify.com/album/6c6w8VVedHHCiARs8hHV3W"
+      },
+      "artists": [
+        {
+          "name": "Swoodeasu",
+          "url": "https://open.spotify.com/artist/187GxxpJNas11L79Z6SAvD"
+        },
+        {
+          "name": "TSUYO",
+          "url": "https://open.spotify.com/artist/5AVe36Y90V3yjqeKtBvMCW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Just My Type",
+      "url": "https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7"
     },
     {
       "album": {
@@ -1218,7 +1258,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 171216,
       "name": "Strawberry Soju",
       "url": "https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP"

@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-154 songs - 7 hr 38 min
+155 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Awakening](https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Awakening](https://open.spotify.com/album/0AChUaHjN3SbGsBf68Awll) | 1:49 | 2022-12-30 | 2023-07-29 |
 | [Awareness](https://open.spotify.com/track/2RBhMHPkJBQMrVTjqpwtbW) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 3:15 | 2022-02-28 |  |
 | [Awe and Wonder](https://open.spotify.com/track/61TPtjqb4lT7RgzB9FJq5s) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [History Of The Sublime](https://open.spotify.com/album/45lIatZPk8qwDIkw7bje7o) | 3:20 | 2022-03-29 |  |
-| [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-02-28 |  |
+| [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-02-28 | 2023-09-09 |
 | [Before I Disappear](https://open.spotify.com/track/0D2NQGump2lZJpXMyGKE84) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Before I Disappear](https://open.spotify.com/album/4XqP9tgcozo06TbOUiVedP) | 1:49 | 2022-02-28 | 2023-07-29 |
 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 | 2022-02-28 |  |
 | [Behind Your Eyes](https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Behind Your Eyes](https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh) | 3:17 | 2022-02-28 |  |
@@ -138,6 +138,7 @@
 | [State of Existence](https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:56 | 2022-02-28 |  |
 | [Stills](https://open.spotify.com/track/76aOwjgXrk9f8SPhDcLXWz) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Stills](https://open.spotify.com/album/0dcqSIGN8na4KTTDlNYm3O) | 2:20 | 2022-02-28 |  |
 | [Story Untold](https://open.spotify.com/track/2Sd1qxVjFXFXeyIUSqDRwd) | [Vanja Thownsend](https://open.spotify.com/artist/0Bb4ZHmEDQeAKem2FyVXxT) | [Story Untold](https://open.spotify.com/album/6ug5e5SDgcyj7mqr2Pe6EN) | 3:39 | 2022-02-28 | 2022-04-22 |
+| [Summerskies](https://open.spotify.com/track/76MpzYCfhJomfDVahvPfS8) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Summerskies](https://open.spotify.com/album/5IQ8bJPxSu6mOGEemRxJJB) | 2:07 | 2023-09-08 |  |
 | [Sunset at the Veranda](https://open.spotify.com/track/1DSFdhs58XvcJs6OFFR6B2) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Sunset at the Veranda](https://open.spotify.com/album/0mnIZBUOqZjxG0Gn8Asp2o) | 2:38 | 2022-02-28 |  |
 | [Sweet Euphoria](https://open.spotify.com/track/6jqsohE1olmUcmL1a2u7Qz) | [Fields Of Glory](https://open.spotify.com/artist/6QxOhf5TjFWZH818Pn54mi) | [Memories Of Myanmar](https://open.spotify.com/album/5z37DNQzOrIC5e96arUClF) | 2:20 | 2022-10-21 |  |
 | [The Book Of Yoga](https://open.spotify.com/track/4tPIBR9sLZtovsTWNmXOWb) | [Demar Brisak](https://open.spotify.com/artist/7xkbL3vqclYAKnO7s7VBxh) | [The Book Of Yoga](https://open.spotify.com/album/3TVqinoDcLyLjqoZHhmoiJ) | 3:05 | 2022-02-28 | 2022-05-27 |

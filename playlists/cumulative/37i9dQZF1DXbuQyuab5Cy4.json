@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 219432,
       "name": "DEADZONE",
       "url": "https://open.spotify.com/track/3I8sa5jauQT4bDGLLsCPB0"
@@ -625,6 +625,32 @@
     },
     {
       "album": {
+        "name": "go_hard",
+        "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126766,
+      "name": "go_hard",
+      "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
+    },
+    {
+      "album": {
         "name": "Gore On The Dancefloor",
         "url": "https://open.spotify.com/album/1skU1xMU8zPjaoQ7BmI72o"
       },
@@ -644,7 +670,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 201931,
       "name": "Gore On The Dancefloor",
       "url": "https://open.spotify.com/track/57Y16Yl1Ocu9WC837zQJz1"
@@ -1019,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "NALGOTICA!",
+        "url": "https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114703,
+      "name": "NALGOTICA!",
+      "url": "https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr"
+    },
+    {
+      "album": {
         "name": "Subsidia Dusk: Vol. 1",
         "url": "https://open.spotify.com/album/25dFd4bki0DXZp2SzAgUAv"
       },
@@ -1198,6 +1242,24 @@
       "duration_ms": 203520,
       "name": "ON FIRE",
       "url": "https://open.spotify.com/track/4EDod7XFs8N9Fy1iG5RD4H"
+    },
+    {
+      "album": {
+        "name": "onyx palace",
+        "url": "https://open.spotify.com/album/5EgsZbmgKX9wxsK4OAShSG"
+      },
+      "artists": [
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133326,
+      "name": "onyx palace",
+      "url": "https://open.spotify.com/track/3tsbNogFr6tPtxR2zlvlnO"
     },
     {
       "album": {
@@ -1896,6 +1958,24 @@
       "duration_ms": 185800,
       "name": "THE SHOOTV",
       "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
+    },
+    {
+      "album": {
+        "name": "The Wikked",
+        "url": "https://open.spotify.com/album/089AZ3jIxNy7SXrBdboRBo"
+      },
+      "artists": [
+        {
+          "name": "Witchz",
+          "url": "https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184184,
+      "name": "The Wikked",
+      "url": "https://open.spotify.com/track/5Utr45KSO0UgwXAsrHtWYn"
     },
     {
       "album": {

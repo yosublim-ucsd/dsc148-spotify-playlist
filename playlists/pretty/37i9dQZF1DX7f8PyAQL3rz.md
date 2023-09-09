@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > tropa do ninguém tá puro muito menos o mc ig
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,939 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,173 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 64 | [Disney](https://open.spotify.com/track/0JsoISSv40wbMuKXkbkz57) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Favela Drill](https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ) | 2:43 |
 | 65 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 
-Snapshot ID: `MCw1NDkwMzRlOGMwNTI3OTk3ZGFkNTY1ODg0OWFhNWI3ZWNmODkzNTc0`
+Snapshot ID: `MCwwOTc4YjRkNWUwYzZjZmM1ODY5ZWVhZDdlNjdiNTEwZTNhM2NhNjhi`

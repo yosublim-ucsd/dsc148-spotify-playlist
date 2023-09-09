@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=Gz\-gf\_2HRjuD4YXGUfij1Q"> Makhadzi </a>
 
-295 songs - 16 hr 13 min
+296 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Amaphutha \(feat\. Master KG, Lowsheen & Murumba Pitch\)](https://open.spotify.com/track/0RTIcLHr6k9PWX7lizdyxM) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Amaphutha \(feat\. Master KG, Lowsheen & Murumba Pitch\)](https://open.spotify.com/album/2GMJgh17pztmTfoH740Xs0) | 6:16 | 2023-06-07 |  |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-08-02 |  |
 | [Askamaya](https://open.spotify.com/track/2w3DLrgR7d1BO1REYUuMEM) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Askamaya](https://open.spotify.com/album/3vrggFAtpEoG1WxYRBmf7t) | 2:55 | 2023-04-05 | 2023-06-07 |
-| [Attends](https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Attends](https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB) | 2:25 | 2023-09-06 |  |
+| [Attends](https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Attends](https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB) | 2:25 | 2023-09-06 | 2023-09-09 |
+| [Attends](https://open.spotify.com/track/76FDqd8q0IyglKTldjg74E) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Attends](https://open.spotify.com/album/1ovpuig6nX90xFW8rLVy2d) | 2:28 | 2023-09-06 |  |
 | [B.D.E](https://open.spotify.com/track/3dA0G86SQEoj2vKjzjHoAf) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB), [Mr\. Kamera](https://open.spotify.com/artist/3DhTrOPm6Q2HrXgNTddwG5) | [B.D.E](https://open.spotify.com/album/3wZHmMYZfRuGrp41PBrTW5) | 2:54 | 2022-03-08 | 2022-04-06 |
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-02-01 | 2023-06-07 |
 | [Baby Baby](https://open.spotify.com/track/6MmK3bPN7ftP8q66pFwhUu) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY), [Joochar](https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp) | [Baby Baby](https://open.spotify.com/album/1rmVOqMkrFHav8QZd2qdzU) | 4:00 | 2022-03-08 | 2022-04-06 |

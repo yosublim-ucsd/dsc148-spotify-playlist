@@ -1,13 +1,45 @@
 {
   "description": "Ft. re6ce",
-  "num_followers": 25935,
+  "num_followers": 26104,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzdkMTk1ZGFmODUxMDJhY2U1MWQ5ZWY3NDkxMjlkZGMxZDY4Yjdi",
+  "snapshot_id": "MCwxOWM4NTM1Nzk5NDI5NjZhM2RlODkzMWM2ZWRiMTgwZjY4NzNmMjNh",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "I feel like doing candy flips and riding elephants",
+        "url": "https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "candyflips!",
+      "url": "https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn"
+    },
+    {
+      "added_at": "2023-08-04 13:26:40",
+      "album": {
+        "name": "angels",
+        "url": "https://open.spotify.com/album/2ahAvViHDFbt74G69KLHlr"
+      },
+      "artists": [
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 169722,
+      "name": "angels",
+      "url": "https://open.spotify.com/track/6wCLVKb22rGMBG7QOobpVX"
+    },
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
@@ -41,20 +73,20 @@
       "url": "https://open.spotify.com/track/4fy7qneM9uEKod8V7ZXoIP"
     },
     {
-      "added_at": "2023-08-04 13:26:40",
+      "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "angels",
-        "url": "https://open.spotify.com/album/2ahAvViHDFbt74G69KLHlr"
+        "name": "Prelude To Cupid",
+        "url": "https://open.spotify.com/album/0MrMikCJXVv8txn6gyTO3u"
       },
       "artists": [
         {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
         }
       ],
-      "duration_ms": 169722,
-      "name": "angels",
-      "url": "https://open.spotify.com/track/6wCLVKb22rGMBG7QOobpVX"
+      "duration_ms": 100114,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/2pJavDqKkQvhrVv7RAc8yd"
     },
     {
       "added_at": "2023-08-04 13:26:40",
@@ -91,6 +123,22 @@
       "duration_ms": 129759,
       "name": "COMEDOWN",
       "url": "https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "toler",
+        "url": "https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "duration_ms": 105004,
+      "name": "toler",
+      "url": "https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS"
     },
     {
       "added_at": "2023-08-18 22:50:31",
@@ -275,6 +323,22 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
+        "name": "cybercrush222",
+        "url": "https://open.spotify.com/album/09xWmIzUAG9kuyCUMupEQa"
+      },
+      "artists": [
+        {
+          "name": "han.irl <3",
+          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
+        }
+      ],
+      "duration_ms": 119476,
+      "name": "cybercrush222",
+      "url": "https://open.spotify.com/track/0E4wLngBTydfvANcDA6k6O"
+    },
+    {
+      "added_at": "2023-08-04 13:26:08",
+      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -287,26 +351,6 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "watercolor puddles",
-        "url": "https://open.spotify.com/album/1cYC9YUVa23K5pTDQY8Aqb"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        }
-      ],
-      "duration_ms": 119115,
-      "name": "watercolor puddles",
-      "url": "https://open.spotify.com/track/19FYyDf5RgRdW80nPcYA4R"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -535,22 +579,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "Count of three (You can eat $#@!)",
-        "url": "https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 159110,
-      "name": "Count of three (You can eat $#@!)",
-      "url": "https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "junkie",
         "url": "https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP"
       },
@@ -571,22 +599,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "repeat",
-        "url": "https://open.spotify.com/album/0Zryy6U8gekzpPwrciTF5f"
-      },
-      "artists": [
-        {
-          "name": "heylog",
-          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "repeat",
-      "url": "https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "difficult",
         "url": "https://open.spotify.com/album/4wFsQRPPnYc2k73yUldWEh"
       },
@@ -603,22 +615,6 @@
       "duration_ms": 124584,
       "name": "difficult",
       "url": "https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "cybercrush222",
-        "url": "https://open.spotify.com/album/09xWmIzUAG9kuyCUMupEQa"
-      },
-      "artists": [
-        {
-          "name": "han.irl <3",
-          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
-        }
-      ],
-      "duration_ms": 119476,
-      "name": "cybercrush222",
-      "url": "https://open.spotify.com/track/0E4wLngBTydfvANcDA6k6O"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -883,22 +879,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "battle",
-        "url": "https://open.spotify.com/album/5ggDewxZAS4HZNwdb4MBsx"
-      },
-      "artists": [
-        {
-          "name": "kaido",
-          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
-        }
-      ],
-      "duration_ms": 77300,
-      "name": "battle",
-      "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "The Industry (don't care)",
         "url": "https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR"
       },
@@ -924,7 +904,7 @@
           "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
         }
       ],
-      "duration_ms": 182535,
+      "duration_ms": 182549,
       "name": "ecstasy",
       "url": "https://open.spotify.com/track/762QMcwFiDNGhu2eruCJQK"
     },
@@ -1035,22 +1015,6 @@
       "duration_ms": 162162,
       "name": "better off dead",
       "url": "https://open.spotify.com/track/5rFK78i7giot3tu9nq7mZN"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "the world is ending and i can't stop crying over these frog boots",
-        "url": "https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7"
-      },
-      "artists": [
-        {
-          "name": "Vaeo",
-          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
-        }
-      ],
-      "duration_ms": 157674,
-      "name": "the world is ending and i can't stop crying over these frog boots",
-      "url": "https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1279,42 +1243,6 @@
       "duration_ms": 140571,
       "name": "Think About It",
       "url": "https://open.spotify.com/track/4zfHRKOXhzjAoSsN5OZqSn"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "ur the devil and i\u2019ve seen the truth (feat. Verzache)",
-        "url": "https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn"
-      },
-      "artists": [
-        {
-          "name": "remy",
-          "url": "https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw"
-        },
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        }
-      ],
-      "duration_ms": 158173,
-      "name": "ur the devil and i\u2019ve seen the truth (feat. Verzache)",
-      "url": "https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
-        "name": "crash test dummy",
-        "url": "https://open.spotify.com/album/3QHo6SpbeIvNt9FomeXFU3"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "crash test dummy",
-      "url": "https://open.spotify.com/track/2Ui0cq4BDOnjOFnFoLkiAj"
     },
     {
       "added_at": "2023-08-04 13:26:08",
@@ -1835,22 +1763,6 @@
     {
       "added_at": "2023-08-04 13:26:08",
       "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Where I Met U",
-      "url": "https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de"
-    },
-    {
-      "added_at": "2023-08-04 13:26:08",
-      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/20ro3WFXJdS2rkF7kZ0CwY"
       },
@@ -2284,7 +2196,7 @@
           "url": "https://open.spotify.com/artist/4bXXeAmSSTlMcSI0pJXDQ6"
         }
       ],
-      "duration_ms": 158222,
+      "duration_ms": 158229,
       "name": "rewind",
       "url": "https://open.spotify.com/track/2pEghi3eW1nqHyIF3NTtg0"
     },

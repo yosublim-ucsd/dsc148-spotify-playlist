@@ -4,7 +4,7 @@
 
 > The coziest rooms produce the most comforting tunes\. Cover: Spill Tab
 
-888 songs - 1 day 22 hr 13 min
+890 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 | 2020-10-16 |  |
 | [Baby Please](https://open.spotify.com/track/6c1T4m4RcD1RMF7ROmcbh2) | [Black Pool](https://open.spotify.com/artist/4lglBegCfNnjzAqs9DBQXm) | [Joven Pirata](https://open.spotify.com/album/6cA1uZ6Mwy9C1EC4h04tQl) | 2:14 | 2019-07-31 | 2022-04-21 |
 | [Backboard](https://open.spotify.com/track/2B97yOwPdVbkrg84pnyu33) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 3](https://open.spotify.com/album/4dEE30w7vPP00iZa7FoGY3) | 2:55 | 2022-04-29 | 2022-07-27 |
+| [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-09-08 |  |
 | [bad day](https://open.spotify.com/track/5612zrK8d3HhPCobx2Kuci) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [bad day](https://open.spotify.com/album/7vTPUsgBPNHmB3T1hoQOJO) | 2:04 | 2021-05-06 | 2021-05-28 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-03-04 | 2022-07-13 |
 | [baggage](https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [baggage](https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE) | 2:10 | 2023-08-18 |  |
@@ -411,6 +412,7 @@
 | [IN A DREAM](https://open.spotify.com/track/1Lrm01aadgKEkg1uTPRRu7) | [Jack Omstead](https://open.spotify.com/artist/3o9Z1zKnJEIuPtu20rQ8Br) | [IN A DREAM](https://open.spotify.com/album/1KxpWvbvntMFQW7G5OzJLa) | 2:02 | 2021-10-29 | 2022-04-21 |
 | [In a Mood](https://open.spotify.com/track/7vpvMspRgoeBTxOwP44a1Q) | [TheSecondSex](https://open.spotify.com/artist/2TLvEQjCrq7LCZD3A7zUpi) | [In a Mood](https://open.spotify.com/album/6AdQ6hDRrXbwPjC8a64oiY) | 4:07 | 2019-08-01 | 2021-05-27 |
 | [In Dreams...](https://open.spotify.com/track/1OghGAJGDks8X4y8KMQy4X) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [In Dreams / Anais](https://open.spotify.com/album/09vRkhxE5jc9QdeRoTXp21) | 2:19 | 2019-07-30\* | 2020-02-26 |
+| [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 | 2023-09-08 |  |
 | [In My Bag](https://open.spotify.com/track/61W0YnfMvSdmogcvikIvs6) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [In My Bag](https://open.spotify.com/album/2oXWsC6HbR7tuMOkPgdZBJ) | 2:45 | 2021-04-29 | 2021-05-28 |
 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 | 2023-03-21 | 2023-06-10 |
 | [In Too Deep](https://open.spotify.com/track/1JufjjiYDVYzormD09fbxX) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [In Too Deep](https://open.spotify.com/album/401nuIcawYgBTwVf69xECR) | 3:48 | 2021-02-24 | 2021-07-31 |
@@ -631,7 +633,7 @@
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-26 | 2022-04-21 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-14 | 2023-04-18 |
 | [Romantic Lover](https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 1:26 | 2021-05-12 | 2022-04-08 |
-| [Rosie](https://open.spotify.com/track/7EKWWTPclVRF5iQatYe5Zz) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Rosie](https://open.spotify.com/album/3GJ9haDGL5iCKfeHdjG00C) | 3:20 | 2023-07-14 |  |
+| [Rosie](https://open.spotify.com/track/7EKWWTPclVRF5iQatYe5Zz) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Rosie](https://open.spotify.com/album/3GJ9haDGL5iCKfeHdjG00C) | 3:20 | 2023-07-14 | 2023-09-09 |
 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 | 2023-04-17 | 2023-07-19 |
 | [Runnin'](https://open.spotify.com/track/5fHKmuV7ynN0l0stAcihSU) | [The Bops](https://open.spotify.com/artist/1fyRvkJhv7HM7M481LqsYX) | [WideSteppin](https://open.spotify.com/album/6J7Dz8p9tgza1x0zBbxqmL) | 2:55 | 2021-04-30 | 2021-06-09 |
 | [Running](https://open.spotify.com/track/3Dtr5e9OQGML2f48A6mw9P) | [Nicotine's Famous Honey](https://open.spotify.com/artist/111M3zZe92O4PHvKBl8nCT), [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/2o2FwH5tC3U3KmcyrqqCI4) | 4:07 | 2019-07-31 | 2021-05-27 |
@@ -873,7 +875,7 @@
 | [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2019-07-31 | 2021-07-20 |
 | [Yams](https://open.spotify.com/track/1rqNoC7nFrD7ZqQlt3XQxM) | [Jupie](https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28) | [Yams](https://open.spotify.com/album/5oSecm9CaEpXWDGMdyg9Wl) | 2:40 | 2020-06-12 | 2021-05-27 |
 | [Yeah Right](https://open.spotify.com/track/2815rSBccLxZc67jEWBEvD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Yeah Right](https://open.spotify.com/album/4lSynJxg1TaU4Mv0t9qz4c) | 2:54 | 2019-07-30\* | 2022-04-09 |
-| [Yesterdays](https://open.spotify.com/track/5WIMzFD706brPJqjLkumg7) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Yesterdays](https://open.spotify.com/album/0788lCeRdmq1AAwa4Lx6bF) | 2:49 | 2023-07-14 |  |
+| [Yesterdays](https://open.spotify.com/track/5WIMzFD706brPJqjLkumg7) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Yesterdays](https://open.spotify.com/album/0788lCeRdmq1AAwa4Lx6bF) | 2:49 | 2023-07-14 | 2023-09-09 |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2021-03-23 | 2022-12-15 |
 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2021-03-23 | 2022-07-29 |
 | [You](https://open.spotify.com/track/2cNLCyTp8XSznmPZuhlpT0) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [Parkview Demos](https://open.spotify.com/album/4K0FxYHsvGvMudEq3SsdY3) | 4:52 | 2019-07-30\* | 2021-05-26 |

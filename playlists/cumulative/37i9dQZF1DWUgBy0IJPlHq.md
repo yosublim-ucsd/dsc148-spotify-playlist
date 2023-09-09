@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Turnpike Troubadours
+> A new shade of Country\. Cover: Tyler Childers
 
-481 songs - 1 day 5 hr 45 min
+483 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [American Gothic \(feat\. Hailey Whitters\)](https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [bon aqua EP](https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA) | 3:15 | 2023-03-24 |  |
 | [Angel Band \- Jubilee Version](https://open.spotify.com/track/2phdhdIaCUVJgxuRVP2N18) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Angel Band](https://open.spotify.com/album/0UITnXFaup7lHYV1WcQSFT) | 6:12 | 2022-09-09 |  |
 | [Annabel](https://open.spotify.com/track/31sPBzIbIWhQKUTGRXNsey) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Annabel](https://open.spotify.com/album/2E2H6VKc8TBelmh3eq2crO) | 3:00 | 2022-02-18 | 2022-03-12 |
-| [Baby, I’m Still Right Here \(With You\)](https://open.spotify.com/track/2ja6VjvbJOD2opSjuOMtWJ) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Baby, I’m Still Right Here \(With You\)](https://open.spotify.com/album/5ZSOR0Jr5SxevGVj01RVnY) | 3:34 | 2023-06-16 |  |
+| [Baby, I’m Still Right Here \(With You\)](https://open.spotify.com/track/2ja6VjvbJOD2opSjuOMtWJ) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Baby, I’m Still Right Here \(With You\)](https://open.spotify.com/album/5ZSOR0Jr5SxevGVj01RVnY) | 3:34 | 2023-06-16 | 2023-09-09 |
 | [Backwater Blues](https://open.spotify.com/track/0grIyohjE5IbgzKfDKcEbL) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [No Regular Dog](https://open.spotify.com/album/4EXZpL5czHAtbnv1KbLSMs) | 2:49 | 2022-08-12 | 2023-05-06 |
 | [Ballad Of Lost](https://open.spotify.com/track/4xSBlVA2y2bGbpgmZDzGWM) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 5:14 | 2021-12-17 | 2022-03-26 |
 | [Barbed Wire](https://open.spotify.com/track/5ufHIJd13aYFCGAvcOWHOp) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:23 | 2021-12-17 | 2022-02-19 |
@@ -113,7 +113,7 @@
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 |  |
 | [Dark Black Coal](https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 4:14 | 2023-05-05 |  |
 | [Darlin’](https://open.spotify.com/track/2oLiG3wsAPUUR4dqYTvxx9) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Always, All Ways](https://open.spotify.com/album/0XYiD14vxa2hONBC6F1eUH) | 5:20 | 2022-12-16 | 2023-04-15 |
-| [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-27 |  |
+| [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-27 | 2023-09-09 |
 | [Dead Horses](https://open.spotify.com/track/2Q7I80HWsO2ErmkDQmHXjO) | [The Local Honeys](https://open.spotify.com/artist/3KXxNSegk9keTDArt5YQMm) | [Dead Horses](https://open.spotify.com/album/0XTIUwu8bX77kLDQEp8ZIc) | 4:01 | 2022-05-13 | 2022-08-06 |
 | [Dear Miss Loretta](https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Dear Miss Loretta](https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn) | 3:40 | 2021-12-17 | 2022-03-05 |
 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 | 2023-02-24 |  |
@@ -196,6 +196,7 @@
 | [Heaven And Hell](https://open.spotify.com/track/0BDQdlIl4FQ0fa6HxJrz0o) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:22 | 2021-12-17 | 2021-12-24 |
 | [Hell Bent on Hard Times](https://open.spotify.com/track/4GdwUIEyaELYfl5AxegcR0) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Hell Bent on Hard Times](https://open.spotify.com/album/0DDPNvAR0bDrp7zrkqsYNU) | 4:17 | 2022-07-15 | 2023-03-25 |
 | [Here for You](https://open.spotify.com/track/6B2dIHvZz7NgfxLN3eQAah) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE) | 4:51 | 2021-12-17 | 2022-01-29 |
+| [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-08 |  |
 | [High Heels](https://open.spotify.com/track/1K2YZyRxCsUSIoqAriiYQj) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [High Heels](https://open.spotify.com/album/6yIGyDzTIV1nkyN6Po3U2u) | 3:22 | 2022-03-04 | 2022-04-02 |
 | [High School Gym](https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [High School Gym](https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ) | 4:10 | 2022-08-19 | 2023-04-09 |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2021-12-17 | 2022-05-20 |
@@ -353,6 +354,7 @@
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 | 2022-04-02 |
 | [Russell County Line](https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Russell County Line](https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h) | 4:09 | 2022-03-11 | 2022-05-14 |
 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 | 2022-05-13 |  |
+| [Rustin' In The Rain](https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 3:36 | 2023-09-08 |  |
 | [Rusty](https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [The Hometown Kid](https://open.spotify.com/album/0BcZyoVBPOaZyjm8E4Kc4H) | 4:26 | 2022-12-09 |  |
 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 | 2021-12-17 | 2022-03-12 |
 | [Salt Flats](https://open.spotify.com/track/2MrRxcr9O26welk5uHNx9D) | [Gregory Griffin](https://open.spotify.com/artist/2X5MgOonxm9lBdynM9lSAb) | [Salt Flats](https://open.spotify.com/album/462OQbyTeXOCECsUSeYBSI) | 3:27 | 2021-12-17 | 2022-01-15 |

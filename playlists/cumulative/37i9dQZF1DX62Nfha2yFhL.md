@@ -4,13 +4,13 @@
 
 > every day soul with a funky groove for a laid back day.
 
-151 songs - 8 hr 49 min
+152 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Minutes](https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [5 Minutes](https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL) | 3:15 | 2022-10-07 |  |
 | [Adonis \- feat\. KIRBY](https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Adonis](https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW) | 3:39 | 2022-11-18 |  |
-| [Alice Through The Looking Glass](https://open.spotify.com/track/3oN33FsvKUUT0l8JC7NOf6) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Alice Through The Looking Glass](https://open.spotify.com/album/3qcUuHGufDVNatGDwelG6X) | 4:18 | 2023-08-25 |  |
+| [Alice Through The Looking Glass](https://open.spotify.com/track/3oN33FsvKUUT0l8JC7NOf6) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Alice Through The Looking Glass](https://open.spotify.com/album/3qcUuHGufDVNatGDwelG6X) | 4:18 | 2023-08-25 | 2023-09-09 |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/68j5DYmCikBzcp60Sv6xWO) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/album/4vSD7Y3Ob3H5nhfgWX8OPf) | 4:03 | 2021-10-22 | 2022-09-10 |
 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 | 2023-02-10 |  |
 | [all of your love](https://open.spotify.com/track/0E8GYDcN69ahYTUEQMTHNr) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [all of your love](https://open.spotify.com/album/3HEGCuxlqu4t5AYrjwLdR8) | 3:38 | 2021-10-22 |  |
@@ -137,6 +137,7 @@
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2021-10-22 | 2022-07-23 |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 | 2023-03-24 |  |
 | [Something Different](https://open.spotify.com/track/7kjU2PdLXMBZfPnAgX1ZuA) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Something Different](https://open.spotify.com/album/7GrnInJDvEyalLmTzAc8E4) | 5:18 | 2023-06-01 |  |
+| [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 | 2023-09-08 |  |
 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 | 2021-10-22 |  |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2021-10-22 |  |
 | [Stop \(Askin' Me 4Shyt\)](https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:51 | 2023-08-25 |  |

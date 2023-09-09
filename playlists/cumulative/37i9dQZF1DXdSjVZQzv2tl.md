@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Gusttavo Lima, Matheus & Kauan
+> O melhor do sertanejo em uma só playlist! Foto: Henrique & Juliano
 
-159 songs - 7 hr 32 min
+160 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/48LEhRW4gLMCVSYFEZvt8b) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Assume a Gente \(Ao Vivo\)](https://open.spotify.com/album/2Uf3XivKw12Ic7J3YMwSXy) | 2:51 | 2022-07-22 | 2023-07-18 |
 | [Assunto Delicado \- Ao Vivo](https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Assunto Delicado \(Ao Vivo\)](https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT) | 3:00 | 2022-08-26 | 2023-08-19 |
 | [Até Falar Chega \(feat\. Matheus & Kauan\) \- Ao Vivo](https://open.spotify.com/track/0uoNRN1bvHcsGrrTa44Mj7) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 3:28 | 2021-12-31 | 2022-04-07 |
+| [Barulho Do Foguete \- Ao Vivo](https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z) | 2:13 | 2023-09-08 |  |
 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 | 2022-08-22 |  |
 | [Batom de Cereja \- Ao Vivo](https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 2:20 | 2021-12-31 | 2022-02-19 |
 | [Beijo de Glicose \- Ao Vivo](https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Beijo de Glicose \(Ao Vivo\)](https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC) | 2:51 | 2022-09-09 |  |
@@ -120,7 +121,7 @@
 | [Não Vitalício \(Nunca Mais\) \- Ao Vivo](https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Não Vitalício \(Nunca Mais\) \[Ao Vivo\]](https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB) | 2:49 | 2023-02-10 |  |
 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 | 2021-12-31 | 2022-01-08 |
 | [Oficializar \- Ao Vivo](https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Oficializar \(Ao Vivo\)](https://open.spotify.com/album/2pU9UzS827vpfB5NHy7N4t) | 2:47 | 2023-09-01 |  |
-| [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 | 2023-03-03 |  |
+| [Oi Balde \- Ao Vivo](https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC) | 2:39 | 2023-03-03 | 2023-09-09 |
 | [Oi Vida \- Ao Vivo](https://open.spotify.com/track/4lL0M9HzNFspnIwj2WfU6c) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Oi Vida \(Ao Vivo\)](https://open.spotify.com/album/7lxRjlrkKb1dn5kgtAY09M) | 2:12 | 2023-08-04 |  |
 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 | 2022-11-08 |  |
 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 | 2023-01-20 | 2023-03-10 |

@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "If I Speak (Shut The Fuck Up)",
+        "url": "https://open.spotify.com/album/3CfmxDJ95NdqqHdDumeYt1"
+      },
+      "artists": [
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157217,
+      "name": "If I Speak (Shut The Fuck Up)",
+      "url": "https://open.spotify.com/track/2YB9zdlis5KT7v9CA4Iha2"
+    },
+    {
+      "album": {
         "name": "Imperialist Reign / Summer Trend",
         "url": "https://open.spotify.com/album/0ZcAEVm9B7eLqB3LWRX5lL"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 206245,
       "name": "Jump!! (Or Get Jumped!!!)((by the future))",
       "url": "https://open.spotify.com/track/0SIF3BX8DeyijHhQiF7g40"

@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Thrashrockin' Beats",
+        "url": "https://open.spotify.com/album/1cG3hyMWQvl3F1r1p6STmw"
+      },
+      "artists": [
+        {
+          "name": "Wake up Frankie",
+          "url": "https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233276,
+      "name": "Bloodlust",
+      "url": "https://open.spotify.com/track/4aRTCthZKuSbZB5C5oDKtT"
+    },
+    {
+      "album": {
         "name": "The Satanist",
         "url": "https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq"
       },
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 236106,
       "name": "Contorted Monuments",
       "url": "https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 281298,
       "name": "Death March",
       "url": "https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS"
@@ -2754,6 +2772,24 @@
       "duration_ms": 275690,
       "name": "Feast Of Ashes",
       "url": "https://open.spotify.com/track/7mud2jZvEM4WBtMQ9Iv8sO"
+    },
+    {
+      "album": {
+        "name": "Fenrir",
+        "url": "https://open.spotify.com/album/5lIiSMEaUQHaxf0Gpf09AD"
+      },
+      "artists": [
+        {
+          "name": "Where's My Bible",
+          "url": "https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293391,
+      "name": "Fenrir",
+      "url": "https://open.spotify.com/track/32bvdoHRLp74pgA4JsMaGh"
     },
     {
       "album": {
@@ -4004,6 +4040,24 @@
       "duration_ms": 471280,
       "name": "I Troldskog Faren Vild",
       "url": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
+    },
+    {
+      "album": {
+        "name": "Iku-Turso",
+        "url": "https://open.spotify.com/album/6BHQPJPQCyRSk4wiAHniNP"
+      },
+      "artists": [
+        {
+          "name": "Wolfheart",
+          "url": "https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277959,
+      "name": "Iku-Turso",
+      "url": "https://open.spotify.com/track/7x80QmX9qhW4jEbZrE7mDD"
     },
     {
       "album": {
@@ -7386,7 +7440,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 217640,
       "name": "The Bride of Corinth",
       "url": "https://open.spotify.com/track/7Hzq8rzkH0LjKSRSXwFXYD"

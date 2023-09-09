@@ -409,6 +409,28 @@
     },
     {
       "album": {
+        "name": "BIG BOSS",
+        "url": "https://open.spotify.com/album/0OCfRsE8CwqK5p3btp1EBv"
+      },
+      "artists": [
+        {
+          "name": "T.Howell",
+          "url": "https://open.spotify.com/artist/4CzJiPo76fJ1a5Rm2bwxP3"
+        },
+        {
+          "name": "Jeter Jones",
+          "url": "https://open.spotify.com/artist/66cHA84K27hhCReCYTgQVF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "BIG BOSS",
+      "url": "https://open.spotify.com/track/49lBwbL8cwLErPMGUqrcgV"
+    },
+    {
+      "album": {
         "name": "Biggest Little Secret",
         "url": "https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN"
       },
@@ -1260,7 +1282,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 165625,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/7rijhdaZILNVlSQSfPOOky"
@@ -2777,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Dirty Shine",
+        "url": "https://open.spotify.com/album/5R5LNbzSStAde5KSAh053m"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196791,
+      "name": "OverdoZZe",
+      "url": "https://open.spotify.com/track/4DG8UGktFzHUM72KUID52A"
+    },
+    {
+      "album": {
         "name": "OZARK",
         "url": "https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6"
       },
@@ -2824,7 +2864,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 183896,
       "name": "Please Take My Hand",
       "url": "https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi"

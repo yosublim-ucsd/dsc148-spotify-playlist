@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "The Man in Me (Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978)",
+        "url": "https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231960,
+      "name": "The Man in Me - Live at Nippon Budokan Hall, Tokyo, Japan - March 1, 1978",
+      "url": "https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM"
+    },
+    {
+      "album": {
         "name": "Neil Young at Live Aid (Live at John F. Kennedy Stadium, 13th July 1985)",
         "url": "https://open.spotify.com/album/31rLr6NpNw9wggFD4QGfhD"
       },

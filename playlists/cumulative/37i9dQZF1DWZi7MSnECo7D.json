@@ -6523,6 +6523,28 @@
     },
     {
       "album": {
+        "name": "M\u00fasica do Esquecimento",
+        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
+      },
+      "artists": [
+        {
+          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
+          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
+        },
+        {
+          "name": "Negro Leo",
+          "url": "https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159229,
+      "name": "Quem vai apagar a luz",
+      "url": "https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG"
+    },
+    {
+      "album": {
         "name": "Querer Nunca Fez Planos",
         "url": "https://open.spotify.com/album/6JrS5ydirAAPoXipEYqD6I"
       },

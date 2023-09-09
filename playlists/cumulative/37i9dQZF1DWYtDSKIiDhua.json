@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Jorja Smith",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: KYLE",
   "name": "mood.",
   "tracks": [
     {
@@ -7262,6 +7262,28 @@
       "duration_ms": 185221,
       "name": "See You Tonight",
       "url": "https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD"
+    },
+    {
+      "album": {
+        "name": "SEEING PINK",
+        "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "SEEING PINK",
+      "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
     },
     {
       "album": {

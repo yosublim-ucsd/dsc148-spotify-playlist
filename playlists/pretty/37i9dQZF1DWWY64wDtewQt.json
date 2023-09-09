@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 6443879,
+  "num_followers": 6451479,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODMxMDJjZDUwYWI5NDNkOTNlNzhkNmExMjQ1Yjg4MmIxY2NmZDJl",
+  "snapshot_id": "MCwxOTUwZTU2NTNlMGJhYTA2OGYyZmJkMzczYWYyYjUxY2Y1YzE4MTU5",
   "tracks": [
     {
       "added_at": "2023-06-02 17:32:35",
@@ -309,6 +309,26 @@
       "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
     },
     {
+      "added_at": "2023-09-08 15:16:54",
+      "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
       "added_at": "2023-08-04 15:24:45",
       "album": {
         "name": "Memory Reboot",
@@ -433,24 +453,24 @@
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
-      "added_at": "2022-05-20 10:12:52",
+      "added_at": "2023-07-21 09:05:00",
       "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+        "name": "YUM YUM",
+        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
       "artists": [
         {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
         },
         {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         }
       ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
+      "duration_ms": 129697,
+      "name": "YUM YUM",
+      "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
       "added_at": "2023-02-04 02:41:25",
@@ -475,6 +495,26 @@
       "duration_ms": 84576,
       "name": "Brazilian Phonk Mano",
       "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
+    },
+    {
+      "added_at": "2022-05-20 10:12:52",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -599,26 +639,6 @@
       "duration_ms": 136062,
       "name": "MTG - PISTA TOMA",
       "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
-    },
-    {
-      "added_at": "2023-07-21 09:05:00",
-      "album": {
-        "name": "YUM YUM",
-        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 129697,
-      "name": "YUM YUM",
-      "url": "https://open.spotify.com/track/0R902FnwJO8kBZYvtpQLrL"
     },
     {
       "added_at": "2023-07-07 17:01:13",
@@ -807,22 +827,6 @@
       "duration_ms": 152925,
       "name": "OneShot",
       "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
-    },
-    {
-      "added_at": "2023-08-04 15:24:45",
-      "album": {
-        "name": "NIGHT PHONK",
-        "url": "https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz"
-      },
-      "artists": [
-        {
-          "name": "COWBELL DYNASTY",
-          "url": "https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p"
-        }
-      ],
-      "duration_ms": 82865,
-      "name": "NIGHT PHONK",
-      "url": "https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn"
     },
     {
       "added_at": "2022-09-23 07:48:31",
@@ -1369,46 +1373,6 @@
       "url": "https://open.spotify.com/track/5L7h1PCOF5lrX3e3v8sJAx"
     },
     {
-      "added_at": "2023-04-14 17:01:25",
-      "album": {
-        "name": "VUK VUK",
-        "url": "https://open.spotify.com/album/4oxCXdKXFj1fTSbqQ4sOaX"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        },
-        {
-          "name": "Dragon Boys",
-          "url": "https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy"
-        }
-      ],
-      "duration_ms": 136398,
-      "name": "VUK VUK",
-      "url": "https://open.spotify.com/track/50a8i9ASSSsh8OLUsMu6uL"
-    },
-    {
-      "added_at": "2023-06-23 15:45:22",
-      "album": {
-        "name": "EASY PEAZY",
-        "url": "https://open.spotify.com/album/2gcyMDMKwpT4kpZ1HhITH8"
-      },
-      "artists": [
-        {
-          "name": "ROMANTICA",
-          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
-        },
-        {
-          "name": "Lestmor",
-          "url": "https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "EASY PEAZY",
-      "url": "https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB"
-    },
-    {
       "added_at": "2023-05-26 13:00:00",
       "album": {
         "name": "Comecar",
@@ -1645,6 +1609,22 @@
       "url": "https://open.spotify.com/track/1aqP9g3lLR8bpFtkCTm41N"
     },
     {
+      "added_at": "2023-09-08 15:16:54",
+      "album": {
+        "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN",
+        "url": "https://open.spotify.com/album/78cllbsvrbFS2t97KLkJlN"
+      },
+      "artists": [
+        {
+          "name": "funkzada",
+          "url": "https://open.spotify.com/artist/75iSY6iHbccajKCvuOY40x"
+        }
+      ],
+      "duration_ms": 117768,
+      "name": "DILATA\u00c7\u00c3O HIPN\u00d3TICA 5.0 X TA CHAPADA DE BALINHA X GK7, CRAZY013, LIPEDAZN",
+      "url": "https://open.spotify.com/track/59gbcSpjUzt3FGOZ1iWPXI"
+    },
+    {
       "added_at": "2021-05-12 14:02:59",
       "album": {
         "name": "North Memphis",
@@ -1677,22 +1657,6 @@
       "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
     },
     {
-      "added_at": "2023-07-28 11:47:20",
-      "album": {
-        "name": "Ukrainian Cossack Phonk",
-        "url": "https://open.spotify.com/album/7qFKTMZWFMy2MfFTvq097a"
-      },
-      "artists": [
-        {
-          "name": "CHASHKAKEFIRA",
-          "url": "https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "Ukrainian Cossack Phonk",
-      "url": "https://open.spotify.com/track/6vOMWakAlVuqaUUA1MMFgE"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "LAND OF FIRE",
@@ -1723,26 +1687,6 @@
       "duration_ms": 136651,
       "name": "Devil Eyes",
       "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
-    },
-    {
-      "added_at": "2022-09-02 08:01:31",
-      "album": {
-        "name": "SLAUGHTER HOUSE",
-        "url": "https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L"
-      },
-      "artists": [
-        {
-          "name": "Phonkha",
-          "url": "https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU"
-        },
-        {
-          "name": "zecki",
-          "url": "https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0"
-        }
-      ],
-      "duration_ms": 151135,
-      "name": "SLAUGHTER HOUSE",
-      "url": "https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy"
     },
     {
       "added_at": "2023-03-31 15:56:27",
@@ -1813,6 +1757,22 @@
       "url": "https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F"
     },
     {
+      "added_at": "2023-09-08 15:16:54",
+      "album": {
+        "name": "AUTOMOTIVO ASSOMBRA LUARA",
+        "url": "https://open.spotify.com/album/6HKiMsilWfHR257IVT8tQX"
+      },
+      "artists": [
+        {
+          "name": "Prod.Dsr",
+          "url": "https://open.spotify.com/artist/06Mv6ITy2MhM1SQ8OFSreF"
+        }
+      ],
+      "duration_ms": 81996,
+      "name": "AUTOMOTIVO ASSOMBRA LUARA",
+      "url": "https://open.spotify.com/track/5WSw7TTalV0Tb7w7yojFjg"
+    },
+    {
       "added_at": "2023-06-30 16:50:50",
       "album": {
         "name": "PIZZA PHONK",
@@ -1871,6 +1831,22 @@
       "duration_ms": 99748,
       "name": "Scary Garry",
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
+    },
+    {
+      "added_at": "2023-09-08 15:16:54",
+      "album": {
+        "name": "SHOOT TO KILL",
+        "url": "https://open.spotify.com/album/5i99bO7QQseHLx0EQNAInu"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "SHOOT TO KILL",
+      "url": "https://open.spotify.com/track/4yELBnJLaQ3OAnEeHRzsPs"
     }
   ],
   "unique_name": "phonk",

@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/3AQyZpDhvOtnL602e3W5z2"
+      },
+      "artists": [
+        {
+          "name": "Carufo",
+          "url": "https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172514,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/2BvNx9meCJYzVXHVKdSL7X"
+    },
+    {
+      "album": {
         "name": "Sajama",
         "url": "https://open.spotify.com/album/6MSBAT2vZRcoi3Ez6TMzV6"
       },

@@ -4,13 +4,14 @@
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-114 songs - 6 hr 55 min
+115 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Access](https://open.spotify.com/track/4cBSVGEHvZCPGKq2UnB26P) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 3:15 | 2021-12-09 |  |
 | [Alive](https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ) | [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Alive](https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD) | 2:48 | 2021-12-09 |  |
-| [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2021-12-09 |  |
+| [Animals \- Radio Edit](https://open.spotify.com/track/4g6m1iaAsgdgDqgxGtvY0C) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 2:56 | 2023-06-01 |  |
+| [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 | 2021-12-09 | 2023-09-09 |
 | [Aurora](https://open.spotify.com/track/5w0264qq5wQpYfNiPpsuqE) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Aurora](https://open.spotify.com/album/29TIn4cyGh1eSZmQ1jK6N9) | 3:30 | 2022-04-26 |  |
 | [Backlash \- Martin Garrix Radio Edit](https://open.spotify.com/track/125GzlPqu6eQRr1yQSqhGo) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Backlash \(Martin Garrix Edit\)](https://open.spotify.com/album/7JMGWUgwB2gsuqtH5edaHw) | 2:52 | 2021-12-09 | 2022-07-29 |
 | [Backlash \- Martin Garrix Radio Edit](https://open.spotify.com/track/1g99YoPWqouj3VYbUh8H2g) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Backlash \(Martin Garrix Edit\)](https://open.spotify.com/album/3VcOjUlRbGsrR3z3muJoWH) | 2:52 | 2022-07-28 |  |

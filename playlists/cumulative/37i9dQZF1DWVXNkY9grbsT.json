@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 330673,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
@@ -3508,6 +3508,28 @@
       "duration_ms": 306676,
       "name": "Melting Hazard",
       "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
+    },
+    {
+      "album": {
+        "name": "Metallic Spheres In Colour: Movement 2 - Excerpt",
+        "url": "https://open.spotify.com/album/54OHjqMfotsJPkVWnRqkts"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Metallic Spheres In Colour: Movement 2 - Excerpt",
+      "url": "https://open.spotify.com/track/1fpuphYAwKaoVxYGWkNaV7"
     },
     {
       "album": {

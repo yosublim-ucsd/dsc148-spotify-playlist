@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Gusttavo Lima, Matheus & Kauan",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Henrique & Juliano",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -318,6 +318,24 @@
       "duration_ms": 208346,
       "name": "At\u00e9 Falar Chega (feat. Matheus & Kauan) - Ao Vivo",
       "url": "https://open.spotify.com/track/0uoNRN1bvHcsGrrTa44Mj7"
+    },
+    {
+      "album": {
+        "name": "Escolhas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133546,
+      "name": "Barulho Do Foguete - Ao Vivo",
+      "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
     },
     {
       "album": {
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX"

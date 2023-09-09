@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Amy",
+        "url": "https://open.spotify.com/album/3St5d6fnFu6CkkWOiN4pCv"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216044,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/3owz5csR9o9BTxkaHWa4MP"
+    },
+    {
+      "album": {
         "name": "Angels Bowling",
         "url": "https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
+    },
+    {
+      "album": {
+        "name": "All Cops Are Boyfriends",
+        "url": "https://open.spotify.com/album/7B9csO1JDwS6hwqNI6vqWJ"
+      },
+      "artists": [
+        {
+          "name": "King Lazy Eye",
+          "url": "https://open.spotify.com/artist/3C6QTDIEnCAQmoHqsgzvJe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183464,
+      "name": "Bullets & Boomerangs",
+      "url": "https://open.spotify.com/track/73fWCODlIoVPG3BpHgsgx7"
     },
     {
       "album": {

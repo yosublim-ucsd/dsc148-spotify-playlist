@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 
 > A creepy collection of scary sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,470 likes - 102 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,492 likes - 102 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KVXoFMr2xO.md) - [plain]
 | 101 | [Freaky Spaces](https://open.spotify.com/track/3Uq5D6yQsv94cW5DeyTwVI) | [Steven C](https://open.spotify.com/artist/7MGlZPaZPKJJFUbp8wToNb) | [Scary Songs for Halloween](https://open.spotify.com/album/6hOdG5sQewpAqOo4K3QLuP) | 4:06 |
 | 102 | [Chainsaw Bloody Massacre](https://open.spotify.com/track/5tsURkMATlBZ6DeUhFN7eJ) | [Spooky Halloween Sounds](https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y) | [I'm Bloody Scared: Halloween Horror Music 2020, Like in Nightmare, Halloween Party, Scary Sounds](https://open.spotify.com/album/70BqiOr9cDH2WpGV7FB8eZ) | 4:00 |
 
-Snapshot ID: `MCw4OTQyZTBlNDVlNmMwM2ZmNjA1MTY4OTMwMmZlZjAxOGE0ZjUwYWZm`
+Snapshot ID: `MCw4ZDk0YzlkZWI3OTc4NDBkNGNjOWVmOWVhNGRmNWE4NzQyNzYwODY5`

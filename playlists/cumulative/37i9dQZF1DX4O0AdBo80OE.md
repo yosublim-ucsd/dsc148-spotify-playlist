@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-115 songs - 6 hr 34 min
+116 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Nuestros Tiempos](https://open.spotify.com/track/51k4iO1owyC47eouXkG8FK) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB) | [Malos Jóvenes](https://open.spotify.com/album/2IFnfOFke1gsKaHR9QmQ26) | 4:23 | 2023-05-26 |  |
 | [Nunca Imaginé](https://open.spotify.com/track/6ecb4V91cxHT9aJquEMLun) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Nunca Imaginé](https://open.spotify.com/album/55Nln3fDBB6t8qRphZuikc) | 3:25 | 2023-05-26 |  |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 | 2023-05-26 |  |
+| [Perder para Ganar](https://open.spotify.com/track/5dCWXWENrozBEeZ0rS1S3q) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:02 | 2023-09-08 |  |
 | [Perfecto \- Remix](https://open.spotify.com/track/680BOO124VxGj9DXEtCttL) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Morfin BG](https://open.spotify.com/artist/1pTjTbVIKeovr6b96NHxCD), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Papi Masta](https://open.spotify.com/artist/2RW2ueniNZZockIyC7zZvX), [Roylets](https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY), [Doobie Free](https://open.spotify.com/artist/0X4qLtC1UiO2g8bBI1Ghcz), [La Crista](https://open.spotify.com/artist/3yDz5xFKNHH0dE309ZN07K), [Lil Kendo](https://open.spotify.com/artist/5imDl6ezPgIApRD09jhF1t), [Ruddi Nizz](https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD), [Jacky Jacky](https://open.spotify.com/artist/3p1CbP1zehtOdImOl1c7be) | [Perfecto \(Remix\)](https://open.spotify.com/album/02OU9qgJcCQYeMsoq6FOta) | 6:52 | 2023-05-26 | 2023-09-02 |
 | [Piel Mojada](https://open.spotify.com/track/4s2U1sZa2lc86U4QSc4CGs) | [Cóndor](https://open.spotify.com/artist/0m3ZXE3FvbUCLDkwECsXKK) | [Piel Mojada](https://open.spotify.com/album/7DYKxvnlHU8qu7km8qy8Rp) | 3:40 | 2023-05-26 |  |
 | [Policías y Ladrones](https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Policías y Ladrones](https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj) | 3:41 | 2023-06-16 |  |
@@ -121,7 +122,7 @@
 | [Tu Vaquero Espacial](https://open.spotify.com/track/4Aoateww5S7sAtrdpy1a6b) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Tu Vaquero Espacial](https://open.spotify.com/album/6qdoV8CJ3CPYvQRwsTrrVb) | 2:56 | 2023-05-26 | 2023-09-02 |
 | [Tulum](https://open.spotify.com/track/52UjHXbZKXIryXqaoYKHpQ) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Dealers In Caracas](https://open.spotify.com/album/02BgfGEyFT13RLaZcgjgEu) | 3:50 | 2023-05-26 |  |
 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 | 2023-05-26 |  |
-| [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-05-26 |  |
+| [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-05-26 | 2023-09-09 |
 | [Weekend](https://open.spotify.com/track/1bg8OvZcoYvvQl2WwDCQXI) | [West Gold](https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM) | [Weekend](https://open.spotify.com/album/709GgE0luZdMQj7LrWaoVh) | 3:11 | 2023-05-26 |  |
 
 \*This playlist was first scraped on 2023-06-14. Prior content cannot be recovered.

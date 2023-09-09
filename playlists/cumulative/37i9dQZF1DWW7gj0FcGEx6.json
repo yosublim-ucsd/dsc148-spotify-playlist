@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "The Wheel of Time: Season 2, Vol. 1 (Prime Video Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/71lPSpzDgHtwW8oM6933EX"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Egwene al'Vere - from The Wheel of Time: Season 2, a Prime Video Original Series",
+      "url": "https://open.spotify.com/track/1pUpYWRubFMzugCP4jIcdi"
+    },
+    {
+      "album": {
         "name": "Egwene al'Vere (from The Wheel of Time: Season 2, a Prime Video Original Series)",
         "url": "https://open.spotify.com/album/6PDzQ3pZl8CRTcOMwk5gPU"
       },
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182400,
       "name": "Egwene al'Vere - from The Wheel of Time: Season 2, a Prime Video Original Series",
       "url": "https://open.spotify.com/track/25VaTouvJUmUkIccRJfTGG"

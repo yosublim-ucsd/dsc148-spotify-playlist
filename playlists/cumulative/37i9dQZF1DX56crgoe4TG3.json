@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Good Hearted Woman",
+        "url": "https://open.spotify.com/album/6HYgWWKVD2fxDY8f9vHa8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298866,
+      "name": "A Good Hearted Woman",
+      "url": "https://open.spotify.com/track/5Za6LTepYPw8X903BdTS90"
+    },
+    {
+      "album": {
         "name": "In Good Company",
         "url": "https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr"
       },
@@ -2272,6 +2290,24 @@
       "duration_ms": 234917,
       "name": "Lakes of Pontchartrain - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a"
+    },
+    {
+      "album": {
+        "name": "Late Night Talking",
+        "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195936,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
     },
     {
       "album": {

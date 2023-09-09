@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 615739,
+  "num_followers": 615866,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
+  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:51",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
         "name": "CLA$$IC",
         "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 226186,
       "name": "CLA$$IC",
       "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -507,26 +507,18 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
+        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
       },
       "artists": [
         {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Joshi Mizu",
-          "url": "https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 153146,
-      "name": "Ol\u00e9 Ol\u00e9",
-      "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
+      "duration_ms": 601000,
+      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
+      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -563,18 +555,26 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-        "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Joshi Mizu",
+          "url": "https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA"
         }
       ],
-      "duration_ms": 601000,
-      "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
-      "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
+      "duration_ms": 153146,
+      "name": "Ol\u00e9 Ol\u00e9",
+      "url": "https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
+        "name": "Zeiten \u00e4ndern dich",
+        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Zeiten \u00e4ndern dich",
+      "url": "https://open.spotify.com/track/4YZxwEHbmwwgdvhAUDwFXz"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 242813,
       "name": "Prison Break Anthem (Ich Glaub An Dich) - Single Version",
       "url": "https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Wenn wir kommen",
-      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
-      },
-      "artists": [
-        {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        },
-        {
-          "name": "Cassandra Steen",
-          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
-      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
         "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
         "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 257079,
       "name": "Panamera Flow (feat. Bushido)",
       "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU"
+      },
+      "artists": [
+        {
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Cassandra Steen",
+          "url": "https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Eines Tages (feat. Cassandra Steen) - Single Edit",
+      "url": "https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU"
     },
     {
       "added_at": "2023-07-13 12:12:51",

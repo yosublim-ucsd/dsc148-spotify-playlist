@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5934,
+  "num_followers": 5957,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGIxMjA2MjdiYjIyNGRlMTMyYWI5MWU0OWVmN2M5ZjQ4ODY0MjA4",
+  "snapshot_id": "MCxiNmUxYjViYmEyODNmNjI1N2RmZTg0ZDkwMDMzZDQ4ODFlMjk4OTUy",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 247496,
-      "name": "\uc21c\uc774 Sooni - I'm your fanatic girl",
-      "url": "https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\ud654\ubd84",
         "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 247496,
+      "name": "\uc21c\uc774 Sooni - I'm your fanatic girl",
+      "url": "https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4"
     },
     {
       "added_at": "2023-05-02 09:09:27",

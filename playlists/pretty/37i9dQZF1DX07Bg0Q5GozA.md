@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Romy
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,048 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,130 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 |
-| 2 | [Something On My Mind](https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U) | 3:36 |
+| 2 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 3 | [Forevermore](https://open.spotify.com/track/4aSwhF2daSyaCqUYPSbrqh) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Forevermore](https://open.spotify.com/album/1MJ8xDif5W7wGQIQz63Dhi) | 3:09 |
 | 4 | [Ride With You](https://open.spotify.com/track/3WGGCYHebfKS0EaUcuqGOW) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Ride With You](https://open.spotify.com/album/6Hbq4l5PkyQwLVzLCOhBci) | 4:14 |
 | 5 | [Hurtz So Bad](https://open.spotify.com/track/0iZTXEsSZWaY2hoNszFDAB) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Hit Parade](https://open.spotify.com/album/6TrMvKGGUdJZv1eWbSM63U) | 4:37 |
 | 6 | [Miracle](https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Miracle](https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8) | 5:02 |
-| 7 | [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 |
+| 7 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 |
 | 8 | [Discoproof](https://open.spotify.com/track/0CQcUsyDEfKsHWDDF3h2C1) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Discoproof](https://open.spotify.com/album/3uMU0ZiDp3MDBypUiVKGYh) | 3:52 |
 | 9 | [I Get Sad So Easily](https://open.spotify.com/track/3SBKs3PGZEZsY6tzMGgTzI) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [I Get Sad So Easily](https://open.spotify.com/album/2BZXdN9QxEXmSgvobIr2q4) | 2:42 |
 | 10 | [I Am Human](https://open.spotify.com/track/1AUmprQhFQT2iEijMQOxIX) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [I Am Human](https://open.spotify.com/album/4EBT8zKxfovEcG7J85jSgF) | 5:00 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 61 | [A Different Frame](https://open.spotify.com/track/0pk4GJ9REs9fRFlUweWVgs) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [A Different Frame](https://open.spotify.com/album/1RVocr5uuN4XJW4UjyWBD3) | 3:11 |
 | 62 | [Tell Me](https://open.spotify.com/track/7MCaMjjCH3TulSw4hIG3xx) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Prestige](https://open.spotify.com/album/3vAzZOMM1BvxtVfKjyQI78) | 3:57 |
 | 63 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
-| 64 | [Fire of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 |
+| 64 | [Fire Of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 |
 | 65 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 66 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 67 | [Hip Neck Spine \- Hercules & Love Affair Remix \(Radio Edit\)](https://open.spotify.com/track/7xt5cSFtWjQa7BKp0UX5kl) | [Daphne Guinness](https://open.spotify.com/artist/1jWYbHqxagu177jUkwbz5P), [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hip Neck Spine \(Hercules & Love Affair Remixes\)](https://open.spotify.com/album/4br5yMUiI1naPRE1zTC7ge) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Parfaite](https://open.spotify.com/track/1fPvKAh8ZzVJ4yo25Wl1oi) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Elodie Gervaise](https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB) | [Parfaite](https://open.spotify.com/album/5FP684jxUuq0q4luOBmN4L) | 4:18 |
 | 75 | [Ether](https://open.spotify.com/track/5IyOYclKa9w9sjEeewNDmu) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Ether](https://open.spotify.com/album/2GA2x8SLtSQLz0GNiK6b5D) | 3:10 |
 
-Snapshot ID: `MCw1NmVmMTlkY2E3OTA3M2EzN2ZiMWZlYTAwZTJmNGQ1YTFmNzQ0NDk4`
+Snapshot ID: `MCw2NzVlNGE2MTg2YjA3MjZjNWE2MGFmNzE4ODc2NTg1NzgzODk0ZGZh`

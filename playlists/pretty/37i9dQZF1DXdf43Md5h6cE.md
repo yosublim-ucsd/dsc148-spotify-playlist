@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,350 likes - 118 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,797 likes - 118 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 38 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 |
 | 39 | [Spheroidal](https://open.spotify.com/track/1vxzqff8m6YqPRt2LmWND5) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Spheroidal](https://open.spotify.com/album/0lBQfzaDx2ZqdsNVwatO9h) | 2:15 |
 | 40 | [Morning Repose](https://open.spotify.com/track/0X32YnznPuE9Ass1qQMM0m) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:46 |
-| 41 | [Frozen Sunlight \- Music Only](https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 |
+| 41 | [Frozen Sunlight \- No Nature Ambience](https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 |
 | 42 | [Reflective](https://open.spotify.com/track/4GPJa1iMFV79V9qK7p39v8) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Reflective](https://open.spotify.com/album/2mYM2fsupjohB2ewFw6tca) | 3:46 |
 | 43 | [forgotten thoughts](https://open.spotify.com/track/4SL8NjHJQblUTL8seDLn5Z) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:36 |
 | 44 | [Blis](https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:30 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 117 | [Eventually](https://open.spotify.com/track/3lRJJ1OntPtdX9lTB0w4io) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 9:00 |
 | 118 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
 
-Snapshot ID: `MCxjZDZkMzM3NWI1Mjc3ZDRhZmIxMmYyNDU0ZDg2MWFiOTJiNzRhZGQ2`
+Snapshot ID: `MCw2NmFlMThkOGIzZTliY2MzMTRmNjBiMzJhYTczMDQzOGE5MDE4OWZl`

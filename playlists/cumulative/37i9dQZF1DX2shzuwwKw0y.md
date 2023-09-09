@@ -2,7 +2,7 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Peso Pluma en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Luis R Conriquez en portada.
 
 260 songs - 13 hr 7 min
 

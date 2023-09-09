@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC?si=fdc7297d77cf49c3\">Blessing Offor</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj?si=uPRuNh0yTOqvRdVCBxYRUg\">Lauren Daigle</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 189799,
       "name": "All Things",
       "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 208965,
       "name": "Be Okay",
       "url": "https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL"
@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/706chQivtLuRINfHzNJQVJ"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271973,
+      "name": "COAT OF MANY COLORS",
+      "url": "https://open.spotify.com/track/68nhOMpd1gc5tfb7P5BWmI"
+    },
+    {
+      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 227266,
       "name": "COUNT 'EM",
       "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
@@ -4517,6 +4535,32 @@
     },
     {
       "album": {
+        "name": "I Set My Hope On Jesus",
+        "url": "https://open.spotify.com/album/2Tk1ntQrATbl2G05ncpJDK"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255796,
+      "name": "I Set My Hope (Hymn For A Deconstructing Friend)",
+      "url": "https://open.spotify.com/track/6WOMNb2YNHE3HhTo3w0KCx"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
       },
@@ -6360,7 +6404,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 220838,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/4x2uqkTk7Lb2zTdgAA8GEj"
@@ -7012,6 +7056,24 @@
       "duration_ms": 245722,
       "name": "Narrow Road",
       "url": "https://open.spotify.com/track/7jm83aZTPxR23x64edVncD"
+    },
+    {
+      "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1"
     },
     {
       "album": {
@@ -7988,7 +8050,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 281893,
       "name": "Precious Blood",
       "url": "https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM"
@@ -9531,6 +9593,28 @@
     },
     {
       "album": {
+        "name": "Surrounded By Holy",
+        "url": "https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455529,
+      "name": "Surrounded By Holy - Live",
+      "url": "https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc"
+    },
+    {
+      "album": {
         "name": "All That I Need To Know",
         "url": "https://open.spotify.com/album/3OS39rzfewxTipSCVu4S4N"
       },
@@ -10776,7 +10860,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 301850,
       "name": "To Be With The Lord",
       "url": "https://open.spotify.com/track/4X95hDjmp1BD2ANBMIDRe2"
@@ -10834,6 +10918,24 @@
       "duration_ms": 299453,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
     },
     {
       "album": {
@@ -11356,6 +11458,24 @@
       "duration_ms": 208680,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/7p1QBR2jcSDDrknfkuxkYE"
+    },
+    {
+      "album": {
+        "name": "Hopeful Hearts Club",
+        "url": "https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400108,
+      "name": "Whole Heart",
+      "url": "https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji"
     },
     {
       "album": {

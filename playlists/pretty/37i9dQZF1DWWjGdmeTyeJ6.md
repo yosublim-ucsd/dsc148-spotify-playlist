@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Cisco Swank\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,033 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,049 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 89 | [in the rain](https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [let them eat grass](https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca) | 3:25 |
 | 90 | [Cult](https://open.spotify.com/track/5PTqkTO6peswogqXZ84a8p) | [Avi Kytes](https://open.spotify.com/artist/7x5FmUosFZHo35X5rx7517) | [Cult](https://open.spotify.com/album/3KY27vbFs12yDQNk9iHEoU) | 3:01 |
 
-Snapshot ID: `MCxmNjZhYWRiMWQ0OTlhNTFlOGY3ZmM4NjAxMmVlMzQxMjY0MGFjM2Vj`
+Snapshot ID: `MCxkNmExZWQ4MzQxOTNjOWZhZDlmZmNlZWVkZTVjNmZkYzk2Nzc3N2Qy`

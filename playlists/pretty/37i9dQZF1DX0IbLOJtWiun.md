@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 
 > In honor of the little teams who could
 
-[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 | 19 | [In My Blood](https://open.spotify.com/track/2iIDpuiFj86WKpK6eKyzTP) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:47 |
 | 20 | [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 |
 
-Snapshot ID: `MCwyZDgyOTE5NjcxMTM1MDNkM2IwMDcwMTk4NDdkOTVjMzhiOGRkODc1`
+Snapshot ID: `MCxkMTJlY2E3ZjgwMTNkYWQyZDkzMzM3ZmVmNzM1YTY1MThmNjI4YTI3`

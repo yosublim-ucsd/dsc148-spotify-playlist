@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142817,
+  "num_followers": 142812,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi",
+  "snapshot_id": "MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Par\u00ed",
-        "url": "https://open.spotify.com/album/7FXTMmof7mvI7VhTBAyCrD"
-      },
-      "artists": [
-        {
-          "name": "AJ Castillo",
-          "url": "https://open.spotify.com/artist/1KpWrB0KqGwEPdomvoTREW"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Par\u00ed",
-      "url": "https://open.spotify.com/track/1bBl6hOdOK4VDg7TO2BpkD"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Vivir Sin Ti",
         "url": "https://open.spotify.com/album/5jszXkhQthDS7qYvVLLsOU"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 223122,
       "name": "Y Quisiera",
       "url": "https://open.spotify.com/track/6pT4VPoECJckbe99rstLMu"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Par\u00ed",
+        "url": "https://open.spotify.com/album/7FXTMmof7mvI7VhTBAyCrD"
+      },
+      "artists": [
+        {
+          "name": "AJ Castillo",
+          "url": "https://open.spotify.com/artist/1KpWrB0KqGwEPdomvoTREW"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Par\u00ed",
+      "url": "https://open.spotify.com/track/1bBl6hOdOK4VDg7TO2BpkD"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Porque T\u00fa",
-        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
+        "name": "Jam Session El Besito Y Voy Navegando",
+        "url": "https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI"
       },
       "artists": [
         {
-          "name": "Stevie D",
-          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
+          "name": "Carlos y Los Cachorros",
+          "url": "https://open.spotify.com/artist/6j2ViCjLAVLUTBxDHFECka"
         }
       ],
-      "duration_ms": 234186,
-      "name": "Porque T\u00fa",
-      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
+      "duration_ms": 302789,
+      "name": "Jam Session El Besito Y Voy Navegando",
+      "url": "https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Jam Session El Besito Y Voy Navegando",
-        "url": "https://open.spotify.com/album/7LYOL5acndia5Ar7tINUfI"
+        "name": "Porque T\u00fa",
+        "url": "https://open.spotify.com/album/0VizQMPXbj9M5ReEfpNIst"
       },
       "artists": [
         {
-          "name": "Carlos y Los Cachorros",
-          "url": "https://open.spotify.com/artist/6j2ViCjLAVLUTBxDHFECka"
+          "name": "Stevie D",
+          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
         }
       ],
-      "duration_ms": 302789,
-      "name": "Jam Session El Besito Y Voy Navegando",
-      "url": "https://open.spotify.com/track/38hja6SCCM5GnL6krYdhSh"
+      "duration_ms": 234186,
+      "name": "Porque T\u00fa",
+      "url": "https://open.spotify.com/track/0TRDhKVSdmdGQLPUGTMlUH"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Pura Sabrosura",
-        "url": "https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv"
-      },
-      "artists": [
-        {
-          "name": "Severo y Grupo Fuego",
-          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
-        }
-      ],
-      "duration_ms": 159637,
-      "name": "Pura Sabrosura",
-      "url": "https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Camino al Progreso",
         "url": "https://open.spotify.com/album/2UarTzL0sMw8IpBXVJiUDn"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 229950,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/2DNiXqfzhHi43i28uokiFT"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Pura Sabrosura",
+        "url": "https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv"
+      },
+      "artists": [
+        {
+          "name": "Severo y Grupo Fuego",
+          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
+        }
+      ],
+      "duration_ms": 159637,
+      "name": "Pura Sabrosura",
+      "url": "https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Mas Tequila Por Favor",
-        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
+        "name": "Entiende Corazon",
+        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
       },
       "artists": [
         {
-          "name": "Cristelo",
-          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
+          "name": "Zereno",
+          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Mas Tequila Por Favor",
-      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
+      "duration_ms": 189166,
+      "name": "Entiende Corazon",
+      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Entiende Corazon",
-        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
+        "name": "Mas Tequila Por Favor",
+        "url": "https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03"
       },
       "artists": [
         {
-          "name": "Zereno",
-          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
+          "name": "Cristelo",
+          "url": "https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9"
         }
       ],
-      "duration_ms": 189166,
-      "name": "Entiende Corazon",
-      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
+      "duration_ms": 200493,
+      "name": "Mas Tequila Por Favor",
+      "url": "https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "No Te Voy A Perder",
-        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Valadez",
-          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "No Te Voy A Perder",
-      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/6rs8fUKzkJMW9xkEUCK5iX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 192937,
       "name": "Tiempo Sin Mi",
       "url": "https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "No Te Voy A Perder",
+        "url": "https://open.spotify.com/album/0kBhiiQahCqllcbv1vbqRA"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Valadez",
+          "url": "https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "No Te Voy A Perder",
+      "url": "https://open.spotify.com/track/2xZGtw6RW6qBUCeHCzaVQW"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Que Dolor",
-        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
-      },
-      "artists": [
-        {
-          "name": "George Salazar",
-          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
-        }
-      ],
-      "duration_ms": 202292,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Soy Ella",
         "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 179908,
       "name": "Soy Ella",
       "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Que Dolor",
+        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
+      },
+      "artists": [
+        {
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Como Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
-      },
-      "artists": [
-        {
-          "name": "Genyva",
-          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
-        }
-      ],
-      "duration_ms": 188265,
-      "name": "Como Te Voy a Olvidar",
-      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Toda Una Vida",
         "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
       },
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "NADIE",
-        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
+        "name": "Ilusiones",
+        "url": "https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i"
       },
       "artists": [
         {
-          "name": "Esmeralda G",
-          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
+          "name": "Inspirazion",
+          "url": "https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ"
         }
       ],
-      "duration_ms": 161623,
-      "name": "NADIE",
-      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
+      "duration_ms": 197500,
+      "name": "Ilusiones",
+      "url": "https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Como Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/4HA6mvbNs4KHJAF5j0WYxl"
+      },
+      "artists": [
+        {
+          "name": "Genyva",
+          "url": "https://open.spotify.com/artist/1glGEhKiGfk7tzbJVWnyke"
+        }
+      ],
+      "duration_ms": 188265,
+      "name": "Como Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/3s4ig5wIjAyVkPmIR6wsND"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Ilusiones",
-        "url": "https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i"
+        "name": "NADIE",
+        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
       },
       "artists": [
         {
-          "name": "Inspirazion",
-          "url": "https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ"
+          "name": "Esmeralda G",
+          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Ilusiones",
-      "url": "https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf"
+      "duration_ms": 161623,
+      "name": "NADIE",
+      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
     },
     {
       "added_at": "2023-03-10 18:43:28",

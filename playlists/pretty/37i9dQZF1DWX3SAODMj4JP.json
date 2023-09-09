@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 120651,
+  "num_followers": 120802,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2ZhNjE3ZDlhOGVjNTcyYzQyNzdjN2JlMWI4YjU4MTc1ODhiNTJk",
+  "snapshot_id": "MCw2YmIxYTE3NzVlNzAwMGNiNzU5ZjhmMGQ4ZmY2ZDE0YTk4YWVhNzc3",
   "tracks": [
     {
       "added_at": "2023-09-01 05:58:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "Descansar em Ti",
-        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Descansar em Ti",
-      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Eu Quero Voltar",
         "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 213762,
       "name": "Eu Quero Voltar",
       "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Descansar em Ti",
+        "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "Descansar em Ti",
+      "url": "https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ"
     },
     {
       "added_at": "2023-09-01 05:58:33",

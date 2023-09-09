@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-777 songs - 1 day 18 hr 8 min
+778 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 | 2023-05-06 |
 | [Chalo Mannya](https://open.spotify.com/track/3JAHmBtj0tynb50kziPAlG) | [Romaana](https://open.spotify.com/artist/424s65ZBz4Alruua67iFmO) | [Chalo Mannya](https://open.spotify.com/album/6rMF3sY9ue7xNwKUBgaP4c) | 2:44 | 2022-04-21 | 2022-07-06 |
 | [Chan Nalon Sohna](https://open.spotify.com/track/2cl60OUzIMNChSkO0Twj92) | [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Sidhika Sharma](https://open.spotify.com/artist/7KnsZZEfgH7iwLdWDiQp0J) | [Chan Nalon Sohna \(From "Yaar Mera Titliaan Warga"\) \- Single](https://open.spotify.com/album/4CiwIxkpUHZqoipyZ8gCrk) | 3:51 | 2022-09-05 | 2022-09-23 |
+| [Chan Reha Na Chan](https://open.spotify.com/track/48Wv5mqdMb8QMQUIg9ybSC) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es) | [Chan Reha Na Chan](https://open.spotify.com/album/38K8KGc2Fp0FAjQxkzXxMV) | 6:14 | 2023-09-08 |  |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2021-12-02 | 2022-12-16 |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2022-02-07 | 2022-04-06 |
 | [Chandigarh Di](https://open.spotify.com/track/3zc0J4UVg0yvnyCnKGlgT1) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Chandigarh Di](https://open.spotify.com/album/70QRTrmes1yqKSz0nYHTJs) | 2:32 | 2022-09-15 | 2022-09-23 |

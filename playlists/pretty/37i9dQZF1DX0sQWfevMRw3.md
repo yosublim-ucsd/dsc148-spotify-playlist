@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,817 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,930 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Supa så som mig](https://open.spotify.com/track/5EkYk9jar1DlpOZsBZuoUD) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Supa så som mig](https://open.spotify.com/album/7jHP7t11hvLlN1jXrqYCms) | 1:33 |
 | 100 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 
-Snapshot ID: `MCxiYzg2ZWU2YTlhNGZiMjM2Y2MzYjNlNDNmNjE5NDAzYTA0N2IyY2E4`
+Snapshot ID: `MCw2NzJkZTNmYjAxNmU5NTQ5MGRhOTU0MzVhOTk4Y2YxNzhmYjUyNDc2`

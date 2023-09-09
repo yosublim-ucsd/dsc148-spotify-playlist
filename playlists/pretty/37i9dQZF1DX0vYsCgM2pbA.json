@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 124307,
+  "num_followers": 124355,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzZkMmE1MTExMjJmOTRkOTUyZTg0YWQ5NTUyNGZiNmNhZDE2N2Vm",
+  "snapshot_id": "MCwxM2UxNmUyZTk3NDUyMmRmNGU2MTk0YjJjNzkzN2ViMmNhYzc2NjRj",
   "tracks": [
     {
       "added_at": "2023-09-07 14:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-09-07 14:00:00",
       "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 278880,
+      "name": "Perfect World",
+      "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
+    },
+    {
+      "added_at": "2023-09-07 14:00:00",
+      "album": {
         "name": "What Comes Next",
         "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 243599,
       "name": "Get To Know (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2023-09-07 14:00:00",
-      "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 278880,
-      "name": "Perfect World",
-      "url": "https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl"
     },
     {
       "added_at": "2023-09-07 14:00:00",

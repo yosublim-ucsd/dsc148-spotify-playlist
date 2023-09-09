@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/0GCCIMs5oTUIMebWJroSg5"
+      },
+      "artists": [
+        {
+          "name": "Leon Cox",
+          "url": "https://open.spotify.com/artist/3AL3ufihLodtdojR6lnpKz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126112,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/1AtLbKIo0bXmd4TIDcFUEj"
+    },
+    {
+      "album": {
         "name": "Ebullience",
         "url": "https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE"
       },
@@ -3180,6 +3198,24 @@
       "duration_ms": 159724,
       "name": "Ko Lipe",
       "url": "https://open.spotify.com/track/0f4qPItjQNiBETdP6ajdho"
+    },
+    {
+      "album": {
+        "name": "SLEEPLESS NIGHTS",
+        "url": "https://open.spotify.com/album/0U84uih4xzz3X2GBtySJC7"
+      },
+      "artists": [
+        {
+          "name": "ANDER",
+          "url": "https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141493,
+      "name": "KUMBAYA",
+      "url": "https://open.spotify.com/track/5LeYzjiiLINJIAQgzOD3qz"
     },
     {
       "album": {

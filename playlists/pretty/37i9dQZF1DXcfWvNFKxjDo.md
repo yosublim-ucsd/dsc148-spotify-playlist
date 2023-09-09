@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: POLTERGST
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,886 likes - 74 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,168 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 2 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 |
 | 3 | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/track/4Q5A1yfmDXlB4s7JyuDKzw) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Dirty Talk \(with Sam Feldt\)](https://open.spotify.com/album/6CkeZGNC4LSSDOHkahPgfp) | 2:21 |
 | 4 | [Love](https://open.spotify.com/track/2JCFm7pOuEP0cItCq6t3bd) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Love](https://open.spotify.com/album/31UkJWhnRd88KsL0PiD4G2) | 2:50 |
-| 5 | [Something On My Mind](https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U) | 3:36 |
+| 5 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 6 | [Too Close](https://open.spotify.com/track/54m4uPOVyjzxgh81Dr4rxS) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Too Close](https://open.spotify.com/album/0AV0Iov13auiWBGxyGQuXZ) | 2:29 |
 | 7 | [Yeah 3x](https://open.spotify.com/track/0XX58KCqDXy0cNnZ9XxGtS) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Yeah 3x](https://open.spotify.com/album/1HSrReXjgHAyxDL14SWYaS) | 2:43 |
 | 8 | [Take Me Back](https://open.spotify.com/track/36I7g7C0zVnM78qaJRBdSi) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Sound Factory](https://open.spotify.com/artist/7mstKZCPc7v5AgIYfx2aGD) | [Take Me Back](https://open.spotify.com/album/4i2EkwMggchEtSs5ea8Mp7) | 2:27 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 31 | [After Dark](https://open.spotify.com/track/2WCtgNOaS7TgMXQ6YN1LhW) | [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1), [Jon Eyden](https://open.spotify.com/artist/695WzpAaXvqDObtBDuLUXC) | [After Dark](https://open.spotify.com/album/6bB1ME0wOPtQhpaydLZojv) | 3:02 |
 | 32 | [Million Places](https://open.spotify.com/track/3rCuELlVNqzcG8JHDJh76m) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Million Places](https://open.spotify.com/album/0FDi6UKrT6OaQuzY0a4Hna) | 2:37 |
 | 33 | [High On Life](https://open.spotify.com/track/63yVtv3jDnjMa89SD7uYj2) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [High On Life](https://open.spotify.com/album/0A4eJEZQmWWNB2jPrE0xuR) | 3:19 |
-| 34 | [Desire \- Alok Remix](https://open.spotify.com/track/7qyoYlYSgfeTqAqJXmoIKe) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Desire \(with Sam Smith\) \[Alok Remix\]](https://open.spotify.com/album/46I5OWuJfe8XtaRaofQbv4) | 2:56 |
+| 34 | [Desire \(with Sam Smith\) \- Alok Remix](https://open.spotify.com/track/7qyoYlYSgfeTqAqJXmoIKe) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Desire \(with Sam Smith\) \[Alok Remix\]](https://open.spotify.com/album/46I5OWuJfe8XtaRaofQbv4) | 2:56 |
 | 35 | [So Glad That The Lord](https://open.spotify.com/track/3V0ec6p3nPQeebuKHdVXaI) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [From A Bakermat Point Of View](https://open.spotify.com/album/6v3GGTQUhTPz6ap8v3DOs8) | 3:06 |
 | 36 | [Bucovina 2023](https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Shantel](https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA) | [Bucovina 2023](https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm) | 3:07 |
 | 37 | [Play](https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 3:19 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Feel Alive](https://open.spotify.com/track/2dkZSuf8vtAybY9yNuHzqm) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Feel Alive](https://open.spotify.com/album/0afsFT9pB5n6LqnhksV29M) | 3:50 |
 | 74 | [Need Your Love](https://open.spotify.com/track/3Mzid9zOgVrhDgvT8vee0I) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Need Your Love](https://open.spotify.com/album/09FsQpf6h3gSPl1qPCdhsI) | 3:10 |
 
-Snapshot ID: `MCxkZGQ5MDNiODI0ZTVkNzc1YjdhOTVhNzJkODI1OWIyNzY0NTY3MjRi`
+Snapshot ID: `MCwxNGM4NmEyMjdjNDhiYTlkOWU3OTIxNWQ2MzdlOTk5MzBiYmMzM2Vm`

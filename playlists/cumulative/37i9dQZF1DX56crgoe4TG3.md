@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-237 songs - 15 hr 11 min
+239 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [22](https://open.spotify.com/track/7jCwf7cmTz39HrFEkIH5Qu) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/6jn2ods9b838kQ5oQh7WtF) | 1:27 | 2022-05-27 | 2022-12-03 |
 | [7 Nation Army](https://open.spotify.com/track/1lEoFZKzfqvuJxap6zUxiJ) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Grasswhoopin' Party Pack, Vol\. 1](https://open.spotify.com/album/7rshiDjLOz7ID3HsoEUvck) | 2:56 | 2021-08-20 | 2022-01-08 |
 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 | 2021-08-20 |  |
+| [A Good Hearted Woman](https://open.spotify.com/track/5Za6LTepYPw8X903BdTS90) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Good Hearted Woman](https://open.spotify.com/album/6HYgWWKVD2fxDY8f9vHa8K) | 4:58 | 2023-09-08 |  |
 | [A Hard Day's Night](https://open.spotify.com/track/5zDZO6WqKkGk4oa6fkFLwH) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 2:40 | 2021-08-20 |  |
 | [Aerials](https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Aerials](https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4) | 3:48 | 2023-02-10 |  |
 | [Africa](https://open.spotify.com/track/4XRQgH9uA2hNcphAjSoPUs) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/0uUGpBzLNyLbbHLiKkJcTk) | 4:03 | 2021-08-20 | 2023-08-19 |
@@ -129,6 +130,7 @@
 | [Kiss From A Rose](https://open.spotify.com/track/3k3rsujAAKrvCXcyCzFtsU) | [Mustered Courage](https://open.spotify.com/artist/7A2mhKFpbcw6VrN64VPmOY) | [Kiss From A Rose](https://open.spotify.com/album/7FRzhL5VqBkKdo4JWc8vMP) | 2:36 | 2021-08-20 | 2023-08-12 |
 | [Kryptonite](https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Cornbread Red](https://open.spotify.com/artist/6WGUADHV7LnpbmNi5PhfYO) | [Pickin' On 3 Doors Down: A Bluegrass Tribute \- Down to This:](https://open.spotify.com/album/4j19jxzQmLk1Iqu8jLfbnt) | 3:45 | 2021-08-20 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-08-20 | 2022-04-02 |
+| [Late Night Talking](https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Late Night Talking](https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l) | 3:15 | 2023-09-08 |  |
 | [Let Your Love Flow](https://open.spotify.com/track/4BNKLzaOKJp2NhnoDQVOhJ) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7) | 2:57 | 2022-10-07 |  |
 | [Let Your Love Flow](https://open.spotify.com/track/7jupT6wzegD9jbY4lbfb6O) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 2:57 | 2022-10-07 | 2022-10-14 |
 | [Let's Get It Started](https://open.spotify.com/track/0Ti70H69CvNwtfku4ajGTA) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Let's Get It Started](https://open.spotify.com/album/6fiyjUrbHehvrjmiWvBwiw) | 3:29 | 2023-03-17 | 2023-07-29 |

@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 204604,
+  "num_followers": 205094,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWNkNGU0Yzk2N2RlYThiOTMzZGYxNzUyN2I1YTZiZDA4MTM0YmM3",
+  "snapshot_id": "MCw1OTdjMzg3M2ZlM2IwOWYxYzBhMDEwZTY2OWE0ZDllNGE5NTcwZTA1",
   "tracks": [
+    {
+      "added_at": "2023-09-07 17:35:47",
+      "album": {
+        "name": "ask for much",
+        "url": "https://open.spotify.com/album/6oUtWwvUrLUBpI4NN8cZi0"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "duration_ms": 150994,
+      "name": "ask for much",
+      "url": "https://open.spotify.com/track/2G159avHRqHYDvjp5tn0fn"
+    },
     {
       "added_at": "2023-09-05 14:34:54",
       "album": {
@@ -49,22 +65,6 @@
       "url": "https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr"
     },
     {
-      "added_at": "2023-09-05 14:34:54",
-      "album": {
-        "name": "we die once",
-        "url": "https://open.spotify.com/album/1Dys4No4EglJK3GfLdyM5o"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "we die once",
-      "url": "https://open.spotify.com/track/58PNvM25Mrf60NlFReyFmv"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Baby Gravy 3",
@@ -103,6 +103,22 @@
       "duration_ms": 190915,
       "name": "No More",
       "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
+    },
+    {
+      "added_at": "2023-09-07 17:35:47",
+      "album": {
+        "name": "smiley water",
+        "url": "https://open.spotify.com/album/3Y2Xo3MzxhWSVFY2HvTCYd"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 239957,
+      "name": "smiley water",
+      "url": "https://open.spotify.com/track/1PEShB5zDPDvnnAbf4CGcy"
     },
     {
       "added_at": "2023-07-21 06:46:00",
@@ -197,6 +213,22 @@
       "url": "https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+        }
+      ],
+      "duration_ms": 133365,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Flooding the Gates",
@@ -221,36 +253,36 @@
       "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-09-07 17:35:47",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
+        "name": "Indy 500",
+        "url": "https://open.spotify.com/album/2VJf8cxl1siCgiQMwNAvvM"
       },
       "artists": [
         {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+          "name": "Kid Quill",
+          "url": "https://open.spotify.com/artist/5vGXVYudNgm9E7jhXMM0Ro"
         }
       ],
-      "duration_ms": 133365,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
+      "duration_ms": 130761,
+      "name": "Indy 500",
+      "url": "https://open.spotify.com/track/7boOv0Ph2myAueof7CrrUt"
     },
     {
-      "added_at": "2023-07-14 16:00:00",
+      "added_at": "2023-09-05 14:34:54",
       "album": {
-        "name": "Waste Ur Time",
-        "url": "https://open.spotify.com/album/33QDlSkMgGlvjYpTWk11wr"
+        "name": "we die once",
+        "url": "https://open.spotify.com/album/1Dys4No4EglJK3GfLdyM5o"
       },
       "artists": [
         {
-          "name": "Olive Amun",
-          "url": "https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv"
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 141835,
-      "name": "Waste Ur Time",
-      "url": "https://open.spotify.com/track/6c7YABBOLl7jB6F0bntYcy"
+      "duration_ms": 158066,
+      "name": "we die once",
+      "url": "https://open.spotify.com/track/58PNvM25Mrf60NlFReyFmv"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -355,6 +387,22 @@
       "duration_ms": 135002,
       "name": "WILD WEST",
       "url": "https://open.spotify.com/track/2f9XMY7oyLJjkjbcrH2Fyz"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
+        "name": "Waste Ur Time",
+        "url": "https://open.spotify.com/album/33QDlSkMgGlvjYpTWk11wr"
+      },
+      "artists": [
+        {
+          "name": "Olive Amun",
+          "url": "https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv"
+        }
+      ],
+      "duration_ms": 141835,
+      "name": "Waste Ur Time",
+      "url": "https://open.spotify.com/track/6c7YABBOLl7jB6F0bntYcy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -475,22 +523,6 @@
       "duration_ms": 210576,
       "name": "Murderer",
       "url": "https://open.spotify.com/track/6aZbAWmCQilinWprgzashl"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "strings attached",
-        "url": "https://open.spotify.com/album/7iPwrNVC5q8wpyBlG2iWmo"
-      },
-      "artists": [
-        {
-          "name": "gianni & kyle",
-          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
-        }
-      ],
-      "duration_ms": 124621,
-      "name": "strings attached",
-      "url": "https://open.spotify.com/track/2nct4AWwTHzgc1GkyPgImI"
     },
     {
       "added_at": "2023-07-07 21:12:57",
@@ -693,22 +725,6 @@
       "url": "https://open.spotify.com/track/1ADdTIO8N6I03vxzr0BDji"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "summer camp",
-        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/7m4BsKrYkOFy3VNmAMu5bO"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "harvey dent",
@@ -909,22 +925,6 @@
       "url": "https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Need To Know",
-        "url": "https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ"
-      },
-      "artists": [
-        {
-          "name": "Presley Regier",
-          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
-        }
-      ],
-      "duration_ms": 174834,
-      "name": "Need To Know",
-      "url": "https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Walking Blind",
@@ -1039,22 +1039,6 @@
       "duration_ms": 145626,
       "name": "freak",
       "url": "https://open.spotify.com/track/7o6FydJ4BiJCVfEQvjFvKG"
-    },
-    {
-      "added_at": "2023-04-05 18:40:44",
-      "album": {
-        "name": "woosah",
-        "url": "https://open.spotify.com/album/4l7AZRHP009foD9OjeOiQn"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 162640,
-      "name": "woosah",
-      "url": "https://open.spotify.com/track/2pDJMENPO7ECZJTWBx29vg"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -1433,22 +1417,6 @@
       "url": "https://open.spotify.com/track/1scFwySIE5a0btwc1J2CHk"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Over & Done",
@@ -1515,22 +1483,6 @@
       "duration_ms": 173266,
       "name": "I KNOW (feat. charlieonnafriday)",
       "url": "https://open.spotify.com/track/0AkjMC7s58FVDm9u2ZED0U"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Love,",
-        "url": "https://open.spotify.com/album/0TU2tFRFVm3RzdUJtnm7o4"
-      },
-      "artists": [
-        {
-          "name": "mike.",
-          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
-        }
-      ],
-      "duration_ms": 220704,
-      "name": "white dress",
-      "url": "https://open.spotify.com/track/2qbp0Z79WhS5myTcZGHPeH"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1653,42 +1605,6 @@
       "url": "https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Are You Entertained (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Are You Entertained (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "sheluvme",
-        "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "sheluvme",
-      "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
-    },
-    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "That's What I Get",
@@ -1703,78 +1619,6 @@
       "duration_ms": 150604,
       "name": "That's What I Get",
       "url": "https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Freak Like That",
-        "url": "https://open.spotify.com/album/1QjzC5LHTgCcbvP66LibBE"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 135843,
-      "name": "Freak Like That",
-      "url": "https://open.spotify.com/track/4jCA5lFRXy7PkryLP7UIc8"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Live Fast Die Numb",
-        "url": "https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 134498,
-      "name": "Live Fast Die Numb",
-      "url": "https://open.spotify.com/track/10omO03JNpJwhjo538gdNc"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27"
-      },
-      "artists": [
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Miss You a Little (feat. lovelytheband)",
-        "url": "https://open.spotify.com/album/67OpexBmynKW5tWHE7PYOX"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 168180,
-      "name": "Miss You a Little (feat. lovelytheband)",
-      "url": "https://open.spotify.com/track/2tijppLc0gaWA2AfPDANvq"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1895,38 +1739,6 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "IMPATIENT",
-        "url": "https://open.spotify.com/album/6GH9V2pkHwDjCNWhDkGQM4"
-      },
-      "artists": [
-        {
-          "name": "SEBASTIAN PAUL",
-          "url": "https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF"
-        }
-      ],
-      "duration_ms": 189309,
-      "name": "IMPATIENT",
-      "url": "https://open.spotify.com/track/37dVuP5d1BtVDagETMqP3k"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
-        "url": "https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 150322,
-      "name": "DITTO",
-      "url": "https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4"
     }
   ],
   "unique_name": "Varsity Bars",

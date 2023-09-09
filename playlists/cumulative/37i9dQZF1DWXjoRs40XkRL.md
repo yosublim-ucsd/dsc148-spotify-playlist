@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-186 songs - 16 hr 58 min
+187 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bright Eyes](https://open.spotify.com/track/6YurAWZr1amWqDhkn3Yrc9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Bright Eyes & In This Mouth](https://open.spotify.com/album/0R3Gu22TJ3rjZIP6Fn7Iwo) | 6:24 | 2022-05-17 | 2022-07-29 |
 | [Bright Eyes \(feat\. Alev Lenz\)](https://open.spotify.com/track/5MaDXZxQUKRqGC3JAQIGpr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Love Letters P.S\. \(Deluxe\)](https://open.spotify.com/album/0qYDzUGVm3cROeMQ5IrGIC) | 6:24 | 2022-07-12 | 2023-05-24 |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-05-17 | 2023-04-22 |
+| [Chann](https://open.spotify.com/track/6ElMeJeP2bqPV9osEESQK8) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Chann](https://open.spotify.com/album/7nCzZ3W3YVhDXKBMkk59vM) | 2:46 | 2023-09-08 |  |
 | [Chayanat](https://open.spotify.com/track/0X0rm2Yz4eoRPtDmYORevR) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Bhuvanesh Komkali](https://open.spotify.com/artist/5wqAPDVFT5PhC2RZiA53zB) | [Chayanat](https://open.spotify.com/album/2EyvDomj1NOcjAuhtPr5Nb) | 5:24 | 2022-05-17 |  |
 | [Dil Leke Mujhe Badnam \- Thumri/lounge](https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ), [Ankur Mukherjee](https://open.spotify.com/artist/69T59hAeicTPSD99TWNO5g) | [Dil Leke Mujhe Badnam \(Thumri/lounge\)](https://open.spotify.com/album/3EffjYOMsxahbRFHYlZsod) | 5:20 | 2022-05-17 |  |
 | [Easy](https://open.spotify.com/track/1Zlp3AkCc1CCtp3yUwqdRr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Breathing Under Water](https://open.spotify.com/album/7FaPH6ZYyCQS6S5Frf6ib7) | 3:30 | 2022-05-17 | 2023-02-02 |
@@ -75,7 +76,7 @@
 | [Jhinjhoti](https://open.spotify.com/track/4oWJqeGeJK1N5M0dUqogYD) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Jhinjhoti](https://open.spotify.com/album/6weyfGZOlWKTnp5Yq49Fjn) | 5:02 | 2022-05-17 |  |
 | [Jiya Mora Re](https://open.spotify.com/track/2n3H9PPBOXWproji7x3g0E) | [The PriyaRang Project](https://open.spotify.com/artist/0V9JIMj8rpAb5sLaETyJdn), [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sarang Kulkarni](https://open.spotify.com/artist/5AbDGuiDyG6kdlMLbo2njR) | [Jiya Mora Re](https://open.spotify.com/album/2z6FfQtPih0s6iSkPne2PV) | 6:21 | 2022-12-22 |  |
 | [Jiyara](https://open.spotify.com/track/2tCyldMmgrHlhP8IWiSy4h) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Fungeet](https://open.spotify.com/album/2pWlLUrt2y0QppU4OUXFTh) | 2:54 | 2023-04-24 | 2023-08-04 |
-| [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 |  |
+| [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 | 2023-09-09 |
 | [Ka Karoon](https://open.spotify.com/track/03J3QJbBmdsjdyfd9g0kYO) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:44 | 2023-08-01 |  |
 | [Ka Karoon Sajni \- The Unwind Mix](https://open.spotify.com/track/5oVHgBoF0B29CXW1L4aeU7) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB) | [Ka Karoon Sajni \- Single](https://open.spotify.com/album/5Ao1TWZgINPwvOy96c2dbV) | 4:29 | 2022-05-17 |  |
 | [Kaa Karoon Sajni \- Thumri Jazz](https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Kaa Karoon Sajni \(Thumri Jazz\)](https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH) | 3:43 | 2023-04-21 |  |

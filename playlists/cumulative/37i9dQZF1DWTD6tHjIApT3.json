@@ -6105,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "Harajuku Boy",
+        "url": "https://open.spotify.com/album/2UaG3U6D0jXC898hXNUbow"
+      },
+      "artists": [
+        {
+          "name": "City Cyndrome",
+          "url": "https://open.spotify.com/artist/3rW1Y4T5r97bJBG7b2HqjY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311400,
+      "name": "Harajuku Boy",
+      "url": "https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL"
+    },
+    {
+      "album": {
         "name": "Hatati20",
         "url": "https://open.spotify.com/album/6dGShhrVFOCyc1Ovbhqmbw"
       },
@@ -15330,7 +15348,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 227473,
       "name": "sugar",
       "url": "https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj"

@@ -4,7 +4,7 @@
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-70 songs - 3 hr 17 min
+71 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Main Offender](https://open.spotify.com/track/4N9NC8JCz2hSimtbspc6Ng) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 2:33 | 2023-04-28 |  |
 | [Mala](https://open.spotify.com/track/3SPfRV7ettmWzyMELv2b1c) | [Davila 666](https://open.spotify.com/artist/0PQK6BLKbviconz1bx1rlH) | [Mala](https://open.spotify.com/album/345cfoQSDPjR0JuyRI9Ipq) | 1:44 | 2023-04-28 |  |
 | [Maldito](https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Saga Mama](https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE) | 2:55 | 2023-04-28 |  |
+| [Mandame Una Foto](https://open.spotify.com/track/4dVu4z0wGvYU4nlE5G4Ncj) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Mandame Una Foto](https://open.spotify.com/album/7vMZnY0Qw08DladBtWTm7B) | 3:02 | 2023-09-08 |  |
 | [Me Gusta Tu Papá](https://open.spotify.com/track/3JqBxTVYL06K8aMPCQyGoz) | [Las Fantásticas Pupés](https://open.spotify.com/artist/0q5IMLkMbK89Eh7ALR0bMR) | [Toma 1..\. 2..\. 3...](https://open.spotify.com/album/7nd0Ee7KhwSpMJ8JdSStVp) | 1:47 | 2023-04-28 |  |
 | [Mujer Calavera](https://open.spotify.com/track/11PKdxRsqLw1T7oQKzoMck) | [Espantimandros](https://open.spotify.com/artist/6ZshwyJgSnQ86ELi19UdfM) | [Entes Extraños](https://open.spotify.com/album/5BrOPPFtoKApIFePEDOYUZ) | 3:00 | 2023-04-28 |  |
 | [Nena Pálida](https://open.spotify.com/track/18h8v9NWiwAoiFRm5SfmU0) | [O Tortuga](https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK) | [Palma Linda](https://open.spotify.com/album/0hikLYn7z8DUUyFjoGcjE4) | 2:33 | 2023-04-28 |  |

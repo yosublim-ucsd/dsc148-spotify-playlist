@@ -2939,6 +2939,28 @@
     },
     {
       "album": {
+        "name": "Fuzzsplit of the Century",
+        "url": "https://open.spotify.com/album/55VeJlf8DMBsp5X2br5d04"
+      },
+      "artists": [
+        {
+          "name": "Truckfighters",
+          "url": "https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h"
+        },
+        {
+          "name": "Firestone",
+          "url": "https://open.spotify.com/artist/0TEi1w5vnsyb25Kz1sObbp"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "Megalomania",
+      "url": "https://open.spotify.com/track/2nudyUXlURs5NS8nDNFb4K"
+    },
+    {
+      "album": {
         "name": "Holy Shit",
         "url": "https://open.spotify.com/album/7AHwo06htB7Lz6zNGkdy3P"
       },
@@ -4390,7 +4412,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 409466,
       "name": "Superjudge",
       "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"

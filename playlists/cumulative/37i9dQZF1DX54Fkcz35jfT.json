@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0m1gOpBNelReGcRVwEn31d"
+      },
+      "artists": [
+        {
+          "name": "WHISPER OUT LOUD",
+          "url": "https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193450,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/40ScGVclGVcxNVDnZTaOs6"
+    },
+    {
+      "album": {
         "name": "One step forward",
         "url": "https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9"
       },
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 130746,
       "name": "\u795e\u55b0",
       "url": "https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e"

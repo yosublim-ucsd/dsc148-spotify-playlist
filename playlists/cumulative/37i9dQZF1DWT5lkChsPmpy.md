@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-447 songs - 19 hr 55 min
+448 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-10 | 2022-02-11 |
+| [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-09-08 |  |
 | [lighting](https://open.spotify.com/track/2MRALsAuVvzfUAHP0RT2er) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [lighting](https://open.spotify.com/album/5f3JBcC6rK8b7pieUCPHsE) | 2:54 | 2023-08-18 |  |
 | [Lightning](https://open.spotify.com/track/0Zl59CK613Aeb6TEoqVTNA) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [Lightning](https://open.spotify.com/album/2v1ZMg2udU7qXEsZEsZVWn) | 2:14 | 2023-03-24 |  |
 | [lights out](https://open.spotify.com/track/4VPY9FS6kOmJSBu60bHn32) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [lights out](https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ) | 3:05 | 2023-01-06 |  |
@@ -377,7 +378,7 @@
 | [Somewhere](https://open.spotify.com/track/1CYrpAj5Gdnv1zNBoEhJj4) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Somewhere](https://open.spotify.com/album/559m1quyOHDPpwenShOIp6) | 2:48 | 2022-02-10 |  |
 | [soul serum](https://open.spotify.com/track/0Sx2O6A7j16arO6vIPTwqQ) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [soul serum](https://open.spotify.com/album/7MaUGcfvsLuWu2YYxxAUNX) | 2:39 | 2021-11-10 | 2022-09-09 |
 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2021-11-10 |  |
-| [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2021-11-10 |  |
+| [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2021-11-10 | 2023-09-09 |
 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 | 2021-11-10 |  |
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2021-11-10 | 2022-09-02 |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-11-10 |  |

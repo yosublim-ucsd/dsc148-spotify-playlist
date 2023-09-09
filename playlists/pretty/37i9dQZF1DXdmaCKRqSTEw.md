@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,447 likes - 19 songs - 49 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 21,482 likes - 19 songs - 49 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,6 +26,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 | 16 | [First Class Bitch](https://open.spotify.com/track/5wIuzHBxFEM6TXwAvg6Xxo) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [First Class Bitch](https://open.spotify.com/album/7EgYldvSDOCj4DBJm7JJgk) | 3:01 |
 | 17 | [WOW \(Look At Me\)](https://open.spotify.com/track/1zwyg3yZlh4zYk4i5oJAN5) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [WOW \(Look At Me\)](https://open.spotify.com/album/1SlAViaRrfVaDRsSvjoe0f) | 2:26 |
 | 18 | [The Pines](https://open.spotify.com/track/0uTw7TNnYn64XmCAo5jr0c) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
-| 19 | [I'm Good](https://open.spotify.com/track/2JHnZr94NIAJ2Klv8LyeeU) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/7J0ZIqCXonETepPyPf1Eka) | 2:28 |
+| 19 | [I'm Good](https://open.spotify.com/track/3JAO7zhWvneqJNfJAhe1tz) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/3AioZn41yELB0tkoTfhRVK) | 2:28 |
 
-Snapshot ID: `MCwzNmM1OWM5ZDhjMGMzNGI2ODY3NTliNGJkYTNhNTEwOWU4NDA5Y2Yy`
+Snapshot ID: `MCxiZGY5MDE3ZmJkMGEyN2VkMDNkZGQ4OGMzYmVjMzk4NGY3NTE1Y2Jm`

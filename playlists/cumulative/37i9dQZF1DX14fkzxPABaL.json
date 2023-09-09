@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 229088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1yKEuzqedHXlRiXUCbKTAl"
@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213183,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
+    },
+    {
+      "album": {
         "name": "Ella vive en m\u00ed (feat. Antonio Orozco)",
         "url": "https://open.spotify.com/album/7fOxTwcJRhIMemA2x0cWkf"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 207389,
       "name": "Estabas Ah\u00ed",
       "url": "https://open.spotify.com/track/5IwOgqXn6mE1XTIOwnB6Zz"
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 239010,
       "name": "Gracias Por Llegar",
       "url": "https://open.spotify.com/track/6qPSG0TR6gB1VgqGyYSWVl"

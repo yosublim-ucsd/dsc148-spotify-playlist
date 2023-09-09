@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Astoria on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 113166,
+  "num_followers": 113284,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDA1YjhmZTEwODFiZjNjZjEwNWJmODNjODkxOTkzZjMzYTkwMDlm",
+  "snapshot_id": "MCxlNmI4ZmQ5YzFhMDRhNWY3ZGYwYjhiNWM5YzQ0YTZiOGEwMzQ5Mjg0",
   "tracks": [
     {
       "added_at": "2023-08-02 14:55:57",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
-      "added_at": "2023-08-10 05:46:09",
-      "album": {
-        "name": "MY BLACK CAT",
-        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
-      },
-      "artists": [
-        {
-          "name": "Nana Nina",
-          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "MY BLACK CAT",
-      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Zionic Mud",
@@ -223,6 +207,22 @@
       "duration_ms": 321782,
       "name": "Zionic Mud",
       "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
+      "added_at": "2023-08-10 05:46:09",
+      "album": {
+        "name": "MY BLACK CAT",
+        "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Nina",
+          "url": "https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "MY BLACK CAT",
+      "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Pleiades",
-        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
-      },
-      "artists": [
-        {
-          "name": "AINO",
-          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
-        }
-      ],
-      "duration_ms": 508603,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "The Shuttle Bus",
@@ -439,6 +423,22 @@
       "duration_ms": 215974,
       "name": "The Shuttle Bus",
       "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Pleiades",
+        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
+      },
+      "artists": [
+        {
+          "name": "AINO",
+          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
+        }
+      ],
+      "duration_ms": 508603,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Blue Angel Sparkling Silver",
-        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
+        "name": "Subzero",
+        "url": "https://open.spotify.com/album/55C5LPOAwNqnDhNaV1hx8o"
       },
       "artists": [
         {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+          "name": "Rob Robinson",
+          "url": "https://open.spotify.com/artist/2wjvBhM9hWFMT4BpKsB98u"
         }
       ],
-      "duration_ms": 70616,
-      "name": "Somerville",
-      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
+      "duration_ms": 282750,
+      "name": "Subzero",
+      "url": "https://open.spotify.com/track/6sJpI63m2ZJvJzfPH1DB3o"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/11woWQDGXwLOKQ4ofuPdqj"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "Subzero",
-        "url": "https://open.spotify.com/album/55C5LPOAwNqnDhNaV1hx8o"
+        "name": "Blue Angel Sparkling Silver",
+        "url": "https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65"
       },
       "artists": [
         {
-          "name": "Rob Robinson",
-          "url": "https://open.spotify.com/artist/2wjvBhM9hWFMT4BpKsB98u"
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
         }
       ],
-      "duration_ms": 282750,
-      "name": "Subzero",
-      "url": "https://open.spotify.com/track/6sJpI63m2ZJvJzfPH1DB3o"
+      "duration_ms": 70616,
+      "name": "Somerville",
+      "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Show You My World",
-        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
-      },
-      "artists": [
-        {
-          "name": "\u017bY\u0143Y",
-          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Show You My World",
-      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
         "name": "Eating food and fighting Wizards",
         "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 320640,
       "name": "Eating food and fighting Wizards",
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Show You My World",
+        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Show You My World",
+      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Blue Numbers",
+        "url": "https://open.spotify.com/album/2zQda2QHBKRLwFyROckc7y"
+      },
+      "artists": [
+        {
+          "name": "Harry Teardrop",
+          "url": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV"
+        }
+      ],
+      "duration_ms": 97342,
+      "name": "A flickering life",
+      "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
+    },
+    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "behind the waterfall",
@@ -701,20 +717,24 @@
       "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "Blue Numbers",
-        "url": "https://open.spotify.com/album/2zQda2QHBKRLwFyROckc7y"
+        "name": "Wouldn\u2019t It Be Easy?",
+        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
       },
       "artists": [
         {
-          "name": "Harry Teardrop",
-          "url": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV"
+          "name": "Oyatan",
+          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L"
         }
       ],
-      "duration_ms": 97342,
-      "name": "A flickering life",
-      "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
+      "duration_ms": 149674,
+      "name": "thing about a boy",
+      "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -749,24 +769,20 @@
       "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-05-24 14:03:48",
       "album": {
-        "name": "Wouldn\u2019t It Be Easy?",
-        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
+        "name": "Calamity",
+        "url": "https://open.spotify.com/album/1GH3RIvPE8FIv5cd1baSlY"
       },
       "artists": [
         {
-          "name": "Oyatan",
-          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
-        },
-        {
-          "name": "Manta",
-          "url": "https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L"
+          "name": "MeSo",
+          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
         }
       ],
-      "duration_ms": 149674,
-      "name": "thing about a boy",
-      "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
+      "duration_ms": 183272,
+      "name": "Calamity",
+      "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -801,22 +817,6 @@
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
-      "album": {
-        "name": "Calamity",
-        "url": "https://open.spotify.com/album/1GH3RIvPE8FIv5cd1baSlY"
-      },
-      "artists": [
-        {
-          "name": "MeSo",
-          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Calamity",
-      "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Everything I Was, Burning Slow",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Huele a Fraude",
-        "url": "https://open.spotify.com/album/33M6iurGTMMsjFC5kULSJn"
-      },
-      "artists": [
-        {
-          "name": "Robert Ouyang Rusli",
-          "url": "https://open.spotify.com/artist/7HlECNrTc4ovaW1QLFs9vY"
-        }
-      ],
-      "duration_ms": 84180,
-      "name": "Monument to Possibilities",
-      "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
         "name": "melancholia blue",
         "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 219468,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Huele a Fraude",
+        "url": "https://open.spotify.com/album/33M6iurGTMMsjFC5kULSJn"
+      },
+      "artists": [
+        {
+          "name": "Robert Ouyang Rusli",
+          "url": "https://open.spotify.com/artist/7HlECNrTc4ovaW1QLFs9vY"
+        }
+      ],
+      "duration_ms": 84180,
+      "name": "Monument to Possibilities",
+      "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -929,6 +929,38 @@
       "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
     },
     {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5wJHXFxOdrJo2l4sU6jyYW"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 212472,
+      "name": "Way Things Aren't",
+      "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Dogwood Variations",
+        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
+      },
+      "artists": [
+        {
+          "name": "Austin Cash",
+          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
+        }
+      ],
+      "duration_ms": 384727,
+      "name": "Franklin, King of the Beers",
+      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
+    },
+    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Opinions",
@@ -967,38 +999,6 @@
     {
       "added_at": "2023-06-28 01:00:55",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/5wJHXFxOdrJo2l4sU6jyYW"
-      },
-      "artists": [
-        {
-          "name": "air hunger",
-          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
-        }
-      ],
-      "duration_ms": 212472,
-      "name": "Way Things Aren't",
-      "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Sophia Oscillations",
-        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
-      },
-      "artists": [
-        {
-          "name": "Mission To The Sun",
-          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
-        }
-      ],
-      "duration_ms": 261433,
-      "name": "Attrition",
-      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
-    },
-    {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
         "name": "Path Integral VII - 4",
         "url": "https://open.spotify.com/album/4SiyvWP7jyE6jSRAm3sVGf"
       },
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Dogwood Variations",
-        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
+        "name": "Sophia Oscillations",
+        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
       },
       "artists": [
         {
-          "name": "Austin Cash",
-          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
+          "name": "Mission To The Sun",
+          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
         }
       ],
-      "duration_ms": 384727,
-      "name": "Franklin, King of the Beers",
-      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
+      "duration_ms": 261433,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Fascinating Rhythm",
+        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
+      },
+      "artists": [
+        {
+          "name": "Janon Panic Push",
+          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Fascinating Rhythm Remix",
+      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
+    },
+    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Conversations in Ritual",
@@ -1141,20 +1157,20 @@
       "url": "https://open.spotify.com/track/5Lijj3EPCxqzsccJNCm0ZV"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-05-24 14:03:48",
       "album": {
-        "name": "Fascinating Rhythm",
-        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/3yQiziNk6lxAGrthUrt7j2"
       },
       "artists": [
         {
-          "name": "Janon Panic Push",
-          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
+          "name": "deRijk",
+          "url": "https://open.spotify.com/artist/4cGrOxrcOzBFCB6oNa1lqx"
         }
       ],
-      "duration_ms": 203500,
-      "name": "Fascinating Rhythm Remix",
-      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
+      "duration_ms": 206428,
+      "name": "Second Attempt",
+      "url": "https://open.spotify.com/track/06WxpNhlcee8LxTzumrR2B"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -1173,20 +1189,20 @@
       "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/3yQiziNk6lxAGrthUrt7j2"
+        "name": "Rikta EP",
+        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
       },
       "artists": [
         {
-          "name": "deRijk",
-          "url": "https://open.spotify.com/artist/4cGrOxrcOzBFCB6oNa1lqx"
+          "name": "Subrix",
+          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
         }
       ],
-      "duration_ms": 206428,
-      "name": "Second Attempt",
-      "url": "https://open.spotify.com/track/06WxpNhlcee8LxTzumrR2B"
+      "duration_ms": 272098,
+      "name": "Rikta",
+      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -1221,20 +1237,20 @@
       "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "Rikta EP",
-        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
+        "name": "Hotel *****",
+        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
       },
       "artists": [
         {
-          "name": "Subrix",
-          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
+          "name": "julek ploski",
+          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
         }
       ],
-      "duration_ms": 272098,
-      "name": "Rikta",
-      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+      "duration_ms": 157200,
+      "name": "Main theme, Pt I",
+      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1257,22 +1273,6 @@
       "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Hotel *****",
-        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
-      },
-      "artists": [
-        {
-          "name": "julek ploski",
-          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Main theme, Pt I",
-      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Vol. II",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
-      },
-      "artists": [
-        {
-          "name": "AIKA",
-          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
-        }
-      ],
-      "duration_ms": 114886,
-      "name": "Room of Fear",
-      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Shoegaze 5G",
@@ -1319,6 +1303,22 @@
       "duration_ms": 156415,
       "name": "Alien Farmer",
       "url": "https://open.spotify.com/track/383StcK6uDHtzkVUFfogqf"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
+      },
+      "artists": [
+        {
+          "name": "AIKA",
+          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
+        }
+      ],
+      "duration_ms": 114886,
+      "name": "Room of Fear",
+      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1373,6 +1373,22 @@
       "url": "https://open.spotify.com/track/1nFCWcGCm6vYuOMsjptQgD"
     },
     {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+      },
+      "artists": [
+        {
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+        }
+      ],
+      "duration_ms": 92737,
+      "name": "drive thru",
+      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
+    },
+    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "Variable Happiness",
@@ -1421,36 +1437,24 @@
       "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
-      },
-      "artists": [
-        {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
-        }
-      ],
-      "duration_ms": 92737,
-      "name": "drive thru",
-      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Smug",
-        "url": "https://open.spotify.com/album/5b6oImQ5O0S3SuEGwzIrDV"
+        "name": "Sleep Bag",
+        "url": "https://open.spotify.com/album/40M1syabkQfYRZET6ZIaOz"
       },
       "artists": [
         {
-          "name": "Mindsight",
-          "url": "https://open.spotify.com/artist/6EcpgZnQhBHbiIfyQPGiGu"
+          "name": "Palazzi D'Oriente",
+          "url": "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+        },
+        {
+          "name": "Michael Mills",
+          "url": "https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV"
         }
       ],
-      "duration_ms": 111428,
-      "name": "Smug",
-      "url": "https://open.spotify.com/track/3pZtjbk8LVoThxiL3ZhWo3"
+      "duration_ms": 167462,
+      "name": "Sleep Bag",
+      "url": "https://open.spotify.com/track/0h4MS5onjOSx9v1vbeuoQX"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Sleep Bag",
-        "url": "https://open.spotify.com/album/40M1syabkQfYRZET6ZIaOz"
+        "name": "Smug",
+        "url": "https://open.spotify.com/album/5b6oImQ5O0S3SuEGwzIrDV"
       },
       "artists": [
         {
-          "name": "Palazzi D'Oriente",
-          "url": "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
-        },
-        {
-          "name": "Michael Mills",
-          "url": "https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV"
+          "name": "Mindsight",
+          "url": "https://open.spotify.com/artist/6EcpgZnQhBHbiIfyQPGiGu"
         }
       ],
-      "duration_ms": 167462,
-      "name": "Sleep Bag",
-      "url": "https://open.spotify.com/track/0h4MS5onjOSx9v1vbeuoQX"
+      "duration_ms": 111428,
+      "name": "Smug",
+      "url": "https://open.spotify.com/track/3pZtjbk8LVoThxiL3ZhWo3"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-05-24 14:03:48",
       "album": {
-        "name": "Dancing Like Dust",
-        "url": "https://open.spotify.com/album/5IfhJxfgiDeYw1OkYVcovX"
-      },
-      "artists": [
-        {
-          "name": "Fred Frith, Nuria Andorra",
-          "url": "https://open.spotify.com/artist/5STihC5d3a3sxDPaA0fZNw"
-        }
-      ],
-      "duration_ms": 516612,
-      "name": "Cinclidae",
-      "url": "https://open.spotify.com/track/0E1Z02zQckLjd4ZLyPEifh"
-    },
-    {
-      "added_at": "2023-05-24 14:03:48",
-      "album": {
         "name": "fabric SELECTS II",
         "url": "https://open.spotify.com/album/3hX7qAayJqtgrkVf8Rz00I"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 270651,
       "name": "Inverted",
       "url": "https://open.spotify.com/track/0Yt7OVK0cS9IwyqTvoZTxu"
+    },
+    {
+      "added_at": "2023-05-24 14:03:48",
+      "album": {
+        "name": "Dancing Like Dust",
+        "url": "https://open.spotify.com/album/5IfhJxfgiDeYw1OkYVcovX"
+      },
+      "artists": [
+        {
+          "name": "Fred Frith, Nuria Andorra",
+          "url": "https://open.spotify.com/artist/5STihC5d3a3sxDPaA0fZNw"
+        }
+      ],
+      "duration_ms": 516612,
+      "name": "Cinclidae",
+      "url": "https://open.spotify.com/track/0E1Z02zQckLjd4ZLyPEifh"
     },
     {
       "added_at": "2023-08-30 04:00:00",

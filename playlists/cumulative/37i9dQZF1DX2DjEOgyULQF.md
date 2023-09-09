@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-139 songs - 6 hr 52 min
+140 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2023-04-28 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 |  |
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-04-28 |  |
+| [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 |  |
 | [Halfmoon](https://open.spotify.com/track/0AdOu6FCkWdtrCxPYP4yS9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Halfmoon](https://open.spotify.com/album/3f4dbs1Vhi3VBJ121oobzs) | 2:49 | 2023-08-11 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-04-28 |  |
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2023-04-28 |  |
@@ -101,9 +102,9 @@
 | [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 | 2023-04-28 |  |
 | [Pompeiana Waters](https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana Waters](https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ) | 2:54 | 2023-04-28 |  |
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2023-04-28 |  |
-| [Prakrti](https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Prakrti](https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM) | 2:57 | 2023-06-30 | 2023-09-08 |
+| [Prakrti](https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Prakrti](https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM) | 2:57 | 2023-06-30 |  |
 | [Prana](https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Bhakti](https://open.spotify.com/album/01pQqb89FcBuQnE2KDdFyl) | 2:48 | 2023-04-28 |  |
-| [Relaxing Water Flow](https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:16 | 2023-04-28 |  |
+| [Relaxing Water Flow](https://open.spotify.com/track/0WI552XdVtIsWJzxU0vxXA) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:16 | 2023-04-28 | 2023-09-09 |
 | [Renacer en Calma \(Nature\)](https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 3:02 | 2023-06-09 |  |
 | [Restful Petal \- Spa](https://open.spotify.com/track/2po2Rc8mLumB3CmBY9jrX5) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:12 | 2023-04-28 |  |
 | [Resting Awareness](https://open.spotify.com/track/75htMeGOTX33uYBoMhC1Ht) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Resting Awareness](https://open.spotify.com/album/1QiQhqFQKsJFk8TWmASgXd) | 3:02 | 2023-04-28 |  |

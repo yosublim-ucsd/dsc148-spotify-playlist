@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Sing-Along with Emily Arrow",
+        "url": "https://open.spotify.com/album/0FNmutc36Ui3m8oLUg20Ji"
+      },
+      "artists": [
+        {
+          "name": "Emily Arrow",
+          "url": "https://open.spotify.com/artist/0kUpZhl1fznhuvszZ4g0C9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164591,
+      "name": "If I Had A Hammer",
+      "url": "https://open.spotify.com/track/4kVycyVbscsthECqKbPEt1"
+    },
+    {
+      "album": {
         "name": "If You Want a Song",
         "url": "https://open.spotify.com/album/3zTVV2mDRYt3QZYx7TVZ3i"
       },

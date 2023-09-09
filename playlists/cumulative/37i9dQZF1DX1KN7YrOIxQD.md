@@ -2,7 +2,7 @@
 
 ### [Éxitos Centroamérica](https://open.spotify.com/playlist/37i9dQZF1DX1KN7YrOIxQD)
 
-> Los éxitos del momento en Centroamérica, con Quevedo en portada
+> Los éxitos del momento en Centroamérica, con KAROL G en portada
 
 227 songs - 12 hr 43 min
 

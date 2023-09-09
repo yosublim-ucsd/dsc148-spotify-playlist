@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Dillaz entra na zona. ",
+  "description": "Guga entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -198,6 +198,40 @@
       "duration_ms": 207807,
       "name": "4AM no Rio",
       "url": "https://open.spotify.com/track/6Z0omreb7QNSj3ptomTmOU"
+    },
+    {
+      "album": {
+        "name": "DOPE MUZIK apresenta: Pedras Preciosas",
+        "url": "https://open.spotify.com/album/5ZyIbH4gXlax3F8g4KK8kC"
+      },
+      "artists": [
+        {
+          "name": "Van Sophie",
+          "url": "https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG"
+        },
+        {
+          "name": "Don G",
+          "url": "https://open.spotify.com/artist/1sXcSpEYLDVaQSdKG4VWlb"
+        },
+        {
+          "name": "NGA",
+          "url": "https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "A Chama (Stay With Me)",
+      "url": "https://open.spotify.com/track/6W7SVB7RPIkcxjLMKgdRXE"
     },
     {
       "album": {
@@ -3295,6 +3329,24 @@
     },
     {
       "album": {
+        "name": "Ilustre Desconhecido",
+        "url": "https://open.spotify.com/album/6MUR4xZWGeYamjJkANAXZO"
+      },
+      "artists": [
+        {
+          "name": "Mundo Segundo",
+          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172940,
+      "name": "Ilustre Desconhecido",
+      "url": "https://open.spotify.com/track/1Pe2d0QHU38GivyFJnZDCO"
+    },
+    {
+      "album": {
         "name": "Nu Ta Combina",
         "url": "https://open.spotify.com/album/0HrHUZGAPxXZtenHkbPczt"
       },
@@ -3572,7 +3624,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 206060,
       "name": "LEALDADE",
       "url": "https://open.spotify.com/track/6Oe8f1lXxTF5wJ7c3AqDa1"
@@ -4343,6 +4395,28 @@
     },
     {
       "album": {
+        "name": "M\u00f3nica",
+        "url": "https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "M\u00f3nica",
+      "url": "https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g"
+    },
+    {
+      "album": {
         "name": "Patr\u00f5es EP",
         "url": "https://open.spotify.com/album/1ZHitx0vl1g1FR7CjwdszR"
       },
@@ -4976,7 +5050,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 142742,
       "name": "Owner - Remix",
       "url": "https://open.spotify.com/track/3Am5orspH6gBgJqk5SgEJv"
@@ -5676,7 +5750,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 183692,
       "name": "ROCKSTAR LIFE",
       "url": "https://open.spotify.com/track/4QAUKQbdBORbmpivFQtbRC"
@@ -5922,7 +5996,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 142800,
       "name": "Senta",
       "url": "https://open.spotify.com/track/1BMCRtyxpM7LEbEsI7QWMc"
@@ -6146,6 +6220,32 @@
       "duration_ms": 219611,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5JXo6j3iwoU7O7LzYNkXl5"
+    },
+    {
+      "album": {
+        "name": "Sonhos & Ins\u00f3nias",
+        "url": "https://open.spotify.com/album/7dqkzYoqf4VSobWNjcHYZc"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Ghost Wayne",
+          "url": "https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL"
+        },
+        {
+          "name": "Anthus",
+          "url": "https://open.spotify.com/artist/7oDGURd0X10X18lblWt72f"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219480,
+      "name": "Sonhos & Ins\u00f3nias",
+      "url": "https://open.spotify.com/track/2UTZP10Hplfqi7xVM7Q3eW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 54605,
+  "num_followers": 54821,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWM2NDBmMzljYTk5YjU5MmUwN2U4MjczNjcxMWUxYjVlYjhlMTE4",
+  "snapshot_id": "MCw4ODkxYTkwMGVlN2E1YTM5MGY1NmU0ZmRmZDcyOTNjYTA0NDU1MmVj",
   "tracks": [
     {
       "added_at": "2023-09-07 22:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "Choose Life",
         "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 188210,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "HIT IT",
-        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
-      },
-      "artists": [
-        {
-          "name": "Irradiate",
-          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "HIT IT",
-      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 171789,
       "name": "Fight Them All",
       "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "HIT IT",
+        "url": "https://open.spotify.com/album/41iCih8VDmQCezbRHH8U95"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "HIT IT",
+      "url": "https://open.spotify.com/track/4ucb4VSNPP6zctQqnnubpb"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1283,6 +1283,22 @@
       "duration_ms": 160390,
       "name": "Adrenaline Kicks",
       "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Demolition Hardcore",
-        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Demolition Hardcore",
-      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Het Verbond",
         "url": "https://open.spotify.com/album/7cAnk9HFypHN1uxsU2d3EM"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 256457,
       "name": "Het Verbond",
       "url": "https://open.spotify.com/track/1x9rkrQm68ZzhiO680mrS8"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Demolition Hardcore",
+        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Demolition Hardcore",
+      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "Ruthless For Life",
-        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
-      },
-      "artists": [
-        {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Ruthless For Life",
-      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "TH3 FL0W",
         "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 154272,
       "name": "TH3 FL0W",
       "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "Ruthless For Life",
+        "url": "https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i"
+      },
+      "artists": [
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Ruthless For Life",
+      "url": "https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS"
     },
     {
       "added_at": "2023-09-07 22:00:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-09-07 22:00:00",
       "album": {
-        "name": "It's Time EP",
-        "url": "https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp"
-      },
-      "artists": [
-        {
-          "name": "Distinction",
-          "url": "https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3"
-        },
-        {
-          "name": "Kelly",
-          "url": "https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT"
-        }
-      ],
-      "duration_ms": 239745,
-      "name": "The Protector",
-      "url": "https://open.spotify.com/track/48IF3j773hpoiFt97HyooD"
-    },
-    {
-      "added_at": "2023-09-07 22:00:00",
-      "album": {
         "name": "Hide Me",
         "url": "https://open.spotify.com/album/3sqlQlmk1NPZaeo62ihESL"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 201600,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/7wDCo18UPwxRkkMxd9VxBL"
+    },
+    {
+      "added_at": "2023-09-07 22:00:00",
+      "album": {
+        "name": "It's Time EP",
+        "url": "https://open.spotify.com/album/4mxwkTvcFUddpupBXJz8Lp"
+      },
+      "artists": [
+        {
+          "name": "Distinction",
+          "url": "https://open.spotify.com/artist/03FPXOHxGckbmbTQVqXmm3"
+        },
+        {
+          "name": "Kelly",
+          "url": "https://open.spotify.com/artist/1EfC8FYxeatTpN8RZBiiHT"
+        }
+      ],
+      "duration_ms": 239745,
+      "name": "The Protector",
+      "url": "https://open.spotify.com/track/48IF3j773hpoiFt97HyooD"
     },
     {
       "added_at": "2023-09-07 22:00:00",

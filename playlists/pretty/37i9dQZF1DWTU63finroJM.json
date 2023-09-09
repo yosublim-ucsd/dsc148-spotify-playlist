@@ -1,13 +1,97 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 54460,
+  "num_followers": 54484,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjI5MjNlZGIyNGZjNjYzYjhjYmRlNjUwZjRiYzc4MTEwYjdjMGMx",
+  "snapshot_id": "MCw5NDIyMzQ0MTY5MjY0MzU2ZTI1OWUxYThkNmY1NDVjYzdjZWM3Yzk2",
   "tracks": [
+    {
+      "added_at": "2023-04-17 14:05:23",
+      "album": {
+        "name": "GAR\u00c7ON",
+        "url": "https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG"
+      },
+      "artists": [
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+        }
+      ],
+      "duration_ms": 144866,
+      "name": "GAR\u00c7ON",
+      "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "dear abbey",
+        "url": "https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 234820,
+      "name": "dear abbey",
+      "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
+    },
+    {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "i don't lose sleep anymore",
+        "url": "https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 195645,
+      "name": "i don't lose sleep anymore",
+      "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
+    },
+    {
+      "added_at": "2023-09-08 07:14:00",
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 187487,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G"
+    },
+    {
+      "added_at": "2023-02-17 09:49:00",
+      "album": {
+        "name": "FU In My Head",
+        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
     {
       "added_at": "2023-06-09 08:10:55",
       "album": {
@@ -25,6 +109,42 @@
       "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
     },
     {
+      "added_at": "2023-09-08 07:14:00",
+      "album": {
+        "name": "tbh",
+        "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
+    },
+    {
+      "added_at": "2023-05-31 05:25:44",
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
+    },
+    {
       "added_at": "2023-04-17 14:05:23",
       "album": {
         "name": "what if i took it off for you?",
@@ -39,6 +159,54 @@
       "duration_ms": 136706,
       "name": "what if i took it off for you?",
       "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Missiles",
+        "url": "https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Missiles",
+      "url": "https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o"
+    },
+    {
+      "added_at": "2023-09-08 07:14:00",
+      "album": {
+        "name": "\u00c0 l'inverse",
+        "url": "https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "\u00c0 l'inverse",
+      "url": "https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "SENSATION",
+      "url": "https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -73,6 +241,22 @@
       "url": "https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF"
     },
     {
+      "added_at": "2023-09-08 07:14:00",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/3FSkVmYiQfJEePj9phBD55"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/1QREbpl3GAFm0ZyufYeil7"
+    },
+    {
       "added_at": "2023-08-18 06:00:00",
       "album": {
         "name": "HAPPY ACCIDENTS VOL. 1",
@@ -87,6 +271,22 @@
       "duration_ms": 192453,
       "name": "SHOWER MUSIC",
       "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "LANTAKLAH",
+        "url": "https://open.spotify.com/album/5szwqJQ5sQMBVaWa2vPWfM"
+      },
+      "artists": [
+        {
+          "name": "XONE",
+          "url": "https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo"
+        }
+      ],
+      "duration_ms": 169428,
+      "name": "LANTAKLAH",
+      "url": "https://open.spotify.com/track/4FHqdFddhbFpxUgvw5HVu0"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -105,20 +305,36 @@
       "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
     },
     {
-      "added_at": "2023-04-17 14:05:23",
+      "added_at": "2023-09-08 07:14:00",
       "album": {
-        "name": "GAR\u00c7ON",
-        "url": "https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG"
+        "name": "\u91d1\u661f",
+        "url": "https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0"
       },
       "artists": [
         {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 144866,
-      "name": "GAR\u00c7ON",
-      "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
+      "duration_ms": 217657,
+      "name": "\u91d1\u661f",
+      "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"
+    },
+    {
+      "added_at": "2023-06-09 08:10:55",
+      "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-08-25 05:16:34",
@@ -169,6 +385,22 @@
       "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
     },
     {
+      "added_at": "2023-09-08 07:14:00",
+      "album": {
+        "name": "Alfonsina Y El Mar",
+        "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB"
+    },
+    {
       "added_at": "2023-04-12 07:52:33",
       "album": {
         "name": "Jack e Lacrime",
@@ -189,52 +421,20 @@
       "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
+      "added_at": "2023-09-08 07:14:00",
       "album": {
-        "name": "dear abbey",
-        "url": "https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9"
+        "name": "Chaar Dinon Ka Khwaab",
+        "url": "https://open.spotify.com/album/72qKpOx8VNdYxZriGFnBnz"
       },
       "artists": [
         {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
         }
       ],
-      "duration_ms": 234820,
-      "name": "dear abbey",
-      "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
-    },
-    {
-      "added_at": "2023-09-01 09:20:13",
-      "album": {
-        "name": "i don't lose sleep anymore",
-        "url": "https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq"
-      },
-      "artists": [
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        }
-      ],
-      "duration_ms": 195645,
-      "name": "i don't lose sleep anymore",
-      "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Alleine",
-        "url": "https://open.spotify.com/album/29h7ryq6taHeULkUT2Cuhj"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Alleine",
-      "url": "https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn"
+      "duration_ms": 288298,
+      "name": "Lamha",
+      "url": "https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -293,20 +493,20 @@
       "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
+      "added_at": "2023-09-08 07:14:00",
       "album": {
-        "name": "SUN7",
-        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
+        "name": "I Refuse",
+        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
       },
       "artists": [
         {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
         }
       ],
-      "duration_ms": 147692,
-      "name": "SENSATION",
-      "url": "https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN"
+      "duration_ms": 227800,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
     },
     {
       "added_at": "2023-09-01 09:20:13",
@@ -323,6 +523,42 @@
       "duration_ms": 205447,
       "name": "Zgie\u0142k",
       "url": "https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        },
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
+      "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
+    },
+    {
+      "added_at": "2023-09-08 07:14:00",
+      "album": {
+        "name": "F.N.A.P.",
+        "url": "https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "F.N.A.P.",
+      "url": "https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -371,22 +607,6 @@
       "duration_ms": 280769,
       "name": "Totoo",
       "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "I Used To Be Fun",
-        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "duration_ms": 161445,
-      "name": "I Used To Be Fun",
-      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
     },
     {
       "added_at": "2023-09-01 09:20:13",
@@ -475,54 +695,6 @@
       "duration_ms": 183013,
       "name": "NOT ALONE",
       "url": "https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Missiles",
-        "url": "https://open.spotify.com/album/7Dt51R1XaFzJiOYexjDLkN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Missiles",
-      "url": "https://open.spotify.com/track/3SuOjeljBRqvDEQecwm53o"
-    },
-    {
-      "added_at": "2023-04-17 14:05:23",
-      "album": {
-        "name": "D\u00e9pass\u00e9",
-        "url": "https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 172394,
-      "name": "D\u00e9pass\u00e9",
-      "url": "https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te"
     },
     {
       "added_at": "2023-06-29 06:25:56",
@@ -641,22 +813,6 @@
       "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
     },
     {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "FU In My Head",
-        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 167248,
-      "name": "FU In My Head",
-      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
-    },
-    {
       "added_at": "2023-07-17 12:09:23",
       "album": {
         "name": "Rib\u00e9ry",
@@ -757,22 +913,6 @@
       "url": "https://open.spotify.com/track/3tTzInzRZC7kRMK1sRfT14"
     },
     {
-      "added_at": "2023-06-09 08:10:55",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
-    },
-    {
       "added_at": "2023-02-17 09:49:00",
       "album": {
         "name": "Safe",
@@ -787,26 +927,6 @@
       "duration_ms": 210000,
       "name": "Safe",
       "url": "https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        },
-        {
-          "name": "Zom Marie",
-          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
-      "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
     },
     {
       "added_at": "2023-07-13 12:32:20",
@@ -1227,26 +1347,6 @@
       "duration_ms": 235280,
       "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
       "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"
-    },
-    {
-      "added_at": "2023-05-31 05:25:44",
-      "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E"
     },
     {
       "added_at": "2023-05-08 07:50:27",
@@ -2237,26 +2337,6 @@
       "url": "https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer"
     },
     {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "FLOOR IS MINE",
-        "url": "https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        },
-        {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
-        }
-      ],
-      "duration_ms": 195809,
-      "name": "FLOOR IS MINE",
-      "url": "https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3"
-    },
-    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "\u689f",
@@ -2491,22 +2571,6 @@
     {
       "added_at": "2023-05-30 12:45:30",
       "album": {
-        "name": "LANTAKLAH",
-        "url": "https://open.spotify.com/album/5szwqJQ5sQMBVaWa2vPWfM"
-      },
-      "artists": [
-        {
-          "name": "XONE",
-          "url": "https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo"
-        }
-      ],
-      "duration_ms": 169428,
-      "name": "LANTAKLAH",
-      "url": "https://open.spotify.com/track/4FHqdFddhbFpxUgvw5HVu0"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
         "name": "\u53f0\u5317\u5bb5\u591c\u6307\u5357",
         "url": "https://open.spotify.com/album/0g6Hzc1A6nAOAloMQtUDPn"
       },
@@ -2551,66 +2615,6 @@
       "duration_ms": 229503,
       "name": "\u751f\u6d3b\u5fa9\u5e38",
       "url": "https://open.spotify.com/track/3cMG9t7dzGwcFs4vnU5Xa0"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Old Fashioned",
-        "url": "https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        },
-        {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
-        },
-        {
-          "name": "SiNNER MOON",
-          "url": "https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw"
-        },
-        {
-          "name": "Peatle",
-          "url": "https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Old Fashioned",
-      "url": "https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "beso franc\u00e9s",
-        "url": "https://open.spotify.com/album/6HQv2j8lOELD9K7s240BwP"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 158832,
-      "name": "beso franc\u00e9s",
-      "url": "https://open.spotify.com/track/3i2DjDgANCP3DjG0WxGNG5"
     },
     {
       "added_at": "2023-02-17 09:49:00",

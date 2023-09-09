@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: Burna Boy
 
-391 songs - 21 hr 18 min
+392 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-19 |  |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 | 2023-08-24 |  |
 | [CHOP N PRAY](https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [AFROSOUL \(Deluxe\)](https://open.spotify.com/album/69TI5V5QKajFC7ydxSbVgP) | 2:59 | 2021-09-10 | 2022-07-29 |
+| [Chop Time, No Friend](https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Time, No Friend](https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY) | 2:48 | 2023-08-24 |  |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-08-24 |  |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-08 | 2023-01-18 |
 | [Come Over \(Remix\)](https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Come Over \(Remix\)](https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt) | 2:25 | 2021-09-10 |  |
@@ -89,7 +90,7 @@
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5XYFwMy9hJ45a6NoavtyEa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:59 | 2022-08-19 | 2023-05-15 |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/667iWPYlAHCK16pwlbQRBf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1BtvLyxx9y5WZY518MAATW) | 2:59 | 2022-04-29 | 2022-07-29 |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/6bHb2ngQ4ZxxQbnjq4ir3D) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:59 | 2022-07-25 | 2022-12-17 |
-| [Damn \(feat\. 6lack\)](https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Damn \(feat\. 6lack\)](https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi) | 2:39 | 2021-09-10 |  |
+| [Damn \(feat\. 6lack\)](https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Damn \(feat\. 6lack\)](https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi) | 2:39 | 2021-09-10 | 2023-09-09 |
 | [Dangerous Love \- Møme Edit](https://open.spotify.com/track/1zRFuReZGAV4vgCyF88ait) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [Dangerous Love \(Møme Edit\)](https://open.spotify.com/album/0bq87uXuebLLprUKosCLT3) | 2:45 | 2021-09-10 | 2022-07-09 |
 | [DEADMAN BONE \(feat\. Koffee\)](https://open.spotify.com/track/1vq8fQ6GIdrys7zmZnQvUc) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:51 | 2022-03-04 | 2022-07-25 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-05-14 |  |

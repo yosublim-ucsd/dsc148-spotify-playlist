@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Isaias Saad
 
-206 songs - 20 hr 10 min
+207 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Altar \(Altar\) \- Ao Vivo](https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Altar \(Altar\) \[Ao Vivo\]](https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L) | 6:48 | 2023-04-15 |  |
 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 | 2022-09-09 |  |
 | [Anseio Ardente \- Ao Vivo](https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Anseio Ardente \(Ao Vivo\)](https://open.spotify.com/album/3POR0uxg3pcTRugYmPVGGi) | 6:44 | 2023-02-11 | 2023-04-16 |
-| [Antes e Depois](https://open.spotify.com/track/7BMtQ7eslSqJlijnhl4q0e) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB) | [Antes e Depois](https://open.spotify.com/album/7nf6YTKTrpRnW5C7OGugyg) | 4:28 | 2023-09-01 |  |
+| [Antes e Depois](https://open.spotify.com/track/7BMtQ7eslSqJlijnhl4q0e) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB) | [Antes e Depois](https://open.spotify.com/album/7nf6YTKTrpRnW5C7OGugyg) | 4:28 | 2023-09-01 | 2023-09-09 |
 | [Aqui O Mal Não Vai Entrar](https://open.spotify.com/track/5B3SEBuK3VVyMZyPFjawmK) | [Imafe Music](https://open.spotify.com/artist/7uONDs2xgEa45I088HwX56), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Aqui O Mal Não Vai Entrar](https://open.spotify.com/album/5462EWLaEmkc5G7MDsaiSJ) | 5:50 | 2023-07-07 | 2023-07-29 |
 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 | 2022-09-09 | 2022-12-17 |
 | [Até Tocar o Céu](https://open.spotify.com/track/5D4MxLzReeObQ5WyMZBHab) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Até Tocar o Céu](https://open.spotify.com/album/73GWhRZDIydE9oN7kghZ4p) | 5:53 | 2023-07-07 | 2023-08-05 |
@@ -161,6 +161,7 @@
 | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo) | 4:18 | 2023-02-03 |  |
 | [Santo \- Acústico](https://open.spotify.com/track/240EAtaZRleOj2CVcW6cpA) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Acústico\)](https://open.spotify.com/album/0SVVv1VaL4w98AqlcMIaAe) | 5:56 | 2023-02-24 | 2023-06-03 |
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 | 2023-02-24 |  |
+| [Santo pra Sempre \- Ao Vivo](https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/27qwBuiWJptuALWu9zCFt5) | 8:07 | 2023-09-08 |  |
 | [Saudai o Rei Jesus \(All Hail King Jesus\) \- Ao Vivo](https://open.spotify.com/track/0rz7tMWZxsNEcSaVBZpWcU) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/18XBdKux9vjLSs5x0p6r81) | 6:57 | 2023-05-19 | 2023-06-21 |
 | [Saudai o Rei Jesus \(All Hail King Jesus\) \- Ao Vivo](https://open.spotify.com/track/5gZIS1GbJxNgc0rTzzM6Lq) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 6:57 | 2023-06-16 | 2023-09-02 |
 | [Sei Que Farás](https://open.spotify.com/track/4zLXnGwd6vGjualpYBrr7D) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Sei Que Farás](https://open.spotify.com/album/7t5fRx6LgC6siUNMulJrJy) | 3:38 | 2022-12-16 | 2023-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,395 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,526 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 149 | [big ballin](https://open.spotify.com/track/7jYd6GwT72RhhKMTZ64Z1H) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [big ballin](https://open.spotify.com/album/3ZmWgh6RplgIZS69iOOMnO) | 2:15 |
 | 150 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 |
 
-Snapshot ID: `MCw3NWVmNGMzYmFjYjRlYzE2OTU1YzAxZjA3YzMyZjNjODk4ZDU3ZWU0`
+Snapshot ID: `MCxiMjVlODNiNDg1NzkwNTQ3OWQyM2Y2ZjBmODdkMzgzZGM0MGE4Yzlm`

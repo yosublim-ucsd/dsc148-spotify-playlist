@@ -2927,6 +2927,28 @@
     },
     {
       "album": {
+        "name": "yattyattawane",
+        "url": "https://open.spotify.com/album/6dBjMTrStkpRgcp7PNByft"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        },
+        {
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/75k5ZGFQq4rRbdiJZGJ8Vi"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "yattyattawane",
+      "url": "https://open.spotify.com/track/4TUDZrFx0JeSgWRm6Dpr0A"
+    },
+    {
+      "album": {
         "name": "Yoidoreshirazu",
         "url": "https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA"
       },
@@ -3722,7 +3744,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 189173,
       "name": "\u3084\u3063\u3061\u3083\u3063\u305f\u308f\u306d",
       "url": "https://open.spotify.com/track/7qUfyNwU250GflMZ5M633i"

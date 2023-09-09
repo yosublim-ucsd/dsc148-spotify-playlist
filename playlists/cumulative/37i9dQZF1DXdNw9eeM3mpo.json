@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 215680,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
@@ -1868,6 +1868,28 @@
       "duration_ms": 264354,
       "name": "Fuera de Ritmo",
       "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
+    },
+    {
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
     },
     {
       "album": {
@@ -2158,7 +2180,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 196018,
       "name": "La Bacha",
       "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
@@ -4000,7 +4022,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 198618,
       "name": "Rude Boys Unity",
       "url": "https://open.spotify.com/track/6rVld2p50b7Wk2DldUOZBh"
@@ -4080,6 +4102,28 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+    },
+    {
+      "album": {
+        "name": "Saboreando La Felicidad",
+        "url": "https://open.spotify.com/album/5uU6nnXITgIEXo6dHxRuEW"
+      },
+      "artists": [
+        {
+          "name": "Los Mucca",
+          "url": "https://open.spotify.com/artist/0BPhBnziPNm7CtBqWmTwKY"
+        },
+        {
+          "name": "Henry Mendez",
+          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169491,
+      "name": "Saboreando La Felicidad",
+      "url": "https://open.spotify.com/track/0ihOIdDAeHWBAEtnKDinid"
     },
     {
       "album": {
@@ -5462,6 +5506,24 @@
       "duration_ms": 166159,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/6g9hULFpG1pEyEH6HRMHaE"
+    },
+    {
+      "album": {
+        "name": "Viviendo en Otro Lugar",
+        "url": "https://open.spotify.com/album/6LvML7neTPNAsS5LakMI2h"
+      },
+      "artists": [
+        {
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "Viviendo en Otro Lugar",
+      "url": "https://open.spotify.com/track/6MfLxPLAUvcUsghmk8NRej"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Midian Lima
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Sarah Beatriz
 
-197 songs - 17 hr 39 min
+199 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 | 2023-03-03 | 2023-08-19 |
 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 | 2022-09-09 |  |
 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 | 2023-03-17 | 2023-04-29 |
+| [Pode Começar Agora \- Ao Vivo](https://open.spotify.com/track/5QguNh24lZ3wEHZwENbNJD) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Pode Começar Agora](https://open.spotify.com/album/4nu4QKriUnD4uUg3LJYz0i) | 5:30 | 2023-09-08 |  |
 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 | 2022-09-09 |  |
 | [Porque Ele Vive](https://open.spotify.com/track/1UxXYjUoBikUHg85ij9sIk) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Porque Ele Vive](https://open.spotify.com/album/4YaBiCeYejEfV6gPDx0r6Z) | 5:41 | 2023-05-05 |  |
 | [Pra Te Ver Feliz \- Ao Vivo](https://open.spotify.com/track/4FmwdvLV1ccm1tCUNwjhu3) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Pra Te Ver Feliz \(Ao Vivo\)](https://open.spotify.com/album/0o4NqqS8HrlxFldYnCC4yE) | 6:29 | 2023-03-24 | 2023-05-27 |
@@ -184,7 +185,7 @@
 | [Toma o Teu Lugar \- Make Room](https://open.spotify.com/track/6MTHuIDVGeSt5xEuwItVpM) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Toma o Teu Lugar \(Make Room\)](https://open.spotify.com/album/5ptH6CRcskhNs8i5iEIrBO) | 5:51 | 2022-09-09 | 2023-03-04 |
 | [Totalmente Santo](https://open.spotify.com/track/4q5ySZjEV1vtEOKux4uX1j) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Totalmente Santo](https://open.spotify.com/album/7cThFhPZX8qG4Sfi5OkLBr) | 4:39 | 2023-03-03 | 2023-05-06 |
 | [Tremeu](https://open.spotify.com/track/2j2K6cO24BaD1lq48bhhMA) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Tremeu](https://open.spotify.com/album/1PjFlonqoZsWn4PNyZqVjh) | 4:43 | 2023-05-05 | 2023-05-27 |
-| [Tu És Deus](https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Deluxe\)](https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN) | 5:13 | 2023-07-28 |  |
+| [Tu És Deus](https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Deluxe\)](https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN) | 5:13 | 2023-07-28 | 2023-09-09 |
 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 | 2023-03-24 | 2023-07-22 |
 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 | 2022-09-09 |  |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/2jHJlzo6TYxqmMufgMDWBl) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Tá Chorando Por Quê?](https://open.spotify.com/album/6skA7SfyH0VWa78KOFwNGU) | 4:08 | 2023-04-21 |  |
@@ -196,10 +197,11 @@
 | [Vida Aos Sepulcros \- Ao Vivo](https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23) | 5:51 | 2023-03-17 |  |
 | [Vinde A Mim](https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Vinde A Mim](https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun) | 5:29 | 2022-09-09 | 2023-07-15 |
 | [Vivo por Fé](https://open.spotify.com/track/0Di9AUysXXL0HBggcU8eoh) | [Brenda](https://open.spotify.com/artist/4LPbxs7t0LiJT9FPylZH8r) | [Vivo por Fé](https://open.spotify.com/album/51deG8jNDGia2VyCislUU6) | 4:34 | 2022-09-09 | 2022-10-15 |
+| [Você Me Escolheu \- Studio Session](https://open.spotify.com/track/1RhNKUkUYYda9xbe5FzUIg) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Você Me Escolheu \(Studio Session\)](https://open.spotify.com/album/2gTlZZfhI54IwmvwhaKkby) | 4:49 | 2023-09-08 |  |
 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 | 2023-01-20 |  |
 | [Volta Logo](https://open.spotify.com/track/2E1rgYpkQmjzt5u5HxifOI) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Volta Logo](https://open.spotify.com/album/1XFxMlalgElHzBJIoa6R2o) | 4:38 | 2022-09-09 | 2023-01-14 |
 | [Voltando à Essência \(Ao Vivo\)](https://open.spotify.com/track/1MXdyw32HqhBilEZ2nw3jg) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [De Volta à Essência \(Ao Vivo\)](https://open.spotify.com/album/0YeBNLuTCGUITUZNxINJWI) | 7:19 | 2023-02-10 | 2023-05-13 |
-| [Vou Me Humilhar](https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB) | 3:56 | 2022-10-14 |  |
+| [Vou Me Humilhar](https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB) | 3:56 | 2022-10-14 | 2023-09-09 |
 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 | 2023-04-15 |  |
 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 | 2022-09-09 | 2023-07-15 |
 | [É Só Confiar](https://open.spotify.com/track/2vDrTSizC2J4bCxaCtMIog) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [É Só Confiar](https://open.spotify.com/album/5hUg2ux7AJQ5dGVt5eWdrG) | 5:05 | 2023-02-10 | 2023-05-06 |

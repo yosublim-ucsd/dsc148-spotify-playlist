@@ -2049,6 +2049,32 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237507,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+    },
+    {
+      "album": {
         "name": "While We're Here",
         "url": "https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5"
       },
@@ -2746,7 +2772,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 202075,
       "name": "Down This Path",
       "url": "https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU"
@@ -2982,7 +3008,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 198400,
       "name": "Everything You Touch Is Gold (Epekdrezzsan)",
       "url": "https://open.spotify.com/track/7k7644SNGKVmveIR99RlAB"
@@ -3267,6 +3293,36 @@
     },
     {
       "album": {
+        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
+        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
+      },
+      "artists": [
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Jean Baylor",
+          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270602,
+      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
+      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
+    },
+    {
+      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/070FNqSBKHnK1eSfWKDSLX"
       },
@@ -3408,6 +3464,24 @@
       "duration_ms": 219389,
       "name": "Fly As Me",
       "url": "https://open.spotify.com/track/7GuP2hQO9oprADjY3gRhCT"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/6f8AOc82LrTGBKszpAJhzg"
+      },
+      "artists": [
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180634,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/6c6Wle9do1ThhMpEQzpG1B"
     },
     {
       "album": {
@@ -6967,6 +7041,28 @@
     },
     {
       "album": {
+        "name": "Pon di Plaza",
+        "url": "https://open.spotify.com/album/2iGPfwsWb6AxlTIx2lnhNi"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "Pon di Plaza",
+      "url": "https://open.spotify.com/track/3ARk4fak9pWhdV4gcHYTOR"
+    },
+    {
+      "album": {
         "name": "Somewhere Different",
         "url": "https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6"
       },
@@ -9294,7 +9390,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 203758,
       "name": "Till I'm Ghost",
       "url": "https://open.spotify.com/track/3xhhaNc4ll9z7KdaHMDaek"
@@ -10208,7 +10304,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 234606,
       "name": "Whiskey Mango",
       "url": "https://open.spotify.com/track/3uhNimFY6kwnmGZYc68tLP"

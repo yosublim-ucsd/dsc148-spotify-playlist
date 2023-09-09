@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Big Skeez & DatBreddaDom\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,729 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,763 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Sunshine](https://open.spotify.com/track/0ZxPVxOXYm6YprU833nSsR) | [Lee Sugar](https://open.spotify.com/artist/1969BWxzmjFulSOaV6yBhJ) | [Sunshine](https://open.spotify.com/album/7kPy7AqlrdEYuaXS0MlDR0) | 2:38 |
 | 100 | [BRING WET CUNT](https://open.spotify.com/track/79vmq3eR63V6V4uGYuvxqa) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [BRING WET CUNT / HAMMERHEAD](https://open.spotify.com/album/0h7kNFyQeqjU7no81ZAFnp) | 2:18 |
 
-Snapshot ID: `MCw5MWUxZDc2YjYyYjQ5YThmNzhlOWIxYTI3OTY4ZWRjZTNmMDFjZmNh`
+Snapshot ID: `MCwyYjhhNTgwODg1ZmQ4MGI4NTVhNDk3OTlhYjhlN2I0OTQ2YjQ1MmM2`

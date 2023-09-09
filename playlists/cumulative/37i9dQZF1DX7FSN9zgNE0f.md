@@ -4,7 +4,7 @@
 
 > Recorré un viaje por el oscuro éxtasis de WOS!
 
-38 songs - 1 hr 56 min
+39 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [OKUPA](https://open.spotify.com/track/25NPeIjHjQGvyp4D52Tji2) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:23 | 2022-01-05 |  |
 | [PANTANO](https://open.spotify.com/track/0VMxiFeuVhG3Hu7NHnge9e) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:30 | 2022-01-05 |  |
 | [PARED DE CRISTAL](https://open.spotify.com/track/2k9N7Izc9EO9upvM61FuGC) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 2:11 | 2022-01-05 |  |
+| [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 | 2023-09-08 |  |
 | [Protocolo](https://open.spotify.com/track/1IJcROM3wuO4phCdjlEl5t) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Banzai FC](https://open.spotify.com/artist/2pFNA3xuGmAP6XODWDrxzs) | [Protocolo](https://open.spotify.com/album/4DEjk8Hu1JxL7o8Y17vHJR) | 4:14 | 2022-01-05 |  |
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 |  |
 | [PURPURA](https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PURPURA](https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2) | 3:14 | 2022-01-05 |  |

@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-246 songs - 11 hr 1 min
+249 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Best friends](https://open.spotify.com/track/0yU9Qy2A7tCrhobBuKnnvE) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Best friends](https://open.spotify.com/album/4ALkcz004EhEw7PlFRFEBk) | 1:23 | 2023-05-26 | 2023-06-16 |
 | [Birds](https://open.spotify.com/track/6E4AgBT32JYKLCOYVrpchQ) | [Rob Willard](https://open.spotify.com/artist/4AZkp9pNQJf5f8EZkjVgTl) | [Birds](https://open.spotify.com/album/48Wc7vr5SmjAwuu5RCxIiR) | 1:55 | 2023-03-10 | 2023-08-26 |
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-28 | 2023-06-16 |
-| [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 |  |
+| [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 | 2023-09-09 |
 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-04-28 | 2023-08-26 |
 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 | 2022-05-27 | 2022-07-22 |
 | [Canopy](https://open.spotify.com/track/0jHu8QbSuwABUWnf1nQxFd) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Moriah Wolfe](https://open.spotify.com/artist/0CYYj8G2owqzuC8Ysa8u2t), [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [A Place To Call Home](https://open.spotify.com/album/1cMd7URSyipZLbHSxiXM5G) | 1:12 | 2022-10-14 | 2023-03-10 |
@@ -161,6 +161,7 @@
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-10 |  |
 | [Pinus Halepensis](https://open.spotify.com/track/5vHDaXBGHiN5AroXmGjucE) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 2:35 | 2021-12-10 | 2022-05-27 |
 | [Piumata](https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl) | [Briana Courtois](https://open.spotify.com/artist/16zv8egdYW4tjmgK2JqIwV) | [Piumata](https://open.spotify.com/album/3oKBrqXfzKn8vYJwAra3T1) | 2:13 | 2023-01-06 |  |
+| [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-08 |  |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2022-10-07 |  |
 | [Prelude 1 by Heitor Villa\-Lobos](https://open.spotify.com/track/2ps8YRrepQ0SIDk9iVEnPu) | [Brad Rau](https://open.spotify.com/artist/6Xjsd6nZrHRWQawUbGpkgZ) | [Guitar Night](https://open.spotify.com/album/4f1TGN1XlNUFsB6jLPmvvy) | 5:20 | 2022-11-25 | 2023-05-27 |
 | [Preludio Saudade: La Catedral](https://open.spotify.com/track/3IvSvGAOVVMFwjdvnaNC7n) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Georg Gulyás](https://open.spotify.com/artist/2lh2SgZKvD8KiJxZ2vomJC) | [Georg Gulyás Plays Barrios](https://open.spotify.com/album/1mYz7NymOSukKdtbhOrw6V) | 2:23 | 2022-11-25 | 2023-03-10 |
@@ -204,6 +205,7 @@
 | [Sweather Weather](https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 2:31 | 2022-10-07 | 2023-04-28 |
 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-03-10 | 2023-08-26 |
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-03-10 | 2023-08-26 |
+| [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-08 |  |
 | [Ternura](https://open.spotify.com/track/1iXvVzkyogXKfdr6IJqyd7) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Ternura](https://open.spotify.com/album/7rQKkMoi3oWcfpQzoBUQoE) | 1:45 | 2022-08-12 | 2023-06-10 |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 |  |
 | [The Autumn Travel](https://open.spotify.com/track/7LP1t5oBkzHKN7382egeou) | [Claude Amek](https://open.spotify.com/artist/4M0jA8df8J36E5xsqNGaAT) | [October Roads](https://open.spotify.com/album/3Ms99VQwBTFGwgxroh8Cpr) | 1:48 | 2021-12-10 | 2023-08-26 |
@@ -223,6 +225,7 @@
 | [Timeless](https://open.spotify.com/track/21Av8NmwEwc6uYIjjeUm54) | [Parascope](https://open.spotify.com/artist/3HL4rODpP9DHDgCUlsJnvG) | [Timeless](https://open.spotify.com/album/37Ffg43nlbeDlocMD3VtPj) | 2:28 | 2021-12-10 | 2022-07-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 | 2023-06-16 |
 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 |  |
+| [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Treasure Hunt](https://open.spotify.com/track/4gbVPKc38sBEMUUyhnO9JU) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Treasure Hunt](https://open.spotify.com/album/1KK15fZl2o3TzAUC0Q5wf0) | 2:46 | 2022-11-18 |  |
 | [Tree Circle](https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 3:08 | 2021-12-10 | 2023-06-10 |
 | [Twin Lakes](https://open.spotify.com/track/5dRdpP3qiQXVfKqHZ5IQwr) | [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Twin Lakes](https://open.spotify.com/album/4PUnsy0zjlBSkhm7rI1hrS) | 4:01 | 2022-05-27 | 2022-07-22 |

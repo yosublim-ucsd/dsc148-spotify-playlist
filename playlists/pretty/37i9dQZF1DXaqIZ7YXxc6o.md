@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Alison Wonderland and MEMBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,504 likes - 98 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,563 likes - 98 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 3 | [CFB](https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [CFB](https://open.spotify.com/album/57GpJDPLmbaTDaDBAU48Bo) | 2:30 |
 | 4 | [Reflex \- from Le Palace, Paris](https://open.spotify.com/track/0TzACnLtCopbsE7A8cSq3O) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Reflex \- from Le Palace, Paris](https://open.spotify.com/album/4OLmlFr1RLVRDWBVB9hu4H) | 5:34 |
 | 5 | [Play](https://open.spotify.com/track/6YoqG5R2uqq5MQBj4kbnz4) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 3:19 |
-| 6 | [Something On My Mind](https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U) | 3:36 |
+| 6 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 7 | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Borderline \(feat\. EMELINE\)](https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz) | 3:17 |
 | 8 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
 | 9 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 97 | [Whine Up](https://open.spotify.com/track/1rG8opGDxjubWjluR7glgJ) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI) | [Whine Up](https://open.spotify.com/album/566bFHgvZBabTrbbInJcSl) | 2:56 |
 | 98 | [Break You Off](https://open.spotify.com/track/3QS8vnf6Xy8UOfsagGpQAz) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Break You Off](https://open.spotify.com/album/2ry8ryGJrwoIKiCUPjU87O) | 3:19 |
 
-Snapshot ID: `MCw5MDJmOGM4YjM5OGI1NDdkMzI3MzYzNGJjODFjNGQ1MWZmZTE4MDc3`
+Snapshot ID: `MCxmZjRmN2ViOGExNDViZmMxODVmNjMwNDU0YWI5ZGM3ZjNhZjQ1Zjdi`

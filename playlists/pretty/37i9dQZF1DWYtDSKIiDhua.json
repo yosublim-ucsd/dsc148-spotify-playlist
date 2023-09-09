@@ -1,12 +1,12 @@
 {
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Jorja Smith",
-  "num_followers": 107923,
+  "description": "The R&B and good vibe tracks for your current mood. Cover: KYLE",
+  "num_followers": 108000,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzVjNjI4ZjMyZGEwYWRhYWZjZGQ5NzViNmUyYWNjZGY2NmVhOTI1",
+  "snapshot_id": "MCw0NjBlYmFiZmJjZDdkNzY2Njg5NjI0ZDEzN2E5ZjBmMmM4MWM1Yzdm",
   "tracks": [
     {
       "added_at": "2023-09-07 16:00:00",
@@ -147,6 +147,26 @@
       "duration_ms": 241818,
       "name": "Lowkeyy",
       "url": "https://open.spotify.com/track/6HDerDuffdSAnpQAQ1dMMD"
+    },
+    {
+      "added_at": "2023-09-07 16:00:00",
+      "album": {
+        "name": "SEEING PINK",
+        "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "kasper",
+          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "SEEING PINK",
+      "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
     },
     {
       "added_at": "2023-09-07 16:00:00",

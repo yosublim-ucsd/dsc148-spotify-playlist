@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-343 songs - 19 hr 49 min
+345 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Consider Me](https://open.spotify.com/track/6teOha7bnsAlYIdXQuXA1o) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/7o0PzwnZXAyq3LtvV2JE2x) | 3:04 | 2021-12-03 | 2022-07-28 |
 | [Conversation](https://open.spotify.com/track/3T7lv6LiJSfOsZS9t6kcPp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Churches](https://open.spotify.com/album/3zCRGOg6XKOtJAsvZPSiHG) | 4:46 | 2021-12-03 | 2022-04-20 |
 | [Corner Cafe](https://open.spotify.com/track/2W890mW3ATTdVOVTSNfhsj) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Corner Cafe](https://open.spotify.com/album/3fpq7OhEhBYgHVFywuRDAT) | 3:20 | 2023-06-16 | 2023-08-26 |
-| [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 |  |
+| [Cosmos](https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Cosmos](https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb) | 3:03 | 2023-04-28 | 2023-09-09 |
 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 | 2021-12-03 | 2023-01-28 |
 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 | 2021-12-03 | 2023-01-28 |
 | [Dancing My Way](https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:04 | 2021-12-03 | 2023-01-28 |
@@ -181,7 +181,7 @@
 | [Lagoon](https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lagoon](https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E) | 2:33 | 2022-03-04 | 2022-07-28 |
 | [Lagoon](https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:33 | 2022-03-04 | 2023-08-12 |
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2021-12-03 | 2022-07-29 |
-| [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-04 |  |
+| [last day on earth](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [last day on earth](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-02-04 | 2023-09-09 |
 | [LAX](https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 3:45 | 2021-12-03 | 2023-01-28 |
 | [Lead Me](https://open.spotify.com/track/2xxC1f4aJwS0SUr6ThcIzO) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Lead Me](https://open.spotify.com/album/26EvPMyxwN7UculSQJy6ec) | 3:39 | 2021-12-03 | 2022-04-21 |
 | [Lemons](https://open.spotify.com/track/3zoXDAiViLi1eysasfw5GB) | [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Lemons](https://open.spotify.com/album/4t0UxZRkTUPCNT0XDIBqux) | 2:44 | 2023-08-18 |  |
@@ -194,6 +194,7 @@
 | [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 | 2022-01-07 | 2022-07-31 |
 | [Living with Your Memory](https://open.spotify.com/track/6aCrKdFRzobnkNT65cDGUe) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Living with Your Memory](https://open.spotify.com/album/4BxjNBVsvFNvDBebXVPfrn) | 3:14 | 2022-04-01 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/3uniYjDIM3FZEdL2fE1MLc) | [Local Nomad](https://open.spotify.com/artist/48Dewct2nrCHCT3NvDcydV), [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Lonely](https://open.spotify.com/album/15sFi94U2Y45drc3e8mD6U) | 3:42 | 2021-12-03 | 2022-07-27 |
+| [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 | 2023-09-08 |  |
 | [Long Way 'Round](https://open.spotify.com/track/0mmhjGwRqZ5tTVYxF2ewpb) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Long Way 'Round](https://open.spotify.com/album/4uUuLVYP7mwMRvovExURYk) | 4:05 | 2022-03-18 | 2023-02-16 |
 | [Looking Through The Hours](https://open.spotify.com/track/10fIQMKiKrbTswLiwSQSZ8) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [Looking Through The Hours](https://open.spotify.com/album/5K3qB9W5nsVnMXsuqJLZeA) | 3:57 | 2022-05-13 | 2022-07-22 |
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-12-03 | 2022-07-29 |
@@ -255,6 +256,7 @@
 | [Poems](https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip) | [Couch](https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ) | [Poems](https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9) | 3:09 | 2022-09-23 |  |
 | [Precious Love \(Refreshed\)](https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Greatest Hits](https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa) | 4:00 | 2022-02-11 |  |
 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 | 2022-10-28 |  |
+| [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2023-09-08 |  |
 | [Promises](https://open.spotify.com/track/4mnro1IKkQNQ4QMHgW1Qkf) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:59 | 2022-04-08 | 2023-03-18 |
 | [Promises](https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks) | 3:59 | 2022-04-08 | 2022-07-22 |
 | [Purple Haze](https://open.spotify.com/track/53KWzrpniQIvJd2D1kbhr0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Where Does The Devil Hide](https://open.spotify.com/album/5ReLKcQY5cpPxK01G9xUrJ) | 3:18 | 2021-12-03 | 2022-08-02 |

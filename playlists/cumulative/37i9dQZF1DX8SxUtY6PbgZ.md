@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-100 songs - 5 hr 44 min
+101 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Opening Title](https://open.spotify.com/track/6pYRLSxc9O9KWF53xjoHu1) | [Asche & Spencer](https://open.spotify.com/artist/0nF3Xx2b9h9hBc1m0Alc10) | [Monster's Ball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MlIG10mQepiwKr4er2kFT) | 3:13 | 2022-05-27 | 2022-07-29 |
 | [Opening Title](https://open.spotify.com/track/6zrCYtsrqdLR4l3BXO8FVK) | [Asche & Spencer](https://open.spotify.com/artist/0nF3Xx2b9h9hBc1m0Alc10) | [Monster's Ball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5cgVsvUZqOIbZOL4otaGXS) | 3:13 | 2022-05-27 |  |
 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 | 2022-05-27 |  |
+| [Painting Clouds](https://open.spotify.com/track/6bsTXhrzAq1PAqo1LQMWGJ) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Scrapper \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GlXSNqKRkzRS0cxIlJJFM) | 2:46 | 2023-09-08 |  |
 | [Philosophy of Time Travel](https://open.spotify.com/track/0DEJS2xr5tSNDDmhiBdCM5) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mSv7EACPPrgNTlKDo32Kk) | 2:02 | 2023-01-27 |  |
 | [Philosophy of Time Travel](https://open.spotify.com/track/279OmEUbE1uSLMT9usR4nb) | [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Donnie Darko \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14YY4AaUCXICymdzNYBUS3) | 2:02 | 2022-05-27 | 2023-04-29 |
 | [Prophecy Theme](https://open.spotify.com/track/2FOZhjP4KGNWoLnUb7pkK1) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C6579KEvJj9AWaZtjSflC) | 4:21 | 2022-05-27 |  |

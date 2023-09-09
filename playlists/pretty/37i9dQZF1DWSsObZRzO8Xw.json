@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 145007,
+  "num_followers": 145141,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDM2NmFhM2MwOGU5YWI3ZTQzOWI2NThhZWQ1ZDYwZjk1OWViYmRl",
+  "snapshot_id": "MCw1OGJkNzgxMTc2ZDJkNjI5MDE4ZDVmZTk0OGY1ZGMwNmUwNWQxNDFj",
   "tracks": [
     {
       "added_at": "2023-08-29 04:07:33",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Memory Lame",
-        "url": "https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9"
-      },
-      "artists": [
-        {
-          "name": "Giraffes? Giraffes!",
-          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
-        }
-      ],
-      "duration_ms": 273782,
-      "name": "At the Turf Field Behind My Parents' House",
-      "url": "https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Floral EP",
         "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 219265,
       "name": "Climbing a Wall",
       "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Memory Lame",
+        "url": "https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9"
+      },
+      "artists": [
+        {
+          "name": "Giraffes? Giraffes!",
+          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
+        }
+      ],
+      "duration_ms": 273782,
+      "name": "At the Turf Field Behind My Parents' House",
+      "url": "https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Horizons / Rapture",
-        "url": "https://open.spotify.com/album/5dcX51nu4mtE7vu3tNJyTN"
-      },
-      "artists": [
-        {
-          "name": "The Physics House Band",
-          "url": "https://open.spotify.com/artist/30EilmonVXftR1pWoALezP"
-        }
-      ],
-      "duration_ms": 385360,
-      "name": "Teratology",
-      "url": "https://open.spotify.com/track/5xF88xyWRwEMVq3waLRcah"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 175057,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Horizons / Rapture",
+        "url": "https://open.spotify.com/album/5dcX51nu4mtE7vu3tNJyTN"
+      },
+      "artists": [
+        {
+          "name": "The Physics House Band",
+          "url": "https://open.spotify.com/artist/30EilmonVXftR1pWoALezP"
+        }
+      ],
+      "duration_ms": 385360,
+      "name": "Teratology",
+      "url": "https://open.spotify.com/track/5xF88xyWRwEMVq3waLRcah"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "X'ed Out",
-        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
-      },
-      "artists": [
-        {
-          "name": "Tera Melos",
-          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Weird Circles",
-      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Morbid Curiosity",
         "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 126789,
       "name": "Not To Follow",
       "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "X'ed Out",
+        "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
+      },
+      "artists": [
+        {
+          "name": "Tera Melos",
+          "url": "https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Weird Circles",
+      "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Lava Land",
-        "url": "https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM"
-      },
-      "artists": [
-        {
-          "name": "Piglet",
-          "url": "https://open.spotify.com/artist/7eMopflZIkcPF4refj6MNU"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Little Bubble, Where You Going?",
-      "url": "https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "More Skin With Milk-Mouth",
         "url": "https://open.spotify.com/album/0HIEyJpHJIusZPC9V6BEhV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 232986,
       "name": "When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.",
       "url": "https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Lava Land",
+        "url": "https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM"
+      },
+      "artists": [
+        {
+          "name": "Piglet",
+          "url": "https://open.spotify.com/artist/7eMopflZIkcPF4refj6MNU"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Little Bubble, Where You Going?",
+      "url": "https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "ARUKAS",
-        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 341613,
-      "name": "ARUKAS",
-      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Two Eps",
         "url": "https://open.spotify.com/album/2mvec1eyAYGf9sfZJgufBb"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 237740,
       "name": "I'm Calmer Than You Are",
       "url": "https://open.spotify.com/track/6dVeC65T0SN94OFlXfjbgc"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "ARUKAS",
+        "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 341613,
+      "name": "ARUKAS",
+      "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Randoom Process",
-        "url": "https://open.spotify.com/album/0rJ79WCWzi41WEcd1ZV3bJ"
-      },
-      "artists": [
-        {
-          "name": "Ikiatari",
-          "url": "https://open.spotify.com/artist/5nOB2jDo50kfdMEttWyYoe"
-        }
-      ],
-      "duration_ms": 204905,
-      "name": "Gatatttack!",
-      "url": "https://open.spotify.com/track/5Lcf4mhGROX92au0W9tpKq"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "51\u00b031'47\"S 58\u00b007'44\"W",
         "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 213512,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Randoom Process",
+        "url": "https://open.spotify.com/album/0rJ79WCWzi41WEcd1ZV3bJ"
+      },
+      "artists": [
+        {
+          "name": "Ikiatari",
+          "url": "https://open.spotify.com/artist/5nOB2jDo50kfdMEttWyYoe"
+        }
+      ],
+      "duration_ms": 204905,
+      "name": "Gatatttack!",
+      "url": "https://open.spotify.com/track/5Lcf4mhGROX92au0W9tpKq"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Land Wars",
-        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
-      },
-      "artists": [
-        {
-          "name": "Land Wars",
-          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Friends Suck",
-      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 221686,
       "name": "GRVD",
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Land Wars",
+        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
+      },
+      "artists": [
+        {
+          "name": "Land Wars",
+          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Friends Suck",
+      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
     },
     {
       "added_at": "2023-08-29 04:07:33",

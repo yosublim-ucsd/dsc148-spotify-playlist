@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 135967,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4iJRvcfE441ttFvjKyqP4M"
@@ -3346,6 +3346,24 @@
       "duration_ms": 138367,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0S7UB8za4I1YMGxVVamCeO"
+    },
+    {
+      "album": {
+        "name": "F Dat",
+        "url": "https://open.spotify.com/album/7ClCyQ3M7ZefPMybzxL9KJ"
+      },
+      "artists": [
+        {
+          "name": "ASM Bopster",
+          "url": "https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184897,
+      "name": "F Dat",
+      "url": "https://open.spotify.com/track/6QK16yNsHLslPQLVHKVowM"
     },
     {
       "album": {
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 167875,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/46kH5hC4qz660DGcXkTOjB"
@@ -6622,6 +6640,28 @@
     {
       "album": {
         "name": "Money",
+        "url": "https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq"
+      },
+      "artists": [
+        {
+          "name": "22nd Jim",
+          "url": "https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131368,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43"
+    },
+    {
+      "album": {
+        "name": "Money",
         "url": "https://open.spotify.com/album/1MKtfOtZkLq6oIL6IG569c"
       },
       "artists": [
@@ -7550,7 +7590,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182857,
       "name": "Not Luck (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/2X33IKOkJqn569wiEFJcFF"
@@ -9261,6 +9301,24 @@
     },
     {
       "album": {
+        "name": "Nuthin 2 Krazy",
+        "url": "https://open.spotify.com/album/20ola0sxdxydNW47121RYk"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Shady McCoy",
+      "url": "https://open.spotify.com/track/2UNINnPyquox3LYpiyPPU7"
+    },
+    {
+      "album": {
         "name": "BABYST5XNE GORILLAS 2",
         "url": "https://open.spotify.com/album/5NHBNP3hs6AP1yUVlc4VZv"
       },
@@ -9502,10 +9560,48 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 123547,
       "name": "Soak City (Do it)",
       "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
+    },
+    {
+      "album": {
+        "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
+        "url": "https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254267,
+      "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
+      "url": "https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW"
     },
     {
       "album": {
@@ -9784,7 +9880,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 226813,
       "name": "Street Love",
       "url": "https://open.spotify.com/track/37AiMqKkNsN3Pnz2HkYAeU"
@@ -10456,7 +10552,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 162635,
       "name": "The Soul Pt. 3",
       "url": "https://open.spotify.com/track/0US2yd2oJjwhUol9RJFdSP"
@@ -10812,10 +10908,40 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 155480,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/2dMef32kMcuPD3d37r6Gym"
+    },
+    {
+      "album": {
+        "name": "Underrated (Remix) [feat. MoneySign Suede]",
+        "url": "https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249411,
+      "name": "Underrated (feat. MoneySign Suede) - Remix",
+      "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
     },
     {
       "album": {
@@ -10990,6 +11116,28 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
+    },
+    {
+      "album": {
+        "name": "Wake Dis Shit Up",
+        "url": "https://open.spotify.com/album/1HejmQnEWe9wVMs9oNfwZm"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220473,
+      "name": "Wake Dis Shit Up",
+      "url": "https://open.spotify.com/track/4VcEYkNU4hViABA1aA6W4K"
     },
     {
       "album": {
@@ -11336,6 +11484,32 @@
       "duration_ms": 127346,
       "name": "WTF",
       "url": "https://open.spotify.com/track/2ejZLWVTTr39e67FWxfWig"
+    },
+    {
+      "album": {
+        "name": "YA HEARD!?",
+        "url": "https://open.spotify.com/album/2VO9IH5V7EXG5aV4OkKHuO"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "Link+Up",
+          "url": "https://open.spotify.com/artist/3WKtp7Q14tVEDEd4TOhdeG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "YA HEARD!?",
+      "url": "https://open.spotify.com/track/3spNFQDNtI8sAQZ40kNADZ"
     },
     {
       "album": {

@@ -4013,6 +4013,24 @@
     },
     {
       "album": {
+        "name": "Act 2 (Their God)",
+        "url": "https://open.spotify.com/album/20tEagJfooo80QqJND3FMR"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Eidolon",
+      "url": "https://open.spotify.com/track/5ttu0jY3rOQuaW3D2AN6OU"
+    },
+    {
+      "album": {
         "name": "Ekarma",
         "url": "https://open.spotify.com/album/0ZWGdKVXtDzqT0ZOgXsOzL"
       },
@@ -7126,6 +7144,24 @@
     {
       "album": {
         "name": "In the Grip of Something",
+        "url": "https://open.spotify.com/album/1chA5tHZiKoQwLq6FMn2u6"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gow",
+          "url": "https://open.spotify.com/artist/1P2aZv2Cir0xZf8x325nxT"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212946,
+      "name": "In the Grip of Something",
+      "url": "https://open.spotify.com/track/1Nn785uOp4hu1omoRlJZdw"
+    },
+    {
+      "album": {
+        "name": "In the Grip of Something",
         "url": "https://open.spotify.com/album/1zlAADoZGPnwnoEcyBv91h"
       },
       "artists": [
@@ -7140,7 +7176,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 212946,
       "name": "In the Grip of Something",
       "url": "https://open.spotify.com/track/0vfSlVsLVRlOALYukTKe6S"
@@ -10410,6 +10446,24 @@
       "duration_ms": 163373,
       "name": "Out the Sun",
       "url": "https://open.spotify.com/track/5IxV60b9I4WIcxHVDh02K1"
+    },
+    {
+      "album": {
+        "name": "Outlaw For Your Love",
+        "url": "https://open.spotify.com/album/7xAoY366mPkh86kggCR2gs"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00cea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157592,
+      "name": "Outlaw For Your Love",
+      "url": "https://open.spotify.com/track/6rxpuNReYOaTU3cQ3yf1gr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,378 songs - 2 day 23 hr 4 min
+1,379 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1071,6 +1071,7 @@
 | [Riflessi rossi \(feat\. Guè & Luchè\)](https://open.spotify.com/track/3ct6DP8KispP9ZV5ICkM7V) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:15 | 2023-06-10 | 2023-06-15 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-25 | 2022-08-28 |
 | [rock & rolla \(feat\. Rkomi\)](https://open.spotify.com/track/3g7ds9lLoBRTQag67wtUK3) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:57 | 2022-10-01 | 2022-10-23 |
+| [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w) | 2:55 | 2023-09-08 |  |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/09OojFvtrM9YRzRjnXqJjA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [A Brenda Lee Christmas](https://open.spotify.com/album/1cBDfonflxnXLLW1Ttnp9F) | 2:06 | 2022-12-26 | 2022-12-28 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-10 | 2022-12-28 |
 | [Rollie AP \(feat\. Pyrex & Slings\)](https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:59 | 2022-11-26 | 2022-12-06 |
@@ -1115,7 +1116,7 @@
 | [Scusa](https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:55 | 2023-04-15 | 2023-04-22 |
 | [Scusa \- prod\. tha Supreme](https://open.spotify.com/track/7uBlznv2TJpvjHCzY7K8wO) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Scusa \(prod\. tha Supreme\)](https://open.spotify.com/album/0gLbuRK9otcxCNaDyDLfbA) | 3:02 | 2021-04-11 | 2021-04-18 |
 | [Se Fosse Per Me](https://open.spotify.com/track/5ovQyVu6iyR1GFXKgkEqxp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:46 | 2022-11-26 | 2022-12-02 |
-| [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-08-05 |  |
+| [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-08-05 | 2023-09-09 |
 | [Se poi domani](https://open.spotify.com/track/2IyIs4oNWfQMihZ2Dra4Qp) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Quello che fa bene](https://open.spotify.com/album/2fvhsdTvv07T6ANtdgAlML) | 3:28 | 2023-02-19 | 2023-02-26 |
 | [Se poi domani](https://open.spotify.com/track/32XKm4CJzVNRUCzkhQoX13) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Se poi domani](https://open.spotify.com/album/6gsgGDGj0bfP46w0xCISQ2) | 3:28 | 2023-02-10 | 2023-02-20 |
 | [Se Rinasco](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 | 2022-03-05 | 2022-03-11 |

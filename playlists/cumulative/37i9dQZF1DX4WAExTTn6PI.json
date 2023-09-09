@@ -470,7 +470,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 241794,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 166320,
       "name": "Joke\u2019s On Me",
       "url": "https://open.spotify.com/track/4PrwTOyFdEzYaYoTDaLuIG"
@@ -1830,6 +1830,24 @@
       "duration_ms": 222853,
       "name": "Lost & Lonesome",
       "url": "https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f"
+    },
+    {
+      "album": {
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
       "album": {
@@ -2663,6 +2681,28 @@
     },
     {
       "album": {
+        "name": "Golden State",
+        "url": "https://open.spotify.com/album/1wKjZTg1gPmXWmcO79GVwn"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        },
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265320,
+      "name": "Some Misty Morning [Feat. Erin Rae]",
+      "url": "https://open.spotify.com/track/4uLLyixpzZjyvZRFDdIPEa"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/2UlnHVnEnx9ZZ6nuQ4NXOH"
       },
@@ -2732,6 +2772,24 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
+    },
+    {
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc"
+      },
+      "artists": [
+        {
+          "name": "Jobi Riccio",
+          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236063,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR"
     },
     {
       "album": {
@@ -3248,7 +3306,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 319066,
       "name": "Where Will I Go",
       "url": "https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN"

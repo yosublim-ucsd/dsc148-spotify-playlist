@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Kiefer",
+  "description": "New jazz for open minds. Cover: Irreversible Entanglements",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 482456,
       "name": "705",
       "url": "https://open.spotify.com/track/3DnuqXWHLKjG23FweTBfEs"
@@ -1205,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/6IOziLT089keydTWHVMTyE"
+      },
+      "artists": [
+        {
+          "name": "Jack Lee",
+          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264320,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/1Q27amghHJUTSmM6R1IPi1"
+    },
+    {
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
       },
@@ -1246,6 +1268,24 @@
       "duration_ms": 402307,
       "name": "An Air of Beauty",
       "url": "https://open.spotify.com/track/3gy2mlIghooLTADvAD1N58"
+    },
+    {
+      "album": {
+        "name": "An Ever Changing View",
+        "url": "https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392146,
+      "name": "An Ever Changing View",
+      "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
     },
     {
       "album": {
@@ -2442,6 +2482,28 @@
       "duration_ms": 380631,
       "name": "Beep Durple",
       "url": "https://open.spotify.com/track/0jpQ9EDSXQUiLyek5i6WYM"
+    },
+    {
+      "album": {
+        "name": "Beg, Borrow, Play",
+        "url": "https://open.spotify.com/album/4BmZpUaGW0lSb2DQMgUJMG"
+      },
+      "artists": [
+        {
+          "name": "The Outer Worlds Jazz Ensemble",
+          "url": "https://open.spotify.com/artist/04QqmBzHerxSqF3rAO31dc"
+        },
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "Beg, Borrow, Play",
+      "url": "https://open.spotify.com/track/0IrxzInuw0Er7sBOcEJfkL"
     },
     {
       "album": {
@@ -3644,7 +3706,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 458613,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/751KTKDG30KIxUo2CHHas9"
@@ -5426,7 +5488,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 261716,
       "name": "Don\u2019t Lie [Feat. Malaya]",
       "url": "https://open.spotify.com/track/6xVgDPrFSlBinlx7lRzI1S"
@@ -6081,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/07Ehnt6vUeLzcL6tjAMs67"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/6fvjWDduFww2xtnGDvoIqb"
+    },
+    {
+      "album": {
         "name": "Epistrophy",
         "url": "https://open.spotify.com/album/6lbV35NbNjbEF2SFTHIpJL"
       },
@@ -6671,6 +6751,36 @@
     },
     {
       "album": {
+        "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
+        "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
+      },
+      "artists": [
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Jean Baylor",
+          "url": "https://open.spotify.com/artist/2GFqj9ZTbvZNr0RYU9izAa"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270602,
+      "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor) - Single Edit",
+      "url": "https://open.spotify.com/track/2tjCuqMwFr8YlqwoB1UALy"
+    },
+    {
+      "album": {
         "name": "Finding Light",
         "url": "https://open.spotify.com/album/5JLlEDMSbWw5oGvpghB44H"
       },
@@ -7006,6 +7116,60 @@
       "duration_ms": 492813,
       "name": "Freedom & Progress",
       "url": "https://open.spotify.com/track/0bBksTjMnvGUORqrxcxBI3"
+    },
+    {
+      "album": {
+        "name": "Freedom Praise",
+        "url": "https://open.spotify.com/album/1Xa5u58rNuAp5yWdX172Ab"
+      },
+      "artists": [
+        {
+          "name": "everwave",
+          "url": "https://open.spotify.com/artist/5nQnpRoxAaiMvn2qLL2hDX"
+        },
+        {
+          "name": "Scrimshire",
+          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        },
+        {
+          "name": "Hailey Niswanger",
+          "url": "https://open.spotify.com/artist/1BSZmrnlSeYW2BBN56QfJZ"
+        },
+        {
+          "name": "Mark de Clive-Lowe",
+          "url": "https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P"
+        },
+        {
+          "name": "Taku Hirano",
+          "url": "https://open.spotify.com/artist/6PEM6NRTZyWuKBIDO3x6wt"
+        },
+        {
+          "name": "Antoine Katz",
+          "url": "https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC"
+        },
+        {
+          "name": "Greg Paul",
+          "url": "https://open.spotify.com/artist/02VrMFqsgeEebhNeVJ4Poe"
+        },
+        {
+          "name": "Elizabeth Steiner",
+          "url": "https://open.spotify.com/artist/7qio6x8Nj4bMSw5o2g4KgT"
+        },
+        {
+          "name": "Paul Kang",
+          "url": "https://open.spotify.com/artist/22JZObA8OqOouex5kP6rzO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295573,
+      "name": "Freedom Praise",
+      "url": "https://open.spotify.com/track/0lbB2VlCHGSbJZSz6pUeKX"
     },
     {
       "album": {
@@ -7692,7 +7856,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 273653,
       "name": "Greek Honey Slick",
       "url": "https://open.spotify.com/track/3O3ExdXN8fuWCHnEFn8z9D"
@@ -10086,7 +10250,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 161283,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
@@ -10514,6 +10678,24 @@
       "duration_ms": 310611,
       "name": "Landsdown",
       "url": "https://open.spotify.com/track/6lbuVBl5B06FqVc6v0dRwS"
+    },
+    {
+      "album": {
+        "name": "Latency",
+        "url": "https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226332,
+      "name": "Latency",
+      "url": "https://open.spotify.com/track/0sGeZR0HjMbEx5o1xTWpvF"
     },
     {
       "album": {
@@ -12483,6 +12665,24 @@
     },
     {
       "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/3B8nwlwbetTzqghBsr1j9X"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155730,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/517TcSjay7c3TRLwhl6Y3U"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/61JxJYtMRSaD7T2lToWmEu"
       },
@@ -12732,7 +12932,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 306093,
       "name": "Mountains, Trees and Seas",
       "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
@@ -13176,7 +13376,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 173226,
       "name": "New Potential",
       "url": "https://open.spotify.com/track/1wyuwXGn0gPzCPxiPDmNHc"
@@ -14116,7 +14316,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 265425,
       "name": "Origin 01",
       "url": "https://open.spotify.com/track/6WYs0dpollV9oeui2MBXdh"
@@ -15232,6 +15432,24 @@
       "duration_ms": 332840,
       "name": "Promises Kept (feat. Dominic Miller)",
       "url": "https://open.spotify.com/track/6A0z33khgfQ8kVsTJcsbEJ"
+    },
+    {
+      "album": {
+        "name": "Protect Your Light",
+        "url": "https://open.spotify.com/album/1fBLeeAMPcrByMMDCKCcYB"
+      },
+      "artists": [
+        {
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Protect Your Light",
+      "url": "https://open.spotify.com/track/2wEWmnM1xmnRh1cZccHOdl"
     },
     {
       "album": {
@@ -17502,7 +17720,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 188786,
       "name": "Soft Serve",
       "url": "https://open.spotify.com/track/3MhVV9TSWpsm7AdO0a0ZF7"
@@ -18126,7 +18344,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 167377,
       "name": "Step on That Toe",
       "url": "https://open.spotify.com/track/1FlRcSOMYi0fxJyBtU892c"
@@ -19831,6 +20049,24 @@
     },
     {
       "album": {
+        "name": "Burn (10th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/6KPAS8bKufxqev7XFgg8ss"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318158,
+      "name": "The Junglist - Bonus Track",
+      "url": "https://open.spotify.com/track/0Ew7cCW9CQWEZX8KrOIiFk"
+    },
+    {
+      "album": {
         "name": "Dirty Mindz",
         "url": "https://open.spotify.com/album/3BSfTSY5q7tNeZgWw7nC6H"
       },
@@ -20158,7 +20394,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 423626,
       "name": "The Past Intact - Live at the Village Vanguard",
       "url": "https://open.spotify.com/track/4DZUyHMnOfbvYPvf2i9Nuk"
@@ -20470,6 +20706,24 @@
       "duration_ms": 348366,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/4aM1fae4TPuKOZO1DiJKZT"
+    },
+    {
+      "album": {
+        "name": "On Becoming",
+        "url": "https://open.spotify.com/album/1LyPkWKNtTSxunTX2a5CuY"
+      },
+      "artists": [
+        {
+          "name": "House of Waters",
+          "url": "https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637268,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/5fNrFBVejCZ9xuefjKgLd1"
     },
     {
       "album": {
@@ -22455,6 +22709,32 @@
     },
     {
       "album": {
+        "name": "Mixtape from Baratie (from the Netflix Series \"One Piece\")",
+        "url": "https://open.spotify.com/album/4t1c9UpLCg3Fldvo0vAb2w"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "One Piece Big Band",
+          "url": "https://open.spotify.com/artist/6LblTqTQrZt3nOzku8rgyy"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94586,
+      "name": "Welcome To Baratie",
+      "url": "https://open.spotify.com/track/3W5zGsOFSMJTssLAVSp575"
+    },
+    {
+      "album": {
         "name": "What Are You Doing the Rest of Your Life?",
         "url": "https://open.spotify.com/album/4C9bsmeHvh168BMnqd5stY"
       },
@@ -22894,7 +23174,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 127706,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz"

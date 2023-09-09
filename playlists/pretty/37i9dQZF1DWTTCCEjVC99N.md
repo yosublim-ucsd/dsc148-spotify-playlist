@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,375 likes - 101 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,548 likes - 102 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,18 +96,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 86 | [Arabiyon Ana](https://open.spotify.com/track/35X8LBtskXgpURRUjyVoxq) | [Yuri Mrakadi](https://open.spotify.com/artist/5xIr5twGDcX741C7Oa18X2) | [Bellydance Superstars Vol\. IV](https://open.spotify.com/album/74rfF3sfdpJXVpyIpeO18B) | 4:44 |
 | 87 | [Zanby Eih](https://open.spotify.com/track/6B68XaqHCM3iDRNebXeZJl) | [Iwan](https://open.spotify.com/artist/0TM9TIQSJCz8CdygWpuVbS) | [Alby Sahran](https://open.spotify.com/album/1w18cp20KTh2beAAXvdRYO) | 4:13 |
 | 88 | [A'zza A'laya](https://open.spotify.com/track/4jrLYiZBJUZYpE6LUUPMSW) | [Aline Khalaf](https://open.spotify.com/artist/0oclrFAehAHKcSC41QFabO) | [أجمل أغاني ألين خلف](https://open.spotify.com/album/2glmQtgMrLTO4X7PPkJsJ0) | 4:58 |
-| 89 | [ختيار عالعكازة](https://open.spotify.com/track/4eGNtb20wdf8NepyJbSMHB) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [يقبرني](https://open.spotify.com/album/2vsR7ZCsiJ7vk11YB9kyia) | 3:31 |
-| 90 | [La Li Leih](https://open.spotify.com/track/5hhDkl3N1QzsclG36yOBuK) | [Aline Khalaf](https://open.spotify.com/artist/0oclrFAehAHKcSC41QFabO) | [Best Of Aline Khalaf](https://open.spotify.com/album/5WqSrDBuoz8rpmrjLC0Kdv) | 4:10 |
-| 91 | [Zaman](https://open.spotify.com/track/3TZIuWW0YtaqYNkuBTUZIW) | [Amal Hijazi](https://open.spotify.com/artist/1RK1hDlot8DRuVrAqgYw7Y) | [Zaman](https://open.spotify.com/album/5PN6uTxEfU3MbxiwBJNtt1) | 4:11 |
-| 92 | [Ana Ayesh](https://open.spotify.com/track/6mfIxe4u5I0y7IdFHMdlxJ) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ahla Ma Ghana Amr Diab](https://open.spotify.com/album/0bRoop19EC0m1TfSScSPhx) | 3:44 |
-| 93 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 |
-| 94 | [El Alem Allah](https://open.spotify.com/track/0iHyLzEeCcu19aEC2M3o5M) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:04 |
-| 95 | [Bhibbek We Bghar](https://open.spotify.com/track/2jb5fLhckZg7xbcXU3TpQl) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [كيد عزالك](https://open.spotify.com/album/7fJTTHs0CjC00QW4D1zDQS) | 5:58 |
-| 96 | [El Wad Albo Beyewga'o](https://open.spotify.com/track/2nFgRNk02oiGaLTmE63mwv) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Kan Zaman](https://open.spotify.com/album/21rR3ItCM20ox0nJ4QqBDi) | 4:07 |
-| 97 | [Ghali Aliya](https://open.spotify.com/track/0ZTi4yLjvzPELisNo5nt2r) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Ana Horra](https://open.spotify.com/album/34O1UaMvw1US6F7JvtGw34) | 3:32 |
-| 98 | [Bos Alaya](https://open.spotify.com/track/4LKkqI4NhqiFVmpg0fnQKD) | [Dana Halabi](https://open.spotify.com/artist/0RolaL9Dqjs9iMMLflD1ts) | [Bos Alaya](https://open.spotify.com/album/3YINSYDHz2LuiiZgRcbHvo) | 4:11 |
-| 99 | [Kel El Ossa](https://open.spotify.com/track/5eisepAnTwRx7ZSIVegAyM) | [Darine Hadchiti](https://open.spotify.com/artist/3IkEauhflcvpap7UUoXeR2) | [Kel El Ossa](https://open.spotify.com/album/5xtab7ihPgIVWW0RfcZK1N) | 3:02 |
-| 100 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
-| 101 | [El Hawa Sultan](https://open.spotify.com/track/0ySDdvzYJOBwERbrzvqfSK) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
+| 89 | [Aam Tethalli](https://open.spotify.com/track/1FhAPKzBgtD2kMot4QfAwl) | [Darine Hadchiti](https://open.spotify.com/artist/3IkEauhflcvpap7UUoXeR2) | [Irtahlak Albi](https://open.spotify.com/album/3yh6BypH1FpcPVpajxbb9Z) | 4:17 |
+| 90 | [ختيار عالعكازة](https://open.spotify.com/track/4eGNtb20wdf8NepyJbSMHB) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [يقبرني](https://open.spotify.com/album/2vsR7ZCsiJ7vk11YB9kyia) | 3:31 |
+| 91 | [La Li Leih](https://open.spotify.com/track/5hhDkl3N1QzsclG36yOBuK) | [Aline Khalaf](https://open.spotify.com/artist/0oclrFAehAHKcSC41QFabO) | [Best Of Aline Khalaf](https://open.spotify.com/album/5WqSrDBuoz8rpmrjLC0Kdv) | 4:10 |
+| 92 | [Zaman](https://open.spotify.com/track/3TZIuWW0YtaqYNkuBTUZIW) | [Amal Hijazi](https://open.spotify.com/artist/1RK1hDlot8DRuVrAqgYw7Y) | [Zaman](https://open.spotify.com/album/5PN6uTxEfU3MbxiwBJNtt1) | 4:11 |
+| 93 | [Ana Ayesh](https://open.spotify.com/track/6mfIxe4u5I0y7IdFHMdlxJ) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ahla Ma Ghana Amr Diab](https://open.spotify.com/album/0bRoop19EC0m1TfSScSPhx) | 3:44 |
+| 94 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 |
+| 95 | [El Alem Allah](https://open.spotify.com/track/0iHyLzEeCcu19aEC2M3o5M) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:04 |
+| 96 | [Bhibbek We Bghar](https://open.spotify.com/track/2jb5fLhckZg7xbcXU3TpQl) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [كيد عزالك](https://open.spotify.com/album/7fJTTHs0CjC00QW4D1zDQS) | 5:58 |
+| 97 | [El Wad Albo Beyewga'o](https://open.spotify.com/track/2nFgRNk02oiGaLTmE63mwv) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Kan Zaman](https://open.spotify.com/album/21rR3ItCM20ox0nJ4QqBDi) | 4:07 |
+| 98 | [Ghali Aliya](https://open.spotify.com/track/0ZTi4yLjvzPELisNo5nt2r) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Ana Horra](https://open.spotify.com/album/34O1UaMvw1US6F7JvtGw34) | 3:32 |
+| 99 | [Bos Alaya](https://open.spotify.com/track/4LKkqI4NhqiFVmpg0fnQKD) | [Dana Halabi](https://open.spotify.com/artist/0RolaL9Dqjs9iMMLflD1ts) | [Bos Alaya](https://open.spotify.com/album/3YINSYDHz2LuiiZgRcbHvo) | 4:11 |
+| 100 | [Kel El Ossa](https://open.spotify.com/track/5eisepAnTwRx7ZSIVegAyM) | [Darine Hadchiti](https://open.spotify.com/artist/3IkEauhflcvpap7UUoXeR2) | [Kel El Ossa](https://open.spotify.com/album/5xtab7ihPgIVWW0RfcZK1N) | 3:02 |
+| 101 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 |
+| 102 | [El Hawa Sultan](https://open.spotify.com/track/0ySDdvzYJOBwERbrzvqfSK) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
 
-Snapshot ID: `MCwxYTQ5OTMzMDJlNWJlNzI1NjA1MWExN2FkMzE2MjJiNGUyMmNiYTEx`
+Snapshot ID: `MCxkMjgxMzUyOGQyM2I0YmM4ZGE5Yjc5M2M1OTg3Zjc5NmY4NDc3ZmI2`

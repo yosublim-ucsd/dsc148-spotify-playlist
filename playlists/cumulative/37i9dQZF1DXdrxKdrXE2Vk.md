@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. Cover: <a href="https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e">Pat Barrett</a>
 
-284 songs - 1 day 5 hr 49 min
+285 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [Starlight \- Live](https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 5:37 | 2023-04-14 |  |
 | [Steady Light \- Live](https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Steady Light \(Live from LO Conference\)](https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv) | 3:59 | 2023-04-14 |  |
 | [Such a Love \- Live](https://open.spotify.com/track/5HSJdBHiLDj5VKJvoOiAU0) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Such a Love \(Live\)](https://open.spotify.com/album/5W4p0DOpVkVORr23htFy7A) | 8:31 | 2022-09-11 | 2023-03-11 |
-| [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 | 2023-05-19 |  |
+| [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 | 2023-05-19 | 2023-09-09 |
+| [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 | 2023-08-11 |  |
 | [Take Me to the River \(I Will Swim\) \- Live](https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\) \[Live\]](https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr) | 4:24 | 2023-08-11 |  |
 | [Take You At Your Word \(with Benjamin William Hastings\) \- Live](https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 5:16 | 2023-03-11 |  |
 | [Take, Eat, Drink \- Live](https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Take, Eat, Drink \(Live\)](https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF) | 4:47 | 2023-03-14 | 2023-08-12 |

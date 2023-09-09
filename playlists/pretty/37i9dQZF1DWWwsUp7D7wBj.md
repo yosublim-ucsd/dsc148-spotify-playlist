@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. mami be careful..\. 🦟
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,611 likes - 10 songs - 35 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 13,622 likes - 10 songs - 35 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 | 9 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 |
 | 10 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
 
-Snapshot ID: `MCxmN2Q2OWFjN2M3NjNkNjc0YTIzODZhNDgxMGVhMWRkOTNmNGI3ZDVm`
+Snapshot ID: `MCw3NWM0N2UwOWY0OWEzY2VlOTA4ZGVjZWQ5MWVjMzE0MGMzMjhhYTZh`

@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-549 songs - 1 day 10 hr 49 min
+553 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-04 | 2021-10-16 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2022-05-20 |
 | [Purity](https://open.spotify.com/track/0bRuqIi3CZrEt9ORtCHHHW) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Purity](https://open.spotify.com/album/0eN2BQy4PSiRifsVOhUdVx) | 3:05 | 2021-05-13 | 2022-01-22 |
+| [Purpose](https://open.spotify.com/track/3X1Wk6lJwLHGUH7tCxtfUP) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Purpose](https://open.spotify.com/album/3zijoODXuW8hD2RtjOPeLA) | 2:48 | 2023-09-08 |  |
 | [Qua](https://open.spotify.com/track/3V3D0OwWnt61jxOf13JgRH) | [Simplexus](https://open.spotify.com/artist/5hPWb77rHGnRIBRlIploGy) | [Lunisolar](https://open.spotify.com/album/2p7eKKYduvvk9Q3XpN44xY) | 2:55 | 2021-03-25 | 2021-10-16 |
 | [Quay](https://open.spotify.com/track/66HmKYuvJH82x9zQKFvSAX) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Quay](https://open.spotify.com/album/2Yssd99I6S8ljrnkjRqj6V) | 2:48 | 2020-11-28 | 2021-06-23 |
 | [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2021-04-15 |  |
@@ -389,6 +390,7 @@
 | [Regalade](https://open.spotify.com/track/4PpjapmWSSSrRN79N8DHEL) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Regalade EP](https://open.spotify.com/album/6WL07WzqVF0PyMlZVkYdV6) | 5:09 | 2021-01-29 | 2021-02-20 |
 | [Rest](https://open.spotify.com/track/4EbfTd8HFoAOF6fiSRVsvT) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [Rest](https://open.spotify.com/album/5Y2NdAYpCSwQdFl0Es9ne2) | 4:03 | 2020-10-20\* | 2021-02-20 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2020-10-20\* | 2022-05-20 |
+| [Retrocation](https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF) | [ELRY](https://open.spotify.com/artist/5LLikEV14ip9GPnrmbUQMU) | [Retrocation](https://open.spotify.com/album/3ke0nq3r9CGpGVVZAAeEik) | 2:21 | 2023-09-08 |  |
 | [Reverie](https://open.spotify.com/track/5UYHZL7Kvi8WMqGxFry4Hs) | [Liona Lotus](https://open.spotify.com/artist/30aieRomfqWYR79BigbnoI) | [Reverie](https://open.spotify.com/album/02gm1MgsEebvH23TcrB8y3) | 3:14 | 2021-06-23 | 2022-01-22 |
 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 | 2021-04-15 | 2022-08-05 |
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2021-11-10 |  |
@@ -472,6 +474,7 @@
 | [Sunny Nelson \(Edit\)](https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get) | [Abel Tasman](https://open.spotify.com/artist/4D2dWZ7uyVyqDj3Ah05Xtr) | [Sunny Nelson \(Edit\)](https://open.spotify.com/album/67hBb3jhTHYrHk9Dtfy5bR) | 3:48 | 2021-10-16 | 2022-02-11 |
 | [Sunset Coffee](https://open.spotify.com/track/2l2guPlaFyjEduatSMuHTV) | [ROSUNDA](https://open.spotify.com/artist/3kCAlLEkUjQl0hXPZGzuBf) | [Sunset Coffee](https://open.spotify.com/album/1lPneEQGppU65I6ktl9dq8) | 2:53 | 2023-06-19 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-03-06 |  |
+| [sunshiny](https://open.spotify.com/track/3NrOcJP5RfXzOQh37cKUfj) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [sunshiny](https://open.spotify.com/album/2nA7bZJ48DbMPuaOmv75Yk) | 2:52 | 2023-09-08 |  |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-03-06 | 2021-10-16 |
 | [Supernova Surfer](https://open.spotify.com/track/7kVwylT5cflYhWebRoMa91) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [Supernova Surfer](https://open.spotify.com/album/1QMP0NlBqXfyQirioIpUHs) | 4:23 | 2021-02-12 | 2021-10-16 |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2021-05-13 | 2021-08-25 |
@@ -556,6 +559,7 @@
 | [Xhosa](https://open.spotify.com/track/3Cty5cCROsp5Q2bzlKyzRH) | [Pablo Funke](https://open.spotify.com/artist/2XsRJTf7BZQTrb3BumlhHm) | [Xhosa](https://open.spotify.com/album/2eFzpE5r2KpHKTuZ56zKP1) | 2:03 | 2021-02-12 |  |
 | [Yacón](https://open.spotify.com/track/58jP9gzcaqt9h1pfYmfm1q) | [iugou](https://open.spotify.com/artist/6TcP3000og43MzgtTbIkvv) | [Yacón](https://open.spotify.com/album/4IXfVfPSUcrYoZ7CEC8cw5) | 6:21 | 2021-01-21 | 2021-03-06 |
 | [Yefja](https://open.spotify.com/track/1nJwqD7S0yVMNWrjzyUBV8) | [The Policy](https://open.spotify.com/artist/2G609VPYS4yzshTtyoUTS3) | [Yefja](https://open.spotify.com/album/0GNts96R4gvlC3XedkkJJf) | 7:07 | 2021-03-25 | 2021-08-25 |
+| [Yelp Of Joy](https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Yelp Of Joy](https://open.spotify.com/album/50VFB0XSRP85RdPka3azvq) | 2:46 | 2023-09-08 |  |
 | [Your Vibe](https://open.spotify.com/track/2NklxV7Oa39u6MS1zpqblH) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Your Vibe](https://open.spotify.com/album/56f5UXJTtHKYcaXx9TO3KG) | 2:06 | 2020-10-20\* | 2021-03-25 |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

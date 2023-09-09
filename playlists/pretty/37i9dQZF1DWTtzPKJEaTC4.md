@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:6iWuBN32BqCJAeXW6o3nil">Cautious Clay</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,928 likes - 25 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,969 likes - 25 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 24 | [Life Is Just A Bowl Of Cherries](https://open.spotify.com/track/29j6Pa2a4hSLznGWbLz3jQ) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [The Ultimate Carmen McRae](https://open.spotify.com/album/455LFcxO8aG4o1lKqQG3Qa) | 2:54 |
 | 25 | [Affirmation](https://open.spotify.com/track/0lNaytiCORnMNZTEBQxlPv) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 6:58 |
 
-Snapshot ID: `MCwwMzQ2NDg5MzFjM2ZmZmRlMDAwNTQwZmMzODE1MDBmZDI0MWIyZWQ3`
+Snapshot ID: `MCw5NDdjNGFkMTUwMmZhMmM0NThhNjI3ZTcwYzRjYzM2OGNlNGM5NTgx`

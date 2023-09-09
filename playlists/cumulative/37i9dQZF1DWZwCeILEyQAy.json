@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: Sexyy Red",
+  "description": "Real Rap. All Pressure. Cover: BIA",
   "name": "Pressure",
   "tracks": [
     {
@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 137041,
       "name": "Big Mood (Freestyle)",
       "url": "https://open.spotify.com/track/77Vt8RuoZcNRstWpIDCNOh"
@@ -1014,6 +1014,28 @@
       "duration_ms": 106736,
       "name": "BING BONG",
       "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
+    },
+    {
+      "album": {
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
       "album": {
@@ -1886,7 +1908,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182781,
       "name": "CRAZY GIRL P2 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB"
@@ -2250,8 +2272,8 @@
           "url": "https://open.spotify.com/artist/6CoZArC7g7pyLeYGoD8M0m"
         },
         {
-          "name": "The ATG",
-          "url": "https://open.spotify.com/artist/1twmcEBMYuZFuO5E9Q4cdB"
+          "name": "ATG Productions",
+          "url": "https://open.spotify.com/artist/37tHxdawfBSAiQmUqnSmYu"
         }
       ],
       "date_added": "2023-08-25",
@@ -2278,7 +2300,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 193007,
       "name": "Don\u2019t Like (feat. Bigg Bagg Queezy)",
       "url": "https://open.spotify.com/track/4pBZw3XkLPrzGPQlfvUyVR"
@@ -2740,7 +2762,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 162162,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
@@ -2780,7 +2802,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 175428,
       "name": "FOR THAT CASH",
       "url": "https://open.spotify.com/track/2AhtnaTMDExi5JXjGqHbkX"
@@ -3042,6 +3064,24 @@
       "duration_ms": 133090,
       "name": "Get TF Out My Face",
       "url": "https://open.spotify.com/track/0m0mtfrpVxsrXqgdCsURNd"
+    },
+    {
+      "album": {
+        "name": "Ghetto & Ratchet",
+        "url": "https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126642,
+      "name": "Ghetto & Ratchet",
+      "url": "https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64"
     },
     {
       "album": {
@@ -3433,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "High Standards",
+        "url": "https://open.spotify.com/album/5E3CcBIGp0Uma00uGG5R2k"
+      },
+      "artists": [
+        {
+          "name": "Wynne",
+          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209081,
+      "name": "High Standards",
+      "url": "https://open.spotify.com/track/2EfkjrpRyqFxhiBpI3AqtL"
+    },
+    {
+      "album": {
         "name": "Hoedown (with Zoe Osama)",
         "url": "https://open.spotify.com/album/1SJWGIrKqoQMfALk7xtGWn"
       },
@@ -3706,10 +3764,32 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 243507,
       "name": "I Feel Like Rihanna",
       "url": "https://open.spotify.com/track/7N0nn3R07yj0CMwGWBT4co"
+    },
+    {
+      "album": {
+        "name": "I love freaks (Sexyy\u2019s Version)",
+        "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163696,
+      "name": "I love freaks (Sexyy\u2019s Version)",
+      "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
     },
     {
       "album": {
@@ -3876,7 +3956,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 143759,
       "name": "INTRO",
       "url": "https://open.spotify.com/track/1708w11eCuRQBpHUwsfOiD"
@@ -4392,6 +4472,28 @@
       "duration_ms": 148522,
       "name": "Luv U Better",
       "url": "https://open.spotify.com/track/5mptX9ZQT0n8tUY4kPAH6R"
+    },
+    {
+      "album": {
+        "name": "LUXURY LIFE (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138336,
+      "name": "LUXURY LIFE (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP"
     },
     {
       "album": {
@@ -5131,6 +5233,36 @@
     },
     {
       "album": {
+        "name": "NOPE SHEMIX",
+        "url": "https://open.spotify.com/album/4ZiFbZdutLc1d9jhJWmVT0"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/5loJ5Xxjun5yWdqsYF5JKv"
+        },
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/5AiKMEn5JZoGP91Oy90AJj"
+        },
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/3fLWf8C1U6gbJXltrtZJUK"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169409,
+      "name": "NOPE SHEMIX",
+      "url": "https://open.spotify.com/track/66gLL5P1nkh31HXVwOYmuH"
+    },
+    {
+      "album": {
         "name": "Nope Shemix",
         "url": "https://open.spotify.com/album/0AKBMWlWpVd7zpUUf3eGgS"
       },
@@ -5608,6 +5740,32 @@
       "duration_ms": 123177,
       "name": "Paula Deen (feat. Westside Gunn)",
       "url": "https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F"
+    },
+    {
+      "album": {
+        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
     },
     {
       "album": {
@@ -6154,7 +6312,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 157991,
       "name": "Rambo",
       "url": "https://open.spotify.com/track/2bdgPhHgCu5fezngPfKCnG"
@@ -6400,6 +6558,24 @@
       "duration_ms": 170944,
       "name": "Ridin'",
       "url": "https://open.spotify.com/track/6Dmh4KuXLhzqnU2BPTbtB2"
+    },
+    {
+      "album": {
+        "name": "Roadents",
+        "url": "https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137291,
+      "name": "Roadents",
+      "url": "https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm"
     },
     {
       "album": {
@@ -7235,6 +7411,24 @@
     },
     {
       "album": {
+        "name": "Superpowers",
+        "url": "https://open.spotify.com/album/76WDBqX01YqOQTKzUoWhDt"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158940,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/0SJ3Zg2Ut6uuUyKwDKZ0hd"
+    },
+    {
+      "album": {
         "name": "she / her / black bitch",
         "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
@@ -7344,7 +7538,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 145074,
       "name": "Take It Up - Remix",
       "url": "https://open.spotify.com/track/0HpuGk2nD5BBw7QE7NnsMx"
@@ -7492,7 +7686,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 148837,
       "name": "That's It",
       "url": "https://open.spotify.com/track/6rMjVOGsrCVxqzlNAQQ0oP"
@@ -8077,6 +8271,28 @@
     },
     {
       "album": {
+        "name": "Wake Dis Shit Up",
+        "url": "https://open.spotify.com/album/1HejmQnEWe9wVMs9oNfwZm"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220473,
+      "name": "Wake Dis Shit Up",
+      "url": "https://open.spotify.com/track/4VcEYkNU4hViABA1aA6W4K"
+    },
+    {
+      "album": {
         "name": "Walk In",
         "url": "https://open.spotify.com/album/7f2w303hV2NcEq5S7R34TB"
       },
@@ -8132,6 +8348,24 @@
       "duration_ms": 148192,
       "name": "Wash The Dishes",
       "url": "https://open.spotify.com/track/46YZs3kPeVMvUvyWm2JQes"
+    },
+    {
+      "album": {
+        "name": "Wassup Gwayy",
+        "url": "https://open.spotify.com/album/1RlJJaItCwvPI1qkIfsJax"
+      },
+      "artists": [
+        {
+          "name": "FamousSally & YB",
+          "url": "https://open.spotify.com/artist/58r9bevVFGCcTpNRT5Ha85"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144383,
+      "name": "Wassup Gwayy",
+      "url": "https://open.spotify.com/track/5CQ0tp4ZdSrzj2ev9yieVV"
     },
     {
       "album": {
@@ -8458,7 +8692,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 211666,
       "name": "Wife",
       "url": "https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz"

@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "after a while",
+        "url": "https://open.spotify.com/album/6J6B75xjID00XXrVfO0Qm6"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "herman.",
+          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "after a while",
+      "url": "https://open.spotify.com/track/0VZ1zeperKNOmRP1Q2DdoJ"
+    },
+    {
+      "album": {
         "name": "After Nap",
         "url": "https://open.spotify.com/album/6GiTFrmJIYOXURTevVOt65"
       },
@@ -8432,6 +8454,24 @@
       "duration_ms": 155714,
       "name": "Sunkiss",
       "url": "https://open.spotify.com/track/6JIUChxhGBybrCCX99SoXO"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/28c5uCokcQpD528DOb9xtS"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307377,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/2tNAsJUcZNaG2Wj26H2s55"
     },
     {
       "album": {

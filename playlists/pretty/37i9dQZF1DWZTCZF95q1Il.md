@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 
 > Gospel songs you grew up listening to
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,825 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,840 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTCZF95q1Il.md) - [plain]
 | 59 | [My Call](https://open.spotify.com/track/6N8vrHGAl1FXgA5EYclP4z) | [M O G](https://open.spotify.com/artist/7jmlYHg2tjQ7SweaSFwvl5), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7) | [Go Let Him Go](https://open.spotify.com/album/5P1iuvCDjoU5444LHpL8p0) | 4:08 |
 | 60 | [Tobina](https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Tobina](https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp) | 3:51 |
 
-Snapshot ID: `MCxiZmIxYzllMWJhMzE5ZDg1Nzg5YWZjMzliYWYxY2I5ZjRiODM4NThj`
+Snapshot ID: `MCxkNDYyMTUxZTkxMTlkZTMzY2UxZWUzMzY5MzVmMTVkYWQ2M2ExNjQ2`

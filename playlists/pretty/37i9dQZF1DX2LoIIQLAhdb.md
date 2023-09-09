@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Lynda
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,247 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,324 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 9 | [Dans La Chambre / Money](https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x) | 4:45 |
 | 10 | [Pour nous](https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Pour nous](https://open.spotify.com/album/51rumLSZOQswEty93fSey3) | 2:47 |
 | 11 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 |
-| 12 | [Comme toi \(Acoustique\)](https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s) | 2:34 |
+| 12 | [Comme toi \- Acoustique](https://open.spotify.com/track/1Hc4GdYRgEZIPpdmopnAui) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/30Zdh9wOGIaWvotg9Cno5e) | 2:34 |
 | 13 | [Délire \(feat\. Tiakola\)](https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Délire \(feat\. Tiakola\)](https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP) | 3:26 |
 | 14 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 |
 | 15 | [Quelqu'un d'autre](https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra) | 3:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Makelele](https://open.spotify.com/track/3LHgc025pXKdA57Wu7tCra) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS), [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Makele](https://open.spotify.com/album/4y2B5kpPU9volLqTnDDoCZ) | 2:45 |
 | 40 | [Bunker 09](https://open.spotify.com/track/4t7KDvE1AO02Jr0uDIJYY6) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl) | [Bunker 09](https://open.spotify.com/album/12PLqI9BiLCPlLihhoEExV) | 3:12 |
 
-Snapshot ID: `MCw1MzY2ZjMxMmExZDhhMzhmM2YwNGFmODAwZTQzNDM2ZTE1YzUxYmZi`
+Snapshot ID: `MCxlMDE1YzNiMThhZTgxMjdjZGVjNDBjODc4ZWRhODU3OGY4NjE0YTkz`

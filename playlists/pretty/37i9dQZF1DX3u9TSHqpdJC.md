@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: SYTË
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,519 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,539 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 26 | [WHO I AM](https://open.spotify.com/track/2HPqtem9X3JUMmYZ4hbOYw) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [WHO I AM](https://open.spotify.com/album/1DS1fxfXE5rmasC4JFw2uN) | 3:05 |
 | 27 | [Saturday](https://open.spotify.com/track/1pKKk3iHUA1ZeNbXyjF86a) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Saturday](https://open.spotify.com/album/2P8C75kv0y8CzGcRPFNjtc) | 2:48 |
 | 28 | [freak](https://open.spotify.com/track/5vYvIFkTv8LOANg7T9L1ho) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [freak](https://open.spotify.com/album/6YHcunLamMfjlnSnaUxPmr) | 2:32 |
-| 29 | [Selfish](https://open.spotify.com/track/1Wf7dRAvAqd9ljdK7nQm6u) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Selfish](https://open.spotify.com/album/7ueosuOsr1inTBJ9Q0UZ2e) | 3:08 |
+| 29 | [Selfish](https://open.spotify.com/track/0eULUaJUMtoydP0Lnh4kM3) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [Selfish](https://open.spotify.com/album/7GxlYeupeHHAttLZFBARef) | 3:08 |
 | 30 | [This Generation Sucks](https://open.spotify.com/track/4NVNnpHWcw5AErkebQpz9j) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [This Generation Sucks](https://open.spotify.com/album/7wMxSUbeSMNnGQGhYo8fYV) | 2:58 |
 | 31 | [cheater](https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [cheater](https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw) | 2:20 |
 | 32 | [Love Hate](https://open.spotify.com/track/4udUDuv1M2Sqwnn07Ll6M0) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Love Hate](https://open.spotify.com/album/6r2jKxm2Duy0NnwpvbEFI2) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
 | 100 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCw0NWZjYTY0ZGM3ZjdiZTAxZTYyYzBiYjUwNzVkZDIzOTc1NzZiNmE1`
+Snapshot ID: `MCwzOWJiYTk3MTMzOGY1MmJlYjk5NTNmYzIzNTBmNDgxYWI3ZGY0ZWFi`

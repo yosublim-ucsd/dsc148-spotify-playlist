@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 99598,
+  "num_followers": 99741,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzFjZTc2ZGYzZjc2NzlkZTkxODZjNDc3ZGI5MzY5MzExMTNjYjMz",
+  "snapshot_id": "MCxkYjE3MzMwOWU5YjY1ZmUyN2Y4ZWE5NDM3YzM1NGNmNjVhNDljY2Zl",
   "tracks": [
     {
       "added_at": "2023-06-09 14:58:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 133293,
       "name": "The Moon is Rising",
       "url": "https://open.spotify.com/track/736frSQjibzIkMg2byvPoW"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
-        "name": "Major League Blues",
-        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
-      },
-      "artists": [
-        {
-          "name": "Jose Ramirez",
-          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Here in the Delta",
-      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
         "name": "Packing My Bags",
         "url": "https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 294595,
       "name": "Hoodoo Man",
       "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
+        "name": "Major League Blues",
+        "url": "https://open.spotify.com/album/4yFvyxpUgLYqCrheI0HxxN"
+      },
+      "artists": [
+        {
+          "name": "Jose Ramirez",
+          "url": "https://open.spotify.com/artist/5yuQYWL6LV6EazqVr04jIm"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Here in the Delta",
+      "url": "https://open.spotify.com/track/22NkmcMj57GSMBmi6eh7mi"
     },
     {
       "added_at": "2023-06-09 14:58:01",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-06-09 14:58:01",
       "album": {
+        "name": "Aynsley Dunbar Retaliation",
+        "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Dunbar Retaliation",
+          "url": "https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Double Lovin\u00b4",
+      "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
+    },
+    {
+      "added_at": "2023-06-09 14:58:01",
+      "album": {
         "name": "The Blues Is Now",
         "url": "https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 229973,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb"
-    },
-    {
-      "added_at": "2023-06-09 14:58:01",
-      "album": {
-        "name": "Aynsley Dunbar Retaliation",
-        "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Dunbar Retaliation",
-          "url": "https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Double Lovin\u00b4",
-      "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
     },
     {
       "added_at": "2023-06-09 14:58:01",

@@ -1133,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "Liebes Kind (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123960,
+      "name": "Underneath",
+      "url": "https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f"
+    },
+    {
+      "album": {
         "name": "Wednesday (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
       },

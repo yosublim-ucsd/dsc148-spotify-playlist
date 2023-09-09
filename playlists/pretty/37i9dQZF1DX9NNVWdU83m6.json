@@ -1,13 +1,45 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 43017,
+  "num_followers": 43118,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjY1ZjUyYWY5YzYxZTkzYzVjNWE2MWU0OTM2MGFlYzY2ZjgwZjcz",
+  "snapshot_id": "MCxiZjkyMmY5YjAzYTlmZjlmNWJmNzIyMjYzNmQzOTQ0NjdjNWQ3YzFm",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/5FmLzaMLG8dIHvYNpJrgWu"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 327503,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3B5Wk1AhqKSSB4EQAP7WBO"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {

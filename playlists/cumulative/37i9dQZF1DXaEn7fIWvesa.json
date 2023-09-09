@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-14",
-  "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
+  "description": "A lo cubano \ud83d\udd25 Con Jacob Forever en portada.",
   "name": "Cubat\u00f3n Miami",
   "tracks": [
     {
@@ -364,6 +364,32 @@
       "duration_ms": 249800,
       "name": "El Taxi",
       "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
+    },
+    {
+      "album": {
+        "name": "El Verdadero Palo",
+        "url": "https://open.spotify.com/album/6Wurfg3vmjhrTdhdf9XkOO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Marvin Freddy",
+          "url": "https://open.spotify.com/artist/3I0QgDOz7H5a93lvRagnRe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "El Verdadero Palo",
+      "url": "https://open.spotify.com/track/73lOC7Sg5p7hiVo05jjILM"
     },
     {
       "album": {
@@ -1210,7 +1236,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 177196,
       "name": "Tu & Yo - Remix",
       "url": "https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW"

@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-732 songs - 1 day 17 hr 46 min
+734 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Calicall](https://open.spotify.com/track/7s7cgU5RJ3vhWp1ZYRr8UR) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [Calicall](https://open.spotify.com/album/7f0iQN9EVtjX2qzBTJM0lO) | 1:38 | 2020-04-21 | 2021-03-06 |
 | [Calmly](https://open.spotify.com/track/1ROmNAVxMVmTDwXIQcnWIZ) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Sail](https://open.spotify.com/album/3mfmjgtgtGl9f4hUg5CGed) | 4:14 | 2020-04-03\* | 2021-03-06 |
 | [Campeche](https://open.spotify.com/track/6DyKoBHY0LxksiZX7ndceV) | [Amber & Ochre](https://open.spotify.com/artist/1ThQ3MXSa99zoFt5j8QDkX) | [Campeche](https://open.spotify.com/album/3uYXQwG7rWrBiaPCTGAGIF) | 2:23 | 2022-06-24 |  |
+| [Candle](https://open.spotify.com/track/1bUXKZBvJjxG2GizStYDHr) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Candle](https://open.spotify.com/album/1kX74857084y9kaHHjS7z0) | 2:40 | 2023-09-08 |  |
 | [Cantrip](https://open.spotify.com/track/3TxREGxBFHsJMdwu1SkQ1y) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Cantrip](https://open.spotify.com/album/3hFMnCyEI7uKEEgxPxmGNL) | 2:41 | 2021-04-15 | 2021-06-16 |
 | [Caribbean Sunset](https://open.spotify.com/track/3ThZpJ81wK2zLDxzmVlyoH) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Caribbean](https://open.spotify.com/album/33DO98yRb2HR3Vz3jAbfSY) | 3:30 | 2022-11-25 | 2023-01-07 |
 | [Cartagena](https://open.spotify.com/track/1x9b72SPoK8jx6aUV6I3bl) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Cartagena](https://open.spotify.com/album/7BtnfmrMiXCwOquM9Anm3h) | 3:36 | 2021-08-20 | 2022-01-22 |
@@ -497,7 +498,7 @@
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-10 | 2021-09-09 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-09-09 |  |
 | [Price is Right](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Price is Right](https://open.spotify.com/album/4AUammqsMgkKSNGS3aJ6ff) | 2:39 | 2023-04-21 |  |
-| [Promise Don't Forget](https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Shambles](https://open.spotify.com/album/45RsCaNIIHCfoy4EOdtX4M) | 3:55 | 2022-09-23 |  |
+| [Promise Don't Forget](https://open.spotify.com/track/2kQXyiK2Plxd9lxkLjnoul) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Shambles](https://open.spotify.com/album/45RsCaNIIHCfoy4EOdtX4M) | 3:55 | 2022-09-23 | 2023-09-09 |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2021-06-02 | 2023-01-20 |
 | [Pure North](https://open.spotify.com/track/1OupslOCajr6YwYMc6bYUK) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Pure North](https://open.spotify.com/album/2ZUa1CwxIYGUlTUzpHCKe3) | 4:12 | 2021-02-24 | 2021-09-22 |
 | [Purity](https://open.spotify.com/track/0bRuqIi3CZrEt9ORtCHHHW) | [Calvatress](https://open.spotify.com/artist/2UxH255utiME1XAA9fXUsh) | [Purity](https://open.spotify.com/album/0eN2BQy4PSiRifsVOhUdVx) | 3:05 | 2021-04-21 | 2021-09-22 |
@@ -527,6 +528,7 @@
 | [Right Direction](https://open.spotify.com/track/3PQlWzST5koIKZDgKqV0Pc) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:34 | 2021-02-19 | 2022-07-29 |
 | [Rissa](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 4:42 | 2021-01-18 | 2022-01-22 |
 | [Ritual Two](https://open.spotify.com/track/0hXvQ0bFIAkJtp2fIWjpM0) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi) | [Ritual Two](https://open.spotify.com/album/3236HAldAMIMqFrcIqS7GC) | 4:29 | 2020-11-11 | 2021-01-05 |
+| [Rodolex](https://open.spotify.com/track/2xbgIcJoOCn8CksOxpNRpo) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Rodolex](https://open.spotify.com/album/4yft3TXCdLTbHSg1TjJD1T) | 2:39 | 2023-09-08 |  |
 | [Rollin'](https://open.spotify.com/track/1uvQ1k2fAgAUIf7pd0j2Am) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Rollin'](https://open.spotify.com/album/7InuZ6AYnxpz7eYbqDKGfA) | 2:18 | 2022-10-07 |  |
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2021-04-15 | 2022-08-19 |
 | [Rooftop Sun](https://open.spotify.com/track/4fLYOLtxiGkeWy9lSzYLk6) | [Mads Nielsen Stolt](https://open.spotify.com/artist/1F9o7boqKQEWTQRIorbiR4) | [Rooftop Sun](https://open.spotify.com/album/7otFqV5bvG65ADW65pk6Eg) | 2:40 | 2023-05-22 |  |

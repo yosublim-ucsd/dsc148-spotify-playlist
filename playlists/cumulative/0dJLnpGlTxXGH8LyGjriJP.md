@@ -4,7 +4,7 @@
 
 > 
 
-653 songs - 1 day 8 hr 50 min
+654 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Blue Cheese](https://open.spotify.com/track/6wrkCNzt4ymLgiel2bJefg) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:05 | 2022-11-19 |  |
 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-16 |  |
 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 | 2022-05-25 |  |
+| [Booby Trap](https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:16 | 2023-09-08 |  |
 | [Boom](https://open.spotify.com/track/6vQnpXl0KvwTfLpIhoOLHc) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:06 | 2022-10-25 |  |
 | [BOONDOCKS](https://open.spotify.com/track/15NKlFZLj4Mm1vsnkqrzMC) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Trap Swagg](https://open.spotify.com/artist/3ormELwWyZtuJLM3PW5pZr) | [STUNNA 4 FILES](https://open.spotify.com/album/5NVMlDtzTwNjX9sExAlf4t) | 2:16 | 2022-10-21 |  |
 | [BOSSMAN!](https://open.spotify.com/track/6LzfLFbrFWMCbf4W8VZKzz) | [Lonestar Void](https://open.spotify.com/artist/0Tgd3dh9w9kq5gQMg3uqqV) | [Lord](https://open.spotify.com/album/1k58dbjzUwgJaaOQFubJxp) | 1:39 | 2022-09-23 |  |

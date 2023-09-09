@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 54324,
+  "num_followers": 54356,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzI3YWI1Mzg1ZTgwMmFmY2MxZTRkYzE4NWUzOWQ0NGFjYWJjY2Y4",
+  "snapshot_id": "MCw4NGY0OTJlZTc2NzJhMDI2YzBhOTQ2YTNkZTZiMjgwYjhhNzVhNTBl",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Beautiful Midnight",
+        "url": "https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4"
+      },
+      "artists": [
+        {
+          "name": "Matthew Good Band",
+          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
+        }
+      ],
+      "duration_ms": 312493,
+      "name": "apparitions",
+      "url": "https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Greatest Hits Volume One",
         "url": "https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 219906,
       "name": "Squeeze Toy",
       "url": "https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Beautiful Midnight",
-        "url": "https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4"
-      },
-      "artists": [
-        {
-          "name": "Matthew Good Band",
-          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
-        }
-      ],
-      "duration_ms": 312493,
-      "name": "apparitions",
-      "url": "https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz"
     },
     {
       "added_at": "2021-09-21 20:57:50",

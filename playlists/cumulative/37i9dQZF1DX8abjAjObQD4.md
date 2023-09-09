@@ -4,7 +4,7 @@
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-65 songs - 4 hr 50 min
+66 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Tangled Up In Blue \- Live at the Great American Music Hall, San Francisco, CA \-Aug 1992](https://open.spotify.com/track/1BAa8ztC3sFEGWVwyCPZnk) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [1200 Curfews](https://open.spotify.com/album/4HZfjH0LgBHRsrxDAHoFOe) | 8:02 | 2023-08-11 |  |
 | [Teach Your Children \- Live](https://open.spotify.com/track/1qwqSlrqKxInbvu69BUaX6) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [4 Way Street](https://open.spotify.com/album/0T0iwwI0nHiFcF0HDW59UO) | 3:02 | 2023-08-11 |  |
 | [The A Team \- Live at the Bedford](https://open.spotify.com/track/6JUGrUnAms0o3uGVIhkAyH) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live at the Bedford](https://open.spotify.com/album/4JUtnlZKdLr01xEIymhm0G) | 5:22 | 2023-08-11 |  |
+| [The Man in Me \- Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978](https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Man in Me \(Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978\)](https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz) | 3:51 | 2023-09-08 |  |
 | [The Needle and The Damage Done \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/285vxuRky8WKTIrNP332sl) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Neil Young at Live Aid \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/31rLr6NpNw9wggFD4QGfhD) | 2:23 | 2023-08-11 |  |
 | [The Sound of Silence \- Live at Benaroya Hall, Seattle, WA \- November 2010](https://open.spotify.com/track/3RkSYWC5JpXaRXyc7oOLIq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Seattle Symphony Orchestra](https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb) | [Live At Benaroya Hall with The Seattle Symphony](https://open.spotify.com/album/7jKJ68WplsoCCnbpKUXiV8) | 3:26 | 2023-08-11 |  |
 | [The Stable Song \- Live at Spotify House](https://open.spotify.com/track/2NnsEix2JSUkZvHqI6Tcyj) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Spotify Sessions](https://open.spotify.com/album/5IiWXhwmXWqtqhce8vuE1i) | 6:08 | 2023-08-11 |  |

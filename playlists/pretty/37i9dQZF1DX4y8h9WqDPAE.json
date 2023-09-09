@@ -1,13 +1,45 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Queen Naija",
-  "num_followers": 1792286,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Tyla",
+  "num_followers": 1792386,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI5OTlhOWUyMTRjYTQ5M2JjYTQzM2QzYTFkMTA1OGU2NDEzODVj",
+  "snapshot_id": "MCw4ZTY4ZTFlYjIxMzc4OGE1ZDQxMjVhMzNiNjA1ZjgxM2RhNjk4ZDZk",
   "tracks": [
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
@@ -29,20 +61,28 @@
       "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2023-09-08 05:00:45",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -245,22 +285,6 @@
       "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Summer Too Hot",
@@ -275,6 +299,22 @@
       "duration_ms": 188504,
       "name": "Summer Too Hot",
       "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+    },
+    {
+      "added_at": "2023-09-08 05:00:45",
+      "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/6kRPeBs9unh27QfKtYy0GE"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/0O3oO62iQhp16xX0Z7lqNW"
     },
     {
       "added_at": "2023-05-05 14:46:34",
@@ -401,20 +441,24 @@
       "url": "https://open.spotify.com/track/5xaQAWQ6Q65HTJGEZxrzpt"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-09-08 05:00:45",
       "album": {
-        "name": "tori",
-        "url": "https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd"
+        "name": "BORN FOR GREATNESS",
+        "url": "https://open.spotify.com/album/37A8OxnuHRRRd8QJcwzEfg"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 171797,
-      "name": "shelter",
-      "url": "https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u"
+      "duration_ms": 157060,
+      "name": "BODY TOUCHING BODY (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/2NKUIkh9fZLR7C7PXiJIsP"
     },
     {
       "added_at": "2023-05-19 06:33:06",
@@ -505,6 +549,22 @@
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "tori",
+        "url": "https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 171797,
+      "name": "shelter",
+      "url": "https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u"
+    },
+    {
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "Make Up Your Mind",
@@ -575,6 +635,22 @@
       "duration_ms": 110560,
       "name": "I Ain't Playin",
       "url": "https://open.spotify.com/track/6VRh9tH6QB93CT3nn9iJkU"
+    },
+    {
+      "added_at": "2023-09-08 05:00:45",
+      "album": {
+        "name": "Off The Wall",
+        "url": "https://open.spotify.com/album/7Ao3kw89bAQ2xbPeesYkn5"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 159063,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/28a9Ref1xn9MvMHCFg8bIM"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -661,6 +737,22 @@
       "url": "https://open.spotify.com/track/7dHai2diN3uYd5SHZ8LsAO"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Lifesize Teddy",
+        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
+      },
+      "artists": [
+        {
+          "name": "Lifesize Teddy",
+          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4"
+    },
+    {
       "added_at": "2023-06-16 05:14:18",
       "album": {
         "name": "Grudges",
@@ -713,6 +805,22 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
+      "added_at": "2023-09-08 05:00:45",
+      "album": {
+        "name": "Whatchu Want",
+        "url": "https://open.spotify.com/album/2nbF4d0GtsO3N9xowbpWKt"
+      },
+      "artists": [
+        {
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+        }
+      ],
+      "duration_ms": 175642,
+      "name": "Whatchu Want",
+      "url": "https://open.spotify.com/track/5YU1xqvXsXDnhbhu6bRprY"
+    },
+    {
       "added_at": "2023-08-04 04:00:00",
       "album": {
         "name": "GRL GVNG",
@@ -727,26 +835,6 @@
       "duration_ms": 188093,
       "name": "GRL GVNG",
       "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
-    },
-    {
-      "added_at": "2023-07-14 05:46:05",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1EIF2vRR3CNoytVR8JPL2G"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -791,6 +879,22 @@
       "duration_ms": 231529,
       "name": "X-Rated (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/4XI8zeiBGduh5rABkvBn5Y"
+    },
+    {
+      "added_at": "2023-09-08 05:00:45",
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/2pCt0prKaMAcwNljIZezCJ"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "duration_ms": 262147,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/6aYEwkZlOr8MREZR0Mu9md"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -991,22 +1095,6 @@
       "duration_ms": 219133,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Lifesize Teddy",
-        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
-      },
-      "artists": [
-        {
-          "name": "Lifesize Teddy",
-          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1705,38 +1793,6 @@
       "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/0RBwpxEriSaNOqPZHVSd7i"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 205369,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/1GxvY18Fk9Z3UmpeqteE0g"
-    },
-    {
-      "added_at": "2023-06-10 17:52:19",
-      "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 180731,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Undercover Lover",
@@ -1757,36 +1813,20 @@
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-06-10 17:52:19",
       "album": {
-        "name": "Catch Up! // Lights",
-        "url": "https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f"
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/5hf83mN1IFFHq3JYTJZLeE"
       },
       "artists": [
         {
-          "name": "AYL\u00d8",
-          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
         }
       ],
-      "duration_ms": 157009,
-      "name": "Catch Up!",
-      "url": "https://open.spotify.com/track/6Ckhwztz0nfuS4XIZNpLeC"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Sittin' On Top Of The World",
-        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159372,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+      "duration_ms": 180731,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/3xeDr86GnwkxhHQIit7NL9"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -2123,30 +2163,6 @@
       "duration_ms": 156014,
       "name": "Aint Mine (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
-        "url": "https://open.spotify.com/album/317PcUzE4jLbru2ex8v1k9"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Lady London",
-          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
-        }
-      ],
-      "duration_ms": 184155,
-      "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
-      "url": "https://open.spotify.com/track/7ePT9TlNfASJdDB8v9xbBD"
     },
     {
       "added_at": "2023-04-21 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Amelia Moore",
+  "description": "Dark, hard hitting pop. Cover: Baby Queen",
   "name": "SALT",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 147071,
       "name": "3 Times",
       "url": "https://open.spotify.com/track/4Dk1ZnnKsxQqAbRHQgeqDx"
+    },
+    {
+      "album": {
+        "name": "A Series of Unfortunate Events",
+        "url": "https://open.spotify.com/album/791lKGOskm8eOC85qu1XGQ"
+      },
+      "artists": [
+        {
+          "name": "Ella Isaacson",
+          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165376,
+      "name": "A Series of Unfortunate Events",
+      "url": "https://open.spotify.com/track/4jkFpWbEpiS7LBmSidWwUX"
     },
     {
       "album": {
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 171603,
       "name": "Boy",
       "url": "https://open.spotify.com/track/3CwFZZhuI7MjUcoKq4VbXH"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 106382,
       "name": "Boy Of The Month",
       "url": "https://open.spotify.com/track/4RSIROjp4W39qUAyMHjf13"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 125360,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/70Wwn4bzkr4dROkzmBSNOl"
@@ -3528,7 +3546,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 173547,
       "name": "heartless",
       "url": "https://open.spotify.com/track/4tmcCFi4mCUlGFyeedR8vN"
@@ -4739,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+    },
+    {
+      "album": {
         "name": "Love Me Till U Hate Me",
         "url": "https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB"
       },
@@ -4844,7 +4880,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 167542,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0OnON3yLi4ZSzqhgyFxwdi"
@@ -5352,7 +5388,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 170704,
       "name": "Not to be Dramatic",
       "url": "https://open.spotify.com/track/5DfMuKnKjSCBJDL3CbRAet"
@@ -5446,6 +5482,28 @@
       "duration_ms": 154586,
       "name": "Only Love Can Save Us Now",
       "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
+    },
+    {
+      "album": {
+        "name": "Other Boys",
+        "url": "https://open.spotify.com/album/3eb9d46lBCh5p1XBn66jBQ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137065,
+      "name": "Other Boys",
+      "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
     },
     {
       "album": {
@@ -5742,7 +5800,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 213120,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em"
@@ -5786,6 +5844,24 @@
       "duration_ms": 152626,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p"
+    },
+    {
+      "album": {
+        "name": "Pretty Distraction",
+        "url": "https://open.spotify.com/album/3KGO7t6s7VEAmJntA0R59Q"
+      },
+      "artists": [
+        {
+          "name": "SkyDxddy",
+          "url": "https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Pretty Distraction",
+      "url": "https://open.spotify.com/track/6cPh0IceWYeMEeYmbSgIMG"
     },
     {
       "album": {
@@ -5916,6 +5992,24 @@
       "duration_ms": 113494,
       "name": "Purity",
       "url": "https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K"
+    },
+    {
+      "album": {
+        "name": "Quarter Life Crisis",
+        "url": "https://open.spotify.com/album/5bTGBed0FKungdHiISflgl"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183524,
+      "name": "Quarter Life Crisis",
+      "url": "https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ"
     },
     {
       "album": {
@@ -6060,7 +6154,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 178925,
       "name": "red flag collector",
       "url": "https://open.spotify.com/track/6a0x5MhnYdjxaotPNKXUvW"
@@ -6664,6 +6758,28 @@
       "duration_ms": 184736,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/2X0hSfFCaunosj2mcLU4Y4"
+    },
+    {
+      "album": {
+        "name": "Sirens (feat. Sophie Powers)",
+        "url": "https://open.spotify.com/album/2pDrVZZDZDVWyb0eNW1YWe"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Sirens (feat. Sophie Powers)",
+      "url": "https://open.spotify.com/track/0mRsuiV1DDTFCoig8O7Bga"
     },
     {
       "album": {
@@ -7854,7 +7970,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 197219,
       "name": "Unhappier",
       "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
@@ -8114,7 +8230,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 164240,
       "name": "Wasting Away",
       "url": "https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer"
@@ -8222,7 +8338,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 134724,
       "name": "WET WHITE TEE SHIRT (SIDE A)",
       "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"

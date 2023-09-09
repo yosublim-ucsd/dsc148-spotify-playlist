@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Rhiannon Giddens
+> Keep your finger on the pulse of Americana\. Cover: Allison Russell
 
-516 songs - 1 day 7 hr 59 min
+518 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 | 2022-04-02 |
 | [Broken Heart of Mine](https://open.spotify.com/track/51gGRkh26NzsARpwOIHQ2X) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:52 | 2023-04-14 |  |
 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 | 2022-04-01 | 2022-05-14 |
-| [Brought Me](https://open.spotify.com/track/23ngaqkN1lZAZyM3VuC5ci) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Brought Me](https://open.spotify.com/album/6EZ9WykfBdjkb4PLSndYe4) | 4:52 | 2023-08-04 |  |
+| [Brought Me](https://open.spotify.com/track/23ngaqkN1lZAZyM3VuC5ci) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Brought Me](https://open.spotify.com/album/6EZ9WykfBdjkb4PLSndYe4) | 4:52 | 2023-08-04 | 2023-09-09 |
 | [Buffet Days](https://open.spotify.com/track/1Y7XrntbqWMMR2Rm6HLnG4) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O), [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Buffet Days](https://open.spotify.com/album/272cuK8kjbVwLnIl41N4rx) | 3:41 | 2022-08-05 | 2023-08-05 |
 | [Burlesque Desert Window](https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [A Lifetime to Find](https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1) | 2:59 | 2022-10-28 |  |
 | [C'mon America](https://open.spotify.com/track/1Rp5D6QPrijZsEgqJ6kHFD) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [C'mon America](https://open.spotify.com/album/20d5m4EhOkMvp0xQgS7RiZ) | 2:56 | 2021-12-17 | 2022-01-29 |
@@ -166,6 +166,7 @@
 | [Go Through You](https://open.spotify.com/track/0iJtDX4l9iylfqrR6zwrGi) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Misfit](https://open.spotify.com/album/3RWT4u4jQBDxhhZorAZXLl) | 3:56 | 2023-01-13 |  |
 | [God in Everything](https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:07 | 2023-06-09 |  |
 | [Gold](https://open.spotify.com/track/4FhJPRWj8OB36Jk4CDlSY4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Unicorn](https://open.spotify.com/album/3tb5q9GynOzJaq0lIy9pvR) | 3:22 | 2022-10-28 |  |
+| [Golden State](https://open.spotify.com/track/6OZlJDNIs9Eix2QGajJEOy) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [All The Wine In California](https://open.spotify.com/album/5hvJoYH3K4PaGfVcI9Dqny) | 4:24 | 2023-09-08 |  |
 | [Golden Years](https://open.spotify.com/track/4fQXOpDKcxHWgYXmincsq8) | [Parker Gispert](https://open.spotify.com/artist/2EPHhgkv9L6O4FzWJT5kcs) | [Golden Years](https://open.spotify.com/album/0sfjxBL5IvqREalOeEkmDW) | 3:37 | 2022-06-17 | 2023-04-22 |
 | [Good Morning Coffee](https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F) | [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [Laughing River](https://open.spotify.com/album/1LnQJBFkhJGgr6mfTwDET8) | 3:46 | 2022-10-28 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/6Ien9KiFefrlQAQlZUruZP) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:30 | 2022-02-22 | 2023-05-20 |
@@ -236,6 +237,7 @@
 | [It's Your Fault](https://open.spotify.com/track/3krCWFkCXoLz7cDpElKp1I) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Everyone A Song, Vol\. 2](https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P) | 4:54 | 2021-12-17 | 2022-06-04 |
 | [I’m On Your Side](https://open.spotify.com/track/3rBi3Y2miFgPHm8OAcLRoL) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:18 | 2022-06-24 | 2023-06-10 |
 | [Jazz on the Autobahn](https://open.spotify.com/track/0X7PaSl2RFGQYTRzTmC8Xf) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS) | 4:32 | 2021-12-17 | 2022-08-06 |
+| [Jealous Moon](https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Jealous Moon](https://open.spotify.com/album/1rWmeFnn1ucnPJCHedPDl7) | 4:24 | 2023-09-08 |  |
 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 | 2023-08-18 |  |
 | [John Prine's Cadillac](https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [John Prine's Cadillac](https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA) | 3:21 | 2022-07-22 | 2022-09-12 |
 | [John Prine's Cadillac](https://open.spotify.com/track/7qvoArGqkTh9Fi5P1orTde) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Wings on My Shoes](https://open.spotify.com/album/3x6qsIvqAjncf61GgRegUv) | 3:21 | 2022-08-19 | 2023-07-29 |
@@ -320,7 +322,7 @@
 | [On The Ranch](https://open.spotify.com/track/0mHgo4idHJkSRsv1z7Tuje) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [On The Ranch](https://open.spotify.com/album/5YTaHXkz05dmQdFVbB1JiS) | 2:48 | 2022-08-05 | 2022-11-12 |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2022-08-05 |  |
 | [Orphan Child](https://open.spotify.com/track/6aK8AIxvkuiYE1sHdxrYcb) | [Jeremy Ivey](https://open.spotify.com/artist/08Gc0o3GdjIKtQVoNYaVNG) | [Orphan Child](https://open.spotify.com/album/4SyrS57R0V9jB7LB1ty6Qw) | 3:57 | 2022-01-21 | 2022-05-20 |
-| [Other Side](https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Other Side](https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY) | 4:13 | 2022-05-27 |  |
+| [Other Side](https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Other Side](https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY) | 4:13 | 2022-05-27 | 2023-09-09 |
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 |  |
 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 | 2022-05-13 | 2023-07-29 |
 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-12-02 |  |

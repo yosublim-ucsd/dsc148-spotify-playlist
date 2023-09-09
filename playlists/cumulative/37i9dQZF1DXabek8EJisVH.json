@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Gentle Rhythms",
+        "url": "https://open.spotify.com/album/7HL6P1kM1b9LU4aaBcLMZI"
+      },
+      "artists": [
+        {
+          "name": "The Sky",
+          "url": "https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Gentle Rhythms",
+      "url": "https://open.spotify.com/track/11dpbBP364SzOkNEqbClbl"
+    },
+    {
+      "album": {
         "name": "Calm Upon You",
         "url": "https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep"
       },

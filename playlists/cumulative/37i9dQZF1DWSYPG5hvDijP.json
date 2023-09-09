@@ -2675,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "Shoishob",
+        "url": "https://open.spotify.com/album/6ISNptZNpAHaXiLYIawSX2"
+      },
+      "artists": [
+        {
+          "name": "Archiesman Kundu",
+          "url": "https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp"
+        },
+        {
+          "name": "Rawhit",
+          "url": "https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Shoishob",
+      "url": "https://open.spotify.com/track/7HaFX8zgAZYOrBrj7GNFlw"
+    },
+    {
+      "album": {
         "name": "SLATT",
         "url": "https://open.spotify.com/album/16KxB4wDVIwGSwhUqftEAs"
       },

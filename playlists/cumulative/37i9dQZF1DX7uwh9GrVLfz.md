@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GUMX
 
-617 songs - 1 day 9 hr 15 min
+618 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/track/7bxyTGWClbH0JXhG1lYx9W) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/album/0Ib48h7MauySf6xS7xgxoC) | 3:01 | 2023-04-27 | 2023-05-17 |
 | [I Love You ja ai mai](https://open.spotify.com/track/7zApMvRtAq12Mk5x8rzFdm) | [音武者](https://open.spotify.com/artist/6sDl2vWL0zSjk9vqK6Ze9k) | [I Love You ja ai mai](https://open.spotify.com/album/0qHnl5doc0FCUvz2mSyePs) | 2:19 | 2022-07-07 | 2022-07-20 |
 | [I MADE YOU BLACK](https://open.spotify.com/track/13vBqDAqQBta8FF1oedWkd) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:14 | 2022-05-17 | 2022-07-11 |
+| [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 | 2023-09-07 |  |
 | [I Want to Be Wrong](https://open.spotify.com/track/55kk1gFvPshLGQi9rW3si6) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [A Tribute To NO USE FOR A NAME](https://open.spotify.com/album/3RHnxCI12A7417md6Fsc5l) | 2:41 | 2022-06-21 | 2022-07-18 |
 | [I want to go out](https://open.spotify.com/track/0lrSr2OCVLI3JTs20Eytod) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [I want to go out](https://open.spotify.com/album/5RzoB8xXx2PZ6D7ZEXLjlW) | 3:23 | 2023-03-21 | 2023-03-29 |
 | [I Won't Turn Off My Radio](https://open.spotify.com/track/3S5wLtvGJJlPMaMHuYxWiu) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Sentimental Trash](https://open.spotify.com/album/0MkMu4in0oa1AYsGX10O3C) | 3:33 | 2022-05-12 | 2022-07-28 |
@@ -481,7 +482,7 @@
 | [もういい](https://open.spotify.com/track/3nnNpU81vjbflYXsmuf23R) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [もういい](https://open.spotify.com/album/7LdT35U05IlLByMoo9NJ8q) | 3:22 | 2022-05-12 | 2022-07-21 |
 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 | 2022-05-24 |  |
 | [ゆびきり](https://open.spotify.com/track/2rWjdoSvdwI0NvC7cBInH7) | [ONE'S TRUTH](https://open.spotify.com/artist/1aVy58ZrcvKm6QQj0KtGg7) | [ALL FOR ONE’S](https://open.spotify.com/album/5oO3I3i71SNDgDHi8T63gj) | 3:14 | 2022-05-12 | 2022-07-28 |
-| [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-07 |  |
+| [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-07 | 2023-09-09 |
 | [アオ](https://open.spotify.com/track/2XcpaIgYulHpwEESRX8L70) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [アオ](https://open.spotify.com/album/12LkKpoe7EkrIZhiZqHNb1) | 3:44 | 2022-05-12 | 2023-01-24 |
 | [アサインブレイカー](https://open.spotify.com/track/6n9WWWocRjT72N7LOqZza5) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [バカと天才とハミングバード](https://open.spotify.com/album/69Rosf0INFy0sUfrJWW8Yn) | 2:48 | 2022-05-12 | 2022-05-16 |
 | [アンダイイングロックンロール](https://open.spotify.com/track/0CuGdMFTSacKYJuZEIzxMK) | [AIR SWELL](https://open.spotify.com/artist/0k1XY7YS3ggrZu8UeyNlUo) | [アンダイイングロックンロール](https://open.spotify.com/album/09iqf2C8Gw5JvChHnC8otU) | 2:49 | 2022-05-19 | 2022-07-28 |

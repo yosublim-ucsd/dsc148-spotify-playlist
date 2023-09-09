@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Kudzu Wild EP",
+        "url": "https://open.spotify.com/album/2whtcaldUmd7gStU8c01th"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208343,
+      "name": "Kudzu Wild",
+      "url": "https://open.spotify.com/track/4j1l5Rg4CWNcxkn8ufyaaU"
+    },
+    {
+      "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },

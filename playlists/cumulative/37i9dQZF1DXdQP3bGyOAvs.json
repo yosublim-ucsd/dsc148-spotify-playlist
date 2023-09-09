@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "BWU",
+        "url": "https://open.spotify.com/album/3DqLVnnKXLgMLkldyl5ctY"
+      },
+      "artists": [
+        {
+          "name": "Sobbel Sosch",
+          "url": "https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152347,
+      "name": "BWU",
+      "url": "https://open.spotify.com/track/40rev08jSE8ZQfrESVu4uc"
+    },
+    {
+      "album": {
         "name": "Cabin Jam (Chill Mix)",
         "url": "https://open.spotify.com/album/4mft3HvS1dCfidxQHIJbqy"
       },

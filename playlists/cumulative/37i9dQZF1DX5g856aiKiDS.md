@@ -4,14 +4,14 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-283 songs - 15 hr 57 min
+284 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 | 2022-04-12 |  |
 | [20th century peoples](https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [20th century peoples](https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8) | 3:37 | 2022-06-20 | 2022-06-23 |
 | [31](https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [31](https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0) | 3:06 | 2022-05-03 | 2022-05-30 |
-| [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 | 2023-07-31 |  |
+| [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 | 2023-07-31 | 2023-09-09 |
 | [A Night like tonight](https://open.spotify.com/track/6gmxkkVLw51az4M9a1tL49) | [BY THE MOON](https://open.spotify.com/artist/2g5MOIN60s8JoTb5sEeMNE) | [A Night like tonight](https://open.spotify.com/album/3GVYtIrETuLWBoLhfNVLD1) | 3:49 | 2022-04-12 | 2022-05-15 |
 | [About](https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af) | [SoKuen](https://open.spotify.com/artist/2Tgcxy7vxvGdplDC8P93ZG) | [MBTIng \(Original Soundtrack\)](https://open.spotify.com/album/66pnxv8pCPQR9dLQYBVJFY) | 2:42 | 2022-05-11 | 2022-06-10 |
 | [about you](https://open.spotify.com/track/4MYFwF0xZNoUjzVZDtuNMN) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:35 | 2023-02-14 | 2023-07-20 |
@@ -141,6 +141,7 @@
 | [Love Affair \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/3kKNLD9mE0l3hK2MIQ8FkN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Love Affair](https://open.spotify.com/album/0NM7anLn4eTJZe2OBeCLWH) | 2:33 | 2022-07-09 | 2022-07-22 |
 | [Love Like That](https://open.spotify.com/track/7pnBMz4MiFIwFXSa4nSJcJ) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/6oQOkflhTjqX5Igl8Lwqv4) | 3:34 | 2022-04-21 | 2022-07-28 |
 | [Love like that](https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI) | 3:35 | 2022-07-22 | 2023-08-17 |
+| [Love like that](https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki) | 3:35 | 2023-09-04 |  |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2022-04-12 | 2023-07-08 |
 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 | 2022-11-03 | 2023-05-23 |
 | [Love to Hate You](https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love to Hate You, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx) | 3:20 | 2023-02-24 | 2023-04-13 |

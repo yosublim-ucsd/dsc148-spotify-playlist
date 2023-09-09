@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY?si=821994ca10144b1e\">Mali Music<a> ",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=ZuGDpl_vQA6_kov76eJdsg\">Mercy Chinwo<a> ",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 299176,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
@@ -1048,6 +1048,24 @@
       "duration_ms": 248926,
       "name": "Crazy Kinda Love",
       "url": "https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp"
+    },
+    {
+      "album": {
+        "name": "Cross Medley (Live)",
+        "url": "https://open.spotify.com/album/4DeAAecNwFkZHTBf9SdO1Q"
+      },
+      "artists": [
+        {
+          "name": "Bishop Leonard Scott",
+          "url": "https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301072,
+      "name": "Cross Medley - Live",
+      "url": "https://open.spotify.com/track/316BxUkm02GuQ3SY5iZGo2"
     },
     {
       "album": {
@@ -2607,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/5rCSIBr84bYZFZvH6gH0BH"
+      },
+      "artists": [
+        {
+          "name": "Tyree Miller",
+          "url": "https://open.spotify.com/artist/2R8HdUis4E0D5KOazejOl9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347166,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3MXe7rfZlSxth92oEhzP9c"
+    },
+    {
+      "album": {
         "name": "I Believe God",
         "url": "https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG"
       },
@@ -2694,7 +2730,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 259476,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2bObjOZt95O1EVmB69qTc0"
@@ -3058,7 +3094,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 213937,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/3oSy6Kfqr3LGMB32RUqmnk"
@@ -3960,7 +3996,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 250523,
       "name": "Made It Over (Radio Edit) - Live",
       "url": "https://open.spotify.com/track/2er9IAfbXuRPvZ8TtHqDlf"
@@ -4245,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Miracles Signs & Wonders (Radio Edit)",
+        "url": "https://open.spotify.com/album/1pCghIzulIz6GJbzJ8rJsh"
+      },
+      "artists": [
+        {
+          "name": "Kefia Rollerson",
+          "url": "https://open.spotify.com/artist/01HLpmCZsVH5AUyzJg87Y1"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Miracles Signs & Wonders - Radio Edit",
+      "url": "https://open.spotify.com/track/7uxkNadLgW6di2LPOPUX2L"
+    },
+    {
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -4358,6 +4412,24 @@
       "duration_ms": 201938,
       "name": "My Worship",
       "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+    },
+    {
+      "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1"
     },
     {
       "album": {
@@ -4773,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613918,
+      "name": "Oke Mmiri",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
+    },
+    {
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/4TIaTZR0IRa5WLVQ8D7GOe"
       },
@@ -5024,7 +5114,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 507068,
       "name": "Put Your Name On Me (feat. Tony Fresh)",
       "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
@@ -5266,7 +5356,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 284682,
       "name": "Same God",
       "url": "https://open.spotify.com/track/28W54ZXERoljhIBv9WbWJN"
@@ -5761,6 +5851,28 @@
     },
     {
       "album": {
+        "name": "Strike The Ground",
+        "url": "https://open.spotify.com/album/0K8g4Jxx5Fs7Dicck5r9wN"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393120,
+      "name": "Strike The Ground",
+      "url": "https://open.spotify.com/track/3dTwCrhn4RvzbgzEwn2xqe"
+    },
+    {
+      "album": {
         "name": "Superheroes Prayer",
         "url": "https://open.spotify.com/album/6KUfbWnZif821UNTGx3ZXM"
       },
@@ -5934,6 +6046,24 @@
       "duration_ms": 480000,
       "name": "TENT REVIVAL (feat. D'Nar)",
       "url": "https://open.spotify.com/track/6JYxR5RRCfFovvn0nArCbq"
+    },
+    {
+      "album": {
+        "name": "TEST",
+        "url": "https://open.spotify.com/album/6VRP6XwZd2ChTnRLC9LmEu"
+      },
+      "artists": [
+        {
+          "name": "Cardell Booker",
+          "url": "https://open.spotify.com/artist/3PmPeaqXDIRytYli986BMX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201296,
+      "name": "TEST",
+      "url": "https://open.spotify.com/track/3EWKaaQkJkRRB9DdyoOb7Q"
     },
     {
       "album": {
@@ -6431,6 +6561,24 @@
     },
     {
       "album": {
+        "name": "Tired (Live in Richmond, VA)",
+        "url": "https://open.spotify.com/album/5xOcdgRDpu5JydvRZVKBMx"
+      },
+      "artists": [
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453439,
+      "name": "Tired - Live in Richmond, VA",
+      "url": "https://open.spotify.com/track/2GSQLnTvR19qrC19ntpFRh"
+    },
+    {
+      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE"
       },
@@ -6522,7 +6670,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 272593,
       "name": "Try Love",
       "url": "https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt"
@@ -7298,7 +7446,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 607493,
       "name": "You Remain (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/09JZLlHLGMl0QnaVDqW7Eg"

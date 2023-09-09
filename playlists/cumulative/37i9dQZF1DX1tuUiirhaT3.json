@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Rain",
+        "url": "https://open.spotify.com/album/6JL6xio7jdQu6RjX55Fjwu"
+      },
+      "artists": [
+        {
+          "name": "Aurora Avery",
+          "url": "https://open.spotify.com/artist/1PnqJKNlsztufhgWQKb8C0"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Ethereal Rain",
+      "url": "https://open.spotify.com/track/26ZOVa1ptC1ZDhH5K5QtQ5"
+    },
+    {
+      "album": {
         "name": "Eucalyptus Breeze",
         "url": "https://open.spotify.com/album/0gRSqJ6Wz9IgqVY5LTLTRr"
       },
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 229824,
       "name": "Forest Lake",
       "url": "https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 185900,
       "name": "Midnight Symphony",
       "url": "https://open.spotify.com/track/3H2NnnXlA7smMlxuKmCAtD"
@@ -4249,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "Sun-drenched Greenery",
+        "url": "https://open.spotify.com/album/0mF5YSe2ziMY1EpNX4im50"
+      },
+      "artists": [
+        {
+          "name": "Mhino",
+          "url": "https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204039,
+      "name": "Sun-drenched Greenery",
+      "url": "https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf"
+    },
+    {
+      "album": {
         "name": "Surface Waves",
         "url": "https://open.spotify.com/album/2VBFOXN47dcTG77m5o7Gir"
       },
@@ -4282,6 +4318,24 @@
       "duration_ms": 172968,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy"
+    },
+    {
+      "album": {
+        "name": "Take a Breath",
+        "url": "https://open.spotify.com/album/3PmFkrswUTdy2PzigC9CZu"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Take a Breath",
+      "url": "https://open.spotify.com/track/2TSeGxfPeHQEZbmL19I6ob"
     },
     {
       "album": {

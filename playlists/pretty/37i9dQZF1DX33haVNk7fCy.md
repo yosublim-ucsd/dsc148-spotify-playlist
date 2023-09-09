@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,385 likes - 73 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,600 likes - 73 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 64 | [Gumsum](https://open.spotify.com/track/5on36dq2B35S2RRGvNQCRo) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Gumsum](https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r) | 2:55 |
 | 65 | [Unke bina \(Raw\)](https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/1zQdURnPPZXRLquGKTR5Qa) | 2:28 |
 | 66 | [Kami Hai](https://open.spotify.com/track/731U0IOIp83sTQWbQeA67N) | [Abhin & Tanish](https://open.spotify.com/artist/5o13dCj1WVvMFMcnoBEMYo) | [Kami Hai](https://open.spotify.com/album/4rvB7pU7ikqxucUAFbTQrh) | 4:12 |
-| 67 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
-| 68 | [Kitna Tha Roka](https://open.spotify.com/track/5P6xN9gXr14GLfxr3F4Rua) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/2fFlhMvx7IMrgnz79ZJ52j) | [Kitna Tha Roka](https://open.spotify.com/album/4ZW08VKjCR3P3Z3ENLMLm8) | 3:17 |
+| 67 | [Kitna Tha Roka](https://open.spotify.com/track/5P6xN9gXr14GLfxr3F4Rua) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/2fFlhMvx7IMrgnz79ZJ52j) | [Kitna Tha Roka](https://open.spotify.com/album/4ZW08VKjCR3P3Z3ENLMLm8) | 3:17 |
+| 68 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 69 | [Maahi Mera](https://open.spotify.com/track/5nQghGvvTCO5QddWAI7cqy) | [Akashdeep Singh](https://open.spotify.com/artist/3JYOe2ZSMOaC5bzXG79ay3) | [Maahi Mera](https://open.spotify.com/album/6l02cl7Igp5PnMlF8ho5kn) | 4:15 |
 | 70 | [Jaana Zaroori Tha](https://open.spotify.com/track/5pF2tGP1msn2oawd3IMk4F) | [Tejas Gambhir](https://open.spotify.com/artist/1UqE4RqotpyP2zsInnqpYw) | [Jaana Zaroori Tha](https://open.spotify.com/album/2cG4mqO5hv5tLDrm2LLDYY) | 3:27 |
 | 71 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 |
 | 72 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 | 73 | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe) | 4:06 |
 
-Snapshot ID: `MCxlYjBkNjRhNjk0OWE1Yjg5YzRkN2E1ZGIzMDk2YzQ3ZjQzY2QwOWI4`
+Snapshot ID: `MCwzODE5NDJlZjA5NmNiOGQ4NGFhNDliZDE4ZDQwYjkxMmNmYTg3NThl`

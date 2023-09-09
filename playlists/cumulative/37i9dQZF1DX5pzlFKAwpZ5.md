@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-226 songs - 17 hr 2 min
+228 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Blue Drizzling](https://open.spotify.com/track/2sMjaKpPoNabmStJizd2hw) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/5Jsb727GVJfMCuvQKaMOGO) | 8:16 | 2022-11-11 | 2022-11-14 |
 | [Blue Drizzling](https://open.spotify.com/track/3tePjDdzSunNH67I2dXY5F) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/5n9ur47UO8zWyuhRo6zaj7) | 8:16 | 2022-10-10 |  |
 | [Blue Drizzling](https://open.spotify.com/track/49FxWH10zFICH8HPAuNtsY) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [Blue Drizzling](https://open.spotify.com/album/7sRW4vIDLZKM4p74RnV88Z) | 8:16 | 2022-01-07 | 2022-10-14 |
-| [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 |  |
+| [bori](https://open.spotify.com/track/24z1kOj1Dsabb3Ld6dje02) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Wakare](https://open.spotify.com/album/2OkHSHVniZVIuHGSuNLFuG) | 3:08 | 2022-01-07 | 2023-09-09 |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2022-01-07 |  |
 | [Breeze](https://open.spotify.com/track/6tOFUhOqXYlArJjrSJ6c42) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:19 | 2023-01-20 | 2023-08-19 |
 | [Breeze from Mt\. Rokko](https://open.spotify.com/track/6j6ARhxCVB9r0cSbfccTon) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 5:34 | 2023-07-06 |  |
@@ -87,6 +87,7 @@
 | [Hitotoki](https://open.spotify.com/track/7oihgOOxT7CvQrDNF1yDo8) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Hitotoki](https://open.spotify.com/album/3PoEsNjbgIkR1dQtnT1FYT) | 2:41 | 2022-12-20 | 2023-08-19 |
 | [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 | 2022-01-07 |  |
 | [Hondou no Kumo](https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 1:55 | 2023-01-06 |  |
+| [honnkakuha](https://open.spotify.com/track/3SqTFpSAlMdl3J84674IWx) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kimi](https://open.spotify.com/album/7jRxYILcGpWI1ETlXIiNEX) | 2:33 | 2023-09-08 |  |
 | [hoshisayuru](https://open.spotify.com/track/40vwaUbcDvJKO0lLdl4aWC) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [above the northern skies shown](https://open.spotify.com/album/6ix0ytl7g6oX25BhW6omzW) | 5:55 | 2022-01-07 |  |
 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2022-12-30 |  |
 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 | 2022-01-07 |  |
@@ -124,6 +125,7 @@
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 |  |
 | [New Van Dyke Parks](https://open.spotify.com/track/1qWjVkwBVhZzWEovby6QZa) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 2:04 | 2023-03-03 | 2023-08-19 |
+| [Night](https://open.spotify.com/track/45Dxx50STJXoWCaDQkr6kx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/59qt7thlZ8bYAd4B22QeZ1) | 3:36 | 2023-09-08 |  |
 | [NIMB \#8](https://open.spotify.com/track/1STYnt6S6kJf3NefRatVzM) | [Toshimaru Nakamura](https://open.spotify.com/artist/3PsFuBHTZsvyZwMbVIuVZT) | [NO\-INPUT MIXING BOARD](https://open.spotify.com/album/7HBbA8sdlmh5y96GtlsfiI) | 3:06 | 2022-01-07 | 2022-10-01 |
 | [nod](https://open.spotify.com/track/0N1p2sngaMZXCszfvs1qbv) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [dusk to dawn](https://open.spotify.com/album/5UHg2dMdXffuSepLuOcBdo) | 4:04 | 2022-01-07 |  |
 | [Old Dream Spell](https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 14:49 | 2022-12-30 |  |
@@ -177,7 +179,7 @@
 | [SUNNYSIDE OF THE WATER/水と光](https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 3:07 | 2022-12-30 |  |
 | [Sweltering Drive](https://open.spotify.com/track/3tKoE2bSAGPxtpxuTjnwQ8) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:54 | 2023-04-28 |  |
 | [Sweltering Drive](https://open.spotify.com/track/5BuOxxrd7WIgWMIO4pYVFQ) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Sweltering Drive](https://open.spotify.com/album/2QahlDidj7CrgCmRF4TTuv) | 3:54 | 2023-03-11 | 2023-04-30 |
-| [Tea House](https://open.spotify.com/track/77HFkDRYAxTTjEQxUSEwFg) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:50 | 2022-01-07 |  |
+| [Tea House](https://open.spotify.com/track/77HFkDRYAxTTjEQxUSEwFg) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:50 | 2022-01-07 | 2023-09-09 |
 | [The Big Blue Star Impossible to Imagine](https://open.spotify.com/track/4yKd720PDsj6ZadrmJ9ESa) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 4:31 | 2023-03-03 |  |
 | [The buzz of the forest](https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Relieving anxiety and healing a good night's sleep recommended by mental trainers \- Music that connects with nature \-](https://open.spotify.com/album/0UcMdGC8UJwzGcHXfX8PG5) | 5:12 | 2022-07-22 |  |
 | [The buzz of the forest \- Remaster](https://open.spotify.com/track/42a6hlKyKTHf9bqtP9C3kg) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Healing music for Deep sleep](https://open.spotify.com/album/2GRhflYTCsUmzrCvvReaXU) | 5:07 | 2022-10-15 | 2022-11-13 |

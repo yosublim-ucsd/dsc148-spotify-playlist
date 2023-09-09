@@ -4,10 +4,11 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Cardi B & Megan Thee Stallion, Gucci Mane, City Girls, Lil Durk, Doja Cat and more
 
-171 songs - 8 hr 56 min
+172 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 | 2023-09-08 |  |
 | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ) | 1:36 | 2022-11-10 | 2023-05-06 |
 | [10 Freaky Girls \(with 21 Savage\)](https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:28 | 2022-06-16 | 2022-08-27 |
 | [2 Step Gliding](https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Michael Carpenter](https://open.spotify.com/artist/2zxCiaufpb0PVlWb9iRBDz), [lloco](https://open.spotify.com/artist/2WTWVfASuVDEfdKWjTomXH), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [2 Step Gliding](https://open.spotify.com/album/6ZnGv3LJi8W90QoaqNlMRh) | 1:44 | 2022-10-07 | 2023-03-04 |
@@ -22,6 +23,7 @@
 | [Blackout](https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Blackout](https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg) | 2:17 | 2023-02-09 | 2023-07-08 |
 | [BLICKY](https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:55 | 2022-06-16 | 2022-07-08 |
 | [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/track/4idmyddVB7baddyWJWDnEF) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/album/2TNxPFOTblCkmnndT4Z3Ki) | 4:55 | 2022-06-16 | 2022-11-26 |
+| [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-08 |  |
 | [Borrow](https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Borrow](https://open.spotify.com/album/5KPBYQCbDjDW1depOwv61k) | 2:06 | 2022-06-16 | 2022-09-30 |
 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 | 2023-06-22 |  |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 | 2023-09-08 |
@@ -177,7 +179,6 @@
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 | 2023-04-28 |
 | [WTF](https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [WTF](https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV) | 3:05 | 2022-08-19 | 2022-12-02 |
 | [Young Nigga World \(MM Flow\)](https://open.spotify.com/track/3dyd2GfL4BZ64D2sfYBjyE) | [13lado](https://open.spotify.com/artist/5BCrmdNZ249YzTAHsv1WLa) | [Young Nigga World \(MM Flow\)](https://open.spotify.com/album/6axjOtrLk2Vx57zUZXSnPr) | 2:16 | 2023-03-03 | 2023-04-14 |
-| [Zero One Eight](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Zero One Eight](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 | 2023-09-08 |  |
 | [ZOZA](https://open.spotify.com/track/4zKMMryM7cPyMDvgCPPheB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [ZOZA](https://open.spotify.com/album/0oOxh5ffZn4Gq7Jvxeey3o) | 6:34 | 2022-06-16 | 2022-07-15 |
 
 \*This playlist was first scraped on 2022-06-19. Prior content cannot be recovered.

@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/44CMNYBErq78rg9sICZuL0"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253515,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/47suLdSKXh90M64RQ0mysO"
+    },
+    {
+      "album": {
         "name": "True Detective (Music From The HBO Series)",
         "url": "https://open.spotify.com/album/0LWE1LoGRUmfXZpnWBWVRo"
       },

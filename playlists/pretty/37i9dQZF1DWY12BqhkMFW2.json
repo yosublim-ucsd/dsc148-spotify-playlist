@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 347846,
+  "num_followers": 347967,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjBlNWQyODIyNjdjZjUyYmNiYzExNWE1M2Q4MzYzZDlhYTA1M2M2",
+  "snapshot_id": "MCwzMDEwNjA3MzJiYjI3ZjhlZmVlMDYzNTczNmZjYzlmMjFlMDg3YjZi",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "The Best Of O'Bryan",
-        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
-      },
-      "artists": [
-        {
-          "name": "O'Bryan",
-          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "INTRO",
         "url": "https://open.spotify.com/album/22FyYZYdjTSffRGt9fofBY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 382640,
       "name": "Ribbon in the Sky",
       "url": "https://open.spotify.com/track/5KNAsnZJ0g3hNvIJFvkHzI"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Best Of O'Bryan",
+        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
+      },
+      "artists": [
+        {
+          "name": "O'Bryan",
+          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "Charlie, Last Name Wilson",
+        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
+      },
+      "artists": [
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        }
+      ],
+      "duration_ms": 302440,
+      "name": "Let's Chill",
+      "url": "https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "Love's In Need Of Love Today",
         "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 252697,
       "name": "Love's In Need Of Love Today",
       "url": "https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Charlie, Last Name Wilson",
-        "url": "https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP"
-      },
-      "artists": [
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        }
-      ],
-      "duration_ms": 302440,
-      "name": "Let's Chill",
-      "url": "https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu"
     },
     {
       "added_at": "2021-01-15 05:01:00",

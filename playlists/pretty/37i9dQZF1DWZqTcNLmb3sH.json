@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 51990,
+  "num_followers": 52091,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDFmYWJjZDJmZDZmYzg3MGJhYWVhZDVmN2UyMGI0OGY4ZjU0M2I5",
+  "snapshot_id": "MCw4ZGRkZWY2OWMwMzgyOWFjMDZlNzIxNzEzODVjYWNiMWNlMjZhNjZj",
   "tracks": [
     {
       "added_at": "2023-08-08 13:36:47",
@@ -225,28 +225,72 @@
       "url": "https://open.spotify.com/track/6qZB0Z93CbQNzOGMiKwUJO"
     },
     {
-      "added_at": "2023-09-05 11:49:24",
+      "added_at": "2023-09-08 10:21:37",
       "album": {
-        "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\")",
-        "url": "https://open.spotify.com/album/3PCF9yJqcyuUpfd3hgjeW1"
+        "name": "Athi Ashadinda (From \"Paryaya\")",
+        "url": "https://open.spotify.com/album/6vORRDWyf6XBXGfNAdj4WV"
       },
       "artists": [
         {
-          "name": "Shahid Mallya",
-          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+          "name": "Ajay Warrier",
+          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
+        },
+        {
+          "name": "A. T. Ravish",
+          "url": "https://open.spotify.com/artist/1VqZYcD95mWsMFtPy32Ha9"
+        }
+      ],
+      "duration_ms": 261109,
+      "name": "Athi Ashadinda (From \"Paryaya\")",
+      "url": "https://open.spotify.com/track/3urDypOeHTbIYUKGlbdHeO"
+    },
+    {
+      "added_at": "2023-09-08 10:21:37",
+      "album": {
+        "name": "Nanna Deshakenaadaru (From \"Kranthiveera\")",
+        "url": "https://open.spotify.com/album/2Bp3QzOlzn35WlQYYNvqJD"
+      },
+      "artists": [
+        {
+          "name": "Ajay Warrier",
+          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
+        },
+        {
+          "name": "Prathap s",
+          "url": "https://open.spotify.com/artist/2Hbu16ngEZhHp5c7IIU4Pm"
+        },
+        {
+          "name": "Aadatt M P",
+          "url": "https://open.spotify.com/artist/66VYsD4WFRQ0bFKChjxPNA"
+        }
+      ],
+      "duration_ms": 107488,
+      "name": "Nanna Deshakenaadaru (From \"Kranthiveera\")",
+      "url": "https://open.spotify.com/track/0e6xIZlUbH0aj2a6ssRYzL"
+    },
+    {
+      "added_at": "2023-09-05 11:49:24",
+      "album": {
+        "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\")",
+        "url": "https://open.spotify.com/album/2emk3jv90ewMHVxFnN74QQ"
+      },
+      "artists": [
+        {
+          "name": "Ajay Krishnaa",
+          "url": "https://open.spotify.com/artist/7FatQU5xHO9JpAyqOVWP9k"
         },
         {
           "name": "G. V. Prakash",
           "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Prashant Ingole",
-          "url": "https://open.spotify.com/artist/5DNHuR9u8DFVasxQZgREO5"
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
         }
       ],
       "duration_ms": 260160,
       "name": "Ek Dum Ek Dum (From \"Tiger Nageswara Rao\")",
-      "url": "https://open.spotify.com/track/4rnncIMqvi3PEpMFHf4n9o"
+      "url": "https://open.spotify.com/track/6xJdrw0E9SbuwQddDxTPmB"
     },
     {
       "added_at": "2023-09-01 12:37:34",
@@ -339,6 +383,30 @@
       "duration_ms": 208000,
       "name": "En Madbeku - From \"Suthradaari\"",
       "url": "https://open.spotify.com/track/63F1gfU8JKw2jitvvceLnA"
+    },
+    {
+      "added_at": "2023-09-08 10:21:37",
+      "album": {
+        "name": "Enaagide (From \"Anavarana\")",
+        "url": "https://open.spotify.com/album/7z8VKzvORCVcdG9y1jiUhm"
+      },
+      "artists": [
+        {
+          "name": "Ankita Kundu",
+          "url": "https://open.spotify.com/artist/6hEkF4TSFDpZwBPI3NiDyo"
+        },
+        {
+          "name": "Shashi Kumar",
+          "url": "https://open.spotify.com/artist/2cMLQPZizKqYgkv9Jz5Mzk"
+        },
+        {
+          "name": "C Vishal Krishna",
+          "url": "https://open.spotify.com/artist/2mpS9vygLdcOK4Tfc1tbfo"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Enaagide (From \"Anavarana\")",
+      "url": "https://open.spotify.com/track/3kJkKVFPtUcS8evMVn8UUV"
     },
     {
       "added_at": "2023-08-30 12:19:27",
@@ -1072,8 +1140,8 @@
       },
       "artists": [
         {
-          "name": "Kishan D Sousa",
-          "url": "https://open.spotify.com/artist/3YhFxvbgBqwEkz3neaeFbN"
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
         },
         {
           "name": "Varsha B Suresh",
@@ -1091,30 +1159,6 @@
       "duration_ms": 221612,
       "name": "Panchali - From \" Kandor Mane Kathe \"",
       "url": "https://open.spotify.com/track/0gJw0vFsSs3oxuoDB5N6cO"
-    },
-    {
-      "added_at": "2023-05-29 08:32:58",
-      "album": {
-        "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
-        "url": "https://open.spotify.com/album/3ipzfd9gupic4LmoV8eCQQ"
-      },
-      "artists": [
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        }
-      ],
-      "duration_ms": 230202,
-      "name": "Ram Sita Ram (From \"Adipurush\") [Kannada]",
-      "url": "https://open.spotify.com/track/2gqLAvFuVOno5cYwEMEP6J"
     },
     {
       "added_at": "2023-07-06 12:25:07",
@@ -1247,22 +1291,6 @@
       "duration_ms": 260094,
       "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
       "url": "https://open.spotify.com/track/28wJVYrC30oHCncNURR2Ws"
-    },
-    {
-      "added_at": "2023-07-31 06:01:51",
-      "album": {
-        "name": "Hi Nanna Glimpse Music (KANNADA)",
-        "url": "https://open.spotify.com/album/4KAu0eyb0HdLT6zWcWkcxH"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 80202,
-      "name": "Hi Nanna Glimpse Music (KANNADA)",
-      "url": "https://open.spotify.com/track/1U9WFQddfpxlE7HSNFnjkc"
     },
     {
       "added_at": "2023-07-11 10:57:09",
@@ -1475,22 +1503,6 @@
       "duration_ms": 238080,
       "name": "Preethisuve (From \"Kousalya Supraja Rama\")",
       "url": "https://open.spotify.com/track/7bWl4jcNOXNEniw8T61CqL"
-    },
-    {
-      "added_at": "2023-07-17 06:12:36",
-      "album": {
-        "name": "Ghost Big Daddy Bgm (KANNADA)",
-        "url": "https://open.spotify.com/album/4XlgFnIO1kKITn4FcuraJS"
-      },
-      "artists": [
-        {
-          "name": "Shivarajkumar",
-          "url": "https://open.spotify.com/artist/2AHEaintBXeeQiiflFa477"
-        }
-      ],
-      "duration_ms": 110074,
-      "name": "Ghost Big Daddy Bgm (KANNADA)",
-      "url": "https://open.spotify.com/track/7b1ZnYo1CjAquKJpX7J4vz"
     },
     {
       "added_at": "2023-07-19 11:13:36",

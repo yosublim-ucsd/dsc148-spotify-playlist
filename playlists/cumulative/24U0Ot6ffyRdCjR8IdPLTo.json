@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "From up Here",
+        "url": "https://open.spotify.com/album/6Nv8R0f555sPwWA1B5lJEx"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wolfson",
+          "url": "https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188710,
+      "name": "From up Here",
+      "url": "https://open.spotify.com/track/6rdHZ6VLgH52eARNMj5uPH"
+    },
+    {
+      "album": {
         "name": "Garment Bag",
         "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
       },
@@ -1222,6 +1240,28 @@
       "duration_ms": 267251,
       "name": "Green",
       "url": "https://open.spotify.com/track/5Qbbt2pFCtK1TURRKyc44t"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
     },
     {
       "album": {
@@ -1463,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Easy Violence / John Prine",
+        "url": "https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173927,
+      "name": "John Prine",
+      "url": "https://open.spotify.com/track/2qICWO6h55bRJn16yYwbPi"
+    },
+    {
+      "album": {
         "name": "Jupiter and Mars",
         "url": "https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh"
       },
@@ -1496,6 +1554,24 @@
       "duration_ms": 195126,
       "name": "KILOS",
       "url": "https://open.spotify.com/track/5dkJEE0TecbGBVfTD9Ud0O"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177212,
+      "name": "lacy",
+      "url": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
     },
     {
       "album": {
@@ -2539,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "sPaCe (528hz) / Coolest Girl In California",
+        "url": "https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR"
+      },
+      "artists": [
+        {
+          "name": "Dounia",
+          "url": "https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120666,
+      "name": "sPaCe (528hz)",
+      "url": "https://open.spotify.com/track/23zct1MabUAB9WL1nR7WZW"
+    },
+    {
+      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
@@ -2626,6 +2720,42 @@
       "duration_ms": 362973,
       "name": "Stop Waiting",
       "url": "https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "Street Rat",
+        "url": "https://open.spotify.com/album/1dSWDvAoExxAwJj2Hf7kTB"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Street Rat",
+      "url": "https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q"
     },
     {
       "album": {
@@ -2974,6 +3104,24 @@
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/2ZnEPfXm1CZzhGOn1Ay4mZ"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "album": {

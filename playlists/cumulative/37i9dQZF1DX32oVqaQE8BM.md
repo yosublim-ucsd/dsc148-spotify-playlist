@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-546 songs - 23 hr 13 min
+548 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A World of Difference \(remix\)](https://open.spotify.com/track/5JRIw1FFK7Zt9dlmN4bl2h) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [A World of Difference \- Remix](https://open.spotify.com/album/0Um4wqNFZuRgHLqsi1yvFd) | 3:10 | 2021-11-10 | 2022-07-08 |
 | [Abandoned](https://open.spotify.com/track/42HAxEUm5y4tqDCqRzH82A) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [In My Head](https://open.spotify.com/album/1vWG2w9kWm5V9ll3ys7ARs) | 2:22 | 2022-09-09 | 2023-02-08 |
 | [Adriatica](https://open.spotify.com/track/37k4ukRm7nCkyU6ymyCx0t) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Adriatica](https://open.spotify.com/album/7gEZSVeGcPDXmRk0LsJbr3) | 2:24 | 2021-11-10 | 2022-07-29 |
+| [after a while](https://open.spotify.com/track/0VZ1zeperKNOmRP1Q2DdoJ) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [after a while](https://open.spotify.com/album/6J6B75xjID00XXrVfO0Qm6) | 2:25 | 2023-09-08 |  |
 | [After Nap](https://open.spotify.com/track/27AQrWnLC1o3O6CpQnMuR9) | [Dolow](https://open.spotify.com/artist/4a45hyniqH4TLiUs5rzZsX) | [After Nap](https://open.spotify.com/album/6GiTFrmJIYOXURTevVOt65) | 1:56 | 2022-12-16 | 2023-07-29 |
 | [afternoon fusion](https://open.spotify.com/track/1rg9zi8x6siDbqLLK2akbQ) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [afternoon fusion](https://open.spotify.com/album/0psUW4Xb7xlFgZOArXsjwA) | 2:46 | 2023-03-04 |  |
 | [Akimbo](https://open.spotify.com/track/6F1wHgPmgKWQEVQHwx5wBW) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Akimbo](https://open.spotify.com/album/1mF2gGcctnOgfYay0VOJcb) | 3:09 | 2021-11-10 | 2022-07-08 |
@@ -469,6 +470,7 @@
 | [sunflower](https://open.spotify.com/track/7B93ibkCx8xpaFpyuWILzw) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [sunflower](https://open.spotify.com/album/0vHKCb1mn3Xg087sSnnN2E) | 1:49 | 2022-07-08 | 2023-07-29 |
 | [Sunken](https://open.spotify.com/track/0PbNB0BuSjd0L3VQ1K5CeO) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [Sunken](https://open.spotify.com/album/2CVjogpHBedT0dd847zZ8E) | 2:16 | 2021-11-10 | 2022-04-15 |
 | [Sunkiss](https://open.spotify.com/track/6JIUChxhGBybrCCX99SoXO) | [The Dampers](https://open.spotify.com/artist/4nMz5tRgNPm2z4ZU5gfOq6) | [Sunkiss](https://open.spotify.com/album/5f3AUs7C53cQEYbhVELmAv) | 2:35 | 2021-11-10 | 2022-07-08 |
+| [Sunlight](https://open.spotify.com/track/2tNAsJUcZNaG2Wj26H2s55) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunlight](https://open.spotify.com/album/28c5uCokcQpD528DOb9xtS) | 5:07 | 2023-09-08 |  |
 | [Sunrays](https://open.spotify.com/track/3ROSFUvRBBEnTU1MrkIw5E) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Sunrays](https://open.spotify.com/album/4UzshdbWgbYBTcVhAMctLq) | 3:00 | 2021-11-10 |  |
 | [Suns & Buns](https://open.spotify.com/track/5NKuzuEMGxcdHjv2ChWqsQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Suns & Buns](https://open.spotify.com/album/3ZHgVS86TX9Dp3e0I7LpNL) | 2:17 | 2021-11-10 |  |
 | [Sunsets & Siestas](https://open.spotify.com/track/74O7OHf2lHJwGHl9jjPirI) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Sunsets & Siestas](https://open.spotify.com/album/3RlxV6COKACpDttyu6zya5) | 1:50 | 2022-11-25 | 2023-07-29 |

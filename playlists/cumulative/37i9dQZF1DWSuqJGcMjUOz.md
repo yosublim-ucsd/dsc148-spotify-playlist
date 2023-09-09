@@ -4,7 +4,7 @@
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-314 songs - 18 hr 1 min
+315 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [BBQ](https://open.spotify.com/track/6v9lOMNewPgFkwCH74dK62) | [Seba](https://open.spotify.com/artist/37ZFg4DgqTBH9zwHnsMEnX) | [BBQ](https://open.spotify.com/album/1Cz0GctOQO812h2RFtYpgj) | 3:01 | 2022-05-25 | 2022-07-25 |
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-05-25 | 2022-11-03 |
 | [Bonsaï](https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Pax et Bonum](https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f) | 3:43 | 2022-05-25 | 2022-12-17 |
-| [Breath Of Fire](https://open.spotify.com/track/6UYTcGiUUvPDFGFa3XKQwP) | [Akawui](https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa) | [El Futuro Es Tribal](https://open.spotify.com/album/61csEXQdoUlCO7EPT8UPIj) | 5:07 | 2023-05-25 |  |
+| [Breath Of Fire](https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV) | [Akawui](https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa) | [El Futuro Es Tribal](https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp) | 5:07 | 2023-05-25 |  |
+| [Breath Of Fire](https://open.spotify.com/track/6UYTcGiUUvPDFGFa3XKQwP) | [Akawui](https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa) | [El Futuro Es Tribal](https://open.spotify.com/album/61csEXQdoUlCO7EPT8UPIj) | 5:07 | 2023-05-25 | 2023-09-09 |
 | [Broken \- Radio Edit](https://open.spotify.com/track/3f5w7CK8pCKwlijBz0vann) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 2:41 | 2022-05-25 | 2023-04-13 |
 | [Bruits blancs](https://open.spotify.com/track/6WmOMC9ejoUfB8EG12O9Jq) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Bruits blancs](https://open.spotify.com/album/4RmrJpCLQu8GmVldWnGT3j) | 3:06 | 2023-05-25 |  |
 | [Brûler des condos](https://open.spotify.com/track/3o4iZUEJHGlx9JKE8qePm1) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Brûler des condos](https://open.spotify.com/album/0yBwEzSPkDb65RQplrMOwk) | 2:03 | 2022-05-25 | 2023-01-05 |

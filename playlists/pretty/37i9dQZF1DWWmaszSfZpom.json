@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1009815,
+  "num_followers": 1009886,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2VlNWJkYzBiOGI0ZjUwZGY3MTAzMmI0YWYzNGZiMjJkOTc2MTBi",
+  "snapshot_id": "MCxiMTY0ZjE1NTQ2NjdlZjM2ZmU3ZTQ3OTMyNDFhYzgwZjMwZmE5MGUw",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "\u00c9 sempre assim",
-        "url": "https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3"
-      },
-      "artists": [
-        {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        },
-        {
-          "name": "MC Gui Andrade",
-          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
-        }
-      ],
-      "duration_ms": 158999,
-      "name": "\u00c9 sempre assim",
-      "url": "https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Olha A Explos\u00e3o (Remix)",
         "url": "https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 210773,
       "name": "Olha A Explos\u00e3o - Remix",
       "url": "https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "\u00c9 sempre assim",
+        "url": "https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3"
+      },
+      "artists": [
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "MC Gui Andrade",
+          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
+        }
+      ],
+      "duration_ms": 158999,
+      "name": "\u00c9 sempre assim",
+      "url": "https://open.spotify.com/track/2dwkCNgPmMqTjofwDCUZHu"
     },
     {
       "added_at": "2023-06-26 14:06:50",

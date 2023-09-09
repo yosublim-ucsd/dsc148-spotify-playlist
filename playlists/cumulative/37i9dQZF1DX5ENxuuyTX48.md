@@ -4,7 +4,7 @@
 
 > wru? OTW!  BERCHANDYA! Cover: Sezairi, GANGGA
 
-471 songs - 1 day 4 hr 35 min
+472 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Legend](https://open.spotify.com/track/3xPvSDLplCHfVSHHqMipG3) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [Legend](https://open.spotify.com/album/7HPHfVrTvj24SAVobbbDOi) | 3:43 | 2023-08-24 | 2023-09-01 |
 | [Lemonade](https://open.spotify.com/track/0UUy95l4FmKHICSKPi6jFt) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Zero Hour](https://open.spotify.com/album/2nTKcxOnwouFo18qG7jpYZ) | 3:32 | 2023-06-29 | 2023-07-07 |
 | [Lesung Pipi](https://open.spotify.com/track/2TSndP59ZATZM7TN1LoHHK) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/4jNiDzoS81cClJgIqZZaqa) | 3:45 | 2023-08-31 | 2023-09-08 |
-| [life with u](https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [life with u](https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8) | 3:25 | 2023-08-24 | 2023-09-08 |
+| [life with u](https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [life with u](https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8) | 3:25 | 2023-08-24 |  |
 | [Like It Was Meant To Be](https://open.spotify.com/track/7cz4iZepf9e5Mxj4t5rYeB) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Like It Was Meant To Be](https://open.spotify.com/album/6CZCQsfxNLLWURl0LicSnI) | 3:29 | 2023-08-11 | 2023-08-19 |
 | [Limitasi \- From Malbatt Misi Bakara Original Soundtrack](https://open.spotify.com/track/0fm9l3hSVHrE2gScOQp8HX) | [Tomok](https://open.spotify.com/artist/0KO2CkZIpSmEsBDkITCAnl), [Ariz](https://open.spotify.com/artist/1o5f2ZvvUwq8x6hDI5PgWA) | [Limitasi \(From Malbatt Misi Bakara Original Soundtrack\)](https://open.spotify.com/album/17K5Ip9caaBF6auvIcbIlC) | 3:31 | 2023-08-11 | 2023-08-19 |
 | [Lingkar Luar](https://open.spotify.com/track/1Si9mAzAtYH0tsYth9sF2a) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:28 | 2023-03-24 | 2023-05-05 |
@@ -288,7 +288,7 @@
 | [Mengejar Matahari](https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengejar Matahari](https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U) | 4:07 | 2023-03-24 |  |
 | [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/track/1PI0KjLkj1ZjMqekUocbGN) | [Sherina](https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp), [Derby](https://open.spotify.com/artist/3ife9toV28Lcs5VspZYMLr) | [Mengenang Bintang \( From 'Petualangan Sherina 2' \)](https://open.spotify.com/album/2Yx6TtL6tnapZYniHtWLS3) | 4:12 | 2023-08-24 | 2023-09-01 |
 | [Menggenggam Bahagia](https://open.spotify.com/track/0eUjxRjLnxBbXDJifYul0X) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Menggenggam Bahagia](https://open.spotify.com/album/36k1jiu3Gme2uITF7WDsJf) | 4:22 | 2023-06-15 | 2023-06-23 |
-| [Mengudara](https://open.spotify.com/track/43bIT4qDSCB6K1PJ314Azp) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 3:07 | 2023-07-28 |  |
+| [Mengudara](https://open.spotify.com/track/43bIT4qDSCB6K1PJ314Azp) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 3:07 | 2023-07-28 | 2023-09-09 |
 | [Menunggumu](https://open.spotify.com/track/100giIaiJwDtWegTWIwAM2) | [Taufiq Sondang](https://open.spotify.com/artist/2iREELD10kmXcocyOYzlDn), [Iqa Nizam](https://open.spotify.com/artist/5FWynBR4a7O3yjzQbRvYqZ) | [Taufiq Sondang & Iqa Nizam \- Menunggumu](https://open.spotify.com/album/1FsHPsi5q9EHcwK1sKY5iz) | 7:55 | 2023-05-25 | 2023-06-02 |
 | [Merah](https://open.spotify.com/track/7i5toOdO5D71MPvGsMp4AM) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Merah](https://open.spotify.com/album/261yTJnc6yRBCkJKVYfY9e) | 3:10 | 2023-07-13 | 2023-07-21 |
 | [Midnight Till Dawn](https://open.spotify.com/track/09tHTTwxrj0s5MalRj7J4n) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Midnight Till Dawn](https://open.spotify.com/album/3DlIiyHpqcLBoffxq8QtSr) | 2:31 | 2023-05-18 | 2023-06-09 |
@@ -377,6 +377,7 @@
 | [Sebentar](https://open.spotify.com/track/2HkOiHX8LEhuT6eDHYbyYZ) | [Guccimith](https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy), [Zhe Kamil](https://open.spotify.com/artist/2fuvcl5AoXU1gAu8B8Sfq7) | [Sebentar](https://open.spotify.com/album/7gMYzYgRfGzjkv0TPTpCk6) | 3:06 | 2023-06-15 | 2023-06-23 |
 | [Sebentar Pt\. II \(feat\. Bunga\)](https://open.spotify.com/track/6tx5Z1VpC2pB7YeMNGQux8) | [ASMAI](https://open.spotify.com/artist/7nYdWVbFI4ZwjInvOwsG5e), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Sebentar Pt\. II \(feat\. Bunga\)](https://open.spotify.com/album/7AAvJleJVYeqeurMTmpvJt) | 4:33 | 2023-06-29 | 2023-07-07 |
 | [Sedih Hati](https://open.spotify.com/track/5wBFuNcO53iv8y1yA96Dqx) | [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk) | [Sedih Hati](https://open.spotify.com/album/7s9myWNOZ5RWQbmR4e0lr4) | 3:23 | 2023-07-28 | 2023-08-04 |
+| [SEEING PINK](https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX), [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [SEEING PINK](https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed) | 3:17 | 2023-09-07 |  |
 | [Sejuta Kata](https://open.spotify.com/track/0wLtYXCZm8wAzTVGYKxslQ) | [Hazrul Nizam](https://open.spotify.com/artist/1QdTqQYcmC2ZgxedjFARhC), [Diana Nazyra](https://open.spotify.com/artist/0UjqqPr0hK1lIx0i69KNxp) | [Sejuta Kata](https://open.spotify.com/album/7bbY7fvBSmQguTuad1VuTB) | 3:39 | 2023-05-25 | 2023-06-02 |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2023-03-24 |  |
 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 | 2023-08-03 |  |

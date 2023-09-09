@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-280 songs - 14 hr 2 min
+281 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Doug](https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Inez & Doug & Kira \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HwPJRFbqGPu9bw4z0FKze) | 1:53 | 2021-12-20 | 2022-08-20 |
 | [Dreams](https://open.spotify.com/track/2egNpOad1kRNG32VE5uHtF) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Slumberland \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/77qpAPLvKnFn8IpB53401F) | 1:03 | 2022-11-18 |  |
 | [Dungeons and Dragons](https://open.spotify.com/track/30NS4OLaCDe0aJOPCcrF1J) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Dungeons & Dragons: Honor Among Thieves \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xfCcBT8UbC8wjszXjyPPf) | 1:35 | 2023-03-31 |  |
-| [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/25VaTouvJUmUkIccRJfTGG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Egwene al'Vere \(from The Wheel of Time: Season 2, a Prime Video Original Series\)](https://open.spotify.com/album/6PDzQ3pZl8CRTcOMwk5gPU) | 3:02 | 2023-09-01 |  |
+| [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/1pUpYWRubFMzugCP4jIcdi) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Wheel of Time: Season 2, Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/71lPSpzDgHtwW8oM6933EX) | 3:02 | 2023-09-01 |  |
+| [Egwene al'Vere \- from The Wheel of Time: Season 2, a Prime Video Original Series](https://open.spotify.com/track/25VaTouvJUmUkIccRJfTGG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Egwene al'Vere \(from The Wheel of Time: Season 2, a Prime Video Original Series\)](https://open.spotify.com/album/6PDzQ3pZl8CRTcOMwk5gPU) | 3:02 | 2023-09-01 | 2023-09-09 |
 | [End](https://open.spotify.com/track/6AvYxIG35XLT3Vpeydm0Oj) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [End](https://open.spotify.com/album/6l2sYGF6yH4TQZXD7O7XEd) | 3:53 | 2021-12-20 |  |
 | [Epilogue](https://open.spotify.com/track/1ZPmsTDkoBH63pX25YLAOa) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra \(For Organ, Chamber Ensemble and Electronics\)](https://open.spotify.com/album/1KSiD3nqxDKsOeJcsyvoNh) | 5:52 | 2022-12-23 |  |
 | [Epilogue](https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra](https://open.spotify.com/album/5Uwl0AJBoJMnNsPws8jM3a) | 5:52 | 2021-12-20 | 2023-01-14 |

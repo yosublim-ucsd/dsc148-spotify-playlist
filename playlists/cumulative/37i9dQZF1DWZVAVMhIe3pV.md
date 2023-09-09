@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-389 songs - 1 day 0 hr 18 min
+390 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-25 |  |
 | [Honey](https://open.spotify.com/track/0ighGqqk2uCRqcDUAbQHkv) | [Crystal Tides](https://open.spotify.com/artist/5a94ihfgkkItCundHIPxP4) | [Honey](https://open.spotify.com/album/0CV6bKxdpGsfim5ivxKKSc) | 3:25 | 2022-03-24 | 2022-04-21 |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-04-16 | 2023-05-13 |
-| [Houses of American Style](https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:04 | 2023-08-23 |  |
+| [Houses of American Style](https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 4:04 | 2023-08-23 | 2023-09-09 |
 | [I Am Machine](https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Human](https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W) | 3:20 | 2021-12-16 |  |
 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 | 2021-12-16 | 2022-04-30 |
 | [I Get Off](https://open.spotify.com/track/0JKY13K1Io2aqXJb96UyzX) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:03 | 2021-12-16 | 2022-04-30 |
@@ -322,6 +322,7 @@
 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 | 2021-12-16 |  |
 | [Stains](https://open.spotify.com/track/7aNRNsdQgpqjZs6pLuhNDm) | [Janus](https://open.spotify.com/artist/0XHYHd42BDMMDRXHCBgFoO) | [Nox Aeris](https://open.spotify.com/album/7vzvgE16X9kTKIOZ5R2bPb) | 3:36 | 2022-04-11 | 2022-04-21 |
 | [STAY.GO.](https://open.spotify.com/track/13jsHnIl8hKkjN7x4KcSe5) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [STAY.GO.](https://open.spotify.com/album/6UfXSilQp4SnwMcZYCwloN) | 2:59 | 2022-03-24 | 2022-04-27 |
+| [Still There](https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:09 | 2023-09-08 |  |
 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 | 2023-07-23 | 2023-08-24 |
 | [Stone in Love](https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:25 | 2021-12-16 | 2022-04-30 |
 | [Strange Town](https://open.spotify.com/track/3JjmSjijPsu3AWei1adplt) | [The Moderates](https://open.spotify.com/artist/30bcJH5kuHVu6RZckrZfFJ) | [Colour](https://open.spotify.com/album/4ai377DNpe0SuMo5qQcKK5) | 4:04 | 2022-04-08 | 2022-04-21 |

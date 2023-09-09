@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 213253,
       "name": "asuka",
       "url": "https://open.spotify.com/track/0iYp1IQm4xoBTvHbJ0H53i"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/1tSCIsiQV1aQo85Zbb5MdK"
+      },
+      "artists": [
+        {
+          "name": "Drift",
+          "url": "https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267578,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/17JBaKcILsLf5uSVMU7CXZ"
+    },
+    {
+      "album": {
         "name": "Burn The Empire",
         "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
       },
@@ -1364,6 +1382,24 @@
       "duration_ms": 199521,
       "name": "Cherry Thrill",
       "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
+    },
+    {
+      "album": {
+        "name": "Chlo\u00eb",
+        "url": "https://open.spotify.com/album/5P5FUOElHJe4ek3tiv67Os"
+      },
+      "artists": [
+        {
+          "name": "Heart to Gold",
+          "url": "https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Chlo\u00eb",
+      "url": "https://open.spotify.com/track/3cRITSR5BxSq3UPGES4v7e"
     },
     {
       "album": {
@@ -2504,6 +2540,24 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "album": {
+        "name": "Freak of Nature",
+        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202889,
+      "name": "Freak Of Nature",
+      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
     },
     {
       "album": {
@@ -3995,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Life's a Pill",
+        "url": "https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217749,
+      "name": "Life's a Pill",
+      "url": "https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes"
+    },
+    {
+      "album": {
         "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
       },
@@ -4298,7 +4370,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 195850,
       "name": "Message Like a Bomb",
       "url": "https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870"
@@ -6084,7 +6156,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 191250,
       "name": "SNAKES",
       "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
@@ -7018,7 +7090,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 224957,
       "name": "The Lens",
       "url": "https://open.spotify.com/track/5Jgd7T6LCgGynv0mh6zPSq"

@@ -1,12 +1,12 @@
 {
   "description": "Curated by Bun B.",
-  "num_followers": 17065,
+  "num_followers": 17179,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2IzMjliODBkOGQ5MTIzOWU3NjM1Njc3Y2ZjZmQxNDU3ZGNmZWFk",
+  "snapshot_id": "MCwzN2U5MGZiYzA5OTU0ZGU0NzVjODllYjFhNzg3OTRiNmRjNTY0Nzk3",
   "tracks": [
     {
       "added_at": "2023-08-30 19:30:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Quality",
-        "url": "https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Get By",
-      "url": "https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "Let's Get Ready",
         "url": "https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 211400,
       "name": "Danger (Been So Long) (feat. Nivea)",
       "url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Quality",
+        "url": "https://open.spotify.com/album/0apVddbk7Juec0DV4LNiBg"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/1LM6EReMkAxuDXDF26ekl2"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "Ice Cream Man",
-        "url": "https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL"
-      },
-      "artists": [
-        {
-          "name": "Master P",
-          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
-        },
-        {
-          "name": "Mia X",
-          "url": "https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "Bout It, Bout It II",
-      "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "The Coming",
         "url": "https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 277666,
       "name": "It's a Party (feat. Zhane)",
       "url": "https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "Ice Cream Man",
+        "url": "https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL"
+      },
+      "artists": [
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Mia X",
+          "url": "https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu"
+        }
+      ],
+      "duration_ms": 308973,
+      "name": "Bout It, Bout It II",
+      "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
     },
     {
       "added_at": "2023-08-30 19:30:34",

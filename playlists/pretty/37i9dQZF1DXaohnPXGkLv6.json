@@ -1,15 +1,31 @@
 {
   "description": "The essential Olivia Rodrigo tracks, all in one playlist.",
-  "num_followers": 647007,
+  "num_followers": 649212,
   "original_name": "This Is Olivia Rodrigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWIxNDY2NzM0NWMzMzIyYzUyNzgwZDhmNWU5ZTA1YzZlY2ZlYTJm",
+  "snapshot_id": "MCw1ODQ0OGQxNjM4ZjM1NWY2Yjg2M2VmYjE5Y2ExMTA4M2YwZTM0NzFh",
   "tracks": [
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "bad idea right?",
         "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -57,7 +73,23 @@
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+    },
+    {
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -89,7 +121,23 @@
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
+    },
+    {
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -105,7 +153,23 @@
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+    },
+    {
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -121,7 +185,23 @@
       "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "the grudge",
+      "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
+    },
+    {
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -137,7 +217,7 @@
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -153,27 +233,7 @@
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
-        "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 177322,
-      "name": "All I Want - From \"High School Musical: The Musical: The Series\"",
-      "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -189,7 +249,7 @@
       "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -205,7 +265,7 @@
       "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -221,7 +281,7 @@
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -237,7 +297,7 @@
       "url": "https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
@@ -257,7 +317,7 @@
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "Wondering (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/14fMbn20pipBmmHWtKWInz"
@@ -281,7 +341,7 @@
       "url": "https://open.spotify.com/track/6GfTYfb5eBLN1p1ByOsPmi"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "Even When/The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL"
@@ -305,7 +365,7 @@
       "url": "https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
@@ -325,7 +385,7 @@
       "url": "https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "Just for a Moment (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/7x6n2jztq7Zlff5xVCfzqB"
@@ -349,7 +409,7 @@
       "url": "https://open.spotify.com/track/5Yc2A0YtK6PaXT8J1MQ0Rd"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "I Think I Kinda, You Know (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/1fgrILRm1bhM6oi3eK0eAs"
@@ -373,7 +433,7 @@
       "url": "https://open.spotify.com/track/2UVrIJBJVRPN9UgzShCJ5c"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
@@ -393,7 +453,7 @@
       "url": "https://open.spotify.com/track/6YYF7BRXYbGIHd3FLeU9R4"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-08 17:09:48",
       "album": {
         "name": "The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/2QvIqoT72oNaNuIrWR3FjC"

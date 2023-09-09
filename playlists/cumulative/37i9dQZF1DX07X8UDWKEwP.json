@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Gente de Zona",
+  "description": "Lo nuevo del mundo tropical. Cover: Joey Montana",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 157268,
       "name": "Herrera",
       "url": "https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn"
@@ -5664,6 +5664,24 @@
       "duration_ms": 212190,
       "name": "Tuki Tuki - Remix",
       "url": "https://open.spotify.com/track/7gmR3coJOnqOyflVzSUrw0"
+    },
+    {
+      "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "album": {

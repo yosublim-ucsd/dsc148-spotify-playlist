@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 216098,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
@@ -5402,6 +5402,24 @@
       "duration_ms": 233686,
       "name": "Stars",
       "url": "https://open.spotify.com/track/1LHE8cxWt7SVCitinqEhyl"
+    },
+    {
+      "album": {
+        "name": "Stay For Something",
+        "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
     },
     {
       "album": {

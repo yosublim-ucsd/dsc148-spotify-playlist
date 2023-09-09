@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Mochakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,191 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,274 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 2 | [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 |
 | 3 | [Oi Oi Oi](https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [MC Hollywood](https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG) | [Oi Oi Oi](https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg) | 2:17 |
 | 4 | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/album/0u5cnlfY2VDHNC7cY4hr6u) | 2:39 |
-| 5 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Mister Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 |
+| 5 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 |
 | 6 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 |
 | 7 | [My Neck, My Back](https://open.spotify.com/track/37zAxyf8mkOLjNBIMFZQUd) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Reezer](https://open.spotify.com/artist/0A0qH0k5vzwUrAAjcxZsN0) | [My Neck, My Back](https://open.spotify.com/album/5GW2S5DnOKOVUkgvhK2aHr) | 3:06 |
 | 8 | [Piece of Mind](https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
 | 50 | [Don't Wake Me Up](https://open.spotify.com/track/3edsNcYEr1eufTkadK09MF) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Don't Wake Me Up](https://open.spotify.com/album/07UqcOSS4JQ1Si9TwomEHw) | 3:32 |
 
-Snapshot ID: `MCxiMjE4MTk1NDQ0ZTE5YmYxNTZlMTQwOGY1OWZmNjI2YWFmNGJiMzY0`
+Snapshot ID: `MCwxZWM2MjhiZjlhNjcwZTU3N2EyYjNlOGNlZjI5OWY5NmY0NzkyNDE3`

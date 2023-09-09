@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-389 songs - 19 hr 45 min
+391 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dream Of You](https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Dream Of You](https://open.spotify.com/album/261Z2xiEZ3qCBqmEVOA5ok) | 2:26 | 2022-04-05 |  |
 | [Dumpstafunk](https://open.spotify.com/track/0SIfHUNxYlNOBuNLWInzFJ) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Team Regular](https://open.spotify.com/album/0O5GhhKDzL2npVvTFPeM6w) | 2:43 | 2022-12-09 |  |
 | [dune tune](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [dune tune](https://open.spotify.com/album/4HmvWfHAXKo1XpwKOnxPPK) | 2:38 | 2022-07-29 |  |
+| [Déjà Vu](https://open.spotify.com/track/1AtLbKIo0bXmd4TIDcFUEj) | [Leon Cox](https://open.spotify.com/artist/3AL3ufihLodtdojR6lnpKz) | [Déjà Vu](https://open.spotify.com/album/0GCCIMs5oTUIMebWJroSg5) | 2:06 | 2023-09-08 |  |
 | [Ebullience](https://open.spotify.com/track/5F9JKU4bZwtsWRs3R3kk1A) | [Kalizé](https://open.spotify.com/artist/1RucQs51dYwiXQbDKIpaKS) | [Ebullience](https://open.spotify.com/album/7c0CC4Tx5h6fem5482f4tE) | 2:31 | 2022-04-05 |  |
 | [Effortless](https://open.spotify.com/track/6aCfDgXOwvl2KKYhRjcn3K) | [Maravilho5a](https://open.spotify.com/artist/13HgpUbnhaZEQvRTtijJiS) | [Effortless](https://open.spotify.com/album/7LyenxgrTQGPcMJ2HrlEy0) | 2:35 | 2022-04-05 |  |
 | [EivissAA](https://open.spotify.com/track/3eigPuKcaYb8wCYjptn6wr) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [LEO](https://open.spotify.com/album/7FgB0swov64l8PpCprNOh7) | 3:34 | 2022-12-16 |  |
@@ -183,6 +184,7 @@
 | [Kismet](https://open.spotify.com/track/74pOs6LQqRKfpYtAcpmmB9) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Kismet](https://open.spotify.com/album/5HTW6mnLL942SxIFRwDRRp) | 3:42 | 2022-05-27 | 2022-07-29 |
 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 | 2022-04-05 | 2022-05-11 |
 | [Ko Lipe](https://open.spotify.com/track/0f4qPItjQNiBETdP6ajdho) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Ko Lipe](https://open.spotify.com/album/0uC19suPOgZx9tOKSEsf2l) | 2:39 | 2022-12-09 |  |
+| [KUMBAYA](https://open.spotify.com/track/5LeYzjiiLINJIAQgzOD3qz) | [ANDER](https://open.spotify.com/artist/1Ih8d8wf2fpDnux2NmeU6d) | [SLEEPLESS NIGHTS](https://open.spotify.com/album/0U84uih4xzz3X2GBtySJC7) | 2:21 | 2023-09-08 |  |
 | [Kushin For the Pushin'](https://open.spotify.com/track/3tlbByLft7wKd7HiYKjdgS) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Kushin For the Pushin'](https://open.spotify.com/album/5AQStC5uGlGAjCu92UJEfp) | 2:18 | 2022-10-07 | 2023-04-07 |
 | [Kyoto](https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Kyoto](https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS) | 3:40 | 2022-04-05 | 2022-07-29 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2022-04-05 |  |

@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: SPIRIT OF THE BEEHIVE.
+> Underground indie rock gems\. Cover: Blondshell.
 
-1,041 songs - 2 day 11 hr 17 min
+1,046 songs - 2 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [all in](https://open.spotify.com/track/58tzJQpMWgsPaWmSypQ2AN) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [all in](https://open.spotify.com/album/1RkdjUcv7ylxxn1rJT0iI4) | 1:23 | 2023-01-27 | 2023-04-09 |
 | [All That's Left Behind](https://open.spotify.com/track/5GoJ9CKRilxFi46jj70wjU) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [All That's Left Behind / Lullaby For You](https://open.spotify.com/album/50kARgynRJmltjkg5qSP7O) | 4:00 | 2021-03-05 | 2022-04-26 |
 | [Alone But Not Lonely](https://open.spotify.com/track/45b6AZg2JJFKqOgYL1Rne4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Alone But Not Lonely](https://open.spotify.com/album/2IORnkfSCkRnHGIKsN0r4w) | 1:46 | 2021-06-02 | 2022-03-23 |
-| [Alone In December](https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [Alone In December](https://open.spotify.com/album/25DQdkYKZ6gA3MU3jEbUDw) | 2:50 | 2023-07-14 |  |
+| [Alone In December](https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [Alone In December](https://open.spotify.com/album/25DQdkYKZ6gA3MU3jEbUDw) | 2:50 | 2023-07-14 | 2023-09-09 |
 | [Always](https://open.spotify.com/track/1GPwRKJ5g2tfJ2kLbwB5kM) | [skirts](https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl) | [Always](https://open.spotify.com/album/0RMknPzSaFRDBxhScoISSm) | 4:02 | 2021-07-16 | 2022-04-29 |
 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 | 2022-05-20 | 2022-08-27 |
 | [Amoeba](https://open.spotify.com/track/5O4dlgfCLqkyrHWghRfIrT) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Amoeba](https://open.spotify.com/album/52FqqjTl9kg5St3EAJMqBz) | 3:52 | 2023-04-28 | 2023-06-16 |
@@ -142,7 +142,7 @@
 | [Brand New Storm](https://open.spotify.com/track/3ZEh1u52NCJIxqt0XPvLve) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Brand New Storm](https://open.spotify.com/album/03UnLPgyJa2IRBkC8Zy7gx) | 4:18 | 2023-06-15 |  |
 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-02 | 2022-12-10 |
 | [Breaking Up](https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Breaking Up](https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b) | 3:03 | 2022-11-11 | 2023-03-04 |
-| [Brian's Song](https://open.spotify.com/track/7hOzRvvBx8DP72zGUxBVl8) | [Toner](https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw) | [Brian's Song](https://open.spotify.com/album/2qCh4qe6TQkNj1LApaTynH) | 1:38 | 2023-06-15 |  |
+| [Brian's Song](https://open.spotify.com/track/7hOzRvvBx8DP72zGUxBVl8) | [Toner](https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw) | [Brian's Song](https://open.spotify.com/album/2qCh4qe6TQkNj1LApaTynH) | 1:38 | 2023-06-15 | 2023-09-09 |
 | [Brooklyn Baby](https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK) | 3:34 | 2022-05-23 | 2022-07-29 |
 | [Brooklyn Baby](https://open.spotify.com/track/5mSyag0Wf98fKcWRxTbSqt) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/7JGOsvnA3RpWUIRlhjo1FU) | 3:34 | 2022-05-23 | 2022-08-06 |
 | [Bucktooth](https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Bucktooth](https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW) | 3:29 | 2022-08-26 | 2023-03-04 |
@@ -227,7 +227,7 @@
 | [Cowboys in the Dark](https://open.spotify.com/track/4chdbznSgQEiTsmKY1mKLh) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [AWAKE/ASLEEP](https://open.spotify.com/album/2SM92RVNoh8JWPf4cSc6iy) | 3:32 | 2023-03-03 | 2023-05-13 |
 | [Cramps](https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Cramps](https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE) | 2:51 | 2023-06-15 |  |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-03 | 2023-06-16 |
-| [Crimson to Chrome](https://open.spotify.com/track/4L8vpnqvHQucS2jakCHztD) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome b/w IN\_OUT](https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD) | 3:28 | 2023-08-24 |  |
+| [Crimson to Chrome](https://open.spotify.com/track/4L8vpnqvHQucS2jakCHztD) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome b/w IN\_OUT](https://open.spotify.com/album/3SOjx5ALtCLxwMCeBrpZeD) | 3:28 | 2023-08-24 | 2023-09-09 |
 | [Crimson to Chrome](https://open.spotify.com/track/51z0dKznDBCOYTumpGJXoj) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Crimson to Chrome](https://open.spotify.com/album/4AxFhcAdZ2mZQsijvKpcOr) | 3:28 | 2023-06-15 | 2023-08-25 |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-29 | 2022-09-24 |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-02 | 2022-04-29 |
@@ -357,6 +357,7 @@
 | [floor 20](https://open.spotify.com/track/7LFWmxHI2ftcIS13s6ZsAC) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/3vFvfJN9AISogzUwKuMu3P) | 2:37 | 2022-10-29 | 2022-11-05 |
 | [Florida](https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Florida](https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7) | 2:27 | 2022-12-16 | 2023-03-04 |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-03-05 | 2022-06-19 |
+| [fool for you](https://open.spotify.com/track/2WN6K7GSUcYh90kSq6bVAz) | [yuronono](https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj) | [fool for you](https://open.spotify.com/album/4CpWJqS8wfTKf3Osp4uwoz) | 3:19 | 2023-09-08 |  |
 | [For Today](https://open.spotify.com/track/5yK7yW57GecYWgf5gn74lP) | [The Lost Days](https://open.spotify.com/artist/1oZJCe4m2fO2hSZKndGimL), [Tony Molina](https://open.spotify.com/artist/2fmfhABysLV519rQYOBvtm) | [In the Store](https://open.spotify.com/album/2S4ZM2zLPEDxtxExcrJuGY) | 1:06 | 2023-06-15 |  |
 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 | 2023-06-09 | 2023-06-16 |
 | [forget her](https://open.spotify.com/track/3IbN46ROZg3EjzttvYscQK) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [fluke](https://open.spotify.com/album/1GJcQho6zi8rICzT8Yi3l8) | 3:08 | 2023-04-07 | 2023-06-16 |
@@ -535,6 +536,7 @@
 | [Jealous of a Kid](https://open.spotify.com/track/3xAO026dWHrw5pcM6Q5EPO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Jealous of a Kid](https://open.spotify.com/album/177mzayu6o2R1V89SvxQzv) | 3:32 | 2023-06-09 | 2023-06-16 |
 | [Jellyfish](https://open.spotify.com/track/5QoAoPROnMerJZXHSdCA6U) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Jellyfish](https://open.spotify.com/album/6h0uAe4jR7ej8bFFl5JNhI) | 3:32 | 2023-01-13 | 2023-03-11 |
 | [Jersey Soccer](https://open.spotify.com/track/2zdo41igQIM3zYQdUctZTZ) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Jersey Soccer](https://open.spotify.com/album/5MJk9wK4BQRHUo4DqhVbhc) | 2:56 | 2022-09-02 | 2022-10-14 |
+| [Jesse](https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Jesse](https://open.spotify.com/album/1z1QZIgQgVOby69R7KjA1Q) | 2:55 | 2023-09-08 |  |
 | [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 3:30 | 2022-04-29 | 2022-10-01 |
 | [Joiner](https://open.spotify.com/track/1y19yprweVojkuEr954I0G) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Joiner](https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD) | 3:59 | 2023-01-27 | 2023-04-10 |
 | [Joiner](https://open.spotify.com/track/3rybnmLVOm9ZOi0mte3VBj) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:59 | 2023-01-27 | 2023-06-16 |
@@ -584,6 +586,7 @@
 | [Like Anyone](https://open.spotify.com/track/1COlhSRKMWRUh33gYcM9QS) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [UNSAYABLE](https://open.spotify.com/album/23jxgu7HSNoy35bjUVywYn) | 3:40 | 2023-05-19 | 2023-06-16 |
 | [Like Ice](https://open.spotify.com/track/0FxKXUc9bwE1ZUm0F3qCu8) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Like Ice](https://open.spotify.com/album/4PatIt2ver4X597Sh6YwGu) | 2:56 | 2021-03-05 | 2022-04-20 |
 | [Liminal Bliss](https://open.spotify.com/track/0FREubimbOKkZtEVbdy9f5) | [Sweetie](https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs) | [Liminal Bliss](https://open.spotify.com/album/2Re8nPKprztJvXmVCAi6gw) | 3:22 | 2023-03-10 | 2023-04-22 |
+| [Lingr](https://open.spotify.com/track/6bvcW9B4iwgGesSCoS7iPX) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [Everyone is a Light](https://open.spotify.com/album/5ODMhLWkrPj2QRK22zyWdU) | 5:04 | 2023-09-08 |  |
 | [Lip Service](https://open.spotify.com/track/2Jsy0chsTcykVKKs5YQIIw) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/3C69d2fJ7OTLKytQsIyRph) | 2:53 | 2023-03-17 | 2023-04-30 |
 | [Lip Service](https://open.spotify.com/track/2rWPsijkCV8r3FfE3qinNJ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Lip Service](https://open.spotify.com/album/1zbfbCs5iZhBMo2wP3L8vv) | 2:53 | 2023-03-17 |  |
 | [Little Mermaid](https://open.spotify.com/track/5SfGNQKdfASuqIurZV0DXb) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Little Mermaid](https://open.spotify.com/album/4a4wMP1NHc7Bv78rocACxu) | 2:59 | 2023-03-03 | 2023-04-01 |
@@ -851,6 +854,7 @@
 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 | 2022-07-05 | 2022-10-15 |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2021-06-25 | 2022-04-11 |
 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 | 2023-06-15 |  |
+| [Split Up](https://open.spotify.com/track/1VNxSjEjFNcV1n2KET3QM9) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Little Demon Boy](https://open.spotify.com/album/1DubHATL9RqfbfD6Y1lAWa) | 2:27 | 2023-09-08 |  |
 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-09 | 2023-06-16 |
 | [Ssx](https://open.spotify.com/track/1eCImHqurFCsE6du2nF6jh) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Vol\. 1](https://open.spotify.com/album/5HanfTZtL71gW1KGgg1HMA) | 3:36 | 2022-05-13 | 2022-07-02 |
 | [Stacking Chairs](https://open.spotify.com/track/32H8YnMqJVD7OXwJZh7fIj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Stacking Chairs](https://open.spotify.com/album/0rzgO44IxONae6AEPpww41) | 3:08 | 2021-03-05 | 2022-04-29 |
@@ -865,6 +869,7 @@
 | [Strange Overtones](https://open.spotify.com/track/2YtMGbb7bAEPbxgQ6au4EP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Strange Overtones](https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj) | 3:26 | 2021-03-05 | 2022-04-29 |
 | [Strawberry Creek \- Dirty Feet](https://open.spotify.com/track/7nqXz3i9I40S8oTKrndpYP) | [Stöner](https://open.spotify.com/artist/2mkGbwg4uYaUlmQDZpga27) | [Strawberry Creek \(Dirty Feet\)](https://open.spotify.com/album/3yomb5X9mTPPSpq9uvTYY9) | 3:46 | 2022-04-15 | 2022-05-28 |
 | [Street Fight](https://open.spotify.com/track/7wDrCnNA7DL3P7M50JCEoZ) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Street Fight](https://open.spotify.com/album/5REnX5KPkNK0WGcJn6BHyI) | 4:19 | 2021-08-27 | 2022-04-20 |
+| [Street Rat](https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Street Rat](https://open.spotify.com/album/1dSWDvAoExxAwJj2Hf7kTB) | 3:30 | 2023-09-08 |  |
 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 | 2022-04-29 | 2022-10-01 |
 | [Strokes](https://open.spotify.com/track/6u3sTOr6NtcXIvf2SBWgFy) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 2:11 | 2022-04-29 | 2022-10-01 |
 | [Structure](https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu) | [Odd Sweetheart](https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg) | [Odd Sweetheart](https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG) | 2:31 | 2022-04-29 | 2022-10-01 |
@@ -873,7 +878,7 @@
 | [sugar ray](https://open.spotify.com/track/2A1WPASEga9mFnpNRc7ADd) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [sugar ray](https://open.spotify.com/album/6Ou1n0STYMpzbbrxNC454M) | 4:03 | 2021-06-11 | 2022-04-18 |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-16 | 2022-03-22 |
 | [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-11 |  |
-| [Sun In](https://open.spotify.com/track/3Rz9sSI0He1TfqcvQliaA2) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:24 | 2023-06-15 |  |
+| [Sun In](https://open.spotify.com/track/3Rz9sSI0He1TfqcvQliaA2) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:24 | 2023-06-15 | 2023-09-09 |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2021-06-02 | 2022-04-29 |
 | [Sunrise](https://open.spotify.com/track/1Ki3xQa6gNxupTmKdYgfsF) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Sunrise](https://open.spotify.com/album/6Dc4zmrfn6OKOWVCwALF7S) | 2:15 | 2021-03-05 | 2022-04-29 |
 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 | 2021-08-13 | 2022-08-27 |
@@ -1022,7 +1027,7 @@
 | [Why I Come Back Home](https://open.spotify.com/track/5TtqOOP7YBToVhk8GI4bBz) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Why I Come Back Home](https://open.spotify.com/album/44815HD3TRzWtAR7GFacn9) | 2:17 | 2023-02-10 | 2023-04-09 |
 | [Wildflower](https://open.spotify.com/track/66JAiAww71cy0rv3c8567D) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Wildflower](https://open.spotify.com/album/6A6CGSfKoccrpb1ffz7uRj) | 3:01 | 2023-06-09 | 2023-06-16 |
 | [Wino](https://open.spotify.com/track/3ekYQjKjL6b9Lq2m8Th0A3) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Wino](https://open.spotify.com/album/7mVPJmJBVRODw4hLAnnOXN) | 3:31 | 2022-03-04 | 2022-04-14 |
-| [winter prayer](https://open.spotify.com/track/1E5dzu6VFqQKRERcOy3ake) | [speakerhug](https://open.spotify.com/artist/79bwkhHh6qKP7dehlCdYJP) | [winter prayer](https://open.spotify.com/album/0ooCV2n3UGtvVshpAOUSic) | 4:54 | 2023-06-15 |  |
+| [winter prayer](https://open.spotify.com/track/1E5dzu6VFqQKRERcOy3ake) | [speakerhug](https://open.spotify.com/artist/79bwkhHh6qKP7dehlCdYJP) | [winter prayer](https://open.spotify.com/album/0ooCV2n3UGtvVshpAOUSic) | 4:54 | 2023-06-15 | 2023-09-09 |
 | [Wish](https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Wish](https://open.spotify.com/album/0dD5lv9nE67MU25iNX7Lsd) | 4:08 | 2022-07-22 | 2023-05-20 |
 | [Wish It Was](https://open.spotify.com/track/31fAHxxQshddV7JHNkxz49) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Wish It Was](https://open.spotify.com/album/6VPEA2UY1r17TtbsGAiIdz) | 3:06 | 2022-09-02 | 2022-12-15 |
 | [Without Me](https://open.spotify.com/track/59CvrXg1dTTVlPDpdur9wK) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [Stuck](https://open.spotify.com/album/2FhHAKCrIdmILg8GDAmSUM) | 4:48 | 2021-06-11 | 2022-03-22 |

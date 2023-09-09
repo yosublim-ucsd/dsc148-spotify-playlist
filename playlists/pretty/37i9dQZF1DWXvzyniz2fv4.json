@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 150849,
+  "num_followers": 150898,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2I2NGU1MWQ3NTAyYmVjZTQxYjAzMGJiMjEwMDY2NTA3MGU4MTIx",
+  "snapshot_id": "MCw1ZWQ1Mzk5NTI2ODhlYjI0ODAyZWM1ZDJjMDY1YzlmM2JiNzNlYTAy",
   "tracks": [
     {
       "added_at": "2023-09-04 13:47:52",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-09-04 13:47:52",
       "album": {
-        "name": "Girl From Ipanema",
-        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "NSFS",
-          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
-        }
-      ],
-      "duration_ms": 209770,
-      "name": "Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
-    },
-    {
-      "added_at": "2023-09-04 13:47:52",
-      "album": {
         "name": "Equa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 182205,
       "name": "Equa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
+    },
+    {
+      "added_at": "2023-09-04 13:47:52",
+      "album": {
+        "name": "Girl From Ipanema",
+        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "NSFS",
+          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
     },
     {
       "added_at": "2023-09-04 13:47:52",
@@ -1115,6 +1115,34 @@
     {
       "added_at": "2023-09-04 13:47:52",
       "album": {
+        "name": "Jeito Bom #2",
+        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
+      },
+      "artists": [
+        {
+          "name": "RM no Beat",
+          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
+        },
+        {
+          "name": "Caio Big",
+          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
+        },
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        },
+        {
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
+        }
+      ],
+      "duration_ms": 209378,
+      "name": "Jeito Bom #2",
+      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
+    },
+    {
+      "added_at": "2023-09-04 13:47:52",
+      "album": {
         "name": "Doses",
         "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
       },
@@ -1203,34 +1231,6 @@
     {
       "added_at": "2023-09-04 13:47:52",
       "album": {
-        "name": "Jeito Bom #2",
-        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
-      },
-      "artists": [
-        {
-          "name": "RM no Beat",
-          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
-        },
-        {
-          "name": "Caio Big",
-          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
-        },
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        },
-        {
-          "name": "Tain\u00e1 Seabra",
-          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
-        }
-      ],
-      "duration_ms": 209378,
-      "name": "Jeito Bom #2",
-      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2023-09-04 13:47:52",
-      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1307,42 +1307,6 @@
     {
       "added_at": "2023-09-04 13:47:52",
       "album": {
-        "name": "Ir Embora",
-        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
-      },
-      "artists": [
-        {
-          "name": "Taz Mureb",
-          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
-        },
-        {
-          "name": "Scarlet Ohana",
-          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
-        }
-      ],
-      "duration_ms": 125932,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2023-09-04 13:47:52",
-      "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
-    },
-    {
-      "added_at": "2023-09-04 13:47:52",
-      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1363,6 +1327,26 @@
     {
       "added_at": "2023-09-04 13:47:52",
       "album": {
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
+      },
+      "artists": [
+        {
+          "name": "Taz Mureb",
+          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
+        },
+        {
+          "name": "Scarlet Ohana",
+          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
+        }
+      ],
+      "duration_ms": 125932,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+    },
+    {
+      "added_at": "2023-09-04 13:47:52",
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 164713,
       "name": "Lua",
       "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2023-09-04 13:47:52",
+      "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2023-09-04 13:47:52",
@@ -1423,6 +1423,22 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2023-09-04 13:47:52",
+      "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-09-04 13:47:52",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-09-04 13:47:52",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
-    },
-    {
-      "added_at": "2023-09-04 13:47:52",
-      "album": {
         "name": "V\u00e1rios Planos",
         "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
       },
@@ -1543,6 +1543,30 @@
       "duration_ms": 180705,
       "name": "V\u00e1rios Planos",
       "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
+    },
+    {
+      "added_at": "2023-09-04 13:47:52",
+      "album": {
+        "name": "Meia Hora",
+        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Henriques",
+          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Meia Hora",
+      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-09-04 13:47:52",
@@ -1571,30 +1595,6 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
-    },
-    {
-      "added_at": "2023-09-04 13:47:52",
-      "album": {
-        "name": "Meia Hora",
-        "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Henriques",
-          "url": "https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Meia Hora",
-      "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
     },
     {
       "added_at": "2023-09-04 13:47:52",

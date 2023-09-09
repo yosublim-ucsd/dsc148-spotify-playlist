@@ -3107,6 +3107,28 @@
     },
     {
       "album": {
+        "name": "LAS MORRAS TAMBI\u00c9N HACEN TR444P",
+        "url": "https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "PULLIN' UP",
+      "url": "https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk"
+    },
+    {
+      "album": {
         "name": "Punto",
         "url": "https://open.spotify.com/album/0Qpzn4xD3HRyi22dQxUSQi"
       },

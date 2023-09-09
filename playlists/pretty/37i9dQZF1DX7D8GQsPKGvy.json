@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 730836,
+  "num_followers": 731679,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTYyODc5Mjg4ZTY0OWZmY2Y3ODk1NWMwMTE3OWUxMjljYzM5MTg5",
+  "snapshot_id": "MCxhMWZmMTg0OTc4ZmE0MmZiM2UwMzJiZDE2NGNhZjAzNzI3ZDljNjI1",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Into You (3LAU Remix)",
-        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Into You - 3LAU Remix",
-      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
         "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 277226,
       "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
       "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Into You (3LAU Remix)",
+        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Into You - 3LAU Remix",
+      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Chasing Highs (Felix Cartal Remix)",
         "url": "https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 220650,
       "name": "Chasing Highs - Felix Cartal Remix",
       "url": "https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
-        "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Promises (with Sam Smith) [Remixes]",
         "url": "https://open.spotify.com/album/7g15PlMnaKmFMUsSpR8aZt"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 190416,
       "name": "Promises (with Sam Smith) - David Guetta Remix",
       "url": "https://open.spotify.com/track/3Lv3frZVXU7Q0JEFvLIzWW"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
+        "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1715,22 +1715,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Castles (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
       "artists": [
         {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Castles - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
+      "duration_ms": 286346,
+      "name": "Paradise - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1759,22 +1759,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Princess of China",
-        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+        "name": "Castles (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 286346,
-      "name": "Paradise - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
+      "duration_ms": 204000,
+      "name": "Castles - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1907,30 +1907,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man) [Remixes]",
-        "url": "https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 193297,
-      "name": "Giant (with Rag'n'Bone Man) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Bang Bang (Remixes)",
         "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX"
       },
@@ -1959,6 +1935,30 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Giant (with Rag'n'Bone Man) [Remixes]",
+        "url": "https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 193297,
+      "name": "Giant (with Rag'n'Bone Man) - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "High Hopes (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
       },
@@ -1975,26 +1975,6 @@
       "duration_ms": 185714,
       "name": "High Hopes - Don Diablo Remix",
       "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Hurts So Good (Remixes)",
-        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Hurts So Good - Broiler Remix",
-      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2019,6 +1999,26 @@
       "duration_ms": 189268,
       "name": "Happy Now - R3HAB Remix",
       "url": "https://open.spotify.com/track/7AkLPOwjju8taQCJCaIUts"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Hurts So Good (Remixes)",
+        "url": "https://open.spotify.com/album/270KfGOCq7kA77DobjTp72"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Hurts So Good - Broiler Remix",
+      "url": "https://open.spotify.com/track/77x68F78XGMt95NSy4E47c"
     },
     {
       "added_at": "2023-07-03 13:15:34",

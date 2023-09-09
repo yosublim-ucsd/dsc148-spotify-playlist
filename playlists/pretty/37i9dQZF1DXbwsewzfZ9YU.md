@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Soul Glo
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,090 likes - 102 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,230 likes - 102 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0SIF3BX8DeyijHhQiF7g40) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:26 |
+| 1 | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/track/2YB9zdlis5KT7v9CA4Iha2) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/album/3CfmxDJ95NdqqHdDumeYt1) | 2:37 |
 | 2 | [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 |
 | 3 | [Evil Finds Light](https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:07 |
 | 4 | [RIDE IT](https://open.spotify.com/track/3oX2umsP57XAnLkaOnIAhy) | [LustSickPuppy](https://open.spotify.com/artist/0sFPtrebUnOBj0EUblHhB3) | [RIDE IT](https://open.spotify.com/album/4YVZqIH91AFGuKJwvBN2TS) | 2:59 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 101 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 |
 | 102 | [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 |
 
-Snapshot ID: `MCwxMGYyZWNmMmZmODc1YjcwZWFmYmZmOWY5OTY3ZWQyNTA2NDQ4NGRl`
+Snapshot ID: `MCw2MjRlMmNjMDVlMWZhN2I4NWMwMWRhZGZjZDQ4ZWY4MTRhYjFhYjc5`

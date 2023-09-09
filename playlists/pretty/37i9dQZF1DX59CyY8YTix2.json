@@ -1,12 +1,12 @@
 {
   "description": "Japanese female rock icons. \u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Cover: \u00c5lborg",
-  "num_followers": 44738,
+  "num_followers": 44753,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWE3NGI3MWU1OWRhNTM0NGE2N2Q4YTRkNzlmZTk5NGJjZjg5MjNk",
+  "snapshot_id": "MCw1ZTUyNmM0ZWY2NzE5NjAwOTU2NWY1N2ZiNWNhYzc3M2MxM2E3N2Jj",
   "tracks": [
     {
       "added_at": "2023-09-07 15:30:24",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-09-07 15:30:24",
       "album": {
+        "name": "Kiddy",
+        "url": "https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 198307,
+      "name": "Kiddy",
+      "url": "https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT"
+    },
+    {
+      "added_at": "2023-09-07 15:30:24",
+      "album": {
         "name": "\uff12\u3007\uff14\uff15",
         "url": "https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 221048,
       "name": "\uff12\u3007\uff14\uff15",
       "url": "https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk"
-    },
-    {
-      "added_at": "2023-09-07 15:30:24",
-      "album": {
-        "name": "Kiddy",
-        "url": "https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn"
-      },
-      "artists": [
-        {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 198307,
-      "name": "Kiddy",
-      "url": "https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT"
     },
     {
       "added_at": "2023-09-07 15:30:24",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-07 15:30:24",
       "album": {
-        "name": "LOVE\u306e\u98fd\u548c\u6c34\u84b8\u6c17\u91cf",
-        "url": "https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM"
-      },
-      "artists": [
-        {
-          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "\u6545\u306eLOVE",
-      "url": "https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8"
-    },
-    {
-      "added_at": "2023-09-07 15:30:24",
-      "album": {
         "name": "\u5b63\u5104\u306e\u7bb1",
         "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 239067,
       "name": "\u590f\u304c\u6765\u308b\u305f\u3073",
       "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
+    },
+    {
+      "added_at": "2023-09-07 15:30:24",
+      "album": {
+        "name": "LOVE\u306e\u98fd\u548c\u6c34\u84b8\u6c17\u91cf",
+        "url": "https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "\u6545\u306eLOVE",
+      "url": "https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8"
     },
     {
       "added_at": "2023-09-07 15:30:24",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2023-09-07 15:30:24",
       "album": {
-        "name": "daylight",
-        "url": "https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA"
+        "name": "Chilli Beans.",
+        "url": "https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 243855,
-      "name": "daylight",
-      "url": "https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf"
+      "duration_ms": 230553,
+      "name": "School",
+      "url": "https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b"
     },
     {
       "added_at": "2023-09-07 15:30:24",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-07 15:30:24",
       "album": {
-        "name": "MY SUPER GOOD FRIEND",
-        "url": "https://open.spotify.com/album/12DsIJ7IylirWgRfeL6c5F"
-      },
-      "artists": [
-        {
-          "name": "illiomote",
-          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
-        }
-      ],
-      "duration_ms": 227147,
-      "name": "MY SUPER GOOD FRIEND",
-      "url": "https://open.spotify.com/track/4w1FBbT277yKyz8kDAE6I1"
-    },
-    {
-      "added_at": "2023-09-07 15:30:24",
-      "album": {
         "name": "Sing The Moon",
         "url": "https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 206120,
       "name": "Sing The Moon",
       "url": "https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo"
+    },
+    {
+      "added_at": "2023-09-07 15:30:24",
+      "album": {
+        "name": "MY SUPER GOOD FRIEND",
+        "url": "https://open.spotify.com/album/12DsIJ7IylirWgRfeL6c5F"
+      },
+      "artists": [
+        {
+          "name": "illiomote",
+          "url": "https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v"
+        }
+      ],
+      "duration_ms": 227147,
+      "name": "MY SUPER GOOD FRIEND",
+      "url": "https://open.spotify.com/track/4w1FBbT277yKyz8kDAE6I1"
     },
     {
       "added_at": "2023-09-07 15:30:24",

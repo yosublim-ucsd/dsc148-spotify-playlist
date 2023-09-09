@@ -4,7 +4,7 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-68 songs - 3 hr 18 min
+70 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,10 @@
 | [Calm Night](https://open.spotify.com/track/0GBLzni5lps2xbA5XnpSxg) | [Devans Tushar](https://open.spotify.com/artist/0NZhgsof9BXdMrzgt3S5rj) | [Calm Night](https://open.spotify.com/album/3rX4s5iGt5XMhgHr8eRsuK) | 3:16 | 2023-04-28 | 2023-07-29 |
 | [Calm Seas](https://open.spotify.com/track/2x4ymM6CVBuDAGNEJ16qko) | [Fleeting Spirit](https://open.spotify.com/artist/2r0qRPtgmjVkJpIM7xtbFX), [Magic Room](https://open.spotify.com/artist/1pgC9mDwkvCetVYKv3tKcv) | [Calm Seas](https://open.spotify.com/album/3I253zKHlY1vf3mxh8DsTJ) | 3:14 | 2023-08-18 |  |
 | [Calm Waters](https://open.spotify.com/track/7C4MGx7vjDNQeSJT4mZvLx) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 2:35 | 2023-04-28 |  |
+| [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 | 2023-09-08 |  |
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2023-04-28 |  |
 | [Charge Water](https://open.spotify.com/track/50KuU9dq4YsVH8ywhNOUII) | [Alaysia Young](https://open.spotify.com/artist/6qXIYhX6kENOfRZXxw5aLr) | [Charge Water](https://open.spotify.com/album/63psvMAMKlVELuGaNNHyvI) | 3:19 | 2023-04-28 |  |
+| [Deep Cove](https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 2:41 | 2023-09-08 |  |
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-04-28 |  |
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2023-04-28 |  |
 | [Dreamshore](https://open.spotify.com/track/24xr3Rogq8qFmO535rFA8f) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Dreamshore](https://open.spotify.com/album/60oCI6WHpsMtZlVOyeBBeR) | 2:34 | 2023-08-11 |  |

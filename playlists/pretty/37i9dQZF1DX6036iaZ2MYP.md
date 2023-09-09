@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,155 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,187 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 |
 | 50 | [Chanjé](https://open.spotify.com/track/0koJoqB4PwaAcCtFGssnA2) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Chanjé](https://open.spotify.com/album/3iIOfM4ooNNBxufKmAHoeV) | 3:43 |
 
-Snapshot ID: `MCw1OWIzZDllZjZjNWNlZTcwNzY2ODAzNjdhZjE5NWM1YWNiMTc3NmUz`
+Snapshot ID: `MCxjYTUyNjJkMzAxMmZjZjg3ZjRhMDcwZDlmNmM2ZDdlMTllZTRiZDM1`

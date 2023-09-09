@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Home to the best of South Asian Indie scene. Cover: Adnan Dhool",
+  "description": "Home to the best of South Asian Indie scene. Cover: Annural Khalid",
   "name": "Desi Indie ",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 212773,
       "name": "Alag Aasmaan",
       "url": "https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0"
+    },
+    {
+      "album": {
+        "name": "Alfaazo",
+        "url": "https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158447,
+      "name": "Alfaazo",
+      "url": "https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL"
     },
     {
       "album": {
@@ -622,7 +640,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 233630,
       "name": "Choo Lo",
       "url": "https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul"
@@ -804,7 +822,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 170571,
       "name": "DIL",
       "url": "https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 178000,
       "name": "Ho Jaane Do",
       "url": "https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj"
@@ -1911,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Kaise Banu",
+        "url": "https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF"
+      },
+      "artists": [
+        {
+          "name": "Taaruk Raina",
+          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174418,
+      "name": "Kaise Banu",
+      "url": "https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt"
+    },
+    {
+      "album": {
         "name": "Katputli Ke Dhaage",
         "url": "https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP"
       },
@@ -1944,7 +1980,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 214500,
       "name": "Khaak",
       "url": "https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4"
@@ -1962,7 +1998,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 179210,
       "name": "Khamakhaa",
       "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
@@ -3113,6 +3149,32 @@
     },
     {
       "album": {
+        "name": "Sapna",
+        "url": "https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE"
+      },
+      "artists": [
+        {
+          "name": "Bayaan",
+          "url": "https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        },
+        {
+          "name": "Sherazam",
+          "url": "https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162486,
+      "name": "Sapna",
+      "url": "https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy"
+    },
+    {
+      "album": {
         "name": "Baaraat",
         "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
       },
@@ -3643,6 +3705,32 @@
     },
     {
       "album": {
+        "name": "Maybe, It's Love",
+        "url": "https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shahrukh",
+          "url": "https://open.spotify.com/artist/02yAoSmsqYASF4Wb45bRlJ"
+        },
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Teray Naam",
+      "url": "https://open.spotify.com/track/4dBRaBEild4wQPztOuV2EU"
+    },
+    {
+      "album": {
         "name": "Tere Bina",
         "url": "https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB"
       },
@@ -3806,7 +3894,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 191034,
       "name": "Tu Kahaan Hai?",
       "url": "https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD"
@@ -3868,7 +3956,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 140730,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5"
@@ -3960,6 +4048,32 @@
       "duration_ms": 269892,
       "name": "What Love Meant",
       "url": "https://open.spotify.com/track/51r4ThTtRZgGyDstKxgvgi"
+    },
+    {
+      "album": {
+        "name": "Maybe, It's Love",
+        "url": "https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF"
     },
     {
       "album": {

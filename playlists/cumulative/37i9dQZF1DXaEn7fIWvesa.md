@@ -2,9 +2,9 @@
 
 ### [Cubatón Miami](https://open.spotify.com/playlist/37i9dQZF1DXaEn7fIWvesa)
 
-> A lo cubano 🔥 Con El Micha en portada.
+> A lo cubano 🔥 Con Jacob Forever en portada.
 
-54 songs - 3 hr 5 min
+55 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [El Gavilan](https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [El Gavilan](https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E) | 3:27 | 2023-07-13 |  |
 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 | 2023-07-13 |  |
 | [El Taxi](https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS), [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Dale](https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm) | 4:09 | 2023-07-13 |  |
+| [El Verdadero Palo](https://open.spotify.com/track/73lOC7Sg5p7hiVo05jjILM) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Marvin Freddy](https://open.spotify.com/artist/3I0QgDOz7H5a93lvRagnRe) | [El Verdadero Palo](https://open.spotify.com/album/6Wurfg3vmjhrTdhdf9XkOO) | 3:14 | 2023-09-08 |  |
 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 | 2023-07-13 |  |
 | [Funimate \- Prod\. by Ernesto Losa](https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Pokercito](https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Funimate \(Prod\. by Ernesto Losa\)](https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9) | 3:15 | 2023-07-13 |  |
 | [Ganas de Ti](https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:03 | 2023-07-13 |  |
@@ -59,7 +60,7 @@
 | [Todo Está Ok](https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Todo Está Ok](https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK) | 3:34 | 2023-07-13 |  |
 | [Todo Está Ok Remix \- Prod\. by Dj Cham](https://open.spotify.com/track/2nVhTUCK9KQ2Wq9Zyfy0iW) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Dj Cham](https://open.spotify.com/artist/6PopKfMnCk5W6hX8EsS0Eh) | [Todo Está Ok Remix](https://open.spotify.com/album/3xSgXDady9EgpjHkZ8rIf2) | 3:33 | 2023-07-13 |  |
 | [Toxica](https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf) | [Toxica](https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO) | 3:51 | 2023-07-13 |  |
-| [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 | 2023-07-13 |  |
+| [Tu & Yo \- Remix](https://open.spotify.com/track/2hW67JZRADAZAF093j8NqW) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Bryan Omega](https://open.spotify.com/artist/6xWHyWz4dEAEcUieksnCqq), [Dekano Kano y Efowa Owa](https://open.spotify.com/artist/3lyh1gSW0AbRFRTksN8H9W), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Tu & Yo \(Remix\)](https://open.spotify.com/album/7aC9SavBc4WfPAbcVqiBbk) | 2:57 | 2023-07-13 | 2023-09-09 |
 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 | 2023-07-13 |  |
 | [Un Palo Como Tu](https://open.spotify.com/track/1FutDLeZnNdv36lpCq0Eb0) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [El Bacoco](https://open.spotify.com/artist/62pQLqF1sUAdFCpEGcVDHM), [Titiko](https://open.spotify.com/artist/2DQo6JG7p8BDza6EDNLTHG) | [Un Palo Como Tu](https://open.spotify.com/album/2fpQ5SJoudmJe0AP5fNdCY) | 3:25 | 2023-07-13 |  |
 

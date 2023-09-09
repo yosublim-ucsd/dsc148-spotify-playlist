@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-209 songs - 14 hr 10 min
+210 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 | 2021-10-08 | 2022-10-13 |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2021-10-08 |  |
 | [Smother](https://open.spotify.com/track/4UWXRnzwWzH0F46D2cLOzG) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Smother](https://open.spotify.com/album/6sSjgyWUWZLmZSAAKZLcwL) | 4:00 | 2021-10-08 | 2022-11-13 |
+| [Still as the Night](https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Still as the Night](https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa) | 3:17 | 2023-09-08 |  |
 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 | 2023-03-03 |  |
 | [Strange](https://open.spotify.com/track/6MB8gX1wQxJU4KQuRTWXux) | [Runah](https://open.spotify.com/artist/1t7LGsCYaXFaDW6GiAuaNI) | [Strange](https://open.spotify.com/album/3635mxEV0v8bks4Z15mvgs) | 3:16 | 2021-10-08 |  |
 | [Strange Times, Dark Days](https://open.spotify.com/track/6DSKcs5ObuFgYYJv1i8lOG) | [Isla June](https://open.spotify.com/artist/18ioovgcBQpPVcUdRyGCe0) | [Strange Times, Dark Days](https://open.spotify.com/album/5ZrY8CLbVN52K53IBZAT6w) | 3:21 | 2021-10-08 |  |

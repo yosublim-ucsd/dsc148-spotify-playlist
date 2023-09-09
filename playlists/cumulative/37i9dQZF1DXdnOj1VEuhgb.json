@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Borqy",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: cakal",
   "name": "NKVT",
   "tracks": [
     {
@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 167280,
       "name": "Baby (feat. Murda)",
       "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "KAFAMA G\u00d6RE",
+        "url": "https://open.spotify.com/album/0umpW0vx4KSlwunhKUW0MD"
+      },
+      "artists": [
+        {
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165227,
+      "name": "KAFAMA G\u00d6RE",
+      "url": "https://open.spotify.com/track/4FbfcDH6i1YeSm6ilNHXAw"
+    },
+    {
+      "album": {
         "name": "Kalbe Zarar",
         "url": "https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy"
       },
@@ -2587,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "PA$$$A VIBES V",
+        "url": "https://open.spotify.com/album/36h6r9fxJXD9keKaDZi0rw"
+      },
+      "artists": [
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        },
+        {
+          "name": "U\u011fur \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101306,
+      "name": "PA$$$A VIBES V",
+      "url": "https://open.spotify.com/track/5zjHGCU8Zq6X8bx7gmqYC1"
+    },
+    {
+      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8"
       },
@@ -2870,7 +2910,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 162813,
       "name": "SANA NE",
       "url": "https://open.spotify.com/track/44wJznydk7liXuhYExo19u"

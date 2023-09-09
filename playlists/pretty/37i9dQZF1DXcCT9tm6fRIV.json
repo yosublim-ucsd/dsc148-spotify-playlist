@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 237635,
+  "num_followers": 237681,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGEyY2JkNmYzOWRhMWI5ZWU1MWM4MTA4ZjkyYzg2ZjI2MjkyNTdi",
+  "snapshot_id": "MCw2MTZmMDUwM2U2NWIzMjhjOGZiYTJiZGUyMDMxZmRkOGZiOTE5ZDA4",
   "tracks": [
     {
       "added_at": "2023-08-11 14:54:57",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 109386,
+      "name": "Melod\u00eda de Arrabal",
+      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 337753,
       "name": "Balada para un Loco",
       "url": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
-      },
-      "artists": [
-        {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
-        }
-      ],
-      "duration_ms": 109386,
-      "name": "Melod\u00eda de Arrabal",
-      "url": "https://open.spotify.com/track/15z8cfqjMyayrtz0eU6GBa"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "El Mundo De La Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
-      },
-      "artists": [
-        {
-          "name": "Cacho Casta\u00f1a",
-          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "El Mundo De La Fantas\u00eda",
-      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
         "name": "Manzi, caminos de barro y pampa",
         "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 140503,
       "name": "Valsecito Criollo",
       "url": "https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "El Mundo De La Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
+      },
+      "artists": [
+        {
+          "name": "Cacho Casta\u00f1a",
+          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "El Mundo De La Fantas\u00eda",
+      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "Piazzolla & Amelita Baltar",
         "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 276093,
       "name": "Las Ciudades",
       "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Cuarteto Federico Grela, Vol. 1",
-        "url": "https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq"
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
       },
       "artists": [
         {
-          "name": "Cuarteto Federico Grela",
-          "url": "https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV"
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
+        },
+        {
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Danzar\u00edn",
-      "url": "https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT"
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1171,6 +1175,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Cuarteto Federico Grela, Vol. 1",
+        "url": "https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Federico Grela",
+          "url": "https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Danzar\u00edn",
+      "url": "https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "Viejo Zen del Alma",
         "url": "https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 199598,
       "name": "A Don Agustin Bardi",
       "url": "https://open.spotify.com/track/7BhH1HdsclSupDYIxvgLaa"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
-        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
-      },
-      "artists": [
-        {
-          "name": "Horacio Ferrer",
-          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
-        },
-        {
-          "name": "Juan Trepiana",
-          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "La Bicicleta Blanca",
-      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
         "name": "Sur (Remastered)",
         "url": "https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6"
       },
@@ -1263,34 +1279,18 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+        "name": "Un sue\u00f1o de barrio",
+        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
       },
       "artists": [
         {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "Tinta Roja",
-        "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 188854,
-      "name": "Tinta Roja",
-      "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Un sue\u00f1o de barrio",
-        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
+        "name": "Tinta Roja",
+        "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
       },
       "artists": [
         {
-          "name": "Mirta Uguet",
-          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 208384,
-      "name": "Confidencias",
-      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
+      "duration_ms": 188854,
+      "name": "Tinta Roja",
+      "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1343,22 +1343,6 @@
       "duration_ms": 191320,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
-    },
-    {
-      "added_at": "2023-08-11 14:54:57",
-      "album": {
-        "name": "A Las Orquestas",
-        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
-      },
-      "artists": [
-        {
-          "name": "Julio Pane",
-          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
-        }
-      ],
-      "duration_ms": 251472,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-08-11 14:54:57",
       "album": {
-        "name": "Todo Piazzolla",
-        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
+        "name": "A Las Orquestas",
+        "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
       "artists": [
         {
-          "name": "Leopoldo Federico y su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
+          "name": "Julio Pane",
+          "url": "https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV"
         }
       ],
-      "duration_ms": 196773,
-      "name": "Tango Del Angel",
-      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
+      "duration_ms": 251472,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
     },
     {
       "added_at": "2023-08-11 14:54:57",
@@ -1431,6 +1415,22 @@
       "duration_ms": 237226,
       "name": "Malevaje",
       "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
+    },
+    {
+      "added_at": "2023-08-11 14:54:57",
+      "album": {
+        "name": "Todo Piazzolla",
+        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
+      },
+      "artists": [
+        {
+          "name": "Leopoldo Federico y su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Tango Del Angel",
+      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
     }
   ],
   "unique_name": "Tangos y Milongas",

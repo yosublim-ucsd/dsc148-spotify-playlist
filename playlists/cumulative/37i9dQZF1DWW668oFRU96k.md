@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: The Chainsmokers
 
-529 songs - 1 day 2 hr 18 min
+530 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Take Me Home](https://open.spotify.com/track/53gUW47HXxVwBNNfD5UT4x) | [Lucad](https://open.spotify.com/artist/6A3bXnPH6ng8tNeAAQsep5), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [Take Me Home](https://open.spotify.com/album/2mfyiefsHjsI3HIqUvEU15) | 3:03 | 2023-03-23 | 2023-04-28 |
 | [Take Me To Another World](https://open.spotify.com/track/0tXD5XbjdsdaMuxwU0Z4mC) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Take Me To Another World](https://open.spotify.com/album/0NQVvQatEhV09qkiibkm8I) | 3:39 | 2023-07-27 | 2023-09-01 |
 | [Take My Love](https://open.spotify.com/track/0osz6OhmqmYcmYoMU0MP74) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Don't Tell Me EP](https://open.spotify.com/album/5PcAKVlSt3xticijD5emnd) | 3:14 | 2023-07-13 | 2023-08-18 |
+| [Take My Soul](https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Days Before Grace](https://open.spotify.com/album/6Hkf54OpfrK7PGlab7OB1J) | 5:01 | 2023-09-08 |  |
 | [Teach Me](https://open.spotify.com/track/2zUaDf6N5EwvGkc27YNdQU) | [hittrr](https://open.spotify.com/artist/5p0YhqAiywMqTB10mdN01W), [Clayne](https://open.spotify.com/artist/5Hp96epWm4cS8ng9VpAuhe), [THz](https://open.spotify.com/artist/208YSBO3zUgKGkmi8a4Uq3) | [Teach Me](https://open.spotify.com/album/3MoUZMG3HIU6MDkguh29eI) | 3:26 | 2023-02-02 | 2023-05-26 |
 | [Tell Me Why](https://open.spotify.com/track/5Gj9GytUHWNH3yN8r4Jn0r) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Now O Later](https://open.spotify.com/artist/7mXiVh1xuK89jd1QX0JuHS) | [Tell Me Why](https://open.spotify.com/album/7IbY9AMzf8mVQ3IETBH4AC) | 2:29 | 2023-08-24 |  |
 | [Tell to the Tail Light](https://open.spotify.com/track/3Q8qeJilWgtXq034GzuRxP) | [WINARTA](https://open.spotify.com/artist/4pmANSOlqm7SAJ3Vfwfj8s), [Mac Louis](https://open.spotify.com/artist/4R43EsgnvlapUA3RrxmDmQ), [Dare County](https://open.spotify.com/artist/3x6K65pMW3Ei35TXKC03rL) | [Tell to the Tail Light](https://open.spotify.com/album/3inV6PWedGoqVUFy9JSG1H) | 3:22 | 2023-02-02 | 2023-03-03 |

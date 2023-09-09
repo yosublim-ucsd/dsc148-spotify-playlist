@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-139 songs - 7 hr 20 min
+140 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Journey](https://open.spotify.com/track/5J9uQJFBl1B9rs2NFSR8ng) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Journey](https://open.spotify.com/album/1cg1vzA5QVFBQ73giNEBLZ) | 2:31 | 2022-05-25 |  |
 | [Kokyu](https://open.spotify.com/track/4eVodNiAOrJr4fmTxQ3PDK) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Kokyu](https://open.spotify.com/album/3YVRQ3pYpeyTqZlkQ9g8hZ) | 4:06 | 2022-10-21 |  |
 | [Leaving](https://open.spotify.com/track/1tssW7uMtvpgjdD4bEO5kW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [O B E](https://open.spotify.com/album/5kTgZfxe4yXefwI9Q9Tby5) | 3:58 | 2022-05-25 |  |
+| [Lillie](https://open.spotify.com/track/2eXvqqozCUki1p7L7hV4k3) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Lillie](https://open.spotify.com/album/0czeIb0Z1yrEC1svzBYnxA) | 3:27 | 2023-09-08 |  |
 | [Linden Trees](https://open.spotify.com/track/1akogVH6M2mv6LfHUJjCLz) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Through the Trees](https://open.spotify.com/album/5Ccx70brRfGHXQIfOmEn3Z) | 2:29 | 2022-05-25 |  |
 | [Little Forest](https://open.spotify.com/track/23hjS0VaLqeb4ZU3CcKJPV) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Little Forest](https://open.spotify.com/album/3EsZZo9Cfd9L3bhRk2F9D1) | 2:54 | 2022-05-25 |  |
 | [Looby Loo](https://open.spotify.com/track/16ZfuuiqOKcSli54cM4fU9) | [Natsuo Miyauchi](https://open.spotify.com/artist/5mY65Lrn8IWhyyDWIy7BjF) | [Five Little Speckled Frogs](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:36 | 2022-05-25 |  |
@@ -135,7 +136,7 @@
 | [The Bliss Of Nature](https://open.spotify.com/track/28lD0XCgpWglPM2cuqRTv6) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [The Bliss Of Nature](https://open.spotify.com/album/62xIZlAEHbL6K9x7B1G50A) | 3:26 | 2022-09-02 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-05-25 |  |
 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 | 2022-05-25 |  |
-| [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2022-05-25 |  |
+| [The Mystic](https://open.spotify.com/track/4VRUjbRwcIcYgzQFneOyft) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [The Mystic](https://open.spotify.com/album/4gVE8JNTygjutVCrGgTEPp) | 2:55 | 2022-05-25 | 2023-09-09 |
 | [The Wonder of Nature](https://open.spotify.com/track/5Ib96cyGrJO5UCHepKSwge) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Bridge of Life](https://open.spotify.com/album/4nJofJQsYmbn5Hr4VYhKCU) | 2:54 | 2022-12-30 |  |
 | [Translucent \- Sound Bath](https://open.spotify.com/track/5tEpSsjhDM1YUYDweyDifC) | [Flowing Motion](https://open.spotify.com/artist/0QbsULUz7uLr6JGXyAMIot) | [Translucent \- Sound Bath](https://open.spotify.com/album/2uTOIGnrD5GLz8ejPYdLJC) | 2:39 | 2023-02-24 |  |
 | [Uferlos](https://open.spotify.com/track/1f2o75H7I9RgWzf076ZVzQ) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Uferlos](https://open.spotify.com/album/1zJ3zOQa4YXNn2yf89D0rN) | 3:26 | 2022-05-25 |  |

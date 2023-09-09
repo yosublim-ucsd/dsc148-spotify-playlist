@@ -2,9 +2,9 @@
 
 ### [mandarina](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Dulce y ácido: indie pop latino en estado natural\. Foto: Adrian Bello & Casandra Paz
+> Dulce y ácido: indie pop latino en estado natural\. Foto: Papina de Palma
 
-258 songs - 14 hr 5 min
+259 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Enero](https://open.spotify.com/track/1IUVBjVaK08NIpU0OjRZrF) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [atte\. Celli](https://open.spotify.com/album/3DupetZzSGjEyXBpZno7v3) | 3:08 | 2022-05-20 | 2023-04-15 |
 | [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-04-07 | 2023-06-24 |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-05-26 |  |
-| [Eres](https://open.spotify.com/track/4HWZ7WUCJHXKwtvInX8Ofx) | [Karen Franjola](https://open.spotify.com/artist/3PH36TxbnnpSN9b51PJn5z), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Eres](https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD) | 3:01 | 2023-08-04 |  |
+| [Eres](https://open.spotify.com/track/4HWZ7WUCJHXKwtvInX8Ofx) | [Karen Franjola](https://open.spotify.com/artist/3PH36TxbnnpSN9b51PJn5z), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Eres](https://open.spotify.com/album/2tU4jiKu6yWCq3fnzQyPwD) | 3:01 | 2023-08-04 | 2023-09-09 |
 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 | 2023-04-14 | 2023-06-24 |
 | [febrero](https://open.spotify.com/track/04Iw1lILPMZ2Olx9uaxuS2) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [febrero](https://open.spotify.com/album/2IFtyFe4JwkDAeNskiNKbo) | 3:16 | 2023-06-23 | 2023-08-26 |
 | [Foto](https://open.spotify.com/track/0XZw6eCsnkMNG7JLJ6LN9g) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Foto](https://open.spotify.com/album/7i5y1TOAfdGoj59JLwtliw) | 3:40 | 2023-06-16 | 2023-06-24 |
@@ -195,6 +195,7 @@
 | [Pienso en Ti](https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:07 | 2023-08-18 |  |
 | [Plegarias](https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Reflejos](https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy) | 3:56 | 2023-05-19 | 2023-06-24 |
 | [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-08-04 |  |
+| [Polvo de estrellas](https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Gerardo Nieto](https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2) | [Los Abrazos son Instantes Decisivos Vol\. II](https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL) | 3:44 | 2023-09-08 |  |
 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 | 2023-06-23 |  |
 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 | 2023-07-14 |  |
 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 | 2022-11-11 | 2023-04-15 |

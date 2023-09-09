@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's funk. Cover: Nic Hanson",
-  "num_followers": 310062,
+  "description": "The best of today's funk. Cover: Kossisko",
+  "num_followers": 310198,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODc4MDA3ZDdlMmYwMTc5Njc1OTUzOWUyODg2MmM4OTkzNmQwMzg3",
+  "snapshot_id": "MCxmNDk2YjMyZDlmOTFkYTIyOTcxNDJlZjUyNzU3NDBmZjM4OWU5ZTRl",
   "tracks": [
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Slay",
+        "url": "https://open.spotify.com/album/6tPbp0tT4v9nJ1uBvPWKeW"
+      },
+      "artists": [
+        {
+          "name": "Kossisko",
+          "url": "https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq"
+        }
+      ],
+      "duration_ms": 241902,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/3c0N0LOdtvf2OTj6QHn2J0"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -59,6 +75,26 @@
       "duration_ms": 197098,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Lockstep",
+        "url": "https://open.spotify.com/album/5iH6tJElNHGHMrUEmpgs6j"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        },
+        {
+          "name": "MacKenzie",
+          "url": "https://open.spotify.com/artist/7boixvIKSl9OEnvnsJNws6"
+        }
+      ],
+      "duration_ms": 318725,
+      "name": "Lockstep",
+      "url": "https://open.spotify.com/track/7y6fgrmnX6HF4pbyQugSTQ"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -901,22 +937,6 @@
       "url": "https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "JIGGLE",
-        "url": "https://open.spotify.com/album/1hUVGn4nNmBbgzGpSK67jw"
-      },
-      "artists": [
-        {
-          "name": "G Bliz",
-          "url": "https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "JIGGLE",
-      "url": "https://open.spotify.com/track/3fGwrMBynPk7SVy60Bh6eK"
-    },
-    {
       "added_at": "2022-12-02 05:01:00",
       "album": {
         "name": "Ice & Fire",
@@ -1715,22 +1735,6 @@
       "duration_ms": 217625,
       "name": "Stolen Fruit",
       "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Ghostin'",
-        "url": "https://open.spotify.com/album/2kHG0spSENXM1twe1FW6WM"
-      },
-      "artists": [
-        {
-          "name": "Molly Grace",
-          "url": "https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH"
-        }
-      ],
-      "duration_ms": 159969,
-      "name": "Ghostin'",
-      "url": "https://open.spotify.com/track/3yBvfQM9HUVGUPJpMd0N2b"
     },
     {
       "added_at": "2022-09-23 04:00:00",

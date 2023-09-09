@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-141 songs - 6 hr 37 min
+142 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Like Nobody Else](https://open.spotify.com/track/4poaymEq8m70lsLIHBY0Ja) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/4FUUzbX1zQIRSYE4rcetEV) | 1:40 | 2022-12-09 |  |
 | [Like Nobody Else](https://open.spotify.com/track/7Dyvh9iPegx9fy94brVfdz) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats: Like Nobody Else](https://open.spotify.com/album/2GNSfXk2BurMZgd201FYI1) | 1:40 | 2022-04-15 | 2022-07-29 |
 | [Like This \- Who Where When Song](https://open.spotify.com/track/2z14Jx8XX75RQWImFgS7KB) | [Lingokids](https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O) | [Like This \(Who Where When Song\)](https://open.spotify.com/album/6PkSiM97Oc4ib8EPHil30T) | 2:41 | 2022-04-15 |  |
+| [Like, Magical \- Live](https://open.spotify.com/track/2w8ggQUHKMQzNYI8g8bd1C) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Like, Magical \(Live\)](https://open.spotify.com/album/6nz1xkuZWv8K56hIdOWsek) | 3:08 | 2023-09-08 |  |
 | [Little Bee](https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Bee](https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo) | 3:12 | 2022-04-15 |  |
 | [Long Hot Summer Nights](https://open.spotify.com/track/7sCl3K4yXZL92w8XNFPpfl) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Greg Corneille](https://open.spotify.com/artist/1SjyQMac76iYkEuE5UeLCw) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 3:25 | 2022-04-15 |  |
 | [Look Up! There's a Rainbow!](https://open.spotify.com/track/0lSQ1XbRZrvlYo7XvrIYJ2) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Swimming \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/1GxtdUkKs1RA07jxn0irO7) | 2:04 | 2023-06-02 |  |

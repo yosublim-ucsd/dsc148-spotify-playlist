@@ -2,9 +2,9 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los del Portezuelo, Flor Paz & Francisco Benitez.
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis & Cantores del Monte
 
-152 songs - 8 hr 27 min
+153 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Navidad y Año Nuevo](https://open.spotify.com/track/60SbkLG67htrmPIUDWv68D) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Navidad y Año Nuevo](https://open.spotify.com/album/1HRNGUWQDfazHryTekdgpN) | 2:24 | 2021-12-31 | 2022-07-02 |
 | [No Somos Nada](https://open.spotify.com/track/7JAven4KfvzBPbKyxE99OJ) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/39j7YWFfBTmt99FUy55DRs) | 3:17 | 2022-09-30 | 2022-10-21 |
 | [No Somos Nada](https://open.spotify.com/track/7dz5falT5ubzi6zp4JKcBO) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/7coKEyXcZyT853mG0S4Bad) | 3:17 | 2022-11-04 | 2022-11-13 |
-| [No Somos Nada](https://open.spotify.com/track/0RPBYkItMt1otL1Llu5UHv) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/6QpqXyvCMqNHwXM4B840O2) | 3:18 | 2022-10-07 |  |
+| [No Somos Nada](https://open.spotify.com/track/0RPBYkItMt1otL1Llu5UHv) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/6QpqXyvCMqNHwXM4B840O2) | 3:18 | 2022-10-07 | 2023-09-09 |
 | [No Somos Nada](https://open.spotify.com/track/7b4nKzpEOc1Yc4gntR7FVA) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Hijos de la Tierra](https://open.spotify.com/album/2ekliaSLvcZmPGWEg56w3B) | 3:18 | 2022-10-07 | 2022-10-28 |
 | [No Te Vayas Carnaval](https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Jorge Rojas](https://open.spotify.com/album/4Zu0dRK3MZLBOdKr5cM70J) | 4:00 | 2021-12-31 |  |
 | [Noctilucado](https://open.spotify.com/track/4kuKfS9nCQf5TyCGCFmQYm) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Noctilucado](https://open.spotify.com/album/7crNDxDK2sO3bp9hs1JTxw) | 2:45 | 2021-12-31 | 2022-05-14 |
@@ -155,6 +155,7 @@
 | [Volver a Tilcara](https://open.spotify.com/track/1Ab4W9QwZf30bFMsiH3RpM) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Volver](https://open.spotify.com/album/64kjdSVZf0RDPJrv73sCpW) | 4:57 | 2021-12-31 | 2022-07-29 |
 | [Volver a Verte](https://open.spotify.com/track/5OP2PMkXcIIbEzztGKPYve) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 2:23 | 2021-12-31 |  |
 | [Vuelve La Llama](https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Vuelve La Llama](https://open.spotify.com/album/79mwd2rHekN02U2DuS4tJ0) | 1:59 | 2022-10-07 | 2023-09-02 |
+| [Y Se Ha Perdido](https://open.spotify.com/track/0ofyerWCBNnE5BII7nT0uu) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Cantores del Monte](https://open.spotify.com/artist/2bsUgT4yRno4ieeZdDs0ol), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3), [Christian Herrera y Matacos](https://open.spotify.com/artist/2TcOOjVN4yyZhYxdSlL2WD), [Lázaro Caballero](https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc) | [Y Se Ha Perdido](https://open.spotify.com/album/2quBmfr36G3FvWHFVGSv4i) | 3:23 | 2023-09-08 |  |
 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo Seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 | 2021-12-31 | 2023-07-15 |
 | [Yo Soy](https://open.spotify.com/track/0JRPALRWpLmVif7MafmBja) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Yo Soy](https://open.spotify.com/album/7pcf9UsIsZWSQqSVMf4t6C) | 2:41 | 2022-02-18 |  |
 | [Zamba de los yuyos](https://open.spotify.com/track/7ipuwOjqoLy5hyAEGSMZj5) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Zamba de los yuyos](https://open.spotify.com/album/6s7uk19jxa0drzsviWj3ih) | 4:16 | 2022-11-11 |  |

@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: James Blake
 
-371 songs - 1 day 3 hr 20 min
+373 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [Take It](https://open.spotify.com/track/1sAZGCJEM8X7HeA93T7DcA) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Take It](https://open.spotify.com/album/4AWaBv2m15Ax6PC9qsCb9U) | 5:27 | 2023-08-11 |  |
 | [tarde](https://open.spotify.com/track/5LrkoYgRaJlKpTQdo2E53X) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [tarde](https://open.spotify.com/album/0TxChFGfPF0i3lieCwXCVI) | 5:33 | 2023-03-16 | 2023-03-21 |
 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-11 |  |
-| [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 |  |
+| [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-07 |  |
+| [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-07 | 2023-09-09 |
 | [That's Right](https://open.spotify.com/track/7HtVDJEOCwT5sdVQnets6A) | [Shunichi Komazu](https://open.spotify.com/artist/12pmBFJ1S6dxyClYKSsusN), [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Zoe](https://open.spotify.com/artist/3BORdvvXzwjXCTGMztDqRY) | [That's Right](https://open.spotify.com/album/4KgNH3vjiuiyJuNXqGMTji) | 2:39 | 2023-04-27 | 2023-06-09 |
 | [The Answer \- Session Victim Remix](https://open.spotify.com/track/5K6M8FmreKwexv9mr81U8Z) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Krewcial](https://open.spotify.com/artist/7ilTDcIhOJ4YAPcDgZLad1), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Answer \(Session Victim Remix\)](https://open.spotify.com/album/4JJGlZtYQGvg3X9GAYo6W3) | 6:25 | 2023-06-29 |  |
 | [The Limit](https://open.spotify.com/track/5z6dgJF0CHLk06CJpjxCXb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [tibasko](https://open.spotify.com/album/3PlPv5OzpGsqBpjtFB38U9) | 2:53 | 2023-03-16 | 2023-04-09 |
@@ -375,6 +376,7 @@
 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 | 2023-03-16 | 2023-05-12 |
 | [Y'all Ready For Dis](https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Y'all Ready For Dis](https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv) | 3:17 | 2023-06-09 | 2023-08-25 |
 | [YAZAWA](https://open.spotify.com/track/4IV0yAxtWiRmaYxQvhmoCQ) | [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [YAZAWA](https://open.spotify.com/album/3UgxmPCV4KCWHlqZxQuFhi) | 2:30 | 2023-03-16 | 2023-07-28 |
+| [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 | 2023-09-07 |  |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-03-16 | 2023-05-12 |
 | [You \- Edit](https://open.spotify.com/track/6sHAIXsj6mBA9r8u43Xhkk) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/2gdiubN0Dd0Mk9qkjz8oUa) | 3:58 | 2023-03-16 | 2023-04-09 |
 | [✨ mum is calling ✨](https://open.spotify.com/track/27fusRmYpex94O3REevU1F) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4rT7zzBMEzrHJ0i7X81Rdv) | 3:18 | 2023-03-30 | 2023-07-14 |

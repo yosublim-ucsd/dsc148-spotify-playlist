@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 5799,
+  "num_followers": 5822,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGU2MmVmZGJiZmY2ZWI2N2EwZDljYjc4OTYwNDcyNDY5YjYyNWMy",
+  "snapshot_id": "MCxhZDNjNTEzN2Y5YjJkZjFlYjFkM2NjZmQ3ODFiM2IxOTczNGYzOTEz",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Void VIII",
-        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Tomorrow Was the Golden Age",
         "url": "https://open.spotify.com/album/37FqMp9hRz4bgkvp3x0Tz3"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 355523,
       "name": "TWTGA",
       "url": "https://open.spotify.com/track/1iVAwCYuzG82TcremyxhCf"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Void VIII",
+        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Before Meaning Comes",
-      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Atomos",
         "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Magic Place",
-        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Cloak",
-      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
+      "duration_ms": 192559,
+      "name": "Before Meaning Comes",
+      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -975,6 +959,22 @@
       "duration_ms": 435722,
       "name": "Eye on the Sparrow",
       "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Magic Place",
+        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cloak",
+      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "S\u00f3laris",
         "url": "https://open.spotify.com/album/1ZdCibjLTQFL9SULO8Lfk9"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 249700,
       "name": "Narkopop 4",
       "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Low Distance",
-        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 227458,
-      "name": "Faded Earth",
-      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Loom Dream",
         "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 455925,
       "name": "Mimosa",
       "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Low Distance",
+        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 227458,
+      "name": "Faded Earth",
+      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 134382,
-      "name": "Bridgets' Theme",
-      "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "chapter",
         "url": "https://open.spotify.com/album/6ngt1QPHyq3rCaYdffI03e"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 287843,
       "name": "soft rime",
       "url": "https://open.spotify.com/track/5ueoXRkvTrIq9rGYCGRdwu"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 134382,
+      "name": "Bridgets' Theme",
+      "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 962000,
       "name": "The Last of Our Time Together",
       "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
       },
       "artists": [
         {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 106643,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
         }
       ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
+      "duration_ms": 106643,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
     },
     {
       "added_at": "2023-06-07 15:21:34",

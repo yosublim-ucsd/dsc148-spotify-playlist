@@ -2,9 +2,9 @@
 
 ### [Ska Around The Globe](https://open.spotify.com/playlist/37i9dQZF1DX4mnAzYEyRVc)
 
-> The world series of Ska\. Cover: Ska\-P
+> The world series of Ska\. Cover: Out Of Control Army
 
-547 songs - 1 day 7 hr 38 min
+549 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,8 +118,9 @@
 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 | 2021-12-06 |  |
 | [Dia Seguinte](https://open.spotify.com/track/5UOQw5b2rvKBmDfkFSIauk) | [Guantas](https://open.spotify.com/artist/3p50dE2v8qcMvPXjzAKUXf) | [Guantas](https://open.spotify.com/album/1zSGiGOccDEpWDjpC2bzsb) | 3:49 | 2021-12-06 | 2022-07-25 |
 | [Doin' What We Do](https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Doin' What We Do](https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf) | 3:04 | 2023-09-01 |  |
+| [Dolce far niente](https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Dolce far niente](https://open.spotify.com/album/3eijO45zq05msPm09WUErh) | 2:55 | 2023-09-08 |  |
 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2021-12-06 | 2023-04-22 |
-| [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 |  |
+| [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 | 2023-09-09 |
 | [Donde Quedó el Amor](https://open.spotify.com/track/0ISnnP3lKhl7IJvtlpyzY9) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Skaparate Fest, Vol\. 2](https://open.spotify.com/album/5ZoxGJIU4fn6F1gGlHZwOi) | 3:11 | 2021-12-06 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 | 2021-12-06 | 2023-04-22 |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-12-06 | 2023-04-22 |
@@ -283,7 +284,7 @@
 | [Mount Zion](https://open.spotify.com/track/3dRQPqMedGjXD2uc4N1f09) | [Ska Beat City](https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o), [Chris Murray](https://open.spotify.com/artist/5lHb57DpHI6R6pp81EyvPP) | [Mount Zion](https://open.spotify.com/album/42AWslKJIydPhSUaxpScVH) | 2:46 | 2022-04-22 | 2023-03-18 |
 | [Mr\. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude \(2010 Re\-Issue\)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 2:46 | 2021-12-06 | 2023-04-22 |
 | [Mr\. Smiley](https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude](https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN) | 2:46 | 2021-12-06 | 2022-07-29 |
-| [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 | 2023-04-21 |  |
+| [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 | 2023-04-21 | 2023-09-09 |
 | [Mueve Tus Pies](https://open.spotify.com/track/5EzR54EvrT5rPi92dFgDSD) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Negros Vivos](https://open.spotify.com/album/7doeT6echA7CrBFaym6x41) | 3:13 | 2021-12-06 | 2022-07-29 |
 | [Murdera](https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 4:26 | 2021-12-06 | 2023-04-22 |
 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 | 2023-04-14 | 2023-07-08 |
@@ -530,6 +531,7 @@
 | [We Don't Know What Ska Is](https://open.spotify.com/track/7t8jTSvgSUoW0WxNGopuPG) | [Olegun Gobs](https://open.spotify.com/artist/1exn3VdbmeRkCLjydULpVN) | [We Don't Know What Ska Is](https://open.spotify.com/album/3GEEvSTwVdb2GzlUryukqR) | 3:38 | 2021-12-06 | 2022-07-13 |
 | [We're All Fruit Salad!](https://open.spotify.com/track/3n78qHQ2OVUU5ywVHJjysb) | [Melbourne Ska Orchestra](https://open.spotify.com/artist/6KsmIk2QdDd4xNazeITmRB) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 4:18 | 2022-04-19 | 2022-07-27 |
 | [What Did I Miss?](https://open.spotify.com/track/0eBGdQjZW6uP9WfGYutw2S) | [Ed Rome](https://open.spotify.com/artist/7LAxQmb2x5ZXVLn0pEbPH4) | [Unsubscribe](https://open.spotify.com/album/1M96XanWYvRz20iAaUjM4T) | 2:45 | 2023-07-07 | 2023-07-15 |
+| [Where Did All My Friends Go?](https://open.spotify.com/track/1m0O9m6wakF6sC7pbiLBMp) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Where Did All My Friends Go?](https://open.spotify.com/album/5jLxoBgeVzZNrQeFWnJNBd) | 3:50 | 2023-09-08 |  |
 | [Why Won't You Call Me Back](https://open.spotify.com/track/2DsjgWKl0pyoMY3VJcLfSZ) | [The Hooters](https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1) | [Why Won't You Call Me Back](https://open.spotify.com/album/5iGYeiP8EVH3mUpPVqH8fE) | 3:48 | 2023-05-05 | 2023-06-10 |
 | [With You](https://open.spotify.com/track/5Nyb7h0LAxXqkqqhbCsaz0) | [ScimmiaSka](https://open.spotify.com/artist/4KTPgixuIEKd0kvsAHRQFg) | [You Dance With Me](https://open.spotify.com/album/6zOFEgdYn5qdZ5f9WyRapu) | 3:36 | 2021-12-06 | 2023-04-22 |
 | [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 | 2021-12-06 |  |

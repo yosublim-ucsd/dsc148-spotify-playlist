@@ -2,7 +2,7 @@
 
 ### [I Love My West Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DX9sQDbOMReFI)
 
-> The best side! Cover: NWA
+> The best side! Cover: Coolio
 
 128 songs - 9 hr 31 min
 
@@ -49,7 +49,7 @@
 | [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH) | 4:52 | 2020-05-04 | 2022-07-28 |
 | [G'd Up](https://open.spotify.com/track/1zIXpzuCC7FM4kECt2eEzu) | [Tha Eastsidaz](https://open.spotify.com/artist/51FyBBOW464toW099BsW8z), [Butch Cassidy](https://open.spotify.com/artist/3uISNNuONokIh21KiNharS) | [Snoop Dogg Presents Tha Eastsidaz](https://open.spotify.com/album/3xazCuE8vBmfptpeX0OkXs) | 4:33 | 2021-08-27 | 2022-02-12 |
 | [Gangsta Nation](https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf) | [Westside Connection](https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt) | [Terrorist Threats](https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB) | 4:53 | 2021-08-27 | 2022-02-12 |
-| [Gangsta's Paradise \- Rerecorded](https://open.spotify.com/track/18kwQvQ49ORXsoVFvOUGT3) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [Greatest Hits](https://open.spotify.com/album/7BeDynSPyJdyQ5JCYHpXal) | 4:03 | 2022-02-11 | 2022-10-23 |
+| [Gangsta's Paradise \- Rerecorded](https://open.spotify.com/track/18kwQvQ49ORXsoVFvOUGT3) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [Greatest Hits](https://open.spotify.com/album/7BeDynSPyJdyQ5JCYHpXal) | 4:03 | 2022-02-11 |  |
 | [Gettin' It \(feat\. Parliament Funkadelic\)](https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Parliament Funkadelic](https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E) | [Gettin' It \(Album Number Ten\)](https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH) | 5:41 | 2021-08-27 |  |
 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 | 2020-05-04 | 2023-03-11 |
 | [Gin and Juice](https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:31 | 2023-03-10 |  |
@@ -102,7 +102,7 @@
 | [Passin' Me By](https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 | 2020-05-04 |  |
 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 | 2021-08-27 | 2023-07-04 |
 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 | 2021-08-27 |  |
-| [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 | 2021-08-27 |  |
+| [Played Like A Piano](https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP) | [King Tee](https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Breeze](https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp) | [At Your Own Risk](https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt) | 4:59 | 2021-08-27 | 2023-09-09 |
 | [Real Muthaphuckkin' G's](https://open.spotify.com/track/53BZ6XygAoubR5DU5w38Vq) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Gangsta Memorial](https://open.spotify.com/album/63e4jpPrJzjGsTxM4QOOFb) | 5:32 | 2022-01-29 |  |
 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 | 2020-05-04 |  |
 | [Rigamortus](https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:48 | 2021-07-02 | 2022-01-27 |

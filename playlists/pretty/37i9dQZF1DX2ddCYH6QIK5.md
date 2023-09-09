@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: SMILE, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,622 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,632 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 |
 | 80 | [I Don't Like London](https://open.spotify.com/track/2vPTshC5WASIhCUwJhmPU9) | [Erik Peers](https://open.spotify.com/artist/5cEMUiJDC4B0MxJoa0X92G) | [I Don't Like London](https://open.spotify.com/album/2mWM6oeN4gqM9vQEgaSA49) | 3:10 |
 
-Snapshot ID: `MCw4YTI2MThkNDA5MTA5NWZlNWJlOTA3NjEyNjA0NThmNWNhNjUyODI4`
+Snapshot ID: `MCw1Y2MwOGY5MDBiYjYxNDNhZmM5OGZhMDg1ODYxZDlhZTMzZWM3NzYz`

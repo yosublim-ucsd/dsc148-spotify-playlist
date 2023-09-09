@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-199 songs - 12 hr 56 min
+200 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [I just need U.](https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Elements](https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM) | 3:43 | 2022-07-01 |  |
 | [I Know You Better](https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [I Know You Better](https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm) | 6:20 | 2022-03-11 |  |
 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 | 2022-02-17 | 2022-08-27 |
+| [I Speak Jesus](https://open.spotify.com/track/29XwTIdOFLnQoU3KfMt5Jh) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [I Speak Jesus](https://open.spotify.com/album/2ISEjONNCTvcbD6zhrozzy) | 4:49 | 2023-09-08 |  |
 | [I Will Worship](https://open.spotify.com/track/3c9VN31K4tglWcw5p1TMFa) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [I Will Worship](https://open.spotify.com/album/1Yzm9l3a0c46rVo3lRR2r1) | 3:52 | 2022-09-09 |  |
 | [I'm Not Alone](https://open.spotify.com/track/6XvkzgxSEFINkliWpjtObE) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [I'm Not Alone](https://open.spotify.com/album/72rnpHXs1MTzisLSxmGvlb) | 4:08 | 2022-02-17 | 2022-08-27 |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2022-02-17 | 2022-08-27 |

@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t"
+      },
+      "artists": [
+        {
+          "name": "GAIKA",
+          "url": "https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207808,
+      "name": "DRIFT ON",
+      "url": "https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L"
+    },
+    {
+      "album": {
         "name": "Heavy Heavy",
         "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
       },
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 265525,
       "name": "SUBLIME",
       "url": "https://open.spotify.com/track/5CKCRFfzvDZLGAJVMvb4o0"

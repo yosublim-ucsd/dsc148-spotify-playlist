@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-254 songs - 16 hr 16 min
+256 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Gentle on My Mind](https://open.spotify.com/track/6XSXcrTzgowqsQo3AioT9o) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Shine a Light: Field Recordings from the Great American Railroad](https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz) | 3:39 | 2022-06-03 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-06-03 | 2023-05-13 |
 | [Gentle On My Mind](https://open.spotify.com/track/6zq5dLGKdvGoXn9FUvcJLC) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/7HLNwzaYWBgg9ttk1P7LyP) | 4:05 | 2021-12-13 | 2022-07-29 |
-| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 |  |
+| [Girl From The North Country](https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 4:00 | 2021-12-13 | 2023-09-09 |
 | [Go Your Own Way](https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered up with Flowers](https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us) | 3:34 | 2022-06-03 |  |
 | [Go Your Own Way](https://open.spotify.com/track/3mxxAmuF5mRj3y6hoOaWnE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Covered Up With Flowers](https://open.spotify.com/album/7tWPIz3f0HUGmzZlCDxqLh) | 3:34 | 2022-01-21 | 2022-06-25 |
 | [God Only Knows](https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [God Only Knows](https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0) | 3:14 | 2021-12-13 | 2022-07-29 |
@@ -149,8 +149,9 @@
 | [just like heaven](https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside bonus tracks](https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0) | 3:24 | 2022-06-03 |  |
 | [just like heaven](https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [just like heaven](https://open.spotify.com/album/0RbMCFvFu5OW5trV4Ga7m8) | 3:24 | 2022-05-13 | 2022-07-29 |
 | [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4QDMaFh7BpJFE6uL4dBIgN) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU) | 3:54 | 2022-06-03 | 2023-04-29 |
-| [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-06-02 |  |
+| [Lakes of Pontchartrain \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/67YZQnmSSm60QFMpI0SIlV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/0hrz3cyWU6nXSVihQi4ew9) | 3:54 | 2023-06-02 | 2023-09-09 |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-12-13 | 2022-07-29 |
+| [Late Night Talking](https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Late Night Talking](https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l) | 3:15 | 2023-09-08 |  |
 | [Leaving on a Jet Plane](https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute to John Denver](https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2) | 3:56 | 2022-10-14 | 2023-06-25 |
 | [Leaving On A Jet Plane](https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute To John Denver](https://open.spotify.com/album/1DaPfLzGwKVRhqtE4uxpQ5) | 3:56 | 2021-12-13 | 2022-07-29 |
 | [Let Down](https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Let Down](https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP) | 3:57 | 2023-01-20 |  |
@@ -199,6 +200,7 @@
 | [Someone Like You](https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Someone Like You](https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb) | 4:51 | 2021-12-13 | 2022-07-28 |
 | [Something](https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Something](https://open.spotify.com/album/4orDzkPsSJkrAilIccQasl) | 2:22 | 2021-12-13 | 2023-05-21 |
 | [Something About What Happens When We Talk](https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Something About What Happens When We Talk](https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3) | 3:40 | 2022-08-26 |  |
+| [Space and Time](https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:42 | 2023-09-08 |  |
 | [Sparks](https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Sparks](https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG) | 3:38 | 2023-06-02 |  |
 | [Square One](https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Square One](https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8) | 3:06 | 2021-12-13 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-01-21 |  |

@@ -6675,6 +6675,24 @@
     },
     {
       "album": {
+        "name": "Purpose",
+        "url": "https://open.spotify.com/album/3zijoODXuW8hD2RtjOPeLA"
+      },
+      "artists": [
+        {
+          "name": "ABSTRCT",
+          "url": "https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/3X1Wk6lJwLHGUH7tCxtfUP"
+    },
+    {
+      "album": {
         "name": "Lunisolar",
         "url": "https://open.spotify.com/album/2p7eKKYduvvk9Q3XpN44xY"
       },
@@ -6960,6 +6978,24 @@
       "duration_ms": 171137,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
+    },
+    {
+      "album": {
+        "name": "Retrocation",
+        "url": "https://open.spotify.com/album/3ke0nq3r9CGpGVVZAAeEik"
+      },
+      "artists": [
+        {
+          "name": "ELRY",
+          "url": "https://open.spotify.com/artist/5LLikEV14ip9GPnrmbUQMU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141467,
+      "name": "Retrocation",
+      "url": "https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF"
     },
     {
       "album": {
@@ -8478,6 +8514,24 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "album": {
+        "name": "sunshiny",
+        "url": "https://open.spotify.com/album/2nA7bZJ48DbMPuaOmv75Yk"
+      },
+      "artists": [
+        {
+          "name": "longwayfromhome",
+          "url": "https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172056,
+      "name": "sunshiny",
+      "url": "https://open.spotify.com/track/3NrOcJP5RfXzOQh37cKUfj"
     },
     {
       "album": {
@@ -10022,6 +10076,24 @@
       "duration_ms": 427749,
       "name": "Yefja",
       "url": "https://open.spotify.com/track/1nJwqD7S0yVMNWrjzyUBV8"
+    },
+    {
+      "album": {
+        "name": "Yelp Of Joy",
+        "url": "https://open.spotify.com/album/50VFB0XSRP85RdPka3azvq"
+      },
+      "artists": [
+        {
+          "name": "bombergirl",
+          "url": "https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166496,
+      "name": "Yelp Of Joy",
+      "url": "https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w"
     },
     {
       "album": {

@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Like, Magical (Live)",
+        "url": "https://open.spotify.com/album/6nz1xkuZWv8K56hIdOWsek"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188927,
+      "name": "Like, Magical - Live",
+      "url": "https://open.spotify.com/track/2w8ggQUHKMQzNYI8g8bd1C"
+    },
+    {
+      "album": {
         "name": "Little Bee",
         "url": "https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo"
       },

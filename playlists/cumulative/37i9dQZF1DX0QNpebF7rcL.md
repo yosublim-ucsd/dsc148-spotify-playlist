@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-309 songs - 20 hr 44 min
+311 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [American Dream](https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp) | [Darryl Jones](https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8) | [American Dream](https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA) | 4:11 | 2022-10-28 |  |
 | [Anemouhagh](https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Fats Kaplin](https://open.spotify.com/artist/5AzDLOaBZOw8YvHyMuGt69) | [Anemouhagh](https://open.spotify.com/album/663ElbBp2yIaQQZXoU3Ajy) | 3:44 | 2023-05-12 |  |
 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 | 2021-10-15 | 2023-06-17 |
+| [Animal In Me](https://open.spotify.com/track/0FIeSr04FRgHFAQsDDlaqo) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Animal In Me](https://open.spotify.com/album/7DGUiEkagecwFnpucvxKAj) | 2:54 | 2023-09-08 |  |
 | [As The Crow Flies](https://open.spotify.com/track/4RYAAiseMDi3NlWooNNdIz) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Open Road](https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV) | 4:25 | 2021-11-05 | 2023-08-05 |
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-02-25 | 2022-05-28 |
 | [Bad Man](https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Bad Man](https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg) | 4:39 | 2022-03-25 |  |
@@ -115,6 +116,7 @@
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 |  |
 | [Homemade Disaster](https://open.spotify.com/track/4k4JY0DFEustCvGDCs0Ur7) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Homemade Disaster](https://open.spotify.com/album/4JoSX9ytrWjExenqs4yWrp) | 3:14 | 2020-12-14 | 2022-02-26 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 | 2022-02-26 |
+| [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 | 2023-09-08 |  |
 | [How Long](https://open.spotify.com/track/0uCmTNcj7GeDa1APYV4j3o) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [How Long](https://open.spotify.com/album/3fdrd58psynyIu5px6Cw1I) | 3:31 | 2021-03-26 | 2022-04-23 |
 | [Hungry and Ready \(feat\. Melvin Taylor\)](https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Melvin Taylor](https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10) | [The Sun is Shining Down](https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt) | 5:00 | 2022-01-28 |  |
 | [Hush Money](https://open.spotify.com/track/3GyqRIWdigKoHOpkPXXEra) | [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Raisin' Cain](https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY) | 4:14 | 2021-04-09 | 2022-04-23 |
@@ -155,7 +157,7 @@
 | [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 | 2022-04-08 |  |
 | [Last One To Know](https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Ice Cream In Hell](https://open.spotify.com/album/6dopecoqDNzo58krvM3NO4) | 4:44 | 2020-12-14 | 2022-02-26 |
 | [Last Time](https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Last Time](https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze) | 2:31 | 2023-05-12 |  |
-| [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-11 |  |
+| [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-11 | 2023-09-09 |
 | [Leave Me Alone](https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Leave Me Alone](https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB) | 4:38 | 2021-12-10 | 2022-04-23 |
 | [Livin' for the Ones](https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Livin' for the Ones](https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7) | 3:04 | 2022-04-22 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-03-18 | 2022-05-28 |
@@ -210,7 +212,7 @@
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-25 | 2023-08-26 |
 | [Right Down The Drain](https://open.spotify.com/track/7uFtKBQLQFwkuS6BxzW1lQ) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:59 | 2022-01-21 |  |
 | [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 | 2022-03-18 |  |
-| [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 | 2023-06-16 |  |
+| [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 | 2023-06-16 | 2023-09-09 |
 | [Risin' Up](https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Ready Now](https://open.spotify.com/album/6kpBj0DkFrvabc4ffDjm3U) | 5:02 | 2022-09-16 |  |
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
 | [Safari](https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Safari](https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW) | 5:48 | 2023-01-13 | 2023-03-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Trueno y Cypress Hill en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Bipo Montana, McKlopedia y Nanpa B\u00e1sico en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 164092,
       "name": "100 TRACKS",
       "url": "https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 233000,
       "name": "A 120",
       "url": "https://open.spotify.com/track/5UaxYPAJvLc5uuV9sbTZjP"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 176629,
       "name": "BIEN O MAL",
       "url": "https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB"
@@ -820,6 +820,28 @@
       "duration_ms": 197915,
       "name": "Bitman Shiet",
       "url": "https://open.spotify.com/track/3A1rpugzLtrJ93vpXRyy7Y"
+    },
+    {
+      "album": {
+        "name": "Boombarrio (Remake)",
+        "url": "https://open.spotify.com/album/1SWXIsbnLqz8el1H8nkXfO"
+      },
+      "artists": [
+        {
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Coro Infanto Juvenil",
+          "url": "https://open.spotify.com/artist/2tGOHXAMOx2bsUEwaknr4G"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Boombarrio - Remake",
+      "url": "https://open.spotify.com/track/2AyhvBf16vNzc9FPu3wPij"
     },
     {
       "album": {
@@ -986,6 +1008,24 @@
       "duration_ms": 192000,
       "name": "Chambean",
       "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
+    },
+    {
+      "album": {
+        "name": "CIEN SHOWS",
+        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "CIEN SHOWS",
+      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
     },
     {
       "album": {
@@ -1457,6 +1497,32 @@
     },
     {
       "album": {
+        "name": "El Ayer",
+        "url": "https://open.spotify.com/album/3wb8JOh65W2vQ2Ubv7B4Ms"
+      },
+      "artists": [
+        {
+          "name": "Realidad Mental",
+          "url": "https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "El Ayer",
+      "url": "https://open.spotify.com/track/3vxpy2vOzLtCjx82CoWte6"
+    },
+    {
+      "album": {
         "name": "El Mundo Es M\u00edo",
         "url": "https://open.spotify.com/album/7hTv5dTeDCWavviOKakPrT"
       },
@@ -1746,6 +1812,24 @@
       "duration_ms": 207637,
       "name": "Fly",
       "url": "https://open.spotify.com/track/1h0HwPZPmXruxfzZuEwi7G"
+    },
+    {
+      "album": {
+        "name": "Ecolocalizaci\u00f3n",
+        "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
+      },
+      "artists": [
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116102,
+      "name": "Freud",
+      "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
     },
     {
       "album": {
@@ -4222,7 +4306,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 237500,
       "name": "Te Escondes",
       "url": "https://open.spotify.com/track/7qpV9Ot7eEtfKky1FI2yNY"

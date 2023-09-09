@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,392 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,389 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 49 | [Special Delivery](https://open.spotify.com/track/6YwqfLLJVipwMZoFxhFpNq) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Special Delivery](https://open.spotify.com/album/0R8MTkNTCXHFFXYu8awNfq) | 1:42 |
 | 50 | [Whine Up \(feat\. Elephant Man\) \- English Version](https://open.spotify.com/track/7L1zJMkc9Ho7Ox0uSFC9TL) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Whine Up \(feat\. Elephant Man\) \[English Version\]](https://open.spotify.com/album/0VFNKCeUyetANvSnS5KLQe) | 3:23 |
 
-Snapshot ID: `MCxjMTg1ZGQ3Njk5YTIzYTIyNmZlMjlmNmQxNWM0MjYyM2M3MTcwZjI2`
+Snapshot ID: `MCwzMDZhMTgxY2NkYTBhNmJjZWU5MjcyMmVjZmE1MzcwMzM3ZjFhMTQw`

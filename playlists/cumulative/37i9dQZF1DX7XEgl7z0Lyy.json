@@ -107,6 +107,32 @@
     },
     {
       "album": {
+        "name": "6izarre RAVE (with 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "Pixel Hood",
+          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "6izarre RAVE (with 6arelyhuman)",
+      "url": "https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT"
+    },
+    {
+      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5"
       },
@@ -188,6 +214,24 @@
       "duration_ms": 61300,
       "name": "bandz in my poccket",
       "url": "https://open.spotify.com/track/6D9pELc0TWsCgxVxqhpmkR"
+    },
+    {
+      "album": {
+        "name": "Blow Up!",
+        "url": "https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150965,
+      "name": "Blow Up!",
+      "url": "https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL"
     },
     {
       "album": {
@@ -540,7 +584,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 135160,
       "name": "Hands up!",
       "url": "https://open.spotify.com/track/0Vqaw7CxyURWaRI9gNJthb"
@@ -769,6 +813,28 @@
     },
     {
       "album": {
+        "name": "KNOW WHAT YOU WANT",
+        "url": "https://open.spotify.com/album/6opVAqg6oX15LDGKoa4Yh4"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142660,
+      "name": "KNOW WHAT YOU WANT",
+      "url": "https://open.spotify.com/track/6fSaAUqapniPZmOBiFPCaG"
+    },
+    {
+      "album": {
         "name": "Kurxxed Emeraldz",
         "url": "https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy"
       },
@@ -868,6 +934,28 @@
       "duration_ms": 121734,
       "name": "LET ME SEE YA MOVE!",
       "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
+    },
+    {
+      "album": {
+        "name": "let's get paid!",
+        "url": "https://open.spotify.com/album/3DT2GwPBHlcdQMTgHkqbyw"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102860,
+      "name": "let's get paid!",
+      "url": "https://open.spotify.com/track/3uMDzjC36gRF3zWbxAc705"
     },
     {
       "album": {
@@ -1094,6 +1182,28 @@
       "duration_ms": 80377,
       "name": "OK WE SININ",
       "url": "https://open.spotify.com/track/3chuJrGz159KoAJ7wbDuGI"
+    },
+    {
+      "album": {
+        "name": "ON THE FLOOR!",
+        "url": "https://open.spotify.com/album/4Xbo3AY9xw4yTi1OpFXQDI"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119895,
+      "name": "ON THE FLOOR",
+      "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
     },
     {
       "album": {

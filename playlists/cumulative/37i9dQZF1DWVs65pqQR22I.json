@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Deep Slumber Black Noise",
+        "url": "https://open.spotify.com/album/7oBB1YbLWa6wZ4SNzhYvEF"
+      },
+      "artists": [
+        {
+          "name": "ASMR Mateo",
+          "url": "https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Deep Slumber Black Noise",
+      "url": "https://open.spotify.com/track/04ZrTWMreXX745Z72CuLdL"
+    },
+    {
+      "album": {
         "name": "Black Noise Universe",
         "url": "https://open.spotify.com/album/1C54Fxxd49QProMvtY6Xhq"
       },
@@ -2011,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Deep Slumber Black Noise",
+        "url": "https://open.spotify.com/album/7oBB1YbLWa6wZ4SNzhYvEF"
+      },
+      "artists": [
+        {
+          "name": "ASMR Mateo",
+          "url": "https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Low Distant Black Noise",
+      "url": "https://open.spotify.com/track/6Chi77pc8jH7XrjbETSW6K"
+    },
+    {
+      "album": {
         "name": "Soothing Black Noise",
         "url": "https://open.spotify.com/album/47H3tArlJPjYiIAW7qjwFc"
       },
@@ -2340,7 +2376,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 152082,
       "name": "Relaxing Black Noise Sounds",
       "url": "https://open.spotify.com/track/4xOcZ6xjUvjpmNOUwPYx4t"
@@ -2376,7 +2412,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 151250,
       "name": "Rested With Black Noise",
       "url": "https://open.spotify.com/track/5QubAzZM2TGhW4i85WzsWQ"
@@ -3122,7 +3158,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 123386,
       "name": "Waves & Black Noise",
       "url": "https://open.spotify.com/track/5O4m5I5fPIZLwjOPpqZKi2"

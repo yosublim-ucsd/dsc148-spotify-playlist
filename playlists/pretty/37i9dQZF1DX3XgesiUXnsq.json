@@ -1,12 +1,12 @@
 {
-  "description": "Damn son, where'd ya find this? Cover: Earl Sweatshirt",
-  "num_followers": 277593,
+  "description": "Damn son, where'd ya find this? Cover: Nas",
+  "num_followers": 277760,
   "original_name": "Raw & Uncut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmJhOWUxZGI5ZDdmZGU3ZTE4Yjk0MjQzNWNkOTNkYzhiNDU1Mjg1",
+  "snapshot_id": "MCw2MzkwNmNiMmY3NjZjMWFhNjVhZDBlYTRlMTQwZjgwZDgzMWJmNzA2",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -353,6 +353,30 @@
       "url": "https://open.spotify.com/track/0WTsFSArACKkIUmJrqX8FB"
     },
     {
+      "added_at": "2023-09-08 04:44:06",
+      "album": {
+        "name": "Sardines",
+        "url": "https://open.spotify.com/album/7Dy3CVigHGifPEHkAbMbaD"
+      },
+      "artists": [
+        {
+          "name": "Apollo Brown",
+          "url": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+        },
+        {
+          "name": "Planet Asia",
+          "url": "https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo"
+        },
+        {
+          "name": "Tri-State",
+          "url": "https://open.spotify.com/artist/01Hb5Bz8ljvh8LE8EjRkhP"
+        }
+      ],
+      "duration_ms": 212418,
+      "name": "Wizardry (feat. TriState)",
+      "url": "https://open.spotify.com/track/2OfPxzSe8hh277FG2CD47K"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Section.80",
@@ -635,6 +659,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "9th Wonder Presents: Jamla Is The Squad II",
+        "url": "https://open.spotify.com/album/2K0JdsaYMJbNuY4qh7kC7X"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 343173,
+      "name": "Sojourner (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4rQrECrwG9KPZT9LBMX1bi"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/7B9BkPmC0LxSHvPxiP9IzG"
       },
@@ -659,30 +703,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/63OTcaIP41YxalBJxLLmAI"
-      },
-      "artists": [
-        {
-          "name": "Mathematik",
-          "url": "https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H"
-        },
-        {
-          "name": "Parental",
-          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
-        },
-        {
-          "name": "Lex (de Kalhex)",
-          "url": "https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX"
-        }
-      ],
-      "duration_ms": 220569,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/4tmXYg65XUNZwYxX8oaEbO"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "MAN DOWN",
         "url": "https://open.spotify.com/album/40ky3rclTC49nBSe3bikop"
       },
@@ -695,6 +715,22 @@
       "duration_ms": 154482,
       "name": "MAN DOWN",
       "url": "https://open.spotify.com/track/3jqEeqbsATtPx2V37ChPe0"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 277043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -743,6 +779,30 @@
       "duration_ms": 85106,
       "name": "So They Say",
       "url": "https://open.spotify.com/track/2xuaGUZwr4lr0HhFx3JybI"
+    },
+    {
+      "added_at": "2023-09-08 04:44:06",
+      "album": {
+        "name": "One Shot",
+        "url": "https://open.spotify.com/album/47iFPYouM5fm6NCNxrzHOt"
+      },
+      "artists": [
+        {
+          "name": "Mathematik",
+          "url": "https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H"
+        },
+        {
+          "name": "Parental",
+          "url": "https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve"
+        },
+        {
+          "name": "Lex (de Kalhex)",
+          "url": "https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "One Shot",
+      "url": "https://open.spotify.com/track/5M3xIyQ0AP2khNuIuve7t2"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -807,26 +867,6 @@
       "duration_ms": 123000,
       "name": "Vibrant",
       "url": "https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "9th Wonder Presents: Jamla Is The Squad II",
-        "url": "https://open.spotify.com/album/2K0JdsaYMJbNuY4qh7kC7X"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 343173,
-      "name": "Sojourner (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4rQrECrwG9KPZT9LBMX1bi"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -901,6 +941,22 @@
       "url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
     },
     {
+      "added_at": "2023-09-08 04:44:06",
+      "album": {
+        "name": "Paradigm Shift",
+        "url": "https://open.spotify.com/album/4a4fp2iMO72TE6sbBkNztv"
+      },
+      "artists": [
+        {
+          "name": "Super Duty Tough Work",
+          "url": "https://open.spotify.com/artist/62C2Sg9LJoWfSw8K8EuX3u"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Dirty Hands",
+      "url": "https://open.spotify.com/track/5dpE6s8Fk9kcMEKOwtgGel"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Flying High",
@@ -947,22 +1003,6 @@
       "duration_ms": 174720,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/45SON3lVRz2QMyRXOqIN8v"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 277043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1087,26 +1127,6 @@
       "duration_ms": 204000,
       "name": "SINCE ELEMENTARY",
       "url": "https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/5sNNL10Qqlgix8lBHPibqj"
-      },
-      "artists": [
-        {
-          "name": "Apollo Brown",
-          "url": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
-        },
-        {
-          "name": "Planet Asia",
-          "url": "https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/4gu103x5nz3NpN6lRKSeWC"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1739,26 +1759,6 @@
       "duration_ms": 372173,
       "name": "1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)",
       "url": "https://open.spotify.com/track/1eLU27PPFxBhbp1CBjPh9J"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "DJ Cucumber Slice",
-          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
-        }
-      ],
-      "duration_ms": 258613,
-      "name": "Rhymes Like Dimes",
-      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
     },
     {
       "added_at": "2023-09-01 04:00:00",

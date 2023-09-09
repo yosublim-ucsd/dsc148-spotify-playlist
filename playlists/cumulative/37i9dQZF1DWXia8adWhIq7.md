@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Jessé Alcantara
 
-129 songs - 7 hr 48 min
+130 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 | 2023-02-25 | 2023-03-18 |
 | [Crescer](https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Crescer](https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T) | 3:57 | 2022-08-05 | 2023-07-15 |
 | [Cuido dos Detalhes](https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Cuido dos Detalhes](https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp) | 3:33 | 2022-08-05 |  |
-| [Daqui pra Frente](https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Riane Junqueira](https://open.spotify.com/artist/4bJ1wkkofxsCiEDIJbuV5L), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Daqui pra Frente](https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv) | 4:31 | 2022-08-05 |  |
+| [Daqui pra Frente](https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Riane Junqueira](https://open.spotify.com/artist/4bJ1wkkofxsCiEDIJbuV5L), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Daqui pra Frente](https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv) | 4:31 | 2022-08-05 | 2023-09-09 |
 | [De 1 Até 3](https://open.spotify.com/track/4Op3IMhQmQTiJ4ghAX2pCG) | [João Figueiredo](https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL) | [De 1 Até 3](https://open.spotify.com/album/7jmdlVQj7FLKPIA5VYJcLz) | 2:48 | 2022-08-05 |  |
 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 | 2023-07-28 |  |
 | [Dono do Tempo](https://open.spotify.com/track/2NFXTNVoKxWVRdda1VDDwB) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Dono do Tempo](https://open.spotify.com/album/2y0vpcnHHc3MHQOMkEjzxD) | 3:41 | 2022-08-05 | 2023-02-25 |
@@ -45,6 +45,7 @@
 | [Espelhos](https://open.spotify.com/track/5c7Ua3kWdYtg0WrL0VrPOd) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Espelhos](https://open.spotify.com/album/5l8HGwOHkfH4GTXYNb16ip) | 3:21 | 2022-08-05 | 2022-10-15 |
 | [Esperança](https://open.spotify.com/track/14NgY0UGVkXNU28ccCnHny) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Esperança](https://open.spotify.com/album/2t90XCpgcrEloG0djF7Z9Q) | 5:04 | 2023-03-24 | 2023-04-16 |
 | [Esperarei Com Paciência](https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Esperarei com Paciência](https://open.spotify.com/album/53C192EeqK9cTA0dohXePM) | 5:29 | 2022-08-05 |  |
+| [Esse Alguém](https://open.spotify.com/track/6ZzI1J5Ivj5EKG9kTPLGdm) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Esse Alguém](https://open.spotify.com/album/1B1mpkDFBn7BncJdlwKAki) | 3:51 | 2023-09-08 |  |
 | [Eu Digo Sim](https://open.spotify.com/track/3l5V0o9V3XqKsenxlyUQFn) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [Teu Abraço Faz a Diferença](https://open.spotify.com/album/4AjL13617OAPBmkdO68s3i) | 4:39 | 2022-10-14 | 2022-11-13 |
 | [Eu Digo Sim](https://open.spotify.com/track/5iM0mfAZx3H6G8D2ZCejWz) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T) | [Eu Digo Sim](https://open.spotify.com/album/6m24zX6QTmUfZaBg3V2DxL) | 4:39 | 2022-08-05 | 2023-02-25 |
 | [Eu Não Sei Viver Sem Deus](https://open.spotify.com/track/4Qv4gxwa4xeQQ2K3wHItrR) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:41 | 2022-08-05 | 2023-01-21 |

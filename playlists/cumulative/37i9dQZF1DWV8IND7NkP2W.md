@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-652 songs - 1 day 5 hr 19 min
+654 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [eyes talk](https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [eyes talk](https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS) | 3:28 | 2022-03-17 | 2022-12-24 |
 | [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 | 2023-03-25 |
 | [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |
+| [Feel Good](https://open.spotify.com/track/3RzT2bhbuqG7pxnRPiGGg1) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/4hNNbbPopqfTMEMjhM2j3o) | 3:22 | 2023-09-07 |  |
 | [Feynman](https://open.spotify.com/track/34DPkGBdvuvCdNt0YaOsby) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Resynthesis \(Green\)](https://open.spotify.com/album/0bpJi2ZRRx8PNiD5qGEfO2) | 2:23 | 2022-03-24 | 2022-04-20 |
 | [find a way](https://open.spotify.com/track/4gdNaZ3GUe9mDGy5OZQAe4) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir) | [find a way](https://open.spotify.com/album/1h4KtvcjaJ7kVcs0M47ETp) | 3:14 | 2021-12-23 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/2HPAE9dtpbx385HdUySePp) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Seven Winds](https://open.spotify.com/album/6oePpBmzhdATyTLTAmPAjS) | 2:35 | 2021-12-23 | 2022-07-28 |
@@ -310,7 +311,7 @@
 | [Le Penseur](https://open.spotify.com/track/6EW6GMbrCX3xG2XwpYhKJz) | [Gardentones](https://open.spotify.com/artist/3ZssErKV7JalICINouJ5CE), [Avantaro](https://open.spotify.com/artist/0jjmDIXXndzUooW1KogNEx), [Taikutsu](https://open.spotify.com/artist/4C8imA7ub7SiyiwApuSqc6) | [Le Penseur](https://open.spotify.com/album/4Ojh3CfSmJIg79xvBuSKix) | 1:12 | 2022-03-24 | 2022-04-18 |
 | [Legacy code](https://open.spotify.com/track/2taTxKL54zteMqWgApkCwt) | [Mikihito Sano](https://open.spotify.com/artist/0uWubgMZqCNsxMRDF5lN9m) | [Legacy code](https://open.spotify.com/album/3JAMfTw7BpOXr5B7kfEswI) | 4:57 | 2023-06-22 | 2023-08-18 |
 | [Legend \- Instrumental](https://open.spotify.com/track/4D6ODloEcphnoSF33TF9L3) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/4ChW17PKiVa3twCaWcimzA) | 3:38 | 2022-01-27 | 2022-07-28 |
-| [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 | 2022-07-28 |  |
+| [Legend \- Instrumental](https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [Legend \(Instrumental\)](https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh) | 3:38 | 2022-07-28 | 2023-09-09 |
 | [Let It Snow](https://open.spotify.com/track/1eYyGBayQloBSoDy7VR2i7) | [Kikou](https://open.spotify.com/artist/1AqcVmVp7Ggxu1oJuJL8tn), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Let It Snow](https://open.spotify.com/album/2ygiO3q9Uk0xjvxw83di8e) | 1:10 | 2022-03-31 | 2022-04-19 |
 | [Let Somebody Go](https://open.spotify.com/track/2RMKGL19Vqp72Uztte0RCk) | [Kikou](https://open.spotify.com/artist/1AqcVmVp7Ggxu1oJuJL8tn), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Let Somebody Go](https://open.spotify.com/album/03HbM4VsceyzqKrGxJnnok) | 1:24 | 2021-12-23 | 2022-05-08 |
 | [letdown](https://open.spotify.com/track/085xntFT3ILjAWurpEbmXR) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [4 million](https://open.spotify.com/album/5ArljGAioG93q3pt3N2vTZ) | 3:50 | 2022-01-06 | 2022-07-20 |
@@ -646,8 +647,9 @@
 | [Yarden](https://open.spotify.com/track/4Y2ks8t6QoaWGQaFVrrlug) | [MADLISK](https://open.spotify.com/artist/2tWCWZuRGn0nAE8l8r4H8h) | [Yarden](https://open.spotify.com/album/31keasWCyoW2vJKMoccCh4) | 2:00 | 2022-01-06 | 2022-07-27 |
 | [Yoake](https://open.spotify.com/track/3wvp4cZcmltC12kVjxYh42) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr), [synfilums](https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi), [Toma Itoko](https://open.spotify.com/artist/6EWRrTJig48jwlvwNUPCL4) | [Yoake](https://open.spotify.com/album/2wjpLzZQ4tRLhHHcX1Nwuc) | 2:52 | 2021-12-23 | 2022-07-29 |
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2021-12-23 | 2022-07-28 |
-| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 |  |
+| [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 | 2023-09-09 |
 | [you](https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [you](https://open.spotify.com/album/6BXt7Zi0lQpeG2MIrpVK7w) | 3:04 | 2021-12-23 | 2022-07-28 |
+| [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-09-07 |  |
 | [You Are My Secret Lounge](https://open.spotify.com/track/1QueZBQEbVioULqaNgawtH) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [You Are My Secret Lounge](https://open.spotify.com/album/3AZVbZBnFq6B54y62BLVpi) | 2:09 | 2023-08-01 | 2023-08-11 |
 | [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 | 2023-02-10 |
 | [Yuragi](https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Yuragi](https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST) | 2:14 | 2022-11-24 | 2022-12-02 |

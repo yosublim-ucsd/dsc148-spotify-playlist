@@ -2,7 +2,7 @@
 
 ### [Norteño 2023](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
 
-> Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Dos Carnales en portada.
+> Bravías, románticas y rancheras, las mejores canciones norteñas\. De Parranda en portada.
 
 377 songs - 20 hr 25 min
 

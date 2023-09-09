@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 54334,
+  "num_followers": 54386,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzVjNjQ4MjUxOTk5MDE4NTI5YmQyMWZiODYyMmU2Y2MzOTJiNDkz",
+  "snapshot_id": "MCxkMGI5ZDI2NTUwZjAyNTE4NWI3ZDJhOWJjNjVkMGVhNWRlZDAyYTVl",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Who's That Lady",
-      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "The Limit's The Sky",
         "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 223666,
       "name": "Chill Or Be Chilled",
       "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Who's That Lady",
+      "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Hi-Lo Split",
-        "url": "https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp"
-      },
-      "artists": [
-        {
-          "name": "Marc Antoine",
-          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "For A Smile",
-      "url": "https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "110 Degrees and Rising",
         "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 304040,
       "name": "Floor & More",
       "url": "https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "HeadBoppin (with bonus track)",
+        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
+      },
+      "artists": [
+        {
+          "name": "Shilts",
+          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
     }
   ],
   "unique_name": "Smooth Jazz 2000",

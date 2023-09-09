@@ -1,31 +1,15 @@
 {
-  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Johnny Jane",
-  "num_followers": 101493,
+  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Maureen",
+  "num_followers": 101507,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODdiYTlmNDRhZmZhYTEwY2VlOTlkMTFhMTVhMTFmZDcxZTFiZjBj",
+  "snapshot_id": "MCxjN2E5MDRiYzc4OWFlY2UyZjYwMWQ1ZDZjNzFkMTFmYmZkYjljNjkz",
   "tracks": [
     {
-      "added_at": "2023-07-11 16:29:57",
-      "album": {
-        "name": "A l'am\u00e9ricaine",
-        "url": "https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "A l'am\u00e9ricaine",
-      "url": "https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc"
-    },
-    {
-      "added_at": "2023-07-11 16:29:57",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Tell Me Who",
         "url": "https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T"
@@ -45,7 +29,7 @@
       "url": "https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY"
     },
     {
-      "added_at": "2023-07-11 16:29:57",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "SUN7",
         "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
@@ -61,7 +45,39 @@
       "url": "https://open.spotify.com/track/2cTyysES2ribL9idJXy3fI"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "A l'am\u00e9ricaine",
+        "url": "https://open.spotify.com/album/2S9ME2sqrjF1tOJlqt1BkL"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "A l'am\u00e9ricaine",
+      "url": "https://open.spotify.com/track/0UHU3DLdPDcShv4m8o1mdc"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 211327,
+      "name": "Tristesse",
+      "url": "https://open.spotify.com/track/0gv9l2E8gtjImlE0PDtIJs"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Ma pi\u00e8ce",
         "url": "https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW"
@@ -77,10 +93,10 @@
       "url": "https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
-        "name": "Trop bonnes",
-        "url": "https://open.spotify.com/album/7clsSaHNGevHo4oN6OQE95"
+        "name": "Dans la moyenne",
+        "url": "https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn"
       },
       "artists": [
         {
@@ -88,12 +104,12 @@
           "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
         }
       ],
-      "duration_ms": 152005,
-      "name": "Trop bonnes",
-      "url": "https://open.spotify.com/track/7iK13xTzFJPPigdz62zh7X"
+      "duration_ms": 158006,
+      "name": "Dans la moyenne",
+      "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "L'angle mort",
         "url": "https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28"
@@ -109,23 +125,7 @@
       "url": "https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Les dormantes",
-        "url": "https://open.spotify.com/album/58Gqv2FeIlHyw0mxSnRs9Q"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 198538,
-      "name": "Les dormantes",
-      "url": "https://open.spotify.com/track/5FRYkF4q7TJ3QRHn2aWZHr"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "D\u00e9pass\u00e9",
         "url": "https://open.spotify.com/album/1WsuPxnNB1pgkd1a5UsgrS"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Nouveau d\u00e9part",
+      "url": "https://open.spotify.com/track/0z2patdc6alfUwUi5dko35"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "novembre",
         "url": "https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "GAR\u00c7ON",
         "url": "https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG"
@@ -173,23 +189,23 @@
       "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd"
+        "name": "Elle laisse (Radio Edit)",
+        "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
       },
       "artists": [
         {
-          "name": "St\u00e9phane",
-          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
         }
       ],
-      "duration_ms": 195933,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3bfW2D6xj3mspwxwi3ieyl"
+      "duration_ms": 208493,
+      "name": "Elle laisse - Radio Edit",
+      "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "G\u00e9n\u00e9ration",
         "url": "https://open.spotify.com/album/7udnk26I0QpteVaRr1srhh"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/1EhRHRVBDLPkhgKfAmltWy"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
@@ -221,26 +237,10 @@
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
-        "name": "\u00c7a me va",
-        "url": "https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc"
-      },
-      "artists": [
-        {
-          "name": "Alice et Moi",
-          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
-        }
-      ],
-      "duration_ms": 189169,
-      "name": "\u00c7a me va",
-      "url": "https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "De l'air",
-        "url": "https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV"
+        "name": "Pour la vie enti\u00e8re",
+        "url": "https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb"
       },
       "artists": [
         {
@@ -248,12 +248,12 @@
           "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
         }
       ],
-      "duration_ms": 185625,
-      "name": "De l'air",
-      "url": "https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU"
+      "duration_ms": 182026,
+      "name": "Pour la vie enti\u00e8re",
+      "url": "https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Ma Terre",
         "url": "https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN"
@@ -269,23 +269,7 @@
       "url": "https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Tarzan",
-        "url": "https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 190146,
-      "name": "Tarzan",
-      "url": "https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Hors Piste",
         "url": "https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj"
@@ -301,7 +285,7 @@
       "url": "https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "madame",
         "url": "https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg"
@@ -317,39 +301,23 @@
       "url": "https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
-        "name": "Ce qu'il restera de nous",
-        "url": "https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr"
+        "name": "Dimanche",
+        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
       },
       "artists": [
         {
-          "name": "Coline Rio",
-          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
         }
       ],
-      "duration_ms": 208702,
-      "name": "On m'a dit",
-      "url": "https://open.spotify.com/track/6Dpj5zpd4nKpvervwskEBH"
+      "duration_ms": 151320,
+      "name": "Fous",
+      "url": "https://open.spotify.com/track/76SdXXI996exZt00GiO5Co"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "La grande d\u00e9sillusion",
-        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Epps",
-          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "vivre",
-      "url": "https://open.spotify.com/track/0GIZezqLlyi4QpsQAPemU8"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Jour avant caviar",
         "url": "https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF"
@@ -365,7 +333,23 @@
       "url": "https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "J'aime pas sortir",
+        "url": "https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C"
+      },
+      "artists": [
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "J'aime pas sortir",
+      "url": "https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "The Beast",
         "url": "https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578"
@@ -381,39 +365,7 @@
       "url": "https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Dimanche",
-        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Terrien",
-      "url": "https://open.spotify.com/track/3zxgaONWwTwSWuisr4SV0Q"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "D'o\u00f9 je viens",
-        "url": "https://open.spotify.com/album/3VXCSVRtvJNavOvT5972Y3"
-      },
-      "artists": [
-        {
-          "name": "Herv\u00e9",
-          "url": "https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "D'o\u00f9 je viens",
-      "url": "https://open.spotify.com/track/3r5HKO6wkcIOMwn0jp76nG"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Toujours des fleurs (Version deluxe)",
         "url": "https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj"
@@ -429,10 +381,10 @@
       "url": "https://open.spotify.com/track/7lF4vYpokRbb9tdAq12tbx"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
-        "name": "Ados",
-        "url": "https://open.spotify.com/album/2Og8w5f5fU4PEMH3GbNgZw"
+        "name": "Celui qui part",
+        "url": "https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe"
       },
       "artists": [
         {
@@ -440,12 +392,12 @@
           "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Ados",
-      "url": "https://open.spotify.com/track/0gc9MiWqo0me326ecRzaPg"
+      "duration_ms": 154346,
+      "name": "Celui qui part",
+      "url": "https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Ronisia",
         "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
@@ -461,119 +413,7 @@
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Reuts",
-        "url": "https://open.spotify.com/album/795vZthVqnG9wdjAqXsMux"
-      },
-      "artists": [
-        {
-          "name": "15 15",
-          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
-        }
-      ],
-      "duration_ms": 326622,
-      "name": "Reuts",
-      "url": "https://open.spotify.com/track/6nhd4cWEYapY5704NqOcOk"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Wingu",
-        "url": "https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6"
-      },
-      "artists": [
-        {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
-        }
-      ],
-      "duration_ms": 150066,
-      "name": "Dans la sauce",
-      "url": "https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "AERON SIT",
-        "url": "https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8"
-      },
-      "artists": [
-        {
-          "name": "Smeels",
-          "url": "https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ"
-        }
-      ],
-      "duration_ms": 133224,
-      "name": "INDISCRET",
-      "url": "https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Parlons de nous",
-        "url": "https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk"
-      },
-      "artists": [
-        {
-          "name": "Philippine",
-          "url": "https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E"
-        }
-      ],
-      "duration_ms": 191056,
-      "name": "Parlons de nous",
-      "url": "https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Rue des Pervenches",
-        "url": "https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5"
-      },
-      "artists": [
-        {
-          "name": "TERRIER",
-          "url": "https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ"
-        }
-      ],
-      "duration_ms": 219287,
-      "name": "Rue des Pervenches",
-      "url": "https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Metaverse",
-        "url": "https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt"
-      },
-      "artists": [
-        {
-          "name": "P.R2B",
-          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
-        }
-      ],
-      "duration_ms": 196345,
-      "name": "Metaverse",
-      "url": "https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 191036,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Nature morte",
         "url": "https://open.spotify.com/album/1cHS4x8PaBByKNW0FPcrIy"
@@ -589,7 +429,167 @@
       "url": "https://open.spotify.com/track/5NEE9NJOdRrKPMhXFB0XFM"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Kodek",
+        "url": "https://open.spotify.com/album/4w48yDok6G3U1fxEI0ebKB"
+      },
+      "artists": [
+        {
+          "name": "15 15",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "duration_ms": 218989,
+      "name": "Kodek",
+      "url": "https://open.spotify.com/track/1heVHvWk8pSxpyXQgj5y7M"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Tarzan",
+        "url": "https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 190146,
+      "name": "Tarzan",
+      "url": "https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Int\u00e9rieur Vie",
+        "url": "https://open.spotify.com/album/3mnH4p3JR7XSuQoQGmbMnx"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9",
+          "url": "https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Tout ira mieux demain",
+      "url": "https://open.spotify.com/track/1m4itVNI3P6yGSA3Ptni9P"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Rue des Pervenches",
+        "url": "https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5"
+      },
+      "artists": [
+        {
+          "name": "TERRIER",
+          "url": "https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ"
+        }
+      ],
+      "duration_ms": 219287,
+      "name": "Rue des Pervenches",
+      "url": "https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Par Fiert\u00e9",
+        "url": "https://open.spotify.com/album/3joknrlbS386Npao4I4p49"
+      },
+      "artists": [
+        {
+          "name": "Philippine",
+          "url": "https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E"
+        }
+      ],
+      "duration_ms": 178521,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/6Y947ZNbFBIA3C8fZmc1k8"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/0feXuheWM3Kk6koWrQhqwt"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "duration_ms": 196345,
+      "name": "Metaverse",
+      "url": "https://open.spotify.com/track/5WfMk2vk5hMD1bzByNJCC6"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6g0oLxGFKAl7VvuQaIIgg9"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 191036,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/7GCm7A124YRmDNOy1WKVc7"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "La grande d\u00e9sillusion",
+        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "vivre",
+      "url": "https://open.spotify.com/track/0GIZezqLlyi4QpsQAPemU8"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "Wingu",
+        "url": "https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "Dans la sauce",
+      "url": "https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
+      "album": {
+        "name": "AERON SIT",
+        "url": "https://open.spotify.com/album/499DppgglIUt1d6UD6GNW8"
+      },
+      "artists": [
+        {
+          "name": "Smeels",
+          "url": "https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ"
+        }
+      ],
+      "duration_ms": 133224,
+      "name": "INDISCRET",
+      "url": "https://open.spotify.com/track/2XkZf7PB3MjaBdnzR2KFSo"
+    },
+    {
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "La fin de la nuit",
         "url": "https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2"
     },
     {
-      "added_at": "2023-06-22 22:00:00",
+      "added_at": "2023-09-08 15:18:25",
       "album": {
         "name": "Immoral & Ill\u00e9gal",
         "url": "https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU"

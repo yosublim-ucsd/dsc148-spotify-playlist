@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 651 songs - 1 day 8 hr 43 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 652 songs - 1 day 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -659,5 +659,6 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 649 | [deads](https://open.spotify.com/track/5K5htxLPB8ade25lAtz4da) | [landon\_fr\_tho](https://open.spotify.com/artist/4PCryXFB3crhcB81zQMaJf) | [deads](https://open.spotify.com/album/29PYIRiQWbb4iiaRLEt43y) | 3:29 |
 | 650 | [For You \(feat\. TaTa\)](https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [For You \(feat\. TaTa\)](https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6) | 1:59 |
 | 651 | [Dark Knight Dummo](https://open.spotify.com/track/4apiNNK0jp9uqn3JDG9My1) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 4:16 |
+| 652 | [Booby Trap](https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:16 |
 
-Snapshot ID: `ODE0LDFhZDE0MzJmZGNhOWUwYTBiYzY3ZjJiYTBiOWFmMjVhZWYyZWZiM2Q=`
+Snapshot ID: `ODE1LGUzOWNiNTYzMjFhNGQxYzU2MTM3MGJlZGJjMjc0MDExZmNmNzhlY2U=`

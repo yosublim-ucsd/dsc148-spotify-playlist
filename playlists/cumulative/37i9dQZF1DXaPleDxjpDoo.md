@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-111 songs - 6 hr 13 min
+113 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2022-09-15 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-09-15 |  |
 | [Eternal Forest \(417 Hz Healing Meditation\)](https://open.spotify.com/track/1lR9VEaW8mD2SXuAtr4d9w) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Eternal Forest](https://open.spotify.com/album/6FhvOH8TzkOWyvWRXFCk5A) | 4:01 | 2022-09-15 |  |
+| [Ethereal Forest](https://open.spotify.com/track/0FMykEh5eCRUwfAWq7MTCZ) | [Adelina Somerset](https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX) | [Ethereal Forest](https://open.spotify.com/album/4BhTyKanan6VmTQrj00r2E) | 2:07 | 2023-09-08 |  |
 | [Ethereal Waves](https://open.spotify.com/track/2yeN8GlhSig74nUe3KFKOx) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Ethereal Waves](https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY) | 2:18 | 2022-10-14 |  |
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-09-15 |  |
 | [Fleuriste \- Meditation](https://open.spotify.com/track/69f7nyk91VrWuNXjAOENML) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Fleuriste](https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa) | 4:38 | 2022-09-15 |  |
@@ -47,6 +48,7 @@
 | [Forest Dwelling](https://open.spotify.com/track/0n7atpg512cdKCTxkVi2nR) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Forest Dwelling](https://open.spotify.com/album/0jNWQHzzYcS1fPjzNsTAGE) | 32:33 | 2022-09-15 | 2022-12-10 |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2022-09-15 |  |
 | [Forest Symphony](https://open.spotify.com/track/2BH393CXcxt4c8KgA77WZK) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Forest Symphony](https://open.spotify.com/album/4aiuc9wKH99sGi7EO4W7LY) | 3:02 | 2022-09-15 |  |
+| [Forest Winds](https://open.spotify.com/track/38NsLOCPyA8E4Q7IaAG43X) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Forest Winds](https://open.spotify.com/album/0XMxYcUmfaQS4VTtfSljfe) | 2:00 | 2023-09-08 |  |
 | [Frozen Sunlight](https://open.spotify.com/track/02tb4HZydiOwErys8qitIc) | [Sun Echo](https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D), [Whispering Landscapes](https://open.spotify.com/artist/7myvpdTsqwTbYbdaFcR5r9) | [Frozen Sunlight](https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b) | 3:30 | 2022-10-14 |  |
 | [Gentle Gust \- Spa](https://open.spotify.com/track/2AGaTt3uGaf0DrZSwdr5Hy) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Gentle Gust](https://open.spotify.com/album/3IXkjFISn7juqyt56lY9ao) | 3:12 | 2023-03-23 |  |
 | [Golden Sky \(Meditation\)](https://open.spotify.com/track/7244jlCIRFqRp8yhMaklLN) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Golden Sky](https://open.spotify.com/album/57F1Vi6HQ24RkweWm87Yyt) | 3:06 | 2022-09-15 |  |

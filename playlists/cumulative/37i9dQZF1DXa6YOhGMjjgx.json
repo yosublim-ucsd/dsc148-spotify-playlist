@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The very best of the alternative rock scene. Cover: P\u00c6RISH",
+  "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
   "name": "New  Alt-Rock Mixtape",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 209603,
       "name": "All Being Fine",
       "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 173276,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 214109,
       "name": "Around the Bend",
       "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 220324,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC"
@@ -452,6 +452,24 @@
       "duration_ms": 219182,
       "name": "Big Shot",
       "url": "https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT"
+    },
+    {
+      "album": {
+        "name": "Birds and the Bees",
+        "url": "https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254263,
+      "name": "Birds and the Bees",
+      "url": "https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah"
     },
     {
       "album": {
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 201534,
       "name": "Boy",
       "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 184931,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 192013,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 262453,
       "name": "Godsend",
       "url": "https://open.spotify.com/track/6a9yNu5Nlc1xezZjHAzj0C"
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 212228,
       "name": "Head First",
       "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 196457,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 155680,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c"
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 261680,
       "name": "I Never Loved Myself Like I Loved You",
       "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
@@ -2596,6 +2614,24 @@
       "duration_ms": 261680,
       "name": "I Never Loved Myself Like I Loved You",
       "url": "https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR"
+    },
+    {
+      "album": {
+        "name": "I Used To Be Fun",
+        "url": "https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161445,
+      "name": "I Used To Be Fun",
+      "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
     },
     {
       "album": {
@@ -3644,7 +3680,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 194026,
       "name": "My Fall",
       "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
@@ -3846,7 +3882,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 239252,
       "name": "Nowhere Generation [with Meg Myers]",
       "url": "https://open.spotify.com/track/5KBbOzPYd1lnnWV122qKwY"
@@ -3900,7 +3936,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 226296,
       "name": "One + One",
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
@@ -4102,7 +4138,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 177213,
       "name": "Poison or Patience (feat. OSTON)",
       "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 190212,
       "name": "Rich",
       "url": "https://open.spotify.com/track/4sFfItk3bF8wrs1KmTJxU6"
@@ -4325,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "Running In Circles / HURT",
+        "url": "https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233321,
+      "name": "Running In Circles",
+      "url": "https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3"
+    },
+    {
+      "album": {
         "name": "Running Up That Hill",
         "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
       },
@@ -4390,7 +4444,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 203064,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm"
@@ -4772,7 +4826,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 233312,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/43DIL3TsfKObMfMGVRNC8z"
@@ -4870,7 +4924,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 225068,
       "name": "Stop Beating on My Heart (Like a Bass Drum)",
       "url": "https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre"
@@ -5412,7 +5466,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 224073,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5"
@@ -5466,7 +5520,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
@@ -5520,7 +5574,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 189000,
       "name": "Voodoo Science",
       "url": "https://open.spotify.com/track/06krSNKYuVOzGxzwqsWegk"

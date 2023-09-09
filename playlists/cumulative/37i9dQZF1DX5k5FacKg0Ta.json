@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182626,
       "name": "A Song We Loaned From Our Children",
       "url": "https://open.spotify.com/track/746oExBG42IBd7Q3ifotmM"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 215812,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/4euYzAGkmIbdykP4wYxAQq"
@@ -738,6 +738,24 @@
       "duration_ms": 167181,
       "name": "Final Round",
       "url": "https://open.spotify.com/track/011SZbBS0yvSFPHxRb6fGs"
+    },
+    {
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0nut26etVcSuXsuHhMYHqc"
+      },
+      "artists": [
+        {
+          "name": "Northern gospel project",
+          "url": "https://open.spotify.com/artist/0B4CulblTpweOC0a5uHoF9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329213,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/4r0L6EqxsSsVAYU0vZmGcx"
     },
     {
       "album": {
@@ -2583,6 +2601,28 @@
     },
     {
       "album": {
+        "name": "Valkoinen hevonen",
+        "url": "https://open.spotify.com/album/3QYbmO7p0T1eIIHo2n6ZLP"
+      },
+      "artists": [
+        {
+          "name": "Minsku Tammela",
+          "url": "https://open.spotify.com/artist/6aREkURkJ8VvNZBh9sJKw5"
+        },
+        {
+          "name": "Joakim Bergh\u00e4ll",
+          "url": "https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234893,
+      "name": "Valkoinen hevonen",
+      "url": "https://open.spotify.com/track/7xkSKRKEjSBo306GBzhO8Y"
+    },
+    {
+      "album": {
         "name": "Vanhatie",
         "url": "https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN"
       },
@@ -2620,6 +2660,24 @@
       "duration_ms": 340706,
       "name": "Veden alla - 2023",
       "url": "https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/2gHx8geEkqUEXmlAGy0hLw"
+      },
+      "artists": [
+        {
+          "name": "Ville Tomminen",
+          "url": "https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74300,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0Z4RxzJm1v3Vu9bvTQP8IA"
     },
     {
       "album": {

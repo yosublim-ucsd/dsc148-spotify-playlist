@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop. Cover: Rezz \\m/",
+  "description": "Rock with a Drop. Cover: Pendulum \\m/",
   "name": "Rocktronic",
   "tracks": [
     {
@@ -1032,6 +1032,24 @@
       "duration_ms": 254032,
       "name": "Clone",
       "url": "https://open.spotify.com/track/3x7WKt5WBa0oOPaPB93Zwv"
+    },
+    {
+      "album": {
+        "name": "Colourfast",
+        "url": "https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224009,
+      "name": "Colourfast",
+      "url": "https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP"
     },
     {
       "album": {
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 248576,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL"
@@ -3372,6 +3390,28 @@
       "duration_ms": 219007,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/5XyP3oBFkJPOUpdsyNnkJD"
+    },
+    {
+      "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
     },
     {
       "album": {
@@ -4104,7 +4144,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 162580,
       "name": "Money Makes The World Go Round",
       "url": "https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC"
@@ -4808,6 +4848,24 @@
       "duration_ms": 191000,
       "name": "Proud",
       "url": "https://open.spotify.com/track/4YXKVaWzHaVyDq2pVS5cgR"
+    },
+    {
+      "album": {
+        "name": "Pure Smile Snake Venom",
+        "url": "https://open.spotify.com/album/7nXYRc3PivS07SCWTWPl0R"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/3tbIgRlbQ9s0MYkJTv8ued"
     },
     {
       "album": {
@@ -5558,7 +5616,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 229090,
       "name": "Sick",
       "url": "https://open.spotify.com/track/3IlbZZjgwqs255bQActy5O"

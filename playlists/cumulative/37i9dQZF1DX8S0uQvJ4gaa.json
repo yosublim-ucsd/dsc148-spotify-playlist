@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Larry Fleet",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Jon Langston",
   "name": "New Boots",
   "tracks": [
     {
@@ -1882,6 +1882,24 @@
       "duration_ms": 168296,
       "name": "Back Porch",
       "url": "https://open.spotify.com/track/6aXA7DT5rC8RbfYe2jAQa0"
+    },
+    {
+      "album": {
+        "name": "Back Then Right Now",
+        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201485,
+      "name": "Back Then Right Now",
+      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
     },
     {
       "album": {
@@ -11520,7 +11538,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 190540,
       "name": "Heart They Didn't Break",
       "url": "https://open.spotify.com/track/4QzoBae05AxedOwsC8cqlh"
@@ -11814,7 +11832,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182973,
       "name": "Heaven By Then",
       "url": "https://open.spotify.com/track/4GVVc4W9u4ZXemCmru5orO"
@@ -11854,7 +11872,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 173400,
       "name": "HEAVEN HAS A BAR (with Zac Brown)",
       "url": "https://open.spotify.com/track/3NfLxTFZRLb8WGVeeG3e8i"
@@ -12024,6 +12042,24 @@
       "duration_ms": 206653,
       "name": "Hello, You Up",
       "url": "https://open.spotify.com/track/1cYA668ipkqAbInNuhNXsy"
+    },
+    {
+      "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248266,
+      "name": "Help Me Make It Through the Night",
+      "url": "https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd"
     },
     {
       "album": {
@@ -13273,6 +13309,28 @@
     },
     {
       "album": {
+        "name": "Heart On Ice",
+        "url": "https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        },
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160013,
+      "name": "I ain't Country",
+      "url": "https://open.spotify.com/track/7HoqLd4ZXftkWF1TkQgSt2"
+    },
+    {
+      "album": {
         "name": "I Ain't Gotta Grow Up",
         "url": "https://open.spotify.com/album/4HzZ7EgVJOU1OxbUbp1uNW"
       },
@@ -13862,7 +13920,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 224196,
       "name": "I Hate Texas",
       "url": "https://open.spotify.com/track/6XLuWhRnXFxk6YXaEB0z75"
@@ -14664,7 +14722,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 203765,
       "name": "If I Die Young Pt. 2",
       "url": "https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v"
@@ -15686,6 +15744,24 @@
       "duration_ms": 237020,
       "name": "Kids",
       "url": "https://open.spotify.com/track/2EJBb3MDWCoXh5vRntYVP4"
+    },
+    {
+      "album": {
+        "name": "Killed The Cowboy",
+        "url": "https://open.spotify.com/album/120PgtD9yJIkX79XmBSwAa"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Killed The Cowboy",
+      "url": "https://open.spotify.com/track/3RJurSYlznV97FIN7mBXsQ"
     },
     {
       "album": {
@@ -22618,7 +22694,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 190942,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/1dptRKR1TfZR7vgSehupIB"
@@ -22868,6 +22944,24 @@
       "duration_ms": 210066,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/3dHBL4qSyeTWWTde3blYOR"
+    },
+    {
+      "album": {
+        "name": "Rich Men North of Richmond",
+        "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187244,
+      "name": "Rich Men North of Richmond",
+      "url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
     },
     {
       "album": {
@@ -28453,6 +28547,24 @@
     },
     {
       "album": {
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+    },
+    {
+      "album": {
         "name": "Thinkin' We're In Love",
         "url": "https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww"
       },
@@ -31540,7 +31652,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 233933,
       "name": "White Buffalo",
       "url": "https://open.spotify.com/track/7MnovOocsvlfoe2iNBAraA"
@@ -32260,6 +32372,24 @@
       "duration_ms": 177951,
       "name": "Woman You Got",
       "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+    },
+    {
+      "album": {
+        "name": "The Devil I Know",
+        "url": "https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Women Ain\u2019t Whiskey",
+      "url": "https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,676 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,682 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 4 | [Don't Mean Much](https://open.spotify.com/track/0XkIxcb2bSG0FJhZ34YYLV) | [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP), [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J) | [Don't Mean Much](https://open.spotify.com/album/33YH1neSTpHHjDewZ9sGqK) | 3:40 |
 | 5 | [マンションフェニックス feat\. 有元キイチ \(Radio Edit\)](https://open.spotify.com/track/3mKGw9vEnPNpL4xO3zfjBe) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO), [有元キイチ](https://open.spotify.com/artist/4mXPdNMeJL46dJWUEdYwW8) | [マンションフェニックス feat\. 有元キイチ \(Radio Edit\)](https://open.spotify.com/album/1bF3vptiaJ1F5eoVcZ2WYT) | 4:02 |
 | 6 | [アネモネ \(feat\. おかもとえみ\)](https://open.spotify.com/track/6z3WpQBGKDkqOB0MIpRORG) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [アネモネ \(feat\. おかもとえみ\)](https://open.spotify.com/album/6biUQ9nGerWCMSkoal2qCK) | 3:17 |
-| 7 | [Hokorobi](https://open.spotify.com/track/7LGavKdtUnLb4ecucXHQV8) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Hokorobi](https://open.spotify.com/album/3JRIKJYDCSy3NkmY9h8hYz) | 4:35 |
+| 7 | [Hokorobi](https://open.spotify.com/track/0hfykuPLwt0C546ancAxBS) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [CURVE](https://open.spotify.com/album/2B1Cak3GKIk4PlMVjd9IEe) | 4:35 |
 | 8 | [re:yugata](https://open.spotify.com/track/5JIi5srOftjkUlHzHVcOg2) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [re:yugata](https://open.spotify.com/album/4UTi9oAoo8pxyY2A1P1iNt) | 1:52 |
 | 9 | [このままで \(feat\. Nao'ymt\)](https://open.spotify.com/track/53hO0OqgNjeRsufbaVXYew) | [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11), [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [このままで \(feat\. Nao'ymt\)](https://open.spotify.com/album/4PmujjgMFTzaGDNmceHnLP) | 4:04 |
 | 10 | [Flower](https://open.spotify.com/track/1L4Q0CO4Fdda77RC8FQVOS) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 |
 | 60 | [WISE \- voquote VIP REMIX](https://open.spotify.com/track/7i1qsbXNf6C8Zdo3COMzJY) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [BBREAK POINT REMIX](https://open.spotify.com/album/6Pt6qhfKpiDgYBaYEKvaJR) | 3:45 |
 
-Snapshot ID: `MCwzNjg4NzExNzM4YTIyYzg2ODBjNDNlYmQ0ZmFhNTBjNDdmYTY4OTZi`
+Snapshot ID: `MCwwNzMzMjMzY2IyZDRiOWVmZDk1NjBjY2YyOTUxZGNmZDY3ZTNkNzhm`

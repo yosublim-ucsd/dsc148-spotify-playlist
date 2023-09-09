@@ -2,7 +2,7 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> Only the best Hip\-hop, only non\-stop hits\. Travis Scott on Cover
+> Only the best Hip\-hop, only non\-stop hits\. Lil Wayne on Cover
 
 204 songs - 11 hr 6 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Still yachting. Cover: Young Gun Silver Fox",
-  "num_followers": 10232,
+  "num_followers": 10273,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmUzOGIwYjdkYjBlNmE3ODBlMDhmMWRlYzIyNDNjMjRkYzYyMDgx",
+  "snapshot_id": "MCwxOTRjZmQ0ZjYyYTA3MjQyYmE2ZWI2NzJkYjJlMGQ2Yjc5YmM1N2Rj",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -59,6 +59,22 @@
       "duration_ms": 171839,
       "name": "Simple Love Songs - Extended Version",
       "url": "https://open.spotify.com/track/202Ebn3Kj18Ukkr9LQXwol"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Better Than Ever",
+        "url": "https://open.spotify.com/album/6IXkIsTAzELAO5mwzJQ6yh"
+      },
+      "artists": [
+        {
+          "name": "Video Age",
+          "url": "https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW"
+        }
+      ],
+      "duration_ms": 236188,
+      "name": "Better Than Ever",
+      "url": "https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -135,30 +151,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Strawberry Soju",
-        "url": "https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9"
-      },
-      "artists": [
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Albert Posis",
-          "url": "https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn"
-        },
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        }
-      ],
-      "duration_ms": 171216,
-      "name": "Strawberry Soju",
-      "url": "https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Tip Of The Flame (12\" Disco Mix)",
         "url": "https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD"
       },
@@ -187,6 +179,26 @@
       "duration_ms": 247789,
       "name": "Le Parapluie",
       "url": "https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH"
+    },
+    {
+      "added_at": "2023-09-08 04:01:00",
+      "album": {
+        "name": "Just My Type",
+        "url": "https://open.spotify.com/album/6c6w8VVedHHCiARs8hHV3W"
+      },
+      "artists": [
+        {
+          "name": "Swoodeasu",
+          "url": "https://open.spotify.com/artist/187GxxpJNas11L79Z6SAvD"
+        },
+        {
+          "name": "TSUYO",
+          "url": "https://open.spotify.com/artist/5AVe36Y90V3yjqeKtBvMCW"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Just My Type",
+      "url": "https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -779,22 +791,6 @@
       "duration_ms": 214554,
       "name": "Show You The Way",
       "url": "https://open.spotify.com/track/2ZIHKdsXfOS3cZoGRD2vGL"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Pop Therapy",
-        "url": "https://open.spotify.com/album/4VvY6HIl5iFIAGhiFGamNR"
-      },
-      "artists": [
-        {
-          "name": "Video Age",
-          "url": "https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Hold On (I Was Wrong)",
-      "url": "https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH"
     },
     {
       "added_at": "2023-09-01 04:00:00",

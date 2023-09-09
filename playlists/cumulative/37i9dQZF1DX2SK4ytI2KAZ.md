@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-483 songs - 1 day 2 hr 51 min
+484 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Fred Astaire](https://open.spotify.com/track/0naZsTswDsNhj5BT4w6CDv) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Fred Astaire](https://open.spotify.com/album/1TMmoGkyRktJkcgaYB8uW8) | 3:39 | 2021-03-10 | 2022-07-29 |
 | [Fred Astaire](https://open.spotify.com/track/2lYLaKcZ1bwrIEJcD5LGOx) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Off To The Races](https://open.spotify.com/album/0vGId8rvkYSChOrt2A6HVc) | 3:39 | 2022-10-07 |  |
 | [Fred Astaire](https://open.spotify.com/track/6JgXQTdqLL1xS5qfqOGVNb) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Off To The Races](https://open.spotify.com/album/5oErwuqKXdPtKzYLzD6sF5) | 3:39 | 2022-06-27 | 2022-10-14 |
+| [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 |  |
 | [Get Up Kid](https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Get Up Kid](https://open.spotify.com/album/2R7PVrfhfVcGPTXI8nDVGL) | 2:58 | 2023-08-07 |  |
 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 | 2022-03-11 | 2023-03-29 |
 | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/track/6P7FY8Cnf2sVbCgwlaMleA) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Give A Little Bit More \(Disaster\)](https://open.spotify.com/album/774qmoBRcTPqlhRxjOSTJv) | 3:36 | 2022-03-11 | 2022-04-19 |
@@ -293,7 +294,7 @@
 | [New Religion](https://open.spotify.com/track/750T7OWIxkmNdmlbhYOvIU) | [The Heydaze](https://open.spotify.com/artist/5UWH3rIlO4qbXk6PMFZEbP) | [New Religion](https://open.spotify.com/album/1bwt5ODeLUy7ucgSYdyOGb) | 3:23 | 2021-03-10 | 2022-07-29 |
 | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Mark McGrath](https://open.spotify.com/artist/52FfIpdtGWPNnTQtRDXIid) | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw) | 2:44 | 2021-06-25 | 2023-03-29 |
 | [Nights](https://open.spotify.com/track/5iSvlEhNJhrHUFPSHluDF0) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Nights](https://open.spotify.com/album/0GpuGR0FbHgPzom4GqBKVS) | 3:35 | 2021-03-10 | 2022-07-29 |
-| [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-03-24 |  |
+| [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-03-24 | 2023-09-09 |
 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-07 |  |
 | [Not OK!](https://open.spotify.com/track/2YbMlkq0ARgHiMGBFGTnxq) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Not OK!](https://open.spotify.com/album/0liYHS0MVX0AP18hq6lMoO) | 3:12 | 2021-03-10 | 2022-04-27 |
 | [Not Too Late](https://open.spotify.com/track/0ig4lxtPqcFTUopvk57nQy) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Not Too Late](https://open.spotify.com/album/4vjxGn7u7g7MN3KEGnagOG) | 3:15 | 2022-03-11 | 2022-04-15 |

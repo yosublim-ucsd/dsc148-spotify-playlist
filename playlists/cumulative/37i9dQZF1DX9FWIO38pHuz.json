@@ -1442,6 +1442,24 @@
     {
       "album": {
         "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/3Xwe07iTn0BPBiyzLtVCqr"
+      },
+      "artists": [
+        {
+          "name": "Mothers Favorite Child",
+          "url": "https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/1uQxCy79USGfh1Ods7FtXR"
+    },
+    {
+      "album": {
+        "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/45CGUxginHlvey2BY8E2pE"
       },
       "artists": [
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 250253,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2PSissBzTet0WdjuFXU6A5"

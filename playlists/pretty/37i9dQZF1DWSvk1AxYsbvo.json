@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9884,
+  "num_followers": 9900,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTBiNzZiYTNlZGM3MDE3NTM3NDViNDMzZmVjMWVlMTYwOGMzMmM2",
+  "snapshot_id": "MCwyMjUxNzhhMzNjZjc2OTk3N2E1MjNjYmE5YjE1YTU4MDE2ZmY1ZGQ5",
   "tracks": [
     {
       "added_at": "2023-08-24 02:22:14",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
+        "name": "\uc774\uc0ac Moving",
+        "url": "https://open.spotify.com/album/3WUrxZXHNostS9hbGd3A4Q"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "\uc774\uc0ac Moving",
+      "url": "https://open.spotify.com/track/1LKrxKVMmC9ahJ77RTAQ4f"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
         "name": "How did you (feat. Baek Yerin)",
         "url": "https://open.spotify.com/album/1QAenbdPhvPmioXem29cTV"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "\uc774\uc0ac Moving",
-        "url": "https://open.spotify.com/album/3WUrxZXHNostS9hbGd3A4Q"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "\uc774\uc0ac Moving",
-      "url": "https://open.spotify.com/track/1LKrxKVMmC9ahJ77RTAQ4f"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 233284,
       "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
       "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "LEEEE",
+        "url": "https://open.spotify.com/album/4Kc0FgDjHs0iB3TGSAOoEl"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "all day",
+      "url": "https://open.spotify.com/track/2Es42gZ3Rj0F7hOZ5876Go"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -375,22 +391,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -443,6 +459,22 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+      },
+      "artists": [
+        {
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -459,22 +491,6 @@
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "LEEEE",
-        "url": "https://open.spotify.com/album/4Kc0FgDjHs0iB3TGSAOoEl"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "all day",
-      "url": "https://open.spotify.com/track/2Es42gZ3Rj0F7hOZ5876Go"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -631,18 +615,34 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
       "artists": [
         {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 178373,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "Lean On Me (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
+      },
+      "artists": [
+        {
+          "name": "Hoyeon Kim",
+          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It will be all fine",
+      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
+      },
+      "artists": [
+        {
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
         "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
         "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 186441,
       "name": "\uc9c0\ucce4\uc5b4 Burned out",
       "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
-        "name": "Lean On Me (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
-      },
-      "artists": [
-        {
-          "name": "Hoyeon Kim",
-          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It will be all fine",
-      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "My Little Thought",
-        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Lazy Me",
-      "url": "https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "\uc2dc\uc18c",
         "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 163000,
       "name": "\uc2dc\uc18c",
       "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "My Little Thought",
+        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Lazy Me",
+      "url": "https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq"
     },
     {
       "added_at": "2023-08-24 02:22:14",

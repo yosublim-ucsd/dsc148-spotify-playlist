@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 184300,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/1Et2GokgjL1FKGdLBAeTNJ"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 200515,
       "name": "By Now",
       "url": "https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 217594,
       "name": "Forgotten Man",
       "url": "https://open.spotify.com/track/3DllAMFdz1wYoYLexnbS56"
@@ -2359,6 +2359,28 @@
     },
     {
       "album": {
+        "name": "Heart On Ice",
+        "url": "https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        },
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160013,
+      "name": "I ain't Country",
+      "url": "https://open.spotify.com/track/7HoqLd4ZXftkWF1TkQgSt2"
+    },
+    {
+      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
@@ -3075,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "Muddy Water Rockstar",
+        "url": "https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Muddy Water Rockstar",
+      "url": "https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k"
+    },
+    {
+      "album": {
         "name": "My Ex Came Over",
         "url": "https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13"
       },
@@ -3467,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "Promiseland",
+        "url": "https://open.spotify.com/album/2y0FPrFN1IoM5U4cqxVYKq"
+      },
+      "artists": [
+        {
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155881,
+      "name": "Promiseland",
+      "url": "https://open.spotify.com/track/5QUhfrmKG93HXYmyvqoLfm"
+    },
+    {
+      "album": {
         "name": "Frayed At Both Ends",
         "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
       },
@@ -3778,6 +3836,28 @@
       "duration_ms": 202531,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd"
+    },
+    {
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/6K7A3CvglEtN3kNNYIaN8I"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        },
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146189,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/7p66Vq5NrmkK1UW7jNyn87"
     },
     {
       "album": {
@@ -4824,7 +4904,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 136668,
       "name": "Way I'm Living",
       "url": "https://open.spotify.com/track/3rgFJUx3Oz7Siwgts4Giwz"
@@ -5206,7 +5286,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 208480,
       "name": "Wrong Turns",
       "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
@@ -5282,6 +5362,24 @@
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+      "album": {
+        "name": "Young & Hungry",
+        "url": "https://open.spotify.com/album/4vzl6sDzw1y0D0490NvALa"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194378,
+      "name": "Young & Hungry",
+      "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"
     },
     {
       "album": {

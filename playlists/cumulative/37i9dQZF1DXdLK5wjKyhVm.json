@@ -53,6 +53,24 @@
     },
     {
       "album": {
+        "name": "adjustment",
+        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
+      },
+      "artists": [
+        {
+          "name": "Ryder 003",
+          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "adjustment",
+      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
+    },
+    {
+      "album": {
         "name": "Adrift",
         "url": "https://open.spotify.com/album/5SXNN8UR5pttew7qJlcKf7"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 214000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/0bt1VX2YCR8Vgai2UsbB92"
@@ -324,7 +342,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 125333,
       "name": "beat71exp",
       "url": "https://open.spotify.com/track/2RbRR3tr68MkJNE2Fyz6Kt"
@@ -480,7 +498,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 218414,
       "name": "Break Out",
       "url": "https://open.spotify.com/track/5NOiBW8Iu82JhD6A36eWbK"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 142000,
       "name": "cosmonaut",
       "url": "https://open.spotify.com/track/2EiT6K6CBsuuPeSihFbE7I"
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 127010,
       "name": "Feel like that",
       "url": "https://open.spotify.com/track/1wmyRW1C7MIFJR7Wb8xXHM"
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 102501,
       "name": "Ghetto Box",
       "url": "https://open.spotify.com/track/3FZKndPctkW1LgNTpsqzr4"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 129942,
       "name": "Keep",
       "url": "https://open.spotify.com/track/4ynHXPhG77tZBm7bFkIsQG"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 149394,
       "name": "kioku",
       "url": "https://open.spotify.com/track/03wEpEXNSURDS3DWP3QM22"
@@ -2889,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131766,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/7sGsMM5RfNCcH3u4sfrwk8"
       },
@@ -3060,7 +3096,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 115000,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/42CXSyKpzHOIDZIlTbtiwk"
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 91655,
       "name": "Massay\u00f3",
       "url": "https://open.spotify.com/track/03DukrnW4DUzGhBmqlCI9C"
@@ -4024,7 +4060,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 96084,
       "name": "Oshiruko Cake",
       "url": "https://open.spotify.com/track/4JhHFx3xkgnqwtgFpxkmZu"
@@ -4114,7 +4150,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 128000,
       "name": "Palm Trees",
       "url": "https://open.spotify.com/track/7vFAqXM2obLAyDBizdZW4J"
@@ -4596,7 +4632,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 148328,
       "name": "sandy socks",
       "url": "https://open.spotify.com/track/20632Py7SXGfb2EN5MNrqb"
@@ -4670,6 +4706,24 @@
       "duration_ms": 172072,
       "name": "Shakshuka",
       "url": "https://open.spotify.com/track/6kTd6Xu9IBCB5ShedtldZw"
+    },
+    {
+      "album": {
+        "name": "shelter",
+        "url": "https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc"
+      },
+      "artists": [
+        {
+          "name": "Kolorama",
+          "url": "https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "shelter",
+      "url": "https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo"
     },
     {
       "album": {
@@ -4912,6 +4966,24 @@
       "duration_ms": 99457,
       "name": "Soul Reflection",
       "url": "https://open.spotify.com/track/3jBfyGT7o2LPDmSZucHcYr"
+    },
+    {
+      "album": {
+        "name": "spinal chords",
+        "url": "https://open.spotify.com/album/2I5Tv05AQHsYQc8EAuD48x"
+      },
+      "artists": [
+        {
+          "name": "fontatron",
+          "url": "https://open.spotify.com/artist/5rwl3ry7Yx0YuONcyezg4d"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135558,
+      "name": "spinal chords",
+      "url": "https://open.spotify.com/track/0SPakj2sm0Q3oJ4rEj9Jhi"
     },
     {
       "album": {
@@ -5444,7 +5516,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 112061,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/1bCTh4DivrwJAecXKFSe9O"
@@ -5766,7 +5838,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 53815,
       "name": "voices",
       "url": "https://open.spotify.com/track/6vfoxpNa7KUzBZGFNfMXEX"
@@ -5904,7 +5976,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 71153,
       "name": "Wisdome",
       "url": "https://open.spotify.com/track/0unuwNzX708VxHAAXKGsVG"
@@ -5962,7 +6034,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 109714,
       "name": "You Gave Me Your Phone",
       "url": "https://open.spotify.com/track/0LT4gakUZZ4rZRT4fqAN7e"

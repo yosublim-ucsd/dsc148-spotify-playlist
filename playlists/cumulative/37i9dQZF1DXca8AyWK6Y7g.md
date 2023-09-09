@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Aidan Bissett
 
-1,781 songs - 3 day 18 hr 16 min
+1,783 songs - 3 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 | 2023-03-03 | 2023-07-01 |
 | [Feverbreak \- Basenji Remix](https://open.spotify.com/track/1nu21EDKSGoLcITwVnxcTL) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6), [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Basenji](https://open.spotify.com/artist/4FH1qQ5KcTtomryu4O5pgX) | [Feverbreak \(Basenji Remix\)](https://open.spotify.com/album/7vMFRuXX3UI0JLG77cREuR) | 3:54 | 2021-02-26 | 2021-10-14 |
 | [Figure It Out](https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Figure It Out](https://open.spotify.com/album/2Hnlavdkpy4vZhva8VsTfq) | 2:44 | 2021-02-23 | 2022-01-04 |
-| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 |  |
+| [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 | 2023-09-09 |
 | [Find](https://open.spotify.com/track/49ex5tTzAH1XMbzWUv0AEQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Cody Lovaas](https://open.spotify.com/artist/7fWrZ2q4fGZAnuCPfgSU52) | [Find](https://open.spotify.com/album/6oM9lQGrxXasipni3i4skG) | 3:39 | 2019-05-26\* | 2019-08-13 |
 | [Fine By Me](https://open.spotify.com/track/214eImoHDFo0vb3WL2Amk4) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Fine By Me](https://open.spotify.com/album/0M5snw5pGGynwHrxwJBtwn) | 2:29 | 2021-11-26 | 2022-01-29 |
 | [Fire Escape](https://open.spotify.com/track/6dLuZg4jYj6IhvxyypY1sc) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Fire Escape](https://open.spotify.com/album/2VMM7Zc5cSMP6l02uUcBcE) | 3:01 | 2023-05-05 | 2023-06-09 |
@@ -969,6 +969,7 @@
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-27 |  |
 | [Love and Run](https://open.spotify.com/track/2L5HZ4ddC9vdVSlW0mSL98) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/70vO4w3jAucW4yacH22RAy) | 3:11 | 2019-05-26\* | 2019-08-13 |
 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-05-05 |  |
+| [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2023-09-08 |  |
 | [Love On TV](https://open.spotify.com/track/70pzDL6WXCbT4RhW29TGgY) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love On TV](https://open.spotify.com/album/1LXU3kEAWsG3j41EjdFOT7) | 3:13 | 2022-03-18 | 2022-06-07 |
 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 | 2022-08-12 | 2022-08-27 |
 | [Love Song](https://open.spotify.com/track/3bT4hHXBasKx8ZUUZFwknt) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Love Song](https://open.spotify.com/album/1Ar587sV7dgGcapzP1HOLU) | 2:44 | 2022-02-11 | 2022-03-11 |
@@ -1245,6 +1246,7 @@
 | [pretty girl in la](https://open.spotify.com/track/5NdUIQzOj9YuxHKLEYRZCA) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the girlhouse ep](https://open.spotify.com/album/4iwP3pc1MGgEVtPygt5KZL) | 3:34 | 2021-05-15 | 2021-11-12 |
 | [Pretty Girls](https://open.spotify.com/track/3fKdTr6Uv8HTb92Ih3QWxa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I'm Gone](https://open.spotify.com/album/4Wb5bU9FkmZ84WkkL37rKA) | 2:13 | 2020-06-13 | 2021-03-22 |
 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2023-08-18 |  |
+| [pretty isn’t pretty](https://open.spotify.com/track/6W9l02gRsXVxzIuQC1oc1X) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:19 | 2023-09-08 |  |
 | [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 | 2023-06-16 |  |
 | [Probabilities](https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Probabilities](https://open.spotify.com/album/4XZJNpBu0w1yAV4NySwYtJ) | 2:28 | 2022-07-22 | 2022-09-03 |
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2020-10-16 | 2021-03-22 |
@@ -1702,7 +1704,7 @@
 | [Waves \- RAC Mix](https://open.spotify.com/track/0wR2v8X5ZZKj3SDydUyWaf) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Waves](https://open.spotify.com/album/2W1fgxoyudIzurIx6y9hQZ) | 3:28 | 2019-09-27 | 2021-05-14 |
 | [Way It Was](https://open.spotify.com/track/3BUmKJc9IWZvpwVY6YYwky) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Way It Was](https://open.spotify.com/album/3mVH4ng2nyH7Oan4DRiN7H) | 3:25 | 2021-10-29 | 2022-01-15 |
 | [WDWG](https://open.spotify.com/track/5TmYNva5BaHcQjyxtOsfV5) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [WDWG](https://open.spotify.com/album/74r4ohqUI6ISrscnFIPdPm) | 3:14 | 2021-04-24 | 2021-05-15 |
-| [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-07-21 |  |
+| [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-07-21 | 2023-09-09 |
 | [We Do \(feat\. Miranda Glory\)](https://open.spotify.com/track/3roMGtDfleE2N8M56E2WFs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Noah Neiman](https://open.spotify.com/artist/2ojEZEmcQVC3vLNpcoo9rJ), [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK) | [We Do \(feat\. Miranda Glory\)](https://open.spotify.com/album/0ohUpzXjE3ArwyHMcYWnKT) | 2:16 | 2019-05-26\* | 2019-08-13 |
 | [We Don't Have To Die](https://open.spotify.com/track/1QuZqUUSGzfWmeriWQ9t0p) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [We Don't Have To Die](https://open.spotify.com/album/5cxLNaWgE1nVlc9Zg6ds59) | 3:55 | 2022-01-07 | 2022-01-29 |
 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-10 | 2023-04-23 |

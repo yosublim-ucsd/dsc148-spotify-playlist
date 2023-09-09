@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 217967,
       "name": "Artistic Groove",
       "url": "https://open.spotify.com/track/3NoazwpMAu02KkRwzjM3aS"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 178213,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN"
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
+    },
+    {
+      "album": {
         "name": "SUPERSTAR",
         "url": "https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S"
       },
@@ -337,6 +355,28 @@
     },
     {
       "album": {
+        "name": "BASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0iwA2BU9jnxT11qkxC0rEO"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        },
+        {
+          "name": "Iron",
+          "url": "https://open.spotify.com/artist/2IQN0IrTeIM0xhtiFAK9Ed"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221183,
+      "name": "Crazy (Guilty Pleasure)",
+      "url": "https://open.spotify.com/track/4z1xOpkYXm1My9JwNMdtIF"
+    },
+    {
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -388,6 +428,42 @@
       "duration_ms": 236906,
       "name": "Days and Years",
       "url": "https://open.spotify.com/track/44PFoCMti0fOLKY7GJj1Cm"
+    },
+    {
+      "album": {
+        "name": "DICE - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK"
+    },
+    {
+      "album": {
+        "name": "JONGHYUN The Collection \"Story Op.1\"",
+        "url": "https://open.spotify.com/album/6tYoidZViVVzSXG4jKEmNd"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275174,
+      "name": "Diphylleia grayi",
+      "url": "https://open.spotify.com/track/5zkaZh7IKPfin3eRNkqfLQ"
     },
     {
       "album": {
@@ -535,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Falling Free",
+        "url": "https://open.spotify.com/album/3VhSceT0VsMguLGFBJv5g2"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229084,
+      "name": "Falling Free",
+      "url": "https://open.spotify.com/track/4xUZbINpa9Kv8P1P0iAYCg"
+    },
+    {
+      "album": {
         "name": "1 of 1 - The 5th Album",
         "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
       },
@@ -550,6 +644,24 @@
       "duration_ms": 219813,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2BcTKLMXMlPjdhKxlECfCZ"
+    },
+    {
+      "album": {
+        "name": "Gasoline - The 2nd Album",
+        "url": "https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv"
     },
     {
       "album": {
@@ -863,6 +975,42 @@
     },
     {
       "album": {
+        "name": "Inspiration - SM STATION",
+        "url": "https://open.spotify.com/album/3OMOAdPaOxez8Adn1lavXc"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217538,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/6pm8EwMGn8RAqNS7JIyHqT"
+    },
+    {
+      "album": {
+        "name": "INSPIRATION",
+        "url": "https://open.spotify.com/album/6h7MK8X2MnoZwZfsRJdTKd"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "INSPIRATION",
+      "url": "https://open.spotify.com/track/33YqxqokxOEIpXQQMjHpag"
+    },
+    {
+      "album": {
         "name": "HARD - The 8th Album",
         "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
       },
@@ -917,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Killer - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m"
+    },
+    {
+      "album": {
         "name": "Don't Call Me - The 7th Album",
         "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
       },
@@ -968,6 +1134,24 @@
       "duration_ms": 278426,
       "name": "Life",
       "url": "https://open.spotify.com/track/4rZ7JOd7Q2GH2W7kFFZDlL"
+    },
+    {
+      "album": {
+        "name": "Life goes on",
+        "url": "https://open.spotify.com/album/0f7HOkgm4MtnKgtVlcQqnK"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200946,
+      "name": "Life goes on",
+      "url": "https://open.spotify.com/track/2k8xZozD3ahGDA7rL9kitn"
     },
     {
       "album": {
@@ -1083,6 +1267,28 @@
     },
     {
       "album": {
+        "name": "Lullaby - SM STATION",
+        "url": "https://open.spotify.com/album/7bPbKypw7PxswFfptL6J9y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200684,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/7eS2empYaxaKIEYuuWXxpw"
+    },
+    {
+      "album": {
         "name": "Married To The Music - The 4th Album Repackage",
         "url": "https://open.spotify.com/album/41YpOLdNiBOP4CqZyVzBSB"
       },
@@ -1130,7 +1336,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 200530,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/5948rGOD7Spt8IALZLOuNr"
@@ -1184,10 +1390,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 168422,
       "name": "Never Forever",
       "url": "https://open.spotify.com/track/554Yyo55jijsvGWp5w2T9M"
+    },
+    {
+      "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
     },
     {
       "album": {
@@ -1264,6 +1488,24 @@
       "duration_ms": 191567,
       "name": "Prism",
       "url": "https://open.spotify.com/track/3vm0mFRTYFRmtym8SPHmUq"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/2RipDT9N5dyJKvyURHxTSH"
     },
     {
       "album": {
@@ -1390,6 +1632,46 @@
       "duration_ms": 293853,
       "name": "Romantic",
       "url": "https://open.spotify.com/track/7vAq3yEqNNEv7qL9aeVH7v"
+    },
+    {
+      "album": {
+        "name": "Romeo and Juliet",
+        "url": "https://open.spotify.com/album/1YA2MGjNMvXk3wkY8z49Eh"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267982,
+      "name": "Romeo and Juliet",
+      "url": "https://open.spotify.com/track/7zHLLOTZTAexqKsyi3etd5"
+    },
+    {
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        },
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3bxFJDdBevZ44kb9qI3lB0"
     },
     {
       "album": {
@@ -1728,7 +2010,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 199722,
       "name": "Truth",
       "url": "https://open.spotify.com/track/4zwbzD4aS1DMhqUM8Ed7ie"
@@ -1782,10 +2064,32 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 59920,
       "name": "WANT ~Outro~",
       "url": "https://open.spotify.com/track/4oPi8MvS4CMLO7DMEefb32"
+    },
+    {
+      "album": {
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
     },
     {
       "album": {
@@ -1894,6 +2198,28 @@
       "duration_ms": 223514,
       "name": "\ub370\ub9ac\ub7ec \uac00 Good Evening",
       "url": "https://open.spotify.com/track/3dTFof43vcpQKx6Z3iTsOj"
+    },
+    {
+      "album": {
+        "name": "BASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0iwA2BU9jnxT11qkxC0rEO"
+      },
+      "artists": [
+        {
+          "name": "JONGHYUN",
+          "url": "https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209175,
+      "name": "\ub370\uc790-\ubd80 (D\u00e9j\u00e0-Boo)",
+      "url": "https://open.spotify.com/track/3vmL3zJZg3AW5idifrAve4"
     },
     {
       "album": {

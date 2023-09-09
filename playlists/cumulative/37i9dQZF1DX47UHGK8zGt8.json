@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
+    },
+    {
+      "album": {
         "name": "Um banda um",
         "url": "https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE"
       },
@@ -3448,7 +3466,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 143461,
       "name": "Transforma(dor)",
       "url": "https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ"

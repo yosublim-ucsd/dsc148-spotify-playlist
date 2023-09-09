@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 260624,
+  "num_followers": 260897,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3",
+  "snapshot_id": "MCw1ZjY0NzMzMDA3YjE3MWUxZDY3NDU0YmNkYThmNTc0MjZkYjg2MjUy",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "The Gereg",
+        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Yuve Yuve Yu",
+      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "The Gereg",
-        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Yuve Yuve Yu",
-      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Paranoid (Crash & Burn)",
-        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 235736,
-      "name": "Paranoid (Crash & Burn)",
-      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "I Spit On Your Grave",
         "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 219686,
       "name": "I Spit On Your Grave",
       "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Paranoid (Crash & Burn)",
+        "url": "https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 235736,
+      "name": "Paranoid (Crash & Burn)",
+      "url": "https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660"
     },
     {
       "added_at": "2022-11-18 01:42:16",

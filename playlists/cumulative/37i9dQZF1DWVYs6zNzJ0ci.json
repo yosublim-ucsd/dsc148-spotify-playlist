@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Nonpalidece",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Cultura Prof\u00e9tica",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 268007,
       "name": "Alerta",
       "url": "https://open.spotify.com/track/4fXzJ9jV41ZM0k6O5EyT89"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 260156,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 243984,
       "name": "Alucinando",
       "url": "https://open.spotify.com/track/15Fm8P03dEoOvDnRaK10Bx"
@@ -416,6 +416,24 @@
       "duration_ms": 255529,
       "name": "Apnea",
       "url": "https://open.spotify.com/track/5oScrG8hVzyxoj2dwrSxrI"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7E9fyMb6NQYG62MjqYgxhw"
+      },
+      "artists": [
+        {
+          "name": "Hermano L",
+          "url": "https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201883,
+      "name": "Aqu\u00ed en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6KhPLVQxcLLB0plqEUBHHP"
     },
     {
       "album": {
@@ -1647,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0LfdXgdI3ksuzkpQomvIH8"
+      },
+      "artists": [
+        {
+          "name": "Tubar\u00e1",
+          "url": "https://open.spotify.com/artist/0Er4BwZ8o4ec3I3rdLaFL3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201328,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/3rWcQsUH5Jo25JyaYr9Kmj"
+    },
+    {
+      "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
       },
@@ -1782,7 +1818,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 248800,
       "name": "Enviciame - Flex Version",
       "url": "https://open.spotify.com/track/52CNsdNu6mifPPtE19pV6R"
@@ -2058,7 +2094,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 245932,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/53LAYZeyIvplSdQTmEoeKC"
@@ -2236,7 +2272,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 164514,
       "name": "Historias de telediario 2k23",
       "url": "https://open.spotify.com/track/0LCl0WzSPzxdNAEebxhpNz"
@@ -3074,7 +3110,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 218048,
       "name": "Lo Mas Lindo (777 Remix)",
       "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
@@ -3146,7 +3182,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 456933,
       "name": "Los desaparecidos",
       "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 308756,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
@@ -4119,6 +4155,24 @@
     },
     {
       "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "album": {
         "name": "Eleven",
         "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
       },
@@ -4492,7 +4546,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 210190,
       "name": "Qui\u00e9n de los Dos?",
       "url": "https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux"
@@ -5113,6 +5167,28 @@
     },
     {
       "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0zemhsDxtW61XHT0BYvaG0"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        },
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2YA3RGYuXPsuVy2tQOa0cf"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/1luiHxTvu4zHLCrG3VhP1E"
       },
@@ -5219,6 +5295,32 @@
     },
     {
       "album": {
+        "name": "This Strange Effect",
+        "url": "https://open.spotify.com/album/1PLz4S3i1sl9cUaD1wTf15"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        },
+        {
+          "name": "Rotman",
+          "url": "https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "This Strange Effect",
+      "url": "https://open.spotify.com/track/5XfpYQ0Mj24oHVJ3c0JMOX"
+    },
+    {
+      "album": {
         "name": "Todo Lo Que Se Fue",
         "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
       },
@@ -5284,7 +5386,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 182533,
       "name": "Trago Coqueto",
       "url": "https://open.spotify.com/track/1qHiEpXSWq4kMLKiBIVe1U"

@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Carmen de Espa\u00f1a",
+        "url": "https://open.spotify.com/album/4gRMzAVEmQp1aSIkxplmpn"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sevilla",
+          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184573,
+      "name": "Te Quiero Te Quiero",
+      "url": "https://open.spotify.com/track/55ekUAzFSBgKDj2gWziFsd"
+    },
+    {
+      "album": {
         "name": "Carmen Sevilla : Sus Grandes Exitos",
         "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 184693,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"

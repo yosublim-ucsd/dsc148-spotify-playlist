@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,121 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,193 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 31 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
 | 32 | [Mambo Swing](https://open.spotify.com/track/54B4Cfi9Q4q17tDrs9YFzW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 5:07 |
 | 33 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
-| 34 | [Ain't No Big Thing](https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Shake Those Hula Hips!](https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd) | 3:33 |
-| 35 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
+| 34 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
+| 35 | [Ain't No Big Thing](https://open.spotify.com/track/5FIuy1qgSfOENMDKHjsAsb) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Shake Those Hula Hips!](https://open.spotify.com/album/3y7gQh1B6UZrBO6CGIxuDd) | 3:33 |
 | 36 | [The Joint is Jumpin'](https://open.spotify.com/track/3LrDcOzd4gpkXanl4Xeqf1) | [Ray Gelato](https://open.spotify.com/artist/5w106KVVwKZfzawD8dCYa3) | [Salutes the Great Entertainers](https://open.spotify.com/album/5j6NI2UTBAJ1NcptiLqI1s) | 2:45 |
 | 37 | [Solid Gold Cadillac](https://open.spotify.com/track/1oztW0EFjpj4WSHEf6Jt0b) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Solid Gold Cadillac](https://open.spotify.com/album/6JfB7Xb4Qk8D2Ioas6TYNO) | 3:02 |
 | 38 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 49 | [Ladies Man](https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a) | [The New Morty Show](https://open.spotify.com/artist/7GdpM0f8Vw3eXAp55yZ52r), [Brian Fishler](https://open.spotify.com/artist/5fxyIuzJ5vK7Zx81wjdMcL), [Cynthia Lewis](https://open.spotify.com/artist/0FJZBCtDYUDl0mYzgmWgYh), [Jeff Whipp](https://open.spotify.com/artist/66RFLzdKcDlXlSxmff7BvA), [John Quam](https://open.spotify.com/artist/6vghKR8UKkp05RwmP8Fg5E), [Morty Okin](https://open.spotify.com/artist/6FqmDFYYzq24aznz9lSmG6), [Robert Castillo](https://open.spotify.com/artist/1KurYRB7eBuZFscPXhW3df), [Trevor Kinsel](https://open.spotify.com/artist/3zNfLl2dwYGK9AgeFEeaPL), [Van Hughes](https://open.spotify.com/artist/76GyeB20CZqIOO1AfXrwV3), [Matt Cowan](https://open.spotify.com/artist/5oGRwSzCJN3v7DghqpKcj7), [David Murotake](https://open.spotify.com/artist/7uzZ3EA96AqNKa37nhSLp0) | [Rigormorty](https://open.spotify.com/album/3nqKqVYdRaQyB2qd1kWTAk) | 3:19 |
 | 50 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
 
-Snapshot ID: `MCw5MzEwNWYwYTZjYzFlZjVhZjJlYjhlZDY5N2QyMDkxNGQwZDExMzEz`
+Snapshot ID: `MCw5YmE1NzFiNTE1YzAwOGQ0MjlkZjc0YzI2YjJlNmZlZmY5NWI3ZTlh`

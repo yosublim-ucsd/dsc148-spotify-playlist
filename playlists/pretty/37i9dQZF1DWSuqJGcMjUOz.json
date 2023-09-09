@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
+  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Provocante",
-      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Il \u00e9tait une fois",
         "url": "https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 245840,
       "name": "Il \u00e9tait une fois",
       "url": "https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Provocante",
+      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9norme chien tr\u00e8s gentil",
-        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
-      },
-      "artists": [
-        {
-          "name": "Velours Velours",
-          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
-        }
-      ],
-      "duration_ms": 179384,
-      "name": "L'\u00e9norme chien tr\u00e8s gentil",
-      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Adieu les monstres",
         "url": "https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 167186,
       "name": "Les gla\u00e7ons",
       "url": "https://open.spotify.com/track/2c5qBGUZBUm6g369hX6nSz"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9norme chien tr\u00e8s gentil",
+        "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 179384,
+      "name": "L'\u00e9norme chien tr\u00e8s gentil",
+      "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Si j'\u00e9tais toi",
+        "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        },
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Si j'\u00e9tais toi",
+      "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Les avions de Mirabel",
         "url": "https://open.spotify.com/album/1S3TfUWrkgA82sf15gzXkZ"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 223186,
       "name": "Plan Large",
       "url": "https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Si j'\u00e9tais toi",
-        "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs",
-          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
-        },
-        {
-          "name": "Lucill",
-          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Si j'\u00e9tais toi",
-      "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Fr\u00e9quence violence",
+        "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
+      },
+      "artists": [
+        {
+          "name": "Pogo Car Crash Control",
+          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Cristaux liquides",
+      "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Or",
         "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
       },
@@ -1983,22 +1999,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tous les jours printemps",
-        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
-      },
-      "artists": [
-        {
-          "name": "Original Gros Bonnet",
-          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Glace noire",
-      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Winston Express",
         "url": "https://open.spotify.com/album/5vPTLJRuspTFLoFb0u3wbT"
       },
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Fr\u00e9quence violence",
-        "url": "https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3"
+        "name": "Tous les jours printemps",
+        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
       },
       "artists": [
         {
-          "name": "Pogo Car Crash Control",
-          "url": "https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD"
+          "name": "Original Gros Bonnet",
+          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
         }
       ],
-      "duration_ms": 170346,
-      "name": "Cristaux liquides",
-      "url": "https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt"
+      "duration_ms": 249480,
+      "name": "Glace noire",
+      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Pas l'temps d'niaiser",
+        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
+      },
+      "artists": [
+        {
+          "name": "Les H\u00f4tesses D' Hilaire",
+          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "Inconfortable",
+      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Petite fille devient grande",
         "url": "https://open.spotify.com/album/0HkbzxdXq9eY7Bp4FzFkqf"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 152126,
       "name": "T'es la reine",
       "url": "https://open.spotify.com/track/1M4zFvJ4c7jJvvZ5FUCufg"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Pas l'temps d'niaiser",
-        "url": "https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz"
-      },
-      "artists": [
-        {
-          "name": "Les H\u00f4tesses D' Hilaire",
-          "url": "https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Inconfortable",
-      "url": "https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "El Futuro Es Tribal",
-        "url": "https://open.spotify.com/album/61csEXQdoUlCO7EPT8UPIj"
-      },
-      "artists": [
-        {
-          "name": "Akawui",
-          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
-        }
-      ],
-      "duration_ms": 307337,
-      "name": "Breath Of Fire",
-      "url": "https://open.spotify.com/track/6UYTcGiUUvPDFGFa3XKQwP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "On va sauver ce qui reste",
         "url": "https://open.spotify.com/album/6klAWNXAeknSb05EFLbllK"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 228382,
       "name": "Moshpit \u00e0 St-Dilon",
       "url": "https://open.spotify.com/track/6OvHVsWz8k4vDfaGJpqRTe"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "El Futuro Es Tribal",
+        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
+      },
+      "artists": [
+        {
+          "name": "Akawui",
+          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
+        }
+      ],
+      "duration_ms": 307337,
+      "name": "Breath Of Fire",
+      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2023",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,380 likes - 49 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,522 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
+| 1 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 |
 | 2 | [Himawari](https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Himawari](https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9) | 4:19 |
 | 3 | [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 |
 | 4 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPcuTtZNPGI.md) - [plain]
 | 48 | [うっせぇわ \- Giga Remix](https://open.spotify.com/track/0DT1nb0hytfdzS1J9piX1W) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [うっせぇわ \(Giga Remix\)](https://open.spotify.com/album/0LfBw9oEr73hmJzQS6QBqr) | 3:10 |
 | 49 | [うっせぇわ \- Piano Ver.](https://open.spotify.com/track/2ui683JiJBmZSiZvm0KBZx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [レディメイド](https://open.spotify.com/album/7hy4zddDO6zOMQxRipqQry) | 3:43 |
 
-Snapshot ID: `MCxmMzk4MDgyMTk1NmI2NzljNmUwNDU0YjUyNTZmNTcwNjJiZTIwYzMy`
+Snapshot ID: `MCw3MDYyM2RlYWU2MGQ4MTQxZGJmMmYyMzY0MTYyZDIyMjNlMjE0Mzlh`

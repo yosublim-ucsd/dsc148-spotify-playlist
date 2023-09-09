@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689940,
+  "num_followers": 689972,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjkyYTg3ZDhjNDUxM2UzZWU2NWNhOWJmOTNiYThjNDZiNTczMDY4",
+  "snapshot_id": "MCwwNmZlZDQ0YWE1MjQ2YzU3ZGZiNjU5ZjIxNzJjN2U3ZjFiMDM4ZjNm",
   "tracks": [
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "So Sick",
-        "url": "https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB"
-      },
-      "artists": [
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        },
-        {
-          "name": "DJ Katch",
-          "url": "https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl"
-        }
-      ],
-      "duration_ms": 151436,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Good for Me (feat. Anna Straker)",
         "url": "https://open.spotify.com/album/748zysgcKhJBQPJcRAnznX"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 144960,
       "name": "Good for Me (feat. Anna Straker)",
       "url": "https://open.spotify.com/track/2uq1PtuZxq2BAWqZSS80Bd"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "So Sick",
+        "url": "https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB"
+      },
+      "artists": [
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        },
+        {
+          "name": "DJ Katch",
+          "url": "https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl"
+        }
+      ],
+      "duration_ms": 151436,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z"
     },
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "Chucks",
-        "url": "https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 169538,
-      "name": "Chucks",
-      "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 174649,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "Chucks",
+        "url": "https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 169538,
+      "name": "Chucks",
+      "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
     },
     {
       "added_at": "2023-09-08 00:00:00",

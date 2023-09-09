@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "Eating Ghosts",
+        "url": "https://open.spotify.com/album/01spKnSlTjvWfdtfk6NuUN"
+      },
+      "artists": [
+        {
+          "name": "A.D.A.M. MUSIC PROJECT",
+          "url": "https://open.spotify.com/artist/19NbQWCfWWDi4gNidk4ooe"
+        },
+        {
+          "name": "No More Kings",
+          "url": "https://open.spotify.com/artist/71ayJn19k4ENbNmOmKKgfi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190727,
+      "name": "Eating Ghosts",
+      "url": "https://open.spotify.com/track/5kOaodJwNPeDnKEkAsGrRo"
+    },
+    {
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu"
       },
@@ -1604,7 +1626,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 348240,
       "name": "So Many Millions",
       "url": "https://open.spotify.com/track/0iXIEH3MpE2jJby5fAdczW"

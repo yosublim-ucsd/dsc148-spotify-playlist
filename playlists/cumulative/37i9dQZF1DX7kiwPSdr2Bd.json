@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Midian Lima",
+  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Sarah Beatriz",
   "name": "Mulheres do Gospel",
   "tracks": [
     {
@@ -2689,6 +2689,28 @@
     },
     {
       "album": {
+        "name": "Pode Come\u00e7ar Agora",
+        "url": "https://open.spotify.com/album/4nu4QKriUnD4uUg3LJYz0i"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330652,
+      "name": "Pode Come\u00e7ar Agora - Ao Vivo",
+      "url": "https://open.spotify.com/track/5QguNh24lZ3wEHZwENbNJD"
+    },
+    {
+      "album": {
         "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
         "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
       },
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 313124,
       "name": "Tu \u00c9s Deus",
       "url": "https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA"
@@ -3597,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Voc\u00ea Me Escolheu (Studio Session)",
+        "url": "https://open.spotify.com/album/2gTlZZfhI54IwmvwhaKkby"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289212,
+      "name": "Voc\u00ea Me Escolheu - Studio Session",
+      "url": "https://open.spotify.com/track/1RhNKUkUYYda9xbe5FzUIg"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar",
         "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
@@ -3662,7 +3702,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 236493,
       "name": "Vou Me Humilhar",
       "url": "https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl"

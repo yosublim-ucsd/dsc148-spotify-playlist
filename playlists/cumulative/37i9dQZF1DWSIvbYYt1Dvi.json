@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "pumapjl e sonotws \u00e9 AULAS ",
+  "description": "don l \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -262,6 +262,32 @@
     {
       "album": {
         "name": "A Vida \u00c9 Um Sopro",
+        "url": "https://open.spotify.com/album/31kxbEqB4x5lpqEvRIgF7z"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Renan Samam",
+          "url": "https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261109,
+      "name": "A Vida \u00c9 Um Sopro",
+      "url": "https://open.spotify.com/track/1o8ttNku9lspk3dFOfBmY9"
+    },
+    {
+      "album": {
+        "name": "A Vida \u00c9 Um Sopro",
         "url": "https://open.spotify.com/album/0PHk8G1R0bLl6Tm4uVrBcu"
       },
       "artists": [
@@ -280,7 +306,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 261109,
       "name": "A Vida \u00c9 Um Sopro",
       "url": "https://open.spotify.com/track/4G48JuYeAiap585RaG4gvR"
@@ -1642,7 +1668,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 134117,
       "name": "Essa Eu Fiz de Free",
       "url": "https://open.spotify.com/track/0VEqYpNBGmDVkFNvflpS64"
@@ -2378,6 +2404,28 @@
       "duration_ms": 210445,
       "name": "Lideran\u00e7a",
       "url": "https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u"
+    },
+    {
+      "album": {
+        "name": "Lili",
+        "url": "https://open.spotify.com/album/51W9VxFae3lbK4AhwLzB0L"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Terra Preta",
+          "url": "https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Lili",
+      "url": "https://open.spotify.com/track/50xFGBuVecb9LQ6a5evQJg"
     },
     {
       "album": {

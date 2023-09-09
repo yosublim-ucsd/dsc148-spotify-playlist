@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-246 songs - 16 hr 59 min
+247 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Blaze](https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 6:21 | 2020-11-13 | 2023-08-05 |
 | [Boardwalk](https://open.spotify.com/track/2m27M94es2PLFX2GOzEVQR) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down](https://open.spotify.com/album/3Gy33o1AUvu4eNKT8jHAIV) | 4:04 | 2023-08-04 |  |
 | [Boardwalk](https://open.spotify.com/track/3J80Xk9JJgygAlTWmaWEQA) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Boardwalk](https://open.spotify.com/album/7mlPg2FJZbUWhn4ghRXaIn) | 4:04 | 2022-03-25 | 2022-07-29 |
+| [Bobby Pins](https://open.spotify.com/track/1mLVdxr0xYLcEV5DwUMALy) | [Organ Fairchild](https://open.spotify.com/artist/2K4yMzbJpAlMu50i1letMh) | [Leisure Suit](https://open.spotify.com/album/0GILVc2uSUqqmmF24VG0kx) | 4:34 | 2023-09-08 |  |
 | [Boiling Pot](https://open.spotify.com/track/561DcDl3hPXFdW9bI7mTbn) | [The Winston Brothers](https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr) | [Boiling Pot](https://open.spotify.com/album/0hYWNyPQg7ntchVk83CeDF) | 3:11 | 2021-04-23 | 2022-07-29 |
 | [Boiling Pot](https://open.spotify.com/track/6e2cN0jB6TskHmMvQAxW7k) | [The Winston Brothers](https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr) | [Drift](https://open.spotify.com/album/33PW6j12JZS3VTvbQkuKUX) | 3:11 | 2021-04-23 |  |
 | [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 | 2020-11-13 |  |
@@ -123,7 +124,7 @@
 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 | 2020-11-13 |  |
 | [It Gets Funkier IV](https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Hill Climber](https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa) | 3:16 | 2020-11-13 |  |
 | [It Gets Funkier IV](https://open.spotify.com/track/6wKBPuUZ7XP6eCxe4aFlZG) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [It Gets Funkier IV](https://open.spotify.com/album/1MYjbxpsfTLxD6y28VGlXp) | 3:16 | 2020-11-13 | 2022-07-29 |
-| [It's The Smile](https://open.spotify.com/track/280PpXs3xl4NtbFlIKVpxM) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [It's The Smile](https://open.spotify.com/album/1AcLyZ6wRzNHfCmtYRrvEn) | 4:51 | 2023-08-04 |  |
+| [It's The Smile](https://open.spotify.com/track/280PpXs3xl4NtbFlIKVpxM) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [It's The Smile](https://open.spotify.com/album/1AcLyZ6wRzNHfCmtYRrvEn) | 4:51 | 2023-08-04 | 2023-09-09 |
 | [Jimmy's Groove](https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2) | 6:17 | 2021-04-02 |  |
 | [Jimmy's Groove](https://open.spotify.com/track/79eytkCk1dMaHhGr8fcY3P) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/4ke86aiMO3AVhBTM3vmdcE) | 6:17 | 2021-04-02 | 2022-07-29 |
 | [Jump Up \- 7" edit](https://open.spotify.com/track/6UAvcih8yeFJgSe6Hj8AGQ) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jump Up \(7" edit\)](https://open.spotify.com/album/6uLsmgSr8BEleapqyoeJqg) | 3:42 | 2021-10-22 | 2023-05-14 |

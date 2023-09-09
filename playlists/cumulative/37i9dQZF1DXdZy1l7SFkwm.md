@@ -4,7 +4,7 @@
 
 > El aderezo que te falta.
 
-197 songs - 10 hr 56 min
+198 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Garota De Ipanema](https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 2:30 | 2021-03-15 | 2022-07-29 |
 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 | 2021-03-15 |  |
 | [Guardei Minha Viola](https://open.spotify.com/track/1YwIo9Rs7ptTQHQyWDKdfS) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:31 | 2021-03-15 | 2022-11-12 |
+| [Hei! Man](https://open.spotify.com/track/6wlOl6tQDgKJbvGP9319rg) | [Ave Sangria](https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC) | [Ave Sangria](https://open.spotify.com/album/1RF1bfPvdoLs20NpmmqKI3) | 2:54 | 2021-03-15 |  |
 | [Hei! Man](https://open.spotify.com/track/1dUK0GBjMRmEdi1NKMr3WE) | [Ave Sangria](https://open.spotify.com/artist/1q3J12DzCpwW0EwLrKlXvC) | [Ave Sangria](https://open.spotify.com/album/2Kds5PBWka7pcAIay7qp6w) | 2:54 | 2021-03-15 | 2023-08-18 |
 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 | 2021-03-15 |  |
 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:05 | 2021-03-15 |  |
@@ -113,7 +114,7 @@
 | [Many Rivers To Cross](https://open.spotify.com/track/4hHGirIgXzCaPaTPrsR9RQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of / 20th Century Masters](https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA) | 2:43 | 2021-03-15 | 2022-11-12 |
 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 | 2021-03-15 |  |
 | [Maracangalha](https://open.spotify.com/track/6BMMJ4yneWdJRbuGPtFYbb) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Maracangalha](https://open.spotify.com/album/1lAdoQ5iqnk5UTo4felj51) | 2:46 | 2021-03-15 | 2022-11-12 |
-| [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 | 2021-03-15 |  |
+| [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 | 2021-03-15 | 2023-09-09 |
 | [Maracangalha](https://open.spotify.com/track/7vMICBgMH80JfGFaGSi8Yp) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Eu Vou Pra Maracangalha](https://open.spotify.com/album/4eTrToCDAzjyjWOFECOhBW) | 2:47 | 2021-03-15 | 2022-07-29 |
 | [Mas Que Nada](https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Mas Que Nada](https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL) | 2:39 | 2021-03-15 | 2022-07-29 |
 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 | 2021-03-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,910 likes - 127 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,993 likes - 128 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,20 +120,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 110 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 |
 | 111 | [Jenna’s Lullaby](https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC) | [Nerum](https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv) | [Jenna’s Lullaby](https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp) | 3:55 |
 | 112 | [Flute Meditation](https://open.spotify.com/track/6Maz4hkQivpTkktc4hriCI) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Flute Meditation](https://open.spotify.com/album/6aUDq4zL1OTaaSS2m2oWOb) | 3:44 |
-| 113 | [Clearing Your Mind](https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Green Haven](https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q) | 2:43 |
-| 114 | [Rishis](https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Rishis](https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2) | 3:23 |
-| 115 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 |
-| 116 | [Silver Glass](https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Silver Glass](https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU) | 3:23 |
-| 117 | [Vinyasa](https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Vinyasa](https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1) | 3:58 |
-| 118 | [Shimmering](https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs) | [Abril Vann](https://open.spotify.com/artist/0WKB9DQYiXnaZrBL50nWkR) | [Shimmering](https://open.spotify.com/album/6K7IZkZH0CnnEE7WLMlj5d) | 2:26 |
-| 119 | [Terrestrial](https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Terrestrial](https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l) | 3:03 |
-| 120 | [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 |
-| 121 | [Undertow](https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Undertow](https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4) | 2:40 |
-| 122 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 |
-| 123 | [Ancient Prayer](https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Ancient Prayer](https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA) | 2:56 |
-| 124 | [A Time To Pause](https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [A Time To Pause](https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE) | 3:34 |
-| 125 | [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 |
-| 126 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 |
-| 127 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 |
+| 113 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 |
+| 114 | [Clearing Your Mind](https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Green Haven](https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q) | 2:43 |
+| 115 | [Rishis](https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Rishis](https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2) | 3:23 |
+| 116 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 |
+| 117 | [Silver Glass](https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Silver Glass](https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU) | 3:23 |
+| 118 | [Vinyasa](https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Vinyasa](https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1) | 3:58 |
+| 119 | [Shimmering](https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs) | [Abril Vann](https://open.spotify.com/artist/0WKB9DQYiXnaZrBL50nWkR) | [Shimmering](https://open.spotify.com/album/6K7IZkZH0CnnEE7WLMlj5d) | 2:26 |
+| 120 | [Terrestrial](https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Terrestrial](https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l) | 3:03 |
+| 121 | [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 |
+| 122 | [Undertow](https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Undertow](https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4) | 2:40 |
+| 123 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 |
+| 124 | [Ancient Prayer](https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Ancient Prayer](https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA) | 2:56 |
+| 125 | [A Time To Pause](https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [A Time To Pause](https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE) | 3:34 |
+| 126 | [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 |
+| 127 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 |
+| 128 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 |
 
-Snapshot ID: `MCxhYTY5ZDI3NDJlN2IzNTk4ZmE4ZmNiYjc5ZmE2YWRjMTYxNWIxZDlj`
+Snapshot ID: `MCw4NmZkYzBhYjk5OWFkNGM2OTIwMDI0NTQ2N2I3ZjJjYjgxOTUyYjc1`

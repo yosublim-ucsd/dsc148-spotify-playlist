@@ -4,12 +4,13 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-403 songs - 21 hr 4 min
+406 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F) | 0:00 | 2021-12-14 | 2022-07-29 |
 | [](https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID) | 0:00 | 2021-12-14 | 2022-07-29 |
+| [5th Avenue](https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A) | [Kyrie Barnes](https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6) | [5th Avenue](https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl) | 2:26 | 2023-09-08 |  |
 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-09 |  |
 | [A Favorite Song](https://open.spotify.com/track/4UWncXK8hLTErhTxKPolo2) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [A Favorite Song](https://open.spotify.com/album/45S8G3m4yS40xNqsXCBJAG) | 2:13 | 2023-06-15 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-13 |  |
@@ -69,6 +70,7 @@
 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Alfie](https://open.spotify.com/album/6FJY4E8KZ9yzv6WV6q8tOf) | 2:59 | 2022-08-11 |  |
 | [Can't We Be Friends](https://open.spotify.com/track/6GzFDlWMQgFnJBnBfB0wnK) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Can't We Be Friends](https://open.spotify.com/album/5JORPL9kiX3nc1WmQO2MZ3) | 2:10 | 2023-08-11 |  |
 | [Central Park West](https://open.spotify.com/track/0AeEcNkwXLpPYyuoweLVta) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Central Park West](https://open.spotify.com/album/5eBqq6qEjLjjxw1TPAShYB) | 3:16 | 2022-06-01 |  |
+| [Charlotte](https://open.spotify.com/track/7fa0BTUcbRmBRqIB4NaaEm) | [Russell Preston](https://open.spotify.com/artist/4NsaPckmCaT1Va19CbRqig) | [Charlotte](https://open.spotify.com/album/3WZnl4fHFay9tBtnZprMmO) | 2:53 | 2023-09-08 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Cheek to Cheek](https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh) | 3:02 | 2022-06-14 |  |
 | [Chemin de la lune](https://open.spotify.com/track/20uoDnTsBOXkPJd1TmjpqZ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Chemin de la lune](https://open.spotify.com/album/12bQXgWbTWoYbUsLr9rxIP) | 2:09 | 2023-04-14 |  |
 | [Cherokee](https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:59 | 2022-10-06 |  |
@@ -330,6 +332,7 @@
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 |  |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-01-13 |  |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 |  |
+| [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 | 2023-09-08 |  |
 | [Summer Love](https://open.spotify.com/track/3V0JLSKOckMOO9Eh2N5rbT) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Summer Love](https://open.spotify.com/album/6S7rGAffgFdrMIHY6DjUAv) | 3:33 | 2023-08-17 |  |
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2022-12-01 | 2023-02-03 |
 | [Summertime](https://open.spotify.com/track/48VBjzx0eH2CkOEjBDlxft) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Summertime](https://open.spotify.com/album/67FpasD3efqkbHYrZoeytx) | 4:41 | 2022-03-10 | 2022-08-12 |

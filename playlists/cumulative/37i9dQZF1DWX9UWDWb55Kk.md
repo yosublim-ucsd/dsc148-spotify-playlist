@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-372 songs - 23 hr 38 min
+373 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [SATANA, S\. A.](https://open.spotify.com/track/5ga1gPFk7w5DlvCCsTPwVG) | [Almodóvar](https://open.spotify.com/artist/2nSByhPugkeLLEHhMR6nTP), [McNamara](https://open.spotify.com/artist/5r6L9ttUyUlwoV7dDnkB5j) | [¡Cómo está el servicio de señoras!](https://open.spotify.com/album/5SqWUpoC9wNLm4aJVz2FJV) | 3:51 | 2022-04-08 |  |
 | [Satisfied \(Soundbwoy Killah Remix\)](https://open.spotify.com/track/7CTmKa0ZC48dSf8lNtPDHf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Soundbwoy Killah](https://open.spotify.com/artist/7GWKj0q6ycOb9PvBAX81w4) | [Silver Linings Remixed](https://open.spotify.com/album/02E7iwwppG1VOSoP6JdY66) | 5:16 | 2022-04-08 |  |
 | [Sentimental](https://open.spotify.com/track/3mzL3HHR1yUD1vhN44oSyP) | [Onili](https://open.spotify.com/artist/26FwCrX0Sth55bvxhhd11A) | [First Kiss](https://open.spotify.com/album/5x6sht3MqkzC2pVcTWSpUm) | 3:09 | 2021-09-01 |  |
-| [Shake The Tree](https://open.spotify.com/track/4ooxGxWbItZv2pnND3tYZj) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57) | [Shake The Tree](https://open.spotify.com/album/5MQfqc6EcUc1h2Haz5zkh3) | 3:04 | 2021-09-01 |  |
+| [Shake The Tree](https://open.spotify.com/track/20JLVEsMPi7ETgXLaPF3Sp) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57) | [Shake The Tree](https://open.spotify.com/album/1kmMYftR8OgdqZvQRefcel) | 3:04 | 2021-09-01 |  |
+| [Shake The Tree](https://open.spotify.com/track/4ooxGxWbItZv2pnND3tYZj) | [Simon Field](https://open.spotify.com/artist/2S0tj8IQ2ytFKa5HdCni57) | [Shake The Tree](https://open.spotify.com/album/5MQfqc6EcUc1h2Haz5zkh3) | 3:04 | 2021-09-01 | 2023-09-09 |
 | [Shelter](https://open.spotify.com/track/4MZKNzJlM6IhYceQQcs63V) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Boxes](https://open.spotify.com/album/5dHGdnG5fzv2TjdO3bS18S) | 3:55 | 2022-04-08 |  |
 | [Shenron](https://open.spotify.com/track/4r9ua2cFKl86IaVy0TchZN) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0) | [Shenron](https://open.spotify.com/album/1veJKFx1wVO5ltrej0q6cS) | 3:24 | 2022-04-08 |  |
 | [Sleep On Needles](https://open.spotify.com/track/654FiEpwJcc3tPNkmCYmrC) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Faces Down](https://open.spotify.com/album/6r1xt8j4dx60jqjlUs9fSE) | 4:45 | 2021-09-01 |  |

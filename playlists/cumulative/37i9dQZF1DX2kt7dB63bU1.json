@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Laufey",
+  "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
   "tracks": [
     {
@@ -858,7 +858,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 249767,
       "name": "Are You Lonesome Tonight?",
       "url": "https://open.spotify.com/track/1cPncROMLLlWhBRcEua3Zb"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 296739,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/52VpkOqWWNzWNGgxJhsyYT"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 234364,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/2BocrpGhXJEWczeLLTkCye"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 254690,
       "name": "Can't Get Out Of This Mood (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/6IXwkkCywEC6IZywMmKiVd"
@@ -7259,6 +7259,28 @@
     },
     {
       "album": {
+        "name": "Love And Let Love",
+        "url": "https://open.spotify.com/album/0vYA7Liwq7kTzY0NUPUqPl"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        },
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300173,
+      "name": "Love And Let Love",
+      "url": "https://open.spotify.com/track/58YV1xj3V3TXkXlfIXFkhU"
+    },
+    {
+      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi"
       },
@@ -8784,6 +8806,24 @@
       "duration_ms": 129127,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ"
+    },
+    {
+      "album": {
+        "name": "Our Roots Run Deep",
+        "url": "https://open.spotify.com/album/7JBdi7uaBTZ0ZiLqALbYBy"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184786,
+      "name": "Our Roots Run Deep",
+      "url": "https://open.spotify.com/track/3Wsb8BqisZpCO3ijhENBBa"
     },
     {
       "album": {
@@ -11991,6 +12031,24 @@
     },
     {
       "album": {
+        "name": "Tight",
+        "url": "https://open.spotify.com/album/5C4eWuaz4LcapndxmN3f0X"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115679,
+      "name": "Tight",
+      "url": "https://open.spotify.com/track/5NPn66iyEdsWoqqgSuMa0K"
+    },
+    {
+      "album": {
         "name": "Time's Passage",
         "url": "https://open.spotify.com/album/31GaBJOZatLu1meZhnAnsr"
       },
@@ -13104,6 +13162,24 @@
       "duration_ms": 205800,
       "name": "Who Are You Dreaming Of",
       "url": "https://open.spotify.com/track/1NmjyMJ8V0vJyKnqujBvCT"
+    },
+    {
+      "album": {
+        "name": "The Big Time (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/1DjnuktJqnNFb2A6tgUjnw"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gravitte",
+          "url": "https://open.spotify.com/artist/2JpR9gbNPF9CetFECCP7RD"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151274,
+      "name": "Who Is This Guy?",
+      "url": "https://open.spotify.com/track/7eEDVZJflnQE9aMpUnZhtD"
     },
     {
       "album": {

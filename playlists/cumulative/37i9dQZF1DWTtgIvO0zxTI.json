@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 269690,
       "name": "Ella Baila Sola - Remix",
       "url": "https://open.spotify.com/track/60VKPgWjpGbxeZHg6UIrdb"
@@ -1150,6 +1150,24 @@
       "duration_ms": 208421,
       "name": "Flixi Flaxi",
       "url": "https://open.spotify.com/track/23UgOgqI6cmSzCy5denhXU"
+    },
+    {
+      "album": {
+        "name": "Ecolocalizaci\u00f3n",
+        "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
+      },
+      "artists": [
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116102,
+      "name": "Freud",
+      "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
     },
     {
       "album": {

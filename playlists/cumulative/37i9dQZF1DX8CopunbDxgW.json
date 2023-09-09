@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 239078,
       "name": "Begin Again - Joe Goddard Remix / Edit",
       "url": "https://open.spotify.com/track/0TB9IbEirDvATrQ9ES0i5j"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 183204,
       "name": "BOY",
       "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
@@ -2613,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297440,
+      "name": "Carrossel Do Tempo",
+      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+    },
+    {
+      "album": {
         "name": "Casita",
         "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
       },
@@ -2824,7 +2846,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 195408,
       "name": "Circle Back Around",
       "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
@@ -3769,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "Don't Let Go (feat. Roseau)",
+        "url": "https://open.spotify.com/album/1rxzpMLYFGhhQbxuAKlZfF"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "Roseau",
+          "url": "https://open.spotify.com/artist/00NNRHsBc0J7SEOuf80hgO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166303,
+      "name": "Don't Let Go (feat. Roseau)",
+      "url": "https://open.spotify.com/track/02NJ2ws6rsEeh7DhsHqqvv"
+    },
+    {
+      "album": {
         "name": "Don't Wait (feat. Yahtzel)",
         "url": "https://open.spotify.com/album/2rdr4N4DCXrjLXnbLO3uoN"
       },
@@ -3900,6 +3944,24 @@
       "duration_ms": 339013,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/2dMzewYgORjajV2nLV0iwV"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205695,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/7oKcK43owb4FnfOTLQQrTF"
     },
     {
       "album": {
@@ -5255,7 +5317,7 @@
     },
     {
       "album": {
-        "name": "Fire of Mercy",
+        "name": "Fire Of Mercy",
         "url": "https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V"
       },
       "artists": [
@@ -5272,7 +5334,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239289,
-      "name": "Fire of Mercy",
+      "name": "Fire Of Mercy",
       "url": "https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO"
     },
     {
@@ -6514,7 +6576,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 240509,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/6MOTR6xzFe5fVTz7rum6qX"
@@ -7142,7 +7204,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 252962,
       "name": "Humans - Elevated Mix",
       "url": "https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6"
@@ -7226,7 +7288,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 299687,
       "name": "I Been Young",
       "url": "https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX"
@@ -9631,6 +9693,28 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3wd9XQoU36zD1K6xWlRtw5"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5"
+    },
+    {
+      "album": {
         "name": "Love Brand New",
         "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
       },
@@ -9867,6 +9951,32 @@
     },
     {
       "album": {
+        "name": "lovergirl (veggi remix)",
+        "url": "https://open.spotify.com/album/48xYKdQNtMg1jSCAMINTp2"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172004,
+      "name": "lovergirl - veggi remix",
+      "url": "https://open.spotify.com/track/0t0FRj21IhRtgxbV5BNf1b"
+    },
+    {
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
       },
@@ -9936,7 +10046,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 247949,
       "name": "Low Lights and Throwback Tunes",
       "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
@@ -10786,7 +10896,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 381200,
       "name": "Move Up",
       "url": "https://open.spotify.com/track/4mxoDuIrL1O0BveAXpX2lD"
@@ -10826,6 +10936,24 @@
       "duration_ms": 272093,
       "name": "Mr Blue",
       "url": "https://open.spotify.com/track/5ZPETZSlMklwiLhgAqDt1A"
+    },
+    {
+      "album": {
+        "name": "Mr. Lee",
+        "url": "https://open.spotify.com/album/2pFpEurpJ0Eg2CdLFLyUKk"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243091,
+      "name": "Mr. Lee",
+      "url": "https://open.spotify.com/track/26mNpF3ivmt2iVNP1dslUm"
     },
     {
       "album": {
@@ -11157,6 +11285,24 @@
     },
     {
       "album": {
+        "name": "trip9love...???",
+        "url": "https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182153,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
+    },
+    {
+      "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
         "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
       },
@@ -11394,7 +11540,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 145945,
       "name": "NoNewNews!!! - Ben Hixon Remix",
       "url": "https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ"
@@ -11734,6 +11880,28 @@
       "duration_ms": 428303,
       "name": "One More",
       "url": "https://open.spotify.com/track/01irEqIoLSxEZxlvCxP9wf"
+    },
+    {
+      "album": {
+        "name": "one of one (feat. PawPaw Rod)",
+        "url": "https://open.spotify.com/album/0JEX5oLdEBXZEEszBXmXdF"
+      },
+      "artists": [
+        {
+          "name": "Drewbyrd",
+          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "one of one (feat. PawPaw Rod)",
+      "url": "https://open.spotify.com/track/79jxfE4mZToAneAv2C7Dng"
     },
     {
       "album": {
@@ -15382,6 +15550,24 @@
       "duration_ms": 220493,
       "name": "Tartaruga",
       "url": "https://open.spotify.com/track/0CFwsncuCbp6qkW8C0dtSZ"
+    },
+    {
+      "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300122,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
     },
     {
       "album": {

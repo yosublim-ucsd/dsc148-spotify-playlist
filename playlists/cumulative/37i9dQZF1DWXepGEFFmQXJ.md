@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: James Johnston
 
-442 songs - 1 day 0 hr 15 min
+443 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [is he happy](https://open.spotify.com/track/39fTem4R2w8w6Dsq89qwBa) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [is he happy](https://open.spotify.com/album/1j6fhm9TBqz3bNgWFSezPW) | 3:46 | 2023-08-17 | 2023-09-08 |
 | [It Matters To Her](https://open.spotify.com/track/4aSRUXfKuBbmje0eXNukuL) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 2:51 | 2022-12-15 | 2023-06-09 |
 | [I’m Never Drinking Again](https://open.spotify.com/track/4tFdZ7jnYW3zjSzIKuYbfi) | [Claudia Tripp](https://open.spotify.com/artist/5I0T6nRUCHMYv7zytK5zPB) | [I’m Never Drinking Again](https://open.spotify.com/album/13DVGcQBBnBI94jU0j8jCd) | 3:18 | 2023-06-22 |  |
+| [Jackpot](https://open.spotify.com/track/7FpMEgc1QsbiC1RcBzd353) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Jackpot](https://open.spotify.com/album/0wvv1lLfXpquzDVXTP8jHF) | 3:03 | 2023-09-07 |  |
 | [Jaw Dropping](https://open.spotify.com/track/50Fkawtaa85Ww338YRXXNM) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Jaw Dropping](https://open.spotify.com/album/7tA205mt3I1CSyQkRQJY0d) | 2:59 | 2023-06-08 | 2023-08-04 |
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-30 | 2022-03-18 |
 | [Just The Way](https://open.spotify.com/track/5ByWjQPF4aC93uP03xG3oW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Just The Way](https://open.spotify.com/album/4KuMPfCBtOZLnj6hNew6ZW) | 3:10 | 2022-10-20 | 2023-03-25 |

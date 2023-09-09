@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-51 songs - 4 hr 4 min
+52 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-09 |  |
 | [Shake It Now.](https://open.spotify.com/track/4FYNJgCzWgaNAe4uHdrBYn) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rendez\-vous](https://open.spotify.com/album/4EZSq8rqqdS8s4awyx8l5x) | 3:16 | 2022-10-09 |  |
 | [Shikabanese](https://open.spotify.com/track/4AwdxLIctXZhUnrTP9zGVy) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Shikabanese](https://open.spotify.com/album/6u4UgWp2FnrOGIlfmgKFhi) | 4:16 | 2022-10-09 |  |
+| [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-05 |  |
 | [Stick Candy](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2022-10-09 |  |
 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 | 2022-10-09 |  |
 | [TOKYO CANNIBALISM](https://open.spotify.com/track/4A75rI3sn3eBnL0wXMvovE) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [TOKYO CANNIBALISM](https://open.spotify.com/album/73Ia8AFLxx0Bh6mITDOOLu) | 3:11 | 2022-10-09 |  |
@@ -52,7 +53,7 @@
 | [コールボーイ](https://open.spotify.com/track/6vdtMuSOG9chmNbGvmkmjz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado/PARED/まひる/ゆっけ presents PALETTE4](https://open.spotify.com/album/5N3pr0Jv026t7JwI3u86lt) | 3:29 | 2022-10-09 |  |
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2022-10-09 |  |
 | [会いたくて \- Piano & Strings Ver.](https://open.spotify.com/track/3gd4Ux9wShJxx4EnnnUipR) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [会いたくて \(Piano & Strings Ver.\)](https://open.spotify.com/album/7cdfYFwm3pvb23U6FOOyXM) | 5:24 | 2022-10-09 |  |
-| [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 |  |
+| [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 | 2023-09-05 | 2023-09-09 |
 | [夜のピエロ \- TeddyLoid Remix](https://open.spotify.com/track/6OiZpa36iNzEmNiVszAkQv) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [夜のピエロ \(TeddyLoid Remix\)](https://open.spotify.com/album/0isciWk8sCLPlQQpocBftA) | 3:29 | 2022-10-09 |  |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-10-09 |  |
 | [永遠のあくる日](https://open.spotify.com/track/5WaSJKCZhmRZ8Pxn1oTjA5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [永遠のあくる日](https://open.spotify.com/album/4jFVggky7sWAA2JVf34gXf) | 4:06 | 2022-10-09 |  |

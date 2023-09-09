@@ -582,7 +582,7 @@
     {
       "album": {
         "name": "El Futuro Es Tribal",
-        "url": "https://open.spotify.com/album/61csEXQdoUlCO7EPT8UPIj"
+        "url": "https://open.spotify.com/album/0aBNYVK8WtwYXkbXs46tkp"
       },
       "artists": [
         {
@@ -593,6 +593,24 @@
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 307337,
+      "name": "Breath Of Fire",
+      "url": "https://open.spotify.com/track/66kQ9RYFHdW4FIcjDOUYCV"
+    },
+    {
+      "album": {
+        "name": "El Futuro Es Tribal",
+        "url": "https://open.spotify.com/album/61csEXQdoUlCO7EPT8UPIj"
+      },
+      "artists": [
+        {
+          "name": "Akawui",
+          "url": "https://open.spotify.com/artist/5TJm6jLWb218v4BE4ZcTBa"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
       "duration_ms": 307337,
       "name": "Breath Of Fire",
       "url": "https://open.spotify.com/track/6UYTcGiUUvPDFGFa3XKQwP"

@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 688890,
+  "num_followers": 689455,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODI3ZmEyYjI0Yjg2NGM5OTczMTMxMzk1MDdlMTUzNDZjMjliYzBk",
+  "snapshot_id": "MCw3NjFkODM5YmJiZGMxMWRiOGJjNDI3ZTNjNzAzNWM5NjQ1YzdkMmFl",
   "tracks": [
     {
       "added_at": "2023-08-16 08:28:23",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
+        "name": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "duration_ms": 226991,
+      "name": "\uae34 \ubc24\uc774 \uc624\uba74",
+      "url": "https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
         "name": "Who Are You : School 2015(Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/1Lm4AiocdoWQW0K94b1JGq"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 242952,
       "name": "Reset (feat. Jinsil)",
       "url": "https://open.spotify.com/track/1uJLYKtzCOhZI1zZW99W8I"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
-        "name": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kim",
-          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
-        }
-      ],
-      "duration_ms": 226991,
-      "name": "\uae34 \ubc24\uc774 \uc624\uba74",
-      "url": "https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t"
     },
     {
       "added_at": "2023-08-16 08:28:23",

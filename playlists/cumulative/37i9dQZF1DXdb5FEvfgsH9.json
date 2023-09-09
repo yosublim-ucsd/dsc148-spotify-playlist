@@ -307,6 +307,36 @@
     },
     {
       "album": {
+        "name": "Boogie Trouble",
+        "url": "https://open.spotify.com/album/3Ru4hXgJyfe3W1HC8wMVRm"
+      },
+      "artists": [
+        {
+          "name": "Double Trouble Jam",
+          "url": "https://open.spotify.com/artist/35ltRfqqiWxdfUic4jjVf3"
+        },
+        {
+          "name": "Leopard DaVinci",
+          "url": "https://open.spotify.com/artist/0lRASLawrETyckQmEd16AQ"
+        },
+        {
+          "name": "Swing Flare Club",
+          "url": "https://open.spotify.com/artist/1OIY8HznUhkUYRkkIfKWd1"
+        },
+        {
+          "name": "SirCut",
+          "url": "https://open.spotify.com/artist/5kuyeQhlsaiCNzMeJx1nLr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237587,
+      "name": "Boogie Trouble",
+      "url": "https://open.spotify.com/track/50l6EYoxdUMVPM4rZaaG0Q"
+    },
+    {
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ"
       },
@@ -973,6 +1003,32 @@
     },
     {
       "album": {
+        "name": "Fool 4 U (E. Live Remix)",
+        "url": "https://open.spotify.com/album/5GFXXFXIjbcq4Bt5MPj2Hr"
+      },
+      "artists": [
+        {
+          "name": "E da Boss",
+          "url": "https://open.spotify.com/artist/2yG3IyJmbk63oqFlHHVGLL"
+        },
+        {
+          "name": "Ishtar",
+          "url": "https://open.spotify.com/artist/3c8qkOKulbMnNWlEY1XZvW"
+        },
+        {
+          "name": "E. Live",
+          "url": "https://open.spotify.com/artist/0HB3DYw6dUNqE9wFm6edkT"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fool 4 U - E. Live Remix",
+      "url": "https://open.spotify.com/track/3FIFRSHy5Wz9wNiiQSwO3b"
+    },
+    {
+      "album": {
         "name": "Fool For You",
         "url": "https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L"
       },
@@ -1386,7 +1442,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 229920,
       "name": "Just Friends (feat. Amber Mark)",
       "url": "https://open.spotify.com/track/73agc0UL322jZnJncsqNM0"
@@ -1860,7 +1916,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 217332,
       "name": "Second Dinner",
       "url": "https://open.spotify.com/track/1s4dt9PEMuaZqdOIwbJXfo"

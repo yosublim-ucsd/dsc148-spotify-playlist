@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: War Wanarat",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SERIOUS BACON, Whal & Dolph",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Barbie (Oops! Oops!) - Single",
+        "url": "https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2"
+      },
+      "artists": [
+        {
+          "name": "VIIS (\u0e27\u0e34\u0e2a)",
+          "url": "https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176212,
+      "name": "Barbie (Oops! Oops!)",
+      "url": "https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu"
+    },
+    {
+      "album": {
         "name": "Based on whose story? (\u0e42\u0e1b\u0e23\u0e14\u0e43\u0e0a\u0e49\u0e27\u0e34\u0e08\u0e32\u0e23\u0e13\u0e0d\u0e32\u0e13)",
         "url": "https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3"
       },
@@ -154,6 +172,24 @@
       "duration_ms": 213456,
       "name": "Based on whose story? (\u0e42\u0e1b\u0e23\u0e14\u0e43\u0e0a\u0e49\u0e27\u0e34\u0e08\u0e32\u0e23\u0e13\u0e0d\u0e32\u0e13)",
       "url": "https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz"
+    },
+    {
+      "album": {
+        "name": "Be Your Luve",
+        "url": "https://open.spotify.com/album/6PYYMxIIDZpdGbKsya7xrL"
+      },
+      "artists": [
+        {
+          "name": "BUILD Jakapan Puttha",
+          "url": "https://open.spotify.com/artist/53N7nPRlifwSOVUt1wSw7x"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204144,
+      "name": "Be Your Luve",
+      "url": "https://open.spotify.com/track/2n834KRCGkngJdbDhDXMBO"
     },
     {
       "album": {
@@ -2488,7 +2524,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 168770,
       "name": "\u0e0a\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e19\u0e30 - Unsend",
       "url": "https://open.spotify.com/track/0nKRTd3kTf0xyU9q608e8S"
@@ -2940,7 +2976,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 246935,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
       "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
@@ -5822,7 +5858,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 219818,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly)",
       "url": "https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ"
@@ -6264,6 +6300,28 @@
       "duration_ms": 261750,
       "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
       "url": "https://open.spotify.com/track/6GDI4Y8fOsptYwSW2iIUbe"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1b\u0e4a\u0e1a\u0e19\u0e36\u0e07 (Can you stay?)",
+        "url": "https://open.spotify.com/album/0vxLkG4IVsAQ7lU05QXRXA"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "\u0e41\u0e1b\u0e4a\u0e1a\u0e19\u0e36\u0e07 (Can you stay?)",
+      "url": "https://open.spotify.com/track/50xCjuk6rUUXNwqC6bQlrV"
     },
     {
       "album": {

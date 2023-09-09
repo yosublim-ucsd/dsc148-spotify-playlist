@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 
 > Float away to the weightless sound of breakbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,234 likes - 73 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,239 likes - 73 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 11 | [Sapphire Eyes](https://open.spotify.com/track/1AuKIQy8e7ifqsSAbPSJ10) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Sapphire Eyes](https://open.spotify.com/album/1NiKOW5Z6EdvWPe7y5BIUd) | 4:05 |
 | 12 | [Let's Just](https://open.spotify.com/track/7Hhh4rWZsmxkjPSwy1rZy8) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Let's Just / Can't Explain](https://open.spotify.com/album/5ee6SpqyfbCulNqfhgWdu4) | 2:58 |
 | 13 | [Test Flight](https://open.spotify.com/track/5b9ifBWB1LQFNwnpwN7Tj5) | [Adam Fielding](https://open.spotify.com/artist/2COKeWJbqMc39mh0sFwnvE) | [Nocturnal Transmission](https://open.spotify.com/album/6ZHilzMuJjTaQTKN1HPk48) | 6:14 |
-| 14 | [Beach Simulator 3D](https://open.spotify.com/track/0NEti7J191QYOcYfVD9FfF) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Beach Simulator 3D](https://open.spotify.com/album/6T2Q6fg164JmYS99JbJNxO) | 4:56 |
+| 14 | [Beach Simulator 3D](https://open.spotify.com/track/0wUSJe7IE5cqJ7RtyCXrW9) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Beach Simulator 3D](https://open.spotify.com/album/6it7F4OEs8ZtvDkqSk5lc6) | 4:56 |
 | 15 | [Lovin U](https://open.spotify.com/track/5NS2mvyyimFo4GStYcjrL1) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Falling In Love](https://open.spotify.com/album/2ZXNASZ0miJJPHZMRzrRLh) | 5:08 |
 | 16 | [Chasing Shadows](https://open.spotify.com/track/5NfpNuD4OZ0r7RK5DN4Ely) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Metamorphosis](https://open.spotify.com/album/2X6sDZ4F4dD3lvQ31qJ1o5) | 4:37 |
 | 17 | [Hysteria](https://open.spotify.com/track/1YYTSy2xoYgabhcsTjo1xh) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn) | [Hysteria](https://open.spotify.com/album/3f1eHZkiFQeSioBt5wggH3) | 3:50 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV15Do5xY4up.md) - [plain]
 | 72 | [VTOPIA](https://open.spotify.com/track/5sV6YuXW0Cherbpb6PEpTo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [VTOPIA](https://open.spotify.com/album/50iCpCLAmZjZIZAdobVL5H) | 6:22 |
 | 73 | [Time](https://open.spotify.com/track/5CdnchxvwLJUonYfcDbgB0) | [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Time](https://open.spotify.com/album/2JQtRaELiP5PODbtSBa31y) | 4:07 |
 
-Snapshot ID: `MCxlZTM3NGVlZjQ0Y2Q1YTllMzYzOWU5OWFjMzNlYzdlYzFmYTE4ZWRl`
+Snapshot ID: `MCw5NDRiOGI1NWI4NGZjN2RmMTMzYjFjYWE1MjkzYmQwZWM2ZmU0ZWZj`

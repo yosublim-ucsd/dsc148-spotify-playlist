@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: OZworld \*👉 <a href="https://spice.eplus.jp/articles/321818?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-3,007 songs - 7 day 14 hr 0 min
+3,008 songs - 7 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,7 +681,8 @@
 | [Goodbye day](https://open.spotify.com/track/0MINGnzug0eQpY7IUxycYe) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [FREEDOM](https://open.spotify.com/album/0AyXD1nuTnpsKBlf3CCikN) | 3:37 | 2023-05-09 | 2023-05-17 |
 | [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-06 |  |
 | [Grapefruit Moon](https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/1anhNIbhfBv8MGGVm6vg6Y) | 3:16 | 2023-09-05 | 2023-09-07 |
-| [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 | 2023-09-05 |  |
+| [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 | 2023-09-05 | 2023-09-09 |
+| [Grateful](https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 3:40 | 2023-09-06 |  |
 | [Grateful Days](https://open.spotify.com/track/3oC5ojye9bZTp1Z5UDEUhl) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Grateful Days](https://open.spotify.com/album/3LIVv7tHwJ3wXthuXT8APm) | 3:08 | 2023-06-14 | 2023-06-21 |
 | [Grateful Days](https://open.spotify.com/track/43lKdrWpaGPs6MZZpcaxj3) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Grateful Days](https://open.spotify.com/album/2jatU8YpU5X7uicItyFhNV) | 3:08 | 2023-06-13 | 2023-06-15 |
 | [Gravity](https://open.spotify.com/track/2WbhWMITV4H0pHjtxaNL64) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Gravity](https://open.spotify.com/album/7CgwLKs5MbzqhGxQAiXrgz) | 4:30 | 2023-03-29 | 2023-04-05 |

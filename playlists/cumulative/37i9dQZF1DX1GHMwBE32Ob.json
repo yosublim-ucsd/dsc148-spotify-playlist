@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Timaya",
+  "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Balloranking",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1Kh2Qf7lQI5KJT7eCWOUEr"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139885,
+      "name": "Aje",
+      "url": "https://open.spotify.com/track/1eYdeqrDKSFhmvQgW1OAXO"
+    },
+    {
+      "album": {
         "name": "Alajo Emilokan",
         "url": "https://open.spotify.com/album/45XrXX2y77M6F5u4oLVHwo"
       },
@@ -144,7 +166,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 148820,
       "name": "Am I a Yahoo Boy",
       "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
@@ -2647,6 +2669,28 @@
     },
     {
       "album": {
+        "name": "Unleash",
+        "url": "https://open.spotify.com/album/76qUSyLrwAs4EOHrqypy7A"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141052,
+      "name": "Unleash",
+      "url": "https://open.spotify.com/track/1dHHDoPwSXpVMQfybFQvqG"
+    },
+    {
+      "album": {
         "name": "Wale",
         "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
       },
@@ -2840,7 +2884,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 214545,
       "name": "ZaZoo Zehh",
       "url": "https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v"

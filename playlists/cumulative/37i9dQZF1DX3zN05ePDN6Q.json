@@ -1151,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Feat Saci #12",
+        "url": "https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0"
+      },
+      "artists": [
+        {
+          "name": "Souto MC",
+          "url": "https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4"
+        },
+        {
+          "name": "Feat Saci",
+          "url": "https://open.spotify.com/artist/3xDHxwjYq5n6xFnvNMt2ML"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194542,
+      "name": "Ca\u00e7a e Ca\u00e7adora",
+      "url": "https://open.spotify.com/track/5TtztrnfY1e0GCILeeANue"
+    },
+    {
+      "album": {
         "name": "Chico Marola (Ao Vivo)",
         "url": "https://open.spotify.com/album/1h8riVHgTXKMWc8WPgfZ8n"
       },
@@ -3494,7 +3516,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 228733,
       "name": "Legitima Defesa - DJ Hum Remix",
       "url": "https://open.spotify.com/track/4RWoE0Ulx1lDiTEdpvvk6O"

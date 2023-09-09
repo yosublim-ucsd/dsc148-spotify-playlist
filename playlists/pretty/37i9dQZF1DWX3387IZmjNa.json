@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tjay",
-  "num_followers": 2024121,
+  "num_followers": 2024625,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTdkY2M0NDRmMjk1NTMyNzQ0Nzg1NzJmYzNjMGQxODUxZTA1YTVh",
+  "snapshot_id": "MCxjZjY4OGQ1ZTY1NzM3MDBkMzIxNjk1NTA3ZTMyYTIxMThiMGM4MTFi",
   "tracks": [
     {
       "added_at": "2023-07-28 04:26:54",
@@ -53,6 +53,30 @@
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Thang For You (feat. No Cap)",
@@ -89,26 +113,6 @@
       "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
     },
     {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Sincerely For You",
-        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "When You Bad Like That (feat. Future)",
-      "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Fell In Love",
@@ -127,6 +131,26 @@
       "duration_ms": 121283,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Sweet (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -205,6 +229,26 @@
       "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sincerely For You",
+        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "When You Bad Like That (feat. Future)",
+      "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "BEEZY",
@@ -265,26 +309,6 @@
       "url": "https://open.spotify.com/track/06r4zNmjkvIRbzdu68RPNp"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 232091,
-      "name": "2 Grown (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
-    },
-    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Sixtape 3",
@@ -303,6 +327,22 @@
       "duration_ms": 139994,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/0EWkHy6MFQxu5Hg6SPlEur"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Welcome To Bubba Land",
+        "url": "https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 195096,
+      "name": "Braggin' Rights",
+      "url": "https://open.spotify.com/track/7bt22ryCORJbWP6YqHm4Z2"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -359,6 +399,22 @@
       "duration_ms": 176701,
       "name": "U & I",
       "url": "https://open.spotify.com/track/0hLE6bBJqvBtTsUsjkxAFO"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -601,22 +657,6 @@
       "url": "https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Maybe It's Me...",
-        "url": "https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 226765,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
-    },
-    {
       "added_at": "2023-08-25 18:42:19",
       "album": {
         "name": "Your Friends",
@@ -633,22 +673,6 @@
       "url": "https://open.spotify.com/track/6ZOCnU7MLtcZeRKAxgsqTT"
     },
     {
-      "added_at": "2023-08-25 18:42:19",
-      "album": {
-        "name": "Thinking Hurts",
-        "url": "https://open.spotify.com/album/7x4Z35NPBFuj5WRFURQ0ys"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        }
-      ],
-      "duration_ms": 179340,
-      "name": "Thinking Hurts",
-      "url": "https://open.spotify.com/track/4g4cBK9ONBO2SCK9LYuTfI"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "3AM in Oakland",
@@ -663,22 +687,6 @@
       "duration_ms": 206270,
       "name": "3AM in Oakland",
       "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "SHITUMSS",
-        "url": "https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 135625,
-      "name": "JAGGED EDGE",
-      "url": "https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo"
     },
     {
       "added_at": "2023-04-28 09:25:52",
@@ -731,6 +739,26 @@
       "duration_ms": 168016,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/3iuGyJQKwSIozygB3nwojP"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 232091,
+      "name": "2 Grown (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -959,26 +987,6 @@
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "GEEZYWORLD 2",
-        "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Saturday (feat. Kalan.FrFr)",
-      "url": "https://open.spotify.com/track/5uQybrSaOXUjaBZCI89KQE"
     }
   ],
   "unique_name": "B.A.E.",

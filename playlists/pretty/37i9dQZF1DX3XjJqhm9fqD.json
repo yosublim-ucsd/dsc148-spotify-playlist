@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Steves J. Bryan",
-  "num_followers": 80682,
+  "num_followers": 80725,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTBkNTBhMjA4OGJiYjNjMzljMGQ0YTAwODJhMGQ5Njc2MTc4MDM4",
+  "snapshot_id": "MCw2NjdkNWM4YzkxZDc0MjdkNmZkYjJkY2QwOWFkNTVhMTFiZTY0OTUy",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ti Sesi Ti Sela",
-        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
-      },
-      "artists": [
-        {
-          "name": "BMIXX",
-          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
-        },
-        {
-          "name": "Afriken An",
-          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
-        }
-      ],
-      "duration_ms": 173113,
-      "name": "Ti Sesi Ti Sela",
-      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "F\u00f2s",
         "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 234248,
       "name": "Crush la",
       "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Ti Sesi Ti Sela",
+        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
+      },
+      "artists": [
+        {
+          "name": "BMIXX",
+          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
+        },
+        {
+          "name": "Afriken An",
+          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "Ti Sesi Ti Sela",
+      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "White Flower",
+        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 144118,
+      "name": "White Flower",
+      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Come to My Bedroom",
         "url": "https://open.spotify.com/album/2vYwjJsZHvUDwfiAXS8LP9"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 141955,
       "name": "Come to My Bedroom",
       "url": "https://open.spotify.com/track/5fnGy4kjvO08yxiFkVt1bG"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "White Flower",
-        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 144118,
-      "name": "White Flower",
-      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 195692,
       "name": "On va pas baisser les bras",
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ou Bezwen",
-        "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
-      },
-      "artists": [
-        {
-          "name": "Jay Brixxx",
-          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
-        }
-      ],
-      "duration_ms": 252450,
-      "name": "Ou Bezwen",
-      "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Regr\u00e8",
         "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 229998,
       "name": "Regr\u00e8",
       "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Ou Bezwen",
+        "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
+      },
+      "artists": [
+        {
+          "name": "Jay Brixxx",
+          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
+        }
+      ],
+      "duration_ms": 252450,
+      "name": "Ou Bezwen",
+      "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1767,38 +1767,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
-      },
-      "artists": [
-        {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Perle De Culture",
-        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
-      },
-      "artists": [
-        {
-          "name": "Riva Nyri Precil",
-          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
-        }
-      ],
-      "duration_ms": 265929,
-      "name": "Twa Fey",
-      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1823,6 +1791,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Perle De Culture",
+        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+      },
+      "artists": [
+        {
+          "name": "Riva Nyri Precil",
+          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+        }
+      ],
+      "duration_ms": 265929,
+      "name": "Twa Fey",
+      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Ram 6: Manmanm Se Ginen",
         "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
@@ -1839,26 +1823,38 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Miscalculated",
-        "url": "https://open.spotify.com/album/1beccBq6D639FKHHNTnPeH"
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
       },
       "artists": [
         {
-          "name": "Mike Squires",
-          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
-        },
-        {
-          "name": "Wasionkey",
-          "url": "https://open.spotify.com/artist/29SpRodaj3Wqtwq2fWlyty"
-        },
-        {
-          "name": "Anoyd",
-          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
         }
       ],
-      "duration_ms": 175721,
-      "name": "Miscalculated",
-      "url": "https://open.spotify.com/track/6jbyBrXQPHK3s0V0OfGp0P"
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1895,22 +1891,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Rasanbleman (Red Moon)",
-        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+        "name": "Miscalculated",
+        "url": "https://open.spotify.com/album/1beccBq6D639FKHHNTnPeH"
       },
       "artists": [
         {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+          "name": "Mike Squires",
+          "url": "https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY"
         },
         {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+          "name": "Wasionkey",
+          "url": "https://open.spotify.com/artist/29SpRodaj3Wqtwq2fWlyty"
+        },
+        {
+          "name": "Anoyd",
+          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
         }
       ],
-      "duration_ms": 400388,
-      "name": "Ayizan",
-      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
+      "duration_ms": 175721,
+      "name": "Miscalculated",
+      "url": "https://open.spotify.com/track/6jbyBrXQPHK3s0V0OfGp0P"
     }
   ],
   "unique_name": "Haitian Heat",

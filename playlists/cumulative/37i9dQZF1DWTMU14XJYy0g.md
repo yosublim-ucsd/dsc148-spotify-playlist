@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: La Franela
 
-204 songs - 12 hr 48 min
+205 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,10 +92,11 @@
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 |  |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 |  |
 | [Impulsando El Encuentro](https://open.spotify.com/track/2La3j8YgEErCVBXWIopKym) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Impulsando El Encuentro](https://open.spotify.com/album/6aaFN44R7nF2J7uI6kiAKj) | 4:19 | 2023-03-31 | 2023-06-03 |
-| [Indómito Sentir](https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Indómito Sentir](https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K) | 4:09 | 2022-09-30 |  |
+| [Indómito Sentir](https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Indómito Sentir](https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K) | 4:09 | 2022-09-30 | 2023-09-09 |
 | [Inmediatez](https://open.spotify.com/track/54lymSICrfTr7Z0UeVPmRY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Germán Daffunchio](https://open.spotify.com/artist/3WFJJl01wqMrNjjiGSOyrJ) | [Inmediatez](https://open.spotify.com/album/6LoA2hbjy7lPdLBh46l2M8) | 3:54 | 2022-06-24 | 2022-07-02 |
 | [Intoxicarme](https://open.spotify.com/track/6d519FJTrTbeaTlG5pXWM9) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Intoxicarme](https://open.spotify.com/album/2pZiZAe9HInht6L56YwIif) | 3:01 | 2022-06-24 |  |
 | [Inventario](https://open.spotify.com/track/5b4nQSv5xOqdkpt1e3N0sq) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Inventario](https://open.spotify.com/album/5V8oEK9q3A3xVVy2zZS2QU) | 2:42 | 2022-12-09 | 2023-06-10 |
+| [Irreal](https://open.spotify.com/track/1TuKZVqyNu0wrbgEghVNSh) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Irreal](https://open.spotify.com/album/3wokQb5YsTwB6pGVcrCoZu) | 3:59 | 2023-09-08 |  |
 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 | 2022-06-24 |  |
 | [Jugando Con Fuego](https://open.spotify.com/track/1Ts0sHzGfkg5VO96NWaqcA) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Jugando Con Fuego](https://open.spotify.com/album/0x3ULeWwEr8zHPRs88rZQh) | 3:12 | 2022-06-24 |  |
 | [Ken Kesey \(scherzo\)](https://open.spotify.com/track/3QdjStCd2S66h1DYU7rO7h) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Ken Kesey \(scherzo\)](https://open.spotify.com/album/77Hia84RuOXF6hQ9YixTul) | 4:30 | 2022-09-30 | 2023-03-04 |

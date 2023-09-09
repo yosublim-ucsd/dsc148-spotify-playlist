@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6T5dWVv97mp.md) - [plain]
 
 > Get into a morning flow with this focus playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,878 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,907 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6T5dWVv97mp.md) - [plain]
 | 99 | [Then the Quiet Explosion](https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 6:43 |
 | 100 | [Holding On](https://open.spotify.com/track/68odVUhFI8Ng0OgQpNvXNU) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 4:46 |
 
-Snapshot ID: `MCxhNjEwMjZkN2E2MzJmOGFiYmYwZjJmMTYzMGIwZGJjODY0NzI0OGU3`
+Snapshot ID: `MCxjNDAwOWUyZjQyZjhmYjA3ZGUyZmRjNGEwYWM2NmE5YjgyZDM1MmQz`

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 207789,
       "name": "Ain't Nobody (Pain)",
       "url": "https://open.spotify.com/track/6tS0Y2R790LQSSoepR6wlW"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
@@ -702,6 +702,24 @@
       "duration_ms": 147423,
       "name": "Don't Tell Me No Lies",
       "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
+    },
+    {
+      "album": {
+        "name": "Don't You Touch The Radio",
+        "url": "https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R"
+      },
+      "artists": [
+        {
+          "name": "The Wanton Bishops",
+          "url": "https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219585,
+      "name": "Don't You Touch The Radio",
+      "url": "https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD"
     },
     {
       "album": {
@@ -1215,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Jesse",
+        "url": "https://open.spotify.com/album/1z1QZIgQgVOby69R7KjA1Q"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175108,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/4BlydDDroXNIgkbhrtuw3d"
+    },
+    {
+      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
@@ -1280,10 +1316,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 298751,
       "name": "Kingdom Will Come",
       "url": "https://open.spotify.com/track/2ONh8m8VMZc0uBlxghOTsp"
+    },
+    {
+      "album": {
+        "name": "Light Rail Blues (Heart Attack)",
+        "url": "https://open.spotify.com/album/0SjzyBUxbepqv4WXjO7551"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191530,
+      "name": "Light Rail Blues (Heart Attack)",
+      "url": "https://open.spotify.com/track/2pspoYRhdCfYleXneEqp9i"
     },
     {
       "album": {

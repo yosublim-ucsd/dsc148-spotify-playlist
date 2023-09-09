@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-62 songs - 2 hr 42 min
+63 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Time of the Season \- Mono Version](https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 3:34 | 2022-07-15 |  |
 | [Time Warp \(feat\. Ross Lynch, Jaz Sinclair, Lachlan Watson & Jonathan Whitesell\)](https://open.spotify.com/track/6en12s2Ocdq3djFzddKnWT) | [Cast of Chilling Adventures of Sabrina](https://open.spotify.com/artist/4Y43D0ynLoyZ3HxOPGxxFq), [Jaz Sinclair](https://open.spotify.com/artist/1r1KZELI7St1vW7NAgdojS), [Jonathan Whitesell](https://open.spotify.com/artist/4WyNg49cyglYzuxQDQDPxr), [Lachlan Watson](https://open.spotify.com/artist/480ajAJgy6thXBJ3u9GPSC), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH) | [Chilling Adventures of Sabrina: Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3ig71BXB7CSFeaM3nYbIAX) | 2:45 | 2021-10-25 |  |
 | [Undercurrents](https://open.spotify.com/track/2YsL81CORA2J71h4Gh50Ow) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Bird Box \(Abridged\) \[Original Score\]](https://open.spotify.com/album/7i42GDZyq7HKW0kzW0djCW) | 4:03 | 2021-10-25 |  |
+| [Underneath](https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [Liebes Kind \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y) | 2:03 | 2023-09-08 |  |
 | [Wednesday Main Titles](https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF) | 1:09 | 2022-11-28 |  |
 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 | 2021-10-25 |  |
 

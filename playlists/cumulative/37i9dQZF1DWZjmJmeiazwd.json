@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 219706,
       "name": "An Honest Mistake",
       "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
@@ -1088,6 +1088,24 @@
       "duration_ms": 205090,
       "name": "Born a Rockstar",
       "url": "https://open.spotify.com/track/39hRgQOietUkHXt9lQ3OAI"
+    },
+    {
+      "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227847,
+      "name": "Born For Greatness",
+      "url": "https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt"
     },
     {
       "album": {

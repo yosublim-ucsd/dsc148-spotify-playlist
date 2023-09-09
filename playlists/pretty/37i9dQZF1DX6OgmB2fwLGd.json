@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to the internet. Cover: Lil Tecca",
-  "num_followers": 1394589,
+  "num_followers": 1394787,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDU4NDg0MGNmOWM4NWU5OGZiYmEyM2Q3ZDU1YjIyYjJhYjdiOTMy",
+  "snapshot_id": "MCw5ZGYxNDI4N2IxNzY5N2QxODQzZTFmNjBjNjU0NDMyZDMzZmE5NzY3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "I love freaks (Sexyy\u2019s Version)",
+        "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 163696,
+      "name": "I love freaks (Sexyy\u2019s Version)",
+      "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Aft\u00ebrLyfe",
@@ -77,22 +97,6 @@
       "url": "https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
-    },
-    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "marry me",
@@ -109,6 +113,26 @@
       "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "DIAMONDS",
+        "url": "https://open.spotify.com/album/3kzwY2NyciGzUmvPOHciap"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        }
+      ],
+      "duration_ms": 269786,
+      "name": "Prove My Love",
+      "url": "https://open.spotify.com/track/7xsZCOPVVcZTVQ36PvCpN5"
+    },
+    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "AT WHAT COST?",
@@ -123,6 +147,94 @@
       "duration_ms": 159918,
       "name": "AT WHAT COST?",
       "url": "https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+        "url": "https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+      "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Underrated (Remix) [feat. MoneySign Suede]",
+        "url": "https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Underrated (feat. MoneySign Suede) - Remix",
+      "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
+        "url": "https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "BlueBucksClan",
+          "url": "https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0"
+        }
+      ],
+      "duration_ms": 254267,
+      "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
+      "url": "https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW"
     },
     {
       "added_at": "2023-08-25 15:42:48",
@@ -171,6 +283,38 @@
       "duration_ms": 226000,
       "name": "heartache blues",
       "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/1LyCWL9ruknFi9M9ONs68Q"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "duration_ms": 116883,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/02ZqOQf9o0AmF5NUYK7CQL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Took The Biggest Risk",
+        "url": "https://open.spotify.com/album/1uxKUKESMaMQcxcoCp2dte"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "3rd World",
+      "url": "https://open.spotify.com/track/1ykurvqNgGYzkIPtEP0ASi"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -255,6 +399,22 @@
       "duration_ms": 96522,
       "name": "Rando",
       "url": "https://open.spotify.com/track/6Wo5QX4i3imhftyKOYUZjI"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "22Joeyy",
+        "url": "https://open.spotify.com/album/3rDrOvwAlhgk3xxvsJz0Ja"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 140794,
+      "name": "melanin",
+      "url": "https://open.spotify.com/track/00GgVbUzNfwknUJN0XSuh1"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -469,6 +629,38 @@
       "url": "https://open.spotify.com/track/33jK0OMIl7zNzj5R9niW3A"
     },
     {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/1dGuB993wK9W2YBiRDfGnh"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 143177,
+      "name": "High Roller",
+      "url": "https://open.spotify.com/track/7otRblg0DIDAen7ZrIwI8R"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "UGH",
+        "url": "https://open.spotify.com/album/3eFOkUfSZ4yUH9b8804KR1"
+      },
+      "artists": [
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/2oWwkZox6LKv7vQccsOlMv"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Perc & Sex",
@@ -543,22 +735,6 @@
       "duration_ms": 103783,
       "name": "MBGB2",
       "url": "https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv"
-    },
-    {
-      "added_at": "2023-08-25 15:42:48",
-      "album": {
-        "name": "FOR THAT CASH",
-        "url": "https://open.spotify.com/album/1L4bWTHTvEE7gSY9x4OpPA"
-      },
-      "artists": [
-        {
-          "name": "ppcocaine",
-          "url": "https://open.spotify.com/artist/2u1aL8XADqj0nJFHMKRjNw"
-        }
-      ],
-      "duration_ms": 175428,
-      "name": "FOR THAT CASH",
-      "url": "https://open.spotify.com/track/2AhtnaTMDExi5JXjGqHbkX"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -693,6 +869,30 @@
       "url": "https://open.spotify.com/track/2cXeUYMss6hflg9hSZHePD"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Johnny Dang (with Paul Wall & DRODi)",
+        "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "DRODi",
+          "url": "https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Johnny Dang (with Paul Wall & DRODi)",
+      "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
+    },
+    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Make A Mess",
@@ -743,22 +943,6 @@
       "duration_ms": 109722,
       "name": "KNOYA",
       "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
-    },
-    {
-      "added_at": "2023-08-25 15:42:48",
-      "album": {
-        "name": "On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/4WzlKTa0ZyWBoYXqnxakYp"
-      },
-      "artists": [
-        {
-          "name": "Dina Ayada",
-          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
-        }
-      ],
-      "duration_ms": 102631,
-      "name": "On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/6jaf7Il3LkGkR0jMYmBXtv"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -855,22 +1039,6 @@
       "duration_ms": 149791,
       "name": "Different Goals",
       "url": "https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "if looks could kill",
-        "url": "https://open.spotify.com/album/1lbRv6yB7ZI2MuoGG9io6E"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 194213,
-      "name": "if looks could kill",
-      "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1259,46 +1427,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Heart Racing",
-        "url": "https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Heart Racing",
-      "url": "https://open.spotify.com/track/2xkCK64mVslpApVL7i6Mxj"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "GOOD LOYAL THOTS",
-        "url": "https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 102556,
-      "name": "GOOD LOYAL THOTS",
-      "url": "https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
         "url": "https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25"
       },
@@ -1411,26 +1539,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "I Know (PR1SVX Edit)",
-        "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "PR1ISVX",
-          "url": "https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu"
-        }
-      ],
-      "duration_ms": 133829,
-      "name": "I Know - PR1SVX Edit",
-      "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "BAD SON",
         "url": "https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf"
       },
@@ -1507,26 +1615,6 @@
       "duration_ms": 112941,
       "name": "$ix $ix",
       "url": "https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "My wrist (with Young Thug)",
-        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "My wrist (with Young Thug)",
-      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1699,22 +1787,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "You Need God",
         "url": "https://open.spotify.com/album/1OuDZVfPIiSuDYfRUEwrFL"
       },
@@ -1755,30 +1827,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
-        "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "ARIZONATEARS",
-          "url": "https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw"
-        }
-      ],
-      "duration_ms": 163139,
-      "name": "Watch This - ARIZONATEARS Pluggnb Remix",
-      "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Underboss",
         "url": "https://open.spotify.com/album/1NIH7j22ZyYDUYihU9WNgQ"
       },
@@ -1811,34 +1859,6 @@
       "duration_ms": 184000,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/3ALMB72epp4pXoJrd97eKq"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Reaper (feat. Babyface Ray / FAST X Soundtrack)",
-        "url": "https://open.spotify.com/album/3XHvDPaZi6SyJ7DWwtTEkL"
-      },
-      "artists": [
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Reaper (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/0JJYlHPFJ9hCopWxY9nYPI"
     },
     {
       "added_at": "2023-07-14 04:00:00",

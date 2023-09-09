@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Olivia Rodrigo, The Rolling Stones, The Chainsmokers, James Blake and more! Cover: Olivia Rodrigo",
-  "num_followers": 95087,
+  "num_followers": 95224,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDBjZmE0ODE5NTkzZDgzOTEzMmUwMzFjNzRhMjgwYzc4YmIzMTNi",
+  "snapshot_id": "MCw5OTkzYmQ3MTkzMmZjYzQ1NGM0MmYyYWEyOTA0NTEwOGVjOTk3YWY3",
   "tracks": [
     {
       "added_at": "2023-09-07 15:00:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/7BoulOzl9ZKbDG1wc1ZyP3"
+        "name": "KiSS OF DEATH",
+        "url": "https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg"
       },
       "artists": [
         {
@@ -54,7 +54,7 @@
       ],
       "duration_ms": 232359,
       "name": "KiSS OF DEATH",
-      "url": "https://open.spotify.com/track/1rnNzNbx6Upu7PNXTVgCDE"
+      "url": "https://open.spotify.com/track/3vv2Mr8J2jGPjFOPiaTwic"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -112,7 +112,7 @@
       "added_at": "2023-09-07 15:00:00",
       "album": {
         "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
       },
       "artists": [
         {
@@ -126,7 +126,23 @@
       ],
       "duration_ms": 166600,
       "name": "Orange (feat. MC. waka)",
-      "url": "https://open.spotify.com/track/1h1X0s5L9PwU5FhdjH77s1"
+      "url": "https://open.spotify.com/track/6GVW9TSNhzllTEWMJ4HneI"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -143,6 +159,26 @@
       "duration_ms": 190706,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -197,7 +233,7 @@
       "artists": [
         {
           "name": "DADA",
-          "url": "https://open.spotify.com/artist/2zDXhinoolncA7NnOVoQYn"
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
         },
         {
           "name": "Watson",
@@ -207,6 +243,30 @@
       "duration_ms": 190285,
       "name": "Satsutaba",
       "url": "https://open.spotify.com/track/2JbQuRLImqt8Z1nCK7SU51"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+        "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -363,8 +423,8 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq"
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
       },
       "artists": [
         {
@@ -374,7 +434,7 @@
       ],
       "duration_ms": 300122,
       "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm"
+      "url": "https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -527,8 +587,8 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
-        "url": "https://open.spotify.com/album/2o67tneHxUqu03nqENYij1"
+        "name": "I Refuse",
+        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
       },
       "artists": [
         {
@@ -537,14 +597,14 @@
         }
       ],
       "duration_ms": 227800,
-      "name": "\u308f\u305f\u3057\u306f\u62d2\u7d76\u3059\u308b",
-      "url": "https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x"
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
     },
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "\u96d1\u7a3f pt.1",
-        "url": "https://open.spotify.com/album/3BmGJLBUzNVqeDHJq8WBhC"
+        "name": "zakkou pt.1",
+        "url": "https://open.spotify.com/album/3tWkNzVGvimOBE6vl3C2NK"
       },
       "artists": [
         {
@@ -553,14 +613,14 @@
         }
       ],
       "duration_ms": 203467,
-      "name": "\u96d1\u7a3f pt.1",
-      "url": "https://open.spotify.com/track/2wGuwgs832MAV9XUecAvF0"
+      "name": "zakkou pt.1",
+      "url": "https://open.spotify.com/track/67dKai3GGTl9qmiA9gx6op"
     },
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
         "name": "Leila",
-        "url": "https://open.spotify.com/album/6TC5CL3TaTfMW98utNC7jv"
+        "url": "https://open.spotify.com/album/4OAMD29bLZWsPiMAI5EVAV"
       },
       "artists": [
         {
@@ -570,7 +630,7 @@
       ],
       "duration_ms": 195704,
       "name": "Leila",
-      "url": "https://open.spotify.com/track/4k2nnWwKk4Qr0sYx6bEbo7"
+      "url": "https://open.spotify.com/track/4FeJt1fgcQSVLJkJz2IyvG"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -607,6 +667,30 @@
       "duration_ms": 176187,
       "name": "My Love (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "Yo Fam!",
+        "url": "https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 161111,
+      "name": "Yo Fam!",
+      "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -679,6 +763,50 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
+        "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
+        "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 288018,
+      "name": "MAYNARD VIGNETTE [Feat. T.I., JID, Jacquees]",
+      "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "College Girls",
+        "url": "https://open.spotify.com/album/2MnezDg8Uik1lpRFDkCB3G"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 251698,
+      "name": "College Girls",
+      "url": "https://open.spotify.com/track/5997LrlUOfmL0WmiP2lti4"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
         "name": "Soak City (feat. Mustard, OhGeesy & BlueBucksClan)",
         "url": "https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF"
       },
@@ -732,7 +860,7 @@
       "added_at": "2023-09-07 15:00:00",
       "album": {
         "name": "U&I",
-        "url": "https://open.spotify.com/album/6ujIK3SB4u66NTut9q6jjw"
+        "url": "https://open.spotify.com/album/2n1WDOBNxKAmBwY4YH3Lo8"
       },
       "artists": [
         {
@@ -746,7 +874,7 @@
       ],
       "duration_ms": 175388,
       "name": "U&I",
-      "url": "https://open.spotify.com/track/7KhbmlDu8zEi2RZU1hS8z5"
+      "url": "https://open.spotify.com/track/2KGEge5X5RYjOnSH5e4dMu"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -803,7 +931,7 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "Love Is Pain",
+        "name": "\uacb0\uad6d (Love is Pain)",
         "url": "https://open.spotify.com/album/09rm6D55oanJigmRYytant"
       },
       "artists": [
@@ -907,8 +1035,8 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "The Bones Of What You Believe (10 Year Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4tEdRjK59d9sjCBTz8kyPH"
+        "name": "Talking In My Sleep",
+        "url": "https://open.spotify.com/album/0VUCqHNTtp55hSwsYFDXyu"
       },
       "artists": [
         {
@@ -918,7 +1046,7 @@
       ],
       "duration_ms": 272327,
       "name": "Talking In My Sleep",
-      "url": "https://open.spotify.com/track/5ioQhpWqvTVGUHnPA6CF1Z"
+      "url": "https://open.spotify.com/track/59gSNjaF8LT7wAiFSDZkWU"
     },
     {
       "added_at": "2023-09-07 15:00:00",
@@ -1027,6 +1155,38 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
+        "name": "House on a Hill",
+        "url": "https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 239320,
+      "name": "Only for a Moment",
+      "url": "https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Her Birthday",
+      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
         "name": "Prosper In Peace",
         "url": "https://open.spotify.com/album/4w0ITX9dgsugA1eNWHHaY3"
       },
@@ -1103,8 +1263,24 @@
     {
       "added_at": "2023-09-07 15:00:00",
       "album": {
-        "name": "\u770b\u5411\u6211\u5427",
-        "url": "https://open.spotify.com/album/0PRFmLmK69sC2a1UXV75Dj"
+        "name": "For The Both of Us",
+        "url": "https://open.spotify.com/album/0fxF1wmYvHSPbche9nHviN"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "For The Both of Us",
+      "url": "https://open.spotify.com/track/0QIiiAoUQru2NQtRBrihII"
+    },
+    {
+      "added_at": "2023-09-07 15:00:00",
+      "album": {
+        "name": "Look At My Way",
+        "url": "https://open.spotify.com/album/5TXaiqWoFsx3lWNmYfPqJy"
       },
       "artists": [
         {
@@ -1113,8 +1289,8 @@
         }
       ],
       "duration_ms": 229426,
-      "name": "\u770b\u5411\u6211\u5427",
-      "url": "https://open.spotify.com/track/1pYY763SGLQGqslKOXbtzn"
+      "name": "Look At My Way",
+      "url": "https://open.spotify.com/track/2YPhR03n4I4KtttHwxVYTo"
     },
     {
       "added_at": "2023-09-07 15:00:00",

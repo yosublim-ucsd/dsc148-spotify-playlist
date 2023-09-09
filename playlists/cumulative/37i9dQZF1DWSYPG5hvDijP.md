@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-145 songs - 7 hr 57 min
+146 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-29 |  |
 | [Second Day Of School](https://open.spotify.com/track/0suHYhqXOeGDXg26tqL2UJ) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 4:05 | 2023-06-23 |  |
 | [Shaitaani](https://open.spotify.com/track/0EgLqhEB0POPpRc7DT8cMs) | [MC Muztafa](https://open.spotify.com/artist/2cZCopDe1yTOmNXdQS3cG6), [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE) | [Shaitaani](https://open.spotify.com/album/6isIWro6HXcOXTxydHzLGn) | 2:43 | 2023-04-16 | 2023-06-02 |
+| [Shoishob](https://open.spotify.com/track/7HaFX8zgAZYOrBrj7GNFlw) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [Shoishob](https://open.spotify.com/album/6ISNptZNpAHaXiLYIawSX2) | 3:16 | 2023-09-08 |  |
 | [SLATT](https://open.spotify.com/track/6lvgkN6qlE9RDp0BzfPUDu) | [Ynxiety](https://open.spotify.com/artist/2csj16wTsXZ6kmvAw6R86s) | [SLATT](https://open.spotify.com/album/16KxB4wDVIwGSwhUqftEAs) | 4:57 | 2023-04-21 |  |
 | [Sod Lacharicha Paksh](https://open.spotify.com/track/6EpvszQYY47iT6hZzwF3hK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Sod Lacharicha Paksh](https://open.spotify.com/album/33nEaGaN27RBcHlTAzhkz4) | 6:08 | 2023-07-20 |  |
 | [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 |  |

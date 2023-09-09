@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 186564,
       "name": "1 Nama",
       "url": "https://open.spotify.com/track/32fgHXElFZJik9myG08AUE"
@@ -116,6 +116,28 @@
       "duration_ms": 181875,
       "name": "A Ciegas",
       "url": "https://open.spotify.com/track/6O4gI4TfPF6JCphukDmRqx"
+    },
+    {
+      "album": {
+        "name": "Tu Puto Rock Star",
+        "url": "https://open.spotify.com/album/2AsfhvrXVEVrJllqaIZHCd"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Bombermusik",
+          "url": "https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx"
     },
     {
       "album": {
@@ -846,7 +868,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-09",
       "duration_ms": 128906,
       "name": "DESDE EL IPHONE",
       "url": "https://open.spotify.com/track/4Cf0UM9DGWCOWgwTnAZpIx"
@@ -920,6 +942,24 @@
       "duration_ms": 159218,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
+    },
+    {
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/2k0cwMQF5bo0CwdO1monJG"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188197,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/4ivFEEGrKOiKYYuhDBzCzk"
     },
     {
       "album": {
@@ -1426,6 +1466,36 @@
       "duration_ms": 180000,
       "name": "FUGA",
       "url": "https://open.spotify.com/track/69VqWU96VxzeBgFeVrO1PB"
+    },
+    {
+      "album": {
+        "name": "G5",
+        "url": "https://open.spotify.com/album/3MDKxvcUcNcJGFdrRfQaYT"
+      },
+      "artists": [
+        {
+          "name": "Italian Somali",
+          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Bin$ho",
+          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308427,
+      "name": "G5",
+      "url": "https://open.spotify.com/track/1gTSCN2lv4MCpqZ64M1qjo"
     },
     {
       "album": {
@@ -2545,6 +2615,36 @@
     },
     {
       "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/0JEnpjW2rO3gvdyvPpcDzm"
+      },
+      "artists": [
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        },
+        {
+          "name": "Marigaby",
+          "url": "https://open.spotify.com/artist/6T1uXUwkOXS5v70yZduarI"
+        },
+        {
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/6vuVged7VF8wges7fJU2s5"
+        },
+        {
+          "name": "JC Segura",
+          "url": "https://open.spotify.com/artist/7rGmBkTZ2s0M3hZUVIbW3D"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147775,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/6nusnc9ti1EhH4hD8fGhh2"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7auB5a1OjnQrFgln8Oyzjf"
       },
@@ -2911,6 +3011,28 @@
     },
     {
       "album": {
+        "name": "Off White",
+        "url": "https://open.spotify.com/album/7rLnp8zObgm4kgjpDgwOaw"
+      },
+      "artists": [
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        },
+        {
+          "name": "VLA Music Entertainment",
+          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "Off White",
+      "url": "https://open.spotify.com/track/4SGiaHb1qQHb1uuMlztNcB"
+    },
+    {
+      "album": {
         "name": "Oh Que Sera",
         "url": "https://open.spotify.com/album/4CPYvGc3GUbQ42cLaNYVht"
       },
@@ -3154,6 +3276,28 @@
       "duration_ms": 185307,
       "name": "Pase Lo Que Pase",
       "url": "https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ"
+    },
+    {
+      "album": {
+        "name": "Picnik",
+        "url": "https://open.spotify.com/album/7tINscsOFCZGEpuconbvIP"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169764,
+      "name": "Picnik",
+      "url": "https://open.spotify.com/track/7gsKpye1ivBYZvt8cMa2ZR"
     },
     {
       "album": {
@@ -4204,6 +4348,28 @@
       "duration_ms": 225319,
       "name": "TU NO TA LINDO RMX",
       "url": "https://open.spotify.com/track/2XV6pyJyineBFSxR73BWAQ"
+    },
+    {
+      "album": {
+        "name": "TU TETA",
+        "url": "https://open.spotify.com/album/0kjwuRncNOwvS3JmApTlsC"
+      },
+      "artists": [
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151009,
+      "name": "TU TETA",
+      "url": "https://open.spotify.com/track/0l9ish1O7LHCxMLaPeMKXO"
     },
     {
       "album": {

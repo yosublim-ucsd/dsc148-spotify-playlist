@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,607 likes - 215 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,907 likes - 215 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,7 +203,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 193 | [Grow Old With You](https://open.spotify.com/track/27eqleJFBew95lK2OLWKun) | [Bobby Watson](https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD) | [I Can't Quit](https://open.spotify.com/album/5zOTkQoMQPvp5ufdCjatYB) | 3:19 |
 | 194 | [Thread](https://open.spotify.com/track/0jtCa3XLLrofXAuh3dQzy7) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:52 |
 | 195 | [As You Fly](https://open.spotify.com/track/3i0KgvRayczTveHLqQlsMs) | [Regina Price](https://open.spotify.com/artist/5Y9TDm2y5jVFkUUjhbQfdC) | [As You Fly](https://open.spotify.com/album/4zh5GKOYRano5iLLVlpfch) | 3:27 |
-| 196 | [Free Rider](https://open.spotify.com/track/5MHD8arSmLCrkujTJBjoab) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/69ioWkMs6HxMePYts5VxSY) | 3:31 |
+| 196 | [Free Rider](https://open.spotify.com/track/0VDH0yEqXrq1KgB4jrLpB0) | [Spirit City](https://open.spotify.com/artist/5ahpxJYMEoAHwWBDMrU6jK) | [Free Rider](https://open.spotify.com/album/4pwYvDwwvLVXQiQiCiFsZp) | 3:31 |
 | 197 | [I'm Here](https://open.spotify.com/track/5WTppsgHUggYFXopdCpyA9) | [Sweet Talk Radio](https://open.spotify.com/artist/0vgTfoEDCKTyYfGf5HIdH2) | [Horology](https://open.spotify.com/album/04SX63uZmcxPhY1EG6QVd3) | 3:45 |
 | 198 | [Tomorrow Is Coming](https://open.spotify.com/track/4kB4Nupn6vML2gWnNW5s9T) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Stealing Time](https://open.spotify.com/album/7oNtY0xPnxNc6oAXoOFrs9) | 5:59 |
 | 199 | [This Time](https://open.spotify.com/track/4NDMfILVy0KPG8nvoctsKO) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 4:16 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 214 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 215 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCw4YWMwNjcyMmNmN2JhZGQyZTVkZGU0ODg1MGQwMDY3ZDU5NTU3NjEy`
+Snapshot ID: `MCw0ZTU0ZDQyZTAyOWZiZWVlN2ZmYmExOTczMjRhNGI5ZGE2NDEwZGQy`

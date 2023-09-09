@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 14307,
+  "num_followers": 14324,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTIzNTg0M2UwOTIxZmIwZGExYmI2YTA5ZDJmNTllNzI3NzYyNGY2",
+  "snapshot_id": "MCwxMTRjYTY3YjNjY2FhYjQ2Njg4ZDQyOThkMTQ2OGQzMzgzNjQzNzc4",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -339,18 +339,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Fabrico Cuero",
-        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Jubilados Violentos",
-      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
+      "duration_ms": 234613,
+      "name": "Microman",
+      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -387,18 +387,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+        "name": "Fabrico Cuero",
+        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
       },
       "artists": [
         {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 234613,
-      "name": "Microman",
-      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+      "duration_ms": 199146,
+      "name": "Jubilados Violentos",
+      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -483,18 +483,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
+        "name": "Megaton",
+        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
       },
       "artists": [
         {
-          "name": "Pez",
-          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
         }
       ],
-      "duration_ms": 240333,
-      "name": "Lo Que Se Ve No Es Lo Real",
-      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
+      "duration_ms": 269240,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -515,6 +515,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
+      },
+      "artists": [
+        {
+          "name": "Pez",
+          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Lo Que Se Ve No Es Lo Real",
+      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Chaco (Serie Rock Nacional 2004)",
         "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 202800,
       "name": "Remisero",
       "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Megaton",
-        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 269240,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
     },
     {
       "added_at": "2020-03-13 13:21:28",
