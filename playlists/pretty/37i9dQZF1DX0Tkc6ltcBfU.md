@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,959 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,195 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 74 | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T) | 2:23 |
 | 75 | [Uh Uh](https://open.spotify.com/track/3UiZ39DYOKbmmuIlqsTxU5) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [DAT BOY DEN](https://open.spotify.com/album/5C3aeXqLo3LCplPnUmsi9q) | 2:26 |
 
-Snapshot ID: `MCwwMmRhOTY0OTI4ZTgwM2RiNTQwYjZiYjlmNThjNjkyODcyMmZkMWQ4`
+Snapshot ID: `MCw4MTZmMGVlM2RjZWVmMDQ3MjFkYjhlY2RkMDMzYmFmN2MxZDFhNzQ1`

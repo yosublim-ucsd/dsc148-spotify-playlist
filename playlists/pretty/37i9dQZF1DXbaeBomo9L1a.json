@@ -1,12 +1,12 @@
 {
   "description": "R&B sensual para una apasionada noche en excelente compa\u00f1\u00eda.",
-  "num_followers": 142753,
+  "num_followers": 142804,
   "original_name": "Texteo de Medianoche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTc5NmNlZWY5MzJjYTU2YTUwNTkzYjgyZjQxMjA5NTM0MDY0YWZm",
+  "snapshot_id": "MCw5OWRiYjQ3ZDdiM2RiMjI2ODQyMGMyN2VlOTQ3ZjAxNDVjODk5ODIy",
   "tracks": [
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 169590,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 145413,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
-        "name": "Only",
-        "url": "https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 169590,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Poco a Poco (Remix)",
-        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        },
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Poco a Poco - Remix",
-      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/6faJS4UNFHTcJ1LkPPuGbL"
       },
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
+        "name": "Poco a Poco (Remix)",
+        "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Poco a Poco - Remix",
+      "url": "https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
         "name": "NOSPOR",
         "url": "https://open.spotify.com/album/1N0JU10NYU5sG4QD5lTjeV"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "I'd Better",
         "url": "https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 190120,
       "name": "I'd Better",
       "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-09-08 23:16:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 168121,
-      "name": "Por qu\u00e9 no nos quedamos",
-      "url": "https://open.spotify.com/track/0IJo4JhwlVTTGALxuBC8KB"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
         "name": "RIKII 2",
         "url": "https://open.spotify.com/album/51jGtZjgMwOpNClgN1Ml9c"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "duration_ms": 168121,
+      "name": "Por qu\u00e9 no nos quedamos",
+      "url": "https://open.spotify.com/track/0IJo4JhwlVTTGALxuBC8KB"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
         "name": "NOTHING TO ME",
         "url": "https://open.spotify.com/album/20U3r75IWJb3KTYl479lQk"
       },
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-09-08 23:16:15",
       "album": {
+        "name": "Aypap\u00e1",
+        "url": "https://open.spotify.com/album/1bnFGoxUB85AP9sGeiyPk8"
+      },
+      "artists": [
+        {
+          "name": "Canina",
+          "url": "https://open.spotify.com/artist/2qUVhNtHcm4EPbQe2VzrOz"
+        }
+      ],
+      "duration_ms": 161854,
+      "name": "Aypap\u00e1",
+      "url": "https://open.spotify.com/track/55mcZdBqxt6FAwbQ5QsuWI"
+    },
+    {
+      "added_at": "2023-09-08 23:16:15",
+      "album": {
         "name": "Ac\u00e9rcate a m\u00ed",
         "url": "https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu"
       },
@@ -1595,26 +1611,6 @@
       "duration_ms": 150000,
       "name": "Ac\u00e9rcate a m\u00ed",
       "url": "https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD"
-    },
-    {
-      "added_at": "2023-09-08 23:16:15",
-      "album": {
-        "name": "ESQUE T\u00da",
-        "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "El Santi",
-          "url": "https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "ESQUE T\u00da",
-      "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
     }
   ],
   "unique_name": "Texteo de Medianoche",

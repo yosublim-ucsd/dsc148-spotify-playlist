@@ -1610,6 +1610,24 @@
     {
       "album": {
         "name": "Inventa un Ma\u00f1ana (En Vivo)",
+        "url": "https://open.spotify.com/album/67OMbdtXyA15dnJ2JbR647"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325173,
+      "name": "El Juicio del Ganso - En Vivo",
+      "url": "https://open.spotify.com/track/2jCcXjx7lVhRXaYns1obr2"
+    },
+    {
+      "album": {
+        "name": "Inventa un Ma\u00f1ana (En Vivo)",
         "url": "https://open.spotify.com/album/4UQ9lwuThqGMWNCS5UlSqF"
       },
       "artists": [
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 325173,
       "name": "El Juicio del Ganso - En Vivo",
       "url": "https://open.spotify.com/track/3F0AqUi23yKEamhnjXTrSR"

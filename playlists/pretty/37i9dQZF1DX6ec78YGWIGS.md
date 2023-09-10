@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,161 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,369 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 89 | [El Bolero](https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 3:26 |
 | 90 | [Cursi](https://open.spotify.com/track/2ePVy5fIcduj4U70PKlA8Z) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Cursi](https://open.spotify.com/album/6MOLgG4WHVrY2iYFSY6KEZ) | 2:58 |
 
-Snapshot ID: `MCxkN2QzOGY0OGRmYzVhNzA0Y2IyNDJlM2RjNTM3NGVhMTZjMzdjZGFk`
+Snapshot ID: `MCw5Y2U3MTBmOWI5ZWJlNDljMWNiOWEzNmQxOTRjN2IwNzA0MGRkODAw`

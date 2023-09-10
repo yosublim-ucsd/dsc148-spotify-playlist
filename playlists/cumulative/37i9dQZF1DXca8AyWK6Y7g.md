@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Aidan Bissett
 
-1,783 songs - 3 day 18 hr 22 min
+1,784 songs - 3 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-05-26\* | 2021-03-23 |
 | [bandages](https://open.spotify.com/track/2g5LoRqCf0dDycdXbT8Pfi) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bandages](https://open.spotify.com/album/7dvCrHSe7fsq3Y6TzTeHtQ) | 2:34 | 2023-08-25 |  |
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-02-17 | 2023-04-23 |
-| [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-06 |  |
+| [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-06 | 2023-09-10 |
 | [Basement Party](https://open.spotify.com/track/3bL9oOZNpzrsNCYs2YgeEM) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Basement Party](https://open.spotify.com/album/20azjqHfH8AlPwwchnSLMw) | 1:56 | 2022-11-11 | 2022-11-27 |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-08-19 | 2021-11-13 |
 | [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-04-28 | 2023-05-01 |
@@ -981,6 +981,7 @@
 | [Lovelike](https://open.spotify.com/track/5ijYxUz6kTJVZWTbHSoIKw) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Lovelike](https://open.spotify.com/album/5MM9vipBxJLKX9h6g9ufEx) | 3:08 | 2019-09-06 | 2020-04-18 |
 | [Lovely](https://open.spotify.com/track/6IYyWCVQbWpuyifWOGDevP) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo) | [Lovely](https://open.spotify.com/album/0or6SfnApnHDMJdAHTTvLb) | 3:26 | 2022-07-01 | 2022-07-14 |
 | [Lovers Table](https://open.spotify.com/track/1XgDH5V2RZJplqiXqKoQVc) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Lovers Table](https://open.spotify.com/album/71FzM9GDwiZTHaKQSklFZu) | 3:53 | 2019-09-29 | 2020-04-22 |
+| [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-09-08 |  |
 | [Lovesick](https://open.spotify.com/track/3IFfNzlMMMSzMBiEA1TCs5) | [Little Warrior](https://open.spotify.com/artist/2XvMoKTRonUpyjczi7UQ9Z), [Goldini Bagwell](https://open.spotify.com/artist/2NdjvADLAY6NFfh6tvJEVu) | [Lovesick](https://open.spotify.com/album/6nKXxyvhwqfSoSwxL7xjmK) | 3:49 | 2019-05-26\* | 2020-04-09 |
 | [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2021-01-23 | 2022-01-05 |
 | [Loving Love](https://open.spotify.com/track/2Mblfptq6Hy8iqsKxRZKRM) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Loving Love](https://open.spotify.com/album/08pc1RDrKkeB9fJQNWonqh) | 2:39 | 2019-05-26\* | 2019-08-13 |

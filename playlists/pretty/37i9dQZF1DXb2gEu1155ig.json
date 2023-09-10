@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 70390,
+  "num_followers": 70473,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh",
+  "snapshot_id": "MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "20 Joyas de la Historia Musical",
-        "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 154052,
-      "name": "Pero Tu No Estas",
-      "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Tu Principe Azul",
         "url": "https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 176346,
       "name": "Pr\u00edncipe Azul",
       "url": "https://open.spotify.com/track/5WdQyJKSSw7591St3jSKS2"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "20 Joyas de la Historia Musical",
+        "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 154052,
+      "name": "Pero Tu No Estas",
+      "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws"
+        "name": "Eva Mar\u00eda",
+        "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
       },
       "artists": [
         {
-          "name": "Grupo Toppaz De Reynaldo Flores",
-          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
+          "name": "Tropical Panam\u00e1",
+          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
         }
       ],
-      "duration_ms": 167706,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ"
+      "duration_ms": 185280,
+      "name": "Tan Bella Y Tan Presumida",
+      "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Eva Mar\u00eda",
-        "url": "https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y"
+        "name": "Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/4D51RO8xMpmhLpfIllv6Ws"
       },
       "artists": [
         {
-          "name": "Tropical Panam\u00e1",
-          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
+          "name": "Grupo Toppaz De Reynaldo Flores",
+          "url": "https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Tan Bella Y Tan Presumida",
-      "url": "https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP"
+      "duration_ms": 167706,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/0rm05uUozKEMkO14sxSSmJ"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Cozumel",
-      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 171746,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+      },
+      "artists": [
+        {
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+        }
+      ],
+      "duration_ms": 167013,
+      "name": "Cozumel",
+      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "De Quen Chon",
-        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
+        "name": "El Ritmo De Chico Che Y La Crisis",
+        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 168803,
-      "name": "De Quen Chon",
-      "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
+      "duration_ms": 150674,
+      "name": "Donde Te Agarro el Temblor",
+      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Lo Mejor De Mike Laure",
-        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
       },
       "artists": [
         {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+          "name": "Los Abelardos",
+          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
         }
       ],
-      "duration_ms": 163921,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
+      "duration_ms": 191059,
+      "name": "Por Unas Monedas",
+      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "El Ritmo De Chico Che Y La Crisis",
-        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
+        "name": "De Quen Chon",
+        "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
       "artists": [
         {
@@ -1324,25 +1324,25 @@
           "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 150674,
-      "name": "Donde Te Agarro el Temblor",
-      "url": "https://open.spotify.com/track/2lkYi9Zq1oLevjFDW0Zj9M"
+      "duration_ms": 168803,
+      "name": "De Quen Chon",
+      "url": "https://open.spotify.com/track/3zbZlaVYtlVzAI4J7XI8UC"
     },
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
       "artists": [
         {
-          "name": "Los Abelardos",
-          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
         }
       ],
-      "duration_ms": 191059,
-      "name": "Por Unas Monedas",
-      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
+      "duration_ms": 163921,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/1YqCgUjgAS8aRdE8pwcUxw"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1359,6 +1359,22 @@
       "duration_ms": 196066,
       "name": "D\u00e9jala Que Se Divierta",
       "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Lo Maximo De Los Sonideros, Vol. 1",
+        "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
+      },
+      "artists": [
+        {
+          "name": "Danny Y Su Grupo",
+          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+        }
+      ],
+      "duration_ms": 221622,
+      "name": "Cumbia De Los Patos",
+      "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Lo Maximo De Los Sonideros, Vol. 1",
-        "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
-      },
-      "artists": [
-        {
-          "name": "Danny Y Su Grupo",
-          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
-        }
-      ],
-      "duration_ms": 221622,
-      "name": "Cumbia De Los Patos",
-      "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Bueno Pa' Bailar",
-        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
-      },
-      "artists": [
-        {
-          "name": "Mike Laure",
-          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
-        }
-      ],
-      "duration_ms": 144323,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "12 Super Exitos",
         "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 173388,
       "name": "Ramita De Matimba",
       "url": "https://open.spotify.com/track/5qvCM5esMYaMs8nW4NN1j7"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Bueno Pa' Bailar",
+        "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
+      },
+      "artists": [
+        {
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
+        }
+      ],
+      "duration_ms": 144323,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2J4Fyd4BjurZ1SQZPcQAVS"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "La Cumbia Del Lazo",
-      "url": "https://open.spotify.com/track/7tTuLRjVBfIyiwW5yZiCUM"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Coleccion De Oro Puro",
         "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2J4Fyd4BjurZ1SQZPcQAVS"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "La Cumbia Del Lazo",
+      "url": "https://open.spotify.com/track/7tTuLRjVBfIyiwW5yZiCUM"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Viva el Amor",
         "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 208882,
       "name": "Viva el Amor",
       "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "20 Exitos Historia Musical",
+        "url": "https://open.spotify.com/album/0DylSKswghS7tyMd8ES5SB"
+      },
+      "artists": [
+        {
+          "name": "Renacimiento 74",
+          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "La Guera Gringa",
+      "url": "https://open.spotify.com/track/6lLekYXNTMHtuu9HQBf9DA"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1599,22 +1615,6 @@
       "duration_ms": 173466,
       "name": "Retrato Hablado",
       "url": "https://open.spotify.com/track/2sizo5xV3vWF9oDaZbwJ9s"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "20 Exitos Historia Musical",
-        "url": "https://open.spotify.com/album/0DylSKswghS7tyMd8ES5SB"
-      },
-      "artists": [
-        {
-          "name": "Renacimiento 74",
-          "url": "https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "La Guera Gringa",
-      "url": "https://open.spotify.com/track/6lLekYXNTMHtuu9HQBf9DA"
     }
   ],
   "unique_name": "Acapulco en la Azotea",

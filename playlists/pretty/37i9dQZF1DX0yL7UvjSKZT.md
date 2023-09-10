@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,126 likes - 147 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,195 likes - 147 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 66 | [Marianne](https://open.spotify.com/track/54e9O9Y8iG3CCjCEdeQ7yy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/5AYjie5QDdpryswTiI5uo6) | 3:19 |
 | 67 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 |
 | 68 | [Three By Three](https://open.spotify.com/track/7xEQvXKOQepPgVbw9UV57M) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [Three By Three](https://open.spotify.com/album/7dEkDi7U2MZXTV7a606fDM) | 3:50 |
-| 69 | [Red Rocking Chair](https://open.spotify.com/track/3YrXglYblDURRXFitsQeq6) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building / Red Rocking Chair](https://open.spotify.com/album/0dlpqJPSkvBInmfJnEZcX7) | 3:06 |
+| 69 | [Red Rocking Chair](https://open.spotify.com/track/0wnf5euVirGXlljN0gcPAA) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building](https://open.spotify.com/album/2Irowt1M4cqcGYHuKYu2H7) | 3:06 |
 | 70 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 |
 | 71 | [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 |
 | 72 | [Up on the Shelf](https://open.spotify.com/track/0gWdHRgj6eLhdGF7XjTGXW) | [Arkansauce](https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl) | [Up on the Shelf](https://open.spotify.com/album/2KSZPbJYPYAPKYs8LyibRe) | 4:25 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 146 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 |
 | 147 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
 
-Snapshot ID: `MCxlMzhiMTU4ODU3NjA5ZmU1N2VmNDkyYTk5MGEzZGRlYmM5NWE3M2M4`
+Snapshot ID: `MCw0OTIzMmU0YmMzNWYwYjNjODFiNDlkYmY0YzY1ZmIzMmI4ZDY4YmY4`

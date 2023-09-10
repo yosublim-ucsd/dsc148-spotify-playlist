@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDBlNjllNmQ5OWU2ZjRiZjZjZDQ3NDU5N2I3ZTk5NGYyMg==",
+  "snapshot_id": "MjgyMzU3NjAsMDAwMDAwMDA5YTFjYjU0NGUxYWE4Y2E2MmJhNzkxMDhjY2Q5ODU4NA==",
   "tracks": [
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Dookie (30th Anniversary Outtakes)",
-        "url": "https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "409 in Your Coffeemaker - Outtake",
-      "url": "https://open.spotify.com/track/06z0dseukmGwZ5OFMoYe9D"
-    },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
@@ -43,26 +27,6 @@
       "duration_ms": 160400,
       "name": "One Week",
       "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Le d\u00e9part",
-        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "Le d\u00e9part",
-      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -103,22 +67,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rumours Live",
-        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 358253,
-      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Dirty Diana (Metal Version)",
         "url": "https://open.spotify.com/album/0rCS3cSTu4NJFPnzMfUk61"
       },
@@ -151,6 +99,22 @@
       "duration_ms": 143103,
       "name": "She Listen To Trap",
       "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Rumours Live",
+        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 358253,
+      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -247,8 +211,28 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Flying Objects",
-        "url": "https://open.spotify.com/album/2iyBzf6DkOwnAkxGsPv3tP"
+        "name": "Origin Story",
+        "url": "https://open.spotify.com/album/2swkmIyTPKt9sihMZXPmMv"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        },
+        {
+          "name": "The Future Kingz",
+          "url": "https://open.spotify.com/artist/4sw5s8BqMsNkOSZtNgACKv"
+        }
+      ],
+      "duration_ms": 297624,
+      "name": "Origin Story",
+      "url": "https://open.spotify.com/track/4ybWYbMBbqqTthbhYx6Z40"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Painted Houses (feat. Conway the Machine)",
+        "url": "https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b"
       },
       "artists": [
         {
@@ -260,13 +244,33 @@
           "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
         },
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 137945,
-      "name": "Harlem World 97 (feat. Estelle)",
-      "url": "https://open.spotify.com/track/26R9jIj6avrEzoIGrRz5ub"
+      "duration_ms": 183157,
+      "name": "Painted Houses (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Puerto Rico",
+        "url": "https://open.spotify.com/album/4xfwBnoenPCuV6HCgwisUy"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 215717,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/3wyBkA7dOMJX0zqW3iIKu8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -331,6 +335,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Dethalbum IV",
         "url": "https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC"
       },
@@ -383,26 +411,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
       "artists": [
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 293122,
-      "name": "Witchcraft (feat. Robert Glasper)",
-      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -423,6 +443,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        },
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "duration_ms": 258941,
+      "name": "Chocolate For Dinner (feat. Chief Adjuah)",
+      "url": "https://open.spotify.com/track/2j98K5wRpXHlSyswZECQQy"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
       },
@@ -435,26 +479,6 @@
       "duration_ms": 270040,
       "name": "Chain Reaction - Live",
       "url": "https://open.spotify.com/track/7ADzRdI3TmUwBiHViCHCG8"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Blood Moon (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
-      },
-      "artists": [
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Blood Moon (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -495,6 +519,30 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Endless Fashion (with Nicki Minaj) [Versions]",
+        "url": "https://open.spotify.com/album/1oeuqGef5PwGCyb6lxPoL4"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 192144,
+      "name": "Endless Fashion (with Nicki Minaj) - sped up version",
+      "url": "https://open.spotify.com/track/5DxOt3uyfE2kGWuTXp6xaG"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "You Don't Know How It Feels",
         "url": "https://open.spotify.com/album/361Hfni1nG1tOrVcJJZrWB"
       },
@@ -519,74 +567,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Black Folk (Remix)",
-        "url": "https://open.spotify.com/album/1XDlBcu0t7TOpxLJmk2Dkn"
+        "name": "Forgiven",
+        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
       },
       "artists": [
         {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Orleans Big",
-          "url": "https://open.spotify.com/artist/5LrIqLIweQz6rLfR8hc8K6"
-        },
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
         }
       ],
-      "duration_ms": 359851,
-      "name": "Tank And The Bangas (feat. Rapsody, Kota the Friend, Orleans Big, Dee-1, Alex Isley) - Remix",
-      "url": "https://open.spotify.com/track/3uUH1IlD2e2UWgVVUII9KS"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "dummy",
-        "url": "https://open.spotify.com/album/69SaxOtmzbxz28npweVNSI"
-      },
-      "artists": [
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 137398,
-      "name": "dummy",
-      "url": "https://open.spotify.com/track/3Yvrrzb0ebtnJYpiXFMWns"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Oh, You Crazy Moon (Ornithology Remix)",
-        "url": "https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Ornithology",
-          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
-        }
-      ],
-      "duration_ms": 67764,
-      "name": "Oh, You Crazy Moon - Ornithology Remix",
-      "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
+      "duration_ms": 205497,
+      "name": "Forgiven",
+      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

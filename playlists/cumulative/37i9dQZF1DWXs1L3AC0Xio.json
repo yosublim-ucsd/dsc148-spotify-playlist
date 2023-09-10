@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 197129,
       "name": "Lifeless Stars",
       "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
@@ -1396,6 +1396,24 @@
       "duration_ms": 259797,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M"
+    },
+    {
+      "album": {
+        "name": "UNDEN!ABLE",
+        "url": "https://open.spotify.com/album/7JEmohpfbrZVszNXBskJUc"
+      },
+      "artists": [
+        {
+          "name": "HELLYEAH",
+          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274164,
+      "name": "Love Falls",
+      "url": "https://open.spotify.com/track/1K1V7pNxjr6q6FORSJuwlm"
     },
     {
       "album": {

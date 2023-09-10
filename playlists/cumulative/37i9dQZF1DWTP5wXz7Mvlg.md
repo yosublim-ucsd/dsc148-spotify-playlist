@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-105 songs - 8 hr 0 min
+106 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Tell You What I Did](https://open.spotify.com/track/4cdTUcdzvpbVz9BJazc1ou) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [Tell You What I Did](https://open.spotify.com/album/7dkwus9p5TrJ10AO9hKrO0) | 3:29 | 2023-07-21 |  |
 | [Tempest](https://open.spotify.com/track/4KmY87fV2G2UoQg0FeM2Qe) | [Calyx](https://open.spotify.com/artist/21Jj10ilqD3LqxZn5rD6V5) | [Tempest / You Want It All](https://open.spotify.com/album/5TFQcoOawAAPjTOZaMWn5X) | 5:24 | 2023-07-21 |  |
 | [That's A Lyric Ya Know](https://open.spotify.com/track/01QrCJzho8JfQlaGahCjTa) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [That's A Lyric Ya Know / Oddball](https://open.spotify.com/album/1nSV8lSUZng3kE2QXbD47s) | 4:24 | 2023-07-21 |  |
-| [The Guillotine](https://open.spotify.com/track/4Z7JifYoK6cQOEmJ1rXxMu) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/6HOm06oFJxRZyM8wUKXnYy) | 5:09 | 2023-07-21 |  |
+| [The Guillotine](https://open.spotify.com/track/4OwCRJEc8wKDODmmzvKIQZ) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/01jCedkuDzg5UGUXceOIrY) | 5:09 | 2023-07-21 |  |
+| [The Guillotine](https://open.spotify.com/track/4Z7JifYoK6cQOEmJ1rXxMu) | [Marcus Intalex](https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD) | [Sell Your Soul](https://open.spotify.com/album/6HOm06oFJxRZyM8wUKXnYy) | 5:09 | 2023-07-21 | 2023-09-10 |
 | [Unconditional](https://open.spotify.com/track/3mDNzIjc9h57KX4ozoGo4Q) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Unconditional](https://open.spotify.com/album/1RW5DwuUNyidhAPOjBpifM) | 3:44 | 2023-07-21 |  |
 | [Underdog](https://open.spotify.com/track/1Tbc5Jy5vBmLBTzBNP6eWD) | [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [Smile & Wave](https://open.spotify.com/album/2RgBhzyPXj9n1ocwkO0UdF) | 4:34 | 2022-07-11 | 2023-07-22 |
 | [Vices \- Bladerunner Remix](https://open.spotify.com/track/5bqfrXlfvuQHDznFhHSb2C) | [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb), [Collette Warren](https://open.spotify.com/artist/2pzGbNf0oadczuFlVAxZC3), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [Bladerunner](https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl) | [Vices](https://open.spotify.com/album/6Pi8S5hFpj4qoCtoIvEDTM) | 4:28 | 2023-07-21 |  |

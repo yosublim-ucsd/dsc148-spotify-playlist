@@ -193,6 +193,36 @@
     },
     {
       "album": {
+        "name": "Menotti: Violin Concerto, The Death of Orpheus, Muero porque no muero & O llama de amor viva",
+        "url": "https://open.spotify.com/album/6Pmf8rpX0RBBVD8GZWNVn1"
+      },
+      "artists": [
+        {
+          "name": "Gian Carlo Menotti",
+          "url": "https://open.spotify.com/artist/6ZXkJX29GZJB89aLkckbj0"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        },
+        {
+          "name": "Spoleto Festival Orchestra",
+          "url": "https://open.spotify.com/artist/6ztrQUmFAjEfE0qv17JLvs"
+        },
+        {
+          "name": "Jennifer Koh",
+          "url": "https://open.spotify.com/artist/5oz3ukvCydQ9fAfvAHwe3z"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507280,
+      "name": "Concerto for Violin and Orchestra: II. Adagio",
+      "url": "https://open.spotify.com/track/3Rss03hj0gVtj6JbMe3EvF"
+    },
+    {
+      "album": {
         "name": "Master and Commander: The Far Side of the World (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/5fLuOsktnBxI1VpMaFR4B6"
       },
@@ -1592,7 +1622,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 507600,
       "name": "Violin Concerto in A Minor: II. Adagio",
       "url": "https://open.spotify.com/track/48kx4bEIk7V3BquwxsFee3"

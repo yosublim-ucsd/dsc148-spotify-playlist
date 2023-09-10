@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 103538,
+  "num_followers": 103598,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
+  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -152,25 +152,9 @@
           "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 262990,
+      "duration_ms": 262978,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "The Luxury Gap (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6"
-      },
-      "artists": [
-        {
-          "name": "Heaven 17",
-          "url": "https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -775,6 +759,26 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Box Energy",
+        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 370306,
+      "name": "Box Energy",
+      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Better Living Through Chemistry",
         "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
       },
@@ -827,22 +831,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Box Energy",
-        "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
+        "name": "Double Cup",
+        "url": "https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR"
       },
       "artists": [
         {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+          "name": "DJ Rashad",
+          "url": "https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V"
         },
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Addison Groove",
+          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
         }
       ],
-      "duration_ms": 370306,
-      "name": "Box Energy",
-      "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
+      "duration_ms": 204579,
+      "name": "Acid Bit (feat. Addison Groove)",
+      "url": "https://open.spotify.com/track/2yvsFzmOODkBzhJo4l5ywM"
     }
   ],
   "unique_name": "303 Classics",

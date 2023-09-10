@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 233890,
+  "num_followers": 233939,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjk2MThiODJmMGNhMmYzMjBlNDg2MTM3ZjkyMTQyMzVmNjYxMzEw",
+  "snapshot_id": "MCwyOGExMGMzYWMxMTkxZDllZjM5M2M1Mzc2NjFlNDU3YjcyZmRiNjA4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1279,6 +1279,30 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
+      },
+      "artists": [
+        {
+          "name": "Our Future Glory",
+          "url": "https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        },
+        {
+          "name": "The Found",
+          "url": "https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u"
+        }
+      ],
+      "duration_ms": 222108,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Miracle of the Mind",
         "url": "https://open.spotify.com/album/2DL0lnvF1LGlpNtxVUGTv6"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 172552,
       "name": "We Won't Bow",
       "url": "https://open.spotify.com/track/040Nak0IKPUFSDMiqL37b5"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
-      },
-      "artists": [
-        {
-          "name": "Our Future Glory",
-          "url": "https://open.spotify.com/artist/455WReaTbCB1fEjWrV29x4"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        },
-        {
-          "name": "The Found",
-          "url": "https://open.spotify.com/artist/0JpPD5tGtaQ6nPzzGqEG9u"
-        }
-      ],
-      "duration_ms": 222108,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
     },
     {
       "added_at": "2022-12-16 05:02:00",

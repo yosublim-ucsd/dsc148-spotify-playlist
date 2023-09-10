@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: SMILE, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,632 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,650 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 4 | [Ashes of Yesterday's Moan](https://open.spotify.com/track/6ezhcFNOBy2uhmmdagj0td) | [Pepper Levain](https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m), [Molyneaux](https://open.spotify.com/artist/64Cff7tGLlVLNCPC3udsug) | [Ashes of Yesterday's Moan](https://open.spotify.com/album/1PsKUPP6gV0yljvdmDfZTd) | 3:42 |
 | 5 | [gift](https://open.spotify.com/track/7LdoYYNWTgEnIlfUwP2grV) | [amatu](https://open.spotify.com/artist/295VMZ02BXhlfUmcutAp06) | [gift](https://open.spotify.com/album/498SoLnPlwctnmgGwdIOL6) | 2:49 |
 | 6 | [Insufficiently Prepared](https://open.spotify.com/track/75VAGomv5xDlfe3QC6ckSP) | [nix kiepe](https://open.spotify.com/artist/2YV8EUfwzkotfHJFvlNKBb) | [Insufficiently Prepared](https://open.spotify.com/album/58WVureEUyFUUzJHZKh98K) | 3:09 |
-| 7 | [Hecate](https://open.spotify.com/track/7Mbfjdc7JWcMw2TmFf68Xq) | [Incláme](https://open.spotify.com/artist/3jEvfxjUTWizkdT7TxUcWQ) | [Hecate](https://open.spotify.com/album/4XLTa9Z7PCzeN5vwAWIz7K) | 6:56 |
+| 7 | [Hecate](https://open.spotify.com/track/0Xky94SelxdqCHVBkPf8gU) | [Incláme](https://open.spotify.com/artist/3jEvfxjUTWizkdT7TxUcWQ) | [Hecate](https://open.spotify.com/album/3FxLZfdzBPVALseRXURu1H) | 6:56 |
 | 8 | [Energy](https://open.spotify.com/track/4wlXGmgSHl3fhawAJL5lbf) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh) | [Energy](https://open.spotify.com/album/61E4DHoXKhZX3oy3tjcQzN) | 4:03 |
 | 9 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
 | 10 | [i will be better the next time i see you](https://open.spotify.com/track/7preZ2Xe57JYFqRCWSVxna) | [BLŪMĒ](https://open.spotify.com/artist/1EmsrlbtiFQyIuRa3ovjFN), [Flaming Gorge](https://open.spotify.com/artist/3ZoqB9sm7680HN9V2VOFAi) | [i will be better the next time i see you](https://open.spotify.com/album/2NjZdR7VSYDLeU6pCIBaXS) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Egal](https://open.spotify.com/track/15kfasEzeqJeyqgJF3lk7S) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Whitey](https://open.spotify.com/artist/31HMcpiwcEdIUpPOQuqQfW) | [Egal](https://open.spotify.com/album/4lta8wNEEceVpWXnKoWkaq) | 2:27 |
 | 80 | [I Don't Like London](https://open.spotify.com/track/2vPTshC5WASIhCUwJhmPU9) | [Erik Peers](https://open.spotify.com/artist/5cEMUiJDC4B0MxJoa0X92G) | [I Don't Like London](https://open.spotify.com/album/2mWM6oeN4gqM9vQEgaSA49) | 3:10 |
 
-Snapshot ID: `MCw1Y2MwOGY5MDBiYjYxNDNhZmM5OGZhMDg1ODYxZDlhZTMzZWM3NzYz`
+Snapshot ID: `MCw4YTI2MThkNDA5MTA5NWZlNWJlOTA3NjEyNjA0NThmNWNhNjUyODI4`

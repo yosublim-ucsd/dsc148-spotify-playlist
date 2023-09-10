@@ -4250,7 +4250,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 203703,
       "name": "Ch\u1eb3ng Nh\u01b0 Th\u1ebf \u0110\u00e2u",
       "url": "https://open.spotify.com/track/2xEtBrQPbkrYAL00aCltdC"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 231627,
       "name": "c\u1eeda h\u00e0ng ti\u1ec7n l\u1ee3i - Midnight Version",
       "url": "https://open.spotify.com/track/6GPGqmi9Y4y2FwQJnA20hq"
@@ -19648,7 +19648,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 169441,
       "name": "Th\u1ebf Th\u00f4i M\u00e0",
       "url": "https://open.spotify.com/track/2Ol5k7A66DDXKT0FhoFTsk"
@@ -19758,6 +19758,28 @@
       "duration_ms": 171053,
       "name": "Tinh Thu Ha Noi 2021",
       "url": "https://open.spotify.com/track/3KKcEuOicCKHO9UebBuiEO"
+    },
+    {
+      "album": {
+        "name": "Tiny Room (feat. Nomovodka)",
+        "url": "https://open.spotify.com/album/7t8hVxGxGOeHpaDbWhG9sw"
+      },
+      "artists": [
+        {
+          "name": "Ha Kiem",
+          "url": "https://open.spotify.com/artist/2zYISFu1sH67EcFc6ueBwN"
+        },
+        {
+          "name": "Nomovodka",
+          "url": "https://open.spotify.com/artist/79BbybQeUyNyFB8ghq4neb"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260139,
+      "name": "Tiny Room (feat. Nomovodka)",
+      "url": "https://open.spotify.com/track/1iFIuB2OUicsbW3k9VLuAW"
     },
     {
       "album": {
@@ -22950,6 +22972,24 @@
       "duration_ms": 284728,
       "name": "Xin \u0110\u01b0\u1ee3c Ph\u00e9p",
       "url": "https://open.spotify.com/track/2rhgT7eLB7QgO2fLsqHlyt"
+    },
+    {
+      "album": {
+        "name": "Xink",
+        "url": "https://open.spotify.com/album/4wGoChXGNopfmPJHMLVghG"
+      },
+      "artists": [
+        {
+          "name": "Mai Phuong",
+          "url": "https://open.spotify.com/artist/5kWXs7szgtSXJ2100bG0DK"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Xink",
+      "url": "https://open.spotify.com/track/24RAmn1bTmhTCsoOuCpAvF"
     },
     {
       "album": {

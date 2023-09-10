@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,811 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,824 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 50 | [Tankha](https://open.spotify.com/track/0L4uTenn6ln6mVxz1hr2co) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Tankha \- Single](https://open.spotify.com/album/6646YdKCiWNHAtqBvccQGW) | 2:58 |
 | 51 | [Palazzo](https://open.spotify.com/track/2marPty0BAvrH10VMO5DoJ) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Palazzo \- Single](https://open.spotify.com/album/5JqCnZ1DQzpcTSXCITp2pF) | 3:22 |
 
-Snapshot ID: `MCwyNDkwOWU1NWEwNDNkNWE1ODQ5NzU3NTM0ZTk0OTA4NjY3YmZlM2Uy`
+Snapshot ID: `MCxlNzUwNjIwZmY1NGEwZDcwN2EwZjcwMDQ1MGZkMGRiZWI2MWI2YjU4`

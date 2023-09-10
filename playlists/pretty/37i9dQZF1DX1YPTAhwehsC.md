@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,777 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,812 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 13 | [For You \(feat\. TaTa\)](https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [For You \(feat\. TaTa\)](https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6) | 1:59 |
 | 14 | [Rare Story Pt\. 2](https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Story Pt\. 2](https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU) | 2:28 |
 | 15 | [Isabel Marant](https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:37 |
-| 16 | [Go & Get It](https://open.spotify.com/track/0nLicBxLiDKL2K7RHLIGz3) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Go & Get It](https://open.spotify.com/album/5Vl1nIAmQQiDm4KVf5mR4C) | 3:09 |
+| 16 | [Go & Get It](https://open.spotify.com/track/0nLicBxLiDKL2K7RHLIGz3) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Go & Get It](https://open.spotify.com/album/5Vl1nIAmQQiDm4KVf5mR4C) | 3:09 |
 | 17 | [Turkey Wings \- Bonus Track](https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones The ALC Edition](https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh) | 2:31 |
 | 18 | [Homesick](https://open.spotify.com/track/7K8AQuuMKWXttVEQun0Bk1) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Homesick](https://open.spotify.com/album/5N9uqlZYIbVGdDbFOhQc0o) | 2:42 |
 | 19 | [Goodfellas](https://open.spotify.com/track/63LuDy5rr3wPh4L0sHJ0Mn) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Goodfellas](https://open.spotify.com/album/1g1FlX0WH4CkW2kveFKh1g) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu) | 3:13 |
 | 100 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 
-Snapshot ID: `MCxhOGY0NDYzNTIwMDlkNjA3OTk4OTJjZjAxZTQwMWE5OWU0OGE2Mjk5`
+Snapshot ID: `MCwzNzQ4MTVkMmJiZmQ3Y2IxNTdhZWU5Y2FhZDE3OGU3ZTM1ZTZmYTg3`

@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-266 songs - 14 hr 41 min
+267 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 | 2022-02-01 |  |
 | [Look Back](https://open.spotify.com/track/6uU3is35QYYPXgK2NylZ3E) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Look Back](https://open.spotify.com/album/1T6Rrzc39d1MpdSP0lB9pt) | 3:18 | 2021-11-19 | 2022-01-23 |
 | [Losing Time](https://open.spotify.com/track/6gHG0T5lelj7EluTAnJ2ox) | [Drew Wilken](https://open.spotify.com/artist/37jtB0pLZhl1UfKUxhcyiQ) | [Losing Time](https://open.spotify.com/album/45mk91pbbutiDTW6J4JTb7) | 3:44 | 2021-11-19 | 2022-02-01 |
+| [LOUD](https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Runnit](https://open.spotify.com/artist/0kojSSqjZ9LAAHpNwYObKb) | [LOUD](https://open.spotify.com/album/20YsYld8q3KoVj8uT7kHGK) | 2:45 | 2023-09-08 |  |
 | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/track/0PCCk7RBQUE7RsoUq66nuW) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Lil Traffic](https://open.spotify.com/artist/3eT3DxADMFeVVzczjXOreQ) | [Lowkey \(feat\. Lil Traffic\)](https://open.spotify.com/album/1vpHK5Bjp7vFHXpmHYzQWD) | 3:12 | 2021-11-19 | 2022-01-20 |
 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 | 2021-11-19 | 2022-02-02 |
 | [Major](https://open.spotify.com/track/55dObqJybLWm9O06FBDLCP) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [Major](https://open.spotify.com/album/4WUW44ZbWTQoi5bsJD3kl6) | 3:53 | 2021-11-19 | 2022-01-17 |
@@ -272,7 +273,7 @@
 | [Wrong Kind](https://open.spotify.com/track/4RsiHeY3G77kcmDygKtqda) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Wrong Kind](https://open.spotify.com/album/7ypaimtNdehVcHnmYDiHc0) | 4:02 | 2021-11-19 | 2022-02-01 |
 | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/track/11VqZrskzYRWEjGqtqC4FP) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675) | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/album/1SVe7vr8xtQfRtxsQtkdb5) | 2:53 | 2021-11-19 | 2022-02-02 |
 | [Yalla](https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo) | [Yalla](https://open.spotify.com/album/5U2t7ENPjxeIK3fQexprEA) | 2:32 | 2023-03-17 | 2023-08-15 |
-| [Yesterdays](https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Yesterdays](https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu) | 3:30 | 2023-06-09 |  |
+| [Yesterdays](https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Yesterdays](https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu) | 3:30 | 2023-06-09 | 2023-09-10 |
 | [Zurna](https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Zurna](https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH) | 2:39 | 2023-08-11 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

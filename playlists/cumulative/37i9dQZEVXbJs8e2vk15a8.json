@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 128684,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/5jXDxSxWzSYugNIRyObOiq"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 140013,
       "name": "Ay Cari\u00f1o",
       "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
@@ -2518,10 +2518,28 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
     },
     {
       "album": {
@@ -3338,7 +3356,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 196406,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/48ww1RXAxDm9XbePE72Gys"
@@ -5480,7 +5498,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 147494,
       "name": "Darkera",
       "url": "https://open.spotify.com/track/2TBuVTy3QnnFn4u4IV7ZMy"
@@ -6670,7 +6688,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 177245,
       "name": "EL AMOR DE TU VIDA",
       "url": "https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0"
@@ -6830,7 +6848,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 105693,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/0Q8uS8c6cXBO03cyQcv3Xn"
@@ -6848,7 +6866,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 140706,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/3aFCdWQnmCskffgpP9UN8L"
@@ -13766,7 +13784,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 463253,
       "name": "Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja",
       "url": "https://open.spotify.com/track/63xr0kuokCreaKuklqDsF5"
@@ -15814,6 +15832,24 @@
       "duration_ms": 218181,
       "name": "No Me Quiere Ver (ft. Javiielo)",
       "url": "https://open.spotify.com/track/5rzTA49jPhyJOpqnIGVuxX"
+    },
+    {
+      "album": {
+        "name": "No Compe",
+        "url": "https://open.spotify.com/album/430gNVv6387cVEvbnFSw3K"
+      },
+      "artists": [
+        {
+          "name": "Baby J & Young Weapon",
+          "url": "https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148314,
+      "name": "No Me Sueltes",
+      "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"
     },
     {
       "album": {
@@ -22690,7 +22726,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 110053,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
@@ -24836,7 +24872,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-25",
+      "date_removed": null,
       "duration_ms": 154489,
       "name": "Uru Te Hami",
       "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
@@ -26722,7 +26758,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"

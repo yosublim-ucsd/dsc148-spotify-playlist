@@ -4,7 +4,7 @@
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-146 songs - 9 hr 38 min
+147 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [If Only We Could](https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc) | [Clarence Spady](https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU) | [If Only We Could](https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL) | 3:08 | 2022-11-30 |  |
 | [If That Ain't A Reason](https://open.spotify.com/track/4gVoxPmkDfGnekQVCzjQr8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:00 | 2021-12-01 | 2022-12-01 |
 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 | 2022-11-30 |  |
-| [In Blood](https://open.spotify.com/track/3h8kxYXCgPLGYRUyJxPySw) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood On My Hands](https://open.spotify.com/album/146zNlN07nHKOk77iS2cTO) | 4:05 | 2022-11-30 |  |
+| [In Blood](https://open.spotify.com/track/3h8kxYXCgPLGYRUyJxPySw) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood On My Hands](https://open.spotify.com/album/146zNlN07nHKOk77iS2cTO) | 4:05 | 2022-11-30 | 2023-09-10 |
+| [In Blood](https://open.spotify.com/track/4R9G9PKBSiBN9vo0d1bBvX) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood on My Hands](https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl) | 4:05 | 2022-11-30 |  |
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-12-01 | 2022-07-29 |
 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 | 2021-12-01 | 2022-12-01 |
 | [In The Night Time](https://open.spotify.com/track/3XguwJEzc5fWjtqb8ofb8h) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/7mUS9JWoAWUMmUgBLy1SXq) | 3:08 | 2021-12-01 | 2022-11-13 |

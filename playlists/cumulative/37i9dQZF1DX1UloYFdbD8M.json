@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "Chaaya Makkaani",
+        "url": "https://open.spotify.com/album/3zm44UwafhPVma414Wp4cI"
+      },
+      "artists": [
+        {
+          "name": "Sudeep Palanad",
+          "url": "https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206640,
+      "name": "Chaaya Makkaani",
+      "url": "https://open.spotify.com/track/7uRnNmG9t6vFGv2gdpDPEu"
+    },
+    {
+      "album": {
         "name": "Rithu",
         "url": "https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn"
       },

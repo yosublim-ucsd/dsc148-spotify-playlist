@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 278440,
       "name": "Lazy Evening Blues",
       "url": "https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 193314,
       "name": "Man of Means",
       "url": "https://open.spotify.com/track/2NNhlH2iUgaZcPNpyIGfbe"
@@ -2292,10 +2292,28 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 153893,
       "name": "Undergroove",
       "url": "https://open.spotify.com/track/4xunh8bA57pylZRTBJMndo"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Soul Organ Showcase",
+        "url": "https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91800,
+      "name": "View Point",
+      "url": "https://open.spotify.com/track/4at8F4EVGmLkNPz0wTtD8g"
     },
     {
       "album": {

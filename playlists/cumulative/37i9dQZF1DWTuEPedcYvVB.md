@@ -4,7 +4,7 @@
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-85 songs - 4 hr 44 min
+86 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [POUNDS & EUROS](https://open.spotify.com/track/1yug7wAcY3fEve8aRb4XIS) | [Jordy](https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p), [Elt Cheekz](https://open.spotify.com/artist/1T2a1UNdYn0AboUTcvyJzX) | [IF I COULDN'T RAP, I WOULDN'T RAP](https://open.spotify.com/album/4kZIeZ2D82hawricknw72D) | 2:02 | 2023-09-07 |  |
 | [Punk](https://open.spotify.com/track/4bCi0lunxzHwpNKjEyaJk6) | [Nammy Wams](https://open.spotify.com/artist/70qwGfn9vuuD517TnlPsgv) | [Paradise South‎‎‎‎‎‎‎‎‎‏‏‎](https://open.spotify.com/album/5SV6QxOuJZFbBVkWsDhL4d) | 4:34 | 2022-04-14 |  |
 | [Real One](https://open.spotify.com/track/3IYcHE80wi0fSiArJIglku) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Queen of the South](https://open.spotify.com/album/1nwgHyQOABtfjwCJUIB0GQ) | 2:26 | 2023-09-07 |  |
-| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-07 |  |
+| [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 | 2023-09-07 |  |
+| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-07 | 2023-09-10 |
 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 | 2023-09-07 |  |
 | [Safeword](https://open.spotify.com/track/0NpQxEbSBygDxEHuflJqRw) | [Splurgeboys](https://open.spotify.com/artist/5ybO9LJlZ1H2d0zBMhdjVa), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [Safeword](https://open.spotify.com/album/69xVp6p6Y0Ohj21vCvp421) | 4:26 | 2022-04-14 |  |
 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 | 2022-04-14 |  |

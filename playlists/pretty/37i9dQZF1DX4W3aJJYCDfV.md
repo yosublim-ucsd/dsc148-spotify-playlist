@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Rodrigo \(pictured\), Leigh\-Anne, Romy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,188 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,256 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 24 | [All My Love](https://open.spotify.com/track/1ZLNp0xsgqY8bLXiExXv9E) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [K1](https://open.spotify.com/album/7chJUyqUNfeXTODiy4mNr2) | 2:36 |
 | 25 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
 | 26 | [on my own](https://open.spotify.com/track/7Lm6wV3xhU1ZRhXjejARRG) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [focus](https://open.spotify.com/album/5ZMmKV7bXG909IMbp2ezWJ) | 3:30 |
-| 27 | [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 |
+| 27 | [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 |
 | 28 | [Angel In Trousers](https://open.spotify.com/track/2bAoNcG06oHl6kLkVYWeVB) | [Leon Stanford](https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX) | [Angel In Trousers](https://open.spotify.com/album/7cusmrgxYhSRkmgp3SRf5p) | 3:31 |
 | 29 | [Mother](https://open.spotify.com/track/7nMCozi8HsfejnRYCHkd3s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Mother](https://open.spotify.com/album/5z8bo60OgWVwpKlpfDVtxt) | 4:06 |
 | 30 | [Colourfast](https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Colourfast](https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq) | 3:44 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 149 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 150 | [Glow Up](https://open.spotify.com/track/54pBJtl72q0YWAR31LtxS2) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Glow Up](https://open.spotify.com/album/6n13YZBvWybdWkphVsGeJ2) | 3:58 |
 
-Snapshot ID: `MCwzNWE3MWNiZGY5M2U3ZTg0YTBiNmNjMTc4ZTExYmUzZGZjNWE2MzIx`
+Snapshot ID: `MCxkMzc4NDA3N2FkM2ZlMDIwYWFkM2U1YTRhNzYxNTg1MzgzNDk3MDBk`

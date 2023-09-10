@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=hidDn0uTRKGYBXMNqGIfKg">Mercy Chinwo </a>
 
-730 songs - 2 day 11 hr 22 min
+730 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Hold On \(Live\)](https://open.spotify.com/track/3g6sGNlPxe6dPn1jMUQkVO) | [Sibusiso Nzima](https://open.spotify.com/artist/6AtfG1qMpauT1Z4JXcaJ8b), [Bobo Jay Nzima](https://open.spotify.com/artist/02A9pWLktquvrirqhv0jt1) | [Hold On \(Live\)](https://open.spotify.com/album/0vZ05bOnla5UbYCdWAkgmS) | 6:45 | 2023-06-30 | 2023-07-14 |
 | [Hold On \- Live Acoustic](https://open.spotify.com/track/7rZRJlvnfGKs96aSlkl5dt) | [Tondi Rams](https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1) | [Hold On \(Live Acoustic\)](https://open.spotify.com/album/5JmxRcJTPVLJMeaFLTF8ap) | 3:07 | 2023-07-07 | 2023-07-21 |
 | [Holy Ghost](https://open.spotify.com/track/34G2zoOHPg3VKflsGJ6cD0) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [I Cant Give Up Now](https://open.spotify.com/album/5GbAhxDtsxMeeoEMNJHpuT) | 5:36 | 2023-08-18 | 2023-09-01 |
-| [Holy Ghost](https://open.spotify.com/track/2oSdly41cTGGHs1NVU5mvd) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr) | [Holy Ghost](https://open.spotify.com/album/28QjsQ9hJwKrQaoEgXXZLb) | 1:40 | 2023-09-08 |  |
+| [Holy Ghost](https://open.spotify.com/track/2oSdly41cTGGHs1NVU5mvd) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr) | [Holy Ghost](https://open.spotify.com/album/28QjsQ9hJwKrQaoEgXXZLb) | 2:51 | 2023-09-08 |  |
 | [Holy Ghost Current](https://open.spotify.com/track/48a9nbKxkLEPwycZhYKyab) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO), [El Shabak](https://open.spotify.com/artist/6bvlvJZeGc77l8fy4IeEmu) | [Holy Ghost Current \| Arise \(Take Your Place\)](https://open.spotify.com/album/0r49TP5uwrMnkWiOxvKVq7) | 2:55 | 2023-08-04 | 2023-08-18 |
 | [Holy Holy Holy](https://open.spotify.com/track/6zJ972ZRRqDPo6M1GkL9Sl) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Holy Holy Holy](https://open.spotify.com/album/3HKQFWTTarCEjp20HAjHns) | 15:23 | 2023-09-08 |  |
 | [Holy Is The Lord](https://open.spotify.com/track/2myhElsWOa314Fbg1fMn2o) | [Great Grace Mission](https://open.spotify.com/artist/3tGCrbVfB32YA1J12ljL1U) | [Holy Is The Lord](https://open.spotify.com/album/0HzuXqaZV684KZubHeg1vF) | 4:57 | 2023-07-21 | 2023-08-04 |
@@ -732,7 +732,7 @@
 | [Your Love](https://open.spotify.com/track/0FmkPDQwgBBoqU11BNCzAD) | [E519 Fam](https://open.spotify.com/artist/6xtgdr2n5OMDGV4f3jVCSm), [Photizo](https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV), [Magizo](https://open.spotify.com/artist/6qFglmuHzhmqXsrMksS5p5) | [Your Love](https://open.spotify.com/album/0VE5Jk8b1KtGC8o55CiWIC) | 5:19 | 2023-09-01 |  |
 | [Your Love](https://open.spotify.com/track/0ltMnxhyBcM098XxNSoWIA) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Your Love](https://open.spotify.com/album/7E80pfo8z86qIedJCbe2i1) | 3:21 | 2023-08-18 | 2023-09-01 |
 | [Your Name](https://open.spotify.com/track/3LrkGtIglziOUIiGcUjoVT) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Your Name](https://open.spotify.com/album/5V0tPtYombwJBLDwTAnDoO) | 3:37 | 2023-07-28 | 2023-08-11 |
-| [Your Presence \- Live](https://open.spotify.com/track/7wYKvVeyT93GLHoVUfQRc1) | [Eunice Morgan](https://open.spotify.com/artist/3CYKuHycuyqxDyPU2NkV5E), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Your Presence \(Live\)](https://open.spotify.com/album/20eworFZo5vJ2z5JtlAs8u) | 6:22 | 2023-09-08 |  |
+| [Your Presence \- Live](https://open.spotify.com/track/7wYKvVeyT93GLHoVUfQRc1) | [Eunice Morgan](https://open.spotify.com/artist/3CYKuHycuyqxDyPU2NkV5E), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Your Presence \(Live\)](https://open.spotify.com/album/20eworFZo5vJ2z5JtlAs8u) | 6:20 | 2023-09-08 |  |
 | [Your Way](https://open.spotify.com/track/3sNaDycGqEhCZCynxXsqmD) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Your Way](https://open.spotify.com/album/3n9S4mPb88vqtiLERDxle1) | 3:20 | 2023-07-07 | 2023-07-21 |
 | [Zamar Worship](https://open.spotify.com/track/1VhRyTjflOVeTWCkpzWpRT) | [Godee](https://open.spotify.com/artist/53kO7BpR5sbrTFsz2SzqyB) | [Zamar Worship](https://open.spotify.com/album/73FuSfnnWqkYFVQAS0fB3H) | 12:31 | 2023-05-26 | 2023-06-09 |
 | [Zion \(Somebody\)](https://open.spotify.com/track/5sDHoeC72DkpU1wiLFCNZ4) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Pe.te](https://open.spotify.com/artist/6JBEJPPMT7XhJII7ZMhPCi) | [Zion \(Somebody\)](https://open.spotify.com/album/4KPwpXXBFEMEPueGCqAEIN) | 2:52 | 2023-07-28 | 2023-08-04 |

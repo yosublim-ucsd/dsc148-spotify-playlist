@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,636 likes - 86 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,664 likes - 86 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 39 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 |
 | 40 | [Poulenc: Cello Sonata, FP 143: II\. Cavatine](https://open.spotify.com/track/6tmzIxHREnZzKSDMm6CNNS) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Daniel Müller\-Schott/Robert Kulek](https://open.spotify.com/artist/4VUYXi3DM3kMe8ifsgz4vD) | [Debussy/Poulenc/Franck/Ravel:Music for Cello & Piano](https://open.spotify.com/album/1cUtLiXmkRNUw9j9eyyPgM) | 6:26 |
 | 41 | [En nacelle](https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd) | 2:45 |
-| 42 | [Midnight Library](https://open.spotify.com/track/4YhXV2KT49GqC7ZU5PqV2I) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Lunar](https://open.spotify.com/album/72avyYrq8KpNMJn5WxPEVq) | 2:19 |
+| 42 | [Midnight Library](https://open.spotify.com/track/4KdDRxzeKS5HDDu5DPMql2) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Lunar](https://open.spotify.com/album/7zE0lG0ghooQjZJN791q08) | 2:19 |
 | 43 | [10 Préludes, Op\. 23: No\. 10 in G\-Flat Major \- Live](https://open.spotify.com/track/6JPzlzHHdqIdmu28qBHdGF) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Benjamin Moser](https://open.spotify.com/artist/6hTXiN5dASj944xDdlpRVV) | [Benjamin Moser \(Edition Ruhr Piano Festival, Vol\. 28\) \[Live\]](https://open.spotify.com/album/3m870YM1LlhKj1bQSxRM6c) | 3:24 |
 | 44 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 |
 | 45 | [Schumann: 12 Gedichte aus Liebesfrühling, Op\. 37: No\. 11: Warum willst du andre fragen](https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 2:09 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 85 | [Piano Concerto No\. 21 in C Major, K\. 467: II\. Andante](https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [London Mozart Players](https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy), [Howard Shelley](https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg) | [Mozart: Piano Concertos, Vol\. 6](https://open.spotify.com/album/4hDQVX7aQ4SIIyCm06fmyP) | 7:13 |
 | 86 | [Moonbeams](https://open.spotify.com/track/6IihP5ExawBf9ddqN5fO6k) | [Leo Livens](https://open.spotify.com/artist/2c7nAl1XnLeEhocqm107SJ), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 1:59 |
 
-Snapshot ID: `MCwyMGU2MDhjOTdlOTljY2JjMzA4MDNkYjBkOTA2ODAzNDI0MDlkNTA0`
+Snapshot ID: `MCw5ZmQ4OGE4M2I2NjM2NDQ5NmEwNzc3N2NlNGQyOGE1ODU0MDI3NjEx`

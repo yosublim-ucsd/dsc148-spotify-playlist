@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-129 songs - 8 hr 20 min
+130 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,11 +71,12 @@
 | [Hometown Glory \- High Contrast Remix](https://open.spotify.com/track/1ESvthpg6hWmjlNJdpTrbH) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Hometown Glory](https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx) | 6:36 | 2022-08-05 |  |
 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 | 2023-05-19 |  |
 | [I Refuse](https://open.spotify.com/track/1OBi4IRkuVOCegnDHG3xhj) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [I Refuse / Midnight Express](https://open.spotify.com/album/6Bi0LU2EWGrSRybRuYsScL) | 5:55 | 2022-08-05 |  |
-| [If I Could \(feat\. Joe Killington\)](https://open.spotify.com/track/52UFPPFMnUzaWfiU8oYgpw) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:51 | 2023-05-19 |  |
+| [If I Could \(feat\. Joe Killington\)](https://open.spotify.com/track/52UFPPFMnUzaWfiU8oYgpw) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:51 | 2023-05-19 | 2023-09-10 |
 | [If We Ever](https://open.spotify.com/track/33LQ2hkSecs8ax6Bz2t9D8) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Tough Guys Don't Dance](https://open.spotify.com/album/4TGg8UNwHYZszTjM24hJSo) | 5:20 | 2023-01-13 |  |
 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 | 2022-08-05 | 2023-07-22 |
 | [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 | 2022-08-05 |  |
 | [Just One Second \- Apex Remix](https://open.spotify.com/track/11IS9sbmnAqSdLQaEvZGbb) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal) | [Sick Music](https://open.spotify.com/album/5m7RGCRrbEhHCrCkNsRPN5) | 6:17 | 2022-08-05 | 2023-09-07 |
+| [Let Me Hold You](https://open.spotify.com/track/5soWKIkC6GnpZT99IatCYq) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Andrew Sherwin](https://open.spotify.com/artist/4ojqGsWvWzIe1d32Uho8Le), [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 3:22 | 2023-08-25 |  |
 | [Let Me Hold You](https://open.spotify.com/track/13rtgTDK9w1clbgXpGuW3y) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 3:22 | 2022-08-05 | 2023-09-07 |
 | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/track/37KhWdLDRC4UMR8jxvVBdW) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Let U Know \(feat\. Charlotte Plank\)](https://open.spotify.com/album/5kRPPrLyW4iXoAuz1GKfOQ) | 2:40 | 2023-08-11 |  |
 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 | 2023-06-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW?si=aMqmuT\-dTkmOV0QP8Q\-6zQ">Jervis Campbell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,274 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,432 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [Surrounded By Holy \- Live](https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Surrounded By Holy](https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p) | 7:35 |
 | 16 | [To Dwell As One](https://open.spotify.com/track/0f1Gp52KenDvxEjJiG5e4X) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Tamar Chipp](https://open.spotify.com/artist/0aTfN6w6p8VWNWDyDVuCBu) | [To Dwell As One](https://open.spotify.com/album/1KMihMJGa3RhcBTXEdfiDm) | 5:00 |
 | 17 | [My Help Comes](https://open.spotify.com/track/0Ueys3nkq4eXNW627HCoeh) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [My Help Comes](https://open.spotify.com/album/5aGMaZiBK5eIKXG7nM5AxB) | 4:33 |
-| 18 | [Woven \- Live](https://open.spotify.com/track/4um1czJ4mkB3r2LbYXuDMA) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I) | [Woven \(Live From The Coal House\)](https://open.spotify.com/album/080472cnVTBps6YoD5SI3z) | 8:08 |
+| 18 | [Woven \- Live](https://open.spotify.com/track/4um1czJ4mkB3r2LbYXuDMA) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I) | [Woven: Live From The Coal House](https://open.spotify.com/album/080472cnVTBps6YoD5SI3z) | 8:08 |
 | 19 | [Overflow](https://open.spotify.com/track/3pn7dy0wHcmC6mrkQl2Vb9) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Overflow](https://open.spotify.com/album/7q09BaHgzHcfYKebLE72C0) | 3:09 |
 | 20 | [Gratitude](https://open.spotify.com/track/2482KR7fk8HJAZaZBlwro8) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Gratitude](https://open.spotify.com/album/0j0ySTErXjm9lbDQ56XZXO) | 4:21 |
 | 21 | [Just One Look](https://open.spotify.com/track/6QXhXCBFlDpHa7PoRWFuei) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Jocelyn Ruassay](https://open.spotify.com/artist/5JFXVaZzFiTjl4s6ppcKZq), [Jonathan Raingruber](https://open.spotify.com/artist/5QkiN0LYueu0f4Y74Bt5xY) | [Just One Look](https://open.spotify.com/album/659oHNZS7VTt1Vq9drw9KW) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Way Too Good](https://open.spotify.com/track/0dNgklMI9uv554WTCQTBQf) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [Way Too Good](https://open.spotify.com/album/2liUsHwyNSDXNO1YPT6SXO) | 2:41 |
 | 100 | [Rampage](https://open.spotify.com/track/3JXqRCeXxeNLKLuCgX8o9h) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [God Be Praised](https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i) | 3:19 |
 
-Snapshot ID: `MCw4NjdlNGI4ZDgwNmMxNmFhZmY1ZGRiMTFlMmVkNWZlOWRmODM4NjFh`
+Snapshot ID: `MCxkMjdlNjBlOGY4M2YyMjg4NTQ3NWE1N2ZlZDBhZmYwM2FlODdjZTc3`

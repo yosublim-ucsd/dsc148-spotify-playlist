@@ -579,6 +579,28 @@
     },
     {
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/11uLyqFpFnASRiuARez0w3"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "Gyal Like You",
+      "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
+    },
+    {
+      "album": {
         "name": "Hard to Find",
         "url": "https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ"
       },
@@ -1546,6 +1568,24 @@
       "duration_ms": 158239,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6saJgecnDEVbH0qsGETqKV"
+      },
+      "artists": [
+        {
+          "name": "Aramide",
+          "url": "https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146037,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3hVQchy4lN19vboyrroadH"
     },
     {
       "album": {

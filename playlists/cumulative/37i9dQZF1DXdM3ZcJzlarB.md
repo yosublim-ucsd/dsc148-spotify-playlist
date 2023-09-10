@@ -4,7 +4,7 @@
 
 > Progressive & Melodic House desde Argentina, by Surface.
 
-60 songs - 7 hr 57 min
+61 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Plexo](https://open.spotify.com/track/1GtBfYQR8FJig0YiYNjedr) | [FunkState](https://open.spotify.com/artist/6V83rdyRMOwknBz8d4UKng) | [Plexo](https://open.spotify.com/album/7e0MJ7cxWWFKAwkzMUui6J) | 7:04 | 2020-09-04 |  |
 | [Reliance \- Original Mix](https://open.spotify.com/track/5N6kCxZHx2gXSvshCBP1K6) | [Eze Ramirez](https://open.spotify.com/artist/3Opa18T1i19my4JhThTWiw) | [My Pleasures](https://open.spotify.com/album/127OqDJSx9zNsu5AnwbPjF) | 7:06 | 2020-09-04 |  |
 | [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 5:24 | 2020-09-04 |  |
-| [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 8:18 | 2020-09-04 |  |
+| [Ritual of Love](https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR) | 8:18 | 2020-09-04 | 2023-09-10 |
+| [Ritual of Love](https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn) | 8:18 | 2020-09-04 |  |
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 |  |
 | [Sand Waves](https://open.spotify.com/track/19cecQlufpLqz369fFxfWv) | [Max & Nim](https://open.spotify.com/artist/2HWIznpGV3NYozQqochmbX) | [Sand Waves](https://open.spotify.com/album/6gAG0C3oSeH81sQWtbZMTn) | 3:06 | 2020-09-04 |  |
 | [Sensitive \(Part II\)](https://open.spotify.com/track/2h1lMvv4Tz8zJ0NhS2Xtjk) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Small Musical Stories](https://open.spotify.com/album/4fYQ3930NKvfCSflAS6dMk) | 8:16 | 2020-09-04 |  |

@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 409173,
       "name": "The Sapiens (Original Mix) [Mixed]",
       "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
@@ -1448,6 +1448,24 @@
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
+    },
+    {
+      "album": {
+        "name": "You Can't Steal My Joy",
+        "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289053,
+      "name": "You Can't Steal My Joy",
+      "url": "https://open.spotify.com/track/1OlXIlGPGhoXI8f0Kj778C"
     },
     {
       "album": {

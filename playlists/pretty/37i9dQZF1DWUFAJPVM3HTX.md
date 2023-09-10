@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2?si=UhHlCfaQTmeXGi\-XvTkm7w">Dayo Bello</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,756 likes - 188 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,868 likes - 188 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 187 | [Love so Sweet](https://open.spotify.com/track/507ZRCsU0kTlDIy6yhud0k) | [Gen Bello](https://open.spotify.com/artist/4ZbEWjblNsCE61flvcbOMs) | [This Again](https://open.spotify.com/album/47Qk48pSUoIIYQNZswyMk8) | 3:48 |
 | 188 | [complicated](https://open.spotify.com/track/4yU9YWG5rNLTfSfGlXMmoO) | [THANKQ](https://open.spotify.com/artist/18V0w2L9TopQYP73r34tE6) | [complicated](https://open.spotify.com/album/144acRFPtkJHcYq8plsV4f) | 2:00 |
 
-Snapshot ID: `MCxkNTU3NGY1MjlmMDJlNDIyZmEwYWM4ZTNiZDc1NDg0YTA4Y2Y4ZDQ3`
+Snapshot ID: `MCxhNWY2YTQ3MWFkM2Y1YWU5ZTBmYjZlNmIwZWYwYTU4ODYwMTc1YWE2`

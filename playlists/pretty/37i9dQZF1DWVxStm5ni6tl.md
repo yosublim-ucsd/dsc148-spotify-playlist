@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: myst milano., Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 856 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 858 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Marionettes](https://open.spotify.com/track/0kcUGNxAsq95ON6Pp6nafS) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [No Label No Budget \(Season 5\)](https://open.spotify.com/album/3QvpYOLSIUHL3IbGmYmkB6) | 2:03 |
 | 75 | [Nightmares of my Summer Days](https://open.spotify.com/track/4w6BDvSuQQmHEYe8ANuycd) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Nightmares of my Summer Days](https://open.spotify.com/album/0pW0OxH3BTl0C9NSigoeVN) | 2:41 |
 
-Snapshot ID: `MCw2OTgxY2RlM2RlNDkzODZjNzRhMGViMTdiNTEzZjA1ZDE1Yjg3MzRj`
+Snapshot ID: `MCwwZTIyMGJkMzliZGRlZTRmYzNmOTcyODQzNzg0NzM0YzI2OGY0OGEy`

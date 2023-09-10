@@ -1,12 +1,12 @@
 {
   "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: CRi, Half Moon Run",
-  "num_followers": 105890,
+  "num_followers": 105902,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGMwMWRjOTM2YjBlY2YzNDc0ZmRmNzAxNTRkNWU5NWY1MTQxYWQ3",
+  "snapshot_id": "MCxiZjE3YWYyMjY0M2I3MWNmNWU5NWNjYmUzOTU5OWYxMDdiZWRiNjJj",
   "tracks": [
     {
       "added_at": "2023-09-08 04:01:00",
@@ -500,12 +500,12 @@
           "url": "https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G"
         },
         {
-          "name": "Mike Clay",
-          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
-        },
-        {
           "name": "KALLITECHNIS",
           "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "Mike Clay",
+          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
         }
       ],
       "duration_ms": 157077,

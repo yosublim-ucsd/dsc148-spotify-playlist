@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Noah Gundersen
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,377 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,428 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Portrait Of A Clear Day](https://open.spotify.com/track/61NuERgW2NGX37TcCcoVfm) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:20 |
 | 150 | [Moonstruck](https://open.spotify.com/track/3c2EJZOuPkXFAqiroBQVox) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Moonstruck](https://open.spotify.com/album/1gEJ7uSk7dwenIOGNtKpuu) | 4:29 |
 
-Snapshot ID: `MCxhZDQ4ZjlmNDE5MTMxNDJkZGFmNmNlNDQ1ZmRhMTVkMDMyYzJmYWJi`
+Snapshot ID: `MCxjNWQ0ZDQwZjc5NjRlMTU5ZDA2YmI0MDUyM2U4NzEwMDMxMDQ1M2Ux`

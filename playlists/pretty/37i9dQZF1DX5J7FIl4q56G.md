@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Kvelertak
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,185 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,399 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [This Falls On You](https://open.spotify.com/track/4zl1DK1kMeVwEu66Wtj5Yv) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Bad Seed](https://open.spotify.com/artist/6OQNQ3pUsbWuVhVXVCJRKO) | [Not Through Blood](https://open.spotify.com/album/72qCyvqc1Spr8Vwx97NTTA) | 2:09 |
 | 27 | [Total Domination](https://open.spotify.com/track/1d9X0qmLe0HLlUCidI3ZA7) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Heartbreak Criminals](https://open.spotify.com/album/3ON5MqbmRwmzAHIbM2y4C5) | 1:16 |
 | 28 | [Apocalypsis](https://open.spotify.com/track/0fBR4vFG6xDYiUCYMp48fW) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Apocalypsis](https://open.spotify.com/album/7EvXjcBHdiygd6cyXfUwMC) | 4:06 |
-| 29 | [Nephilim](https://open.spotify.com/track/5MNk6kLXAnxR6wIdXfEn0o) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Nephilim](https://open.spotify.com/album/3JkORuyvZGcUaYSR8r6ZNN) | 2:51 |
+| 29 | [nephilim](https://open.spotify.com/track/5MNk6kLXAnxR6wIdXfEn0o) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [nephilim](https://open.spotify.com/album/3JkORuyvZGcUaYSR8r6ZNN) | 2:51 |
 | 30 | [Godless Deceiver](https://open.spotify.com/track/3NivzQY0PtMFrDWE1Y9aFp) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [As Gomorrah Burns](https://open.spotify.com/album/2wUwwjIKeYhyDIHNhDPno9) | 3:40 |
 | 31 | [Visionary](https://open.spotify.com/track/3O3b9yQc8aosuDI3IZPDqe) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL) | [Visionary](https://open.spotify.com/album/0QDCVxVFiJ4CDNkz4wQ0Cj) | 4:16 |
 | 32 | [Pilgrimage to the World's End](https://open.spotify.com/track/3DuHGfRW4hkhmbSwelbeNB) | [Primordial](https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek) | [Pilgrimage to the World's End](https://open.spotify.com/album/2m74YpT2rsINztckBweJ68) | 7:07 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 60 | [To the Sun](https://open.spotify.com/track/5vs8QzAN9krzgIm1FxVmtG) | [Damnation Plan](https://open.spotify.com/artist/3LhVTmnVEbbCqdpXOB16uX) | [The New Horizon](https://open.spotify.com/album/6GXdc5klfFVUjVOpzGeI6u) | 6:36 |
 | 61 | [Maleza](https://open.spotify.com/track/0FNTjXiR3I7dXqmyHeAGuW) | [Hoguera](https://open.spotify.com/artist/2RKZo5LF5w25L7FBtFJqc6) | [Maleza](https://open.spotify.com/album/4LbaVnE1fVtjAEujj8dU8k) | 3:03 |
 
-Snapshot ID: `MCwwMDE5YWUyNjkxMWQ2NzRjYWUyYzhkNmVkNzkxYzU0M2ViMzNhOTll`
+Snapshot ID: `MCxhNzg1MzdhMGNmZmQxY2Q5Zjk5MDNkNTE5ZWYxNjQ4NTJjZmFhMWU4`

@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Pure Ambience",
+        "url": "https://open.spotify.com/album/5aFMwrHZGnmcGQA0nXORsa"
+      },
+      "artists": [
+        {
+          "name": "Jon Derison",
+          "url": "https://open.spotify.com/artist/5vucpx7FKc7HDHdikz6R6Y"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Pure Ambience",
+      "url": "https://open.spotify.com/track/1hE4uBGIfigYTxG8egwMQd"
+    },
+    {
+      "album": {
         "name": "Purple Sunrise",
         "url": "https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg"
       },
@@ -5180,6 +5198,24 @@
       "duration_ms": 197946,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/5TwlZ0NAJcQfaLuxKMCA6u"
+    },
+    {
+      "album": {
+        "name": "Somnio Somnium",
+        "url": "https://open.spotify.com/album/0cLoFyWU6BXkIDy7tgUFXy"
+      },
+      "artists": [
+        {
+          "name": "Pollux Pluto",
+          "url": "https://open.spotify.com/artist/7MB8ZbCZVAb7XBuuFbdbXl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Somnio Somnium",
+      "url": "https://open.spotify.com/track/2wBkAPmTIQtQtg4ZCpy5dC"
     },
     {
       "album": {

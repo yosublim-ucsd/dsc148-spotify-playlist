@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP?si=58Qc9PanQNitwXKmdSXXFg"> Khaid </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,735 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,754 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 30 | [Complete](https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Complete](https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD) | 2:40 |
 | 31 | [Don't stop](https://open.spotify.com/track/5Xh5ujQJV7gUroqlroeiy8) | [Lil Manna](https://open.spotify.com/artist/2Pxnl6nIQnUgV9YZO3P49l) | [Don't stop](https://open.spotify.com/album/5pac5iotP9GqwDiYC5rduF) | 2:55 |
 | 32 | [Overload](https://open.spotify.com/track/7p2dftfOJG94HcOWazbBlx) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Overload](https://open.spotify.com/album/2JL6c6jajg4jNOJuW9gECJ) | 2:29 |
-| 33 | [Theysaid.](https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk) | [Typewrit3R Vol\. 1](https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4) | 3:02 |
+| 33 | [Theysaid.](https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Array.](https://open.spotify.com/artist/35Hb6TrgbjftU0vO14t7qF) | [Typewrit3R Vol\. 1](https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4) | 3:02 |
 | 34 | [Sarafina](https://open.spotify.com/track/7webioG16MofieGrte2K0W) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [Sarafina](https://open.spotify.com/album/4skG4KpXp7xsbmdclVo9CI) | 3:33 |
 | 35 | [Militant](https://open.spotify.com/track/3OqVw4Zf3qaq5Oq0nsSiyF) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [Militant](https://open.spotify.com/album/72H7P42rajP4LUuVTagSzT) | 2:16 |
 | 36 | [Free](https://open.spotify.com/track/3Ts5RylTIKoNViYysjGbOy) | [Queen Ayorkor](https://open.spotify.com/artist/4Y9FihnUo5vo4tVYTbYqaw) | [Phase & Faces](https://open.spotify.com/album/1Ki1jMf5LII3klooMcQblw) | 3:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 98 | [21](https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [LeriQ](https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl) | [Asylum](https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU) | 2:25 |
 | 99 | [Pressure](https://open.spotify.com/track/1ymzL0FjHP41LGzjo3zUhs) | [The Abe Effect](https://open.spotify.com/artist/6ns0xEYQLp6bBKJirBFu6l), [YungAce](https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO), [Olupellar](https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS) | [Pressure](https://open.spotify.com/album/6NNRLvP9TQq4ECmZ4Z6w5V) | 2:20 |
 
-Snapshot ID: `MCwzNDExNjJmOTg5N2RjYTI1NWNmYTAyNjM0Mzg2YTBhNWE4YmExODJi`
+Snapshot ID: `MCwyNWVhOWRlMDFkYjc1MjgwMzU2YTY5YzJiM2ZjODNkNTVkZDBkMDcy`

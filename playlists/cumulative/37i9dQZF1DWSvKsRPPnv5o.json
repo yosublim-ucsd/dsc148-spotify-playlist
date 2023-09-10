@@ -1167,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "BEEN THAT (EXTENDED)",
+        "url": "https://open.spotify.com/album/0uqVm5RyIpYOmU6Wkjwq2R"
+      },
+      "artists": [
+        {
+          "name": "Saviii 3rd",
+          "url": "https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2"
+        },
+        {
+          "name": "Kalan FrFr",
+          "url": "https://open.spotify.com/artist/5xgo6cRYZ355wbMzVZglGN"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266527,
+      "name": "BEEN THAT - EXTENDED",
+      "url": "https://open.spotify.com/track/7ClqhPie1SkSrgCazvE1GR"
+    },
+    {
+      "album": {
         "name": "BEEN THAT EXTENDED",
         "url": "https://open.spotify.com/album/2ozb1yIMSiWbuoPvQ2UstP"
       },
@@ -1182,7 +1204,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 266475,
       "name": "BEEN THAT EXTENDED",
       "url": "https://open.spotify.com/track/5rgAx7zbTWRbioqp4xp5jg"

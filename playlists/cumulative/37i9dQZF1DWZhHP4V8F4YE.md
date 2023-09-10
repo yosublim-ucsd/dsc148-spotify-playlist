@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-487 songs - 1 day 5 hr 34 min
+488 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [GOD ABEG](https://open.spotify.com/track/1eIuQNo61ABMcVaIbVYa6I) | [Brain Jotter](https://open.spotify.com/artist/66RbWcHfn8tLJsxp0wNTgc) | [GOD ABEG](https://open.spotify.com/album/5kELL7N07ckR3esH9oYECQ) | 2:10 | 2023-03-20 | 2023-04-04 |
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-12 | 2023-01-17 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-29 | 2023-06-06 |
-| [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-05-29 |  |
+| [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 | 2023-09-07 |  |
+| [GoodSin](https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/3axpLgzTEbftwwMXdYX3TK) | 2:20 | 2023-05-29 | 2023-09-10 |
 | [Grateful](https://open.spotify.com/track/2K4PHy2VYIWTkyguN0PD79) | [Lil Shappi](https://open.spotify.com/artist/4ZVOYa2eJ1DLxQ1koWTJOo), [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v), [Little Zino](https://open.spotify.com/artist/6x4OqqMFgdAPsQ9wgPHpYw) | [Grateful](https://open.spotify.com/album/2DU3vg4vlOUbC9lV2pxgud) | 2:47 | 2022-11-29 | 2022-12-13 |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-03-20 | 2023-04-12 |
 | [Habibi \(Quantum Sound\)](https://open.spotify.com/track/0JtoyusgiISK10cXzX79uH) | [Sizwe Nineteen](https://open.spotify.com/artist/2c3QieTCPiVSzFF3RnmiOU), [R\-Bee](https://open.spotify.com/artist/1Q7Cjk0pNfOLij9zTULofB), [De’vine 07](https://open.spotify.com/artist/24cfPlwva5seVaDkD7oZlD), [Drumonade](https://open.spotify.com/artist/1FrqPnLttkZLv5Ua8PIFGu), [Tumi Sdomane](https://open.spotify.com/artist/23gF82fPg0ulReEVAKqVVn) | [Habibi \(Quantum Sound\)](https://open.spotify.com/album/1dIb3F7jjjyv5TatikaHV3) | 6:08 | 2023-08-23 |  |

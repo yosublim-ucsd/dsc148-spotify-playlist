@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 55658,
+  "num_followers": 55878,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWQwMzcwMjAzODZiNzNmZTgzMzBmYjBkMzM3NGU3ZjkwN2YzYzVh",
+  "snapshot_id": "MCxiMjk1ZDdlNTFkOGUxNTg5OWFkNWRlNTA5NWVhMDlkMzM3OWE2Zjc5",
   "tracks": [
     {
       "added_at": "2023-08-09 00:07:19",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
-        "name": "Ni Te Imaginas",
-        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
-      },
-      "artists": [
-        {
-          "name": "Los Parientes",
-          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Aunque No Seas Para Mi",
-      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
-    },
-    {
-      "added_at": "2023-08-09 00:07:19",
-      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
+        "name": "Ni Te Imaginas",
+        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
+      },
+      "artists": [
+        {
+          "name": "Los Parientes",
+          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Aunque No Seas Para Mi",
+      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
+    },
+    {
+      "added_at": "2023-08-09 00:07:19",
+      "album": {
         "name": "Tu Lo Decidiste",
         "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
       },
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
         }
       ],
-      "duration_ms": 178128,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
+      "duration_ms": 180819,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-08-09 00:07:19",
       "album": {
-        "name": "Mi Guitarra y Yo Vol. 2",
-        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Se Me Mamo El Becerro",
-      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
-    },
-    {
-      "added_at": "2023-08-09 00:07:19",
-      "album": {
         "name": "Para Morir Nac\u00ed",
         "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192000,
       "name": "Para Morir Naci",
       "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
+    },
+    {
+      "added_at": "2023-08-09 00:07:19",
+      "album": {
+        "name": "Mi Guitarra y Yo Vol. 2",
+        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Se Me Mamo El Becerro",
+      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
     },
     {
       "added_at": "2023-08-09 00:07:19",
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
         }
       ],
-      "duration_ms": 180819,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh"
+      "duration_ms": 178128,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
     },
     {
       "added_at": "2023-08-09 00:07:19",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,632 songs - 5 day 19 hr 14 min
+3,633 songs - 5 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1497,7 +1497,7 @@
 | [It's Like](https://open.spotify.com/track/5KxeUIVoQj2OGG0j1WRQoV) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [It's Like](https://open.spotify.com/album/3oBrEMQRMiF1nNlrmDBSxo) | 2:19 | 2021-02-26 | 2021-04-23 |
 | [It's Not Just Me](https://open.spotify.com/track/2XrXZ0DH1mqspN4mZWEp05) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [It's Not Just Me](https://open.spotify.com/album/6kH8vRc89EBSXfHCl2TJ6E) | 2:51 | 2022-11-17 |  |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-03-13 |
-| [It's Only Tuesday](https://open.spotify.com/track/0jD2Eou8plHycp7qYNHK8R) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [It's Only Tuesday](https://open.spotify.com/album/5AYgTRkJPuEhT6GlMolzem) | 1:36 | 2022-12-08 |  |
+| [It's Only Tuesday](https://open.spotify.com/track/0jD2Eou8plHycp7qYNHK8R) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [It's Only Tuesday](https://open.spotify.com/album/5AYgTRkJPuEhT6GlMolzem) | 1:36 | 2022-12-08 | 2023-09-10 |
 | [It's Our Time](https://open.spotify.com/track/4MeXAGHd3SYAgfx8YsTveT) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [It's Our Time](https://open.spotify.com/album/09UD4G7JXUqrXZYlq0Sq8n) | 2:08 | 2021-07-04 |  |
 | [It's Over](https://open.spotify.com/track/6yTMI32z4U5KMw8wsr7kcJ) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [It's Over](https://open.spotify.com/album/1NvbnubkNHo7zNnnccwvGn) | 2:14 | 2021-07-10 | 2021-09-17 |
 | [It's Raining Again](https://open.spotify.com/track/7KY5EBob4whjQ8oZBkkLTi) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [It's Raining Again](https://open.spotify.com/album/7iexRR9CMdWO8UcmXxkmlY) | 2:02 | 2019-07-26 | 2019-07-30 |
@@ -3633,6 +3633,7 @@
 | [Zen Spot](https://open.spotify.com/track/0ctK4uggRXIq7eBHzc5a6L) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Zen Spot](https://open.spotify.com/album/1Ya7vo5oCuoNLHtrO27VTS) | 1:42 | 2020-03-04 | 2020-05-25 |
 | [Zenith](https://open.spotify.com/track/0fPS4FmQcXuzRF5U3YkWsm) | [Matt Hylom](https://open.spotify.com/artist/3FQ8OZA3NwBaVfTbldZYa5) | [Zenith](https://open.spotify.com/album/1BarRfLh8ePPiZPZpWeLGN) | 1:45 | 2021-04-19 | 2021-04-23 |
 | [ZEPHYR](https://open.spotify.com/track/2bx4eI3CrtreaT6ZGQ0GkM) | [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Cheekybeefy](https://open.spotify.com/artist/1anJKb6IVtSwR7jAadjF3I) | [ZEPHYR](https://open.spotify.com/album/0puZBSQsDlnl8nXyB6Ijw6) | 3:03 | 2022-10-06 | 2023-01-20 |
+| [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 |  |
 | [Zulu](https://open.spotify.com/track/0O5JPvjhPJU3s1dam9XMZ8) | [Blunted Beatz](https://open.spotify.com/artist/4PwAMeYAleoB1JgIe3ss4Q) | [Zulu](https://open.spotify.com/album/1eBCYPOdbS5wGGMn96OBql) | 1:30 | 2019-07-24 | 2020-01-08 |
 | [Zzz..\. Sleep Mode](https://open.spotify.com/track/4aFOWbkh2R4u4KLuGNIaTN) | [Ile Flottante](https://open.spotify.com/artist/2miLM3YHGvo9sSd0kT5uCr) | [Moments](https://open.spotify.com/album/5VoUhkMss1dfiNM3WDVoqZ) | 1:28 | 2020-04-07 | 2020-05-25 |
 | [Étude No\. 4](https://open.spotify.com/track/3bPcbQL6fG7SN2XLk8Mk1S) | [lazy oscar](https://open.spotify.com/artist/4r6mPOhHkANNhAi65EHsue) | [Étude No\. 4](https://open.spotify.com/album/74tGA1zQ26VdwsZwrtZhID) | 1:41 | 2021-03-02 | 2021-07-30 |

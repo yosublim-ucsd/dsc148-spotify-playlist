@@ -2,7 +2,7 @@
 
 ### [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
-> Kick back to the best new and recent chill hits.
+> Disfruta de los mejores éxitos relajantes más recientes.
 
 906 songs - 2 day 1 hr 12 min
 

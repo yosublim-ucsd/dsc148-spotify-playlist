@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Hedgehog
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 109 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,038 likes - 109 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [唯心 Idealistic](https://open.spotify.com/track/4BPZOj94ApmM4JwQUnNZyw) | [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d) | [唯心 Idealistic](https://open.spotify.com/album/23A3MiaULMY12LY4u5Pigo) | 3:20 |
-| 2 | [對面海](https://open.spotify.com/track/36we7aFSXI4GlOqLqe2VHe) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [Herman Wong](https://open.spotify.com/artist/3N3XYZlnl93II35Cu2KUdy) | [對面海](https://open.spotify.com/album/6AuR7uj5UEMjZlvgZykG7A) | 4:13 |
+| 2 | [對面海](https://open.spotify.com/track/36we7aFSXI4GlOqLqe2VHe) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [黃瑋中](https://open.spotify.com/artist/7koY0czzC0JuxAjubarByG) | [對面海](https://open.spotify.com/album/6AuR7uj5UEMjZlvgZykG7A) | 4:13 |
 | 3 | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/track/5uEstLfRPUgShflpMbh0ON) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [絵麗奈 Erena So](https://open.spotify.com/artist/14SH1hZNtnwtiX9P7hHezA) | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/album/6TGMTWPg3jC81Y5yC4occr) | 3:24 |
 | 4 | [牙痛文學](https://open.spotify.com/track/6ThuO6qlnxScrGXOyz2z3t) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [牙痛文學](https://open.spotify.com/album/6C2jBhr7mOAC5xvT8YomW0) | 4:22 |
 | 5 | [婆娘PAULLEUNG](https://open.spotify.com/track/0vvONjfKPXhyzHCp5lH3Kt) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [小悲咒三週年EP](https://open.spotify.com/album/0Fv6m3KgDYPYGQlXOzHYAA) | 1:57 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 108 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 109 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxhM2I5OWZlOTRkYjVkZTQwMTc5OTBhNGZjOGQ3ODc0ODAxNTViNDBl`
+Snapshot ID: `MCxiYjY5MGQzOTIyZmY5MTM4NWMyYWY3NTRmMDgwOTgxODYyMGUwY2Nj`

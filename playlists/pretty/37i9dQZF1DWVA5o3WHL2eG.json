@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: MOLA",
-  "num_followers": 28634,
+  "num_followers": 28653,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTQ3ODNlMjUwMWRkOGUyOGM3NGU4YWYwZTY0ODY5ZDk0YzlhNDU4",
+  "snapshot_id": "MCw1OGQ5NWNlY2VkNDdmODEzNmFiYmUwNDNjMDdlOTg3MTM0YWUwYTU0",
   "tracks": [
     {
       "added_at": "2023-09-06 07:58:29",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "zu sch\u00f6n f\u00fcr ein ende",
-        "url": "https://open.spotify.com/album/3OcY2YP8dx3KloRO1XBLWw"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 135250,
-      "name": "zu sch\u00f6n f\u00fcr ein ende",
-      "url": "https://open.spotify.com/track/01aa8mGA7swM8yhNn1tdhS"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/7cITa5P7OW3pvZjGZeIwrG"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "One Week Love",
-        "url": "https://open.spotify.com/album/1kFutpQALb7YaRT1xfvaBU"
+        "name": "zu sch\u00f6n f\u00fcr ein ende",
+        "url": "https://open.spotify.com/album/3OcY2YP8dx3KloRO1XBLWw"
       },
       "artists": [
         {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
         }
       ],
-      "duration_ms": 147028,
-      "name": "One Week Love",
-      "url": "https://open.spotify.com/track/2bEzVHjkBhJrLD2eDs9P5X"
+      "duration_ms": 135250,
+      "name": "zu sch\u00f6n f\u00fcr ein ende",
+      "url": "https://open.spotify.com/track/01aa8mGA7swM8yhNn1tdhS"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -251,6 +235,22 @@
       "duration_ms": 172081,
       "name": "Bitterlemon",
       "url": "https://open.spotify.com/track/3MQXzVtLzCaLaScZpq9c6O"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "One Week Love",
+        "url": "https://open.spotify.com/album/1kFutpQALb7YaRT1xfvaBU"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 147028,
+      "name": "One Week Love",
+      "url": "https://open.spotify.com/track/2bEzVHjkBhJrLD2eDs9P5X"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "Girl across the street",
-        "url": "https://open.spotify.com/album/7b65QlBbL69pkk8zMtL54s"
-      },
-      "artists": [
-        {
-          "name": "DAMONA",
-          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
-        }
-      ],
-      "duration_ms": 208132,
-      "name": "Girl across the street",
-      "url": "https://open.spotify.com/track/34rhXzwBmgITm3UUiANiTy"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "me & my broken heart",
         "url": "https://open.spotify.com/album/5dv3YjsXPfWBEClQwvQ0OJ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 184500,
       "name": "me & my broken heart",
       "url": "https://open.spotify.com/track/6VSDSqXYfBlwLXdzl9Srs4"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "Girl across the street",
+        "url": "https://open.spotify.com/album/7b65QlBbL69pkk8zMtL54s"
+      },
+      "artists": [
+        {
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+        }
+      ],
+      "duration_ms": 208132,
+      "name": "Girl across the street",
+      "url": "https://open.spotify.com/track/34rhXzwBmgITm3UUiANiTy"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
+        "name": "WEREWOLF",
+        "url": "https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "WEREWOLF",
+      "url": "https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
         "name": "Schwester",
         "url": "https://open.spotify.com/album/1SVgAdvYWMQWcL7fe9D9TN"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "WEREWOLF",
-        "url": "https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9"
+        "name": "You Can't Find Me",
+        "url": "https://open.spotify.com/album/2H5Dylx2PuXZYB03xDWIIy"
       },
       "artists": [
         {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 193000,
-      "name": "WEREWOLF",
-      "url": "https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR"
+      "duration_ms": 192088,
+      "name": "You Can't Find Me",
+      "url": "https://open.spotify.com/track/2LOrH9gZi0WA2dU5hmZT4b"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -415,22 +431,6 @@
       "duration_ms": 174085,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5pp5Hu0CfQ11F1J5doPMJU"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
-        "name": "You Can't Find Me",
-        "url": "https://open.spotify.com/album/2H5Dylx2PuXZYB03xDWIIy"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 192088,
-      "name": "You Can't Find Me",
-      "url": "https://open.spotify.com/track/2LOrH9gZi0WA2dU5hmZT4b"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "Lookout Mountain",
-        "url": "https://open.spotify.com/album/2UXCZ7Mxzeyc7OsOHrtUCf"
-      },
-      "artists": [
-        {
-          "name": "Ilgen-Nur",
-          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
-        }
-      ],
-      "duration_ms": 190425,
-      "name": "Lookout Mountain",
-      "url": "https://open.spotify.com/track/3ahns2WUZRUbPbkMNI0aCZ"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Am I Human?",
         "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 152829,
       "name": "Am I Human?",
       "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "Lookout Mountain",
+        "url": "https://open.spotify.com/album/2UXCZ7Mxzeyc7OsOHrtUCf"
+      },
+      "artists": [
+        {
+          "name": "Ilgen-Nur",
+          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
+        }
+      ],
+      "duration_ms": 190425,
+      "name": "Lookout Mountain",
+      "url": "https://open.spotify.com/track/3ahns2WUZRUbPbkMNI0aCZ"
     },
     {
       "added_at": "2023-09-06 07:58:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-06 07:58:29",
       "album": {
-        "name": "Risiko",
-        "url": "https://open.spotify.com/album/6TWYq5h0izS13d2RCNtHAE"
-      },
-      "artists": [
-        {
-          "name": "SHARI",
-          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
-        }
-      ],
-      "duration_ms": 167467,
-      "name": "Risiko",
-      "url": "https://open.spotify.com/track/5Iy928vydNUl4oQhVeucMD"
-    },
-    {
-      "added_at": "2023-09-06 07:58:29",
-      "album": {
         "name": "Kick it like Beckham",
         "url": "https://open.spotify.com/album/5POGlV8Z7acnrP2wHzsz8M"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 127692,
       "name": "Kick it like Beckham",
       "url": "https://open.spotify.com/track/0oZuai4FHOLGs7cI01Ac10"
+    },
+    {
+      "added_at": "2023-09-06 07:58:29",
+      "album": {
+        "name": "Risiko",
+        "url": "https://open.spotify.com/album/6TWYq5h0izS13d2RCNtHAE"
+      },
+      "artists": [
+        {
+          "name": "SHARI",
+          "url": "https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS"
+        }
+      ],
+      "duration_ms": 167467,
+      "name": "Risiko",
+      "url": "https://open.spotify.com/track/5Iy928vydNUl4oQhVeucMD"
     },
     {
       "added_at": "2023-09-06 07:58:29",

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kellen Byanca",
-  "num_followers": 94124,
+  "num_followers": 94335,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODhmODIwMmNhOTM2ZDY0NjhkODI5Njk5MjdmZjE5YTZlMzVkNzcx",
+  "snapshot_id": "MCxkMjZiZjRlN2Q3MGJlMWY0MTE3MDdiMmYzMDY1OTM5ZjMxNDNkMzI4",
   "tracks": [
     {
       "added_at": "2023-09-08 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Planos",
-        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 313674,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Vendavais (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 369635,
       "name": "Vendavais - Ao Vivo",
       "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Planos",
+        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 313674,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "O Pre\u00e7o Mais Caro",
-        "url": "https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx"
-      },
-      "artists": [
-        {
-          "name": "Sophia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 237460,
-      "name": "O Pre\u00e7o Mais Caro",
-      "url": "https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 358973,
       "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
       "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "O Pre\u00e7o Mais Caro",
+        "url": "https://open.spotify.com/album/1IevqavLNiL8L03MbiziDx"
+      },
+      "artists": [
+        {
+          "name": "Sophia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 237460,
+      "name": "O Pre\u00e7o Mais Caro",
+      "url": "https://open.spotify.com/track/09Ycc4int063ZpChD3OMCE"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Deus Realiza Sonhos",
         "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 345416,
       "name": "Deus Realiza Sonhos",
       "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1103,34 +1103,34 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
     },
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Eu Te Toquei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
+        "name": "Minha B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
       },
       "artists": [
         {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 319018,
-      "name": "Eu Te Toquei - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
+      "duration_ms": 266936,
+      "name": "Minha B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
+        "name": "Eu Te Toquei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "duration_ms": 319018,
+      "name": "Eu Te Toquei - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iLSgpZIY86S7sNElnJnYp"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
         "name": "N\u00e3o Vai Se Repetir",
         "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 275132,
       "name": "N\u00e3o Vai Se Repetir",
       "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
-        "name": "Minha B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 266936,
-      "name": "Minha B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
     },
     {
       "added_at": "2023-09-08 03:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-08 03:00:00",
       "album": {
-        "name": "Sou Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6rkJ1vaNRCSbEAUSsDFEDl"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e1via Almeida",
-          "url": "https://open.spotify.com/artist/2d8HyFtrAaLLsLbSBplAhU"
-        }
-      ],
-      "duration_ms": 409687,
-      "name": "Sou Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/5I224cXQeTACSg99DDFBj9"
-    },
-    {
-      "added_at": "2023-09-08 03:00:00",
-      "album": {
         "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 461540,
       "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
+    },
+    {
+      "added_at": "2023-09-08 03:00:00",
+      "album": {
+        "name": "Sou Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rkJ1vaNRCSbEAUSsDFEDl"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e1via Almeida",
+          "url": "https://open.spotify.com/artist/2d8HyFtrAaLLsLbSBplAhU"
+        }
+      ],
+      "duration_ms": 409687,
+      "name": "Sou Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5I224cXQeTACSg99DDFBj9"
     },
     {
       "added_at": "2023-09-08 03:00:00",

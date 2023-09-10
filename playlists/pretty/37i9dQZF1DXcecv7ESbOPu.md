@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,680 likes - 113 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,710 likes - 113 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 21 | [MULTIVITAMIN](https://open.spotify.com/track/5LLY0yvNGk6FxADFydtpVW) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [MULTIVITAMIN](https://open.spotify.com/album/77mu3DXC4AuplD8CG4qptZ) | 2:34 |
 | 22 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 23 | [Gettin Paid](https://open.spotify.com/track/1SNS7hbIU7LEpMK44t0HGD) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Aili](https://open.spotify.com/artist/0TVW1CjHIgfuFIUimSgPoj), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM) | [Gettin Paid](https://open.spotify.com/album/11puUlFHewhIavCD9BXWs7) | 2:34 |
-| 24 | [Still I Bleed \- Radio Mix](https://open.spotify.com/track/5eg8K5hLsqD2o5qg6jwvtC) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Will Buck](https://open.spotify.com/artist/08XSrWSuj2b7La6W3pj3Pe) | [Still I Bleed](https://open.spotify.com/album/4m4EQxfB8qPQslCVAzFaXc) | 2:36 |
+| 24 | [Still I Bleed \- Radio Mix](https://open.spotify.com/track/5eg8K5hLsqD2o5qg6jwvtC) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Will Buck](https://open.spotify.com/artist/509OV27uMsKgVry3SaNjSR) | [Still I Bleed](https://open.spotify.com/album/4m4EQxfB8qPQslCVAzFaXc) | 2:36 |
 | 25 | [Är det nåt jag ska ta med](https://open.spotify.com/track/5HSB4pYg4FZLxqSdt9ffkc) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Är det nåt jag ska ta med](https://open.spotify.com/album/79z3lceN5ZTXc8zyUfpbDL) | 3:51 |
 | 26 | [Björnen i rummet](https://open.spotify.com/track/7nYtQqVIaxrrphBRs0u5AU) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Björnligan](https://open.spotify.com/album/4cp4bDSTqaaUAOMATxJNeT) | 3:29 |
 | 27 | [Impossible](https://open.spotify.com/track/6DrrY8ardpYRyF90mzN0jF) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:46 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [One Call Away](https://open.spotify.com/track/67UjkyO4EGpgcm7srfTgii) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [One Call Away](https://open.spotify.com/album/09xHldkA5GfhNwPBjJV9n4) | 3:00 |
 | 113 | [Lugna daj](https://open.spotify.com/track/2nkkFrcJi3B5chRct8XcKX) | [Elecktra](https://open.spotify.com/artist/6vPnczhe7eoUlRdBrkISoK) | [Lugna daj](https://open.spotify.com/album/453yxtkxqCsa6w8Yi2GPcP) | 3:06 |
 
-Snapshot ID: `MCxjYmI5ODkxOTM2NmRjYWU1YjJiNTg3ZjJmMDI0ZjUzZjA0YmIyNDM0`
+Snapshot ID: `MCw5OTEwMmM2NzgxNjdlNjA3MzI3ZmJmMTkwNDUzOTJiNjgwYzE0YzU5`

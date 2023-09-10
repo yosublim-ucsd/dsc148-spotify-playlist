@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cardi B, Megan The Stallion and more\. Cover: A Boogie Wit Da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,233 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,303 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 20 | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/track/4oeUol0xLGJYCmiPypgUvi) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK) | [First Day Out \(Freestyle\) Pt\. 2](https://open.spotify.com/album/2GMbT6TVTPmb8XQc2IOBNW) | 3:17 |
 | 21 | [Neighborhood](https://open.spotify.com/track/7K2F1iA92xov6IKfuDTNZ5) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 3:27 |
 | 22 | [Block](https://open.spotify.com/track/5A6f4bp3SDxC47w8LrjpnU) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Mental Block](https://open.spotify.com/album/2vc6bRjP99tD68MUOeflub) | 3:28 |
-| 23 | [Go & Get It](https://open.spotify.com/track/0nLicBxLiDKL2K7RHLIGz3) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Go & Get It](https://open.spotify.com/album/5Vl1nIAmQQiDm4KVf5mR4C) | 3:09 |
+| 23 | [Go & Get It](https://open.spotify.com/track/0nLicBxLiDKL2K7RHLIGz3) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Go & Get It](https://open.spotify.com/album/5Vl1nIAmQQiDm4KVf5mR4C) | 3:09 |
 | 24 | [Homesick](https://open.spotify.com/track/7K8AQuuMKWXttVEQun0Bk1) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Homesick](https://open.spotify.com/album/5N9uqlZYIbVGdDbFOhQc0o) | 2:42 |
 | 25 | [3rd World](https://open.spotify.com/track/1ykurvqNgGYzkIPtEP0ASi) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took The Biggest Risk](https://open.spotify.com/album/1uxKUKESMaMQcxcoCp2dte) | 2:25 |
 | 26 | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [I love freaks \(Sexyy’s Version\)](https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Confidential](https://open.spotify.com/track/03q7ekI0qZyqAA2c7ZkX6B) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [Confidential](https://open.spotify.com/album/08FfwKwQ636xnAX5xePTVK) | 2:05 |
 | 50 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 |
 
-Snapshot ID: `MCwxZDkwMTFmNmY5YmFiMTZiOWYzM2QxNmNjM2ZhYzgzYmEwZGZiY2My`
+Snapshot ID: `MCxhNDc5Njk1ZmQwYzhlYzZiNzU3NjE0YjQ0MWFiMGQzMjNmNTU4YTJj`

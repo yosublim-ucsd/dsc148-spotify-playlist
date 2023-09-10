@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-504 songs - 1 day 18 hr 47 min
+505 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Bruja Encabronada](https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Bruja Encabronada](https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj) | 2:47 | 2023-08-18 |  |
 | [Brutalist Imperator](https://open.spotify.com/track/0ojJNiUQs8Uo95M91xHqvv) | [Nightmarer](https://open.spotify.com/artist/6MqL55fccEqCvqitp4Nfbx) | [Brutalist Imperator](https://open.spotify.com/album/4VRVOdVcmDGunInXBqNSz1) | 3:46 | 2023-05-05 | 2023-06-17 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2021-12-17 | 2022-01-22 |
-| [Burn the Witch](https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Burn the Witch](https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0) | 4:47 | 2021-12-17 |  |
+| [Burn the Witch](https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Burn the Witch](https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0) | 4:47 | 2021-12-17 | 2023-09-10 |
 | [Calendula](https://open.spotify.com/track/2Xdk8F4L6TCaKCxOiZHOQw) | [Elcrost](https://open.spotify.com/artist/6QA513IBQrcc4PXZWwri64) | [Calendula](https://open.spotify.com/album/3kZc7YfVWkEf1WwD5K5M6g) | 5:24 | 2021-12-17 | 2022-04-09 |
 | [Call from the Grave](https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Under the Sign of the Black Mark](https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN) | 4:54 | 2022-07-13 | 2023-07-04 |
 | [Caravan of Broken Ghosts](https://open.spotify.com/track/7CYKHsr8Wgx90CyWpHtVzl) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Caravan of Broken Ghosts](https://open.spotify.com/album/75NgJLpx9Sd36o6kzXihOG) | 7:53 | 2022-10-21 | 2023-03-10 |
@@ -138,6 +138,7 @@
 | [Dream Cull](https://open.spotify.com/track/6egSfQ3dDoQjaD06KnM4Fe) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Dream Cull](https://open.spotify.com/album/7nuXTkFRkZ6hwNAsFIN3hV) | 4:15 | 2022-01-14 | 2022-03-19 |
 | [Drifting in a Dream](https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Drifting in a Dream](https://open.spotify.com/album/0hdLPkixmOIX2a4Rblj3nu) | 5:25 | 2023-03-24 | 2023-06-18 |
 | [Dromen van de zon](https://open.spotify.com/track/1azUPK560ohObSlqJi5zua) | [Fluisteraars](https://open.spotify.com/artist/51xjQsqn95MC8DlAVEO4cm) | [De Kronieken van het Verdwenen Kasteel I: Harslo](https://open.spotify.com/album/5TamNxvtkmyPJaNZ1vEMa1) | 4:29 | 2023-03-31 | 2023-04-07 |
+| [Dwell in Desdemona](https://open.spotify.com/track/2lbUtlYzl3gOIcwuWKajd5) | [Deadspace](https://open.spotify.com/artist/6Pil7ytDWKgjHf1mXQe4Q8) | [Dwell in Desdemona](https://open.spotify.com/album/2VYpH5V2106W6mJ7AtHFaa) | 5:19 | 2023-09-08 |  |
 | [Ecclesia](https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp) | [Ecclesia](https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q) | 7:44 | 2021-12-17 | 2023-07-04 |
 | [Ecstasies in night infinite](https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Agony & Ecstasy of Watain](https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W) | 4:00 | 2022-04-29 |  |
 | [Elle se répète froidement](https://open.spotify.com/track/5H8PhktLFt4WdeMPF8xQfy) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [Assassine\(s\)](https://open.spotify.com/album/5f5PjyjsKK4fsYFVJVox62) | 4:08 | 2022-01-28 | 2022-03-19 |

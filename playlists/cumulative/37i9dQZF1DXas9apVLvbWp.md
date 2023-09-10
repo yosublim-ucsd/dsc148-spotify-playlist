@@ -4,7 +4,7 @@
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-143 songs - 14 hr 50 min
+144 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,9 @@
 | [Low Flame](https://open.spotify.com/track/6AYhSDnaJvnFwtgD3Unlpb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Low Flame](https://open.spotify.com/album/2IP4cee5dknBj24zyROpfC) | 4:55 | 2023-02-09 | 2023-07-25 |
 | [Maiden Voyage \- Remastered](https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 7:57 | 2023-02-09 | 2023-07-25 |
 | [Main Stem](https://open.spotify.com/track/0DUyHDBRaxFiXDf6Jhh4JD) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Everybody Knows](https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C) | 3:27 | 2023-07-24 |  |
-| [Manhattan \(Island Of Lights And Love\)](https://open.spotify.com/track/0aZj4OIGvUxzEz7KCWMATa) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 4:05 | 2023-07-24 |  |
+| [Manhattan \(Island Of Lights And Love\)](https://open.spotify.com/track/0aZj4OIGvUxzEz7KCWMATa) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 4:05 | 2023-07-24 | 2023-09-10 |
 | [Manhattan \(Island Of Lights And Love\)](https://open.spotify.com/track/2Mnhv0ODwaROC2W3kPbIxY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/1eyEiGNcBUytqA9OgU0dSp) | 4:05 | 2023-07-24 | 2023-09-09 |
+| [Manhattan \(Island Of Lights And Love\)](https://open.spotify.com/track/6SToTxESrprIEvi30ZZYJJ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Jazz Volume: Herbie Hancock](https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z) | 4:05 | 2023-07-24 |  |
 | [Matrix](https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 6:28 | 2023-07-24 |  |
 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Jazz Profile: Cannonball Adderley](https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp) | 5:13 | 2023-02-09 | 2023-07-25 |
 | [Milestones \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:42 | 2022-06-29 | 2022-10-28 |

@@ -4,7 +4,7 @@
 
 > Mujeres que la rompen feat\. Paula Rivas.<br/>Dales PLAY, dales POWER.
 
-722 songs - 1 day 16 hr 16 min
+723 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Braty Puti](https://open.spotify.com/track/76dDXVVpYlVhDGIACB8OSi) | [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD), [Eli Fantasy](https://open.spotify.com/artist/6n78XRLpYKZwmrcn27mjXi), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Mista Greenz](https://open.spotify.com/artist/4pdbVA4f9CcqHP9Vwp8iaq) | [Braty Puti](https://open.spotify.com/album/2RoznijFQiqNBfTETHe6ud) | 3:00 | 2022-01-05 | 2022-02-03 |
 | [Brillando alto](https://open.spotify.com/track/4quLPeHhsbFiWrK6znBrv0) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [À plus](https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn) | 3:10 | 2023-04-05 | 2023-06-06 |
 | [Brillando Alto](https://open.spotify.com/track/57C9tAaIytHcO1ntxGohxc) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Judubre](https://open.spotify.com/artist/0hu94twCEudpR1Zj2qOHWC) | [À PLUS](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 3:10 | 2022-04-06 | 2023-01-05 |
+| [Brindemos por Ellos](https://open.spotify.com/track/7G8iKkndVdVZyVdS4Fz1cV) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Aquí Comienza Nuestra Historia](https://open.spotify.com/album/0VD7iwPecnytsRxk4JUaAU) | 2:37 | 2023-09-06 |  |
 | [Brisa Marina](https://open.spotify.com/track/6bNGWPOVGCG1RC0AYxmIVl) | [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [En Prenda el Mar](https://open.spotify.com/album/06YfgOZBMUpGNA77AOgKTq) | 3:03 | 2022-05-04 | 2022-07-29 |
 | [Brígida](https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Brígida](https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp) | 2:42 | 2023-04-05 | 2023-06-06 |
 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 | 2022-03-08 | 2023-02-02 |
@@ -168,7 +169,7 @@
 | [Debilidad \- A COLORS SHOW](https://open.spotify.com/track/5IuS9B0r9XW3safNUm63TY) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Debilidad \- A COLORS SHOW](https://open.spotify.com/album/2EOGCUQUSwrhUBd9O04I50) | 3:01 | 2022-02-02 | 2022-03-09 |
 | [Decidí](https://open.spotify.com/track/526Et8BPKtXBTIctZsrm3Z) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:26 | 2023-03-02 | 2023-04-06 |
 | [DEJA TU SHOW](https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0) | [Dainesitta](https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl) | [DEJA TU SHOW](https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB) | 3:29 | 2023-09-06 |  |
-| [Demencia por Amor](https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [Demencia por Amor](https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF) | 2:43 | 2023-09-06 |  |
+| [Demencia por Amor](https://open.spotify.com/track/0HVTRu8tQNY1NpMLOeYY2s) | [Cecilia Echenique](https://open.spotify.com/artist/1aaJCccvrYoJQid1P4MSRY) | [Demencia por Amor](https://open.spotify.com/album/3s1mZseI3Qt1ekDMvIB3fF) | 2:43 | 2023-09-06 | 2023-09-10 |
 | [Desconfia](https://open.spotify.com/track/6S2GReB5OOrDXZdr2l6vcm) | [Anamias Ixaya](https://open.spotify.com/artist/0oMQkNMyylPQB8NKVVjEWK), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Proyecto Fresia](https://open.spotify.com/album/3tjRB8i1dJ8Moin1F0RKjp) | 2:50 | 2023-02-01 | 2023-03-02 |
 | [Desilusión](https://open.spotify.com/track/2WZClCpIXY4L2k4FfayBbT) | [Amara Ignacia](https://open.spotify.com/artist/6YTu4Ih4tovKGdsq3UCnHa) | [Desilusión](https://open.spotify.com/album/3iPBHbQtfW67wIzVdvwHzY) | 3:27 | 2023-02-01 | 2023-03-02 |
 | [Despeje](https://open.spotify.com/track/6jCe4NY1PWr0lNkNbhI7YZ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Despeje](https://open.spotify.com/album/1dlwGAQwMrfZRPqOdiTS1I) | 4:10 | 2023-07-05 | 2023-08-03 |

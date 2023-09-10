@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-256 songs - 16 hr 4 min
+257 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [А если это любовь?](https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE) | [А если это любовь?](https://open.spotify.com/album/3WTrVz82sYtWNhY5QWdOAf) | 4:00 | 2022-06-16 |  |
 | [Комета](https://open.spotify.com/track/1tjM9dP8GWkYl4orF7yLWD) | [JONY](https://open.spotify.com/artist/2ISiyx4DLCMAMBCvPesCoq) | [Комета](https://open.spotify.com/album/70fNJsDZUXR8JdHd2WGGWM) | 2:41 | 2021-11-19 | 2022-06-17 |
 | [Крылья](https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy) | [Artik & Asti](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA) | [7 \(Part 2\)](https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl) | 3:30 | 2021-11-19 |  |
-| [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 | 2021-11-19 |  |
+| [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 | 2021-11-19 | 2023-09-10 |
 | [Моя душа](https://open.spotify.com/track/4QtIr8eU5jvKTmM1T44rnJ) | [Andro](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd) | [Моя душа](https://open.spotify.com/album/0YazeIyhMDFY0s0pqqFwr8) | 2:35 | 2021-11-19 | 2022-06-17 |
 | [Пряталась в ванной](https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN) | [Mari Kraimbrery](https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i) | [Пряталась в ванной](https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX) | 3:10 | 2021-11-19 |  |
 | [Салют, Вера](https://open.spotify.com/track/4Fs5Rl03jVC7bIsAmiIsys) | [Mona Songz](https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl) | [Салют, Вера](https://open.spotify.com/album/3maRAd22eum9ttCp4BewNx) | 3:22 | 2021-11-19 | 2022-11-28 |
@@ -264,5 +264,6 @@
 | [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-06-16 |  |
 | [說好不哭](https://open.spotify.com/track/3JBhAAnxUDssrBQC9DUT99) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [說好不哭](https://open.spotify.com/album/7iCi34kBpXKyBcx03AXXDw) | 3:42 | 2021-11-19 | 2022-07-29 |
 | [사랑의인사](https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy) | [적재](https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd) | [투유프로젝트 \- Sugar Man3 Episode.11](https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB) | 5:07 | 2022-10-17 |  |
+| [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/track/5aFiyx6DOsrvOUnsrcFb84) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [어쩌면 이유가 필요한 밤 Night Within You](https://open.spotify.com/album/42fnXlrZaKXIc9lzWI6B1V) | 4:14 | 2022-10-17 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

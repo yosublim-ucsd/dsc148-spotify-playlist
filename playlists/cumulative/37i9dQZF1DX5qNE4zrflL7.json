@@ -1473,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "Les ann\u00e9es 60, Vol. 3 (Les plus belles chansons)",
+        "url": "https://open.spotify.com/album/6fMDDEdR5nenBrVBNXHuUe"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125426,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/6E8UbIEeB01Op5PAuP5cyn"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 127160,
       "name": "Laisse tomber les filles",
       "url": "https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ"

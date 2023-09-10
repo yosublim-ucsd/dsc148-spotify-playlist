@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: WHIPPED CREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,491 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,499 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [in your eyes](https://open.spotify.com/track/07qOwgz7M3q7EYHbVTIy6P) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF), [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [in your eyes](https://open.spotify.com/album/74j8HrOTVbhNZfVr4MP0Lt) | 3:40 |
 | 65 | [The Oracle](https://open.spotify.com/track/7lzd3UcJS2rHrBThYKLXJ6) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [The Oracle](https://open.spotify.com/album/01jQoXxIg3KlnPLKBZZCLR) | 6:49 |
 
-Snapshot ID: `MCxkNTU1NWRlYWQxNWRlNTQyNGQ3YmFmZmM2ZDBkZjU1ZjgzMGM0MWJk`
+Snapshot ID: `MCw4OTM3MDJhMDY5NmQ2ZjZkOTI3ZTEyYjQ0ZDg0ZGE5NGFmMDZkOTMz`

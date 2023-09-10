@@ -2605,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "Blood on My Hands",
+        "url": "https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Casablanca",
+          "url": "https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p"
+        },
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245930,
+      "name": "In Blood",
+      "url": "https://open.spotify.com/track/4R9G9PKBSiBN9vo0d1bBvX"
+    },
+    {
+      "album": {
         "name": "In Blood",
         "url": "https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z"
       },
@@ -2620,7 +2642,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 245930,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9"

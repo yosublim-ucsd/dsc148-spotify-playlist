@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Skaai
 
-824 songs - 2 day 3 hr 21 min
+825 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 | 2023-08-23 |
 | [BAUMKUCHEN](https://open.spotify.com/track/0Z2XB27naetMS2GOgXrE3f) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [BAUMKUCHEN](https://open.spotify.com/album/3dlOhyY45XqTWY208giI3T) | 4:25 | 2023-03-07 | 2023-03-29 |
 | [BEATING UP MYSELF](https://open.spotify.com/track/2ugohDT7qduGWCq6EYUjzQ) | [Bearwear](https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf) | [BEATING UP MYSELF](https://open.spotify.com/album/10uSUm4kURSuzZX7sO0YkL) | 3:02 | 2023-02-14 | 2023-03-01 |
-| [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 |  |
+| [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 | 2023-09-10 |
 | [betbetbet](https://open.spotify.com/track/66FGcPvltgvvSr9x5NPSBG) | [the McFaddin](https://open.spotify.com/artist/7oQqfiFFldAKKVA91oc5Lv) | [betbetbet](https://open.spotify.com/album/2r4ejJEoty0NyQdfIhl7WM) | 3:37 | 2023-01-12 | 2023-02-01 |
 | [Beyond the Night](https://open.spotify.com/track/7i45z8apd5WcInB0Ks07NC) | [Taketombo](https://open.spotify.com/artist/2a0Pq2wS2V2vWb52JWR7JW) | [Beyond the Night](https://open.spotify.com/album/6E6CLind3kGwGWeLTbUkK6) | 4:14 | 2023-02-16 | 2023-03-01 |
 | [Bicycle](https://open.spotify.com/track/4X4Zm9TYHMN7mFaQtnRrXt) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/1pNtvTDPYsE2ctu1roiejj) | 2:51 | 2023-06-21 | 2023-06-28 |
@@ -217,7 +217,7 @@
 | [Hot Gimmick](https://open.spotify.com/track/6I7PdCUX6AdQi3twS3U2YF) | [letniy](https://open.spotify.com/artist/7h8q9EMQmWuU6Ma2My4PPr) | [Hot Gimmick](https://open.spotify.com/album/1x1DfVPxo1CP5P2g4oNcmb) | 3:27 | 2023-03-16 | 2023-03-29 |
 | [Hotaru No Sen](https://open.spotify.com/track/6Oc6mETshqnFn2clxDi6Ya) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [Hotaru No Sen](https://open.spotify.com/album/1EwG6rfg5cuSoKTxt5sKbk) | 3:31 | 2023-08-15 | 2023-08-23 |
 | [HOWL](https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 4:03 | 2023-01-12 | 2023-01-27 |
-| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 | 2023-09-09 |
+| [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 | 2023-04-06 |  |
 | [HUMAN](https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [HUMAN](https://open.spotify.com/album/2ff6i92pRXmlG5QpKDOeuU) | 4:17 | 2023-02-23 | 2023-04-21 |
 | [HURRY UP!!!](https://open.spotify.com/track/6aO0KMUSHdlz5wnq7qgXlW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/65GDZ705N3kG0ZFSosu8W1) | 2:06 | 2023-03-14 | 2023-03-29 |
 | [Hyoui](https://open.spotify.com/track/3yV7DWdUDubdBv340T3fJz) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Hyoui](https://open.spotify.com/album/5edXVTZASGctt9WqDG3aL6) | 3:27 | 2023-08-15 | 2023-08-23 |
@@ -279,6 +279,7 @@
 | [Link](https://open.spotify.com/track/52DdvqVipvD6SsdxumQlLa) | [DIMWORK](https://open.spotify.com/artist/1LF1v18dJ7OGuGdju3T56d) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 4:53 | 2023-08-08 | 2023-08-16 |
 | [lonely & lonely](https://open.spotify.com/track/4GGmUBA5w9sABmbnnBLee9) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [lonely & lonely](https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR) | 3:57 | 2023-08-15 | 2023-08-23 |
 | [Lost](https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Morning Sun](https://open.spotify.com/album/0YbataSydU54bA7P2wnwYx) | 2:35 | 2023-03-30 | 2023-06-08 |
+| [LOTUS](https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN) | 5:26 | 2023-09-08 |  |
 | [Love in vein](https://open.spotify.com/track/2tG5vFDMQKphCWaqffQ0uF) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [Love in vein](https://open.spotify.com/album/6KBu9JKbwD2e4XiTvHJhQe) | 3:00 | 2023-02-07 | 2023-02-15 |
 | [Love Is Money?](https://open.spotify.com/track/7ayKVdG43NcU47ux8db0Md) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Love Is Money?](https://open.spotify.com/album/372fVRnoUdCMcyGqt26so4) | 3:19 | 2023-05-09 | 2023-06-16 |
 | [Lovebites \- Tamio Sakuma Remix](https://open.spotify.com/track/1PE0cRc1m8z3k24pd24LXD) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [Tamio Sakuma](https://open.spotify.com/artist/6thMychOI4hNx5UlChbzUt) | [Lovebites \(Tamio Sakuma Remix\)](https://open.spotify.com/album/54yX0P1hbzOCuqXnYSIfvU) | 4:27 | 2023-09-08 |  |
@@ -394,7 +395,7 @@
 | [RUMBLE](https://open.spotify.com/track/2OF37gLbpMn9fy5b1YCDpb) | [リフの惑星](https://open.spotify.com/artist/7M9L8cnEEPIEmVcnQVHlmN) | [EUREKA](https://open.spotify.com/album/2pv61BaiqcLVUdmJEaxYfd) | 4:05 | 2023-06-20 | 2023-06-28 |
 | [Run](https://open.spotify.com/track/47D4W2Heqb7XHKSdiuI0dZ) | [Panorama Panama Town](https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf) | [Run](https://open.spotify.com/album/3t7CqRlWGw1hsDXZ5yKUkZ) | 3:49 | 2023-05-09 | 2023-06-27 |
 | [Runner's High](https://open.spotify.com/track/6NVQIftwIwgMUQZV5RixsN) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Runner's High](https://open.spotify.com/album/4V9BNQC0f6GlnHOQDPQWBr) | 6:43 | 2023-08-15 | 2023-08-17 |
-| [Runner's High](https://open.spotify.com/track/6tALYM72RQ6U7r96wsgl9l) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Runner's High](https://open.spotify.com/album/532ZI3CM6yvTOUFULlTpdo) | 6:43 | 2023-08-15 |  |
+| [Runner's High](https://open.spotify.com/track/6tALYM72RQ6U7r96wsgl9l) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Runner's High](https://open.spotify.com/album/532ZI3CM6yvTOUFULlTpdo) | 6:43 | 2023-08-15 | 2023-09-10 |
 | [RUSU](https://open.spotify.com/track/4SVEykWt23e2UksVu4qDKd) | [Moeka Giga](https://open.spotify.com/artist/4XJ2D1hGea6WmjvkShHOp5) | [RUSU](https://open.spotify.com/album/0dUz40owF8xPrHsqVTHlUg) | 2:54 | 2023-06-20 | 2023-06-28 |
 | [sad but dancing, happy but crying](https://open.spotify.com/track/5GGw2ve0iVKmzSbjOghU5T) | [Bearwear](https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf) | [sad but dancing, happy but crying](https://open.spotify.com/album/7c9sGteLmRaOZuzMVPKeVR) | 1:50 | 2023-01-26 | 2023-02-15 |
 | [Saikin Donano](https://open.spotify.com/track/38wXh7F3gTJo3o4DSZGqG0) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Saikin Donano](https://open.spotify.com/album/741IDER2JBR9iOdCOTjwCU) | 3:37 | 2023-01-24 | 2023-02-08 |

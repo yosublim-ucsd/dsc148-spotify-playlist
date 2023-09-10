@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-238 songs - 11 hr 53 min
+239 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Inadaptado](https://open.spotify.com/track/4ldtWKLmk9zDwTK8fujYt7) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3) | [Inadaptado](https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1) | 2:16 | 2021-09-03 | 2022-11-01 |
 | [Introducción](https://open.spotify.com/track/2aMG9YYvvHojwf7Dg7UAm6) | [Los Supersónicos](https://open.spotify.com/artist/4RFAwiTOsIV30Ef4A13gnE) | [Introducción](https://open.spotify.com/album/0NGc64udtT4FL26C0Cffxp) | 3:08 | 2021-09-03 | 2022-07-29 |
 | [Intruder](https://open.spotify.com/track/0WyAiymmsxOqoujctf8MrB) | [The Madeira](https://open.spotify.com/artist/0onb2OjHiGTxu5kylK1CXp) | [Ruins](https://open.spotify.com/album/3GYgCKeM5X33IflH762MAO) | 3:55 | 2021-09-03 | 2022-07-11 |
-| [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 | 2021-09-03 |  |
+| [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 | 2021-09-03 | 2023-09-10 |
 | [It's Monster Surfing Time](https://open.spotify.com/track/60xQKEF7PVW14ITUCVC8ip) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 2:11 | 2021-09-03 | 2022-07-27 |
 | [It's Monster Surfing Time](https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 2:11 | 2021-09-03 | 2023-04-25 |
 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 | 2021-09-03 |  |
@@ -131,6 +131,7 @@
 | [La Viuda Negra](https://open.spotify.com/track/6VQLwi3MRRSRgJojJmPH7E) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/2vhLgPbWmqdHaI0Fm9xRZ2) | 3:06 | 2021-09-03 | 2022-07-29 |
 | [Labios Carmin](https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa) | [Los Vaguens](https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2) | [Bestiario de Santa Lucia](https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a) | 3:29 | 2021-09-03 |  |
 | [Lancha Con Fondo de Cristal](https://open.spotify.com/track/2VlUUCWzImbNzcPet2jLU3) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 2:12 | 2021-09-03 | 2022-07-29 |
+| [Lancha Con Fondo De Cristal](https://open.spotify.com/track/3y0nZ0vHHBhmqRdYuz0DNV) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 2:12 | 2023-07-28 |  |
 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 | 2021-09-03 |  |
 | [Logan's Run](https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ) | [The Nebulas](https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1) | [The Nebulas](https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk) | 2:57 | 2021-09-03 | 2022-07-15 |
 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 | 2021-09-03 | 2023-08-23 |

@@ -3801,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/4a9Hd9lzmShHaquuyy2uKM"
+      },
+      "artists": [
+        {
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+        }
+      ],
+      "date_added": "2023-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205552,
+      "name": "Oh It's You",
+      "url": "https://open.spotify.com/track/56vmm78xsrxvFMaJstBPKj"
+    },
+    {
+      "album": {
         "name": "Old Love (Stripped)",
         "url": "https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU"
       },
@@ -4540,7 +4558,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 140769,
       "name": "Rock Bottom Blues (feat. James Reid)",
       "url": "https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC"

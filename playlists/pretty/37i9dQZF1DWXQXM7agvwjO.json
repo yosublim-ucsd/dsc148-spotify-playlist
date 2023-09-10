@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. Cover: STUTS + Noi Naa (YONLAPA)",
-  "num_followers": 77895,
+  "num_followers": 78241,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWIyMTRiMDRkZDlhMGU1NjEzNWE4NmM2MTk4ZTAyOThiMWUzNTAy",
+  "snapshot_id": "MCw3ZTI3NTFhNDViM2Y0MzhkOTk0MGQ5YTQ1OWM4NTY5N2RmZWJiZjlh",
   "tracks": [
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "Rock Bottom Blues (feat. James Reid)",
-        "url": "https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV"
+        "name": "YANG KAU HINDARI TERJADI",
+        "url": "https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV"
       },
       "artists": [
         {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
-        },
-        {
-          "name": "James Reid",
-          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+          "name": "Romantic Echoes",
+          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
         }
       ],
-      "duration_ms": 140769,
-      "name": "Rock Bottom Blues (feat. James Reid)",
-      "url": "https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC"
+      "duration_ms": 412000,
+      "name": "YANG KAU HINDARI TERJADI",
+      "url": "https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1467,6 +1463,26 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
+        "name": "Rock Bottom Blues (feat. James Reid)",
+        "url": "https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        },
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "Rock Bottom Blues (feat. James Reid)",
+      "url": "https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
         "name": "Kenaniah",
         "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "YANG KAU HINDARI TERJADI",
-        "url": "https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV"
-      },
-      "artists": [
-        {
-          "name": "Romantic Echoes",
-          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
-        }
-      ],
-      "duration_ms": 412000,
-      "name": "YANG KAU HINDARI TERJADI",
-      "url": "https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh"
       },
@@ -1511,6 +1511,38 @@
       "duration_ms": 274000,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
+        "name": "22 of Me",
+        "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
+      },
+      "artists": [
+        {
+          "name": "Mighfar Suganda",
+          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
+        }
+      ],
+      "duration_ms": 210778,
+      "name": "22 of Me",
+      "url": "https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3"
+    },
+    {
+      "added_at": "2023-09-07 15:01:02",
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2023-09-07 15:01:02",
@@ -1535,38 +1567,6 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/6izqoWAn1h2IxXzD6X3IsP"
-      },
-      "artists": [
-        {
-          "name": "Coldiac",
-          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
-        }
-      ],
-      "duration_ms": 245830,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/4WTUBYVtbDiB4BGqnaXRGe"
-    },
-    {
-      "added_at": "2023-09-07 15:01:02",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ"
       },
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-09-07 15:01:02",
       "album": {
-        "name": "22 of Me",
-        "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/6izqoWAn1h2IxXzD6X3IsP"
       },
       "artists": [
         {
-          "name": "Mighfar Suganda",
-          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
         }
       ],
-      "duration_ms": 210778,
-      "name": "22 of Me",
-      "url": "https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3"
+      "duration_ms": 245830,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/4WTUBYVtbDiB4BGqnaXRGe"
     },
     {
       "added_at": "2023-09-07 15:01:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=hidDn0uTRKGYBXMNqGIfKg">Mercy Chinwo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,990 likes - 101 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,046 likes - 101 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 8 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 |
 | 9 | [Needs](https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Needs](https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi) | 3:27 |
 | 10 | [Bina Moya Waka \(Live\)](https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Bina Moya Waka \(Live\)](https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP) | 6:37 |
-| 11 | [Your Presence \- Live](https://open.spotify.com/track/7wYKvVeyT93GLHoVUfQRc1) | [Eunice Morgan](https://open.spotify.com/artist/3CYKuHycuyqxDyPU2NkV5E), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Your Presence \(Live\)](https://open.spotify.com/album/20eworFZo5vJ2z5JtlAs8u) | 6:22 |
+| 11 | [Your Presence \- Live](https://open.spotify.com/track/7wYKvVeyT93GLHoVUfQRc1) | [Eunice Morgan](https://open.spotify.com/artist/3CYKuHycuyqxDyPU2NkV5E), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Your Presence \(Live\)](https://open.spotify.com/album/20eworFZo5vJ2z5JtlAs8u) | 6:20 |
 | 12 | [Surrounded By Holy \- Live](https://open.spotify.com/track/0PmGvuvTmEw4mkL6URYfDc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Surrounded By Holy](https://open.spotify.com/album/1PPHCkGg32qpdCB8UryA2p) | 7:35 |
 | 13 | [Crazy Love \(feat\. Noah Schnacky\)](https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [Crazy Love \(feat\. Noah Schnacky\)](https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22) | 5:58 |
 | 14 | [Emmanuel \- cover](https://open.spotify.com/track/3KKJFaYsOD9AqtvSSiGu5M) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Emmanuel \(cover\)](https://open.spotify.com/album/6QoFxYPPfRbBPwoWQAZAju) | 3:05 |
 | 15 | [COAT OF MANY COLORS](https://open.spotify.com/track/68nhOMpd1gc5tfb7P5BWmI) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/706chQivtLuRINfHzNJQVJ) | 4:31 |
-| 16 | [Holy Ghost](https://open.spotify.com/track/2oSdly41cTGGHs1NVU5mvd) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr) | [Holy Ghost](https://open.spotify.com/album/28QjsQ9hJwKrQaoEgXXZLb) | 1:40 |
+| 16 | [Holy Ghost](https://open.spotify.com/track/2oSdly41cTGGHs1NVU5mvd) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr) | [Holy Ghost](https://open.spotify.com/album/28QjsQ9hJwKrQaoEgXXZLb) | 2:51 |
 | 17 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 |
 | 18 | [My Dey, Pt\. 2](https://open.spotify.com/track/1W2QdIOWrApLDdGdLN2y4c) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [My Dey, Pt\. 2](https://open.spotify.com/album/5au4QTcdoTw5WKuJljl7Nz) | 2:19 |
 | 19 | [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 100 | [MON MEILLEUR AMI](https://open.spotify.com/track/4FhFbf0alWMJELHMpFU9qv) | [DESTINY RECORD](https://open.spotify.com/artist/28dz1zERdPz46q5nCNGRZM) | [MON MEILLEUR AMI](https://open.spotify.com/album/05tsU7O9WOVACpkuj7Wbg1) | 3:04 |
 | 101 | [I'm Revived \(Live\)](https://open.spotify.com/track/5W6JX2LKBaAK75UeUclr58) | [Jesse Afriyie](https://open.spotify.com/artist/3Yr9hvY2kw68wCrRAxc5LS) | [I'm Revived \(Live\)](https://open.spotify.com/album/28p8eMAgataFKYfTrbBMqh) | 5:00 |
 
-Snapshot ID: `MCxjODcyYjBhZjRhZDVhZmZiMWNkMzM0YzdiOTViZGJhNDE2Y2M4Y2Fk`
+Snapshot ID: `MCwwZjIyMGUzMTNlMGZmZDM2YmUyOTQzODBiNjZkZDA1ZGFhNDk5YzYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,424 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,459 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 85 | [first thing friends,](https://open.spotify.com/track/6ZS2n5AGyYyeasRuW4b2Gs) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT), [政学Zed\-X](https://open.spotify.com/artist/7DAjUaK40De066EOFR6fxB) | [first thing friends,](https://open.spotify.com/album/4hDXExaWlPBKQEik8OZWkg) | 3:38 |
 | 86 | [No Rules](https://open.spotify.com/track/1npTTol6bjMu5d92nSSAzQ) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Rules](https://open.spotify.com/album/33U85hMhMP9VCxoB2psDpm) | 2:22 |
 
-Snapshot ID: `MCw5MzlkODhjYjQ0MjM1ZTU3OGE4NGE5YTlhYTMwNzUxYzlkYmM5MDMw`
+Snapshot ID: `MCw1ZjQ1Yjk0NDk4OGRjOTdhMmNlMjJkNGMzOWExY2NlYTI5MTliNWY3`

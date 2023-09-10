@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Cardi B, Megan Thee Stallion and Young Nudy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,614,442 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,616,061 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [From The Hood](https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 3:24 |
 | 50 | [Half Doin Dope \(with BabyTron feat\. Lil Yachty\)](https://open.spotify.com/track/1J0O3RqCeoMcXbayQZDZXL) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BlakkBoyz present Half Doin Dope/Van Gogh](https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc) | 3:28 |
 
-Snapshot ID: `MCw2MWYzMTM2NmJhOGE3N2U4YTk0NWNmZTg4YzJiMGI2OTIyMGRlYmY3`
+Snapshot ID: `MCw1MDI2MDY3Zjg2NzBlYzg0ODk3YjBjOTAyZjNmYzM0ODdiMmU5ZmUz`

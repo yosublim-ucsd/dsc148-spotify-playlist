@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-721 songs - 1 day 12 hr 46 min
+722 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,8 @@
 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 | 2023-03-03 | 2023-06-02 |
 | [Rivals](https://open.spotify.com/track/7pATnbSvnPYoYCtRmlNP7F) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Rivals](https://open.spotify.com/album/6JYhJCc9FbuiXhFFDWjAb3) | 3:07 | 2023-05-25 | 2023-06-17 |
 | [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 | 2022-05-06 | 2022-07-29 |
-| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-08 |  |
+| [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 | 2023-09-08 |  |
+| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-08 | 2023-09-10 |
 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [High Profile](https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6) | 2:50 | 2023-06-22 | 2023-08-04 |
 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/2JXcBRbr4jXx08ANlQSNro) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/album/61QZyI28o1QJs14AQAMRz6) | 2:50 | 2023-06-22 | 2023-06-24 |
 | [Rocket Science \(feat\. D\-Block Europe\)](https://open.spotify.com/track/6g9w2kMmb0SpHY4ADT4z6k) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Rocket Science \(feat\. D\-Block Europe\)](https://open.spotify.com/album/2mBUGGJbJMNLlTc7YVxzos) | 3:21 | 2022-11-18 | 2023-04-15 |

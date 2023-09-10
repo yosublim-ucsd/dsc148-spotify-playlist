@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLWaBFTNqEL.md) - [plain]
 
 > All the best songs inspired by Street Fighter all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,167 likes - 24 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,386 likes - 24 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLWaBFTNqEL.md) - [plain]
 | 8 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
 | 9 | [Not Enough Words](https://open.spotify.com/track/26dvKZpovRcoR76a40Okjf) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [Well Done](https://open.spotify.com/album/1hNdA7lmK8KNVq99faGmbM) | 3:16 |
 | 10 | [Press The Start Button](https://open.spotify.com/track/1YCGoXU7dCNz1F7iFoZSUl) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Theater Of The Mind \(Expanded Edition\)](https://open.spotify.com/album/4zK2YeF922VXfzyxFteIfT) | 3:59 |
-| 11 | [I Am Your Leader](https://open.spotify.com/track/6WEDEPZSqLBM69CRwga7I5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:33 |
+| 11 | [I Am Your Leader](https://open.spotify.com/track/6WEDEPZSqLBM69CRwga7I5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:33 |
 | 12 | [Pandemonium](https://open.spotify.com/track/7dXTYbB4dzSxPfls25UfmU) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:20 |
 | 13 | [CHAIN ON \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5Tutv8aK0ZJFciloVv6WDT) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 3:21 |
 | 14 | [Tunechi Rollin'](https://open.spotify.com/track/4ULBkFaSgMbC5kIajMTSjP) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 2:57 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLWaBFTNqEL.md) - [plain]
 | 23 | [Street Soldier](https://open.spotify.com/track/23U80fxrD6uiOVfpbNl6kU) | [Paris](https://open.spotify.com/artist/6UPRFx3Gnn5N67opROnwA5) | [Guerrilla Funk \(The Deluxe Edition\)](https://open.spotify.com/album/7LyFlbYjrAVkFHnQRUcCuB) | 4:26 |
 | 24 | [Life As...](https://open.spotify.com/track/04TS4QD1sbFRyh4dUAGrk5) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith](https://open.spotify.com/album/0EtG0ataZEORGDhkNtSWQo) | 2:44 |
 
-Snapshot ID: `MCw3YTU2YWYwODRjZmVhMzU3ZDZmN2ZkOTc4YjhmMzA4YzZlODU4Njg1`
+Snapshot ID: `MCw0YjBmYzFmNzI4MTgyZGNhNjEyM2IzYTE5ZmIzNzQ2N2NiYTAwNzky`

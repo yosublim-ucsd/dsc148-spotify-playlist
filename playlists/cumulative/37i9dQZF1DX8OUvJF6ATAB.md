@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 | 2023-02-10 |
+| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 |  |
 | [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-03-04 | 2023-04-16 |
 | [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-09-21 | 2023-01-15 |
 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 | 2023-04-21 |  |
@@ -292,7 +292,7 @@
 | [U Believe](https://open.spotify.com/track/6lhsxkTQ6OvPdie2BEEPxn) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:21 | 2021-10-06 |  |
 | [Understanding](https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv) | [m.0](https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme) | [Solace](https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge) | 6:41 | 2021-10-06 | 2022-09-15 |
 | [Underwater Lament](https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:20 | 2021-10-06 | 2023-04-30 |
-| [Underwater Lament](https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:20 | 2023-04-21 |  |
+| [Underwater Lament](https://open.spotify.com/track/6CQJSBa7uo6Hr5991sVrGX) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:20 | 2023-04-21 | 2023-09-10 |
 | [Underwater Lament](https://open.spotify.com/track/6XGampcg3mqZPlDAUdJzlg) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Underwater Lament](https://open.spotify.com/album/7MSvDATNHNyd65XaCwfk1Z) | 5:20 | 2021-10-06 | 2022-07-27 |
 | [Vaporware 05](https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Plays Bee Mask](https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc) | 6:03 | 2021-10-06 |  |
 | [Variables \- 1976](https://open.spotify.com/track/0aBe5X0U7ZqNh01Hd4SHbB) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Variables \- 1976](https://open.spotify.com/album/3ievgMpSPFMO5uoohGRkP2) | 2:47 | 2021-10-06 | 2022-07-06 |

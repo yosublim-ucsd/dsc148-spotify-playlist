@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: CRi, Half Moon Run
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,890 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,902 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 26 | [Un jour à la fois](https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Un jour à la fois](https://open.spotify.com/album/4xl9cGtKZlJVan35sFpRKy) | 4:17 |
 | 27 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 |
 | 28 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
-| 29 | [You can have it all](https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Beaucoup](https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH) | 2:37 |
+| 29 | [You can have it all](https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Beaucoup](https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH) | 2:37 |
 | 30 | [Central Park La Fontaine](https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Central Park La Fontaine](https://open.spotify.com/album/1ivGuq5opyNFHIrm3cv7gl) | 3:20 |
 | 31 | [Bye\-Bye](https://open.spotify.com/track/12fPH6Lik4MALabj2UfdEX) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Bye\-Bye](https://open.spotify.com/album/4vNJ25IMLfZXXLeUaHi5uo) | 3:29 |
 | 32 | [Invisible](https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Invisible](https://open.spotify.com/album/7tj6xJzuw7GMlE7PIs1gxx) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Nuit américaine](https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Nuit américaine](https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo) | 4:01 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCxhNGMwMWRjOTM2YjBlY2YzNDc0ZmRmNzAxNTRkNWU5NWY1MTQxYWQ3`
+Snapshot ID: `MCxiZjE3YWYyMjY0M2I3MWNmNWU5NWNjYmUzOTU5OWYxMDdiZWRiNjJj`

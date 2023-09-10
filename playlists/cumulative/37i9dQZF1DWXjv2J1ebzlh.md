@@ -2120,7 +2120,7 @@
 | [หัวใจผมว่าง](https://open.spotify.com/track/2SJXAmbdgbX2VyqXPzmCkm) | [สุรพล สมบัติเจริญ](https://open.spotify.com/artist/37Spq0XXQKSIaOKjFkCGhO) | [แฟนจ๋า](https://open.spotify.com/album/5DqzR7U8JKmUcgrQYLDane) | 3:00 | 2022-07-12 |  |
 | [เอาคำว่ารักของเธอคืนไป](https://open.spotify.com/track/1oyggQ6uosEZZTEDhgGJe1) | [ระพิน ภูไท](https://open.spotify.com/artist/7JWvqrzQDC7Mr1PdtAYAVp) | [คุณนายโรงแรม](https://open.spotify.com/album/3q2SFBtahhGDxrQutKeqj6) | 3:07 | 2022-07-12 |  |
 | [แว่นวิเศษ](https://open.spotify.com/track/3zuYCSVycxF9IHDuGMJbbT) | [สุชาติ เทียนทอง](https://open.spotify.com/artist/4PD56jybsnFJTzZuB5dejq) | [แว่นวิเศษ](https://open.spotify.com/album/2I7Zy6VtEvGpi7HIviSnYI) | 2:32 | 2022-07-12 |  |
-| [អូនចង់រាំលេង](https://open.spotify.com/track/1ci1rES9fhzVcOyEOJQE39) | [Ros Sereysothea](https://open.spotify.com/artist/5mrkkChhSHMhMimmJQbKA1) | [អូនចង់រាំលេង](https://open.spotify.com/album/6ETwcbb1nU8dhpTGBnUwZi) | 3:16 | 2023-05-17 |  |
+| [អូនចង់រាំលេង](https://open.spotify.com/track/1ci1rES9fhzVcOyEOJQE39) | [Ros Serey Sothea](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0) | [អូនចង់រាំលេង](https://open.spotify.com/album/6ETwcbb1nU8dhpTGBnUwZi) | 3:16 | 2023-05-17 |  |
 | [バイブレイション](https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg) | [笠井 紀美子](https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit) | [トーキョー・スペシャル](https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy) | 4:18 | 2023-05-17 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Brand new music from Olivia Rodrigo \(pictured\), Leigh\-Anne, Romy and more!
 
-5,871 songs - 13 day 4 hr 54 min
+5,872 songs - 13 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4241,7 +4241,8 @@
 | [Rivals](https://open.spotify.com/track/7pATnbSvnPYoYCtRmlNP7F) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Rivals](https://open.spotify.com/album/6JYhJCc9FbuiXhFFDWjAb3) | 3:07 | 2023-05-25 | 2023-06-02 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-10 | 2023-03-18 |
 | [River](https://open.spotify.com/track/5Sa2WANsg60JnZLu7PRKUn) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [River](https://open.spotify.com/album/2WpEkWUiQWRTgTw0v8l1I2) | 3:32 | 2022-12-09 | 2022-12-16 |
-| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-07 |  |
+| [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 | 2023-09-08 |  |
+| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-07 | 2023-09-10 |
 | [Roadkill](https://open.spotify.com/track/6GVkrP8EWvcZ0xnq9HJBSA) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Roadkill](https://open.spotify.com/album/4RzrgHUyCkAeAYk4Q8sG4B) | 3:16 | 2023-01-13 | 2023-01-20 |
 | [Rock and a Calm Place](https://open.spotify.com/track/7GjweUqTOu2GQvyQoBUcCd) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rock and a Calm Place](https://open.spotify.com/album/7utTE2onaWPzYSW41O7MVE) | 2:48 | 2023-01-20 | 2023-01-27 |
 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [High Profile](https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6) | 2:50 | 2023-06-23 | 2023-06-30 |

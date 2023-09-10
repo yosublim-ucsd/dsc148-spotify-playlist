@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: POLTERGST
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,168 likes - 74 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,491 likes - 74 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 55 | [Koala](https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Koala](https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK) | 2:35 |
 | 56 | [Do You Ever Think Of Me](https://open.spotify.com/track/18rYVFWfX3Qswv887VGPkK) | [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [FADES](https://open.spotify.com/artist/2VElyouiCfoYPDJluzwJwK) | [Do You Ever Think Of Me](https://open.spotify.com/album/4k94fSI7hqHBZKgeasz62W) | 1:59 |
 | 57 | [Nina Nena](https://open.spotify.com/track/45FGpHOWkIm1UrVSljgysa) | [Drenchill](https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH), [Jorik Burema](https://open.spotify.com/artist/5m9bQKYt5uwDbtBGB6x78P) | [Nina Nena](https://open.spotify.com/album/3ZOfYTMGVqekPGj7w2fmgI) | 2:37 |
-| 58 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/4DrxQj1o522Xy5X0FCB7ni) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
+| 58 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
 | 59 | [Breathe](https://open.spotify.com/track/2cNXp4GOtEhsdAjgZZ7Cf7) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ), [Oskr](https://open.spotify.com/artist/13aLgWBHLtwZx4Qi2yiY2y), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Breathe](https://open.spotify.com/album/7pkKqcymramS5cNf6n7bMn) | 3:00 |
 | 60 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 |
 | 61 | [Set Me Free](https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Set Me Free](https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a) | 2:37 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Feel Alive](https://open.spotify.com/track/2dkZSuf8vtAybY9yNuHzqm) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Feel Alive](https://open.spotify.com/album/0afsFT9pB5n6LqnhksV29M) | 3:50 |
 | 74 | [Need Your Love](https://open.spotify.com/track/3Mzid9zOgVrhDgvT8vee0I) | [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Need Your Love](https://open.spotify.com/album/09FsQpf6h3gSPl1qPCdhsI) | 3:10 |
 
-Snapshot ID: `MCwxNGM4NmEyMjdjNDhiYTlkOWU3OTIxNWQ2MzdlOTk5MzBiYmMzM2Vm`
+Snapshot ID: `MCxkZGQ5MDNiODI0ZTVkNzc1YjdhOTVhNzJkODI1OWIyNzY0NTY3MjRi`

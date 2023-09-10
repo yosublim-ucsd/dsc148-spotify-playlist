@@ -4,7 +4,7 @@
 
 > The Rugby World Cup is here!
 
-257 songs - 15 hr 26 min
+258 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [Gaïndé](https://open.spotify.com/track/5VaFNvICeRD4Q2AV81rsk6) | [PPS the Writah](https://open.spotify.com/artist/5hSQLuOun5KPwaPViRkgPv), [D3b](https://open.spotify.com/artist/5iKhWdhzQ0XVFCvv8qdlhn), [Majzik](https://open.spotify.com/artist/4HliaTGB7WLXup6ZkKw53i) | [Gaïndé](https://open.spotify.com/album/5fxJXoEKPvvhpIisgObkI7) | 3:07 | 2022-11-29 | 2023-07-12 |
 | [Gele](https://open.spotify.com/track/6Sub5pfIjuNRH3TK8vsrPF) | [BADMAN Q](https://open.spotify.com/artist/3xP7xSbwu37X00mZSWfYq3) | [Gele](https://open.spotify.com/album/4VkEkQcTVjDYISipRgYI4I) | 2:26 | 2023-07-28 | 2023-09-08 |
 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 | 2022-03-27 | 2022-11-29 |
-| [Get Ready](https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Get Ready](https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV) | 3:42 | 2023-09-07 |  |
+| [Get Ready](https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Get Ready](https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV) | 3:42 | 2023-09-07 | 2023-09-10 |
 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 | 2023-08-08 | 2023-08-26 |
+| [Go Bokke](https://open.spotify.com/track/4LEcbd1Lv1MLl5KGqDlRLE) | [Buddy Long](https://open.spotify.com/artist/276PyQYKPBD03oLY6Coox9), [Baby Boi](https://open.spotify.com/artist/3GNwgGvdiPUaFW8YTsV2qV), [Thembi Mona](https://open.spotify.com/artist/3Nwjw7vLX4cButAEtqIhnZ), [PlayNevig](https://open.spotify.com/artist/74fbKfDoBpM8R7xy0l8NAM), [DJ SNEJA](https://open.spotify.com/artist/2fUmQBDeQstKIyrfLjj4Xt) | [Go Bokke](https://open.spotify.com/album/2lJ7NeeNzbD4B9yBcDqBBx) | 4:39 | 2023-09-09 |  |
 | [Go Gainde](https://open.spotify.com/track/4MkwYh21G4J5zLR2IAhP9S) | [Rich Waneh](https://open.spotify.com/artist/7cSjINBvZ8bddluBvrQ9iv) | [Go Gainde](https://open.spotify.com/album/7Ky26RhTz7DAzJX9Ahd4Zv) | 2:29 | 2022-11-29 | 2023-07-12 |
 | [Go Gaïndé](https://open.spotify.com/track/2xZjfo8QdncxKwaibPl8M5) | [Kheuch Boy](https://open.spotify.com/artist/6e9La3olRooVF1laXsh6E8) | [Go Gaïndé](https://open.spotify.com/album/4XiAS9heCr0lIU2jOWasEZ) | 3:12 | 2022-11-29 | 2023-07-12 |
 | [Go Go Black Stars…Goal!](https://open.spotify.com/track/3p7OrnZYsLPstFhgRWPVoZ) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [Go Go Black Stars…Goal!](https://open.spotify.com/album/7io6CL1Hnoiku5mRjSMA9u) | 3:44 | 2022-11-28 | 2022-11-30 |

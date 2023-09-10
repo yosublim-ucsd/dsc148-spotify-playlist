@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Molly Tuttle
 
-326 songs - 20 hr 29 min
+327 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 | 2023-06-23 |  |
 | [Real World](https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Real World](https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy) | 3:17 | 2021-12-31 | 2022-07-16 |
 | [Red River](https://open.spotify.com/track/073ZDDiIREsuTrrgT0llpV) | [Grant\-Lee Phillips](https://open.spotify.com/artist/65xy6loxYxKy3M9uiRHzLv) | [Red River](https://open.spotify.com/album/1J7WgZ7mGdRbxkKnLUrBJs) | 3:20 | 2023-08-18 |  |
-| [Red Rocking Chair](https://open.spotify.com/track/3YrXglYblDURRXFitsQeq6) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building / Red Rocking Chair](https://open.spotify.com/album/0dlpqJPSkvBInmfJnEZcX7) | 3:06 | 2023-08-04 |  |
+| [Red Rocking Chair](https://open.spotify.com/track/0wnf5euVirGXlljN0gcPAA) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building](https://open.spotify.com/album/2Irowt1M4cqcGYHuKYu2H7) | 3:06 | 2023-09-08 |  |
+| [Red Rocking Chair](https://open.spotify.com/track/3YrXglYblDURRXFitsQeq6) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building / Red Rocking Chair](https://open.spotify.com/album/0dlpqJPSkvBInmfJnEZcX7) | 3:06 | 2023-08-04 | 2023-09-10 |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-06-10 |
 | [Run To Heaven](https://open.spotify.com/track/0OJAIweexqlZ1ec5aDFsV2) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:10 | 2021-10-01 | 2022-07-29 |
 | [Run To Heaven](https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:10 | 2022-07-22 | 2022-10-08 |

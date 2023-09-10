@@ -6562,7 +6562,7 @@
     {
       "album": {
         "name": "Roadents",
-        "url": "https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon"
+        "url": "https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII"
       },
       "artists": [
         {
@@ -6573,6 +6573,24 @@
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137291,
+      "name": "Roadents",
+      "url": "https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4"
+    },
+    {
+      "album": {
+        "name": "Roadents",
+        "url": "https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
       "duration_ms": 137291,
       "name": "Roadents",
       "url": "https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm"
@@ -6728,7 +6746,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 154655,
       "name": "Saturday (feat. Cozz)",
       "url": "https://open.spotify.com/track/7lam0WhGxAfl0Ax2wy4hhO"
@@ -7868,7 +7886,7 @@
       },
       "artists": [
         {
-          "name": "Scar Lip",
+          "name": "ScarLip",
           "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
         }
       ],

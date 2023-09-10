@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-252 songs - 13 hr 57 min
+253 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/track/0AFOsHOLzZvUY8IqnhfRvA) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [I Don’t Feel Like Going Home for Christmas.](https://open.spotify.com/album/1U04rSEjf2f4tMvOpvKacK) | 3:51 | 2022-10-29 | 2023-03-16 |
 | [I Hope It Snows](https://open.spotify.com/track/1Tu2vqQl3Oo7HaQP1AS38G) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Naughty List](https://open.spotify.com/album/0BXmUn9V11LhVai6Ac6vb1) | 3:59 | 2021-12-24 |  |
 | [I Really Don't Want Much For Christmas](https://open.spotify.com/track/7EGUqJ63q9WH8HmFTpeaTY) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [I Really Don't Want Much For Christmas](https://open.spotify.com/album/5x26z9k6QpAjxmU478OXCg) | 3:47 | 2021-12-24 | 2022-12-04 |
+| [I Saw Three Ships](https://open.spotify.com/track/4JhEnX4fBX5kyr1EECfv6h) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Christmas](https://open.spotify.com/album/59s1aDGGfp5Sv9TjbsRKuz) | 4:17 | 2022-12-16 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/556WbQbFI94lJCiPY8981h) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Christmas](https://open.spotify.com/album/65ubsfvf66iJTF0jTKQqgX) | 4:20 | 2021-12-24 | 2022-07-29 |
 | [I Want It Bad](https://open.spotify.com/track/2kDPCtHDXDhvC8epJJ3KnB) | [Jane's Party](https://open.spotify.com/artist/16SY7vICMlc8XGaTPocEa3), [Jay McCarrol](https://open.spotify.com/artist/2CMmVX64L9gPdfcfUgclc7) | [I Want It Bad](https://open.spotify.com/album/1IF2RnFShtveK7O0bJBdC7) | 3:45 | 2021-12-24 | 2022-07-24 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 | 2021-12-24 | 2022-12-13 |
@@ -193,7 +194,7 @@
 | [Rise Up Shepherd](https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i) | 2:27 | 2021-12-24 |  |
 | [Rise Up Shepherd](https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke) | 2:27 | 2021-12-24 | 2022-07-29 |
 | [River](https://open.spotify.com/track/54TRbbKvK1ToJF13ph78Av) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [River](https://open.spotify.com/album/2nZeUxTE6r7lDdkZ7MSqor) | 3:49 | 2021-12-24 | 2022-10-08 |
-| [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 | 2022-10-29 |  |
+| [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 | 2022-10-29 | 2023-09-10 |
 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 | 2022-10-29 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ) | [Guy Lombardo & His Royal Canadians](https://open.spotify.com/artist/5fJ4w85NxFXyWlPU9wH6BE) | [Jingle Bells](https://open.spotify.com/album/2kRh0f81nPNjN5exdOOWRa) | 2:19 | 2021-12-24 |  |
 | [Run Run Rudolph](https://open.spotify.com/track/5TuRxXi6IUpCBPZ9yFCbkq) | [One More Girl](https://open.spotify.com/artist/5BHjTVVYoOiCzZ30RRSb8N) | [For Christmas](https://open.spotify.com/album/7HgAQHY74pcvdU0B3Mt7VT) | 3:07 | 2021-12-24 | 2022-07-29 |

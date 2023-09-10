@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 154426,
       "name": "Coastal Seas",
       "url": "https://open.spotify.com/track/3kTSnrtFNGbkxfhToP3OIV"
@@ -254,6 +254,24 @@
       "duration_ms": 137040,
       "name": "Corals - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg"
+    },
+    {
+      "album": {
+        "name": "My Policeman (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136506,
+      "name": "Did It Feel Wrong",
+      "url": "https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4"
     },
     {
       "album": {
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 197933,
       "name": "Magdelana Bay",
       "url": "https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 95813,
       "name": "The Museum",
       "url": "https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3"

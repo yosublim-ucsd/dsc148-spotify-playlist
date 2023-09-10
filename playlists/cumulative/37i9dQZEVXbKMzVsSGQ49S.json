@@ -143,6 +143,36 @@
     },
     {
       "album": {
+        "name": "16 Bars",
+        "url": "https://open.spotify.com/album/3VwrrI9Z7pKj05GMi6CRBd"
+      },
+      "artists": [
+        {
+          "name": "Birgir H\u00e1kon",
+          "url": "https://open.spotify.com/artist/29G2YTqyNXysziWEYJMh8K"
+        },
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "M Can",
+          "url": "https://open.spotify.com/artist/4HH1mWwB2TwqdqBdStHy2X"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269212,
+      "name": "16 Bars",
+      "url": "https://open.spotify.com/track/5U0gJrZqVJLRB37VNFMFNV"
+    },
+    {
+      "album": {
         "name": "MMVI",
         "url": "https://open.spotify.com/album/5bGpIgqvj7ae5v6kQtTj65"
       },
@@ -773,6 +803,24 @@
     },
     {
       "album": {
+        "name": "MONEYDRIPPIN",
+        "url": "https://open.spotify.com/album/7vmIHvAckC1BJFGd15sxa4"
+      },
+      "artists": [
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133976,
+      "name": "AK 47",
+      "url": "https://open.spotify.com/track/0FBgA754Rzt2cb3lruT8uE"
+    },
+    {
+      "album": {
         "name": "D\u00f6gun",
         "url": "https://open.spotify.com/album/4RrY2Blh3hjl0vOvbtqx0F"
       },
@@ -1053,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
+    },
+    {
+      "album": {
         "name": "PBT",
         "url": "https://open.spotify.com/album/54k1WInO5C6f6uptXssZgP"
       },
@@ -1228,7 +1294,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 170386,
       "name": "ANDA SM\u00c1",
       "url": "https://open.spotify.com/track/7lny1QRQiE0jmqKpFdOe9M"
@@ -1827,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+    },
+    {
+      "album": {
         "name": "Bad Man (Smooth Criminal)",
         "url": "https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5"
       },
@@ -2208,6 +2292,28 @@
       "duration_ms": 167131,
       "name": "BEN 10",
       "url": "https://open.spotify.com/track/2kdB6KuOVBe5NpqgIP0IEE"
+    },
+    {
+      "album": {
+        "name": "MONEYDRIPPIN",
+        "url": "https://open.spotify.com/album/7vmIHvAckC1BJFGd15sxa4"
+      },
+      "artists": [
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        },
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125844,
+      "name": "Berzerkur (feat. Issi)",
+      "url": "https://open.spotify.com/track/2kuelTzxZVssW9J5wfVz84"
     },
     {
       "album": {
@@ -4814,7 +4920,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -5896,7 +6002,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -7030,7 +7136,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 432613,
       "name": "E\u00f0a?",
       "url": "https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE"
@@ -7844,7 +7950,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -8723,6 +8829,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -8868,6 +8992,24 @@
       "duration_ms": 171933,
       "name": "Give That Wolf A Banana",
       "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
+    },
+    {
+      "album": {
+        "name": "MONEYDRIPPIN",
+        "url": "https://open.spotify.com/album/7vmIHvAckC1BJFGd15sxa4"
+      },
+      "artists": [
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143220,
+      "name": "Glasi\u00f0",
+      "url": "https://open.spotify.com/track/5xw2JVfK9HcgCqbaLdjshY"
     },
     {
       "album": {
@@ -10105,6 +10247,24 @@
     },
     {
       "album": {
+        "name": "MONEYDRIPPIN",
+        "url": "https://open.spotify.com/album/7vmIHvAckC1BJFGd15sxa4"
+      },
+      "artists": [
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147964,
+      "name": "Henny Freestyle",
+      "url": "https://open.spotify.com/track/2TzralG25MwJ0Co8Sk3snB"
+    },
+    {
+      "album": {
         "name": "Fram \u00ed rau\u00f0an dau\u00f0ann",
         "url": "https://open.spotify.com/album/5JV5uYskBZaXI9X6WlOsKx"
       },
@@ -11094,7 +11254,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 155064,
       "name": "H\u00e1spenna",
       "url": "https://open.spotify.com/track/0zgUPgvZY3TSBJSXDFmnsL"
@@ -13112,7 +13272,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -24592,7 +24752,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 234213,
       "name": "This Is How",
       "url": "https://open.spotify.com/track/1ToPotIXGZLOK5g6mxLCYy"
@@ -24948,7 +25108,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 179036,
       "name": "Tortor Ri",
       "url": "https://open.spotify.com/track/7espfmnMr49UBvBLMWzmeS"
@@ -25837,6 +25997,24 @@
     },
     {
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
       },
@@ -25848,7 +26026,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
@@ -27288,7 +27466,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 120160,
       "name": "YEAAA",
       "url": "https://open.spotify.com/track/5mV2Xpbf812LHpSIvWWcds"

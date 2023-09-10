@@ -2,7 +2,7 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Latinoamérica baila al ritmo de Calleb Calloway y Saiko.
+> Latinoamérica baila al ritmo de Caleb Calloway y Saiko.
 
 697 songs - 1 day 13 hr 20 min
 

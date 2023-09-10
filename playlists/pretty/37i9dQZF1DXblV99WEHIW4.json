@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 207295,
+  "num_followers": 207514,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmU1YWQ4OWIxY2FlYWMzNjc4MTBmZjBjZTBlYzBkODJhYzY0YWMy",
+  "snapshot_id": "MCxkZGZjMDdhMmZhM2IzMDc0MjUyYTEyZmI1YTE0ZTUwNmUxNzRhMTBm",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 321093,
       "name": "21 Guns",
       "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
     },
     {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
-    },
-    {
       "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "Comeblack",
@@ -279,6 +263,22 @@
       "duration_ms": 403453,
       "name": "Still Loving You",
       "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "One-X",
         "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 290360,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Nothing Left to Love",
-        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 100533,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Nothing Left to Love",
+        "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 100533,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1Bg4qbrQjRJjoXZlB3y3Ot"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 281807,
-      "name": "Crooked Path",
-      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 289346,
       "name": "February Stars",
       "url": "https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 281807,
+      "name": "Crooked Path",
+      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr"
     },
     {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
-      },
-      "artists": [
-        {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
-    },
-    {
       "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "No Good Left To Give",
@@ -1179,6 +1163,22 @@
       "duration_ms": 189560,
       "name": "Seneca",
       "url": "https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/4B161tnzwvFCWiOfx9T8Di"
     },
     {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "BUMMER",
-        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 234953,
-      "name": "2008",
-      "url": "https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp"
-    },
-    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "Sap",
@@ -1243,6 +1227,22 @@
       "duration_ms": 267333,
       "name": "Brother",
       "url": "https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b"
+    },
+    {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "BUMMER",
+        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 234953,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/3DIJCTr5Zl00MeLuG65Jgp"
     },
     {
       "added_at": "2022-08-25 23:00:00",

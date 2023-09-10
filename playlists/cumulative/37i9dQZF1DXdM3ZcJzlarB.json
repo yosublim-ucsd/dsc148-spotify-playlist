@@ -826,10 +826,28 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 498371,
       "name": "Ritual of Love",
       "url": "https://open.spotify.com/track/7eU7DnmuYgOGdgIHIwDnLL"
+    },
+    {
+      "album": {
+        "name": "Seasons | Winter 2020",
+        "url": "https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn"
+      },
+      "artists": [
+        {
+          "name": "Niceshot",
+          "url": "https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498371,
+      "name": "Ritual of Love",
+      "url": "https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM"
     },
     {
       "album": {

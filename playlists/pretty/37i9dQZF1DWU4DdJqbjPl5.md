@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp?si=SLEbGKLcTYmxFX8nYQPN1w"> SuperJazzClub </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,167 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,226 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Falling Down](https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Other Side](https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6) | 3:04 |
 | 80 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 |
 
-Snapshot ID: `MCw4OTBkMDEzYTgwODQwNTAxYjQxMDQ5MmMzZmQ5OTI1YzFkMGY2Mjkw`
+Snapshot ID: `MCw4MGQ3NjkwYTUzMWE2ZTQ3ZjEyNWUyZDkyMjNlNmZlM2I3YjhiOWQ4`

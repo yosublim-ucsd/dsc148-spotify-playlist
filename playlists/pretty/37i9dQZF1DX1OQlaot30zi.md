@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Mikush, Villabanks, Paky, Simba La Rue e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,881 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,943 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Suave \(feat\. VillaBanks\)](https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV) | 3:17 |
 | 2 | [DM \(feat\. Guè\)](https://open.spotify.com/track/1uye7szvzXiEr4gQcRfDip) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 3:14 |
 | 3 | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg) | 2:19 |
-| 4 | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w) | 2:55 |
+| 4 | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w) | 2:55 |
 | 5 | [Ragazzini 2000 \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/0HOMX6xhF9ViSM8LNpUm1P) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Ragazzini 2000 \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/67ApYGahcCAb2juPy3Gcw9) | 2:59 |
 | 6 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
 | 7 | [BATIMENT \#1](https://open.spotify.com/track/7h1RaR7nQUWTB2uR5giojx) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [BATIMENT \#1](https://open.spotify.com/album/40YkzEnw9ssn5JmbajH4xA) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [POSSESSIVA](https://open.spotify.com/track/4eBr8d1QaWnsiHs9durMSV) | [Marlon](https://open.spotify.com/artist/7M7GtzszIlcS03qCa03oqh), [SEEKER](https://open.spotify.com/artist/0pEzJIVWyMgjuDM44DZ55A), [2nd world](https://open.spotify.com/artist/5WMWuJLN6grX3KQ42wKEZj) | [POSSESSIVA](https://open.spotify.com/album/4ML9hFDI6zrasEmSJX27qE) | 2:59 |
 | 75 | [C VUO](https://open.spotify.com/track/5vpPOHCj3KgQwa8ZuIr5m1) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [Paulbeatzz](https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5) | [C VUO](https://open.spotify.com/album/5JsxOA21rxBnItVyMzXHFk) | 2:42 |
 
-Snapshot ID: `MCxjYWI2NGFhYTI3NDU4MThjZDlhNjU4NDExZjliNWNkODAxOTdmNTI4`
+Snapshot ID: `MCw0MmNlZGI0NzhkZTJhMGNmN2IwODhlMTdjNmQxYTk1MzNjZjViNzU4`

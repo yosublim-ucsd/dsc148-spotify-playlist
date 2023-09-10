@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: 347aidan.
 
-1,500 songs - 3 day 0 hr 17 min
+1,501 songs - 3 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1387,7 +1387,8 @@
 | [UGUDBRU \(feat\. Sam Truth\)](https://open.spotify.com/track/2UEsIWEHeNN5k7lJ6UZvzo) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [UGUDBRU \(feat\. Sam Truth\)](https://open.spotify.com/album/5WJAZ4TNEz0FhxWfRv4eQ4) | 4:55 | 2021-03-06 | 2021-10-14 |
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2021-01-16 | 2021-05-03 |
 | [Under Tongues](https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Under Tongues](https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G) | 2:50 | 2023-01-20 | 2023-05-06 |
-| [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 | 2023-06-16 |  |
+| [Underdog](https://open.spotify.com/track/5YXz0NGgRxNSUqNzRO66M7) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 4:26 | 2023-06-16 |  |
+| [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 | 2023-06-16 | 2023-09-10 |
 | [Unimpressed](https://open.spotify.com/track/1Hx0E0KVi3yRXzXU93G40z) | [Prettyboyworldwyde](https://open.spotify.com/artist/4ij8hiJFbjYUq3n0Dw06gw) | [Unimpressed](https://open.spotify.com/album/0PeNDGDKTdFwwdOmKMFrio) | 3:24 | 2021-04-24 | 2022-02-12 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-05-06 | 2022-07-01 |
 | [until my heart stops beating](https://open.spotify.com/track/0sZ3dRMYJYNr2Y2mffvgb3) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [until my heart stops beating](https://open.spotify.com/album/3w2ZKhoHP7cg7ypyy7sSW6) | 3:24 | 2022-11-11 | 2023-04-14 |
@@ -1428,7 +1429,7 @@
 | [Want Me Too](https://open.spotify.com/track/2HMaXxZvcG3ipDyD90l8aj) | [Dach](https://open.spotify.com/artist/4ZTdL2voH1dHpH6gkt6Z9g), [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Want Me Too](https://open.spotify.com/album/1d3jVpNe7uOHX2KQQwMTwz) | 2:20 | 2020-10-13\* | 2021-03-26 |
 | [Was I Supposed To Care?](https://open.spotify.com/track/7HIbJDiEXk4VFlbV3qJTdw) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/5XTV8RuXj4pdd2wS5I7wyl) | 3:01 | 2023-05-19 | 2023-07-22 |
 | [Was I Supposed To Care?](https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [before the afters](https://open.spotify.com/album/6Rjz4xCKQuzqnvRhNvXhqv) | 3:01 | 2023-05-19 | 2023-06-07 |
-| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-11 | 2023-09-09 |
+| [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-11 |  |
 | [Wasteland](https://open.spotify.com/track/6e94yJULMfVQWqSE3qExHZ) | [LOWLIFE](https://open.spotify.com/artist/6IiMJsGUgeJYoRSVaW0CPW) | [Wasteland](https://open.spotify.com/album/551B6d3BS2HjQJsCBD409l) | 2:55 | 2020-11-20 | 2021-05-03 |
 | [Water World](https://open.spotify.com/track/557GPWoXsbALezINZhftNf) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Miracle Mile](https://open.spotify.com/album/5Yyw9PEcJwpfx6VxSeeENp) | 3:10 | 2021-05-15 | 2021-10-16 |
 | [We Heal](https://open.spotify.com/track/3jDgP0foXp0dUsOZIOryIO) | [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [We Heal](https://open.spotify.com/album/5TVAvWNdYyzXxv6Z5wIfW8) | 3:34 | 2020-10-13\* | 2021-01-23 |

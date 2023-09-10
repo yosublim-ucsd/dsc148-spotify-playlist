@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421340,
+  "num_followers": 421351,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
+  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Na Mente",
-        "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 124948,
-      "name": "Na Mente",
-      "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "24K o Spotify Que Paga",
         "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
       },
@@ -1427,6 +1403,30 @@
       "duration_ms": 180000,
       "name": "24K o Spotify Que Paga",
       "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Na Mente",
+        "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 124948,
+      "name": "Na Mente",
+      "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1543,30 +1543,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Se Fecha",
-        "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
-      },
-      "artists": [
-        {
-          "name": "Hate Rct",
-          "url": "https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7"
-        },
-        {
-          "name": "Noze",
-          "url": "https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc"
-        },
-        {
-          "name": "OG L",
-          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Se Fecha",
-      "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Santana Amarelo",
         "url": "https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P"
       },
@@ -1587,6 +1563,30 @@
       "duration_ms": 183673,
       "name": "Santana Amarelo",
       "url": "https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Se Fecha",
+        "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
+      },
+      "artists": [
+        {
+          "name": "Hate Rct",
+          "url": "https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7"
+        },
+        {
+          "name": "Noze",
+          "url": "https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Se Fecha",
+      "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
     },
     {
       "added_at": "2023-07-12 21:00:00",

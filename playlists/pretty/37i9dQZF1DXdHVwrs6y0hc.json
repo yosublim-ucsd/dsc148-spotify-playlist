@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 62893,
+  "num_followers": 62976,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzM4YzllNWZiMzFmMDI1ZjBiZDE4M2Q1NTA3OTBjNzU3Zjc2YzE0",
+  "snapshot_id": "MCwxZjQ2MDYyMzE3NTE0ZWQ4OWJmODBjMDA3Yjc5Njc3OGUyMGQzNjA4",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -75,6 +75,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Planxty",
+        "url": "https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP"
+      },
+      "artists": [
+        {
+          "name": "Planxty",
+          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Follow Me Up To Carlow",
+      "url": "https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "20 Best Irish Pub Songs",
         "url": "https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 161666,
       "name": "Botany Bay (arr. N. McLoughlin)",
       "url": "https://open.spotify.com/track/2jn9b9n7pIPCctswaTrvDq"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Planxty",
-        "url": "https://open.spotify.com/album/43TF1LRa7kmO7XzJmWcehP"
-      },
-      "artists": [
-        {
-          "name": "Planxty",
-          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Follow Me Up To Carlow",
-      "url": "https://open.spotify.com/track/2b6ulXSZpOwY7kwm6qKzQw"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -175,18 +175,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Sick Note",
-        "url": "https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT"
+        "name": "The Planxty Collection",
+        "url": "https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf"
       },
       "artists": [
         {
-          "name": "Brier",
-          "url": "https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM"
+          "name": "Planxty",
+          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
         }
       ],
-      "duration_ms": 152680,
-      "name": "The Boys Of Killybegs",
-      "url": "https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ"
+      "duration_ms": 159320,
+      "name": "Merrily Kissed The Quaker",
+      "url": "https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -207,6 +207,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Sick Note",
+        "url": "https://open.spotify.com/album/0SyZ9hy37scVfcQvnNuWRT"
+      },
+      "artists": [
+        {
+          "name": "Brier",
+          "url": "https://open.spotify.com/artist/58jVaCeVhiCSoeZvpsN5vM"
+        }
+      ],
+      "duration_ms": 152680,
+      "name": "The Boys Of Killybegs",
+      "url": "https://open.spotify.com/track/5wx96xHutiQKQ8z97kbrDZ"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Irish Ballads and Songs",
         "url": "https://open.spotify.com/album/015erneqKmEPClgUAzqc1L"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 184613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "The Planxty Collection",
-        "url": "https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf"
-      },
-      "artists": [
-        {
-          "name": "Planxty",
-          "url": "https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Merrily Kissed The Quaker",
-      "url": "https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
         }
       ],
-      "duration_ms": 137146,
-      "name": "Dicey Reilly",
-      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
+      "duration_ms": 196960,
+      "name": "The Craic Was Ninety",
+      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -424,22 +424,6 @@
       "added_at": "2021-04-26 15:38:07",
       "album": {
         "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
-      },
-      "artists": [
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Paddy Dreaming",
-      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
         "url": "https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb"
       },
       "artists": [
@@ -459,6 +443,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
+      },
+      "artists": [
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Paddy Dreaming",
+      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "The Craic Is Mighty",
         "url": "https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt"
       },
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD"
         }
       ],
-      "duration_ms": 196960,
-      "name": "The Craic Was Ninety",
-      "url": "https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw"
+      "duration_ms": 137146,
+      "name": "Dicey Reilly",
+      "url": "https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH"
     },
     {
       "added_at": "2021-04-26 15:38:07",

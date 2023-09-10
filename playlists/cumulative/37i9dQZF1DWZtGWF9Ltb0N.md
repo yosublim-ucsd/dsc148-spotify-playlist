@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-499 songs - 1 day 12 hr 41 min
+500 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [Tabula](https://open.spotify.com/track/6XArhS3fDmOttqXifOX5pn) | [Foamplate](https://open.spotify.com/artist/2QaEAd5s6mZkvrItP2yYYP) | [Tabula / Deadly Habit](https://open.spotify.com/album/0EW6YXDsI0yku3le8cqAth) | 6:27 | 2022-02-17 | 2022-07-29 |
 | [Take it or Leave It](https://open.spotify.com/track/2W1ktdyrDicViPdd9swErb) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp), [Rakjay](https://open.spotify.com/artist/5PgyKgHJoVE2uIXXy06mEQ) | [Nintendo EP](https://open.spotify.com/album/0eKI9p9akhOoj35BlLtrrr) | 4:07 | 2022-02-17 |  |
 | [Tales from the Crypt](https://open.spotify.com/track/5UzDfhUtdORIjbIYvL0dxs) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Flutez](https://open.spotify.com/album/1106tOwKKH5kZnNB7O5mMh) | 4:13 | 2022-02-17 |  |
-| [Tech Foul \- Peekaboo Remix](https://open.spotify.com/track/01tb1I347g12xuR8FbJtOd) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Tech Foul \(Peekaboo Remix\)](https://open.spotify.com/album/5pEaspa2x6s7jFpRbcB1uZ) | 4:06 | 2022-02-17 |  |
+| [Tech Foul \- Peekaboo Remix](https://open.spotify.com/track/01tb1I347g12xuR8FbJtOd) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Tech Foul \(Peekaboo Remix\)](https://open.spotify.com/album/5pEaspa2x6s7jFpRbcB1uZ) | 4:06 | 2022-02-17 | 2023-09-10 |
 | [TEK](https://open.spotify.com/track/3tezEIT5xK3CW8fjlSy4ak) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [TEK](https://open.spotify.com/album/7C2LDXd3UolHDXVnJE31NI) | 4:12 | 2022-09-30 |  |
 | [Telling Me Nothing](https://open.spotify.com/track/4oZzKl23R31U9yhCtXaC7x) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Method Sound](https://open.spotify.com/artist/3bdo0nDKT9KoqHhmJiowqT), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [Stutter \- EP](https://open.spotify.com/album/2ywexsHX1MUToJaByaEYYQ) | 5:08 | 2022-09-02 |  |
 | [Terrorist](https://open.spotify.com/track/3sTILrfXTqgroX8Wo5ZxAs) | [Karma](https://open.spotify.com/artist/1ddaxtrmw7YbvxBWXWN33T) | [Terrorist](https://open.spotify.com/album/4HCyrvjUbe7DU7ohhAUwuu) | 5:27 | 2022-02-17 | 2022-07-02 |
@@ -457,6 +457,7 @@
 | [The Return](https://open.spotify.com/track/7dVzSlfWsZ28bdW8LpUxLU) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Return](https://open.spotify.com/album/3NjuyI734lXBhkehCDqbbz) | 3:47 | 2022-02-17 | 2022-06-11 |
 | [The Sunken Place \- VIP](https://open.spotify.com/track/2cLUUX0SkRD5Yi6YJHA8qi) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Awakening VIPs](https://open.spotify.com/album/12JpTvIirqvj09FMeQFsfg) | 5:05 | 2022-06-17 |  |
 | [The Wisp Song](https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 3:46 | 2023-04-28 |  |
+| [Thrill](https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Cheap Thrills](https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll) | 4:48 | 2023-09-08 |  |
 | [Toast](https://open.spotify.com/track/0BuIHXZ4Dr7Bu02fPpHA3l) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Toast](https://open.spotify.com/album/2ZKGLudhFxiX9cpgKrDelD) | 2:41 | 2023-05-26 | 2023-09-09 |
 | [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/track/1D4OWth7qppoyd9FMDBwjY) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/album/42f49jgEcFtznfONjknPWq) | 4:39 | 2022-02-17 |  |
 | [Toll](https://open.spotify.com/track/7tPfSMVAl3siiEWiUFl2Bm) | [Traces](https://open.spotify.com/artist/1Nz3cFW2b2b7JitffqTt91) | [Psychopath](https://open.spotify.com/album/197CVo2y8VHACcYM1ks2aW) | 4:42 | 2022-02-17 | 2022-07-29 |

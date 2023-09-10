@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: SMILE, Artwork: Isu Kim.
 
-883 songs - 2 day 3 hr 20 min
+884 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,8 @@
 | [Heatwaves](https://open.spotify.com/track/7H47hCbksZASXp2VjXTgr5) | [King Pigeon](https://open.spotify.com/artist/4hP2RPQSRdJe3GBQGexJBj) | [Heatwaves](https://open.spotify.com/album/68D8P38DgAG8JxgrQNyukI) | 3:59 | 2022-01-26 | 2022-03-08 |
 | [Heaven and Hell](https://open.spotify.com/track/1J4QufSZU86M4YJkH2W2nG) | [Simon Lewis](https://open.spotify.com/artist/69xq82RL8JoW7DcKP9Q0kD) | [Heaven and Hell](https://open.spotify.com/album/1UpuBvLxt5DjIvtjZXwCBt) | 3:17 | 2022-06-29 | 2022-08-04 |
 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 | 2023-02-08 | 2023-04-06 |
-| [Hecate](https://open.spotify.com/track/7Mbfjdc7JWcMw2TmFf68Xq) | [Incláme](https://open.spotify.com/artist/3jEvfxjUTWizkdT7TxUcWQ) | [Hecate](https://open.spotify.com/album/4XLTa9Z7PCzeN5vwAWIz7K) | 6:56 | 2023-09-06 |  |
+| [Hecate](https://open.spotify.com/track/0Xky94SelxdqCHVBkPf8gU) | [Incláme](https://open.spotify.com/artist/3jEvfxjUTWizkdT7TxUcWQ) | [Hecate](https://open.spotify.com/album/3FxLZfdzBPVALseRXURu1H) | 6:56 | 2023-09-06 |  |
+| [Hecate](https://open.spotify.com/track/7Mbfjdc7JWcMw2TmFf68Xq) | [Incláme](https://open.spotify.com/artist/3jEvfxjUTWizkdT7TxUcWQ) | [Hecate](https://open.spotify.com/album/4XLTa9Z7PCzeN5vwAWIz7K) | 6:56 | 2023-09-06 | 2023-09-10 |
 | [Her](https://open.spotify.com/track/3rQZPfmwx9aQXjqWZW6Kzk) | [Fee Aviv](https://open.spotify.com/artist/5rkZIQHTNMYCdPcssKPr1k) | [Her](https://open.spotify.com/album/1C3WYCSzBesj4xwfwnot2F) | 3:14 | 2023-08-16 |  |
 | [her name](https://open.spotify.com/track/3YT7sk2Q1jL03lKS4Vidjo) | [Janek Hru](https://open.spotify.com/artist/7iLcpwTA6Q4Tq7eKg8qS3D) | [her name](https://open.spotify.com/album/5AVL6HPOgx7inEORmetMXP) | 2:47 | 2022-11-23 | 2023-06-22 |
 | [Herzblatt](https://open.spotify.com/track/6uxSryn80SMOFcczFKduhN) | [swimgirl](https://open.spotify.com/artist/1vCDq3HjvLVGcUuh7nv49s), [Young Meyerlack](https://open.spotify.com/artist/5myzwn2vq9wGjQVyKo46ir) | [Herzblatt](https://open.spotify.com/album/2rdVsyNRDA5PAYYe0FUrXH) | 2:59 | 2023-08-16 |  |

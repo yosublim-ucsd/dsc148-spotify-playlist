@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 289742,
       "name": "Great Things",
       "url": "https://open.spotify.com/track/5BsG3NwkHDcCHtvvBnUmVb"
@@ -1054,6 +1054,28 @@
       "duration_ms": 352086,
       "name": "Yet Not I but Through Christ in Me",
       "url": "https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh"
+    },
+    {
+      "album": {
+        "name": "Worship in The Word (Live)",
+        "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208126,
+      "name": "You Know Everything (Psalm 139) - Live",
+      "url": "https://open.spotify.com/track/6en45FpokCU2UHfZqtfKeY"
     },
     {
       "album": {

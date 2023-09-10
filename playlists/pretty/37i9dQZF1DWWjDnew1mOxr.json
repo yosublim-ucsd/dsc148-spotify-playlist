@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Miles Kane",
-  "num_followers": 114038,
+  "num_followers": 114075,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGVlZWNkNjMzZWNjZDdlNDEzMDVjZjcyNzQ0YTZmYjY4MDgyYjY1",
+  "snapshot_id": "MCxmN2NlODA3NjE3N2Q4ZmZjMTM2NjM1YWMwNmExNjY5Mzc5NGU5ZTdm",
   "tracks": [
     {
       "added_at": "2023-08-04 12:37:44",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Bullet Farm",
         "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 190614,
       "name": "Bullet Farm",
       "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "I Let Go",
-        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 141265,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Just Move",
         "url": "https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6"
       },
@@ -859,22 +843,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "One More Night With No One",
-        "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 200147,
-      "name": "One More Night With No One",
-      "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Never Good Enough",
         "url": "https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 266140,
       "name": "Seven Bridge Road",
       "url": "https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "I Let Go",
+        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 141265,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "One More Night With No One",
+        "url": "https://open.spotify.com/album/0drCqmAvoy8VdEvzAZoPI7"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 200147,
+      "name": "One More Night With No One",
+      "url": "https://open.spotify.com/track/3JJv1LcAO8G2Q19p5GVRlm"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Wide Asleep",
-        "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Wide Asleep",
-      "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "nothing's on but everyone's watching",
         "url": "https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
+        "name": "Wide Asleep",
+        "url": "https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Wide Asleep",
+      "url": "https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
         "name": "Lovers Come and Lovers Go",
         "url": "https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 159586,
       "name": "Lovers Come and Lovers Go",
       "url": "https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V"
+      },
+      "artists": [
+        {
+          "name": "The Covasettes",
+          "url": "https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt"
+        }
+      ],
+      "duration_ms": 188744,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1079,22 +1095,6 @@
       "duration_ms": 294000,
       "name": "Freaks Like Us",
       "url": "https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V"
-      },
-      "artists": [
-        {
-          "name": "The Covasettes",
-          "url": "https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt"
-        }
-      ],
-      "duration_ms": 188744,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "THE WALL",
-        "url": "https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 211701,
-      "name": "CHEMICALS",
-      "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 202761,
       "name": "Bring Us Down",
       "url": "https://open.spotify.com/track/3h2RARW0N82V81Del0u88T"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "THE WALL",
+        "url": "https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 211701,
+      "name": "CHEMICALS",
+      "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
     },
     {
       "added_at": "2023-07-28 14:01:17",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-28 14:01:17",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb"
-      },
-      "artists": [
-        {
-          "name": "Lanterns on the Lake",
-          "url": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Real Life - Edit",
-      "url": "https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ"
-    },
-    {
-      "added_at": "2023-07-28 14:01:17",
-      "album": {
         "name": "Fashion",
         "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 230467,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3cZejV8KMlKPA4hWBNkBVM"
+    },
+    {
+      "added_at": "2023-07-28 14:01:17",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb"
+      },
+      "artists": [
+        {
+          "name": "Lanterns on the Lake",
+          "url": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Real Life - Edit",
+      "url": "https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ"
     }
   ],
   "unique_name": "Proper Belters",

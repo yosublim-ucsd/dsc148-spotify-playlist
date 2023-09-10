@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Raghav Meattle
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,766 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,770 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Toot Rahi Hoon](https://open.spotify.com/track/3EkjwOEWuhPWKKg8pzVlow) | [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Toot Rahi Hoon](https://open.spotify.com/album/2T7C17uo1db3aCIluvDrfP) | 2:29 |
 | 50 | [Bin Tere](https://open.spotify.com/track/3HmkI0yLP6fE6wPrjjTnWJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Bin Tere](https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp) | 3:26 |
 
-Snapshot ID: `MCwxNzAyYmE5ODVhYTYxYzkyM2Y0MWQyOTVmNjQ1YjcyMWZmN2M1OTA2`
+Snapshot ID: `MCxkNTc0MGZjMTc1NjdkNGQwYzQyNTg5NzM0M2Q5MzMyMjQyZmYzYTZi`

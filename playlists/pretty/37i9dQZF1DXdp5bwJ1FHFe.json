@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 56991,
+  "num_followers": 57009,
   "original_name": "Baby Sleep Aid Rain Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWQ4ZWZjZWRlZTRmZTFkMGI1NDMzOTUxNDNmZWVkN2Y5NDdmMDMw",
+  "snapshot_id": "MCw2MDhjZmE5YjlhODdlNDBmNjRlMjZiYjMxZTMzMThiMGZkMmM0YTE4",
   "tracks": [
     {
       "added_at": "2023-06-20 11:49:03",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
+        "name": "Drizzle Down",
+        "url": "https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc"
+      },
+      "artists": [
+        {
+          "name": "Why Wynne",
+          "url": "https://open.spotify.com/artist/7rBAEboEJSX7TaS9z62lb8"
+        }
+      ],
+      "duration_ms": 131517,
+      "name": "Cool Air & Rain",
+      "url": "https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH"
+    },
+    {
+      "added_at": "2023-06-20 11:49:03",
+      "album": {
         "name": "Hawaiian Rainforest",
         "url": "https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 160000,
       "name": "Forest Spirits (Rain)",
       "url": "https://open.spotify.com/track/3VeEplQsKzt4ls3tTJrtvO"
-    },
-    {
-      "added_at": "2023-06-20 11:49:03",
-      "album": {
-        "name": "Drizzle Down",
-        "url": "https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc"
-      },
-      "artists": [
-        {
-          "name": "Why Wynne",
-          "url": "https://open.spotify.com/artist/7rBAEboEJSX7TaS9z62lb8"
-        }
-      ],
-      "duration_ms": 131517,
-      "name": "Cool Air & Rain",
-      "url": "https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
+        "name": "Night Rain",
+        "url": "https://open.spotify.com/album/4r2Q2dqJDccNG92ocD3EtY"
+      },
+      "artists": [
+        {
+          "name": "Lush Waves Creators",
+          "url": "https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE"
+        }
+      ],
+      "duration_ms": 152324,
+      "name": "Night Storm",
+      "url": "https://open.spotify.com/track/1I6QdR3AsN37JMBaoqsbEn"
+    },
+    {
+      "added_at": "2023-06-20 11:49:03",
+      "album": {
         "name": "February Rain",
         "url": "https://open.spotify.com/album/6vFUwZL1ivCQ4SPMjLLuhM"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 155295,
       "name": "Circle of Rain",
       "url": "https://open.spotify.com/track/71XsLqUK4kmYNW8fV5HYVV"
-    },
-    {
-      "added_at": "2023-06-20 11:49:03",
-      "album": {
-        "name": "Night Rain",
-        "url": "https://open.spotify.com/album/4r2Q2dqJDccNG92ocD3EtY"
-      },
-      "artists": [
-        {
-          "name": "Lush Waves Creators",
-          "url": "https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE"
-        }
-      ],
-      "duration_ms": 152324,
-      "name": "Night Storm",
-      "url": "https://open.spotify.com/track/1I6QdR3AsN37JMBaoqsbEn"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
-        "name": "Night Time Rain Fall",
-        "url": "https://open.spotify.com/album/1sKdVqFClvg3wW3qmd1FIM"
-      },
-      "artists": [
-        {
-          "name": "Natures Acoustics",
-          "url": "https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1"
-        }
-      ],
-      "duration_ms": 153068,
-      "name": "Rain Wall For Sleep",
-      "url": "https://open.spotify.com/track/5qBURD07mYmymBewmZf3de"
-    },
-    {
-      "added_at": "2023-06-20 11:49:03",
-      "album": {
         "name": "Strawberry Rain",
         "url": "https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 212169,
       "name": "Strawberry Rain",
       "url": "https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD"
+    },
+    {
+      "added_at": "2023-06-20 11:49:03",
+      "album": {
+        "name": "Night Time Rain Fall",
+        "url": "https://open.spotify.com/album/1sKdVqFClvg3wW3qmd1FIM"
+      },
+      "artists": [
+        {
+          "name": "Natures Acoustics",
+          "url": "https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1"
+        }
+      ],
+      "duration_ms": 153068,
+      "name": "Rain Wall For Sleep",
+      "url": "https://open.spotify.com/track/5qBURD07mYmymBewmZf3de"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
+        "name": "Regn",
+        "url": "https://open.spotify.com/album/0mr6zgZL3NGZfJWH0Q9OCr"
+      },
+      "artists": [
+        {
+          "name": "Naturen",
+          "url": "https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Friskt Regn",
+      "url": "https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih"
+    },
+    {
+      "added_at": "2023-06-20 11:49:03",
+      "album": {
         "name": "Don't Mind The Rain",
         "url": "https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 151500,
       "name": "Backyard Rains",
       "url": "https://open.spotify.com/track/5v6qXVmMn68GxCPF9XGZVH"
-    },
-    {
-      "added_at": "2023-06-20 11:49:03",
-      "album": {
-        "name": "Regn",
-        "url": "https://open.spotify.com/album/0mr6zgZL3NGZfJWH0Q9OCr"
-      },
-      "artists": [
-        {
-          "name": "Naturen",
-          "url": "https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Friskt Regn",
-      "url": "https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -2191,18 +2191,18 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
-        "name": "Rain Sky Samples",
-        "url": "https://open.spotify.com/album/79baeTtmEP140NIkW9JdRY"
+        "name": "Rain Therapy Session 1",
+        "url": "https://open.spotify.com/album/0z4pL7PSGR6RccLfZVd4lz"
       },
       "artists": [
         {
-          "name": "X.L.T",
-          "url": "https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t"
+          "name": "Lumo",
+          "url": "https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK"
         }
       ],
-      "duration_ms": 172403,
-      "name": "Rain Sky Samples 1",
-      "url": "https://open.spotify.com/track/6xIpFNG8oUqoclkjMLEhKu"
+      "duration_ms": 173000,
+      "name": "Under The Roof",
+      "url": "https://open.spotify.com/track/4DanlCGrjn092EnWmbBlPa"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
-        "name": "Rain Therapy Session 1",
-        "url": "https://open.spotify.com/album/0z4pL7PSGR6RccLfZVd4lz"
+        "name": "Rain Sky Samples",
+        "url": "https://open.spotify.com/album/79baeTtmEP140NIkW9JdRY"
       },
       "artists": [
         {
-          "name": "Lumo",
-          "url": "https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK"
+          "name": "X.L.T",
+          "url": "https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Under The Roof",
-      "url": "https://open.spotify.com/track/4DanlCGrjn092EnWmbBlPa"
+      "duration_ms": 172403,
+      "name": "Rain Sky Samples 1",
+      "url": "https://open.spotify.com/track/6xIpFNG8oUqoclkjMLEhKu"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -2927,6 +2927,22 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
+        "name": "Cold Winter Rain",
+        "url": "https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 342092,
+      "name": "Midwinter Downtown Rain",
+      "url": "https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs"
+    },
+    {
+      "added_at": "2023-06-20 11:49:03",
+      "album": {
         "name": "Sleep Factory",
         "url": "https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy"
       },
@@ -2955,22 +2971,6 @@
       "duration_ms": 183707,
       "name": "FX Rain",
       "url": "https://open.spotify.com/track/3S2BYGQOFY8CGwQg5Imf6L"
-    },
-    {
-      "added_at": "2023-06-20 11:49:03",
-      "album": {
-        "name": "Cold Winter Rain",
-        "url": "https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 342092,
-      "name": "Midwinter Downtown Rain",
-      "url": "https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -3071,22 +3071,6 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
-        "name": "Divine Drops",
-        "url": "https://open.spotify.com/album/1YoCawYKVJKWWoZp97VC0T"
-      },
-      "artists": [
-        {
-          "name": "Okami Sky",
-          "url": "https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP"
-        }
-      ],
-      "duration_ms": 160579,
-      "name": "Divine Drops",
-      "url": "https://open.spotify.com/track/1AYRQcbxDoDsRlCgpxqjjs"
-    },
-    {
-      "added_at": "2023-06-20 11:49:03",
-      "album": {
         "name": "Part One",
         "url": "https://open.spotify.com/album/1zoQBG8m0K5z3SrUwprXG0"
       },
@@ -3099,6 +3083,22 @@
       "duration_ms": 177769,
       "name": "Unstoppable Rain",
       "url": "https://open.spotify.com/track/5sa0kHUUCQogrtDmODGmeb"
+    },
+    {
+      "added_at": "2023-06-20 11:49:03",
+      "album": {
+        "name": "Divine Drops",
+        "url": "https://open.spotify.com/album/1YoCawYKVJKWWoZp97VC0T"
+      },
+      "artists": [
+        {
+          "name": "Okami Sky",
+          "url": "https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP"
+        }
+      ],
+      "duration_ms": 160579,
+      "name": "Divine Drops",
+      "url": "https://open.spotify.com/track/1AYRQcbxDoDsRlCgpxqjjs"
     },
     {
       "added_at": "2023-06-20 11:49:03",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2023-06-20 11:49:03",
       "album": {
-        "name": "Gentle Rains",
-        "url": "https://open.spotify.com/album/2gjjR6rmLktToYJtGmjHEs"
-      },
-      "artists": [
-        {
-          "name": "Mindful Audio",
-          "url": "https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ambient Rain",
-      "url": "https://open.spotify.com/track/4HgrTAqOd1cc5VGoq6j0m7"
-    },
-    {
-      "added_at": "2023-06-20 11:49:03",
-      "album": {
         "name": "rainy day therapy",
         "url": "https://open.spotify.com/album/1vfbNsnUdawhLdJyrvZiYJ"
       },
@@ -3163,6 +3147,22 @@
       "duration_ms": 224624,
       "name": "moody state",
       "url": "https://open.spotify.com/track/3B0qn6IA4pDe4uy9HHJ4hd"
+    },
+    {
+      "added_at": "2023-06-20 11:49:03",
+      "album": {
+        "name": "Gentle Rains",
+        "url": "https://open.spotify.com/album/2gjjR6rmLktToYJtGmjHEs"
+      },
+      "artists": [
+        {
+          "name": "Mindful Audio",
+          "url": "https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ambient Rain",
+      "url": "https://open.spotify.com/track/4HgrTAqOd1cc5VGoq6j0m7"
     },
     {
       "added_at": "2023-06-20 11:49:03",

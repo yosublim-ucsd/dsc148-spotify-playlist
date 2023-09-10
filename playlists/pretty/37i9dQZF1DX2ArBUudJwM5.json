@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico. \n#FestivalEQUAL \u2022 16 de septiembre \u2022 Hip\u00f3dromo de Palermo ",
-  "num_followers": 35521,
+  "num_followers": 35562,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTE3YzA5NTgzMTcxYzNkZTc5ZTE4OTgyNmUwZTg4MDE5YmZlNmMx",
+  "snapshot_id": "MCw3M2FiNTViMzBkY2JiN2E2NGRmNGU0YjRkZTA0YmYwNGU1Y2ZmODRj",
   "tracks": [
     {
       "added_at": "2023-09-07 01:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Ya No Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/2dd6EhKSO05XTFsFSb3kZp"
-      },
-      "artists": [
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
-        }
-      ],
-      "duration_ms": 152344,
-      "name": "Ya No Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/4WVtuJcQR2kknWhzQxjLr1"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "No Lo Pienses M\u00e1s",
         "url": "https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171360,
       "name": "No Lo Pienses M\u00e1s",
       "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Ya No Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/2dd6EhKSO05XTFsFSb3kZp"
+      },
+      "artists": [
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "duration_ms": 152344,
+      "name": "Ya No Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4WVtuJcQR2kknWhzQxjLr1"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Deshice De Mi",
-        "url": "https://open.spotify.com/album/4cOImL3d6M0F2hhzbiBmRa"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Deshice De Mi",
-      "url": "https://open.spotify.com/track/2ehzSpyl5zW4N6gXGJ0sXx"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Tu Mejor Plan",
         "url": "https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 183034,
       "name": "Como la Flor",
       "url": "https://open.spotify.com/track/415KSDXNeBLBGMgsu5aIWV"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Deshice De Mi",
+        "url": "https://open.spotify.com/album/4cOImL3d6M0F2hhzbiBmRa"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9mina",
+          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Deshice De Mi",
+      "url": "https://open.spotify.com/track/2ehzSpyl5zW4N6gXGJ0sXx"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
+        "name": "Lo Que Tenias Conmigo",
+        "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
+      },
+      "artists": [
+        {
+          "name": "Vanesa Britos",
+          "url": "https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "Lo Que Tenias Conmigo",
+      "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
         "name": "Resisto/Existo",
         "url": "https://open.spotify.com/album/4NoFgd1F0LhrpRe1Ej2saH"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 294951,
       "name": "Luz",
       "url": "https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
-        "name": "Lo Que Tenias Conmigo",
-        "url": "https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4"
-      },
-      "artists": [
-        {
-          "name": "Vanesa Britos",
-          "url": "https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "Lo Que Tenias Conmigo",
-      "url": "https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Mi Propia Casa",
-        "url": "https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx"
-      },
-      "artists": [
-        {
-          "name": "Noelia Recalde",
-          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
-        }
-      ],
-      "duration_ms": 149868,
-      "name": "Suponte",
-      "url": "https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 249797,
       "name": "Coraz\u00f3n Lic\u00e1ntropo",
       "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Mi Propia Casa",
+        "url": "https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx"
+      },
+      "artists": [
+        {
+          "name": "Noelia Recalde",
+          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+        }
+      ],
+      "duration_ms": 149868,
+      "name": "Suponte",
+      "url": "https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy"
     },
     {
       "added_at": "2023-09-07 01:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-09-07 01:00:00",
       "album": {
-        "name": "Adonde No Me Llaman",
-        "url": "https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB"
-      },
-      "artists": [
-        {
-          "name": "Vane Butera",
-          "url": "https://open.spotify.com/artist/6jzYBjh67umefK49gTrsmY"
-        }
-      ],
-      "duration_ms": 256416,
-      "name": "Gusto de Vos",
-      "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
-    },
-    {
-      "added_at": "2023-09-07 01:00:00",
-      "album": {
         "name": "Conviccion",
         "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 204226,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2023-09-07 01:00:00",
+      "album": {
+        "name": "Adonde No Me Llaman",
+        "url": "https://open.spotify.com/album/0BBLEDpkYzFNGt6dYd6iNB"
+      },
+      "artists": [
+        {
+          "name": "Vane Butera",
+          "url": "https://open.spotify.com/artist/6jzYBjh67umefK49gTrsmY"
+        }
+      ],
+      "duration_ms": 256416,
+      "name": "Gusto de Vos",
+      "url": "https://open.spotify.com/track/0xNGtFaZtXnA3crnTZ78gj"
     },
     {
       "added_at": "2023-09-07 01:00:00",

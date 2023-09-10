@@ -523,6 +523,28 @@
     },
     {
       "album": {
+        "name": "forevher (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        },
+        {
+          "name": "Ivy Sole",
+          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206657,
+      "name": "elevator girl ft. Ivy Sole",
+      "url": "https://open.spotify.com/track/3XFmENmCv9WRCeeDICpN5I"
+    },
+    {
+      "album": {
         "name": "FIRE ON MARZZ",
         "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
       },
@@ -1222,7 +1244,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 309403,
       "name": "Nature Compels Me",
       "url": "https://open.spotify.com/track/2xXIbixzOgrKu0r6uXZLHb"

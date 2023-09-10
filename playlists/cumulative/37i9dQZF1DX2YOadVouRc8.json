@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 149126,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0uh6nYYNadWJnos3Zg5aiM"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 175408,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/7sbjQGLQdhcMzah7MLWxRn"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 174964,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 166736,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/0brRHW86zUOI6LI0ONCuT5"
@@ -1048,6 +1048,24 @@
       "duration_ms": 218412,
       "name": "Chasing Wind",
       "url": "https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM"
+    },
+    {
+      "album": {
+        "name": "Cheers To Life.",
+        "url": "https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142135,
+      "name": "Cheers To Life",
+      "url": "https://open.spotify.com/track/35APZC4TisJJihjSDtgn3C"
     },
     {
       "album": {
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 175200,
       "name": "Go Low",
       "url": "https://open.spotify.com/track/1Y6QFTEHpsaVBSHBT7orpc"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 180715,
       "name": "Holy Pass (feat. 1da Banton)",
       "url": "https://open.spotify.com/track/11XfkUA9RygQ7UFoZ5stfH"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1Fi9F34fYmhJOwBqM1lUk8"
@@ -2367,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
+        "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
+      },
+      "artists": [
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139461,
+      "name": "Kilode",
+      "url": "https://open.spotify.com/track/01t7q7rORkWX4qjfQHeil1"
+    },
+    {
+      "album": {
         "name": "Kondo",
         "url": "https://open.spotify.com/album/2uCfT1EHCbCJPciM5D5xtL"
       },
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Love Don't Cost A Dime",
       "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
@@ -3267,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -3664,6 +3722,28 @@
       "duration_ms": 194318,
       "name": "san siro",
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
+    },
+    {
+      "album": {
+        "name": "san siro (remix)",
+        "url": "https://open.spotify.com/album/4sb3gCQUk95ciN325RAQII"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207575,
+      "name": "san siro - remix",
+      "url": "https://open.spotify.com/track/0uslkdkt54FiKvwEOOeFoH"
     },
     {
       "album": {
@@ -4334,7 +4414,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
@@ -4426,7 +4506,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 173793,
       "name": "Talk 2 Me (feat. BGRZ)",
       "url": "https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8"
@@ -5304,6 +5384,24 @@
       "duration_ms": 160000,
       "name": "Your Love - Mogbe",
       "url": "https://open.spotify.com/track/3hRxhSMgoOtUt4IucTomlM"
+    },
+    {
+      "album": {
+        "name": "Your Mind, You're Mine",
+        "url": "https://open.spotify.com/album/69IJUiVKXN7Rq4ktnJQO4t"
+      },
+      "artists": [
+        {
+          "name": "Kami Leonne",
+          "url": "https://open.spotify.com/artist/4a07x5R0svDGlzecliVGTW"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Your Mind, You're Mine",
+      "url": "https://open.spotify.com/track/7kLXpVUA53AiHFKhGqUjrx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2YOadVouRc8"

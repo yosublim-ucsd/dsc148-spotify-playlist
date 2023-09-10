@@ -566,6 +566,24 @@
     {
       "album": {
         "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
         "url": "https://open.spotify.com/album/14gKIvHuVsbf3cQVRxDOu1"
       },
       "artists": [
@@ -576,7 +594,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 233389,
       "name": "Hater",
       "url": "https://open.spotify.com/track/1vlgn36Bko8wbMBwzS4Mdr"
@@ -908,10 +926,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 215993,
       "name": "Prey for Me",
       "url": "https://open.spotify.com/track/0t2YbiX2hPMRKjQamt4kpo"
+    },
+    {
+      "album": {
+        "name": "The Paradigm Shift",
+        "url": "https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215993,
+      "name": "Prey for Me",
+      "url": "https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh"
     },
     {
       "album": {

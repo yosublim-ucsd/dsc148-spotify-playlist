@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,338 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,400 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 46 | [Kenner](https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj) | [Jovem Sam](https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [shots!](https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49) | [OCF](https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL) | 2:12 |
 | 47 | [1 Minuto](https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 2:42 |
 | 48 | [Celine \(Vestidin\)](https://open.spotify.com/track/2nzcvQ0FFdGvhQHVqtveix) | [Yamzin](https://open.spotify.com/artist/4QrqFit0q3dYCEKRklxOud), [Mal Beats](https://open.spotify.com/artist/1wYc612FBSvRvjrSd6vgUy) | [Celine \(Vestidin\)](https://open.spotify.com/album/0VnmZT3UScDREI1NuB6nDQ) | 3:01 |
-| 49 | [CAIXA DE PANDORA](https://open.spotify.com/track/6ZaUGENItZhXBsNh3AVg2C) | [Verve](https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj), [Abel](https://open.spotify.com/artist/3x7CEY7CvKZDeVLJ3XGiBw), [big silva](https://open.spotify.com/artist/4tdh6CQGlMQpwxzptw81ZZ), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [CRIME](https://open.spotify.com/album/3vzgzxt451KbKjSjCc0T4l) | 2:18 |
-| 50 | [JOIAS EM MIM](https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd) | [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [JOIAS EM MIM](https://open.spotify.com/album/79uW968vJawrpesZB3IV6Y) | 2:05 |
+| 49 | [JOIAS EM MIM](https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd) | [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o) | [JOIAS EM MIM](https://open.spotify.com/album/79uW968vJawrpesZB3IV6Y) | 2:05 |
+| 50 | [CAIXA DE PANDORA](https://open.spotify.com/track/6ZaUGENItZhXBsNh3AVg2C) | [Verve](https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj), [Abel](https://open.spotify.com/artist/3x7CEY7CvKZDeVLJ3XGiBw), [big silva](https://open.spotify.com/artist/4tdh6CQGlMQpwxzptw81ZZ), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [CRIME](https://open.spotify.com/album/3vzgzxt451KbKjSjCc0T4l) | 2:18 |
 
-Snapshot ID: `MCwzZWQxMDcwMDUxYmY1ZTljYzY1ZDRhZTExNTQ1MmJmZjdjYzQ1YWM4`
+Snapshot ID: `MCwxMmU3NTQ3MDM0NWY2OTQ0M2RjZWZmZWQ5MDhlNTU1YWFmMmEwZDM4`

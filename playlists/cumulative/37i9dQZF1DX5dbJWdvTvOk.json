@@ -9099,6 +9099,24 @@
     },
     {
       "album": {
+        "name": "Ten Eyck",
+        "url": "https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Agusti",
+          "url": "https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140296,
+      "name": "Ten Eyck",
+      "url": "https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L"
+    },
+    {
+      "album": {
         "name": "The Air Portal",
         "url": "https://open.spotify.com/album/0QhXjZGYdD92PpGsPBwTGl"
       },
@@ -10198,7 +10216,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 127575,
       "name": "Walden",
       "url": "https://open.spotify.com/track/2jea87kvmbKxK87RJbG2BS"

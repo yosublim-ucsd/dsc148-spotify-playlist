@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-311 songs - 20 hr 51 min
+312 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw) | 3:00 | 2023-08-18 |  |
 | [If Only We Could](https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc) | [Clarence Spady](https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU) | [If Only We Could](https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL) | 3:08 | 2022-01-21 | 2023-08-26 |
 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 | 2022-03-04 |  |
-| [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 | 2022-06-24 |  |
+| [In Blood](https://open.spotify.com/track/4R9G9PKBSiBN9vo0d1bBvX) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood on My Hands](https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl) | 4:05 | 2022-06-24 |  |
+| [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 | 2022-06-24 | 2023-09-10 |
 | [In My Soul](https://open.spotify.com/track/4DO9pPMq8PFhWFo4IVVveA) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [In My Soul](https://open.spotify.com/album/7K3JyQeEB3L6lmNYTkmQDr) | 4:47 | 2023-02-24 | 2023-03-18 |
 | [In The Water](https://open.spotify.com/track/23s0MmTdYCrt1lu2gxEfkU) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN), [Steve Knight](https://open.spotify.com/artist/6k6k3dePFZZJDOBRg4IxFS) | [In The Water](https://open.spotify.com/album/6Ef6vJ6k500tGlu0zDp8dK) | 4:09 | 2021-08-20 | 2023-05-06 |
 | [I’m Yours And I’m Hers](https://open.spotify.com/track/1CvB0rh0CgCi4ixnbVE6Zh) | [The Blue Quarantinos](https://open.spotify.com/artist/74IHkbIwZfF1D0bH6Usfyd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Vince Fossett Jr.](https://open.spotify.com/artist/1jV1E6qOXs9NJLH5CPk3mM) | [Phoning It In](https://open.spotify.com/album/5pGCCCUVVmfUGAZ2tz60Rd) | 3:24 | 2021-04-23 | 2022-04-23 |

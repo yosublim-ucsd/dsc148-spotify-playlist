@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Karkwa
 
-2,026 songs - 4 day 12 hr 18 min
+2,028 songs - 4 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Dans mon vieux truck](https://open.spotify.com/track/6D7rLkmngo9Rkr1ejIdhGk) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Dans mon vieux truck](https://open.spotify.com/album/7vsQCqosRjl2zDw3Llt2Rn) | 3:08 | 2023-02-17 | 2023-03-04 |
 | [Dans un fou rire](https://open.spotify.com/track/6Rnz3N2IgUJO7Hl1j8BmuJ) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Dans un fou rire](https://open.spotify.com/album/30O5UTZO0crZdklnMZpQyX) | 3:51 | 2022-01-28 | 2022-02-12 |
 | [Danser](https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Danser](https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55) | 2:56 | 2023-03-31 | 2023-04-23 |
-| [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 | 2023-07-14 |  |
+| [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 | 2023-07-14 | 2023-09-10 |
 | [Danser avec nobodé](https://open.spotify.com/track/3CMRjg9kIbzfwuiBfCNegZ) | [Bermuda](https://open.spotify.com/artist/7jIZ4xeHqq7ZJzhsHlorTe) | [Danser avec nobodé](https://open.spotify.com/album/6wnxZ6Ryr5oL4gcJtt7RPx) | 3:16 | 2022-08-19 | 2022-09-03 |
 | [Danser avec toi](https://open.spotify.com/track/2xKh3u2hY4vb4tZTp8mTDu) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/433KYyQhv0BPTEjsZIKQTO) | 3:46 | 2022-09-09 | 2022-09-24 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-04 | 2022-02-19 |
@@ -710,7 +710,7 @@
 | [Grandir](https://open.spotify.com/track/0ruriS7oaQE0j1NE0AAW3o) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Grandir](https://open.spotify.com/album/61Kjs8CGtVFQAP1qt5sSuf) | 3:22 | 2023-01-13 | 2023-01-28 |
 | [Grandir](https://open.spotify.com/track/3308grpInxZnnoOrAFTs5L) | [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Grandir](https://open.spotify.com/album/4a7JinM0L0xA1fJGTrHWOT) | 2:40 | 2022-03-11 | 2022-03-18 |
 | [Gravité](https://open.spotify.com/track/5fBkJQXG6UiwGUkZtkVMKz) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [L'EP](https://open.spotify.com/album/30Sl2MlX4q0DBQni39JFFo) | 3:17 | 2022-09-23 | 2022-10-08 |
-| [Grazie](https://open.spotify.com/track/3VqP91f5h7apVS5huW6Tbr) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Grazie](https://open.spotify.com/album/5Q239NRdV7f1dPgXgDfGPb) | 3:05 | 2023-09-08 |  |
+| [Grazie](https://open.spotify.com/track/3VqP91f5h7apVS5huW6Tbr) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Grazie](https://open.spotify.com/album/5Q239NRdV7f1dPgXgDfGPb) | 3:05 | 2023-09-08 | 2023-09-10 |
 | [Grind](https://open.spotify.com/track/6CuXSXrJ6KCvQk0CZcI9GY) | [Jeune Rebeu](https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD) | [Grind](https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ) | 3:24 | 2022-04-22 | 2022-04-29 |
 | [Gucci, Chanel](https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN) | [Réejo](https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k) | [Gucci, Chanel](https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY) | 2:13 | 2022-03-11 | 2022-03-18 |
 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 | 2023-07-21 |  |
@@ -779,6 +779,7 @@
 | [ILS ONT PÉTÉ](https://open.spotify.com/track/0CitnMiir1iHir200qSW1P) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [ILS ONT PÉTÉ](https://open.spotify.com/album/4fzJ7GccmPSdlLcnw5g6OJ) | 1:56 | 2023-03-03 | 2023-03-18 |
 | [Ils sont fous ces humains !](https://open.spotify.com/track/6C7mfquUXYvn6Oc0E5wsPN) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Astérix & Obélix : L'Empire du Milieu \(Bande originale du film\)](https://open.spotify.com/album/0mpVyFXf7wIKuSxTtZz0zz) | 3:08 | 2023-02-03 | 2023-02-18 |
 | [Ima](https://open.spotify.com/track/3rIxmFbP9Vp5B51aHgJovo) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 3:45 | 2022-05-13 | 2022-05-28 |
+| [Immonde](https://open.spotify.com/track/21QfY11V5UmQ3xZJVoK5A2) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Immonde](https://open.spotify.com/album/3x78Oog0LtAlT75BAshBZ3) | 2:42 | 2023-09-08 |  |
 | [IMPOSSIBLE](https://open.spotify.com/track/7tRsXzsC2aFqHxjL2G5p3K) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [IMPOSSIBLE](https://open.spotify.com/album/6Kkn6pR7xvow6cECJS43dL) | 2:45 | 2022-01-14 | 2022-01-29 |
 | [imposteur](https://open.spotify.com/track/0fmthwyptTgTz1uMTO5dgx) | [TESSÆ](https://open.spotify.com/artist/4Rc4ZjE8dK1b794tfc3BIt) | [imposteur](https://open.spotify.com/album/09w8Rl7ZMTReU2LFISKVcB) | 3:07 | 2022-03-25 | 2022-04-09 |
 | [IMPRÉVU](https://open.spotify.com/track/1VzTSPhN4Rxxr0Snb6DeZp) | [Fetti419](https://open.spotify.com/artist/11RdC1fF40W2kSszBDZdYi), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [IMPRÉVU](https://open.spotify.com/album/29JLXPCwEw7zU8cmSW06Fz) | 3:13 | 2022-11-18 | 2022-12-10 |
@@ -2019,6 +2020,7 @@
 | [Ça fait longtemps](https://open.spotify.com/track/5gQFRhFhFbvcEKd14RjW5o) | [Guillaume Laroche](https://open.spotify.com/artist/15mBsQXYcklrlBSrBqUXey) | [Ça fait longtemps](https://open.spotify.com/album/7DHoTpa2QK0hKd52RQ5gGi) | 3:20 | 2022-04-29 | 2022-05-07 |
 | [Ça ira](https://open.spotify.com/track/7a2jqQYzYPH3HDqhWd2fjf) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Moment / Ça ira](https://open.spotify.com/album/2vw8q1BYFjh4GCJnJQpgeD) | 3:42 | 2022-09-30 | 2022-10-15 |
 | [Ça m'manque](https://open.spotify.com/track/1C1hagvlPCvPHHB1VSOTpr) | [Rook](https://open.spotify.com/artist/22lEQdayTnrxrHGf8ddTcn) | [Ça m'manque](https://open.spotify.com/album/6X9cLJ890XkCzjJkSerTDR) | 4:02 | 2022-04-01 | 2022-04-16 |
+| [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 | 2023-09-08 |  |
 | [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 | 2023-07-21 |  |
 | [Ça va vite](https://open.spotify.com/track/0Ih1wDnAxtcaa6LTFS5SgC) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [Ça va vite](https://open.spotify.com/album/7uAnKgLJj4AaeGmustZxur) | 2:10 | 2022-07-29 | 2022-08-27 |
 | [Ça vient du south](https://open.spotify.com/track/5vfmc4DiJbuKa3nqMlQl0t) | [Mouss](https://open.spotify.com/artist/3zhPXb3F4YcYSkzwBRC3Zk), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Dj Ghxst](https://open.spotify.com/artist/6zHYC1eALaSEOF6u8C8896), [KGN16](https://open.spotify.com/artist/0kPgdfGqvMvnH7euvIejFK) | [Ça vient du south](https://open.spotify.com/album/6u1hsxuetUOsWctrCKXgNY) | 3:26 | 2022-09-23 | 2022-10-08 |

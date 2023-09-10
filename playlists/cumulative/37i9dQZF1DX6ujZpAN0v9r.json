@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Love 15",
+        "url": "https://open.spotify.com/album/5O9IHZpnD7EiZaphq7BdeV"
+      },
+      "artists": [
+        {
+          "name": "Majesty Crush",
+          "url": "https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262946,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/0jAREqpRxde4sjHfghbNGW"
+    },
+    {
+      "album": {
         "name": "I Love You in Other Cities",
         "url": "https://open.spotify.com/album/5LjqufMHmynqx9QEqWzHko"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 262946,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4TRvZ3a6QTEKbq1CsUePJp"

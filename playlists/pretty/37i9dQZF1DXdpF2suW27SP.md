@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Guga entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,458 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,519 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 19 | [Tropa do Madruga](https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Tropa do Madruga](https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY) | 3:00 |
 | 20 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 21 | [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 |
-| 22 | [Sonhos & Insónias](https://open.spotify.com/track/2UTZP10Hplfqi7xVM7Q3eW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Anthus](https://open.spotify.com/artist/7oDGURd0X10X18lblWt72f) | [Sonhos & Insónias](https://open.spotify.com/album/7dqkzYoqf4VSobWNjcHYZc) | 3:39 |
+| 22 | [Sonhos & Insónias](https://open.spotify.com/track/2UTZP10Hplfqi7xVM7Q3eW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Ghost Wayne](https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL), [Anthus](https://open.spotify.com/artist/7FXdxjdBlrUxkxji8vV322) | [Sonhos & Insónias](https://open.spotify.com/album/7dqkzYoqf4VSobWNjcHYZc) | 3:39 |
 | 23 | [41](https://open.spotify.com/track/1kg0eQ4RkEzdQTICEDthS0) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [41](https://open.spotify.com/album/0j5hj2LagmGhWKkbrHGm2X) | 3:23 |
 | 24 | [Anjos Não Falam](https://open.spotify.com/track/2l1txEhbWQ349PIo1LqPd1) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Anjos Não Falam](https://open.spotify.com/album/0C307IPUvlAySSqmddZENT) | 4:45 |
 | 25 | [Ilustre Desconhecido](https://open.spotify.com/track/1Pe2d0QHU38GivyFJnZDCO) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG) | [Ilustre Desconhecido](https://open.spotify.com/album/6MUR4xZWGeYamjJkANAXZO) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [LACAZETTE CU DELE ALLI](https://open.spotify.com/track/66ZF8N3u5bzCNfEqUAqznX) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [LACAZETTE CU DELE ALLI](https://open.spotify.com/album/06RZURNUWuzGqwnEB0H1Yi) | 3:15 |
 | 75 | [CLIMA QUENTE](https://open.spotify.com/track/4wsm6HtaiBEgSIloZzLMa0) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [CLIMA QUENTE](https://open.spotify.com/album/7zfKdOD52POCBrCFHcBF8r) | 3:44 |
 
-Snapshot ID: `MCxjZWU4YWY1ZDU4OTFiNjI1MzYzYjM0NTljYWE2OTA5MjhlZDVmMTA3`
+Snapshot ID: `MCxiMjgxZGJlMjIxYWY4YjgyNDFmNDhmMzFhZDgwZDI3OGM3MjM2NjU5`

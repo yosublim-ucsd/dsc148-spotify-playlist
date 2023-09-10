@@ -11291,6 +11291,32 @@
     },
     {
       "album": {
+        "name": "IOY",
+        "url": "https://open.spotify.com/album/55Z2F3BSSZmNZARj1fFbyN"
+      },
+      "artists": [
+        {
+          "name": "Kimi",
+          "url": "https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206100,
+      "name": "IOY",
+      "url": "https://open.spotify.com/track/6EcBVtQYaDjktpmkk4Vy4F"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -13832,7 +13858,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 168000,
       "name": "Listia",
       "url": "https://open.spotify.com/track/79QIX2MiioFy2g69hm3Dz6"

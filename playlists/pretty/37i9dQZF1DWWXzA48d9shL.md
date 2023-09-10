@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,968 likes - 109 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,459 likes - 109 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 18 | [Ivory Coast Cocktail](https://open.spotify.com/track/7rJ4JkJORGMTnGFE2hd7u3) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [KEVLAR MONEY BAGS](https://open.spotify.com/album/1zw6CTbNWXZNdHaQjRHsF2) | 2:02 |
 | 19 | [Go Through Go Run Go Get It](https://open.spotify.com/track/1WLUkD2sEoaCnQx0BXscAP) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV) | [Go Through Go Run Go Get it](https://open.spotify.com/album/5Dh2Z16FHvVYHumeO6AxC7) | 2:12 |
 | 20 | [Soul Stealer](https://open.spotify.com/track/7cTsg8KzAYHPU5lRRvUlYG) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Soul Stealer](https://open.spotify.com/album/6mmUNiogdOoskBRvMRIzi8) | 2:40 |
-| 21 | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop) | 2:37 |
+| 21 | [ghost in the shell \(feat\. SXMPRA\)](https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [ghost in the shell \(feat\. SXMPRA\)](https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop) | 2:37 |
 | 22 | [Coopa](https://open.spotify.com/track/6YbQ1QyjmMMpVVhIB6L1mg) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/5X1oPeYQy2Go8krwHEkMVY) | 1:30 |
 | 23 | [pack\-a\-punch](https://open.spotify.com/track/5uDAM1qbQSPwT8fUInBbGS) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [pack\-a\-punch](https://open.spotify.com/album/24d5tGfqYMhIZlhTwL6H3j) | 2:14 |
 | 24 | [Vacancy](https://open.spotify.com/track/2DhnysXK3DKs1e0moqcfQp) | [Tumaggz](https://open.spotify.com/artist/56kfj4Dao75l6Dfjqxvobd), [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K) | [Vacancy](https://open.spotify.com/album/1ZmkwaBB40iJlb6RWY0hnw) | 2:46 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 108 | [NEXTBOT!](https://open.spotify.com/track/0wohSgJuZJvQoMV7gMpMrT) | [HAARPER](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NEXTBOT!](https://open.spotify.com/album/5O5zv32363BkvzctGwLqyR) | 1:30 |
 | 109 | [BALL LIKE THIS](https://open.spotify.com/track/7L4mOvChiwkCZUruXj968x) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [BALL LIKE THIS](https://open.spotify.com/album/3uqHaUjyxgXQb6FD4w4LFQ) | 2:02 |
 
-Snapshot ID: `MCxhOGQ3NDE3ZDY3YTYxMGMyM2MzOGQ2NTRkM2RhMWUwNGFiY2I1MDQ2`
+Snapshot ID: `MCw5ZTRmMjk2NzI3ZTk0NzUxMDFkNDIxOTVlOGFjMTgzYjdkOTQwNjBh`

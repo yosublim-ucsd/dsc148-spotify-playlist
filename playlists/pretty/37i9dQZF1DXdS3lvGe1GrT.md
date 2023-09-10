@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,147 likes - 102 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,206 likes - 102 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 101 | [Maria](https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Greg Mendez](https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik) | 1:58 |
 | 102 | [Fire Escape](https://open.spotify.com/track/0BPpKKW9Lg5AKIagHNop77) | [Oliver Daldry](https://open.spotify.com/artist/6Oq6B8oF3HNRj9eGar1hHZ) | [Fire Escape](https://open.spotify.com/album/6TJOhu09vaSsw2PWTthQrq) | 2:30 |
 
-Snapshot ID: `MCwyZmM4ZTkzYzRhMTI5NjIyYTUzMzk1N2QzNzI4MmM0NzY1NjZlZDgx`
+Snapshot ID: `MCwzYjIyMTcyOGViODc0MjE5ZjJiMTc2NTYxMzhjMTM0OGRhNTYwYTc1`

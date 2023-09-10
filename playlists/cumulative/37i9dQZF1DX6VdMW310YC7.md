@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,519 songs - 4 day 8 hr 38 min
+1,520 songs - 4 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [Love Syndrome](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/10qeJXOm1yf9uZ4cxL5dPl) | 4:44 | 2022-07-01 | 2022-08-27 |
 | [Love Syndrome](https://open.spotify.com/track/7jja8oqBSBmUKQlqOWRY36) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:44 | 2020-03-17 | 2022-04-21 |
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-03-17 | 2022-04-20 |
+| [Loving Blind](https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl) | [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr), [ANDREWBATES](https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv) | [Loving Blind](https://open.spotify.com/album/2XvypO5sCalte148ttpNPI) | 3:36 | 2023-09-08 |  |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2020-03-20 | 2022-04-21 |
 | [Lowkey](https://open.spotify.com/track/5hp4te9BVHl3m1ZFSj62eX) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Lowkey](https://open.spotify.com/album/4PYmijWayYaKZizK3aGfNI) | 3:13 | 2021-09-10 | 2022-10-14 |
 | [Lowkey](https://open.spotify.com/track/5rMwxbfCjVHn7nEKHJP6JQ) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [The Lofi Sessions](https://open.spotify.com/album/6NeItVGlH8Q4LGDuGrLTGu) | 3:13 | 2022-09-09 | 2022-12-22 |
@@ -1228,7 +1229,7 @@
 | [Something Was Real](https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Something Was Real](https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1) | 3:42 | 2020-08-06 |  |
 | [Something, Everything](https://open.spotify.com/track/1QBCsA9ilCqLm7BcWRxqT5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Something, Everything](https://open.spotify.com/album/5o3crBnx8Z0JyXQ0rI8OE3) | 5:17 | 2021-03-14 | 2022-08-27 |
 | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/track/36fM9efnGh85CtaXe6frd4) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Sometime \(feat\. Owl Eyes\)](https://open.spotify.com/album/2kUuUnx2Oxel35bU3xtUVU) | 3:20 | 2020-03-16 | 2022-04-19 |
-| [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2020-03-21 |  |
+| [sometimes it’s scary but it’s still just you and me \- Edit](https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [sometimes it’s scary but it’s still just you and me / Need Little, Want Less](https://open.spotify.com/album/5zlNx3reLlXQj3m05Z5aAI) | 4:07 | 2020-03-21 | 2023-09-10 |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-06-24 | 2022-10-13 |
 | [Soothing Tension](https://open.spotify.com/track/06o7YdqanB0LO3gXjq4PXM) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Soothing Tension](https://open.spotify.com/album/6HGu7Q1sqdTb1hXQz6WQpY) | 3:56 | 2022-12-28 | 2023-01-06 |
 | [Soul Spiral](https://open.spotify.com/track/3Do9fwtLWSCvcGJgq7PXUB) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Soul Spiral](https://open.spotify.com/album/0lbxOCslIA34Ll8uiN2PH1) | 3:36 | 2022-04-15 | 2022-12-29 |

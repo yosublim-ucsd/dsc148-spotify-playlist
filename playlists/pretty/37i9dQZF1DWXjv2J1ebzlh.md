@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,140 likes - 1,175 songs - 3 day 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,202 likes - 1,175 songs - 3 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 50 | [Sexmachina \- Extended version](https://open.spotify.com/track/0IdlH9wYxpiveAFDwWIUim) | [Juan Laya & Jorge Montiel](https://open.spotify.com/artist/3vMQFPxFpNceoX75a5zrja) | [Afro Latin Funk](https://open.spotify.com/album/1G54DskpsPlLMknusOjmMP) | 5:44 |
 | 51 | [Mayolye \- Original Single Version](https://open.spotify.com/track/1WpPnQE7d2UUrs2AmFurP3) | [Ondeno](https://open.spotify.com/artist/3eWR8PiHtRFRTbvusT3aHm) | [Mayolye](https://open.spotify.com/album/3ibxlikE2FxhfuFxfkirGv) | 3:49 |
 | 52 | [Dari Demou'ek](https://open.spotify.com/track/4WkKXTTZuAr9QgIeTAmA6w) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:41 |
-| 53 | [អូនចង់រាំលេង](https://open.spotify.com/track/1ci1rES9fhzVcOyEOJQE39) | [Ros Sereysothea](https://open.spotify.com/artist/5mrkkChhSHMhMimmJQbKA1) | [អូនចង់រាំលេង](https://open.spotify.com/album/6ETwcbb1nU8dhpTGBnUwZi) | 3:16 |
+| 53 | [អូនចង់រាំលេង](https://open.spotify.com/track/1ci1rES9fhzVcOyEOJQE39) | [Ros Serey Sothea](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0) | [អូនចង់រាំលេង](https://open.spotify.com/album/6ETwcbb1nU8dhpTGBnUwZi) | 3:16 |
 | 54 | [Vou Morar no Teu Sorriso](https://open.spotify.com/track/1Y2FZI67wVCjFBL7OW0OcF) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Série Samba Soul](https://open.spotify.com/album/1pxr5QAAEWuWAdGVKA1cDd) | 2:30 |
 | 55 | [Eu Não Vou Mais](https://open.spotify.com/track/5tQZQAnyaSecHs6UbuDloJ) | [Ed Lincoln](https://open.spotify.com/artist/0wYxlxMUxoFfy6MxiDwTpU) | [Ed Lincoln](https://open.spotify.com/album/2XY7GAKG42EYKezC8SKuon) | 3:14 |
 | 56 | [La Chancleta](https://open.spotify.com/track/4135DZqKVjl8WnvbpyLYe9) | [Luis Santi](https://open.spotify.com/artist/0U6qTWMVscORcvp6cqysFg) | [Musica Original de Cuba](https://open.spotify.com/album/0UxNvqs0G3EuKjCZeU0ZGD) | 3:34 |
@@ -1184,4 +1184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1174 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1175 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxjZWE3NmM2Mzc1ZmY4M2FlMWIxYjA2MjFkNGQ5ODk4YzZlMzE4NTRm`
+Snapshot ID: `MCwwMjQwZGQ5MjE5MzdjNzJmZGE1MzRkYmI5N2M2ZjBkN2FmNTgxMGU1`

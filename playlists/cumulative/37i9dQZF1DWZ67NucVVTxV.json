@@ -277,6 +277,28 @@
     },
     {
       "album": {
+        "name": "All On Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "All On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm"
+    },
+    {
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/22cggFEzLwSE5qvfGGqVyJ"
       },
@@ -1512,6 +1534,24 @@
       "duration_ms": 186666,
       "name": "Daddy (feat. Chillz)",
       "url": "https://open.spotify.com/track/07mR89aGy6C9WzqShR3zfW"
+    },
+    {
+      "album": {
+        "name": "Musah Abonko Ne Nana",
+        "url": "https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Taadi",
+          "url": "https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154383,
+      "name": "Danjuma",
+      "url": "https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u"
     },
     {
       "album": {
@@ -4783,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "OOSHATIDE",
+        "url": "https://open.spotify.com/album/5TTZ4igqHmDM6CORsB3b4e"
+      },
+      "artists": [
+        {
+          "name": "OOSHA",
+          "url": "https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "OOSHATIDE",
+      "url": "https://open.spotify.com/track/7oPLuA6UwAK03WyehFQwxc"
+    },
+    {
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -6566,6 +6624,24 @@
       "duration_ms": 157760,
       "name": "Win",
       "url": "https://open.spotify.com/track/3Zcdo6A7uBR6FVecNON4SB"
+    },
+    {
+      "album": {
+        "name": "Win",
+        "url": "https://open.spotify.com/album/1olHtLGdRNuEigWCBSOlvy"
+      },
+      "artists": [
+        {
+          "name": "Mophy",
+          "url": "https://open.spotify.com/artist/0j4cqN1kRFE3fLRUxsYzlX"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138527,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/6oCXQ7IW3eH3YpImlzAs1Q"
     },
     {
       "album": {

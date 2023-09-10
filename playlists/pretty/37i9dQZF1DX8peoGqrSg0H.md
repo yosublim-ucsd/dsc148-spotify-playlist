@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: SERIOUS BACON, Whal & Dolph
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,198 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,289 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/album/2qk72LxifhUXZkIhDXGm3z) | 3:17 |
 | 3 | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/track/50xCjuk6rUUXNwqC6bQlrV) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [แป๊บนึง \(Can you stay?\)](https://open.spotify.com/album/0vxLkG4IVsAQ7lU05QXRXA) | 3:37 |
 | 4 | [จำลอง](https://open.spotify.com/track/5mCDuTHo8As0AOttQZ6WKS) | [War Wanarat](https://open.spotify.com/artist/3jDWLrSLvyA7MpfA4DshiJ), [FHERO](https://open.spotify.com/artist/71YhEh6Jh1Y7N0hkTMOGpY) | [จำลอง](https://open.spotify.com/album/6vMcdxVF7R6GRNc48CwZur) | 4:18 |
-| 5 | [Be Your Luve](https://open.spotify.com/track/2n834KRCGkngJdbDhDXMBO) | [BUILD Jakapan Puttha](https://open.spotify.com/artist/53N7nPRlifwSOVUt1wSw7x) | [Be Your Luve](https://open.spotify.com/album/6PYYMxIIDZpdGbKsya7xrL) | 3:24 |
+| 5 | [Be Your Luve](https://open.spotify.com/track/2n834KRCGkngJdbDhDXMBO) | [BUILD](https://open.spotify.com/artist/2Jp5KBkpzm1dRFal9Nlmvm) | [Be Your Luve](https://open.spotify.com/album/6PYYMxIIDZpdGbKsya7xrL) | 3:24 |
 | 6 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
 | 7 | [Barbie \(Oops! Oops!\)](https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [Barbie \(Oops! Oops!\) \- Single](https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2) | 2:56 |
 | 8 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
 | 65 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 |
 
-Snapshot ID: `MCxlNjI5MmM0Zjk3Y2VhMWVmYmRmYzM5ZDUxNTNkNDI1N2NjYTcwYWNh`
+Snapshot ID: `MCxiOTRmNzgxZmM0YjA4YWNmN2FjYzViMWJiZDc2ZmU5M2EyZDg4ODQ2`

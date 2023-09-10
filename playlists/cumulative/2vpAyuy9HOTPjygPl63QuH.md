@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,273 songs - 3 day 0 hr 37 min
+1,274 songs - 3 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,6 +1079,7 @@
 | [That's Deep](https://open.spotify.com/track/17ZjpF8IEZBGr3C1GMhKVA) | [Not The Father](https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0) | [That's Deep](https://open.spotify.com/album/2ShVCRasPcBHUWRvTEj34K) | 3:43 | 2022-08-05 | 2022-09-03 |
 | [The Beat Goes On](https://open.spotify.com/track/7drYnxXfD7VWps3Oc3947i) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [The Beat Goes On](https://open.spotify.com/album/5OAFfGqhqFbU0cVfEDB8hg) | 3:21 | 2022-10-07 | 2022-10-15 |
 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 | 2023-08-11 | 2023-08-26 |
+| [The Club](https://open.spotify.com/track/18CSj8qKB4YzW2AzYKObdI) | [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [The Club](https://open.spotify.com/album/0M7BMsiueP7bYmYl3Yii8I) | 3:18 | 2023-09-09 |  |
 | [The Cutter](https://open.spotify.com/track/24qJA3dWgakY0ZO4NDuqdl) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [The Cutter EP](https://open.spotify.com/album/7GDvuD7GXVbZ3YtYAWmb9H) | 3:20 | 2023-04-21 | 2023-04-29 |
 | [The End \- PAX Remix](https://open.spotify.com/track/7KCLc0uAZ6h1cMq4SboDkc) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [The End \(PAX Remix\)](https://open.spotify.com/album/44WgXFQCQpAXFsHGEh9qBM) | 3:23 | 2022-08-05 | 2022-09-03 |
 | [The Feeling](https://open.spotify.com/track/2qZHEtIoG4kPgQapMJfRi9) | [Rogerson](https://open.spotify.com/artist/78en4vN76hJHQn9Vf19QJu) | [The Feeling](https://open.spotify.com/album/0RR8JDCWaGzz449E8B474d) | 2:28 | 2022-12-02 | 2022-12-17 |

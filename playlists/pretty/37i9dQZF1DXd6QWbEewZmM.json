@@ -1,12 +1,12 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 247796,
+  "num_followers": 248003,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjZlZmU4NzM3MmVjZTU2MmQ0ZTE2ZjM3ZWU4YWUzMmRlZGZhZmNl",
+  "snapshot_id": "MCxmMTQ0MTVlNmY4N2Q3ZWU1Mzk1NTIzZjQ5ZDNhMGI2OWNjYTUwOGE5",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Me Hiciste un Borracho",
+        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "F\u00edjate Que S\u00ed",
+      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Me Hiciste un Borracho",
-        "url": "https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "F\u00edjate Que S\u00ed",
-      "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Mi Despedida",
-        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 196064,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+      "duration_ms": 173663,
+      "name": "Me Estoy Enamorando - en Vivo",
+      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Desde El Cant\u00f3n (en Vivo)",
-        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+        "name": "Mi Despedida",
+        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
         }
       ],
-      "duration_ms": 173663,
-      "name": "Me Estoy Enamorando - en Vivo",
-      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+      "duration_ms": 196064,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "The Life in Your Eyes",
-        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 249421,
-      "name": "Las Razones",
-      "url": "https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Solo Tu Podras",
         "url": "https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "The Life in Your Eyes",
+        "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 249421,
+      "name": "Las Razones",
+      "url": "https://open.spotify.com/track/1iYYianrZZiSmIKldBfFq9"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Perfecta En Mis Ojos",
         "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 165745,
       "name": "Perfecta En Mis Ojos",
       "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Siendo Sincero",
-        "url": "https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Siendo Sincero",
-      "url": "https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1167,22 +1151,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Good Vibes Buenas Vibras",
-        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194329,
-      "name": "Antes y Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "PDE",
         "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
@@ -1199,18 +1167,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Coraz\u00f3n Romantico",
-        "url": "https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd"
+        "name": "Good Vibes Buenas Vibras",
+        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 194822,
-      "name": "Coraz\u00f3n Romantico",
-      "url": "https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS"
+      "duration_ms": 194329,
+      "name": "Antes y Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1243,6 +1211,22 @@
       "duration_ms": 184561,
       "name": "Hablemos",
       "url": "https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Siendo Sincero",
+        "url": "https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Siendo Sincero",
+      "url": "https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Mi Nena",
-        "url": "https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF"
+        "name": "Coraz\u00f3n Romantico",
+        "url": "https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd"
       },
       "artists": [
         {
-          "name": "Nueva Conducta",
-          "url": "https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5"
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
         }
       ],
-      "duration_ms": 149603,
-      "name": "Mi Nena",
-      "url": "https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww"
+      "duration_ms": 194822,
+      "name": "Coraz\u00f3n Romantico",
+      "url": "https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 175720,
       "name": "Como Tu Quieras",
       "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Mi Nena",
+        "url": "https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Conducta",
+          "url": "https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5"
+        }
+      ],
+      "duration_ms": 149603,
+      "name": "Mi Nena",
+      "url": "https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Superando...y Mas",
-        "url": "https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7"
-      },
-      "artists": [
-        {
-          "name": "Angel Arevalo",
-          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
-        }
-      ],
-      "duration_ms": 260364,
-      "name": "Superando",
-      "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 198128,
       "name": "Esta noche",
       "url": "https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Superando...y Mas",
+        "url": "https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7"
+      },
+      "artists": [
+        {
+          "name": "Angel Arevalo",
+          "url": "https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV"
+        }
+      ],
+      "duration_ms": 260364,
+      "name": "Superando",
+      "url": "https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Neverita",
-        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 191296,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Las Preferidas, Vol. 1",
         "url": "https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 174106,
       "name": "Te Voy a Olvidar - En Vivo Desde Culican 2013",
       "url": "https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
     },
     {
       "added_at": "2023-07-28 04:00:00",

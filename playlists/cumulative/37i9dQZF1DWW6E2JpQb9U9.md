@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-284 songs - 21 hr 3 min
+285 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [El Bar de la Calle Rodney \- En Vivo](https://open.spotify.com/track/06Lb8SpBalxFjvFOD7MoCA) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Navegar Es Preciso \(En Vivo\)](https://open.spotify.com/album/4ocTAKR72ukLnPb93jRdLN) | 4:03 | 2022-06-10 | 2022-07-29 |
 | [El Cinturón Gris \- En Vivo](https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [El Cinturón Gris \(En Vivo\)](https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL) | 3:57 | 2023-07-14 |  |
 | [El Corazón Sobre Todo \- En Vivo](https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [En Vivo Gran Rex](https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ) | 4:10 | 2022-04-01 |  |
-| [El Juicio del Ganso \- En Vivo](https://open.spotify.com/track/3F0AqUi23yKEamhnjXTrSR) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Inventa un Mañana \(En Vivo\)](https://open.spotify.com/album/4UQ9lwuThqGMWNCS5UlSqF) | 5:25 | 2023-03-25 |  |
+| [El Juicio del Ganso \- En Vivo](https://open.spotify.com/track/2jCcXjx7lVhRXaYns1obr2) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Inventa un Mañana \(En Vivo\)](https://open.spotify.com/album/67OMbdtXyA15dnJ2JbR647) | 5:25 | 2023-08-31 |  |
+| [El Juicio del Ganso \- En Vivo](https://open.spotify.com/track/3F0AqUi23yKEamhnjXTrSR) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Inventa un Mañana \(En Vivo\)](https://open.spotify.com/album/4UQ9lwuThqGMWNCS5UlSqF) | 5:25 | 2023-03-25 | 2023-09-10 |
 | [El Mono Relojero \- En Vivo](https://open.spotify.com/track/2zn30N7Bp6KIS8FYXZN1yN) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¿ Mamá Dónde Estoy? \(En Vivo\)](https://open.spotify.com/album/1Yc367iy8r4EJKwyYjBLi0) | 6:47 | 2022-04-01 | 2022-07-20 |
 | [El Riesgo \(Vivo en Obras\)](https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 5:17 | 2022-04-01 | 2022-07-29 |
 | [El ritual de los pibes atentos](https://open.spotify.com/track/3a0f6rpagOVlHWWfpwhZgO) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:16 | 2022-06-10 | 2022-07-07 |

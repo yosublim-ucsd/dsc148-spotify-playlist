@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Kalia Siska
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,060 likes - 87 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,315 likes - 87 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 86 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 | 87 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 |
 
-Snapshot ID: `MCxiZDJjOGY0N2ZiZDAzMDhkNmIyYjkzYTUxNzdjYmU3NTEzNTY5ZTM5`
+Snapshot ID: `MCwyZGJlNzVjMjA2Njg5OWExNGE5OTI4MDE3MzE1ZTE1NWVjODE4NzZh`

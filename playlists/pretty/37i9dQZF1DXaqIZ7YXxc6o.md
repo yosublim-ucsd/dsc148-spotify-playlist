@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Alison Wonderland and MEMBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,563 likes - 98 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,615 likes - 98 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 42 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 |
 | 43 | [Beneath The Neon](https://open.spotify.com/track/13jQDW1uEiRCh7T0bOKxT3) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [Beneath The Neon](https://open.spotify.com/album/6Sk7vnwbO8cNX02ZyItFSr) | 4:38 |
 | 44 | [Remedy \- JKriv Disco Dub](https://open.spotify.com/track/5llhpIgQ7QMPtzPQnKQhLG) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY), [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K) | [Remedy \(JKriv Disco Dub\)](https://open.spotify.com/album/0FjRPvYxx9h4jRVGh0LHYi) | 4:12 |
-| 45 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/4DrxQj1o522Xy5X0FCB7ni) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
+| 45 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
 | 46 | [Bees](https://open.spotify.com/track/22UUH7Hevlh24CBgkOBHFK) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Bees](https://open.spotify.com/album/07vN0p57AmM75EYtkoTIwO) | 2:30 |
 | 47 | [This Love](https://open.spotify.com/track/2JWHonf4YwiBjnQZAJCWr1) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [EUROBEAT](https://open.spotify.com/artist/2kGb5lgTrOKAlEL1cn7guj), [Twkn](https://open.spotify.com/artist/77qRPtXcqSsfzxyuxKvPH3) | [This Love](https://open.spotify.com/album/6cOyo8QXy8HlCI7z3CpnuG) | 3:07 |
 | 48 | [Hip Trumpets](https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [KVISION](https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR) | [Hip Trumpets](https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4) | 3:15 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 97 | [Whine Up](https://open.spotify.com/track/1rG8opGDxjubWjluR7glgJ) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI) | [Whine Up](https://open.spotify.com/album/566bFHgvZBabTrbbInJcSl) | 2:56 |
 | 98 | [Break You Off](https://open.spotify.com/track/3QS8vnf6Xy8UOfsagGpQAz) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Break You Off](https://open.spotify.com/album/2ry8ryGJrwoIKiCUPjU87O) | 3:19 |
 
-Snapshot ID: `MCxmZjRmN2ViOGExNDViZmMxODVmNjMwNDU0YWI5ZGM3ZjNhZjQ1Zjdi`
+Snapshot ID: `MCw5MDJmOGM4YjM5OGI1NDdkMzI3MzYzNGJjODFjNGQ1MWZmZTE4MDc3`

@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-331 songs - 16 hr 8 min
+335 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Adulthood Anthem](https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Adulthood Anthem](https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky) | 2:44 | 2022-06-13 | 2023-04-15 |
 | [Al Barakah](https://open.spotify.com/track/26YA4VXGjUq8Z8ZQee9xlm) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Al Barakah](https://open.spotify.com/album/4CBcSSXGCC7q6CPYv9rigq) | 2:45 | 2023-05-19 | 2023-05-27 |
 | [Ale Yi](https://open.spotify.com/track/7G4q3FqZSngbAxGcyyHXlz) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Ale Yi](https://open.spotify.com/album/0pJnSycgzDRYVjH9dIqOYt) | 2:41 | 2021-10-08 | 2022-10-14 |
+| [All On Me \- Spotify Singles](https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [All On Me \(Spotify Singles\)](https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7) | 3:04 | 2023-09-09 |  |
 | [Anthem](https://open.spotify.com/track/2se2ioj0MpIqDl7doDHmOX) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Anthem](https://open.spotify.com/album/22cggFEzLwSE5qvfGGqVyJ) | 2:53 | 2022-09-09 | 2022-09-20 |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 |  |
 | [As I Wake Up](https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [As I Wake Up](https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3) | 3:27 | 2023-06-22 | 2023-07-14 |
@@ -83,6 +84,7 @@
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-09-10 | 2023-07-01 |
 | [Currency](https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Currency](https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT) | 2:58 | 2023-02-10 |  |
 | [Daddy \(feat\. Chillz\)](https://open.spotify.com/track/07mR89aGy6C9WzqShR3zfW) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Chillz](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Daddy \(feat\. Chillz\)](https://open.spotify.com/album/6vilHMILLgOYQ6akUYqLPo) | 3:06 | 2022-03-24 | 2022-11-05 |
+| [Danjuma](https://open.spotify.com/track/64X4sdsIErlSmK7PtbqA9u) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw) | [Musah Abonko Ne Nana](https://open.spotify.com/album/1XqsjZN6wEsM9WjSqB7LMt) | 2:34 | 2023-09-09 |  |
 | [Dawn](https://open.spotify.com/track/5VfOaSfpHD1jbS98dxr7cr) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E) | [Dawn](https://open.spotify.com/album/2yptlRK8B8OmAe9AnfuBa1) | 2:13 | 2022-09-01 | 2022-09-10 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-24 |  |
 | [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 |  |
@@ -241,6 +243,7 @@
 | [On My Grind](https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [On My Grind](https://open.spotify.com/album/2agfSDraZLcjFYoaTmf7tB) | 2:14 | 2023-03-17 | 2023-03-25 |
 | [ONIPA](https://open.spotify.com/track/2KKwU8ObJcEGD5pnFZzbcI) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/7CG7pUu4tJwzO20syeUcrb) | 2:55 | 2022-07-22 | 2022-08-06 |
 | [ONIPA \- Acoustic Version](https://open.spotify.com/track/4cpBKUEOatwGt5Z7L5ywFY) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [ONIPA](https://open.spotify.com/album/33eyXj6JBjWBiulTICXGg8) | 2:49 | 2022-10-13 | 2022-10-22 |
+| [OOSHATIDE](https://open.spotify.com/track/7oPLuA6UwAK03WyehFQwxc) | [OOSHA](https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm) | [OOSHATIDE](https://open.spotify.com/album/5TTZ4igqHmDM6CORsB3b4e) | 2:54 | 2023-09-09 |  |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 | 2023-08-04 |
 | [Oro Aje 2](https://open.spotify.com/track/7EOmj8A1Hfg26dUVE5isPc) | [Oritse Femi](https://open.spotify.com/artist/01ukVEa5Q8UkHjqgiFZsIW), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Oro Aje 2](https://open.spotify.com/album/5Z6lUHzNnX21K3t2ZSz00k) | 3:48 | 2022-08-12 | 2022-09-10 |
 | [Ototo](https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:36 | 2022-09-09 |  |
@@ -328,6 +331,7 @@
 | [Who We See](https://open.spotify.com/track/36OnfuDiPeEv3H1ubvTGuw) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Jamopyper](https://open.spotify.com/album/1BBPS3NNluXVn7x7fM5VTT) | 3:17 | 2023-07-20 | 2023-07-29 |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2021-09-17 | 2023-02-17 |
 | [Win](https://open.spotify.com/track/3Zcdo6A7uBR6FVecNON4SB) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Win](https://open.spotify.com/album/6ovQUMpjUj1ZzLaCU2PVLB) | 2:37 | 2023-02-23 | 2023-03-04 |
+| [Win](https://open.spotify.com/track/6oCXQ7IW3eH3YpImlzAs1Q) | [Mophy](https://open.spotify.com/artist/0j4cqN1kRFE3fLRUxsYzlX) | [Win](https://open.spotify.com/album/1olHtLGdRNuEigWCBSOlvy) | 2:18 | 2023-09-09 |  |
 | [Winner](https://open.spotify.com/track/759sfP7h2s5b3DSixkSAeD) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [What Matters](https://open.spotify.com/album/5YseCNQS2NjJ60eIfn1dKv) | 2:06 | 2022-09-09 | 2022-09-24 |
 | [Wire](https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Wire](https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8) | 2:24 | 2023-04-20 |  |
 | [WO WO](https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WO WO](https://open.spotify.com/album/5dZm2HzDYT22UmJzG9qfXT) | 2:35 | 2022-11-18 |  |

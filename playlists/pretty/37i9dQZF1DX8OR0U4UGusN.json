@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 182477,
+  "num_followers": 182563,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzBlNGE0NWQ0MTFjNzdhY2JjMzE4OGZhOWRlOTAxYmNmN2YxOWI4",
+  "snapshot_id": "MCw3MTkwOGRkN2YzOGIxMDNjNzQwMjc3N2FjZmE2YTg2MDVkYzYxZjc2",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Hannah (the sun)",
+        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 196796,
+      "name": "Hannah (the sun)",
+      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 250362,
       "name": "Teen Scene (ft. Buddy)",
       "url": "https://open.spotify.com/track/3cyw3MYxhpCSPMawfqdFNk"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Hannah (the sun)",
-        "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196796,
-      "name": "Hannah (the sun)",
-      "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Funny Lil Thing",
         "url": "https://open.spotify.com/album/3bIvM9B0DSigibWe7dETQU"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 137894,
       "name": "Funny Lil Thing",
       "url": "https://open.spotify.com/track/1miZjnQVLe4p6sHZiKn6P9"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 143838,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/2WVb9SfnuZ2gRIjGRBUHbx"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 145186,
       "name": "Winona",
       "url": "https://open.spotify.com/track/3VQYvYIL5KwHVz7tMLdr1n"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/5MQethd22cttCRC2uAbrjI"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 143838,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/2mAjXnUG4QJAypppi5J2lA"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Brave & Afraid",
-        "url": "https://open.spotify.com/album/3lvjqdNNA5MufpKO2mTsi6"
-      },
-      "artists": [
-        {
-          "name": "Marques Martin",
-          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
-        }
-      ],
-      "duration_ms": 220147,
-      "name": "Belles",
-      "url": "https://open.spotify.com/track/4RpoYe85npfGZ9JEzTdzx8"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Dotted Red",
         "url": "https://open.spotify.com/album/5TrQ9hmwpTTC8EdzsovHom"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+        "name": "Brave & Afraid",
+        "url": "https://open.spotify.com/album/3lvjqdNNA5MufpKO2mTsi6"
       },
       "artists": [
         {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+          "name": "Marques Martin",
+          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
         }
       ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+      "duration_ms": 220147,
+      "name": "Belles",
+      "url": "https://open.spotify.com/track/4RpoYe85npfGZ9JEzTdzx8"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1195,6 +1179,22 @@
       "duration_ms": 180570,
       "name": "Tennis Courts",
       "url": "https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Are You Living In The Real World? - EP",
-        "url": "https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 173708,
-      "name": "Looks",
-      "url": "https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Too Late (To Call)",
         "url": "https://open.spotify.com/album/1bDeGWSXxgtbjweFbvSgNz"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "frenemy",
-        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+        "name": "Are You Living In The Real World? - EP",
+        "url": "https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB"
       },
       "artists": [
         {
-          "name": "altopalo",
-          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Altopalo",
-      "url": "https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4"
+      "duration_ms": 173708,
+      "name": "Looks",
+      "url": "https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1375,6 +1359,22 @@
       "duration_ms": 196803,
       "name": "Through Tha Night",
       "url": "https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "frenemy",
+        "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
+      },
+      "artists": [
+        {
+          "name": "altopalo",
+          "url": "https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Altopalo",
+      "url": "https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 290564,
-      "name": "Cherry Pit",
-      "url": "https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 290564,
+      "name": "Cherry Pit",
+      "url": "https://open.spotify.com/track/6A99m7rCQHZ1Len8QlPfOf"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "The Year of February",
         "url": "https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 218499,
       "name": "Creaming Soda",
       "url": "https://open.spotify.com/track/0D8aqu4R2FCOtpw5WR7XWi"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Can U Meet Me There",
-        "url": "https://open.spotify.com/album/3MAhsnUPCTX3LTsaR04x5u"
-      },
-      "artists": [
-        {
-          "name": "Issadora Ava",
-          "url": "https://open.spotify.com/artist/4c4l8i28GGXPheP0HnRORl"
-        }
-      ],
-      "duration_ms": 212584,
-      "name": "Can U Meet Me There",
-      "url": "https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1615,6 +1599,22 @@
       "duration_ms": 200853,
       "name": "All My Time Is Wasted",
       "url": "https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Can U Meet Me There",
+        "url": "https://open.spotify.com/album/3MAhsnUPCTX3LTsaR04x5u"
+      },
+      "artists": [
+        {
+          "name": "Issadora Ava",
+          "url": "https://open.spotify.com/artist/4c4l8i28GGXPheP0HnRORl"
+        }
+      ],
+      "duration_ms": 212584,
+      "name": "Can U Meet Me There",
+      "url": "https://open.spotify.com/track/5mOPWc6HBo77VOztxzFh5s"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1683,18 +1683,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Thursday Friday",
-        "url": "https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN"
+        "name": "That's How It Goes",
+        "url": "https://open.spotify.com/album/5FGIQJ6gA0baXHJoMmtiX0"
       },
       "artists": [
         {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        },
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/2vFDu77B8WPAuN6gFDjfUE"
         }
       ],
-      "duration_ms": 250133,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU"
+      "duration_ms": 213809,
+      "name": "That's How It Goes",
+      "url": "https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu"
     }
   ],
   "unique_name": "omw",

@@ -1228,8 +1228,8 @@
           "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
         },
         {
-          "name": "Akylla",
-          "url": "https://open.spotify.com/artist/5Ad8YPmqQf2tay2SZ8NxWY"
+          "name": "Wolfy Lights",
+          "url": "https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z"
         },
         {
           "name": "hayve",
@@ -7711,6 +7711,28 @@
     },
     {
       "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/2TZeYGKoylpXTkHQo0BTAd"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220789,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/5itvZ19jEJVwBnhXwjKdNm"
+    },
+    {
+      "album": {
         "name": "Spector Detector",
         "url": "https://open.spotify.com/album/5APmg3wyAWbsBptjtfu28o"
       },
@@ -8636,7 +8658,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y"

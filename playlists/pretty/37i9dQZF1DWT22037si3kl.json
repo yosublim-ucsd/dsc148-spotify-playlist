@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: F\u00faria",
-  "num_followers": 124338,
+  "num_followers": 124400,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWQxMDcwMDUxYmY1ZTljYzY1ZDRhZTExNTQ1MmJmZjdjYzQ1YWM4",
+  "snapshot_id": "MCwxMmU3NTQ3MDM0NWY2OTQ0M2RjZWZmZWQ5MDhlNTU1YWFmMmEwZDM4",
   "tracks": [
     {
       "added_at": "2023-09-08 16:50:55",
@@ -1219,6 +1219,30 @@
     {
       "added_at": "2023-09-08 16:50:55",
       "album": {
+        "name": "JOIAS EM MIM",
+        "url": "https://open.spotify.com/album/79uW968vJawrpesZB3IV6Y"
+      },
+      "artists": [
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        }
+      ],
+      "duration_ms": 125892,
+      "name": "JOIAS EM MIM",
+      "url": "https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd"
+    },
+    {
+      "added_at": "2023-09-08 16:50:55",
+      "album": {
         "name": "CRIME",
         "url": "https://open.spotify.com/album/3vzgzxt451KbKjSjCc0T4l"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 138688,
       "name": "CAIXA DE PANDORA",
       "url": "https://open.spotify.com/track/6ZaUGENItZhXBsNh3AVg2C"
-    },
-    {
-      "added_at": "2023-09-08 16:50:55",
-      "album": {
-        "name": "JOIAS EM MIM",
-        "url": "https://open.spotify.com/album/79uW968vJawrpesZB3IV6Y"
-      },
-      "artists": [
-        {
-          "name": "mavyrmldy",
-          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
-        },
-        {
-          "name": "N.A.N.A.",
-          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
-        },
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        }
-      ],
-      "duration_ms": 125892,
-      "name": "JOIAS EM MIM",
-      "url": "https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd"
     }
   ],
   "unique_name": "O Drip",

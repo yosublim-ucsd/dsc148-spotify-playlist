@@ -21787,6 +21787,24 @@
     },
     {
       "album": {
+        "name": "The Club",
+        "url": "https://open.spotify.com/album/0M7BMsiueP7bYmYl3Yii8I"
+      },
+      "artists": [
+        {
+          "name": "Elternhouse",
+          "url": "https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198507,
+      "name": "The Club",
+      "url": "https://open.spotify.com/track/18CSj8qKB4YzW2AzYKObdI"
+    },
+    {
+      "album": {
         "name": "The Cutter EP",
         "url": "https://open.spotify.com/album/7GDvuD7GXVbZ3YtYAWmb9H"
       },

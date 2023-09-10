@@ -3651,7 +3651,7 @@
     },
     {
       "album": {
-        "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+        "name": "ghost in the shell (feat. SXMPRA)",
         "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
       },
       "artists": [
@@ -3660,19 +3660,19 @@
           "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
         },
         {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
           "name": "KAMAARA",
           "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         }
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157407,
-      "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+      "name": "ghost in the shell (feat. SXMPRA)",
       "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
     },
     {

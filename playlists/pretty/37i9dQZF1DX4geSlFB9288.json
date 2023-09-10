@@ -1,12 +1,12 @@
 {
   "description": "Indie music to keep your gaming session properly soundtracked. ",
-  "num_followers": 670226,
+  "num_followers": 670512,
   "original_name": "Indie Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGJjMjc5ZWUxOTRiYjQyMmQ1NDk4NTg0ZTYxMTI5NzVkYTJjNTU1",
+  "snapshot_id": "MCwxYTkzMjhmOGUwZmM1N2Y3NThmMDliMWU5ZDliYmI4ZGIyM2U1ZjMy",
   "tracks": [
     {
       "added_at": "2023-06-09 18:21:40",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-09 18:21:40",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l"
-      },
-      "artists": [
-        {
-          "name": "Bedroom",
-          "url": "https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe"
-        }
-      ],
-      "duration_ms": 354691,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp"
-    },
-    {
-      "added_at": "2023-06-09 18:21:40",
-      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
+    },
+    {
+      "added_at": "2023-06-09 18:21:40",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l"
+      },
+      "artists": [
+        {
+          "name": "Bedroom",
+          "url": "https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe"
+        }
+      ],
+      "duration_ms": 354691,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp"
     },
     {
       "added_at": "2023-06-09 18:21:40",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-09 18:21:40",
       "album": {
-        "name": "Invitation to Her's",
-        "url": "https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 211165,
-      "name": "Harvey",
-      "url": "https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg"
-    },
-    {
-      "added_at": "2023-06-09 18:21:40",
-      "album": {
         "name": "The Wisp Sings",
         "url": "https://open.spotify.com/album/4KvzpS3WSxlafB0psUNwfV"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 313252,
       "name": "The Wisp Sings",
       "url": "https://open.spotify.com/track/008McaJl3WM1UqxxVie9BP"
+    },
+    {
+      "added_at": "2023-06-09 18:21:40",
+      "album": {
+        "name": "Invitation to Her's",
+        "url": "https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 211165,
+      "name": "Harvey",
+      "url": "https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg"
     },
     {
       "added_at": "2023-06-09 18:21:40",

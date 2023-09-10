@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=7587eb4fd9b141f9\">KB</a>",
-  "num_followers": 135262,
+  "num_followers": 135373,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGVmNjhhMzEyZjU2ZTg4OWJlZTFiN2EyMmEwNmQ0MTYyN2M1YzBm",
+  "snapshot_id": "MCw3NTRkMzYyZDAyM2EwNzFiYzM5NDc3NjA4M2RkMTU3NDkzNWY5YWY5",
   "tracks": [
     {
       "added_at": "2023-08-25 12:34:43",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "MVP",
-        "url": "https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 127905,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/00uwU1dENamylOgeLh2ask"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "God Had Other Plans",
         "url": "https://open.spotify.com/album/6JRzQqL0lB9lfozC4OZXRd"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 123375,
       "name": "God Had Other Plans",
       "url": "https://open.spotify.com/track/1vRmUeWtU33b7NbNnpPhLc"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 127905,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/00uwU1dENamylOgeLh2ask"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -559,26 +559,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Allegiance",
-        "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
         },
         {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
         }
       ],
-      "duration_ms": 183043,
-      "name": "Allegiance",
-      "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
+      "duration_ms": 160941,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -643,26 +639,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/5NYaJAEfV6DHTpOjVLnq75"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "JUDAS",
         "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 100587,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "Allegiance",
+        "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "Allegiance",
+      "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -711,26 +711,18 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Stay Low",
-        "url": "https://open.spotify.com/album/1VJi0mAyEF2VG0V8Gp1d5I"
+        "name": "For Kanye",
+        "url": "https://open.spotify.com/album/65VugZKk4WpMv1QnIkenOQ"
       },
       "artists": [
         {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        },
-        {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        },
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
         }
       ],
-      "duration_ms": 197504,
-      "name": "Stay Low",
-      "url": "https://open.spotify.com/track/6ukXI3mLkRXwTbf3KxwqAR"
+      "duration_ms": 137027,
+      "name": "For Kanye",
+      "url": "https://open.spotify.com/track/1tZl3gUVPmR8APqBrQn7i6"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -763,6 +755,30 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "Stay Low",
+        "url": "https://open.spotify.com/album/1VJi0mAyEF2VG0V8Gp1d5I"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
+        {
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 197504,
+      "name": "Stay Low",
+      "url": "https://open.spotify.com/track/6ukXI3mLkRXwTbf3KxwqAR"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "For Kanye",
-        "url": "https://open.spotify.com/album/65VugZKk4WpMv1QnIkenOQ"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 137027,
-      "name": "For Kanye",
-      "url": "https://open.spotify.com/track/1tZl3gUVPmR8APqBrQn7i6"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 251306,
       "name": "Life I Chose (feat. 2J Mako & GQ Dasteppa)",
       "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "Everyone Loves A Comeback Story",
         "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
       },
@@ -1003,22 +987,18 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/1VhItGSjs8QApj21BtFVJC"
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
       },
       "artists": [
         {
-          "name": "Dkg Kie",
-          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 170501,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/0R16opTLpo7bsw0V2pHeJu"
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1043,22 +1023,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/5cZ6RmL0JMRTWGiYNmCNuX"
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/1VhItGSjs8QApj21BtFVJC"
       },
       "artists": [
         {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+          "name": "Dkg Kie",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
         },
         {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 248215,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/4sbRvjSf9MBMtdTkvHjneL"
+      "duration_ms": 170501,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/0R16opTLpo7bsw0V2pHeJu"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1075,6 +1055,26 @@
       "duration_ms": 137380,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/26spj3QxWWw8xy78s7uGx1"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/5cZ6RmL0JMRTWGiYNmCNuX"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        },
+        {
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        }
+      ],
+      "duration_ms": 248215,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4sbRvjSf9MBMtdTkvHjneL"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Don't Worry 'Bout It",
-        "url": "https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Don't Worry 'Bout It",
-      "url": "https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "NEW HOLLYWOOD",
         "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "Don't Worry 'Bout It",
+        "url": "https://open.spotify.com/album/46QkEXIVDELyT1FtawqLpv"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Don't Worry 'Bout It",
+      "url": "https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "Ficky Ficky",
         "url": "https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Rich Friends",
-        "url": "https://open.spotify.com/album/1iNms5ShhMsWhC7k9lLa07"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Rich Friends",
-      "url": "https://open.spotify.com/track/7e6ToLxecnfajWwIttmASN"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "Help!",
         "url": "https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 157954,
       "name": "Help!",
       "url": "https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "Rich Friends",
+        "url": "https://open.spotify.com/album/1iNms5ShhMsWhC7k9lLa07"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Rich Friends",
+      "url": "https://open.spotify.com/track/7e6ToLxecnfajWwIttmASN"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
+        "name": "ON THA SEAT",
+        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
+      },
+      "artists": [
+        {
+          "name": "adriansings",
+          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "ON THA SEAT",
+      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 158508,
       "name": "After",
       "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
-        "name": "ON THA SEAT",
-        "url": "https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk"
-      },
-      "artists": [
-        {
-          "name": "adriansings",
-          "url": "https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "ON THA SEAT",
-      "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "L",
-        "url": "https://open.spotify.com/album/6Tx1PIZy8fS28sxPtKIjRL"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "L",
-      "url": "https://open.spotify.com/track/1ZrmC67tOnkAv5dGl2ixxL"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "In My Bible, In My Bag (Remix)",
         "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 235404,
       "name": "In My Bible, In My Bag - Remix",
       "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "L",
+        "url": "https://open.spotify.com/album/6Tx1PIZy8fS28sxPtKIjRL"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "L",
+      "url": "https://open.spotify.com/track/1ZrmC67tOnkAv5dGl2ixxL"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "His Side",
         "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "PEACE OF MIND",
-        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 207876,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 116363,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/6RXQbHsV0dAIpQRrkGKq5n"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "PEACE OF MIND",
+        "url": "https://open.spotify.com/album/5QbUbmlbHdRAnNT3fhAWwZ"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 207876,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/0nPTcCYwX5ObfRk4crSy0d"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0YFfb5QYJrdbeSEqPSmdRo"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 186383,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/03hQRnlKSJvfICRvTXAZLO"
-    },
-    {
-      "added_at": "2023-08-25 12:34:43",
-      "album": {
         "name": "RIGHT NOW",
         "url": "https://open.spotify.com/album/2A0L5NLUV0X56PZqDQtrIE"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+        "name": "INSTAGRAM ISN'T GOD",
+        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
         }
       ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
+      "duration_ms": 187508,
+      "name": "INSTAGRAM ISN'T GOD",
+      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1843,18 +1827,18 @@
     {
       "added_at": "2023-08-25 12:34:43",
       "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/7xeuHzljVGvqSa5cSzIq9q"
+        "name": "Dreams Don't Have Deadlines",
+        "url": "https://open.spotify.com/album/7qiaDWqCWiYjCSwJEcjW45"
       },
       "artists": [
         {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 182831,
-      "name": "Worship",
-      "url": "https://open.spotify.com/track/41odVDieeX0RhIimwLjgGk"
+      "duration_ms": 159469,
+      "name": "MOUNTAINS",
+      "url": "https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD"
     },
     {
       "added_at": "2023-08-25 12:34:43",
@@ -1875,6 +1859,22 @@
       "duration_ms": 158709,
       "name": "Go",
       "url": "https://open.spotify.com/track/6UCnERki2oEkXahKsfXVHU"
+    },
+    {
+      "added_at": "2023-08-25 12:34:43",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     }
   ],
   "unique_name": "The Flow",

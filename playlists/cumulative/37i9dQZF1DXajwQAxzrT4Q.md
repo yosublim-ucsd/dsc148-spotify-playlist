@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-281 songs - 11 hr 24 min
+282 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,12 +256,13 @@
 | [Steal Her Man Challenge \- Jersey Club Remix](https://open.spotify.com/track/190zaR6qDDMlnKYuALGGV3) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [Steal Her Man Challenge \(Jersey Club Remix\)](https://open.spotify.com/album/5VmcZn4uKZQWv8TdRHrVN5) | 1:44 | 2022-07-22 | 2023-08-28 |
 | [Sticky](https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 4:03 | 2022-06-21 |  |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-12-30 | 2023-01-06 |
+| [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 | 2023-09-08 |  |
 | [SuperBad \- Jersey Club Remix](https://open.spotify.com/track/1uRswTqUtGeuAZHEe4jG0p) | [Dmelz](https://open.spotify.com/artist/1blYLoeVh3GFXYz83uyvrK), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [SuperBad \(Jersey Club Remix\)](https://open.spotify.com/album/6omk1I2LEfKgEOIDg8OybN) | 2:03 | 2022-02-11 | 2022-07-29 |
 | [Swamp Life Anthem \- DJ Jayhood Jersey Club Remix](https://open.spotify.com/track/7fvZE1Ryvpqknz1buRZDDj) | [SWAMPLIFETERRY](https://open.spotify.com/artist/7vIPf48FaSPvxaYD4N1r4i), [337Mayhem](https://open.spotify.com/artist/3OHH2dQjcWIdx65HgQvRJG), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Swamp Life Anthem \(DJ Jayhood Jersey Club Remix\)](https://open.spotify.com/album/73MVESpvv1oLqSateO2ysa) | 1:53 | 2022-02-11 | 2022-07-06 |
 | [Switch](https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Switch](https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC) | 2:46 | 2022-12-30 | 2023-01-06 |
 | [Take Me Somewhere](https://open.spotify.com/track/7H7OC2u9UODzNifLt8uAkN) | [Tonee Marino](https://open.spotify.com/artist/21UFN5zFxnMGuYahHjcd0p) | [Take Me Somewhere](https://open.spotify.com/album/4htNruvVbTGIAQk4o37NRc) | 2:33 | 2022-09-16 | 2022-12-31 |
 | [Team Lilman Anthem](https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW) | [DJ LILMAN](https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi) | [Team Lilman Anthem](https://open.spotify.com/album/7keNPILEHzrizAaBpDTH2l) | 2:58 | 2022-02-11 |  |
-| [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 | 2023-09-01 |  |
+| [The 90s Lied To Us](https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ) | [Dave Childz](https://open.spotify.com/artist/7isyse6k2xFXsZLAE7gwdk) | [The 90s Lied To Us](https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95) | 1:43 | 2023-09-01 | 2023-09-10 |
 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 | 2023-05-26 |  |
 | [TON1GHT \- Jersey Club](https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m) | [KilSoSouth](https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N) | [TON1GHT](https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo) | 1:34 | 2022-12-30 |  |
 | [Touch Them Hips](https://open.spotify.com/track/19lGJuMdZlzaJWPZGCVkq1) | [MikeOnaBeat](https://open.spotify.com/artist/7E69M6L0stZyhtvGzz2nH3) | [Sounds From The 6, Vol\. 4](https://open.spotify.com/album/5REoMVLTZtSPLmfMAngyHv) | 1:24 | 2022-12-30 | 2023-01-06 |

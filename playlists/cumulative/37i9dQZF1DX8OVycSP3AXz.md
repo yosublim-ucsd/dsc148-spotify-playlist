@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-95 songs - 4 hr 14 min
+98 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/0q4gNGS2rCxzbpiJvE7R2D) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Tendres Annees](https://open.spotify.com/album/5ka3kH5QiNRqPJr0HvTSmY) | 2:24 | 2022-06-28 | 2022-07-29 |
 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/5uplCXh4kyfX3JnC8t76Cd) | 2:24 | 2022-06-28 |  |
 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/3v2OihRftMdzfWpNpQ1AD5) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:24 | 2022-06-28 | 2022-11-14 |
-| [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 | 2021-07-26 |  |
+| [Demain tu te maries](https://open.spotify.com/track/0Aziek43A42InI3fZgORWf) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Les années 60, Vol\. 2](https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom) | 2:54 | 2022-06-28 |  |
+| [Demain tu te maries](https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh) | [Patricia Carli](https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3) | [Tendres Annees](https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG) | 2:55 | 2021-07-26 | 2023-09-10 |
 | [Et moi, et moi, et moi](https://open.spotify.com/track/4XSRqScl0RWxFjOQID8QCW) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Et moi, et moi, et moi](https://open.spotify.com/album/3UPrsSEE9KIjy0Hln8Swkn) | 2:55 | 2021-07-26 |  |
 | [Harley Davidson](https://open.spotify.com/track/0wXKL7dVWwl8LZjbhKMGPr) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot Show 67](https://open.spotify.com/album/0uhqJFy7MI5yJHdgofylnN) | 2:28 | 2021-07-26 |  |
 | [Il a le Truc](https://open.spotify.com/track/70fuO7PxNJXxtApu6Vki8e) | [Les Gam's](https://open.spotify.com/artist/5yj1bCBGvwhFRgYuKZgHqa) | [Les Gam's](https://open.spotify.com/album/6ktDHC59EX6rpC3RFjFCIW) | 2:28 | 2021-07-26 |  |
@@ -64,7 +65,8 @@
 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [A Nashville](https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq) | 2:29 | 2022-06-28 |  |
 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/63kzVzdblx4FzGx3ctmTPn) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Le meilleur des années RCA](https://open.spotify.com/album/0hDBBVDvifGDR3HXujYthJ) | 2:33 | 2022-06-28 | 2022-11-13 |
 | [La Plus Belle Pour Aller Danser](https://open.spotify.com/track/5iJRjhwDCnhLBoGLrXr0jj) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Sylvie Vartan](https://open.spotify.com/album/0ZXogrtxGD1Uz4CrlcoAmp) | 2:36 | 2021-07-26 | 2022-07-29 |
-| [Laisse tomber les filles](https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Best Of](https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u) | 2:07 | 2021-07-26 |  |
+| [Laisse tomber les filles](https://open.spotify.com/track/6E8UbIEeB01Op5PAuP5cyn) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Les années 60, Vol\. 3 \(Les plus belles chansons\)](https://open.spotify.com/album/6fMDDEdR5nenBrVBNXHuUe) | 2:05 | 2022-06-28 |  |
+| [Laisse tomber les filles](https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Best Of](https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u) | 2:07 | 2021-07-26 | 2023-09-10 |
 | [Laisse tomber les filles](https://open.spotify.com/track/0mU8byD07n6FLEOqxRJcz1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 2:13 | 2022-06-28 | 2022-08-03 |
 | [Le petit pain au chocolat](https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 3:23 | 2022-06-28 |  |
 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 | 2022-06-28 |  |
@@ -95,7 +97,8 @@
 | [Souvenirs, souvenirs](https://open.spotify.com/track/1DDdDbmbEDsFXEXgxBmvFQ) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Souvenirs, Souvenirs](https://open.spotify.com/album/55wZUMJJK62Yb1QoQK7imL) | 2:09 | 2021-07-26 |  |
 | [Tous les garçons et les filles \- Slow](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 | 2021-07-26 | 2022-06-29 |
 | [Twist à Saint\-Tropez](https://open.spotify.com/track/5zUJlRQyzxw09Jv1hDgL5h) | [Les Chats Sauvages](https://open.spotify.com/artist/60U5Nsvpj5mJics5PcIkmd), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Est\-ce que tu le sais ? \(avec Dick Rivers\)](https://open.spotify.com/album/2eusU9U7fLiHhsQwoiFiou) | 1:44 | 2021-07-26 |  |
-| [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 | 2021-07-26 |  |
+| [Un verre de whisky](https://open.spotify.com/track/6mWJLNSVLNJDa2f0Quqa3X) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Les années 60, Vol\. 2](https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom) | 2:11 | 2022-06-28 |  |
+| [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 | 2021-07-26 | 2023-09-10 |
 | [Viens danser le twist](https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:04 | 2022-06-28 |  |
 | [Viens danser le twist](https://open.spotify.com/track/0CibYO3SSIBM8skoXwHKpr) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Viens danser le Twist \(Stéréo\)](https://open.spotify.com/album/6FFZtB7pXVbL13lxNH1VQA) | 2:06 | 2021-07-26 | 2022-07-29 |
 | [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 | 2021-07-26 |  |

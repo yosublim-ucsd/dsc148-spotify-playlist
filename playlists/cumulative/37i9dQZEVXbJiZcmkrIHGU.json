@@ -1627,6 +1627,28 @@
     },
     {
       "album": {
+        "name": "Airplanes",
+        "url": "https://open.spotify.com/album/6jBdckldnGZlXigVcXCOFJ"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146367,
+      "name": "Airplanes",
+      "url": "https://open.spotify.com/track/2LCoh1sop5AYzRBVDHFoiK"
+    },
+    {
+      "album": {
         "name": "AK47",
         "url": "https://open.spotify.com/album/4T8PEmwNJ0HxNoJXTJqGZc"
       },
@@ -3536,7 +3558,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3824,7 +3846,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 180468,
       "name": "Baile Funk im Blut",
       "url": "https://open.spotify.com/track/75DdaV9r56VZiSpXh8fsUY"
@@ -5793,6 +5815,32 @@
     },
     {
       "album": {
+        "name": "BONITA (feat. AJ Tracey)",
+        "url": "https://open.spotify.com/album/2bUmjs7QowhsDpdl8JpBZZ"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162295,
+      "name": "BONITA (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/6HEto05GbTMwdbE68M3kXU"
+    },
+    {
+      "album": {
         "name": "Book of OL",
         "url": "https://open.spotify.com/album/5xgPgmL57ap3TYaA0rRvjE"
       },
@@ -7330,6 +7378,24 @@
       "duration_ms": 166095,
       "name": "COACHELLA",
       "url": "https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur"
+    },
+    {
+      "album": {
+        "name": "COBAIN",
+        "url": "https://open.spotify.com/album/1bLh1ak5jSr1dboeOUCdwV"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134772,
+      "name": "COBAIN",
+      "url": "https://open.spotify.com/track/20WdZJAVbKz9728zTCJgD0"
     },
     {
       "album": {
@@ -13581,6 +13647,28 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/3ZFFsBfumTn6a9O02rbZR7"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178185,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/4pIm5Jysk3jlthetctdmpe"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
         "url": "https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6"
       },
@@ -14136,6 +14224,24 @@
       "duration_ms": 138679,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/2d9YQoVZbqZEN4xhhFzvgK"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "album": {
@@ -17524,7 +17630,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
@@ -18651,6 +18757,24 @@
     },
     {
       "album": {
+        "name": "JEMAND",
+        "url": "https://open.spotify.com/album/1IMcISBruHEv9ASGzUvtA5"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143348,
+      "name": "JEMAND",
+      "url": "https://open.spotify.com/track/0XItXqnWKUDwCdRJQIPxyg"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -18956,7 +19080,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 152053,
       "name": "Kal Yanimda",
       "url": "https://open.spotify.com/track/6UjSMW9LNAfLnzMKBvIHNh"
@@ -19720,6 +19844,28 @@
       "duration_ms": 135735,
       "name": "KILL KILL",
       "url": "https://open.spotify.com/track/7o3GaH0I5jwxnb0fb3qMQU"
+    },
+    {
+      "album": {
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN"
     },
     {
       "album": {
@@ -23100,7 +23246,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 134887,
       "name": "Mangos mit Chili",
       "url": "https://open.spotify.com/track/7AyE8MRf4dIK75mqqpks9S"
@@ -24334,7 +24480,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 167960,
       "name": "Mir geht's gut :):",
       "url": "https://open.spotify.com/track/77mILV6S1Tn90DC03KEcjP"
@@ -24696,6 +24842,32 @@
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
+        "name": "XV RR Edition",
+        "url": "https://open.spotify.com/album/59hTQYAgwGFMGPbpZbAfNQ"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145659,
+      "name": "Model",
+      "url": "https://open.spotify.com/track/6BP4R5ZP7UhLgZUhfs2bFu"
     },
     {
       "album": {
@@ -29560,7 +29732,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -32634,7 +32806,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 142946,
       "name": "Schwarzes Herz",
       "url": "https://open.spotify.com/track/7pxyUIf4168eTcdry0kFue"
@@ -36031,6 +36203,24 @@
     },
     {
       "album": {
+        "name": "Telefon ohne Kabel \ud83d\udcde",
+        "url": "https://open.spotify.com/album/3ayMb52bUtPOaPmIZPST16"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122512,
+      "name": "Telefon ohne Kabel \ud83d\udcde",
+      "url": "https://open.spotify.com/track/5fxOUNN2WR7X0mklupRxaV"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -37680,7 +37870,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 198495,
       "name": "Unendlichkeit",
       "url": "https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H"
@@ -38114,6 +38304,24 @@
       "duration_ms": 203000,
       "name": "Vamos a Marte (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/06sSAsjNx4eJawyXY3SXgB"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "album": {
@@ -40228,7 +40436,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

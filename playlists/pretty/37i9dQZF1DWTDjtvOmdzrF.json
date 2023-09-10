@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 567190,
+  "num_followers": 567410,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTNiZmRjYWI3YjllOWZmMjExOGJjZWNiMWRlMDUyN2YwOTRmOWY5",
+  "snapshot_id": "MCw5ZWZhYTMyNTk0NDIxNDc1NzY4ODhjNjc1MmVlNzMwZjZkNDdjYTFm",
   "tracks": [
     {
       "added_at": "2023-08-30 06:53:21",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
+        "name": "Perspektif",
+        "url": "https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 220851,
+      "name": "L",
+      "url": "https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
         "name": "Seamin Tak Seiman",
         "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
-        "name": "Perspektif",
-        "url": "https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 220851,
-      "name": "L",
-      "url": "https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 239466,
       "name": "Gajah",
       "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 260003,
+      "name": "Kusut",
+      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
     },
     {
       "added_at": "2023-08-30 06:53:21",
@@ -1215,22 +1231,6 @@
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 260003,
-      "name": "Kusut",
-      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
     },
     {
       "added_at": "2023-08-30 06:53:21",

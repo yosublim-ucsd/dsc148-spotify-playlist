@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: BOYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,337 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,440 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [Freaky U](https://open.spotify.com/track/1GkbHdoS4SjM9X6mg4d9Wp) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Freaky U](https://open.spotify.com/album/5gZNpW5BCKqkI9CBsbxW5E) | 2:36 |
 | 51 | [LOLO](https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LOLO](https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3) | 2:22 |
 
-Snapshot ID: `MCwxNzY1NWJjNWZlMDVjNjRkMDc4YTAxOTUzZWQ2NDQzYjliNTlhOTUw`
+Snapshot ID: `MCwwNDZjNjgzYzUzMjk0ZDI3MWQ2MWYwOGI1ZjgyY2VmMThlZTJkYTNi`

@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 9592,
+  "num_followers": 9600,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzU4ZTg4MGMwM2EzOTI1Mjc2ZjI0OTMwNGU5MDBiN2MzOTc5MzQ5",
+  "snapshot_id": "MCw0NGZkMjNkM2JjODU1YmI3Zjg0MmYzOTA3OGM2OWU0NDliZDZmMTYw",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -163,22 +163,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "Sonny Boy Williamson Vol. 1 (1937 - 1938)",
+        "url": "https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Sonny Boy Williamson I",
+          "url": "https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4"
         }
       ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+      "duration_ms": 153260,
+      "name": "Got The Bottle Up And Gone",
+      "url": "https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -199,18 +195,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Sonny Boy Williamson Vol. 1 (1937 - 1938)",
-        "url": "https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
         {
-          "name": "Sonny Boy Williamson I",
-          "url": "https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 153260,
-      "name": "Got The Bottle Up And Gone",
-      "url": "https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO"
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -479,18 +479,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+        "name": "Whoopin'",
+        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
       },
       "artists": [
         {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+          "name": "Sonny Terry",
+          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
         }
       ],
-      "duration_ms": 217160,
-      "name": "Down Home Shake-Down",
-      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
+      "duration_ms": 286693,
+      "name": "Sonny's Whoopin' The Doop",
+      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -531,18 +531,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Whoopin'",
-        "url": "https://open.spotify.com/album/18VA8US97hZKDnkJQTKfmA"
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
       "artists": [
         {
-          "name": "Sonny Terry",
-          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 286693,
-      "name": "Sonny's Whoopin' The Doop",
-      "url": "https://open.spotify.com/track/5lBRVkZlET9bscUXoeDwuk"
+      "duration_ms": 217160,
+      "name": "Down Home Shake-Down",
+      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -563,6 +563,22 @@
       "duration_ms": 362486,
       "name": "Jason Solo",
       "url": "https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Sonny Is King",
+        "url": "https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry",
+          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "One Monkey Don't Stop The Show",
+      "url": "https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -599,22 +615,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Alone With The Blues",
-        "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
-      },
-      "artists": [
-        {
-          "name": "Keith Dunn",
-          "url": "https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Need To Make A Dollar",
-      "url": "https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Flash Forward",
         "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 219560,
       "name": "Going Back To Alabama",
       "url": "https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Alone With The Blues",
+        "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
+      },
+      "artists": [
+        {
+          "name": "Keith Dunn",
+          "url": "https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Need To Make A Dollar",
+      "url": "https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -671,38 +687,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Abolutely the Best: The Complete Jewel Singles 1965-1972",
-        "url": "https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ"
-      },
-      "artists": [
-        {
-          "name": "Jerry \"Boogie\" McCain",
-          "url": "https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "Honky Tonk Parts 1 & 2",
-      "url": "https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Sonny Is King",
-        "url": "https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry",
-          "url": "https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "One Monkey Don't Stop The Show",
-      "url": "https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Dirty Memory",
         "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 217376,
       "name": "Can't Believe It's This Good",
       "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Abolutely the Best: The Complete Jewel Singles 1965-1972",
+        "url": "https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ"
+      },
+      "artists": [
+        {
+          "name": "Jerry \"Boogie\" McCain",
+          "url": "https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "Honky Tonk Parts 1 & 2",
+      "url": "https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0"
     },
     {
       "added_at": "2020-10-22 17:19:34",

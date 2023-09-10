@@ -26741,24 +26741,6 @@
     },
     {
       "album": {
-        "name": "\uacb0\uad6d (Love is Pain)",
-        "url": "https://open.spotify.com/album/09rm6D55oanJigmRYytant"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "date_added": "2023-09-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185000,
-      "name": "Love is Pain",
-      "url": "https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo"
-    },
-    {
-      "album": {
         "name": "Love Is The New Money",
         "url": "https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S"
       },
@@ -55450,6 +55432,24 @@
       "duration_ms": 253364,
       "name": "\u9be8\u306e\u5b50",
       "url": "https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg"
+    },
+    {
+      "album": {
+        "name": "\uacb0\uad6d (Love is Pain)",
+        "url": "https://open.spotify.com/album/09rm6D55oanJigmRYytant"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\uacb0\uad6d (Love is Pain)",
+      "url": "https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA"

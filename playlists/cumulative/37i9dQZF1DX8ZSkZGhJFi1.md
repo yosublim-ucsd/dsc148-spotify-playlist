@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-552 songs - 22 hr 35 min
+553 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Done](https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Done](https://open.spotify.com/album/6HrXUyuJx3BDKQkrF2l1s8) | 2:21 | 2023-09-08 |  |
 | [Donnie DarKo](https://open.spotify.com/track/2KGATOvaBe8tw2hvB2Suc1) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Donnie DarKo](https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG) | 2:14 | 2022-02-17 | 2023-09-09 |
 | [Dope](https://open.spotify.com/track/1lPk06VsnBj2v5fw7rtfQe) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Dope](https://open.spotify.com/album/4M78MUiR59VODOKV4QyEqh) | 2:30 | 2023-09-08 |  |
-| [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2023-09-08 |  |
+| [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2023-09-08 | 2023-09-10 |
 | [Downtown](https://open.spotify.com/track/4HQMQg5DhjhKm1JYbapAaf) | [ima daydreamer](https://open.spotify.com/artist/3AaF9d1txKKmgmYy2Gk6Hg) | [Downtown](https://open.spotify.com/album/0wS75GQb2h6oOJm0sRpEL9) | 2:07 | 2022-02-17 | 2023-09-09 |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2023-09-08 |  |
 | [Dreamscape](https://open.spotify.com/track/2cT8K8V4SvjgmbStnuByyi) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Dreamscape](https://open.spotify.com/album/41G0RJiWG8KIzsmhxWRO9Y) | 2:34 | 2023-09-08 |  |
@@ -456,6 +456,7 @@
 | [Summer Stained](https://open.spotify.com/track/3HiLkwp0J0uDr2aiEfRHcW) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Summer Stained](https://open.spotify.com/album/3E4UO3JT5jSozGAwiFLpJF) | 2:40 | 2022-02-17 | 2023-09-09 |
 | [Summertimes](https://open.spotify.com/track/1t8fB7vpw6WY82MzzSu5EC) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:44 | 2022-02-17 | 2023-09-09 |
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2023-09-08 |  |
+| [Sunday](https://open.spotify.com/track/71e14NqXbs73muybtabMjJ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunday](https://open.spotify.com/album/2GY7OcR4K6JftC80zFMrK0) | 3:48 | 2023-09-08 |  |
 | [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2023-09-08 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2023-09-08 |  |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2023-09-08 |  |

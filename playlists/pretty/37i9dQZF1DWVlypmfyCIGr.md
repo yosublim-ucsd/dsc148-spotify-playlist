@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 荒巻勇仁
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,052 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,078 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [It's Over](https://open.spotify.com/track/5u86AmIVY306M364aRJKjn) | [Adee A.](https://open.spotify.com/artist/3O9DIzF5U9WkV0FzoTu2Nr) | [It's Over](https://open.spotify.com/album/5xG0ViCPgIXcIfMyTExzuH) | 4:04 |
 | 80 | [Taiban](https://open.spotify.com/track/0Y1h4vHrIQASEX0I9KOH2G) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W) | [Taiban](https://open.spotify.com/album/1R90ou1rdQdFPWYR4CZqFU) | 3:44 |
 
-Snapshot ID: `MCxjM2U5NWQxMmYyM2U4NDU4NWJiNGZjMjY2ZGUzNTljNjRkMWNhZjBj`
+Snapshot ID: `MCxjNzMwNGEwYzA1ZmFmMWRjMGJkYzMyOTI4MDA2ODdiYmFiZjI1NDcy`

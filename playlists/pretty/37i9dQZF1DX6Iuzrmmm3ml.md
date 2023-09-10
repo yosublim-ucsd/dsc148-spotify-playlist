@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Iuzrmmm3ml.md) - [plain]
 
 > Music from "Resident Evil: Infinite Darkness"! /音楽で辿る「BIOHAZARD：Infinite Darkness」の世界。©CAPCOM CO.,LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,030 likes - 29 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,037 likes - 29 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Iuzrmmm3ml.md) - [plain]
 | 28 | [BIOHAZARD:Infinite Darkness END CREDIT](https://open.spotify.com/track/2jTZWf4gjjYEOGdGA7pPiY) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [BIOHAZARD:Infinite Darkness ORIGINAL SOUNDTRACK](https://open.spotify.com/album/1Nb3QiFyoBK7p0n3v1I4yZ) | 1:36 |
 | 29 | [BIOHAZARD:Infinite Darkness Title](https://open.spotify.com/track/6jVDhm2XlrBFNMKJrtbLSj) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [BIOHAZARD:Infinite Darkness ORIGINAL SOUNDTRACK](https://open.spotify.com/album/1Nb3QiFyoBK7p0n3v1I4yZ) | 1:21 |
 
-Snapshot ID: `MCw3Mzg4NjFlYTcwOTk0OTA3Nzc5NjRjNDNkMzRhNmYwZDk1NjE1YTBk`
+Snapshot ID: `MCxmN2EwMmQ1MWNjN2ZkYjE1ZDU2ZDliMzk5YjI1YzI5YTkxMjJhMmM5`

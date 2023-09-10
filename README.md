@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6601\)
+## Playlists \(6604\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -5197,6 +5197,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Lali](/playlists/pretty/37i9dQZF1DX60AiPDDYe8L.md)
 - [This Is Lalo Mora](/playlists/pretty/37i9dQZF1DZ06evO4dhOKA.md)
 - [This Is Lamb of God](/playlists/pretty/37i9dQZF1DZ06evO2aV0uA.md)
+- [This Is Lana Del Rey](/playlists/pretty/37i9dQZF1DZ06evNZVVBPG.md)
 - [This Is Langston Hughes](/playlists/pretty/37i9dQZF1DX7R9e00hBCQT.md)
 - [This Is Larkin Poe](/playlists/pretty/37i9dQZF1DZ06evO4gv01w.md)
 - [This Is Lata Mangeshkar](/playlists/pretty/37i9dQZF1DX4Y3BGcCFrIX.md)
@@ -5248,6 +5249,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Luca Brasi](/playlists/pretty/37i9dQZF1DZ06evO4soWDC.md)
 - [This Is Luciano Pereyra](/playlists/pretty/37i9dQZF1DX1N4LABjaIvi.md)
 - [This Is Ludmila Ferber](/playlists/pretty/37i9dQZF1DZ06evO2jluEL.md)
+- [This Is Luis Miguel](/playlists/pretty/37i9dQZF1DZ06evO1mfBM4.md)
 - [This Is Luis R Conriquez](/playlists/pretty/37i9dQZF1DZ06evO0aI7Qc.md)
 - [This Is Luke Combs](/playlists/pretty/37i9dQZF1DX4XkcocBAgP3.md)
 - [This Is MAPPA](/playlists/pretty/37i9dQZF1DWYXEO3u0YOMv.md)
@@ -5373,6 +5375,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Pink Floyd](/playlists/pretty/37i9dQZF1DZ06evO07zaak.md)
 - [This Is Pop Smoke](/playlists/pretty/37i9dQZF1DZ06evO04kFZs.md)
 - [This Is Portugal\. The Man](/playlists/pretty/37i9dQZF1DWUbOQi4OiTx4.md)
+- [This Is Post Malone](/playlists/pretty/37i9dQZF1DZ06evO1aBeik.md)
 - [This Is Prince](/playlists/pretty/37i9dQZF1DX6JzJ8vAK836.md)
 - [This Is Pritam](/playlists/pretty/37i9dQZF1DX654XADbS8bL.md)
 - [This Is Prokofiev](/playlists/pretty/37i9dQZF1DX1tT8vLysk8r.md)

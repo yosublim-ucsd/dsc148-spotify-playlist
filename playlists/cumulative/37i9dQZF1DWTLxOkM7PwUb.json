@@ -270,6 +270,24 @@
     {
       "album": {
         "name": "Almam\u00e1ter (Lado A)",
+        "url": "https://open.spotify.com/album/40R1txW1gpDX34aMovtXEq"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183971,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1rQTTnt937RJaGQCMxS9Hm"
+    },
+    {
+      "album": {
+        "name": "Almam\u00e1ter (Lado A)",
         "url": "https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v"
       },
       "artists": [
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 207146,
       "name": "Ke Sientes",
       "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"

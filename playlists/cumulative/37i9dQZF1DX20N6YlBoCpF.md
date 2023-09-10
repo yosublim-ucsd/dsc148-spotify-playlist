@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=xhqsEMvkSOGLmiT6ebA5gw">Marno van der Merwe</a>
 
-510 songs - 1 day 4 hr 58 min
+511 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Spiere](https://open.spotify.com/track/5F4S0gRlODQMGskiAc2oww) | [Corra](https://open.spotify.com/artist/4My68FFMdqNzlJljp7Fchv) | [Spiere](https://open.spotify.com/album/1MuHYrzZhD9StxbUvjXXKD) | 3:18 | 2023-07-20 | 2023-07-28 |
 | [Spieël](https://open.spotify.com/track/4GflVdoiBXowjLvi0Yx92y) | [Reets](https://open.spotify.com/artist/23l2yZyJ9WJ84VLZMshWvk) | [Spieël](https://open.spotify.com/album/7xYbXgNXXVkWclXADHn1xi) | 4:13 | 2023-02-23 | 2023-03-18 |
 | [Spitsverkeer\(D\)](https://open.spotify.com/track/1LTLsEcVJto2rs82XEtlPp) | [Leon\-Ben Lamprecht](https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB) | [Spitsverkeer\(D\)](https://open.spotify.com/album/2xk4b9wcfDMILyM5nD4FaJ) | 2:40 | 2023-01-12 | 2023-02-04 |
+| [Spoor](https://open.spotify.com/track/2HUWDMMtqTzml3jTIZjuaO) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN) | [Vir Angie](https://open.spotify.com/album/5VFN0CMsEjDay4jsEZtOPp) | 2:33 | 2023-09-09 |  |
 | [Standbeelde](https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Matthew John Duncan](https://open.spotify.com/artist/5UKMBy6AbIo4xMA9krrPIY) | [Standbeelde](https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C) | 3:16 | 2022-10-06 | 2022-10-28 |
 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 | 2023-03-02 | 2023-03-31 |
 | [Stella](https://open.spotify.com/track/7i6NZDKEjS9esM2FVUxgf0) | [Wouter Van De Venter](https://open.spotify.com/artist/3cZNCHI9iQev06QNIw1g7M) | [Stella](https://open.spotify.com/album/4AdJRlkC4cwGRhwtwHt4xz) | 3:25 | 2023-03-23 | 2023-04-28 |

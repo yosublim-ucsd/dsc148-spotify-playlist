@@ -1902,7 +1902,7 @@
     {
       "album": {
         "name": "Sell Your Soul",
-        "url": "https://open.spotify.com/album/6HOm06oFJxRZyM8wUKXnYy"
+        "url": "https://open.spotify.com/album/01jCedkuDzg5UGUXceOIrY"
       },
       "artists": [
         {
@@ -1913,6 +1913,24 @@
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 309967,
+      "name": "The Guillotine",
+      "url": "https://open.spotify.com/track/4OwCRJEc8wKDODmmzvKIQZ"
+    },
+    {
+      "album": {
+        "name": "Sell Your Soul",
+        "url": "https://open.spotify.com/album/6HOm06oFJxRZyM8wUKXnYy"
+      },
+      "artists": [
+        {
+          "name": "Marcus Intalex",
+          "url": "https://open.spotify.com/artist/1LUyPCV4OiooCwffEq5ftD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
       "duration_ms": 309967,
       "name": "The Guillotine",
       "url": "https://open.spotify.com/track/4Z7JifYoK6cQOEmJ1rXxMu"

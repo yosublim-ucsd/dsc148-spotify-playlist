@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 145891,
       "name": "Fa\u00edsca",
       "url": "https://open.spotify.com/track/4AUy9gxaNejktNYIFNJWRW"
@@ -1550,6 +1550,28 @@
       "duration_ms": 150260,
       "name": "HSEH",
       "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
+    },
+    {
+      "album": {
+        "name": "Feat Saci #12",
+        "url": "https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0"
+      },
+      "artists": [
+        {
+          "name": "Souto MC",
+          "url": "https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4"
+        },
+        {
+          "name": "Feat Saci",
+          "url": "https://open.spotify.com/artist/3xDHxwjYq5n6xFnvNMt2ML"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165304,
+      "name": "Indispens\u00e1vel",
+      "url": "https://open.spotify.com/track/5i8uaqyosYWLvTyNp1NWct"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,268 songs - 2 day 19 hr 56 min
+1,269 songs - 2 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Intro](https://open.spotify.com/track/5NkREaWsEC6OKuCsUZmNFC) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 2:28 | 2022-04-27 | 2022-04-29 |
 | [Intro \(Apo Tous Yponomous\)](https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:04 | 2022-05-13 | 2022-11-13 |
 | [Intro In A Minor](https://open.spotify.com/track/032Eib1ph0DoAwlqxPiOvM) | [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E) | [Arte Povera](https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU) | 2:25 | 2023-04-22 | 2023-04-27 |
+| [IOY](https://open.spotify.com/track/6EcBVtQYaDjktpmkk4Vy4F) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [IOY](https://open.spotify.com/album/55Z2F3BSSZmNZARj1fFbyN) | 3:26 | 2023-09-09 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [Issues](https://open.spotify.com/track/6yWrVpXkyFjvOjYrYLl8HT) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [rigasbeats](https://open.spotify.com/artist/11Clnp2vx1BgBKgfngjuMZ) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 3:38 | 2022-12-17 | 2022-12-19 |
 | [Istories](https://open.spotify.com/track/1bQGzQGGybgdEVkRIcHx1O) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 4:30 | 2023-05-20 | 2023-05-28 |
@@ -642,7 +643,7 @@
 | [Ligi](https://open.spotify.com/track/4iWDvVZZgRVgVnTtHOkHXp) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Supernova](https://open.spotify.com/album/0YjJuXJlkF0Al7355W6BXU) | 2:34 | 2021-03-27\* | 2021-05-16 |
 | [Ligo Ligo](https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Ligo Ligo](https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN) | 2:46 | 2022-06-04 | 2023-01-18 |
 | [Lil Star](https://open.spotify.com/track/47ugl1JKZm8NzYhTnRqvxO) | [Yanni Bravo](https://open.spotify.com/artist/10gtLEEgzxgOYXTYjBpIZ9), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Lil Star](https://open.spotify.com/album/4ET5EJ2zAtvCLXF5FJtkgy) | 2:55 | 2021-08-29 | 2021-09-05 |
-| [Listia](https://open.spotify.com/track/79QIX2MiioFy2g69hm3Dz6) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Skive](https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Listia](https://open.spotify.com/album/5OWCfeAFAle9SQlXLpRPSg) | 2:48 | 2023-09-02 |  |
+| [Listia](https://open.spotify.com/track/79QIX2MiioFy2g69hm3Dz6) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [Skive](https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Listia](https://open.spotify.com/album/5OWCfeAFAle9SQlXLpRPSg) | 2:48 | 2023-09-02 | 2023-09-10 |
 | [Listies](https://open.spotify.com/track/6TdQrNcrgc5EyKXm1azguy) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 2:44 | 2022-02-26 | 2022-03-05 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2022-05-21 | 2022-05-23 |
 | [LOADOUT](https://open.spotify.com/track/2NTEIfxbv9cinOCkI6JOQL) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB) | [CASH OUT](https://open.spotify.com/album/2Giwt3uclV3cTdNXwgA0G7) | 3:14 | 2023-04-01 | 2023-04-07 |

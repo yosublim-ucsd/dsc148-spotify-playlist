@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,461,244 likes - 225 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,461,424 likes - 225 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 60 | [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 |
 | 61 | [Escape With Me](https://open.spotify.com/track/3cvXr0N2DWk8qeFVS1JEgo) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [Escape With Me](https://open.spotify.com/album/5KPh3wnnOwsWBKJl4rIVFm) | 2:34 |
 | 62 | [Modern Mysteries](https://open.spotify.com/track/7mS1QFR4914xDutXZCWqvW) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Modern Mysteries](https://open.spotify.com/album/1yXfbvmskN1VvFog6B1J9G) | 2:36 |
-| 63 | [Sprial](https://open.spotify.com/track/61wV9acz3uYyXcv4UnjLxc) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Sprial](https://open.spotify.com/album/0cJNpSMDMrJspbp4f3YoK3) | 2:48 |
+| 63 | [Spiral](https://open.spotify.com/track/61wV9acz3uYyXcv4UnjLxc) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Spiral](https://open.spotify.com/album/0cJNpSMDMrJspbp4f3YoK3) | 2:48 |
 | 64 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 |
 | 65 | [When It Rains](https://open.spotify.com/track/6nXvoksCAZqI8nEBTSvpfx) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [When It Rains](https://open.spotify.com/album/4uWWYNXiMcwiHIhUakiZT8) | 2:19 |
 | 66 | [Technicolor Dreamscape](https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Petit Voyage](https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V) | 3:17 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 224 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 |
 | 225 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 |
 
-Snapshot ID: `MCw2ZWYxODMxMzI3ZjBjNjI4MWFmYTEwMDhlOWFkNDMwNWY3YzZiNjI3`
+Snapshot ID: `MCw1ZGM3ZWYxMTc4YmFjMWFiZDE2MDhhNTI3ODhmZGExNjAwYmYzNTYx`

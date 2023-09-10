@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Les ann\u00e9es 60, Vol. 2",
+        "url": "https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carli",
+          "url": "https://open.spotify.com/artist/4PHyWpnVszadob2b7JchO3"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "Demain tu te maries",
+      "url": "https://open.spotify.com/track/0Aziek43A42InI3fZgORWf"
+    },
+    {
+      "album": {
         "name": "Tendres Annees",
         "url": "https://open.spotify.com/album/1cujiC73efahJ1w1RQ7QuG"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 175560,
       "name": "Demain tu te maries",
       "url": "https://open.spotify.com/track/3kTJxfzoOtGJEWI4PyVTBh"
@@ -1017,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Les ann\u00e9es 60, Vol. 3 (Les plus belles chansons)",
+        "url": "https://open.spotify.com/album/6fMDDEdR5nenBrVBNXHuUe"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125426,
+      "name": "Laisse tomber les filles",
+      "url": "https://open.spotify.com/track/6E8UbIEeB01Op5PAuP5cyn"
+    },
+    {
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4jEkUenMPRi7yNLqyRhF0u"
       },
@@ -1028,7 +1064,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 127160,
       "name": "Laisse tomber les filles",
       "url": "https://open.spotify.com/track/6ZIkH0yQk0E5hfOVL7CyoQ"
@@ -1579,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Les ann\u00e9es 60, Vol. 2",
+        "url": "https://open.spotify.com/album/7psc0MrG0TGTKXwSTsjRom"
+      },
+      "artists": [
+        {
+          "name": "Monty",
+          "url": "https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131426,
+      "name": "Un verre de whisky",
+      "url": "https://open.spotify.com/track/6mWJLNSVLNJDa2f0Quqa3X"
+    },
+    {
+      "album": {
         "name": "Monty Tendres Ann\u00e9es 60",
         "url": "https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP"
       },
@@ -1590,7 +1644,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 133666,
       "name": "Un verre de whisky",
       "url": "https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt"

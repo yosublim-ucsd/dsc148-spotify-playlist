@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 
 > Get spooky with these creepy classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 551 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SpcerLn1dx.md) - [plain]
 | 59 | [Zombie Zoo](https://open.spotify.com/track/6fKYUIurKDNTHz7bEOaOj6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 |
 | 60 | [D.O.A.](https://open.spotify.com/track/0whBqRSuzEa2ZLv1LeG3K6) | [Bloodrock](https://open.spotify.com/artist/522yoVmanZmrgK5qy3GyRK) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 4:34 |
 
-Snapshot ID: `MCxjZjU1YmUwN2QzYWNlZjJkMzA1NjQ0NzY4MDg0NjVhMWYwN2VhZTNl`
+Snapshot ID: `MCwwZmM5NDJkNDVhOTRjNmFmZGI3ZmZmMDQ4MzYxODViNTI1NDcyYzhm`

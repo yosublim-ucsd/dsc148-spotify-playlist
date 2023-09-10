@@ -4,7 +4,7 @@
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Rochy RD
 
-210 songs - 10 hr 33 min
+211 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [El Efecto](https://open.spotify.com/track/4wEu9PWRlA8yaJxP2uKNWW) | [Jabriell](https://open.spotify.com/artist/7f0gFq3dScRns3aaNWZWdy) | [El Efecto](https://open.spotify.com/album/2HSIXa0rkuRFcD15rMB0Ig) | 2:44 | 2023-07-14 |  |
 | [EL REGRESO](https://open.spotify.com/track/284ZJpHBxr8FVxPG9pZ1Is) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [LAPIZ HISTORIAS, Vol\. 2](https://open.spotify.com/album/7yIJjWqAwObs7a7aNYe5ng) | 7:13 | 2023-07-14 |  |
 | [EL REY](https://open.spotify.com/track/1ENSnQofaPvagAqI8yCrI9) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [EL REY](https://open.spotify.com/album/7pYauh6QDeM7ntQe3CtCir) | 2:38 | 2023-08-09 |  |
-| [El Toro](https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk) | 2:40 | 2022-05-20 |  |
+| [El Toro](https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm) | 2:40 | 2023-07-18 |  |
+| [El Toro](https://open.spotify.com/track/5fCLXGmn6hq4XhWLwoWJyv) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/77cUCnK4xklADFgpBcJDtk) | 2:40 | 2022-05-20 | 2023-09-10 |
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2022-03-15 | 2023-04-22 |
 | [Elma Maria](https://open.spotify.com/track/2X0ZB9z924BusDXia6yYiw) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Elma Maria](https://open.spotify.com/album/1uCTg0kVU6LzfFeBjK7CR7) | 3:16 | 2022-03-15 | 2023-04-29 |
 | [Empatilla](https://open.spotify.com/track/0uLzYKUTtcWIXJEJmq2Zjy) | [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH), [Young Gatillo](https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Empatilla](https://open.spotify.com/album/4ZkaaqThbhFhUYXht0D35D) | 2:29 | 2023-03-17 | 2023-07-15 |

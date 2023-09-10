@@ -891,6 +891,28 @@
     },
     {
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "Kyoko Koizumi",
+          "url": "https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343306,
+      "name": "\u3072\u3068\u3064\u5c4b\u6839\u306e\u4e0b feat. \u5c0f\u6cc9\u4eca\u65e5\u5b50",
+      "url": "https://open.spotify.com/track/4WrZISGcSAM9bsjNFGabJN"
+    },
+    {
+      "album": {
         "name": "\u3042\u306a\u305f\u3092\u4fdd\u3064\u3082\u306e/\u307e\u3060\u3046\u3054\u304f",
         "url": "https://open.spotify.com/album/5d3fMo5ShVeEdncXnSAtYy"
       },
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 370533,
       "name": "\u8352\u5ddd\u5c0f\u666f",
       "url": "https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz"

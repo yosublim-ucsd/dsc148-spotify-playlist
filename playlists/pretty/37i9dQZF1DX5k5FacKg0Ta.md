@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,474 likes - 80 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,505 likes - 80 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 79 | [Concrete Material](https://open.spotify.com/track/1lsfDuTKA2VqxWp4o0DOSf) | [Joni Raikaslehto InFusion](https://open.spotify.com/artist/3uf19Vh8oCP8iEHrtbzvlL) | [Prog Fu!](https://open.spotify.com/album/6iB3uOyipKFssd9E5jAJK7) | 7:55 |
 | 80 | [Rediscovery](https://open.spotify.com/track/0v22LOn7a7fNc1R6UyTXZ4) | [Grand Discovery](https://open.spotify.com/artist/6M79SZ509xyT6yq3VxpqU8) | [PROCEED](https://open.spotify.com/album/3obWDfutVLhbtbF4iaSM7P) | 4:29 |
 
-Snapshot ID: `MCwxM2ZjMDM4NGQ5NDgyMWMyNzk5NDJhYzhhYzMyYzY4YzY5MTYzODYw`
+Snapshot ID: `MCwwYzRiZDdjYjUyMzgzYWZjNDkyMGM5OTZmNDExMjJjYzdjNGY3MGIz`

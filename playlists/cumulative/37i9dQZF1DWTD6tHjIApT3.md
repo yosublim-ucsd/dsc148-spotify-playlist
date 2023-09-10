@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-1,688 songs - 4 day 13 hr 12 min
+1,689 songs - 4 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1255,7 +1255,8 @@
 | [ボクとキミを繋ぐモノ](https://open.spotify.com/track/7vWyB6YGbIYru4C6wac97h) | [fumika](https://open.spotify.com/artist/4FPhimiDlyEUsTSMWAUrhG) | [ボクとキミを繋ぐモノ](https://open.spotify.com/album/7bacewGlY9bUzu2Fy94hKG) | 3:38 | 2022-06-07 | 2022-07-25 |
 | [ポッピンラブ!](https://open.spotify.com/track/05rUvwGY3b2zHXwFXf7H4f) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [ポッピンラブ!](https://open.spotify.com/album/0qatIInmTuyCQKhuvzHv56) | 4:19 | 2022-05-29 | 2022-06-01 |
 | [ポポリル \- feat\. 木村千咲](https://open.spotify.com/track/2kJt5wSgLt1LzK6AYaYhjy) | [souzoucity](https://open.spotify.com/artist/0jfrSwW42l9FzT2HDcUXuT), [木村千咲](https://open.spotify.com/artist/2gxCXIHeJ93kR6HhilaJDU) | [ポポリル \(feat\. 木村千咲\)](https://open.spotify.com/album/1usrQa1qEjMcLDSocAGOzC) | 3:38 | 2022-10-18 | 2022-10-26 |
-| [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe) | 3:05 | 2023-09-05 |  |
+| [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/35n7uoX6bP8VJRnFLW6KPJ) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO) | 3:05 | 2023-09-08 |  |
+| [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe) | 3:05 | 2023-09-05 | 2023-09-10 |
 | [マイ・ソングス](https://open.spotify.com/track/6HOGYAumHsPIzsEr9s8gZh) | [むらかみなぎさ](https://open.spotify.com/artist/7h0LsDhkjvkMBQRNyUABN9) | [マイ・ソングス](https://open.spotify.com/album/5JLXowCpYpe8mbqZ0Rsx5E) | 4:10 | 2022-06-07 | 2022-06-15 |
 | [マカロニ](https://open.spotify.com/track/1z6FCoroh7MQraQBWeD9hN) | [NOKKO](https://open.spotify.com/artist/4wRafUzFqp9hsc2B6WojEG) | [土器土器](https://open.spotify.com/album/46h19s3LqGlfSx84r6PdwK) | 4:05 | 2023-04-13 | 2023-04-19 |
 | [マグマ](https://open.spotify.com/track/0Uy6aZsX0Q2nwNmP6Z5gNZ) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [マグマ I](https://open.spotify.com/album/5NsaiVz6Zszy7J2pwvNapg) | 3:25 | 2022-05-31 | 2022-06-08 |

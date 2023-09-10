@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Blxst & Bino Rideaux
 
-543 songs - 1 day 1 hr 39 min
+544 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 | 2022-07-01 | 2022-09-24 |
 | [Beat the Case](https://open.spotify.com/track/1yiEqTWd4LSp9ZrthQ1xA7) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Untreated Trauma](https://open.spotify.com/album/4opRnSX2yqAj0UE0GFM8ld) | 3:15 | 2021-10-15 | 2022-02-19 |
 | [Beat The Yacci \(feat\. Blueface & Mike Crook\)](https://open.spotify.com/track/4HAblGHDRJcwYeuCbJOwYa) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Mike Crook](https://open.spotify.com/artist/0lkJtXwvliiPfCzg5uyyz9) | [Really Heem Vol\. 1](https://open.spotify.com/album/4sFdGkmUXuXOymHV4aWtKK) | 2:21 | 2023-04-21 | 2023-05-06 |
-| [BEEN THAT EXTENDED](https://open.spotify.com/track/5rgAx7zbTWRbioqp4xp5jg) | [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2), [Kalan.FrFr](https://open.spotify.com/artist/5u2wkODC63IRcCAAyICX0A) | [BEEN THAT EXTENDED](https://open.spotify.com/album/2ozb1yIMSiWbuoPvQ2UstP) | 4:26 | 2023-05-26 |  |
+| [BEEN THAT \- EXTENDED](https://open.spotify.com/track/7ClqhPie1SkSrgCazvE1GR) | [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2), [Kalan FrFr](https://open.spotify.com/artist/5xgo6cRYZ355wbMzVZglGN) | [BEEN THAT \(EXTENDED\)](https://open.spotify.com/album/0uqVm5RyIpYOmU6Wkjwq2R) | 4:26 | 2023-09-08 |  |
+| [BEEN THAT EXTENDED](https://open.spotify.com/track/5rgAx7zbTWRbioqp4xp5jg) | [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2), [Kalan.FrFr](https://open.spotify.com/artist/5u2wkODC63IRcCAAyICX0A) | [BEEN THAT EXTENDED](https://open.spotify.com/album/2ozb1yIMSiWbuoPvQ2UstP) | 4:26 | 2023-05-26 | 2023-09-10 |
 | [Beethoven \(feat\. YN Jay\)](https://open.spotify.com/track/60DNcGqrNtk2JNuwlKLOH3) | [Kenndog](https://open.spotify.com/artist/2NLseG7xyv3fHY5U8AUntx), [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Beethoven \(feat\. YN Jay\)](https://open.spotify.com/album/1VYk22PNAMNyBKeZn4f30c) | 3:15 | 2021-11-12 | 2022-02-26 |
 | [Best Friend](https://open.spotify.com/track/4ND4rIL6KQY7O7mtBu7pL8) | [Khalid Brooks](https://open.spotify.com/artist/0xyS0bQtcJRUsf6LVxHmqT), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Dj Flippp](https://open.spotify.com/artist/4MyJFvr1LOniuQPUcqa0aw) | [Best Friend](https://open.spotify.com/album/1rIyOSIOfwcasBuLsTNKZ6) | 2:15 | 2023-06-16 | 2023-09-02 |
 | [Bet](https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:22 | 2022-01-21 | 2022-04-02 |

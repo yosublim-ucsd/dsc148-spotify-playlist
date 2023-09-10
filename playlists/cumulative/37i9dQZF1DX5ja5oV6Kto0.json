@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "AMINA",
+        "url": "https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "AMINA",
+      "url": "https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x"
+    },
+    {
+      "album": {
         "name": "Arrested by Love",
         "url": "https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8"
       },
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 139017,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
@@ -4094,7 +4112,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 218152,
       "name": "If You Say",
       "url": "https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC"
@@ -6283,6 +6301,24 @@
     },
     {
       "album": {
+        "name": "On My Life",
+        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125607,
+      "name": "On My Life",
+      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh"
       },
@@ -6571,6 +6607,24 @@
     },
     {
       "album": {
+        "name": "Pain/Pleasure",
+        "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199460,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/7jdL6NTClwvVkJipnLRdhi"
+    },
+    {
+      "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/66lj8DYjz1Aqezk6ebxkJB"
       },
@@ -6618,7 +6672,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 168179,
       "name": "Prayed Up",
       "url": "https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q"
@@ -6756,7 +6810,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 241714,
       "name": "PURPLE SLUSHIES",
       "url": "https://open.spotify.com/track/3igf2ZaBhLdgVi7hQLXI5Z"
@@ -6980,6 +7034,28 @@
       "duration_ms": 159680,
       "name": "Reckless & Sweet",
       "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
+      "album": {
+        "name": "Reckless (feat. AYL\u00d8)",
+        "url": "https://open.spotify.com/album/1b8LywlMLAXiIbucnvoLS9"
+      },
+      "artists": [
+        {
+          "name": "H.O.M.A",
+          "url": "https://open.spotify.com/artist/4D88aOR9IZ69deuxwFZHpc"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Reckless (feat. AYL\u00d8)",
+      "url": "https://open.spotify.com/track/66Edhig6kHzI7LoyWxS5qy"
     },
     {
       "album": {
@@ -7884,7 +7960,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 157722,
       "name": "Someone",
       "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
@@ -8468,6 +8544,28 @@
       "duration_ms": 188826,
       "name": "THE SUN (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/2OEKjBfuCdVPLLUgUf90ZM"
+    },
+    {
+      "album": {
+        "name": "Typewrit3R Vol. 1",
+        "url": "https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4"
+      },
+      "artists": [
+        {
+          "name": "Brum3h",
+          "url": "https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk"
+        },
+        {
+          "name": "Array.",
+          "url": "https://open.spotify.com/artist/35Hb6TrgbjftU0vO14t7qF"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182644,
+      "name": "Theysaid.",
+      "url": "https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD"
     },
     {
       "album": {

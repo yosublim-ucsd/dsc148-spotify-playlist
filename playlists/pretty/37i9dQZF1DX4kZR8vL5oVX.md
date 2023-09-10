@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Louane
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,201 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,209 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 5 | [Dis\-moi que tu m'aimes \- modular version](https://open.spotify.com/track/6wKv9EmGo3DundE6ygBE9H) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Dis\-moi que tu m'aimes \(modular version\)](https://open.spotify.com/album/7tSQY8hkObnPoEQ4Ij6L1t) | 4:56 |
 | 6 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 |
 | 7 | [Sous le ciel de Paris](https://open.spotify.com/track/4Nusn6EzBpPNTlUs8xNLe7) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z), [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Sous le ciel de Paris](https://open.spotify.com/album/612lTqnCtMEJaLVPSu6Qdo) | 3:28 |
-| 8 | [Ouvrir les yeux](https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Ouvrir les yeux](https://open.spotify.com/album/6jWhRZHy0gZieVkWxu35yb) | 3:25 |
+| 8 | [Ouvrir les yeux](https://open.spotify.com/track/5d069i6qYWZBBZMRy6cRaz) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Ouvrir les yeux](https://open.spotify.com/album/6jWhRZHy0gZieVkWxu35yb) | 3:23 |
 | 9 | [VVVIP](https://open.spotify.com/track/26agBJcbp1YO4vdPSFGNTm) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [VVVIP](https://open.spotify.com/album/67CI179Y7YKuk8UbITBTKi) | 1:23 |
 | 10 | [Let's Go](https://open.spotify.com/track/4Ti6OKJX2LTq4psyJfm1LY) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [EGO](https://open.spotify.com/album/0sUPXql6mFYywKIUYBkXr1) | 3:02 |
 | 11 | [On vient de loin](https://open.spotify.com/track/2hsWXtf1kKPubl90gl6PbQ) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [On vient de loin](https://open.spotify.com/album/12fpYUwuFUcvwCplvxNQSV) | 2:32 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 39 | [Bancale](https://open.spotify.com/track/4By9ybXyyb3WzA6HZ4ZOl2) | [Maroussia](https://open.spotify.com/artist/58G083mCMdDwHg0R9ndgPG) | [Bancale](https://open.spotify.com/album/2gl23hTT1XmSHbFksvicRB) | 3:07 |
 | 40 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 |
 
-Snapshot ID: `MCw2ZWNmNDcyZWJkMmU4M2Q0YzEyNDU2MWM4MGQ0MDdhZGM3ZGU1Njhj`
+Snapshot ID: `MCxkMWQ1MWEwYzgxMWJmNDkxMWE4MDdmNGY2NGQ4NTBmNzJiMjhlZTM4`

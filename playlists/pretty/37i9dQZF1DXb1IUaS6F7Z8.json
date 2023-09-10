@@ -1,12 +1,12 @@
 {
   "description": "All of the best Celtic punk tracks. Cover: The Dreadnoughts",
-  "num_followers": 393522,
+  "num_followers": 393708,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWUyNTgyZmE0ODdkZWM1MDk4ZDg5NjU4NGY4NDE0ZWNjZDc2OGVk",
+  "snapshot_id": "MCw4ODEyOGQ5NDc4NjMwOTFmYjZmOWU1ODM4OTk4MjFhMmNlZjgyMWFi",
   "tracks": [
     {
       "added_at": "2022-03-18 14:59:31",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Heard Ya Say!",
-        "url": "https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x"
-      },
-      "artists": [
-        {
-          "name": "Happy Ol'McWeasel",
-          "url": "https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p"
-        }
-      ],
-      "duration_ms": 229539,
-      "name": "On Your Own",
-      "url": "https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "This Is Our Day",
         "url": "https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203826,
       "name": "This Is Our Day",
       "url": "https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Heard Ya Say!",
+        "url": "https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x"
+      },
+      "artists": [
+        {
+          "name": "Happy Ol'McWeasel",
+          "url": "https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p"
+        }
+      ],
+      "duration_ms": 229539,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY"
     },
     {
       "added_at": "2022-03-18 14:59:31",

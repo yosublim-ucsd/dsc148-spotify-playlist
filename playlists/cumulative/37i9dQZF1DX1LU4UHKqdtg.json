@@ -6939,24 +6939,6 @@
     },
     {
       "album": {
-        "name": "\uacb0\uad6d (Love is Pain)",
-        "url": "https://open.spotify.com/album/09rm6D55oanJigmRYytant"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "date_added": "2023-09-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185000,
-      "name": "Love is Pain",
-      "url": "https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo"
-    },
-    {
-      "album": {
         "name": "Tap Tap (Japanese ver.)",
         "url": "https://open.spotify.com/album/7avxgSwrfi8dpEDxDPKVrb"
       },
@@ -7922,8 +7904,8 @@
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "X&G",
+          "url": "https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP"
         }
       ],
       "date_added": "2023-08-23",
@@ -13710,6 +13692,24 @@
       "duration_ms": 317741,
       "name": "\u9c57(\u3046\u308d\u3053)",
       "url": "https://open.spotify.com/track/6mveYt3qyAnjLUxdhVd8gG"
+    },
+    {
+      "album": {
+        "name": "\uacb0\uad6d (Love is Pain)",
+        "url": "https://open.spotify.com/album/09rm6D55oanJigmRYytant"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\uacb0\uad6d (Love is Pain)",
+      "url": "https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg"

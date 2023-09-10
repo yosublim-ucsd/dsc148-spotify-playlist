@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: A Boogie Wit Da Hoodie
 
-1,235 songs - 2 day 12 hr 3 min
+1,236 songs - 2 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Glory](https://open.spotify.com/track/3vLPMgS9AtFGiYm07KMEaP) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Glory](https://open.spotify.com/album/5nfZctvxgTW2UfKFl1hf8J) | 2:35 | 2023-03-17 | 2023-03-25 |
 | [GMM](https://open.spotify.com/track/11k61hv8iYNiOORNBR1AlH) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP) | [GMM](https://open.spotify.com/album/533UTz0dq2rUvEXVjNMOhs) | 2:26 | 2023-05-12 | 2023-05-20 |
 | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 | 2023-03-10 | 2023-03-18 |
-| [Go & Get It](https://open.spotify.com/track/0nLicBxLiDKL2K7RHLIGz3) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Go & Get It](https://open.spotify.com/album/5Vl1nIAmQQiDm4KVf5mR4C) | 3:09 | 2023-09-08 |  |
+| [Go & Get It](https://open.spotify.com/track/0nLicBxLiDKL2K7RHLIGz3) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Go & Get It](https://open.spotify.com/album/5Vl1nIAmQQiDm4KVf5mR4C) | 3:09 | 2023-09-08 |  |
 | [Go Getter \(feat\. M Huncho\)](https://open.spotify.com/track/2fbll0OSNaePTCitaM2dnt) | [A2](https://open.spotify.com/artist/6CLayzfExGy0fSn5IT0aX4), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Go Getter \(feat\. M Huncho\)](https://open.spotify.com/album/76eLGzP486W8xcfnR6FXVh) | 2:38 | 2023-07-28 | 2023-08-05 |
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-05 | 2023-05-20 |
 | [Go To](https://open.spotify.com/track/7KU1C7CcPxNtkdPiRTzTtG) | [UPN6XT](https://open.spotify.com/artist/0DBD3vBFan9qay9OmEMUMx), [damn drone](https://open.spotify.com/artist/3jOKcMjgTjVIUsnsE9HeQe) | [Rage City](https://open.spotify.com/album/7khKRmJJ1Pvx9IlUPuJMvF) | 2:30 | 2023-05-12 | 2023-05-20 |
@@ -928,7 +928,8 @@
 | [Risques & Hustle](https://open.spotify.com/track/7nuQktBOm9j5mRox45CRKu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Toujours pas mort \- E.P.](https://open.spotify.com/album/5Nr5o553FALmH6SQLmGCCe) | 3:47 | 2023-06-16 | 2023-06-24 |
 | [Rivals](https://open.spotify.com/track/7pATnbSvnPYoYCtRmlNP7F) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Rivals](https://open.spotify.com/album/6JYhJCc9FbuiXhFFDWjAb3) | 3:07 | 2023-05-26 | 2023-06-03 |
 | [RNTBCK ft\. Sahtyre](https://open.spotify.com/track/3Go7cFLfkQMH9KV6H1VcIY) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU) | [RNTBCK ft\. Sahtyre](https://open.spotify.com/album/40hySMZvGLxFRvXHe4re6r) | 3:33 | 2023-08-04 | 2023-08-12 |
-| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-08 |  |
+| [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 | 2023-09-08 |  |
+| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-08 | 2023-09-10 |
 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 | 2023-06-23 | 2023-07-01 |
 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-21 | 2023-07-29 |
 | [Rock Climbing \(feat\. M Huncho\)](https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [High Profile](https://open.spotify.com/album/3FbUUs5VxCKExl9DPTBFf6) | 2:50 | 2023-06-23 | 2023-07-01 |

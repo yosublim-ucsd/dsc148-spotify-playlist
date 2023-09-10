@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut down Etro's SS24 Runway for Milan Fashion Week, Soundtrack by Creative Director, Marco De Vincenzo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,101 likes - 61 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,287 likes - 61 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 46 | [Ni morte ni connue](https://open.spotify.com/track/69zQBZWWiWre2N7AneiVBc) | [Mansfield.TYA](https://open.spotify.com/artist/4Rnbihd9aa3KWygk38BAZL) | [Monument ordinaire](https://open.spotify.com/album/5iQxynqu3B2KR3XsrU0HrK) | 3:50 |
 | 47 | [Cuidado, Peligro, Eclipse](https://open.spotify.com/track/2niXWS7JOhbUm5oI2awwYE) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Cardan](https://open.spotify.com/album/3X7EL2ektk2cUqmXBwIQGO) | 5:59 |
 | 48 | [Distance](https://open.spotify.com/track/63UOCLFLRT2fA31DH1JOx3) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn), [Dylan Nichols](https://open.spotify.com/artist/3cwpNYqw8DgNLvMp97Q18u) | [Gaspard va au mariage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1234JRNDutF84RmOBE1cLS) | 5:28 |
-| 49 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 |
-| 50 | [1,618](https://open.spotify.com/track/5LH6z8sYZ6gQ4xOxSWwvvy) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Charlotte Adigéry](https://open.spotify.com/album/5essRp10ttUIJXwlwNcGNH) | 5:58 |
+| 49 | [1,618](https://open.spotify.com/track/5LH6z8sYZ6gQ4xOxSWwvvy) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy) | [Charlotte Adigéry](https://open.spotify.com/album/5essRp10ttUIJXwlwNcGNH) | 5:58 |
+| 50 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 |
 | 51 | [Moon](https://open.spotify.com/track/6HH5YsdUL9p3EpPpHAjIHK) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Moon](https://open.spotify.com/album/09ocYTOuaUDAhwshSAYILr) | 4:41 |
 | 52 | [For You](https://open.spotify.com/track/0kVrNcwLbPFYoPCHSLDc7M) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [&](https://open.spotify.com/album/0NkBeWqvEa5VnniPUCk4UW) | 4:26 |
 | 53 | [Lucid](https://open.spotify.com/track/0ATFMjLib1XaK01KibIyLj) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Kelly Lee Owens](https://open.spotify.com/album/0aol42apbylFf2POjiAOeP) | 3:32 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 60 | [Utopia \- Sunroof Mix](https://open.spotify.com/track/5Pirg3m910jqAZOHIcAiVn) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS), [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w) | [Utopia](https://open.spotify.com/album/0b7kSCIX3vzGQSekOQKpOC) | 7:37 |
 | 61 | [Cu cu rru cu cu' paloma](https://open.spotify.com/track/08xzqLZV31VvaixcqZxzZa) | [Patrizia Laquidara](https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9) | [Indirizzo portoghese \(15TH anniversary edition\)](https://open.spotify.com/album/278MQ4EIMVpnB2QlmQrFEX) | 3:45 |
 
-Snapshot ID: `MCw0Y2Q1MTJjZmM2ZTgzN2Y1ZjAwY2E5NzcwNjg0Y2FjMTRmODBhNjBj`
+Snapshot ID: `MCw3OWIzN2M3MDhiODA0NmE3YzEwYTg2MmJhMmRiYWU2ODAzYTBkYzYx`

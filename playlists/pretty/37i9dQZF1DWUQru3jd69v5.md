@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Delaruà
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,227 likes - 55 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,243 likes - 55 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 12 | [AMG](https://open.spotify.com/track/3vXCF2W05QjzgIcRfmuGdq) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [AMG](https://open.spotify.com/album/253q9ai7SJzI4JxMAKtTN6) | 2:29 |
 | 13 | [BICRAVE](https://open.spotify.com/track/1HysCrlm9lxpFdCxeKHw0c) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [MALTY 2BZ](https://open.spotify.com/artist/5A7u47fziMdcEMunHjT8Kf) | [BICRAVE](https://open.spotify.com/album/61SKXlunB3YD9qhW4LHecp) | 2:18 |
 | 14 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
-| 15 | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w) | 2:55 |
+| 15 | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Rocket \(feat\. Artie 5ive\)](https://open.spotify.com/album/1aNeLmS9s5Yq9i2IbpkS9w) | 2:55 |
 | 16 | [Ma Bella](https://open.spotify.com/track/5eeMVrbremAMXoU0NuiXgz) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Ma Bella](https://open.spotify.com/album/3flMPRFAjylmTcNq9sfcMT) | 2:28 |
 | 17 | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/album/6QalFNzRnlYZ6KEYLLIKUZ) | 2:40 |
 | 18 | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [LACRIME](https://open.spotify.com/track/4ENtTrEgDyusQQ5m8JCWnb) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LACRIME](https://open.spotify.com/album/2QqzgI8IV6rzbHDGvv7Xzo) | 2:29 |
 | 55 | [SANGUE CALDO](https://open.spotify.com/track/0G9LVojrr4a6heAOEmoaBX) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [SANGUE CALDO](https://open.spotify.com/album/5tdfN8S68psImgoiru1bfT) | 2:05 |
 
-Snapshot ID: `MCxjYTg5YWFkZmZkMjNiZGIyN2U3ZGMwNmE3NDk2NDc2ODcwNDZjMGE1`
+Snapshot ID: `MCwzOWQ2ZmQ5NTM1NzNiNDljOTg0ZTVjNDEwOWM3MzZmOGFiOWI3ZDQx`

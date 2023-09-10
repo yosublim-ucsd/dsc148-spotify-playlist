@@ -4,7 +4,7 @@
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-210 songs - 1 day 0 hr 44 min
+211 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Meet Me In the City](https://open.spotify.com/track/7dig0MXt7MBeqExosATbAq) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 4:36 | 2020-09-08 | 2023-04-07 |
 | [Midnight In Harlem \(Swamp Raga intro with Little Martha\) \- Live](https://open.spotify.com/track/72UfjeC5R2SWpe9TTzwhKT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Everybody's Talkin'](https://open.spotify.com/album/2U7PtD3lqcSSVSZ4g875ki) | 10:23 | 2020-09-08 |  |
 | [Mike's Song](https://open.spotify.com/track/0zrLDKj4gTsE24T0vz1fCl) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Slip Stitch and Pass](https://open.spotify.com/album/0XqQw46LxaITxNsIhZLYip) | 13:52 | 2023-04-06 |  |
-| [Nebraska](https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [tin cans & car tires](https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7) | 3:49 | 2020-07-24 |  |
+| [Nebraska](https://open.spotify.com/track/3g6Iv6AJddkj641ufya8h4) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [tin cans & car tires](https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7) | 3:49 | 2020-07-24 | 2023-09-10 |
+| [Nebraska](https://open.spotify.com/track/3V2uUDTDtr2FTCHZxCZdGd) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Tin Cans and Car Tires \(25th Anniversary Edition\)](https://open.spotify.com/album/3j3DuIhJCkZjs21x85vNwu) | 3:50 | 2023-04-06 |  |
 | [New Birth in New England](https://open.spotify.com/track/1SmzAbt4g7a1FfAIwovtwq) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [C’est La Vie](https://open.spotify.com/album/2oqDbd9Hmbp6RinQQmZNWd) | 4:59 | 2020-09-08 | 2023-04-07 |
 | [New Birth in New England](https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [C’est La Vie](https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv) | 4:59 | 2020-09-08 | 2022-07-29 |
 | [Nightingale](https://open.spotify.com/track/5KMA3U1IDlSxtVTgJJbLg5) | [God Street Wine](https://open.spotify.com/artist/2uhs3nCegLYEslxiqKtUo6) | [$1.99 Romances](https://open.spotify.com/album/2J5V54ginf1HluYvlYwlF9) | 4:41 | 2020-09-08 | 2023-04-07 |

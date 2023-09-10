@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Yahritza y Su Esencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,728 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,832 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 9 | [GPI](https://open.spotify.com/track/2kDAwCfoTqKQePz2ZZEGdm) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [GPI](https://open.spotify.com/album/0zpMM4CQ8CDMxga0oHXrus) | 2:43 |
 | 10 | [Bulgari](https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bulgari](https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L) | 2:44 |
 | 11 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 |
-| 12 | [Te Otorgo Mi Perdón](https://open.spotify.com/track/0mCXcfJRJrEBJbUmTeCB8T) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Te Otorgo Mi Perdón](https://open.spotify.com/album/6K2CUZvB2U64gWYKbU5Wz1) | 2:58 |
+| 12 | [Te Digo Ádios](https://open.spotify.com/track/0mCXcfJRJrEBJbUmTeCB8T) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Te Digo Ádios](https://open.spotify.com/album/6K2CUZvB2U64gWYKbU5Wz1) | 2:58 |
 | 13 | [El Corrido De Monterrey](https://open.spotify.com/track/6rCSbemp7ZuaVbyZsJElI5) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/7yUfXtRIpBZK5bggQsQohI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv), [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [El Corrido De Monterrey](https://open.spotify.com/album/6VEhypUcJUnv5JrVDvHebk) | 3:18 |
 | 14 | [Si Quieres Tenerme](https://open.spotify.com/track/4QySH8h00ZPwM179EGNBrU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Si Quieres Tenerme](https://open.spotify.com/album/2D84Tp24QGHfBcqlwkIDoL) | 3:20 |
 | 15 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Siempre Positivo](https://open.spotify.com/track/445jYn10j2xdbUQ7GGaYkN) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Siempre Positivo](https://open.spotify.com/album/7eEHmzTeNoJWeJ3ZPeFYyV) | 3:29 |
 | 50 | [Qué De Raro Tiene](https://open.spotify.com/track/4yTCWlsJHi4eQLbD5uRmKc) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué De Raro Tiene](https://open.spotify.com/album/1HGDJVqncehIpoJpmUguAC) | 3:11 |
 
-Snapshot ID: `MCxhYzcxNTEwODk1NGM4MzU2MmQ5ZmE1ZWJiNDIzZDI0OWQ3ODUwNjg3`
+Snapshot ID: `MCxiOTRhYmZjZGY2MDg2MjM4NzU5ZGYxNWYxMjc4YjIzZTdmMGViYjI5`

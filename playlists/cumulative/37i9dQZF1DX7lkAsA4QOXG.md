@@ -8,9 +8,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Case Of You \- Short Version](https://open.spotify.com/track/3j4qGBWRoLvtpeSCS6IAjf) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Legendary Recordings: Herbie Hancock](https://open.spotify.com/album/38rwVFg1NMwmkeGmo8b9oU) | 7:36 | 2023-08-23 |  |
+| [A Case Of You \- Short Version](https://open.spotify.com/track/3j4qGBWRoLvtpeSCS6IAjf) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Legendary Recordings: Herbie Hancock](https://open.spotify.com/album/38rwVFg1NMwmkeGmo8b9oU) | 7:36 | 2023-08-23 | 2023-09-10 |
 | [A Case Of You \- Short Version](https://open.spotify.com/track/4pVnYnA1mTIccXsLLEKMyY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lounge Jazz](https://open.spotify.com/album/6rhfgujT6eCMrlnQay4T0C) | 7:36 | 2022-09-13 | 2022-09-27 |
-| [A Case Of You \- Short Version](https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Jazz Volume: Herbie Hancock](https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z) | 7:36 | 2022-12-01 | 2023-08-20 |
+| [A Case Of You \- Short Version](https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Jazz Volume: Herbie Hancock](https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z) | 7:36 | 2022-12-01 |  |
 | [A Case Of You \- Short Version](https://open.spotify.com/track/5mFYhmpAeyTPrNgz4E283K) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Herbie Hancock: Hits & Rarities](https://open.spotify.com/album/01wO4zYqruKFxPiSlfHQNY) | 7:36 | 2022-10-05 | 2022-11-25 |
 | [A Day In The Life](https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [A Day In The Life: Impressions Of Pepper](https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4) | 4:49 | 2022-09-13 |  |
 | [A Hard Day's Night](https://open.spotify.com/track/2ESLwV27dNbFi91FUJdPJP) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Basie's Beatle Bag](https://open.spotify.com/album/1XBfMdvfawbcBOh43VvHWE) | 4:22 | 2022-09-13 | 2023-09-02 |

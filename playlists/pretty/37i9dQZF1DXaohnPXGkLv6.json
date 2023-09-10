@@ -1,12 +1,12 @@
 {
   "description": "The essential Olivia Rodrigo tracks, all in one playlist.",
-  "num_followers": 649212,
+  "num_followers": 651215,
   "original_name": "This Is Olivia Rodrigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODQ0OGQxNjM4ZjM1NWY2Yjg2M2VmYjE5Y2ExMTA4M2YwZTM0NzFh",
+  "snapshot_id": "MCw3NzgxMmUyYWZlNDVmZTZlODAzYjRiNzFmZmI3NWViODgzYTllOTA4",
   "tracks": [
     {
       "added_at": "2023-09-08 17:09:48",
@@ -231,6 +231,26 @@
       "duration_ms": 173160,
       "name": "jealousy, jealousy",
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "added_at": "2023-09-08 17:09:48",
+      "album": {
+        "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 177322,
+      "name": "All I Want - From \"High School Musical: The Musical: The Series\"",
+      "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
     },
     {
       "added_at": "2023-09-08 17:09:48",

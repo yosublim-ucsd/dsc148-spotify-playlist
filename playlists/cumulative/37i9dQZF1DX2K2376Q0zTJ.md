@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: AI
 
-961 songs - 2 day 9 hr 2 min
+962 songs - 2 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Need To Be Me](https://open.spotify.com/track/2Y4ePVrFQrjqN3ah1ODFPN) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [Need To Be Me](https://open.spotify.com/album/351BykOMNlNSarjsRIPYHH) | 3:00 | 2022-08-02 | 2022-09-07 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-04-04 | 2023-08-02 |
 | [New Bugatti](https://open.spotify.com/track/5idIfXhZUtKgCBgH6JuAvD) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML), [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [Uncured](https://open.spotify.com/album/6IwmmznQoHJW4nZk8wdlvP) | 3:07 | 2021-11-30 | 2022-01-05 |
-| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-09-05 |  |
+| [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [X&G](https://open.spotify.com/artist/0J8vnuLl37meRjZttkpCBP) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-09-05 |  |
 | [New Day](https://open.spotify.com/track/0tQVgQtzkzYlrEG1D6SXhx) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99) | [Shades Of Yellow EP](https://open.spotify.com/album/0nhCGmTwYyu1zKA6bAnVJc) | 3:38 | 2022-04-05 |  |
 | [New Day](https://open.spotify.com/track/0bisB6eJdWyZuXauXgzMnF) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 4:15 | 2022-07-05 | 2022-08-03 |
 | [New Life](https://open.spotify.com/track/43zplBE5qEz3VKiye8dv6b) | [Predawn](https://open.spotify.com/artist/7nK2GWw6SsLKb5OgEcfbF5) | [The Gaze](https://open.spotify.com/album/7Cd4KJlQfeCEATCK92SswJ) | 3:02 | 2022-05-04 | 2023-02-02 |
@@ -814,7 +814,8 @@
 | [ヘリクツBOY \- 2016 Remaster](https://open.spotify.com/track/5EI4bRVixMIaZmgQOI6eWq) | [Jun Togawa](https://open.spotify.com/artist/6fI3ZQseiBwzjXLSVuJGEI) | [好き好き大好き](https://open.spotify.com/album/0JEAzf6Ss4CZs4ZhKR79np) | 2:10 | 2023-04-04 | 2023-05-03 |
 | [ベイビーブルー](https://open.spotify.com/track/5ssctQ2YcvymQtWqkuVRXs) | [CYNHN](https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg) | [ベイビーブルー](https://open.spotify.com/album/4249eNpMl8DQAeiWtlTVV6) | 3:19 | 2023-07-04 | 2023-08-02 |
 | [ホラーすぎる彼女です](https://open.spotify.com/track/7n3xY5CH0YONHhmbxmrl7d) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [新しい友達](https://open.spotify.com/album/7JvaNU5JqwdIiLMlUBhxxC) | 4:05 | 2022-01-04 | 2022-12-07 |
-| [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe) | 3:05 | 2023-09-05 |  |
+| [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/35n7uoX6bP8VJRnFLW6KPJ) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO) | 3:05 | 2023-09-05 |  |
+| [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe) | 3:05 | 2023-09-05 | 2023-09-10 |
 | [マザーランド](https://open.spotify.com/track/5SZWCBRpEujCFwETNvfxzz) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:20 | 2022-02-01 | 2022-03-08 |
 | [マスコミュニケーション ブレイクダウン](https://open.spotify.com/track/3ZORZ2Vk7MIZGZN4B5AZWp) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Candy Rock](https://open.spotify.com/album/03lO7W9qgC2tyfzAgOiG2j) | 3:27 | 2022-03-07 | 2022-04-06 |
 | [マヨイガ](https://open.spotify.com/track/0aAYM2ApVTzuNOgI0sZPmE) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [マヨイガ](https://open.spotify.com/album/2YZGywS2yeDOMmyhIU6wQM) | 5:19 | 2022-03-07 | 2022-03-16 |

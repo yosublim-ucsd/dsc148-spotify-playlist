@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,440 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,470 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 79 | [I built a fort](https://open.spotify.com/track/0GOhobC9juiVNIS0kWI1oR) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [dreaming of your latte art](https://open.spotify.com/album/3iSbLIEDzNAlAPUqDiLP0M) | 3:18 |
 | 80 | [Parsec](https://open.spotify.com/track/7M9o5qqQKiCv7u0mSGzGWH) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [Parsec](https://open.spotify.com/album/7ztMwtIVhVy4ZJvg3YcZv8) | 6:39 |
 
-Snapshot ID: `MCw5NWEwMTYxZmM5YjdiM2M4NmRmZGQ2NDJkNTVlZDIxOGI2YzQ5YzY5`
+Snapshot ID: `MCw3YjE4MDdjMzQ3Nzc0NTZkZDE4NjE5ZTdhODhkMDZiMzNiOTllYzhj`

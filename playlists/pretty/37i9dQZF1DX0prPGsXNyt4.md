@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,495 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,536 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Love \- Acústico](https://open.spotify.com/track/59glxsHIDG5MSdPuqh8fpW) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Dj TOTU](https://open.spotify.com/artist/30icW65DJZaWkotebdICkU), [Mc Nathan ZK](https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE), [MC Suh](https://open.spotify.com/artist/2pAmbNN8mzxnBgYwZ4hSSo), [Mc Barone](https://open.spotify.com/artist/5b7N6Le7TXrNRdoTcqOLMF), [Mc Neguinho do ITR](https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA), [MC Liro](https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG), [Mc CL](https://open.spotify.com/artist/2I6tDfWEkn4Ozfb6ePjRX4), [Andressinha](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al), [Young Mascka](https://open.spotify.com/artist/5p1071Vgc8NglO8E3JAv4Q) | [Love \(Acústico\)](https://open.spotify.com/album/75CDVz8yhYyB920rQGszBf) | 10:10 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MCw5ZTFjOTYzMzRiZDg3NWU0Y2ViOGI3NzM2ZTQ4YjY3NDAwMmNhZDU5`
+Snapshot ID: `MCw0MDYzOWExOTRiMzkzNzcxYjMzMGE4NWJkNDQwMDRiOGQxZTQzYmI0`

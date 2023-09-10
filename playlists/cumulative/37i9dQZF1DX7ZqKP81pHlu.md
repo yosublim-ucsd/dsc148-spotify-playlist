@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits algériens du moment.
 
-172 songs - 10 hr 34 min
+173 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 | 2023-08-14 |  |
 | [Ma3lich ya 9albi](https://open.spotify.com/track/70EOQVKqRBIU9mfibNLltJ) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ma3lich ya 9albi](https://open.spotify.com/album/1pFjyyY15J1iChq4xAMJYW) | 4:14 | 2021-12-09 | 2022-12-26 |
 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-12-09 | 2023-02-07 |
+| [MAFIHACH](https://open.spotify.com/track/0kAmsNXLYxePx4dqo7Ykks) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [MAFIHACH](https://open.spotify.com/album/2te7i6ixsjet1egYwB4P9X) | 4:30 | 2023-09-09 |  |
 | [Mali Mali](https://open.spotify.com/track/706oWNT12qKmhjMjnxcDkx) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/3Y8J4MzMdcCLeG5x7LroyP) | 3:42 | 2022-07-27 | 2023-01-11 |
 | [Mali Mali](https://open.spotify.com/track/7faeHcamYu377PtVLtUZ87) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/6cRIMxkVh1ZyQsVZ3lfYzJ) | 3:42 | 2023-01-13 | 2023-05-11 |
 | [Mali Mali](https://open.spotify.com/track/7hwSdPkjoyg7JrjriaoFZ2) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/1KGDcuZAQLkzBnxBdPpuSG) | 3:44 | 2021-12-09 | 2023-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Eyedress.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,142 likes - 102 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,153 likes - 102 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 83 | [Carry On](https://open.spotify.com/track/5rvc8Bi2rNLRHIU1zPJG1v) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 2:51 |
 | 84 | [Dalga](https://open.spotify.com/track/6uGpoWUxH4heqObDAMr4gU) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 2:56 |
 | 85 | [Sour](https://open.spotify.com/track/0D7DZCT5CuzzwcVY2Dkuxk) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Sour](https://open.spotify.com/album/5P6X6QiReluxDWc7Xp0dKp) | 2:33 |
-| 86 | [NO SÉ QUÉ DECIRTE](https://open.spotify.com/track/1c1Wxf7tmx9col82GHlsAJ) | [MENTIRA](https://open.spotify.com/artist/025KCrdT7Sl83OzsBfEhtu), [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [NO SÉ QUÉ DECIRTE](https://open.spotify.com/album/1bAIiL8HyhnpFDrNFPz75s) | 3:15 |
+| 86 | [NO SÉ QUÉ DECIRTE](https://open.spotify.com/track/1c1Wxf7tmx9col82GHlsAJ) | [MENTIRA](https://open.spotify.com/artist/025KCrdT7Sl83OzsBfEhtu), [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [NO SÉ QUÉ DECIRTE](https://open.spotify.com/album/1bAIiL8HyhnpFDrNFPz75s) | 3:15 |
 | 87 | [Buche](https://open.spotify.com/track/4NxDDBsllgmsbxsXl0Zn8C) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Buche](https://open.spotify.com/album/16Cc0v8TR9n62S6jI955Xm) | 3:28 |
 | 88 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 |
 | 89 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 101 | [Lejos del mundo y el dolor](https://open.spotify.com/track/2VE3DQwmKSxrYRbZ0aC8yS) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Lejos del mundo y el dolor](https://open.spotify.com/album/2YxVEE82jzCGMBoMsx637i) | 3:12 |
 | 102 | [So Bad](https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN) | 3:33 |
 
-Snapshot ID: `MCw2Njg4ODY4MDZiMTcyYzBjMmQwZmYwNjNlMWRjMDQyOWMyZjRkOWZh`
+Snapshot ID: `MCw2MmQwN2Q2YzFhNmRmM2UyOGIyOTJkY2RiMzFkMWYwNzhhYmVlZTM1`

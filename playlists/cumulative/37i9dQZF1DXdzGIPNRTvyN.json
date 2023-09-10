@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 170000,
       "name": "Depths of Tranquility",
       "url": "https://open.spotify.com/track/7acCQhIsp9PU8OgE40mH2J"
@@ -2202,6 +2202,24 @@
       "duration_ms": 204039,
       "name": "Sun-drenched Greenery",
       "url": "https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf"
+    },
+    {
+      "album": {
+        "name": "Take A Breath",
+        "url": "https://open.spotify.com/album/2AjcwMmxfCdh0siTZOOdJw"
+      },
+      "artists": [
+        {
+          "name": "Moderato Aredo",
+          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Take A Breath",
+      "url": "https://open.spotify.com/track/5mBJ1WB5syIHpn9LAh53hl"
     },
     {
       "album": {

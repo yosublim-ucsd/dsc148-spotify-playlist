@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689972,
+  "num_followers": 690000,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmZlZDQ0YWE1MjQ2YzU3ZGZiNjU5ZjIxNzJjN2U3ZjFiMDM4ZjNm",
+  "snapshot_id": "MCw0ZjkyYTg3ZDhjNDUxM2UzZWU2NWNhOWJmOTNiYThjNDZiNTczMDY4",
   "tracks": [
     {
       "added_at": "2023-09-08 00:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "Miss You (Sped Up Version)",
-        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 171701,
-      "name": "Miss You - Sped Up Version",
-      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Make Me Feel Good",
         "url": "https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 197472,
       "name": "Make Me Feel Good",
       "url": "https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "Miss You (Sped Up Version)",
+        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 171701,
+      "name": "Miss You - Sped Up Version",
+      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
     },
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 168201,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "So Much Love (feat. Lloyd Wade)",
         "url": "https://open.spotify.com/album/1QxUxN95s5TmcCb72fk9cD"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 208317,
       "name": "So Much Love (feat. Lloyd Wade)",
       "url": "https://open.spotify.com/track/6Z5rzJ6DefXJCzntIUYCWk"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 168201,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
     },
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/29STI5532ceyljunkxotwt"
-      },
-      "artists": [
-        {
-          "name": "Tom Zanetti",
-          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
-        },
-        {
-          "name": "Siobhan",
-          "url": "https://open.spotify.com/artist/01ECQGGtoCYebgGrNWaIay"
-        }
-      ],
-      "duration_ms": 218015,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Enter The Dragon (Are You Up?)",
         "url": "https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 180774,
       "name": "Enter The Dragon (Are You Up?)",
       "url": "https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/29STI5532ceyljunkxotwt"
+      },
+      "artists": [
+        {
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+        },
+        {
+          "name": "Siobhan",
+          "url": "https://open.spotify.com/artist/01ECQGGtoCYebgGrNWaIay"
+        }
+      ],
+      "duration_ms": 218015,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"
     },
     {
       "added_at": "2023-09-08 00:00:00",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2023-09-08 00:00:00",
       "album": {
-        "name": "Chucks",
-        "url": "https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 169538,
-      "name": "Chucks",
-      "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
-    },
-    {
-      "added_at": "2023-09-08 00:00:00",
-      "album": {
         "name": "Free (feat. Tyrone & Chris Nichols) [Nathan Dawe Freemix]",
         "url": "https://open.spotify.com/album/4olzFO245ebsDV7MZX43d8"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 195692,
       "name": "Free (feat. Tyrone & Chris Nichols) - Nathan Dawe Freemix",
       "url": "https://open.spotify.com/track/2RdWvdzQztDTypZCywTHH8"
+    },
+    {
+      "added_at": "2023-09-08 00:00:00",
+      "album": {
+        "name": "Chucks",
+        "url": "https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 169538,
+      "name": "Chucks",
+      "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
     }
   ],
   "unique_name": "PARTY MODE",

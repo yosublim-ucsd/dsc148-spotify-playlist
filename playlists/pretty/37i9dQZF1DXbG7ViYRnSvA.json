@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 13187,
+  "num_followers": 13222,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWE0MzBhZjVkMTI2ZDJjN2EyYTBjODVhZWMzMDBlZDBmNWVmMmYz",
+  "snapshot_id": "MCw5YjY2MGY5MmY3NjIxNDFhMDNiNzBjYjcxODNhMjcyMzk2NmIxMjFm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Claudine (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 273133,
-      "name": "Make Yours a Happy Home",
-      "url": "https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "NINA REVISITED: A Tribute to Nina Simone",
         "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 399533,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Claudine (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3X3OfEnE7AN9qN5XMvNTzV"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "Make Yours a Happy Home",
+      "url": "https://open.spotify.com/track/2T3i0zEma9oEZMENvnc1vG"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -604,7 +604,7 @@
           "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
         },
         {
-          "name": "Cam\u2019ron",
+          "name": "Cam'ron",
           "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
         },
         {
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Scratch Attack!",
-        "url": "https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk"
-      },
-      "artists": [
-        {
-          "name": "Lee \"Scratch\" Perry",
-          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
-        }
-      ],
-      "duration_ms": 278560,
-      "name": "Blackboard Jungle Dub - Version 1",
-      "url": "https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Holy Ghost Zone",
         "url": "https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 279453,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Scratch Attack!",
+        "url": "https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "duration_ms": 278560,
+      "name": "Blackboard Jungle Dub - Version 1",
+      "url": "https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9"
     },
     {
       "added_at": "2022-10-01 16:00:00",

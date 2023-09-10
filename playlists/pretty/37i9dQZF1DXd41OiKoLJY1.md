@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: AJAA Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,011 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,015 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Love Drunk](https://open.spotify.com/track/5Y91KEv2ayl59beaAl892q) | [Kat Jaranilla](https://open.spotify.com/artist/6jH3n7EE4IYALcTS2bWs3s) | [Love Drunk](https://open.spotify.com/album/4TePh4JOrRahbnKi6JeO13) | 3:59 |
 | 75 | [Di Mawala](https://open.spotify.com/track/6zqHExNIPCPHsCVgt1Iqz2) | [Kwelyo](https://open.spotify.com/artist/4xxffyQ9hr0Jf4Z7wmIKxM) | [Di Mawala](https://open.spotify.com/album/5U1t3udLxHDXjCUv6kxeHb) | 3:43 |
 
-Snapshot ID: `MCwwYTg0MTQwMTg3YWVmYjRjZGQ1NDA2NGU4M2U0NzQyYzNkYTU4ZGRk`
+Snapshot ID: `MCxiZTdhNDJkOWNhYzk1MDgyMzU2YWU3ZjRlZjNiODM3ZTFjNzEyMDg5`

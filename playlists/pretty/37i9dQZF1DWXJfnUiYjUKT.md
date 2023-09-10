@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Cardi B & Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,362 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,404 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [TKO](https://open.spotify.com/track/5V9ri3wZCY3ChAbqxk5Pso) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Suburban Legend](https://open.spotify.com/album/0XBOirwu0hluwBbEb8hdMe) | 3:27 |
 | 100 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
 
-Snapshot ID: `MCwxZDNlMDljM2YwZDljMDNlOGQ5NDA5YzQ4Y2U5MzRiYjE0ODQ4MzUy`
+Snapshot ID: `MCxhZjJjZWQyZTZmMzBkN2EwZjAwN2U3M2IzNWU0N2JjMzcwOGYyOGJj`

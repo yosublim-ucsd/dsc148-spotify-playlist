@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: BIA
 
-443 songs - 18 hr 53 min
+444 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,8 @@
 | [Rich Baby Mama](https://open.spotify.com/track/25zgoxL9MmTCVpWPiN8Lk9) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Rich Baby Mama](https://open.spotify.com/album/7IvVb6HodS1L4ggPZmUQvu) | 2:01 | 2023-06-23 | 2023-07-04 |
 | [Ridgemont Baby](https://open.spotify.com/track/24auUYE1W2wQmHiOqJSBhy) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ridgemont Baby](https://open.spotify.com/album/0v8C3sUbtUgFKBBuQc3nBD) | 2:41 | 2023-03-03 | 2023-05-13 |
 | [Ridin'](https://open.spotify.com/track/6Dmh4KuXLhzqnU2BPTbtB2) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Ridin'](https://open.spotify.com/album/2n7HRnPxZ00DhaoMZTecpU) | 2:50 | 2023-06-16 | 2023-07-22 |
-| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-08 |  |
+| [Roadents](https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII) | 2:17 | 2023-09-08 |  |
+| [Roadents](https://open.spotify.com/track/6czuyuVKrjEOP98W1raHMm) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Roadents](https://open.spotify.com/album/0LrkreJFMqZe9jZR0p6hon) | 2:17 | 2023-09-08 | 2023-09-10 |
 | [Rockstar](https://open.spotify.com/track/2umLJQblRugoWM6qV6afxG) | [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Rockstar](https://open.spotify.com/album/6MtxHrkraKrFtBQIjFrHk5) | 2:24 | 2023-03-03 | 2023-05-27 |
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-03-24 |  |
 | [Rose Gold Stripper Pole](https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Rose Gold Stripper Pole](https://open.spotify.com/album/4r2vHhtN23zIdYTdD0F27s) | 2:11 | 2021-11-05 | 2022-03-18 |
@@ -346,7 +347,7 @@
 | [Run It Back](https://open.spotify.com/track/4fsJOavUqTxwL9D0L52P5o) | [TeeCee Rou’Lette](https://open.spotify.com/artist/6CoZArC7g7pyLeYGoD8M0m), [The ATG](https://open.spotify.com/artist/1twmcEBMYuZFuO5E9Q4cdB) | [Run It Back](https://open.spotify.com/album/0BNNiNHaqc0La71MTRhE4h) | 2:16 | 2023-07-28 | 2023-08-12 |
 | [Sanctioned](https://open.spotify.com/track/1kxT1ORd40GZyw8KvITwAU) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Sanctioned](https://open.spotify.com/album/4gq9eIEzk67n3IHgMMu5gK) | 2:08 | 2022-09-30 | 2022-10-08 |
 | [SANTANNY](https://open.spotify.com/track/7vCLOe1ufpcaq0JS4BTYiU) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Blue/Santanny](https://open.spotify.com/album/08nho3QsVArCSlMQEI6exi) | 2:03 | 2021-11-05 | 2022-03-12 |
-| [Saturday \(feat\. Cozz\)](https://open.spotify.com/track/7lam0WhGxAfl0Ax2wy4hhO) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI) | [Saturday \(feat\. Cozz\)](https://open.spotify.com/album/0jd3Es2wqZlmNw67YArtaw) | 2:34 | 2023-07-28 |  |
+| [Saturday \(feat\. Cozz\)](https://open.spotify.com/track/7lam0WhGxAfl0Ax2wy4hhO) | [NCognita](https://open.spotify.com/artist/5cbFRX9vfBg6rtjN1V0VTI) | [Saturday \(feat\. Cozz\)](https://open.spotify.com/album/0jd3Es2wqZlmNw67YArtaw) | 2:34 | 2023-07-28 | 2023-09-10 |
 | [Scary \(feat\. Rico Nasty\)](https://open.spotify.com/track/0QWauSvdEXExwUUDa4QCsj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:33 | 2022-10-28 | 2023-03-25 |
 | [Seduce & Scheme \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk) | [Shawna & Mia](https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Seduce & Scheme \(RAP SH!T: Soundtrack From The Max Original Series\)](https://open.spotify.com/album/1Vv0VzKUziAaDRqZyJteBh) | 2:24 | 2022-07-29 | 2023-03-25 |
 | [Set The Tone](https://open.spotify.com/track/0MSe6jp83mHI6jqZqoyeZz) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Set The Tone](https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX) | 3:03 | 2022-09-16 | 2022-10-01 |
@@ -403,7 +404,7 @@
 | [Thick and Heavy](https://open.spotify.com/track/2XhODxnDAaEY8qiij4kWkf) | [Narissa](https://open.spotify.com/artist/5bOCbA2WfZgcFQyT64V76q) | [BOSSbae \(Boss Side\)](https://open.spotify.com/album/66WbpYWWQxmodFmj2JJv5e) | 2:32 | 2022-09-30 | 2022-12-10 |
 | [Thief In The Night \(with G Herbo\)](https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:46 | 2022-04-08 | 2022-09-06 |
 | [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 | 2023-05-05 | 2023-09-07 |
-| [This Is New York](https://open.spotify.com/track/1sn4GarhOWPEWaFRBMtaSt) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/3eugYbmPxCM1oGbDTXXkMX) | 2:17 | 2023-08-18 |  |
+| [This Is New York](https://open.spotify.com/track/1sn4GarhOWPEWaFRBMtaSt) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/3eugYbmPxCM1oGbDTXXkMX) | 2:17 | 2023-08-18 |  |
 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 | 2023-05-26 |  |
 | [TMU](https://open.spotify.com/track/633sZMHj2tlc6oKbTVPEPz) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [TMU](https://open.spotify.com/album/14pVzTX0DTUFJ85z5soNFU) | 2:08 | 2021-11-05 | 2022-03-08 |
 | [Tomorrow](https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 1:53 | 2022-07-15 | 2022-09-24 |

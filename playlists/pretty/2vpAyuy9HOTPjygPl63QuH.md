@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,444 likes - 28 songs - 1 hr 32 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,456 likes - 29 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 26 | [Enemy](https://open.spotify.com/track/3RlbnD41ulMKxsWBynmVJZ) | [Rise Of The JellyFish](https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC), [FOOTWURK](https://open.spotify.com/artist/1XrSIbRO5hpc8BhTNJMkXp) | [Enemy](https://open.spotify.com/album/5kv3j8b23eq8xpS1aAxrSq) | 3:21 |
 | 27 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 28 | [Save Me](https://open.spotify.com/track/1bLmjQJ51nSVC5CzKWa3b0) | [Bravetone](https://open.spotify.com/artist/6HLUmL9wto0WP9G8wIoZD7) | [Save Me](https://open.spotify.com/album/5w5lovJONpiaAujUQnZSK8) | 3:39 |
+| 29 | [The Club](https://open.spotify.com/track/18CSj8qKB4YzW2AzYKObdI) | [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [The Club](https://open.spotify.com/album/0M7BMsiueP7bYmYl3Yii8I) | 3:18 |
 
-Snapshot ID: `NzQ5MywzODVmNDgxNzM3YTA0OTQwZWNhZDk0MDk4MzIwZjYyMzUwZDQ4MDBi`
+Snapshot ID: `NzQ5NCwwYjNmNWE0ZTYwY2NhODM3NjJkZjg4YmRhMjI4ODk3M2Q0ODY2ZTY0`

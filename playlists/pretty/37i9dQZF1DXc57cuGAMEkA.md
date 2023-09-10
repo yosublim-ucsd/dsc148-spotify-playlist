@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Olivia Rodrigo, The Rolling Stones, The Chainsmokers, James Blake and more! Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,224 likes - 78 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,304 likes - 78 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 49 | [Vivid Color](https://open.spotify.com/track/66e7muT7OD2xnCmiFOx8G5) | [JiROMAN](https://open.spotify.com/artist/1cv0lAZVmk7NfvCmZFnAoJ), [SYUN](https://open.spotify.com/artist/1WF93AaDkvK8wqzFE7JgBv) | [Vivid Color](https://open.spotify.com/album/5JBLG0LD4C5VQU88BG87zN) | 2:43 |
 | 50 | [Expert](https://open.spotify.com/track/3rohgMC4x9jcwu2GKOgwiK) | [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R) | [Expert](https://open.spotify.com/album/7KJplM4zKQkBM2aqT1TFyD) | 3:33 |
 | 51 | [N.Y.C.T](https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [N.Y.C.T \- NCT LAB](https://open.spotify.com/album/5pa2JvvpufiC2IlKUgbjZQ) | 3:56 |
-| 52 | [Love is Pain](https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [결국 \(Love is Pain\)](https://open.spotify.com/album/09rm6D55oanJigmRYytant) | 3:05 |
+| 52 | [결국 \(Love is Pain\)](https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [결국 \(Love is Pain\)](https://open.spotify.com/album/09rm6D55oanJigmRYytant) | 3:05 |
 | 53 | [Cream \- Take 2](https://open.spotify.com/track/1hhJpNRjoTQYoZCCAOxi7K) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Cream \(Take 2\)](https://open.spotify.com/album/2kU2DazUUil2a08cqDKE2M) | 4:50 |
 | 54 | [Workin' Hard](https://open.spotify.com/track/30KHfXcIfKyiDBojwclxy7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 3:29 |
 | 55 | [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [From Life Comes Beauty \(feat\. Immanuel Wilkins\)](https://open.spotify.com/track/6m2Keu6OoyZHjPxRblCL4X) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [From Life Comes Beauty \(feat\. Immanuel Wilkins\)](https://open.spotify.com/album/4hw52ZE5LjUs0JHqM8hMEg) | 8:29 |
 | 78 | [アラベスク 第1番（フルート＆ピアノ / 萩森英明編曲）](https://open.spotify.com/track/1Y1WEeie6hox4GY2aiLLQ6) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Niu Niu](https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi) | [Debussy: Arabesque No\. 1 \(Arr\. Haginomori for Flute and Piano\)](https://open.spotify.com/album/44B758xgimtAaNnbtc3EVn) | 4:35 |
 
-Snapshot ID: `MCw5OTkzYmQ3MTkzMmZjYzQ1NGM0MmYyYWEyOTA0NTEwOGVjOTk3YWY3`
+Snapshot ID: `MCwzNDBjZmE0ODE5NTkzZDgzOTEzMmUwMzFjNzRhMjgwYzc4YmIzMTNi`

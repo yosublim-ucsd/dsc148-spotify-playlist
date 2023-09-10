@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-10",
       "duration_ms": 232200,
       "name": "Make You Feel My Love (Live at Hotel Cafe)",
       "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
@@ -3720,6 +3720,24 @@
       "duration_ms": 237386,
       "name": "Warwick Avenue - Live",
       "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
+    },
+    {
+      "album": {
+        "name": "Divas En Directo",
+        "url": "https://open.spotify.com/album/4ffR3iBOv3qVty8FmT1bLl"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/7wLfeZcN4HW3qulI8CBNPs"
     },
     {
       "album": {
